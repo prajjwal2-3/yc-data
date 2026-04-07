@@ -6,16 +6,16 @@
   "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/93b1b4fbe4b8807a5770f0fad5c76f3b8685dee9.png",
   "website": "https://riskcube.com",
   "all_locations": "San Francisco, CA, USA",
-  "long_description": "RiskCube helps startups and growing businesses become vendor-ready faster by getting them the insurance they need to sell into enterprise customers, pass procurement, move through onboarding, and meet retail vendor requirements. We use AI-driven workflows and licensed broker review to compare top-rated U.S. carriers and help founders secure D&O, Tech E&O, Cyber, General Liability, Product Liability, and Certificates of Insurance (COIs). We serve AI/SaaS, Space, Fintech and Web3 startups. ",
-  "one_liner": "AI-native commercial insurance broker for startups.",
+  "long_description": "RiskCube helps startups and growing businesses become vendor-ready faster.\r\nWe use AI-driven workflows and licensed broker review to compare top U.S. carriers and deliver the insurance they need to sell into enterprise customers, pass procurement, and close deals quickly.\r\nFounders get D&O, Tech E&O, Cyber, General Liability, Product Liability, and COIs — built for AI/SaaS, Fintech, Space, and Web3 startups creating the future, from Earth today to the Moon tomorrow.",
+  "one_liner": "AI-native insurance broker for startups — from Earth to the Moon.",
   "team_size": 3,
   "industry": "Fintech",
   "subindustry": "Fintech -> Insurance",
   "launched_at": 1731782052,
   "tags": [
+    "Artificial Intelligence",
     "Fintech",
-    "Insurance",
-    "AI"
+    "Insurance"
   ],
   "tags_highlighted": [],
   "top_company": false,

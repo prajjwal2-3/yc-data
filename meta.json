@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-07T17:10:21.463Z",
+  "last_updated": "2026-04-07T17:12:56.821Z",
   "readme": "https://github.com/prajjwal2-3/yc-data",
   "companies": {
     "all": {
@@ -71,7 +71,7 @@
     },
     "ai": {
       "name": "AI",
-      "count": 789,
+      "count": 788,
       "api": "https://prajjwal2-3.github.io/yc-data/tags/ai.json"
     },
     "ai-assistant": {
@@ -161,7 +161,7 @@
     },
     "artificial-intelligence": {
       "name": "Artificial Intelligence",
-      "count": 895,
+      "count": 896,
       "api": "https://prajjwal2-3.github.io/yc-data/tags/artificial-intelligence.json"
     },
     "assistive-tech": {
