@@ -38,7 +38,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/kuna-systems",
-    "api": "https://yc-oss.github.io/api/batches/winter-2014/kuna-systems.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2014/kuna-systems.json"
   },
   {
     "id": 1218,
@@ -77,7 +77,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/whyd",
-    "api": "https://yc-oss.github.io/api/batches/summer-2016/whyd.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2016/whyd.json"
   },
   {
     "id": 1440,
@@ -117,7 +117,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/boxouse",
-    "api": "https://yc-oss.github.io/api/batches/winter-2017/boxouse.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2017/boxouse.json"
   },
   {
     "id": 1807,
@@ -163,7 +163,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/edwin",
-    "api": "https://yc-oss.github.io/api/batches/winter-2018/edwin.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2018/edwin.json"
   },
   {
     "id": 1966,
@@ -206,7 +206,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/happilabs",
-    "api": "https://yc-oss.github.io/api/batches/summer-2018/happilabs.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2018/happilabs.json"
   },
   {
     "id": 12038,
@@ -246,7 +246,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/doorport",
-    "api": "https://yc-oss.github.io/api/batches/winter-2019/doorport.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2019/doorport.json"
   },
   {
     "id": 29763,
@@ -290,6 +290,6 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/piggy-robotics",
-    "api": "https://yc-oss.github.io/api/batches/fall-2025/piggy-robotics.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/fall-2025/piggy-robotics.json"
   }
 ]

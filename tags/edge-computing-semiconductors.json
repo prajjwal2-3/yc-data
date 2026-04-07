@@ -41,7 +41,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/tensil",
-    "api": "https://yc-oss.github.io/api/batches/summer-2019/tensil.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2019/tensil.json"
   },
   {
     "id": 29747,
@@ -83,7 +83,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/deepsilicon",
-    "api": "https://yc-oss.github.io/api/batches/summer-2024/deepsilicon.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2024/deepsilicon.json"
   },
   {
     "id": 30284,
@@ -123,7 +123,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/exla",
-    "api": "https://yc-oss.github.io/api/batches/winter-2025/exla.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2025/exla.json"
   },
   {
     "id": 30676,
@@ -163,6 +163,6 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/stellon-labs",
-    "api": "https://yc-oss.github.io/api/batches/summer-2025/stellon-labs.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2025/stellon-labs.json"
   }
 ]

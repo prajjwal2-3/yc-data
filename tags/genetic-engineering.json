@@ -40,7 +40,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/taxa-biotechnologies",
-    "api": "https://yc-oss.github.io/api/batches/summer-2014/taxa-biotechnologies.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2014/taxa-biotechnologies.json"
   },
   {
     "id": 28794,
@@ -83,6 +83,6 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/ohmic-biosciences",
-    "api": "https://yc-oss.github.io/api/batches/summer-2023/ohmic-biosciences.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2023/ohmic-biosciences.json"
   }
 ]

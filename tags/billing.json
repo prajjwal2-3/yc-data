@@ -42,7 +42,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/lago",
-    "api": "https://yc-oss.github.io/api/batches/summer-2021/lago.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2021/lago.json"
   },
   {
     "id": 25644,
@@ -85,7 +85,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/kable",
-    "api": "https://yc-oss.github.io/api/batches/winter-2022/kable.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2022/kable.json"
   },
   {
     "id": 28869,
@@ -128,7 +128,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/health-harbor",
-    "api": "https://yc-oss.github.io/api/batches/summer-2023/health-harbor.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2023/health-harbor.json"
   },
   {
     "id": 28890,
@@ -175,7 +175,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/decoda-health",
-    "api": "https://yc-oss.github.io/api/batches/summer-2023/decoda-health.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2023/decoda-health.json"
   },
   {
     "id": 29085,
@@ -220,7 +220,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/quill-bills",
-    "api": "https://yc-oss.github.io/api/batches/summer-2023/quill-bills.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2023/quill-bills.json"
   },
   {
     "id": 29702,
@@ -261,7 +261,7 @@
     "app_answers": null,
     "question_answers": true,
     "url": "https://www.ycombinator.com/companies/ledgerup",
-    "api": "https://yc-oss.github.io/api/batches/summer-2024/ledgerup.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2024/ledgerup.json"
   },
   {
     "id": 30807,
@@ -305,6 +305,6 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/paloma",
-    "api": "https://yc-oss.github.io/api/batches/summer-2025/paloma.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2025/paloma.json"
   }
 ]

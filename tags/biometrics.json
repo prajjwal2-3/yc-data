@@ -39,7 +39,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/north",
-    "api": "https://yc-oss.github.io/api/batches/winter-2013/north.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2013/north.json"
   },
   {
     "id": 721,
@@ -79,7 +79,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/whirl",
-    "api": "https://yc-oss.github.io/api/batches/summer-2014/whirl.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2014/whirl.json"
   },
   {
     "id": 1483,
@@ -124,7 +124,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/entry",
-    "api": "https://yc-oss.github.io/api/batches/winter-2017/entry.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2017/entry.json"
   },
   {
     "id": 22319,
@@ -170,7 +170,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/siphox-health",
-    "api": "https://yc-oss.github.io/api/batches/summer-2020/siphox-health.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2020/siphox-health.json"
   },
   {
     "id": 24139,
@@ -216,7 +216,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/reprosent",
-    "api": "https://yc-oss.github.io/api/batches/summer-2021/reprosent.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2021/reprosent.json"
   },
   {
     "id": 25357,
@@ -261,7 +261,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/peakpath",
-    "api": "https://yc-oss.github.io/api/batches/winter-2022/peakpath.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2022/peakpath.json"
   },
   {
     "id": 30925,
@@ -305,6 +305,6 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/play-health",
-    "api": "https://yc-oss.github.io/api/batches/fall-2025/play-health.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/fall-2025/play-health.json"
   }
 ]

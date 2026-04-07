@@ -36,7 +36,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/playment",
-    "api": "https://yc-oss.github.io/api/batches/winter-2017/playment.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2017/playment.json"
   },
   {
     "id": 1899,
@@ -80,7 +80,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/dinesafe",
-    "api": "https://yc-oss.github.io/api/batches/summer-2018/dinesafe.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2018/dinesafe.json"
   },
   {
     "id": 11948,
@@ -126,7 +126,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/centaur",
-    "api": "https://yc-oss.github.io/api/batches/winter-2019/centaur.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2019/centaur.json"
   },
   {
     "id": 30637,
@@ -170,6 +170,6 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/design-arena",
-    "api": "https://yc-oss.github.io/api/batches/summer-2025/design-arena.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2025/design-arena.json"
   }
 ]

@@ -37,7 +37,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/devcolor",
-    "api": "https://yc-oss.github.io/api/batches/winter-2016/devcolor.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2016/devcolor.json"
   },
   {
     "id": 1787,
@@ -80,7 +80,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/tequitable",
-    "api": "https://yc-oss.github.io/api/batches/winter-2018/tequitable.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2018/tequitable.json"
   },
   {
     "id": 13335,
@@ -125,6 +125,6 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/kosh",
-    "api": "https://yc-oss.github.io/api/batches/winter-2020/kosh.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2020/kosh.json"
   }
 ]

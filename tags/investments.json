@@ -41,7 +41,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/interprime",
-    "api": "https://yc-oss.github.io/api/batches/winter-2019/interprime.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2019/interprime.json"
   },
   {
     "id": 24194,
@@ -84,7 +84,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/aqua",
-    "api": "https://yc-oss.github.io/api/batches/summer-2021/aqua.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2021/aqua.json"
   },
   {
     "id": 25360,
@@ -133,7 +133,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/pursuit-2",
-    "api": "https://yc-oss.github.io/api/batches/winter-2022/pursuit-2.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2022/pursuit-2.json"
   },
   {
     "id": 28421,
@@ -178,7 +178,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/metal-2",
-    "api": "https://yc-oss.github.io/api/batches/winter-2023/metal-2.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2023/metal-2.json"
   },
   {
     "id": 29398,
@@ -226,7 +226,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/prosights",
-    "api": "https://yc-oss.github.io/api/batches/winter-2024/prosights.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2024/prosights.json"
   },
   {
     "id": 31007,
@@ -268,6 +268,6 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/zarna",
-    "api": "https://yc-oss.github.io/api/batches/fall-2025/zarna.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/fall-2025/zarna.json"
   }
 ]

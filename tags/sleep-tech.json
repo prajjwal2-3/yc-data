@@ -37,7 +37,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/wink-health",
-    "api": "https://yc-oss.github.io/api/batches/winter-2015/wink-health.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2015/wink-health.json"
   },
   {
     "id": 845,
@@ -77,7 +77,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/lully",
-    "api": "https://yc-oss.github.io/api/batches/winter-2015/lully.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2015/lully.json"
   },
   {
     "id": 1455,
@@ -124,7 +124,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/sleep-reset",
-    "api": "https://yc-oss.github.io/api/batches/winter-2017/sleep-reset.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2017/sleep-reset.json"
   },
   {
     "id": 1772,
@@ -163,7 +163,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/tingles",
-    "api": "https://yc-oss.github.io/api/batches/winter-2018/tingles.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2018/tingles.json"
   },
   {
     "id": 1802,
@@ -212,7 +212,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/evolve-makers-of-podcast-app-and-rest-ai",
-    "api": "https://yc-oss.github.io/api/batches/winter-2018/evolve-makers-of-podcast-app-and-rest-ai.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2018/evolve-makers-of-podcast-app-and-rest-ai.json"
   },
   {
     "id": 12090,
@@ -259,7 +259,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/hypnos",
-    "api": "https://yc-oss.github.io/api/batches/winter-2019/hypnos.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2019/hypnos.json"
   },
   {
     "id": 23633,
@@ -303,7 +303,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/chorus-sleep",
-    "api": "https://yc-oss.github.io/api/batches/winter-2021/chorus-sleep.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2021/chorus-sleep.json"
   },
   {
     "id": 24058,
@@ -348,7 +348,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/zeit-medical",
-    "api": "https://yc-oss.github.io/api/batches/summer-2021/zeit-medical.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2021/zeit-medical.json"
   },
   {
     "id": 24875,
@@ -391,6 +391,6 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/equipt-health",
-    "api": "https://yc-oss.github.io/api/batches/summer-2021/equipt-health.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2021/equipt-health.json"
   }
 ]

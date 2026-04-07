@@ -40,7 +40,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/modal",
-    "api": "https://yc-oss.github.io/api/batches/winter-2016/modal.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2016/modal.json"
   },
   {
     "id": 12244,
@@ -82,7 +82,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/kovi",
-    "api": "https://yc-oss.github.io/api/batches/winter-2019/kovi.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2019/kovi.json"
   },
   {
     "id": 13674,
@@ -125,7 +125,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/carupi",
-    "api": "https://yc-oss.github.io/api/batches/winter-2020/carupi.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2020/carupi.json"
   },
   {
     "id": 24915,
@@ -168,7 +168,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/mecho-autotech",
-    "api": "https://yc-oss.github.io/api/batches/summer-2021/mecho-autotech.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2021/mecho-autotech.json"
   },
   {
     "id": 27054,
@@ -215,6 +215,6 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/ekho",
-    "api": "https://yc-oss.github.io/api/batches/summer-2022/ekho.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2022/ekho.json"
   }
 ]

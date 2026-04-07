@@ -36,7 +36,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/tilt",
-    "api": "https://yc-oss.github.io/api/batches/winter-2012/tilt.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2012/tilt.json"
   },
   {
     "id": 444,
@@ -78,7 +78,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/backerkit",
-    "api": "https://yc-oss.github.io/api/batches/summer-2012/backerkit.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2012/backerkit.json"
   },
   {
     "id": 454,
@@ -122,7 +122,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/celery",
-    "api": "https://yc-oss.github.io/api/batches/summer-2012/celery.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2012/celery.json"
   },
   {
     "id": 497,
@@ -164,7 +164,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/experiment",
-    "api": "https://yc-oss.github.io/api/batches/winter-2013/experiment.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2013/experiment.json"
   },
   {
     "id": 516,
@@ -205,7 +205,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/watsi",
-    "api": "https://yc-oss.github.io/api/batches/winter-2013/watsi.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2013/watsi.json"
   },
   {
     "id": 633,
@@ -249,7 +249,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/zidisha",
-    "api": "https://yc-oss.github.io/api/batches/winter-2014/zidisha.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2014/zidisha.json"
   },
   {
     "id": 668,
@@ -291,7 +291,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/owners-circle",
-    "api": "https://yc-oss.github.io/api/batches/summer-2014/owners-circle.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2014/owners-circle.json"
   },
   {
     "id": 736,
@@ -331,7 +331,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/sliced-investing",
-    "api": "https://yc-oss.github.io/api/batches/summer-2014/sliced-investing.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2014/sliced-investing.json"
   },
   {
     "id": 761,
@@ -373,6 +373,6 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/the-human-utility",
-    "api": "https://yc-oss.github.io/api/batches/winter-2015/the-human-utility.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2015/the-human-utility.json"
   }
 ]

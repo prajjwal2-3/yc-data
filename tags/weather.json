@@ -37,7 +37,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/weathercheck",
-    "api": "https://yc-oss.github.io/api/batches/winter-2019/weathercheck.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2019/weathercheck.json"
   },
   {
     "id": 13522,
@@ -87,7 +87,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/atmo",
-    "api": "https://yc-oss.github.io/api/batches/winter-2020/atmo.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2020/atmo.json"
   },
   {
     "id": 22870,
@@ -130,6 +130,6 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/care-weather",
-    "api": "https://yc-oss.github.io/api/batches/winter-2021/care-weather.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2021/care-weather.json"
   }
 ]

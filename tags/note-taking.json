@@ -37,7 +37,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/workflowy",
-    "api": "https://yc-oss.github.io/api/batches/summer-2010/workflowy.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2010/workflowy.json"
   },
   {
     "id": 22260,
@@ -79,7 +79,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/clover",
-    "api": "https://yc-oss.github.io/api/batches/summer-2020/clover.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2020/clover.json"
   },
   {
     "id": 26033,
@@ -125,7 +125,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/heptabase",
-    "api": "https://yc-oss.github.io/api/batches/winter-2022/heptabase.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2022/heptabase.json"
   },
   {
     "id": 30694,
@@ -167,6 +167,6 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/epicenter",
-    "api": "https://yc-oss.github.io/api/batches/summer-2025/epicenter.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2025/epicenter.json"
   }
 ]

@@ -38,7 +38,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/trexo-robotics",
-    "api": "https://yc-oss.github.io/api/batches/winter-2019/trexo-robotics.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2019/trexo-robotics.json"
   },
   {
     "id": 12632,
@@ -82,7 +82,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/zeta-surgical",
-    "api": "https://yc-oss.github.io/api/batches/summer-2019/zeta-surgical.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2019/zeta-surgical.json"
   },
   {
     "id": 24926,
@@ -123,7 +123,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/revolve-surgical",
-    "api": "https://yc-oss.github.io/api/batches/summer-2021/revolve-surgical.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2021/revolve-surgical.json"
   },
   {
     "id": 26806,
@@ -168,7 +168,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/illuminant-surgical",
-    "api": "https://yc-oss.github.io/api/batches/summer-2022/illuminant-surgical.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2022/illuminant-surgical.json"
   },
   {
     "id": 29008,
@@ -211,6 +211,6 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/andromeda-surgical",
-    "api": "https://yc-oss.github.io/api/batches/summer-2023/andromeda-surgical.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2023/andromeda-surgical.json"
   }
 ]

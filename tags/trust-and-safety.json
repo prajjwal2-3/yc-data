@@ -42,7 +42,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/cinder-2",
-    "api": "https://yc-oss.github.io/api/batches/winter-2022/cinder-2.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2022/cinder-2.json"
   },
   {
     "id": 29000,
@@ -82,6 +82,6 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/safetykit",
-    "api": "https://yc-oss.github.io/api/batches/summer-2023/safetykit.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2023/safetykit.json"
   }
 ]

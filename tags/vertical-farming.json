@@ -42,7 +42,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/thrive-agritech",
-    "api": "https://yc-oss.github.io/api/batches/summer-2015/thrive-agritech.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2015/thrive-agritech.json"
   },
   {
     "id": 1730,
@@ -85,7 +85,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/beanstalk",
-    "api": "https://yc-oss.github.io/api/batches/winter-2018/beanstalk.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2018/beanstalk.json"
   },
   {
     "id": 13346,
@@ -126,6 +126,6 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/urbankisaan",
-    "api": "https://yc-oss.github.io/api/batches/winter-2020/urbankisaan.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2020/urbankisaan.json"
   }
 ]

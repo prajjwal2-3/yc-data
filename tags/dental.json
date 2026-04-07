@@ -40,7 +40,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/onederful",
-    "api": "https://yc-oss.github.io/api/batches/winter-2018/onederful.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2018/onederful.json"
   },
   {
     "id": 29288,
@@ -85,7 +85,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/arini",
-    "api": "https://yc-oss.github.io/api/batches/winter-2024/arini.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2024/arini.json"
   },
   {
     "id": 30218,
@@ -132,7 +132,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/toothy-ai",
-    "api": "https://yc-oss.github.io/api/batches/winter-2025/toothy-ai.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2025/toothy-ai.json"
   },
   {
     "id": 30727,
@@ -173,6 +173,6 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/alara",
-    "api": "https://yc-oss.github.io/api/batches/summer-2025/alara.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2025/alara.json"
   }
 ]

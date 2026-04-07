@@ -42,7 +42,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/snapdocs",
-    "api": "https://yc-oss.github.io/api/batches/winter-2014/snapdocs.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2014/snapdocs.json"
   },
   {
     "id": 1077,
@@ -81,7 +81,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/index-2",
-    "api": "https://yc-oss.github.io/api/batches/winter-2016/index-2.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2016/index-2.json"
   },
   {
     "id": 1841,
@@ -121,7 +121,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/zyper",
-    "api": "https://yc-oss.github.io/api/batches/winter-2018/zyper.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2018/zyper.json"
   },
   {
     "id": 30665,
@@ -166,6 +166,6 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/pangolin",
-    "api": "https://yc-oss.github.io/api/batches/summer-2025/pangolin.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2025/pangolin.json"
   }
 ]

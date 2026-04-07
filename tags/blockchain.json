@@ -39,7 +39,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/serica",
-    "api": "https://yc-oss.github.io/api/batches/summer-2015/serica.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2015/serica.json"
   },
   {
     "id": 1648,
@@ -79,6 +79,6 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/surematics",
-    "api": "https://yc-oss.github.io/api/batches/summer-2017/surematics.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2017/surematics.json"
   }
 ]

@@ -41,7 +41,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/replika",
-    "api": "https://yc-oss.github.io/api/batches/winter-2015/replika.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2015/replika.json"
   },
   {
     "id": 12619,
@@ -88,7 +88,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/mindset-health",
-    "api": "https://yc-oss.github.io/api/batches/summer-2019/mindset-health.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2019/mindset-health.json"
   },
   {
     "id": 12725,
@@ -132,7 +132,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/docvita",
-    "api": "https://yc-oss.github.io/api/batches/winter-2020/docvita.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2020/docvita.json"
   },
   {
     "id": 21860,
@@ -180,7 +180,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/synapticure",
-    "api": "https://yc-oss.github.io/api/batches/summer-2020/synapticure.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2020/synapticure.json"
   },
   {
     "id": 22334,
@@ -223,7 +223,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/gilgamesh-pharmaceuticals",
-    "api": "https://yc-oss.github.io/api/batches/summer-2020/gilgamesh-pharmaceuticals.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2020/gilgamesh-pharmaceuticals.json"
   },
   {
     "id": 23636,
@@ -269,7 +269,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/r-care",
-    "api": "https://yc-oss.github.io/api/batches/winter-2021/r-care.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2021/r-care.json"
   },
   {
     "id": 23946,
@@ -314,7 +314,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/legion-health",
-    "api": "https://yc-oss.github.io/api/batches/summer-2021/legion-health.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2021/legion-health.json"
   },
   {
     "id": 24353,
@@ -359,7 +359,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/intellect",
-    "api": "https://yc-oss.github.io/api/batches/summer-2021/intellect.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2021/intellect.json"
   },
   {
     "id": 29828,
@@ -406,7 +406,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/sterling-labs-inc",
-    "api": "https://yc-oss.github.io/api/batches/summer-2024/sterling-labs-inc.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2024/sterling-labs-inc.json"
   },
   {
     "id": 30778,
@@ -448,6 +448,6 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/perspectives-health",
-    "api": "https://yc-oss.github.io/api/batches/summer-2025/perspectives-health.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2025/perspectives-health.json"
   }
 ]

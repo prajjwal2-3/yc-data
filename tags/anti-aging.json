@@ -36,7 +36,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/forever-labs",
-    "api": "https://yc-oss.github.io/api/batches/summer-2017/forever-labs.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2017/forever-labs.json"
   },
   {
     "id": 2016,
@@ -75,7 +75,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/dnovo",
-    "api": "https://yc-oss.github.io/api/batches/summer-2018/dnovo.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2018/dnovo.json"
   },
   {
     "id": 2027,
@@ -118,7 +118,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/dorian-therapeutics",
-    "api": "https://yc-oss.github.io/api/batches/summer-2018/dorian-therapeutics.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2018/dorian-therapeutics.json"
   },
   {
     "id": 2028,
@@ -164,7 +164,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/rejuvenation-technologies-inc",
-    "api": "https://yc-oss.github.io/api/batches/summer-2018/rejuvenation-technologies-inc.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2018/rejuvenation-technologies-inc.json"
   },
   {
     "id": 22659,
@@ -204,7 +204,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/lygg",
-    "api": "https://yc-oss.github.io/api/batches/winter-2021/lygg.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2021/lygg.json"
   },
   {
     "id": 23264,
@@ -251,7 +251,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/eat-blueprint",
-    "api": "https://yc-oss.github.io/api/batches/winter-2021/eat-blueprint.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2021/eat-blueprint.json"
   },
   {
     "id": 24795,
@@ -298,6 +298,6 @@
     "app_answers": true,
     "question_answers": true,
     "url": "https://www.ycombinator.com/companies/sfa-therapeutics-inc",
-    "api": "https://yc-oss.github.io/api/batches/summer-2021/sfa-therapeutics-inc.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2021/sfa-therapeutics-inc.json"
   }
 ]

@@ -109,7 +109,7 @@ const results = companies.map((hit) => {
   return {
     ...hit,
     url: `https://www.ycombinator.com/companies/${hit.slug}`,
-    api: `https://yc-oss.github.io/api/batches/${slugify(
+    api: `https://prajjwal2-3.github.io/yc-data/batches/${slugify(
       hit.batch ?? "Unspecified",
       {
         lower: true,
@@ -126,7 +126,7 @@ const meta: Record<
     all: {
       name: "All launched companies",
       count: results.length,
-      api: "https://yc-oss.github.io/api/companies/all.json",
+      api: "https://prajjwal2-3.github.io/yc-data/companies/all.json",
     },
   },
   tags: {},
@@ -145,7 +145,7 @@ const uniqueTags = Array.from(new Set(results.flatMap((result) => result.tags)))
     return {
       name: tag,
       slug,
-      api: `https://yc-oss.github.io/api/tags/${slug}.json`,
+      api: `https://prajjwal2-3.github.io/yc-data/tags/${slug}.json`,
     };
   })
   .sort((a, b) => a.name.localeCompare(b.name));
@@ -173,7 +173,7 @@ const uniqueIndustries = Array.from(
     return {
       name: industry,
       slug,
-      api: `https://yc-oss.github.io/api/industries/${slug}.json`,
+      api: `https://prajjwal2-3.github.io/yc-data/industries/${slug}.json`,
     };
   })
   .sort((a, b) => a.name.localeCompare(b.name));
@@ -199,7 +199,7 @@ const uniqueBatches = Array.from(new Set(results.map((result) => result.batch)))
     return {
       name: batch,
       slug,
-      api: `https://yc-oss.github.io/api/batches/${slug}.json`,
+      api: `https://prajjwal2-3.github.io/yc-data/batches/${slug}.json`,
     };
   })
   .sort((a, b) => {
@@ -269,7 +269,7 @@ for (const { key, slug, name } of [
   meta.companies[slug] = {
     name,
     count: filteredResults.length,
-    api: `https://yc-oss.github.io/api/companies/${slug}.json`,
+    api: `https://prajjwal2-3.github.io/yc-data/companies/${slug}.json`,
   };
 }
 
@@ -290,7 +290,7 @@ for (const company of results) {
 const existingMeta = JSON.parse(await Deno.readTextFile("meta.json"));
 const newMeta = {
   last_updated: new Date().toISOString(),
-  readme: "https://github.com/yc-oss/api",
+  readme: "https://github.com/prajjwal2-3/yc-data",
   ...meta,
 };
 
@@ -311,7 +311,7 @@ if (hasChanges) {
   let text = `<!--start generated readme-->\n`;
 
   text += `\n## ℹ️ Metadata\n\n`;
-  text += `API endpoint: https://yc-oss.github.io/api/meta.json\n\n`;
+  text += `API endpoint: https://prajjwal2-3.github.io/yc-data/meta.json\n\n`;
   text += `- Last updated: ${new Date().toLocaleString("en-US", {
     dateStyle: "long",
     timeStyle: "short",
@@ -325,24 +325,24 @@ if (hasChanges) {
 
   text += `\n### 🏢 Companies\n\n| List of companies | API endpoint |\n| --------------- | ------------ |\n`;
   for (const slug of Object.keys(meta.companies)) {
-    text += `| ${meta.companies[slug].name} | https://yc-oss.github.io/api/companies/${slug}.json |\n`;
+    text += `| ${meta.companies[slug].name} | https://prajjwal2-3.github.io/yc-data/companies/${slug}.json |\n`;
   }
 
   text += `\n### 🎓 Batches\n\n<details>\n<summary>Companies per batch</summary>\n\n| Batch | Count | API endpoint |\n| ---- | ---- | ------------ |\n`;
   for (const slug of Object.keys(meta.batches)) {
-    text += `| ${meta.batches[slug].name} | ${meta.batches[slug].count} | https://yc-oss.github.io/api/batches/${slug}.json |\n`;
+    text += `| ${meta.batches[slug].name} | ${meta.batches[slug].count} | https://prajjwal2-3.github.io/yc-data/batches/${slug}.json |\n`;
   }
   text += `</details>\n`;
 
   text += `\n### 🏭 Industries\n\n<details>\n<summary>Companies per industry</summary>\n\n| Industry | Count | API endpoint |\n| -------- | ---- | ------------ |\n`;
   for (const slug of Object.keys(meta.industries)) {
-    text += `| ${meta.industries[slug].name} | ${meta.industries[slug].count} | https://yc-oss.github.io/api/industries/${slug}.json |\n`;
+    text += `| ${meta.industries[slug].name} | ${meta.industries[slug].count} | https://prajjwal2-3.github.io/yc-data/industries/${slug}.json |\n`;
   }
   text += `</details>\n`;
 
   text += `\n### 🏷️ Tags\n\n<details>\n<summary>Companies per tag</summary>\n\n| Tag | Count | API endpoint |\n| --- | ---- | ------------ |\n`;
   for (const slug of Object.keys(meta.tags)) {
-    text += `| ${meta.tags[slug].name} | ${meta.tags[slug].count} | https://yc-oss.github.io/api/tags/${slug}.json |\n`;
+    text += `| ${meta.tags[slug].name} | ${meta.tags[slug].count} | https://prajjwal2-3.github.io/yc-data/tags/${slug}.json |\n`;
   }
   text += `</details>\n`;
 

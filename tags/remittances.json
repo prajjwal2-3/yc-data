@@ -40,7 +40,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/neema",
-    "api": "https://yc-oss.github.io/api/batches/winter-2017/neema.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2017/neema.json"
   },
   {
     "id": 12008,
@@ -88,7 +88,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/swadesh",
-    "api": "https://yc-oss.github.io/api/batches/summer-2019/swadesh.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2019/swadesh.json"
   },
   {
     "id": 22152,
@@ -130,7 +130,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/afriex",
-    "api": "https://yc-oss.github.io/api/batches/summer-2020/afriex.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2020/afriex.json"
   },
   {
     "id": 25776,
@@ -176,7 +176,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/partna",
-    "api": "https://yc-oss.github.io/api/batches/winter-2022/partna.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2022/partna.json"
   },
   {
     "id": 29153,
@@ -221,7 +221,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/coba",
-    "api": "https://yc-oss.github.io/api/batches/summer-2023/coba.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2023/coba.json"
   },
   {
     "id": 29465,
@@ -271,6 +271,6 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/polar",
-    "api": "https://yc-oss.github.io/api/batches/winter-2024/polar.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2024/polar.json"
   }
 ]

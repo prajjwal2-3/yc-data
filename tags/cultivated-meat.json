@@ -42,7 +42,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/the-good-food-institute",
-    "api": "https://yc-oss.github.io/api/batches/summer-2018/the-good-food-institute.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2018/the-good-food-institute.json"
   },
   {
     "id": 12241,
@@ -84,6 +84,6 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/shiok-meats",
-    "api": "https://yc-oss.github.io/api/batches/winter-2019/shiok-meats.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2019/shiok-meats.json"
   }
 ]

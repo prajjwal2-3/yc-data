@@ -42,7 +42,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/carbic",
-    "api": "https://yc-oss.github.io/api/batches/winter-2016/carbic.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2016/carbic.json"
   },
   {
     "id": 12275,
@@ -84,7 +84,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/workclout",
-    "api": "https://yc-oss.github.io/api/batches/winter-2019/workclout.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2019/workclout.json"
   },
   {
     "id": 12865,
@@ -132,7 +132,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/blockstamp",
-    "api": "https://yc-oss.github.io/api/batches/summer-2019/blockstamp.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2019/blockstamp.json"
   },
   {
     "id": 24444,
@@ -175,6 +175,6 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/protex-ai",
-    "api": "https://yc-oss.github.io/api/batches/summer-2021/protex-ai.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2021/protex-ai.json"
   }
 ]

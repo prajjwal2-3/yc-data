@@ -36,7 +36,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/plangrid",
-    "api": "https://yc-oss.github.io/api/batches/winter-2012/plangrid.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2012/plangrid.json"
   },
   {
     "id": 479,
@@ -78,7 +78,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/buildzoom",
-    "api": "https://yc-oss.github.io/api/batches/winter-2013/buildzoom.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2013/buildzoom.json"
   },
   {
     "id": 797,
@@ -126,7 +126,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/resolve",
-    "api": "https://yc-oss.github.io/api/batches/winter-2015/resolve.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2015/resolve.json"
   },
   {
     "id": 809,
@@ -169,7 +169,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/equipmentshare",
-    "api": "https://yc-oss.github.io/api/batches/winter-2015/equipmentshare.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2015/equipmentshare.json"
   },
   {
     "id": 881,
@@ -208,7 +208,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/vernox",
-    "api": "https://yc-oss.github.io/api/batches/summer-2015/vernox.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2015/vernox.json"
   },
   {
     "id": 1185,
@@ -248,7 +248,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/smartsite",
-    "api": "https://yc-oss.github.io/api/batches/summer-2016/smartsite.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2016/smartsite.json"
   },
   {
     "id": 1265,
@@ -293,7 +293,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/bulldozair",
-    "api": "https://yc-oss.github.io/api/batches/summer-2016/bulldozair.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2016/bulldozair.json"
   },
   {
     "id": 1593,
@@ -339,7 +339,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/x3-builders",
-    "api": "https://yc-oss.github.io/api/batches/summer-2017/x3-builders.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2017/x3-builders.json"
   },
   {
     "id": 1602,
@@ -382,7 +382,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/upcodes",
-    "api": "https://yc-oss.github.io/api/batches/summer-2017/upcodes.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2017/upcodes.json"
   },
   {
     "id": 1608,
@@ -427,7 +427,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/roofr",
-    "api": "https://yc-oss.github.io/api/batches/summer-2017/roofr.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2017/roofr.json"
   },
   {
     "id": 1754,
@@ -470,7 +470,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/mighty-buildings",
-    "api": "https://yc-oss.github.io/api/batches/winter-2018/mighty-buildings.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2018/mighty-buildings.json"
   },
   {
     "id": 1990,
@@ -516,7 +516,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/tenderd",
-    "api": "https://yc-oss.github.io/api/batches/summer-2018/tenderd.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2018/tenderd.json"
   },
   {
     "id": 11929,
@@ -565,7 +565,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/pippin-rent-the-backyard",
-    "api": "https://yc-oss.github.io/api/batches/summer-2019/pippin-rent-the-backyard.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2019/pippin-rent-the-backyard.json"
   },
   {
     "id": 12043,
@@ -609,7 +609,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/handle-com",
-    "api": "https://yc-oss.github.io/api/batches/winter-2019/handle-com.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2019/handle-com.json"
   },
   {
     "id": 12547,
@@ -656,7 +656,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/buildstream",
-    "api": "https://yc-oss.github.io/api/batches/summer-2019/buildstream.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2019/buildstream.json"
   },
   {
     "id": 12646,
@@ -700,7 +700,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/downtobid",
-    "api": "https://yc-oss.github.io/api/batches/summer-2019/downtobid.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2019/downtobid.json"
   },
   {
     "id": 12850,
@@ -745,7 +745,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/curri",
-    "api": "https://yc-oss.github.io/api/batches/summer-2019/curri.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2019/curri.json"
   },
   {
     "id": 13090,
@@ -787,7 +787,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/ladder",
-    "api": "https://yc-oss.github.io/api/batches/summer-2020/ladder.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2020/ladder.json"
   },
   {
     "id": 13121,
@@ -834,7 +834,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/handoff",
-    "api": "https://yc-oss.github.io/api/batches/winter-2020/handoff.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2020/handoff.json"
   },
   {
     "id": 13348,
@@ -879,7 +879,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/pillarplus",
-    "api": "https://yc-oss.github.io/api/batches/winter-2020/pillarplus.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2020/pillarplus.json"
   },
   {
     "id": 21896,
@@ -926,7 +926,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/tangobuilder",
-    "api": "https://yc-oss.github.io/api/batches/summer-2020/tangobuilder.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2020/tangobuilder.json"
   },
   {
     "id": 21969,
@@ -973,7 +973,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/nextera-robotics",
-    "api": "https://yc-oss.github.io/api/batches/summer-2020/nextera-robotics.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2020/nextera-robotics.json"
   },
   {
     "id": 21984,
@@ -1016,7 +1016,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/oico",
-    "api": "https://yc-oss.github.io/api/batches/summer-2020/oico.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2020/oico.json"
   },
   {
     "id": 23121,
@@ -1063,7 +1063,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/botbuilt",
-    "api": "https://yc-oss.github.io/api/batches/winter-2021/botbuilt.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2021/botbuilt.json"
   },
   {
     "id": 23327,
@@ -1107,7 +1107,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/machine26",
-    "api": "https://yc-oss.github.io/api/batches/winter-2021/machine26.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2021/machine26.json"
   },
   {
     "id": 23461,
@@ -1149,7 +1149,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/outfit",
-    "api": "https://yc-oss.github.io/api/batches/winter-2021/outfit.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2021/outfit.json"
   },
   {
     "id": 23599,
@@ -1192,7 +1192,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/shepherd",
-    "api": "https://yc-oss.github.io/api/batches/winter-2021/shepherd.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2021/shepherd.json"
   },
   {
     "id": 24152,
@@ -1236,7 +1236,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/rendalomaq",
-    "api": "https://yc-oss.github.io/api/batches/summer-2021/rendalomaq.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2021/rendalomaq.json"
   },
   {
     "id": 24347,
@@ -1281,7 +1281,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/truss",
-    "api": "https://yc-oss.github.io/api/batches/summer-2021/truss.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2021/truss.json"
   },
   {
     "id": 24580,
@@ -1325,7 +1325,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/onsite-pro",
-    "api": "https://yc-oss.github.io/api/batches/summer-2021/onsite-pro.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2021/onsite-pro.json"
   },
   {
     "id": 24873,
@@ -1367,7 +1367,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/charge-robotics",
-    "api": "https://yc-oss.github.io/api/batches/summer-2021/charge-robotics.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2021/charge-robotics.json"
   },
   {
     "id": 25267,
@@ -1408,7 +1408,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/tigereye",
-    "api": "https://yc-oss.github.io/api/batches/summer-2022/tigereye.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2022/tigereye.json"
   },
   {
     "id": 25273,
@@ -1453,7 +1453,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/agave",
-    "api": "https://yc-oss.github.io/api/batches/winter-2022/agave.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2022/agave.json"
   },
   {
     "id": 25318,
@@ -1506,7 +1506,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/wereno",
-    "api": "https://yc-oss.github.io/api/batches/winter-2022/wereno.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2022/wereno.json"
   },
   {
     "id": 25572,
@@ -1553,7 +1553,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/rdash",
-    "api": "https://yc-oss.github.io/api/batches/winter-2022/rdash.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2022/rdash.json"
   },
   {
     "id": 25647,
@@ -1597,7 +1597,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/permitflow",
-    "api": "https://yc-oss.github.io/api/batches/winter-2022/permitflow.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2022/permitflow.json"
   },
   {
     "id": 25782,
@@ -1640,7 +1640,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/carbon-crusher",
-    "api": "https://yc-oss.github.io/api/batches/winter-2022/carbon-crusher.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2022/carbon-crusher.json"
   },
   {
     "id": 25810,
@@ -1680,7 +1680,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/material-depot",
-    "api": "https://yc-oss.github.io/api/batches/winter-2022/material-depot.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2022/material-depot.json"
   },
   {
     "id": 25965,
@@ -1724,7 +1724,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/vobi",
-    "api": "https://yc-oss.github.io/api/batches/winter-2022/vobi.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2022/vobi.json"
   },
   {
     "id": 26138,
@@ -1770,7 +1770,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/korrai",
-    "api": "https://yc-oss.github.io/api/batches/winter-2022/korrai.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2022/korrai.json"
   },
   {
     "id": 26190,
@@ -1814,7 +1814,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/hippobuild",
-    "api": "https://yc-oss.github.io/api/batches/winter-2022/hippobuild.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2022/hippobuild.json"
   },
   {
     "id": 26268,
@@ -1859,7 +1859,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/remi",
-    "api": "https://yc-oss.github.io/api/batches/winter-2022/remi.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2022/remi.json"
   },
   {
     "id": 26863,
@@ -1902,7 +1902,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/provision",
-    "api": "https://yc-oss.github.io/api/batches/summer-2022/provision.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2022/provision.json"
   },
   {
     "id": 27268,
@@ -1943,7 +1943,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/materee",
-    "api": "https://yc-oss.github.io/api/batches/summer-2022/materee.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2022/materee.json"
   },
   {
     "id": 28019,
@@ -1989,7 +1989,7 @@
     "app_answers": null,
     "question_answers": true,
     "url": "https://www.ycombinator.com/companies/inbuild",
-    "api": "https://yc-oss.github.io/api/batches/winter-2023/inbuild.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2023/inbuild.json"
   },
   {
     "id": 28070,
@@ -2032,7 +2032,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/clad",
-    "api": "https://yc-oss.github.io/api/batches/winter-2023/clad.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2023/clad.json"
   },
   {
     "id": 28959,
@@ -2076,7 +2076,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/sizeless",
-    "api": "https://yc-oss.github.io/api/batches/summer-2023/sizeless.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2023/sizeless.json"
   },
   {
     "id": 29089,
@@ -2120,7 +2120,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/line-build",
-    "api": "https://yc-oss.github.io/api/batches/summer-2023/line-build.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2023/line-build.json"
   },
   {
     "id": 29090,
@@ -2166,7 +2166,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/trayd",
-    "api": "https://yc-oss.github.io/api/batches/summer-2023/trayd.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2023/trayd.json"
   },
   {
     "id": 29121,
@@ -2213,7 +2213,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/constructable",
-    "api": "https://yc-oss.github.io/api/batches/summer-2023/constructable.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2023/constructable.json"
   },
   {
     "id": 29367,
@@ -2258,7 +2258,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/draftaid",
-    "api": "https://yc-oss.github.io/api/batches/winter-2024/draftaid.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2024/draftaid.json"
   },
   {
     "id": 29481,
@@ -2300,7 +2300,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/cocrafter",
-    "api": "https://yc-oss.github.io/api/batches/winter-2024/cocrafter.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2024/cocrafter.json"
   },
   {
     "id": 29511,
@@ -2343,7 +2343,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/inspectmind-ai",
-    "api": "https://yc-oss.github.io/api/batches/winter-2024/inspectmind-ai.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2024/inspectmind-ai.json"
   },
   {
     "id": 29977,
@@ -2387,7 +2387,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/merlin-ai",
-    "api": "https://yc-oss.github.io/api/batches/summer-2024/merlin-ai.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2024/merlin-ai.json"
   },
   {
     "id": 30088,
@@ -2427,7 +2427,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/permitportal",
-    "api": "https://yc-oss.github.io/api/batches/fall-2024/permitportal.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/fall-2024/permitportal.json"
   },
   {
     "id": 30105,
@@ -2472,7 +2472,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/archilabs",
-    "api": "https://yc-oss.github.io/api/batches/fall-2024/archilabs.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/fall-2024/archilabs.json"
   },
   {
     "id": 30317,
@@ -2513,7 +2513,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/permitify",
-    "api": "https://yc-oss.github.io/api/batches/winter-2025/permitify.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2025/permitify.json"
   },
   {
     "id": 30467,
@@ -2556,7 +2556,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/opusense-ai",
-    "api": "https://yc-oss.github.io/api/batches/spring-2025/opusense-ai.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2025/opusense-ai.json"
   },
   {
     "id": 30620,
@@ -2601,7 +2601,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/bidflow",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/bidflow.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2026/bidflow.json"
   },
   {
     "id": 30771,
@@ -2642,7 +2642,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/flywheel-ai",
-    "api": "https://yc-oss.github.io/api/batches/summer-2025/flywheel-ai.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2025/flywheel-ai.json"
   },
   {
     "id": 30835,
@@ -2686,7 +2686,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/brickanta",
-    "api": "https://yc-oss.github.io/api/batches/fall-2025/brickanta.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/fall-2025/brickanta.json"
   },
   {
     "id": 30845,
@@ -2728,7 +2728,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/structured-ai",
-    "api": "https://yc-oss.github.io/api/batches/fall-2025/structured-ai.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/fall-2025/structured-ai.json"
   },
   {
     "id": 30911,
@@ -2771,6 +2771,6 @@
     "app_answers": null,
     "question_answers": true,
     "url": "https://www.ycombinator.com/companies/articulate",
-    "api": "https://yc-oss.github.io/api/batches/fall-2025/articulate.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/fall-2025/articulate.json"
   }
 ]

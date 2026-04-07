@@ -41,7 +41,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/givespark",
-    "api": "https://yc-oss.github.io/api/batches/winter-2012/givespark.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2012/givespark.json"
   },
   {
     "id": 27859,
@@ -88,7 +88,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/no-cap",
-    "api": "https://yc-oss.github.io/api/batches/winter-2023/no-cap.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2023/no-cap.json"
   },
   {
     "id": 28421,
@@ -133,6 +133,6 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/metal-2",
-    "api": "https://yc-oss.github.io/api/batches/winter-2023/metal-2.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2023/metal-2.json"
   }
 ]

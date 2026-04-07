@@ -42,7 +42,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/thrive-agritech",
-    "api": "https://yc-oss.github.io/api/batches/summer-2015/thrive-agritech.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2015/thrive-agritech.json"
   },
   {
     "id": 1984,
@@ -86,6 +86,6 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/stem-sugar",
-    "api": "https://yc-oss.github.io/api/batches/summer-2018/stem-sugar.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2018/stem-sugar.json"
   }
 ]

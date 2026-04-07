@@ -36,7 +36,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/enflux",
-    "api": "https://yc-oss.github.io/api/batches/winter-2016/enflux.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2016/enflux.json"
   },
   {
     "id": 1662,
@@ -78,7 +78,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/skyscrape",
-    "api": "https://yc-oss.github.io/api/batches/summer-2017/skyscrape.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2017/skyscrape.json"
   },
   {
     "id": 1753,
@@ -125,7 +125,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/srtx",
-    "api": "https://yc-oss.github.io/api/batches/winter-2018/srtx.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2018/srtx.json"
   },
   {
     "id": 1886,
@@ -168,7 +168,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/honeylove",
-    "api": "https://yc-oss.github.io/api/batches/summer-2018/honeylove.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2018/honeylove.json"
   },
   {
     "id": 13171,
@@ -211,6 +211,6 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/the-mercer-club",
-    "api": "https://yc-oss.github.io/api/batches/winter-2020/the-mercer-club.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2020/the-mercer-club.json"
   }
 ]

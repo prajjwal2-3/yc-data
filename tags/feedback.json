@@ -36,7 +36,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/audobox",
-    "api": "https://yc-oss.github.io/api/batches/summer-2013/audobox.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2013/audobox.json"
   },
   {
     "id": 23073,
@@ -83,7 +83,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/unsurvey",
-    "api": "https://yc-oss.github.io/api/batches/winter-2021/unsurvey.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2021/unsurvey.json"
   },
   {
     "id": 29383,
@@ -126,7 +126,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/aftercare",
-    "api": "https://yc-oss.github.io/api/batches/winter-2024/aftercare.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2024/aftercare.json"
   },
   {
     "id": 29582,
@@ -167,7 +167,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/cheers",
-    "api": "https://yc-oss.github.io/api/batches/summer-2024/cheers.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2024/cheers.json"
   },
   {
     "id": 29608,
@@ -216,7 +216,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/pre",
-    "api": "https://yc-oss.github.io/api/batches/summer-2024/pre.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2024/pre.json"
   },
   {
     "id": 29717,
@@ -260,7 +260,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/conveo",
-    "api": "https://yc-oss.github.io/api/batches/summer-2024/conveo.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2024/conveo.json"
   },
   {
     "id": 31428,
@@ -300,6 +300,6 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/ontora",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/ontora.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/ontora.json"
   }
 ]

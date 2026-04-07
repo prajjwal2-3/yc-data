@@ -40,7 +40,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/bankjoy",
-    "api": "https://yc-oss.github.io/api/batches/winter-2015/bankjoy.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2015/bankjoy.json"
   },
   {
     "id": 28811,
@@ -85,6 +85,6 @@
     "app_answers": null,
     "question_answers": true,
     "url": "https://www.ycombinator.com/companies/casca",
-    "api": "https://yc-oss.github.io/api/batches/summer-2023/casca.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2023/casca.json"
   }
 ]

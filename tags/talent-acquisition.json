@@ -40,7 +40,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/lever",
-    "api": "https://yc-oss.github.io/api/batches/summer-2012/lever.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2012/lever.json"
   },
   {
     "id": 1083,
@@ -80,7 +80,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/strongintro",
-    "api": "https://yc-oss.github.io/api/batches/winter-2016/strongintro.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2016/strongintro.json"
   },
   {
     "id": 12648,
@@ -126,7 +126,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/flo",
-    "api": "https://yc-oss.github.io/api/batches/summer-2019/flo.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2019/flo.json"
   },
   {
     "id": 12659,
@@ -171,7 +171,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/hatchways",
-    "api": "https://yc-oss.github.io/api/batches/summer-2019/hatchways.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2019/hatchways.json"
   },
   {
     "id": 22083,
@@ -218,7 +218,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/henry",
-    "api": "https://yc-oss.github.io/api/batches/summer-2020/henry.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2020/henry.json"
   },
   {
     "id": 24773,
@@ -262,7 +262,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/crew",
-    "api": "https://yc-oss.github.io/api/batches/summer-2021/crew.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2021/crew.json"
   },
   {
     "id": 30944,
@@ -306,6 +306,6 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/hireglide",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/hireglide.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/hireglide.json"
   }
 ]

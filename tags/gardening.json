@@ -37,7 +37,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/click-and-grow",
-    "api": "https://yc-oss.github.io/api/batches/summer-2015/click-and-grow.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2015/click-and-grow.json"
   },
   {
     "id": 22600,
@@ -79,6 +79,6 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/neverland",
-    "api": "https://yc-oss.github.io/api/batches/winter-2021/neverland.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2021/neverland.json"
   }
 ]

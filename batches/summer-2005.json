@@ -34,7 +34,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/loopt",
-    "api": "https://yc-oss.github.io/api/batches/summer-2005/loopt.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2005/loopt.json"
   },
   {
     "id": 374,
@@ -71,7 +71,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/textpayme",
-    "api": "https://yc-oss.github.io/api/batches/summer-2005/textpayme.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2005/textpayme.json"
   },
   {
     "id": 375,
@@ -108,7 +108,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/clickfacts",
-    "api": "https://yc-oss.github.io/api/batches/summer-2005/clickfacts.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2005/clickfacts.json"
   },
   {
     "id": 376,
@@ -145,7 +145,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/simmery",
-    "api": "https://yc-oss.github.io/api/batches/summer-2005/simmery.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2005/simmery.json"
   },
   {
     "id": 377,
@@ -181,7 +181,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/memamp",
-    "api": "https://yc-oss.github.io/api/batches/summer-2005/memamp.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2005/memamp.json"
   },
   {
     "id": 378,
@@ -220,7 +220,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/kiko",
-    "api": "https://yc-oss.github.io/api/batches/summer-2005/kiko.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2005/kiko.json"
   },
   {
     "id": 379,
@@ -262,7 +262,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/reddit",
-    "api": "https://yc-oss.github.io/api/batches/summer-2005/reddit.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2005/reddit.json"
   },
   {
     "id": 380,
@@ -299,7 +299,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/infogami",
-    "api": "https://yc-oss.github.io/api/batches/summer-2005/infogami.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2005/infogami.json"
   },
   {
     "id": 384,
@@ -336,6 +336,6 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/parakey",
-    "api": "https://yc-oss.github.io/api/batches/summer-2005/parakey.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2005/parakey.json"
   }
 ]

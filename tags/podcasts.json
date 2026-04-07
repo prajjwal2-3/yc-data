@@ -40,7 +40,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/breaker",
-    "api": "https://yc-oss.github.io/api/batches/winter-2017/breaker.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2017/breaker.json"
   },
   {
     "id": 1802,
@@ -89,7 +89,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/evolve-makers-of-podcast-app-and-rest-ai",
-    "api": "https://yc-oss.github.io/api/batches/winter-2018/evolve-makers-of-podcast-app-and-rest-ai.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2018/evolve-makers-of-podcast-app-and-rest-ai.json"
   },
   {
     "id": 12740,
@@ -129,7 +129,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/khabri",
-    "api": "https://yc-oss.github.io/api/batches/summer-2019/khabri.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2019/khabri.json"
   },
   {
     "id": 22249,
@@ -171,7 +171,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/artifact",
-    "api": "https://yc-oss.github.io/api/batches/summer-2020/artifact.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2020/artifact.json"
   },
   {
     "id": 24858,
@@ -213,7 +213,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/quest",
-    "api": "https://yc-oss.github.io/api/batches/summer-2021/quest.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2021/quest.json"
   },
   {
     "id": 27166,
@@ -258,7 +258,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/wondercraft",
-    "api": "https://yc-oss.github.io/api/batches/summer-2022/wondercraft.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2022/wondercraft.json"
   },
   {
     "id": 29964,
@@ -302,6 +302,6 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/overlap",
-    "api": "https://yc-oss.github.io/api/batches/summer-2024/overlap.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2024/overlap.json"
   }
 ]

@@ -38,7 +38,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/directed-edge",
-    "api": "https://yc-oss.github.io/api/batches/summer-2009/directed-edge.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2009/directed-edge.json"
   },
   {
     "id": 253,
@@ -78,7 +78,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/fanchatter",
-    "api": "https://yc-oss.github.io/api/batches/summer-2009/fanchatter.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2009/fanchatter.json"
   },
   {
     "id": 25969,
@@ -121,7 +121,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/shaped",
-    "api": "https://yc-oss.github.io/api/batches/winter-2022/shaped.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2022/shaped.json"
   },
   {
     "id": 27734,
@@ -167,6 +167,6 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/rubber-ducky-labs",
-    "api": "https://yc-oss.github.io/api/batches/winter-2023/rubber-ducky-labs.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2023/rubber-ducky-labs.json"
   }
 ]

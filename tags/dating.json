@@ -40,7 +40,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/couple",
-    "api": "https://yc-oss.github.io/api/batches/winter-2012/couple.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2012/couple.json"
   },
   {
     "id": 39,
@@ -84,7 +84,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/grouper",
-    "api": "https://yc-oss.github.io/api/batches/winter-2012/grouper.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2012/grouper.json"
   },
   {
     "id": 591,
@@ -123,7 +123,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/dating-ring",
-    "api": "https://yc-oss.github.io/api/batches/winter-2014/dating-ring.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2014/dating-ring.json"
   },
   {
     "id": 1618,
@@ -168,7 +168,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/relationship-hero",
-    "api": "https://yc-oss.github.io/api/batches/summer-2017/relationship-hero.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2017/relationship-hero.json"
   },
   {
     "id": 1677,
@@ -213,7 +213,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/muzz",
-    "api": "https://yc-oss.github.io/api/batches/summer-2017/muzz.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2017/muzz.json"
   },
   {
     "id": 23175,
@@ -255,6 +255,6 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/betterhalf",
-    "api": "https://yc-oss.github.io/api/batches/winter-2021/betterhalf.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2021/betterhalf.json"
   }
 ]

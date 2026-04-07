@@ -40,7 +40,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/vastrm",
-    "api": "https://yc-oss.github.io/api/batches/summer-2012/vastrm.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2012/vastrm.json"
   },
   {
     "id": 871,
@@ -82,6 +82,6 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/gemnote",
-    "api": "https://yc-oss.github.io/api/batches/summer-2015/gemnote.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2015/gemnote.json"
   }
 ]

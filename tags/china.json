@@ -42,7 +42,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/assembly",
-    "api": "https://yc-oss.github.io/api/batches/summer-2015/assembly.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2015/assembly.json"
   },
   {
     "id": 1542,
@@ -85,7 +85,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/sourcebeacon",
-    "api": "https://yc-oss.github.io/api/batches/winter-2017/sourcebeacon.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2017/sourcebeacon.json"
   },
   {
     "id": 2025,
@@ -130,6 +130,6 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/lemonbox-health",
-    "api": "https://yc-oss.github.io/api/batches/summer-2018/lemonbox-health.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2018/lemonbox-health.json"
   }
 ]

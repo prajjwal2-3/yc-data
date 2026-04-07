@@ -41,7 +41,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/geosite",
-    "api": "https://yc-oss.github.io/api/batches/winter-2019/geosite.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2019/geosite.json"
   },
   {
     "id": 24330,
@@ -84,7 +84,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/matidor-com",
-    "api": "https://yc-oss.github.io/api/batches/summer-2021/matidor-com.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2021/matidor-com.json"
   },
   {
     "id": 24846,
@@ -129,7 +129,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/datlo",
-    "api": "https://yc-oss.github.io/api/batches/summer-2021/datlo.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2021/datlo.json"
   },
   {
     "id": 30640,
@@ -169,6 +169,6 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/monarcha",
-    "api": "https://yc-oss.github.io/api/batches/summer-2025/monarcha.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2025/monarcha.json"
   }
 ]

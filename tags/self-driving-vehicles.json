@@ -42,7 +42,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/cruise",
-    "api": "https://yc-oss.github.io/api/batches/winter-2014/cruise.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2014/cruise.json"
   },
   {
     "id": 1026,
@@ -86,7 +86,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/open-motors",
-    "api": "https://yc-oss.github.io/api/batches/winter-2016/open-motors.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2016/open-motors.json"
   },
   {
     "id": 1452,
@@ -125,7 +125,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/lvl5",
-    "api": "https://yc-oss.github.io/api/batches/winter-2017/lvl5.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2017/lvl5.json"
   },
   {
     "id": 12597,
@@ -171,7 +171,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/lucid-bots",
-    "api": "https://yc-oss.github.io/api/batches/summer-2019/lucid-bots.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2019/lucid-bots.json"
   },
   {
     "id": 22786,
@@ -219,6 +219,6 @@
     "app_answers": true,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/faction",
-    "api": "https://yc-oss.github.io/api/batches/winter-2021/faction.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2021/faction.json"
   }
 ]

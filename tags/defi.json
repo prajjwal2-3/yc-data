@@ -42,7 +42,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/globe",
-    "api": "https://yc-oss.github.io/api/batches/winter-2019/globe.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2019/globe.json"
   },
   {
     "id": 12647,
@@ -88,7 +88,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/rainbow",
-    "api": "https://yc-oss.github.io/api/batches/summer-2019/rainbow.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2019/rainbow.json"
   },
   {
     "id": 23075,
@@ -131,7 +131,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/taofi",
-    "api": "https://yc-oss.github.io/api/batches/winter-2021/taofi.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2021/taofi.json"
   },
   {
     "id": 23645,
@@ -177,7 +177,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/flux-2",
-    "api": "https://yc-oss.github.io/api/batches/winter-2021/flux-2.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2021/flux-2.json"
   },
   {
     "id": 23842,
@@ -221,7 +221,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/hedgehog",
-    "api": "https://yc-oss.github.io/api/batches/summer-2021/hedgehog.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2021/hedgehog.json"
   },
   {
     "id": 25106,
@@ -271,7 +271,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/apollo-3",
-    "api": "https://yc-oss.github.io/api/batches/winter-2022/apollo-3.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2022/apollo-3.json"
   },
   {
     "id": 25620,
@@ -314,7 +314,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/magna",
-    "api": "https://yc-oss.github.io/api/batches/winter-2022/magna.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2022/magna.json"
   },
   {
     "id": 25911,
@@ -361,7 +361,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/cypher",
-    "api": "https://yc-oss.github.io/api/batches/winter-2022/cypher.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2022/cypher.json"
   },
   {
     "id": 26043,
@@ -406,7 +406,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/cashmere",
-    "api": "https://yc-oss.github.io/api/batches/winter-2022/cashmere.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2022/cashmere.json"
   },
   {
     "id": 26743,
@@ -456,7 +456,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/ethosx",
-    "api": "https://yc-oss.github.io/api/batches/summer-2022/ethosx.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2022/ethosx.json"
   },
   {
     "id": 26779,
@@ -500,7 +500,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/notebook-labs",
-    "api": "https://yc-oss.github.io/api/batches/summer-2022/notebook-labs.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2022/notebook-labs.json"
   },
   {
     "id": 27048,
@@ -551,7 +551,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/payfura",
-    "api": "https://yc-oss.github.io/api/batches/summer-2022/payfura.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2022/payfura.json"
   },
   {
     "id": 31344,
@@ -592,6 +592,6 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/totalis",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/totalis.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/totalis.json"
   }
 ]

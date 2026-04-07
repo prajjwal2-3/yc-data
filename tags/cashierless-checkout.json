@@ -38,7 +38,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/orderahead",
-    "api": "https://yc-oss.github.io/api/batches/winter-2011/orderahead.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2011/orderahead.json"
   },
   {
     "id": 856,
@@ -83,7 +83,7 @@
     "app_answers": null,
     "question_answers": true,
     "url": "https://www.ycombinator.com/companies/mashgin",
-    "api": "https://yc-oss.github.io/api/batches/winter-2015/mashgin.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2015/mashgin.json"
   },
   {
     "id": 1058,
@@ -126,7 +126,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/caper",
-    "api": "https://yc-oss.github.io/api/batches/winter-2016/caper.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2016/caper.json"
   },
   {
     "id": 1912,
@@ -166,7 +166,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/inokyo",
-    "api": "https://yc-oss.github.io/api/batches/summer-2018/inokyo.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2018/inokyo.json"
   },
   {
     "id": 25665,
@@ -209,6 +209,6 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/wibond",
-    "api": "https://yc-oss.github.io/api/batches/winter-2022/wibond.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2022/wibond.json"
   }
 ]

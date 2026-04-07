@@ -37,7 +37,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/wright-electric",
-    "api": "https://yc-oss.github.io/api/batches/winter-2017/wright-electric.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2017/wright-electric.json"
   },
   {
     "id": 1645,
@@ -82,7 +82,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/pyka",
-    "api": "https://yc-oss.github.io/api/batches/summer-2017/pyka.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2017/pyka.json"
   },
   {
     "id": 1953,
@@ -125,7 +125,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/duffel",
-    "api": "https://yc-oss.github.io/api/batches/summer-2018/duffel.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2018/duffel.json"
   },
   {
     "id": 12084,
@@ -166,7 +166,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/jetpack-aviation",
-    "api": "https://yc-oss.github.io/api/batches/winter-2019/jetpack-aviation.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2019/jetpack-aviation.json"
   },
   {
     "id": 13198,
@@ -211,7 +211,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/talyn-air",
-    "api": "https://yc-oss.github.io/api/batches/winter-2020/talyn-air.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2020/talyn-air.json"
   },
   {
     "id": 23556,
@@ -252,7 +252,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/h3x-technologies",
-    "api": "https://yc-oss.github.io/api/batches/winter-2021/h3x-technologies.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2021/h3x-technologies.json"
   },
   {
     "id": 23947,
@@ -297,7 +297,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/odys-aviation",
-    "api": "https://yc-oss.github.io/api/batches/summer-2021/odys-aviation.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2021/odys-aviation.json"
   },
   {
     "id": 26784,
@@ -342,7 +342,7 @@
     "app_answers": null,
     "question_answers": true,
     "url": "https://www.ycombinator.com/companies/seaflight-technologies",
-    "api": "https://yc-oss.github.io/api/batches/summer-2022/seaflight-technologies.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2022/seaflight-technologies.json"
   },
   {
     "id": 26880,
@@ -384,7 +384,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/airhart-aeronautics",
-    "api": "https://yc-oss.github.io/api/batches/summer-2022/airhart-aeronautics.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2022/airhart-aeronautics.json"
   },
   {
     "id": 28075,
@@ -429,6 +429,6 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/stralis-aircraft",
-    "api": "https://yc-oss.github.io/api/batches/winter-2023/stralis-aircraft.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2023/stralis-aircraft.json"
   }
 ]

@@ -37,7 +37,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/circle-medical",
-    "api": "https://yc-oss.github.io/api/batches/summer-2015/circle-medical.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2015/circle-medical.json"
   },
   {
     "id": 1976,
@@ -80,7 +80,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/heydoctor",
-    "api": "https://yc-oss.github.io/api/batches/summer-2018/heydoctor.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2018/heydoctor.json"
   },
   {
     "id": 12067,
@@ -127,7 +127,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/pnoe",
-    "api": "https://yc-oss.github.io/api/batches/winter-2019/pnoe.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2019/pnoe.json"
   },
   {
     "id": 12743,
@@ -170,7 +170,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/loop-health",
-    "api": "https://yc-oss.github.io/api/batches/winter-2020/loop-health.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2020/loop-health.json"
   },
   {
     "id": 24199,
@@ -214,7 +214,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/rinse",
-    "api": "https://yc-oss.github.io/api/batches/summer-2021/rinse.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2021/rinse.json"
   },
   {
     "id": 24254,
@@ -258,7 +258,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/okani",
-    "api": "https://yc-oss.github.io/api/batches/summer-2021/okani.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2021/okani.json"
   },
   {
     "id": 24638,
@@ -298,7 +298,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/tuli-health",
-    "api": "https://yc-oss.github.io/api/batches/summer-2021/tuli-health.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2021/tuli-health.json"
   },
   {
     "id": 25350,
@@ -347,6 +347,6 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/nest-genomics",
-    "api": "https://yc-oss.github.io/api/batches/winter-2022/nest-genomics.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2022/nest-genomics.json"
   }
 ]

@@ -38,7 +38,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/flytenow",
-    "api": "https://yc-oss.github.io/api/batches/summer-2014/flytenow.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2014/flytenow.json"
   },
   {
     "id": 1583,
@@ -81,7 +81,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/skyways",
-    "api": "https://yc-oss.github.io/api/batches/summer-2017/skyways.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2017/skyways.json"
   },
   {
     "id": 11949,
@@ -126,7 +126,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/spaceryde",
-    "api": "https://yc-oss.github.io/api/batches/winter-2019/spaceryde.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2019/spaceryde.json"
   },
   {
     "id": 12084,
@@ -167,7 +167,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/jetpack-aviation",
-    "api": "https://yc-oss.github.io/api/batches/winter-2019/jetpack-aviation.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2019/jetpack-aviation.json"
   },
   {
     "id": 13198,
@@ -212,6 +212,6 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/talyn-air",
-    "api": "https://yc-oss.github.io/api/batches/winter-2020/talyn-air.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2020/talyn-air.json"
   }
 ]

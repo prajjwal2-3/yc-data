@@ -40,7 +40,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/predxion-bio",
-    "api": "https://yc-oss.github.io/api/batches/summer-2017/predxion-bio.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2017/predxion-bio.json"
   },
   {
     "id": 1773,
@@ -82,7 +82,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/persephone-biosciences",
-    "api": "https://yc-oss.github.io/api/batches/winter-2018/persephone-biosciences.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2018/persephone-biosciences.json"
   },
   {
     "id": 13332,
@@ -125,7 +125,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/postera",
-    "api": "https://yc-oss.github.io/api/batches/winter-2020/postera.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2020/postera.json"
   },
   {
     "id": 25285,
@@ -173,6 +173,6 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/scout-2",
-    "api": "https://yc-oss.github.io/api/batches/winter-2022/scout-2.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2022/scout-2.json"
   }
 ]

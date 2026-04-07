@@ -40,7 +40,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/taxa-biotechnologies",
-    "api": "https://yc-oss.github.io/api/batches/summer-2014/taxa-biotechnologies.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2014/taxa-biotechnologies.json"
   },
   {
     "id": 1097,
@@ -81,7 +81,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/lygos",
-    "api": "https://yc-oss.github.io/api/batches/winter-2016/lygos.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2016/lygos.json"
   },
   {
     "id": 1513,
@@ -129,7 +129,7 @@
     "app_answers": null,
     "question_answers": true,
     "url": "https://www.ycombinator.com/companies/solugen",
-    "api": "https://yc-oss.github.io/api/batches/winter-2017/solugen.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2017/solugen.json"
   },
   {
     "id": 1967,
@@ -177,7 +177,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/cytera-cellworks",
-    "api": "https://yc-oss.github.io/api/batches/summer-2018/cytera-cellworks.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2018/cytera-cellworks.json"
   },
   {
     "id": 12085,
@@ -222,7 +222,7 @@
     "app_answers": true,
     "question_answers": true,
     "url": "https://www.ycombinator.com/companies/volta-labs-inc",
-    "api": "https://yc-oss.github.io/api/batches/winter-2019/volta-labs-inc.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2019/volta-labs-inc.json"
   },
   {
     "id": 24705,
@@ -269,7 +269,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/sensible-biotechnologies",
-    "api": "https://yc-oss.github.io/api/batches/summer-2021/sensible-biotechnologies.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2021/sensible-biotechnologies.json"
   },
   {
     "id": 24795,
@@ -316,7 +316,7 @@
     "app_answers": true,
     "question_answers": true,
     "url": "https://www.ycombinator.com/companies/sfa-therapeutics-inc",
-    "api": "https://yc-oss.github.io/api/batches/summer-2021/sfa-therapeutics-inc.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2021/sfa-therapeutics-inc.json"
   },
   {
     "id": 25449,
@@ -361,7 +361,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/alixia",
-    "api": "https://yc-oss.github.io/api/batches/winter-2022/alixia.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2022/alixia.json"
   },
   {
     "id": 26427,
@@ -409,7 +409,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/eugit-therapeutics",
-    "api": "https://yc-oss.github.io/api/batches/summer-2022/eugit-therapeutics.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2022/eugit-therapeutics.json"
   },
   {
     "id": 29475,
@@ -452,7 +452,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/evolvere-biosciences",
-    "api": "https://yc-oss.github.io/api/batches/summer-2024/evolvere-biosciences.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2024/evolvere-biosciences.json"
   },
   {
     "id": 29959,
@@ -495,7 +495,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/uncommon-therapeutics",
-    "api": "https://yc-oss.github.io/api/batches/winter-2025/uncommon-therapeutics.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2025/uncommon-therapeutics.json"
   },
   {
     "id": 30673,
@@ -538,7 +538,7 @@
     "app_answers": null,
     "question_answers": true,
     "url": "https://www.ycombinator.com/companies/nexa-labs",
-    "api": "https://yc-oss.github.io/api/batches/summer-2025/nexa-labs.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2025/nexa-labs.json"
   },
   {
     "id": 30856,
@@ -580,7 +580,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/scoop",
-    "api": "https://yc-oss.github.io/api/batches/fall-2025/scoop.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/fall-2025/scoop.json"
   },
   {
     "id": 30970,
@@ -623,7 +623,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/exonic",
-    "api": "https://yc-oss.github.io/api/batches/fall-2025/exonic.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/fall-2025/exonic.json"
   },
   {
     "id": 31276,
@@ -669,6 +669,6 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/ritivel",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/ritivel.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2026/ritivel.json"
   }
 ]

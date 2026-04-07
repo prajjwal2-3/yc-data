@@ -35,7 +35,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/codenow",
-    "api": "https://yc-oss.github.io/api/batches/winter-2014/codenow.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2014/codenow.json"
   },
   {
     "id": 608,
@@ -75,7 +75,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/one-degree",
-    "api": "https://yc-oss.github.io/api/batches/winter-2014/one-degree.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2014/one-degree.json"
   },
   {
     "id": 642,
@@ -116,7 +116,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/opencurriculum",
-    "api": "https://yc-oss.github.io/api/batches/winter-2014/opencurriculum.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2014/opencurriculum.json"
   },
   {
     "id": 647,
@@ -155,7 +155,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/immunity-project",
-    "api": "https://yc-oss.github.io/api/batches/winter-2014/immunity-project.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2014/immunity-project.json"
   },
   {
     "id": 732,
@@ -195,7 +195,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/bayes-impact",
-    "api": "https://yc-oss.github.io/api/batches/summer-2014/bayes-impact.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2014/bayes-impact.json"
   },
   {
     "id": 760,
@@ -240,7 +240,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/democracy-earth",
-    "api": "https://yc-oss.github.io/api/batches/winter-2015/democracy-earth.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2015/democracy-earth.json"
   },
   {
     "id": 761,
@@ -282,7 +282,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/the-human-utility",
-    "api": "https://yc-oss.github.io/api/batches/winter-2015/the-human-utility.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2015/the-human-utility.json"
   },
   {
     "id": 787,
@@ -323,7 +323,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/sirum",
-    "api": "https://yc-oss.github.io/api/batches/winter-2015/sirum.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2015/sirum.json"
   },
   {
     "id": 865,
@@ -365,7 +365,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/leaders-in-tech",
-    "api": "https://yc-oss.github.io/api/batches/summer-2015/leaders-in-tech.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2015/leaders-in-tech.json"
   },
   {
     "id": 941,
@@ -405,7 +405,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/80-000-hours",
-    "api": "https://yc-oss.github.io/api/batches/summer-2015/80-000-hours.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2015/80-000-hours.json"
   },
   {
     "id": 1055,
@@ -445,7 +445,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/mrelief",
-    "api": "https://yc-oss.github.io/api/batches/winter-2016/mrelief.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2016/mrelief.json"
   },
   {
     "id": 1071,
@@ -481,7 +481,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/sanitation-and-health-rights-in-india-shri",
-    "api": "https://yc-oss.github.io/api/batches/winter-2016/sanitation-and-health-rights-in-india-shri.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2016/sanitation-and-health-rights-in-india-shri.json"
   },
   {
     "id": 1098,
@@ -521,7 +521,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/devcolor",
-    "api": "https://yc-oss.github.io/api/batches/winter-2016/devcolor.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2016/devcolor.json"
   },
   {
     "id": 1232,
@@ -563,7 +563,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/women-who-code",
-    "api": "https://yc-oss.github.io/api/batches/summer-2016/women-who-code.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2016/women-who-code.json"
   },
   {
     "id": 1246,
@@ -601,7 +601,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/new-incentives",
-    "api": "https://yc-oss.github.io/api/batches/summer-2016/new-incentives.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2016/new-incentives.json"
   },
   {
     "id": 1552,
@@ -639,7 +639,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/the-centre-for-effective-altruism",
-    "api": "https://yc-oss.github.io/api/batches/winter-2017/the-centre-for-effective-altruism.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2017/the-centre-for-effective-altruism.json"
   },
   {
     "id": 1553,
@@ -677,7 +677,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/no-lean-season",
-    "api": "https://yc-oss.github.io/api/batches/winter-2017/no-lean-season.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2017/no-lean-season.json"
   },
   {
     "id": 1575,
@@ -716,6 +716,6 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/aclu",
-    "api": "https://yc-oss.github.io/api/batches/winter-2017/aclu.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2017/aclu.json"
   }
 ]

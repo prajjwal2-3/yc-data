@@ -40,7 +40,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/sixfold-bioscience",
-    "api": "https://yc-oss.github.io/api/batches/winter-2018/sixfold-bioscience.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2018/sixfold-bioscience.json"
   },
   {
     "id": 1757,
@@ -80,7 +80,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/avro-life-science",
-    "api": "https://yc-oss.github.io/api/batches/winter-2018/avro-life-science.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2018/avro-life-science.json"
   },
   {
     "id": 12056,
@@ -122,7 +122,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/intact-therapeutics",
-    "api": "https://yc-oss.github.io/api/batches/winter-2019/intact-therapeutics.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2019/intact-therapeutics.json"
   },
   {
     "id": 25151,
@@ -167,7 +167,7 @@
     "app_answers": true,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/keylika",
-    "api": "https://yc-oss.github.io/api/batches/summer-2022/keylika.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2022/keylika.json"
   },
   {
     "id": 29051,
@@ -210,7 +210,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/nanograb",
-    "api": "https://yc-oss.github.io/api/batches/summer-2023/nanograb.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2023/nanograb.json"
   },
   {
     "id": 30747,
@@ -250,6 +250,6 @@
     "app_answers": null,
     "question_answers": true,
     "url": "https://www.ycombinator.com/companies/convexia",
-    "api": "https://yc-oss.github.io/api/batches/summer-2025/convexia.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2025/convexia.json"
   }
 ]

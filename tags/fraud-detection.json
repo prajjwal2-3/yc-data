@@ -37,7 +37,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/smyte",
-    "api": "https://yc-oss.github.io/api/batches/winter-2015/smyte.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2015/smyte.json"
   },
   {
     "id": 1032,
@@ -85,7 +85,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/castle-2",
-    "api": "https://yc-oss.github.io/api/batches/winter-2016/castle-2.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2016/castle-2.json"
   },
   {
     "id": 1917,
@@ -128,7 +128,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/inscribe",
-    "api": "https://yc-oss.github.io/api/batches/summer-2018/inscribe.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2018/inscribe.json"
   },
   {
     "id": 23796,
@@ -173,7 +173,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/slope",
-    "api": "https://yc-oss.github.io/api/batches/summer-2021/slope.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2021/slope.json"
   },
   {
     "id": 26749,
@@ -213,7 +213,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/ballerine",
-    "api": "https://yc-oss.github.io/api/batches/summer-2022/ballerine.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2022/ballerine.json"
   },
   {
     "id": 27952,
@@ -261,7 +261,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/finic",
-    "api": "https://yc-oss.github.io/api/batches/winter-2023/finic.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2023/finic.json"
   },
   {
     "id": 28077,
@@ -308,7 +308,7 @@
     "app_answers": true,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/corgi-labs",
-    "api": "https://yc-oss.github.io/api/batches/winter-2023/corgi-labs.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2023/corgi-labs.json"
   },
   {
     "id": 29533,
@@ -355,6 +355,6 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/indemni",
-    "api": "https://yc-oss.github.io/api/batches/winter-2024/indemni.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2024/indemni.json"
   }
 ]

@@ -37,7 +37,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/madesolid",
-    "api": "https://yc-oss.github.io/api/batches/winter-2014/madesolid.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2014/madesolid.json"
   },
   {
     "id": 691,
@@ -81,7 +81,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/alchemy",
-    "api": "https://yc-oss.github.io/api/batches/summer-2014/alchemy.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2014/alchemy.json"
   },
   {
     "id": 12096,
@@ -127,7 +127,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/maple-materials",
-    "api": "https://yc-oss.github.io/api/batches/winter-2019/maple-materials.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2019/maple-materials.json"
   },
   {
     "id": 12666,
@@ -169,7 +169,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/spotless-materials",
-    "api": "https://yc-oss.github.io/api/batches/summer-2019/spotless-materials.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2019/spotless-materials.json"
   },
   {
     "id": 30781,
@@ -210,7 +210,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/duranium",
-    "api": "https://yc-oss.github.io/api/batches/summer-2025/duranium.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2025/duranium.json"
   },
   {
     "id": 31294,
@@ -250,7 +250,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/dispatch",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/dispatch.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/dispatch.json"
   },
   {
     "id": 31362,
@@ -295,6 +295,6 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/matforge",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/matforge.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/matforge.json"
   }
 ]

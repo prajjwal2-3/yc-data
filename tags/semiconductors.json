@@ -43,7 +43,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/mobius-materials",
-    "api": "https://yc-oss.github.io/api/batches/summer-2020/mobius-materials.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2020/mobius-materials.json"
   },
   {
     "id": 28851,
@@ -85,7 +85,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/bronco-ai",
-    "api": "https://yc-oss.github.io/api/batches/summer-2023/bronco-ai.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2023/bronco-ai.json"
   },
   {
     "id": 29010,
@@ -128,7 +128,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/silimate",
-    "api": "https://yc-oss.github.io/api/batches/summer-2023/silimate.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2023/silimate.json"
   },
   {
     "id": 29472,
@@ -173,7 +173,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/silogy",
-    "api": "https://yc-oss.github.io/api/batches/winter-2024/silogy.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2024/silogy.json"
   },
   {
     "id": 29662,
@@ -218,7 +218,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/atum-works",
-    "api": "https://yc-oss.github.io/api/batches/spring-2025/atum-works.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2025/atum-works.json"
   },
   {
     "id": 29672,
@@ -261,7 +261,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/deepsim-inc",
-    "api": "https://yc-oss.github.io/api/batches/summer-2024/deepsim-inc.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2024/deepsim-inc.json"
   },
   {
     "id": 29754,
@@ -303,7 +303,7 @@
     "app_answers": null,
     "question_answers": true,
     "url": "https://www.ycombinator.com/companies/conductor-quantum",
-    "api": "https://yc-oss.github.io/api/batches/summer-2024/conductor-quantum.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2024/conductor-quantum.json"
   },
   {
     "id": 29777,
@@ -346,7 +346,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/zettascale",
-    "api": "https://yc-oss.github.io/api/batches/summer-2024/zettascale.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2024/zettascale.json"
   },
   {
     "id": 30233,
@@ -390,7 +390,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/inversion-semiconductor",
-    "api": "https://yc-oss.github.io/api/batches/winter-2025/inversion-semiconductor.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2025/inversion-semiconductor.json"
   },
   {
     "id": 30502,
@@ -433,7 +433,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/powermatrix",
-    "api": "https://yc-oss.github.io/api/batches/spring-2025/powermatrix.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2025/powermatrix.json"
   },
   {
     "id": 31362,
@@ -478,6 +478,6 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/matforge",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/matforge.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/matforge.json"
   }
 ]

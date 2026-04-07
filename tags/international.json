@@ -37,7 +37,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/backpack",
-    "api": "https://yc-oss.github.io/api/batches/summer-2014/backpack.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2014/backpack.json"
   },
   {
     "id": 1529,
@@ -81,7 +81,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/zipx",
-    "api": "https://yc-oss.github.io/api/batches/winter-2017/zipx.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2017/zipx.json"
   },
   {
     "id": 24037,
@@ -128,7 +128,7 @@
     "app_answers": null,
     "question_answers": true,
     "url": "https://www.ycombinator.com/companies/levro",
-    "api": "https://yc-oss.github.io/api/batches/summer-2021/levro.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2021/levro.json"
   },
   {
     "id": 29343,
@@ -171,7 +171,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/infinity",
-    "api": "https://yc-oss.github.io/api/batches/winter-2024/infinity.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2024/infinity.json"
   },
   {
     "id": 29833,
@@ -213,7 +213,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/quetzal",
-    "api": "https://yc-oss.github.io/api/batches/summer-2024/quetzal.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2024/quetzal.json"
   },
   {
     "id": 30060,
@@ -260,6 +260,6 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/lingodotdev",
-    "api": "https://yc-oss.github.io/api/batches/fall-2024/lingodotdev.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/fall-2024/lingodotdev.json"
   }
 ]

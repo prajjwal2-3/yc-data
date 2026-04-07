@@ -39,7 +39,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/meadow",
-    "api": "https://yc-oss.github.io/api/batches/winter-2015/meadow.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2015/meadow.json"
   },
   {
     "id": 863,
@@ -81,7 +81,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/serica",
-    "api": "https://yc-oss.github.io/api/batches/summer-2015/serica.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2015/serica.json"
   },
   {
     "id": 889,
@@ -128,7 +128,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/confident-lims",
-    "api": "https://yc-oss.github.io/api/batches/summer-2015/confident-lims.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2015/confident-lims.json"
   },
   {
     "id": 1733,
@@ -171,7 +171,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/california-dreamin",
-    "api": "https://yc-oss.github.io/api/batches/winter-2018/california-dreamin.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2018/california-dreamin.json"
   },
   {
     "id": 11974,
@@ -215,7 +215,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/flower-co",
-    "api": "https://yc-oss.github.io/api/batches/winter-2019/flower-co.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2019/flower-co.json"
   },
   {
     "id": 11995,
@@ -263,7 +263,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/nabis",
-    "api": "https://yc-oss.github.io/api/batches/winter-2019/nabis.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2019/nabis.json"
   },
   {
     "id": 12642,
@@ -307,6 +307,6 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/canix",
-    "api": "https://yc-oss.github.io/api/batches/summer-2019/canix.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2019/canix.json"
   }
 ]

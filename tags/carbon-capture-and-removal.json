@@ -40,7 +40,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/industrial-microbes",
-    "api": "https://yc-oss.github.io/api/batches/winter-2015/industrial-microbes.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2015/industrial-microbes.json"
   },
   {
     "id": 1596,
@@ -86,7 +86,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/releaf-earth",
-    "api": "https://yc-oss.github.io/api/batches/summer-2017/releaf-earth.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2017/releaf-earth.json"
   },
   {
     "id": 11936,
@@ -129,7 +129,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/pachama",
-    "api": "https://yc-oss.github.io/api/batches/winter-2019/pachama.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2019/pachama.json"
   },
   {
     "id": 13151,
@@ -172,7 +172,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/sinai",
-    "api": "https://yc-oss.github.io/api/batches/winter-2020/sinai.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2020/sinai.json"
   },
   {
     "id": 22780,
@@ -214,7 +214,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/noya",
-    "api": "https://yc-oss.github.io/api/batches/winter-2021/noya.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2021/noya.json"
   },
   {
     "id": 22905,
@@ -257,7 +257,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/remora",
-    "api": "https://yc-oss.github.io/api/batches/winter-2021/remora.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2021/remora.json"
   },
   {
     "id": 24488,
@@ -299,7 +299,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/heimdal",
-    "api": "https://yc-oss.github.io/api/batches/summer-2021/heimdal.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2021/heimdal.json"
   },
   {
     "id": 24726,
@@ -345,7 +345,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/abatable",
-    "api": "https://yc-oss.github.io/api/batches/summer-2021/abatable.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2021/abatable.json"
   },
   {
     "id": 24759,
@@ -390,7 +390,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/phykos",
-    "api": "https://yc-oss.github.io/api/batches/summer-2021/phykos.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2021/phykos.json"
   },
   {
     "id": 24762,
@@ -434,7 +434,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/canopi",
-    "api": "https://yc-oss.github.io/api/batches/summer-2021/canopi.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2021/canopi.json"
   },
   {
     "id": 25782,
@@ -477,7 +477,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/carbon-crusher",
-    "api": "https://yc-oss.github.io/api/batches/winter-2022/carbon-crusher.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2022/carbon-crusher.json"
   },
   {
     "id": 26120,
@@ -521,7 +521,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/airmyne",
-    "api": "https://yc-oss.github.io/api/batches/winter-2022/airmyne.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2022/airmyne.json"
   },
   {
     "id": 26769,
@@ -564,6 +564,6 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/alt-tex",
-    "api": "https://yc-oss.github.io/api/batches/summer-2022/alt-tex.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2022/alt-tex.json"
   }
 ]

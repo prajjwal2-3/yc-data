@@ -39,7 +39,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/spotangels",
-    "api": "https://yc-oss.github.io/api/batches/summer-2014/spotangels.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2014/spotangels.json"
   },
   {
     "id": 11942,
@@ -80,7 +80,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/pengram",
-    "api": "https://yc-oss.github.io/api/batches/winter-2019/pengram.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2019/pengram.json"
   },
   {
     "id": 26806,
@@ -125,7 +125,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/illuminant-surgical",
-    "api": "https://yc-oss.github.io/api/batches/summer-2022/illuminant-surgical.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2022/illuminant-surgical.json"
   },
   {
     "id": 29819,
@@ -172,6 +172,6 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/weel",
-    "api": "https://yc-oss.github.io/api/batches/summer-2024/weel.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2024/weel.json"
   }
 ]

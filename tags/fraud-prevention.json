@@ -37,7 +37,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/cyberfend",
-    "api": "https://yc-oss.github.io/api/batches/winter-2015/cyberfend.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2015/cyberfend.json"
   },
   {
     "id": 12282,
@@ -79,7 +79,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/truora",
-    "api": "https://yc-oss.github.io/api/batches/winter-2019/truora.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2019/truora.json"
   },
   {
     "id": 28805,
@@ -123,7 +123,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/diligent",
-    "api": "https://yc-oss.github.io/api/batches/summer-2023/diligent.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2023/diligent.json"
   },
   {
     "id": 29533,
@@ -170,6 +170,6 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/indemni",
-    "api": "https://yc-oss.github.io/api/batches/winter-2024/indemni.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2024/indemni.json"
   }
 ]

@@ -36,7 +36,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/eventjoy",
-    "api": "https://yc-oss.github.io/api/batches/winter-2014/eventjoy.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2014/eventjoy.json"
   },
   {
     "id": 1210,
@@ -79,6 +79,6 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/livement",
-    "api": "https://yc-oss.github.io/api/batches/summer-2016/livement.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2016/livement.json"
   }
 ]

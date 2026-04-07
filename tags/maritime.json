@@ -42,7 +42,7 @@
     "app_answers": true,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/greywing",
-    "api": "https://yc-oss.github.io/api/batches/winter-2021/greywing.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2021/greywing.json"
   },
   {
     "id": 23369,
@@ -84,7 +84,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/regent",
-    "api": "https://yc-oss.github.io/api/batches/winter-2021/regent.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2021/regent.json"
   },
   {
     "id": 30704,
@@ -127,6 +127,6 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/albacore-inc",
-    "api": "https://yc-oss.github.io/api/batches/summer-2025/albacore-inc.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2025/albacore-inc.json"
   }
 ]

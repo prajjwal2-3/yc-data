@@ -37,7 +37,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/plivo",
-    "api": "https://yc-oss.github.io/api/batches/summer-2012/plivo.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2012/plivo.json"
   },
   {
     "id": 714,
@@ -83,7 +83,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/hive",
-    "api": "https://yc-oss.github.io/api/batches/summer-2014/hive.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2014/hive.json"
   },
   {
     "id": 13499,
@@ -125,7 +125,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/termii",
-    "api": "https://yc-oss.github.io/api/batches/winter-2020/termii.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2020/termii.json"
   },
   {
     "id": 25966,
@@ -171,7 +171,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/sendo",
-    "api": "https://yc-oss.github.io/api/batches/winter-2022/sendo.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2022/sendo.json"
   },
   {
     "id": 29080,
@@ -216,7 +216,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/smobi",
-    "api": "https://yc-oss.github.io/api/batches/summer-2023/smobi.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2023/smobi.json"
   },
   {
     "id": 29571,
@@ -260,7 +260,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/apten",
-    "api": "https://yc-oss.github.io/api/batches/summer-2024/apten.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2024/apten.json"
   },
   {
     "id": 29769,
@@ -305,6 +305,6 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/pinnacle",
-    "api": "https://yc-oss.github.io/api/batches/summer-2024/pinnacle.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2024/pinnacle.json"
   }
 ]

@@ -36,7 +36,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/kiko",
-    "api": "https://yc-oss.github.io/api/batches/summer-2005/kiko.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2005/kiko.json"
   },
   {
     "id": 458,
@@ -74,7 +74,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/assorted-bits",
-    "api": "https://yc-oss.github.io/api/batches/summer-2012/assorted-bits.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2012/assorted-bits.json"
   },
   {
     "id": 1492,
@@ -116,7 +116,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/fibo",
-    "api": "https://yc-oss.github.io/api/batches/winter-2017/fibo.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2017/fibo.json"
   },
   {
     "id": 1936,
@@ -164,7 +164,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/vimcal",
-    "api": "https://yc-oss.github.io/api/batches/summer-2018/vimcal.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2018/vimcal.json"
   },
   {
     "id": 13315,
@@ -207,7 +207,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/cron",
-    "api": "https://yc-oss.github.io/api/batches/winter-2020/cron.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2020/cron.json"
   },
   {
     "id": 24460,
@@ -249,7 +249,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/hera",
-    "api": "https://yc-oss.github.io/api/batches/summer-2021/hera.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2021/hera.json"
   },
   {
     "id": 30719,
@@ -293,7 +293,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/april",
-    "api": "https://yc-oss.github.io/api/batches/summer-2025/april.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2025/april.json"
   },
   {
     "id": 30874,
@@ -337,6 +337,6 @@
     "app_answers": null,
     "question_answers": true,
     "url": "https://www.ycombinator.com/companies/minro",
-    "api": "https://yc-oss.github.io/api/batches/fall-2025/minro.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/fall-2025/minro.json"
   }
 ]

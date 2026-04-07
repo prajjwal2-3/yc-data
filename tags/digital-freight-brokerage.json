@@ -45,7 +45,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/be-go",
-    "api": "https://yc-oss.github.io/api/batches/winter-2020/be-go.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2020/be-go.json"
   },
   {
     "id": 13524,
@@ -86,6 +86,6 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/send",
-    "api": "https://yc-oss.github.io/api/batches/winter-2020/send.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2020/send.json"
   }
 ]

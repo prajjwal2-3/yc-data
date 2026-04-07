@@ -38,7 +38,7 @@
     "app_answers": false,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/mbx",
-    "api": "https://yc-oss.github.io/api/batches/winter-2014/mbx.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2014/mbx.json"
   },
   {
     "id": 868,
@@ -78,7 +78,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/l",
-    "api": "https://yc-oss.github.io/api/batches/summer-2015/l.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2015/l.json"
   },
   {
     "id": 958,
@@ -118,7 +118,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/stylebee",
-    "api": "https://yc-oss.github.io/api/batches/summer-2015/stylebee.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2015/stylebee.json"
   },
   {
     "id": 1037,
@@ -161,7 +161,7 @@
     "app_answers": null,
     "question_answers": true,
     "url": "https://www.ycombinator.com/companies/function-of-beauty",
-    "api": "https://yc-oss.github.io/api/batches/winter-2016/function-of-beauty.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2016/function-of-beauty.json"
   },
   {
     "id": 1269,
@@ -203,7 +203,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/squire-technologies",
-    "api": "https://yc-oss.github.io/api/batches/summer-2016/squire-technologies.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2016/squire-technologies.json"
   },
   {
     "id": 1783,
@@ -244,7 +244,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/lus-brands",
-    "api": "https://yc-oss.github.io/api/batches/winter-2018/lus-brands.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2018/lus-brands.json"
   },
   {
     "id": 12325,
@@ -284,7 +284,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/naturall-club",
-    "api": "https://yc-oss.github.io/api/batches/winter-2019/naturall-club.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2019/naturall-club.json"
   },
   {
     "id": 22659,
@@ -324,7 +324,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/lygg",
-    "api": "https://yc-oss.github.io/api/batches/winter-2021/lygg.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2021/lygg.json"
   },
   {
     "id": 22693,
@@ -372,7 +372,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/lion-pose",
-    "api": "https://yc-oss.github.io/api/batches/winter-2021/lion-pose.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2021/lion-pose.json"
   },
   {
     "id": 24264,
@@ -415,6 +415,6 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/glitzi",
-    "api": "https://yc-oss.github.io/api/batches/summer-2021/glitzi.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2021/glitzi.json"
   }
 ]

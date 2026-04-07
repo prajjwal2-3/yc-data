@@ -41,7 +41,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/pathrise",
-    "api": "https://yc-oss.github.io/api/batches/summer-2017/pathrise.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2017/pathrise.json"
   },
   {
     "id": 1750,
@@ -80,7 +80,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/key-values",
-    "api": "https://yc-oss.github.io/api/batches/winter-2018/key-values.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2018/key-values.json"
   },
   {
     "id": 12072,
@@ -121,7 +121,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/careertu",
-    "api": "https://yc-oss.github.io/api/batches/winter-2019/careertu.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2019/careertu.json"
   },
   {
     "id": 26781,
@@ -167,7 +167,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/codecrafters",
-    "api": "https://yc-oss.github.io/api/batches/summer-2022/codecrafters.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2022/codecrafters.json"
   },
   {
     "id": 31402,
@@ -209,6 +209,6 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/standout",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/standout.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/standout.json"
   }
 ]

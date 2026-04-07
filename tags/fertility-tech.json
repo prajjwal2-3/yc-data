@@ -39,7 +39,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/carrot-fertility",
-    "api": "https://yc-oss.github.io/api/batches/summer-2017/carrot-fertility.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2017/carrot-fertility.json"
   },
   {
     "id": 1688,
@@ -80,7 +80,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/modern-fertility",
-    "api": "https://yc-oss.github.io/api/batches/summer-2017/modern-fertility.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2017/modern-fertility.json"
   },
   {
     "id": 12274,
@@ -124,7 +124,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/inito",
-    "api": "https://yc-oss.github.io/api/batches/winter-2019/inito.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2019/inito.json"
   },
   {
     "id": 12554,
@@ -167,7 +167,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/legacy",
-    "api": "https://yc-oss.github.io/api/batches/summer-2019/legacy.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2019/legacy.json"
   },
   {
     "id": 12657,
@@ -211,7 +211,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/zergo",
-    "api": "https://yc-oss.github.io/api/batches/summer-2019/zergo.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2019/zergo.json"
   },
   {
     "id": 13086,
@@ -250,7 +250,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/lilia",
-    "api": "https://yc-oss.github.io/api/batches/winter-2020/lilia.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2020/lilia.json"
   },
   {
     "id": 13338,
@@ -293,7 +293,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/hannah-life-technologies",
-    "api": "https://yc-oss.github.io/api/batches/summer-2020/hannah-life-technologies.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2020/hannah-life-technologies.json"
   },
   {
     "id": 13413,
@@ -339,6 +339,6 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/adyn",
-    "api": "https://yc-oss.github.io/api/batches/summer-2020/adyn.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2020/adyn.json"
   }
 ]

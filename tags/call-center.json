@@ -39,7 +39,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/mosaicvoice",
-    "api": "https://yc-oss.github.io/api/batches/winter-2022/mosaicvoice.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2022/mosaicvoice.json"
   },
   {
     "id": 27045,
@@ -85,7 +85,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/argovox",
-    "api": "https://yc-oss.github.io/api/batches/summer-2022/argovox.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2022/argovox.json"
   },
   {
     "id": 29288,
@@ -130,7 +130,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/arini",
-    "api": "https://yc-oss.github.io/api/batches/winter-2024/arini.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2024/arini.json"
   },
   {
     "id": 29572,
@@ -172,7 +172,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/domu-technology-inc",
-    "api": "https://yc-oss.github.io/api/batches/summer-2024/domu-technology-inc.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2024/domu-technology-inc.json"
   },
   {
     "id": 29785,
@@ -217,7 +217,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/simple-ai",
-    "api": "https://yc-oss.github.io/api/batches/summer-2024/simple-ai.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2024/simple-ai.json"
   },
   {
     "id": 30124,
@@ -265,7 +265,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/careforce",
-    "api": "https://yc-oss.github.io/api/batches/fall-2024/careforce.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/fall-2024/careforce.json"
   },
   {
     "id": 30227,
@@ -308,7 +308,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/caseflood-ai",
-    "api": "https://yc-oss.github.io/api/batches/winter-2025/caseflood-ai.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2025/caseflood-ai.json"
   },
   {
     "id": 30802,
@@ -351,7 +351,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/freya",
-    "api": "https://yc-oss.github.io/api/batches/summer-2025/freya.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2025/freya.json"
   },
   {
     "id": 31416,
@@ -392,6 +392,6 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/callab-ai",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/callab-ai.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/callab-ai.json"
   }
 ]

@@ -42,7 +42,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/assemblyai",
-    "api": "https://yc-oss.github.io/api/batches/summer-2017/assemblyai.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2017/assemblyai.json"
   },
   {
     "id": 24065,
@@ -83,7 +83,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/boldvoice",
-    "api": "https://yc-oss.github.io/api/batches/summer-2021/boldvoice.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2021/boldvoice.json"
   },
   {
     "id": 25617,
@@ -125,7 +125,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/speechly",
-    "api": "https://yc-oss.github.io/api/batches/winter-2022/speechly.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2022/speechly.json"
   },
   {
     "id": 25691,
@@ -171,7 +171,7 @@
     "app_answers": null,
     "question_answers": true,
     "url": "https://www.ycombinator.com/companies/voize",
-    "api": "https://yc-oss.github.io/api/batches/winter-2022/voize.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2022/voize.json"
   },
   {
     "id": 30806,
@@ -210,6 +210,6 @@
     "app_answers": null,
     "question_answers": true,
     "url": "https://www.ycombinator.com/companies/uplift-ai",
-    "api": "https://yc-oss.github.io/api/batches/summer-2025/uplift-ai.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2025/uplift-ai.json"
   }
 ]

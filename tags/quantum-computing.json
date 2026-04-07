@@ -36,7 +36,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/rigetti-computing",
-    "api": "https://yc-oss.github.io/api/batches/summer-2014/rigetti-computing.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2014/rigetti-computing.json"
   },
   {
     "id": 12047,
@@ -78,7 +78,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/auroraq",
-    "api": "https://yc-oss.github.io/api/batches/winter-2019/auroraq.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2019/auroraq.json"
   },
   {
     "id": 13616,
@@ -123,7 +123,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/menten-ai",
-    "api": "https://yc-oss.github.io/api/batches/winter-2020/menten-ai.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2020/menten-ai.json"
   },
   {
     "id": 29754,
@@ -165,6 +165,6 @@
     "app_answers": null,
     "question_answers": true,
     "url": "https://www.ycombinator.com/companies/conductor-quantum",
-    "api": "https://yc-oss.github.io/api/batches/summer-2024/conductor-quantum.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2024/conductor-quantum.json"
   }
 ]

@@ -39,7 +39,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/streamup",
-    "api": "https://yc-oss.github.io/api/batches/winter-2016/streamup.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2016/streamup.json"
   },
   {
     "id": 1758,
@@ -80,7 +80,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/closer-sports",
-    "api": "https://yc-oss.github.io/api/batches/winter-2018/closer-sports.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2018/closer-sports.json"
   },
   {
     "id": 1973,
@@ -119,7 +119,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/famegame",
-    "api": "https://yc-oss.github.io/api/batches/summer-2018/famegame.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2018/famegame.json"
   },
   {
     "id": 13146,
@@ -163,7 +163,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/zelos",
-    "api": "https://yc-oss.github.io/api/batches/winter-2020/zelos.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2020/zelos.json"
   },
   {
     "id": 22672,
@@ -208,6 +208,6 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/pensil",
-    "api": "https://yc-oss.github.io/api/batches/winter-2021/pensil.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2021/pensil.json"
   }
 ]

@@ -40,7 +40,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/orbillion-bio",
-    "api": "https://yc-oss.github.io/api/batches/winter-2021/orbillion-bio.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2021/orbillion-bio.json"
   },
   {
     "id": 24185,
@@ -87,7 +87,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/micro-meat",
-    "api": "https://yc-oss.github.io/api/batches/summer-2021/micro-meat.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2021/micro-meat.json"
   },
   {
     "id": 26118,
@@ -135,6 +135,6 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/offbeast",
-    "api": "https://yc-oss.github.io/api/batches/winter-2022/offbeast.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2022/offbeast.json"
   }
 ]

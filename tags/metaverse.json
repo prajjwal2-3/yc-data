@@ -42,7 +42,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/seerslab",
-    "api": "https://yc-oss.github.io/api/batches/summer-2016/seerslab.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2016/seerslab.json"
   },
   {
     "id": 1360,
@@ -86,7 +86,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/classdojo",
-    "api": "https://yc-oss.github.io/api/batches/summer-2012/classdojo.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2012/classdojo.json"
   },
   {
     "id": 12299,
@@ -132,7 +132,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/rct-studio",
-    "api": "https://yc-oss.github.io/api/batches/winter-2019/rct-studio.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2019/rct-studio.json"
   },
   {
     "id": 12546,
@@ -176,7 +176,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/gamebytes",
-    "api": "https://yc-oss.github.io/api/batches/summer-2019/gamebytes.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2019/gamebytes.json"
   },
   {
     "id": 21993,
@@ -226,7 +226,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/hyper-online",
-    "api": "https://yc-oss.github.io/api/batches/summer-2020/hyper-online.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2020/hyper-online.json"
   },
   {
     "id": 22571,
@@ -269,7 +269,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/gather-2",
-    "api": "https://yc-oss.github.io/api/batches/summer-2019/gather-2.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2019/gather-2.json"
   },
   {
     "id": 25417,
@@ -312,7 +312,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/koala",
-    "api": "https://yc-oss.github.io/api/batches/winter-2022/koala.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2022/koala.json"
   },
   {
     "id": 27055,
@@ -362,6 +362,6 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/vinci-games",
-    "api": "https://yc-oss.github.io/api/batches/summer-2022/vinci-games.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2022/vinci-games.json"
   }
 ]

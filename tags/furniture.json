@@ -40,7 +40,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/aptdeco",
-    "api": "https://yc-oss.github.io/api/batches/winter-2014/aptdeco.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2014/aptdeco.json"
   },
   {
     "id": 605,
@@ -80,7 +80,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/move-loot",
-    "api": "https://yc-oss.github.io/api/batches/winter-2014/move-loot.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2014/move-loot.json"
   },
   {
     "id": 1239,
@@ -126,7 +126,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/burrow",
-    "api": "https://yc-oss.github.io/api/batches/summer-2016/burrow.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2016/burrow.json"
   },
   {
     "id": 1592,
@@ -169,7 +169,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/feather",
-    "api": "https://yc-oss.github.io/api/batches/summer-2017/feather.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2017/feather.json"
   },
   {
     "id": 1796,
@@ -209,7 +209,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/aalo",
-    "api": "https://yc-oss.github.io/api/batches/winter-2018/aalo.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2018/aalo.json"
   },
   {
     "id": 1804,
@@ -255,6 +255,6 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/miru",
-    "api": "https://yc-oss.github.io/api/batches/winter-2018/miru.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2018/miru.json"
   }
 ]

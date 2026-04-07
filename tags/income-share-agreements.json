@@ -40,7 +40,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/sharpestminds",
-    "api": "https://yc-oss.github.io/api/batches/winter-2018/sharpestminds.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2018/sharpestminds.json"
   },
   {
     "id": 12234,
@@ -80,7 +80,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/skill-lync",
-    "api": "https://yc-oss.github.io/api/batches/winter-2019/skill-lync.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2019/skill-lync.json"
   },
   {
     "id": 22788,
@@ -126,7 +126,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/functionup-fanplay",
-    "api": "https://yc-oss.github.io/api/batches/winter-2021/functionup-fanplay.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2021/functionup-fanplay.json"
   },
   {
     "id": 24094,
@@ -168,6 +168,6 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/algouniversity",
-    "api": "https://yc-oss.github.io/api/batches/summer-2021/algouniversity.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2021/algouniversity.json"
   }
 ]

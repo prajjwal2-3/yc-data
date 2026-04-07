@@ -40,7 +40,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/constructvr",
-    "api": "https://yc-oss.github.io/api/batches/winter-2016/constructvr.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2016/constructvr.json"
   },
   {
     "id": 1268,
@@ -85,7 +85,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/seerslab",
-    "api": "https://yc-oss.github.io/api/batches/summer-2016/seerslab.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2016/seerslab.json"
   },
   {
     "id": 1794,
@@ -124,7 +124,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/plexus",
-    "api": "https://yc-oss.github.io/api/batches/winter-2018/plexus.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2018/plexus.json"
   },
   {
     "id": 12768,
@@ -173,7 +173,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/ramen-vr",
-    "api": "https://yc-oss.github.io/api/batches/summer-2019/ramen-vr.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2019/ramen-vr.json"
   },
   {
     "id": 23368,
@@ -216,7 +216,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/spline",
-    "api": "https://yc-oss.github.io/api/batches/winter-2021/spline.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2021/spline.json"
   },
   {
     "id": 30365,
@@ -259,6 +259,6 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/mentra",
-    "api": "https://yc-oss.github.io/api/batches/winter-2025/mentra.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2025/mentra.json"
   }
 ]

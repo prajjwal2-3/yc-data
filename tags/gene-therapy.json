@@ -40,7 +40,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/indee-labs",
-    "api": "https://yc-oss.github.io/api/batches/winter-2017/indee-labs.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2017/indee-labs.json"
   },
   {
     "id": 1746,
@@ -83,7 +83,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/sixfold-bioscience",
-    "api": "https://yc-oss.github.io/api/batches/winter-2018/sixfold-bioscience.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2018/sixfold-bioscience.json"
   },
   {
     "id": 1939,
@@ -126,7 +126,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/64x-bio",
-    "api": "https://yc-oss.github.io/api/batches/summer-2018/64x-bio.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2018/64x-bio.json"
   },
   {
     "id": 2021,
@@ -169,7 +169,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/perception-biosystems",
-    "api": "https://yc-oss.github.io/api/batches/summer-2018/perception-biosystems.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2018/perception-biosystems.json"
   },
   {
     "id": 2028,
@@ -215,7 +215,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/rejuvenation-technologies-inc",
-    "api": "https://yc-oss.github.io/api/batches/summer-2018/rejuvenation-technologies-inc.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2018/rejuvenation-technologies-inc.json"
   },
   {
     "id": 22045,
@@ -256,7 +256,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/nephrogen",
-    "api": "https://yc-oss.github.io/api/batches/summer-2020/nephrogen.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2020/nephrogen.json"
   },
   {
     "id": 23522,
@@ -298,7 +298,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/nuntius-therapeutics",
-    "api": "https://yc-oss.github.io/api/batches/winter-2021/nuntius-therapeutics.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2021/nuntius-therapeutics.json"
   },
   {
     "id": 25865,
@@ -340,7 +340,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/andson-biotech",
-    "api": "https://yc-oss.github.io/api/batches/winter-2022/andson-biotech.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2022/andson-biotech.json"
   },
   {
     "id": 26311,
@@ -386,7 +386,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/whitelab-genomics",
-    "api": "https://yc-oss.github.io/api/batches/winter-2022/whitelab-genomics.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2022/whitelab-genomics.json"
   },
   {
     "id": 28205,
@@ -432,7 +432,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/modulari-t",
-    "api": "https://yc-oss.github.io/api/batches/winter-2023/modulari-t.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2023/modulari-t.json"
   },
   {
     "id": 29714,
@@ -479,7 +479,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/kopra-bio",
-    "api": "https://yc-oss.github.io/api/batches/summer-2024/kopra-bio.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2024/kopra-bio.json"
   },
   {
     "id": 29959,
@@ -522,6 +522,6 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/uncommon-therapeutics",
-    "api": "https://yc-oss.github.io/api/batches/winter-2025/uncommon-therapeutics.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2025/uncommon-therapeutics.json"
   }
 ]

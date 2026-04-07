@@ -43,7 +43,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/tenderd",
-    "api": "https://yc-oss.github.io/api/batches/summer-2018/tenderd.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2018/tenderd.json"
   },
   {
     "id": 12677,
@@ -86,7 +86,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/earth-ai",
-    "api": "https://yc-oss.github.io/api/batches/summer-2019/earth-ai.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2019/earth-ai.json"
   },
   {
     "id": 13084,
@@ -133,7 +133,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/stratumai",
-    "api": "https://yc-oss.github.io/api/batches/winter-2020/stratumai.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2020/stratumai.json"
   },
   {
     "id": 26072,
@@ -180,7 +180,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/impossible-metals",
-    "api": "https://yc-oss.github.io/api/batches/winter-2022/impossible-metals.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2022/impossible-metals.json"
   },
   {
     "id": 29733,
@@ -222,6 +222,6 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/1849-bio",
-    "api": "https://yc-oss.github.io/api/batches/summer-2024/1849-bio.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2024/1849-bio.json"
   }
 ]

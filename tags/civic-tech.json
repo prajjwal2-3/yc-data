@@ -39,7 +39,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/simplecitizen",
-    "api": "https://yc-oss.github.io/api/batches/summer-2016/simplecitizen.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2016/simplecitizen.json"
   },
   {
     "id": 1434,
@@ -78,7 +78,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/democracyos",
-    "api": "https://yc-oss.github.io/api/batches/winter-2015/democracyos.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2015/democracyos.json"
   },
   {
     "id": 1502,
@@ -124,7 +124,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/tolemi",
-    "api": "https://yc-oss.github.io/api/batches/winter-2017/tolemi.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2017/tolemi.json"
   },
   {
     "id": 1954,
@@ -168,7 +168,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/impactive",
-    "api": "https://yc-oss.github.io/api/batches/summer-2018/impactive.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2018/impactive.json"
   },
   {
     "id": 2018,
@@ -210,7 +210,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/anniecannons",
-    "api": "https://yc-oss.github.io/api/batches/summer-2018/anniecannons.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2018/anniecannons.json"
   },
   {
     "id": 12837,
@@ -252,7 +252,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/recidiviz",
-    "api": "https://yc-oss.github.io/api/batches/summer-2019/recidiviz.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2019/recidiviz.json"
   },
   {
     "id": 29724,
@@ -296,7 +296,7 @@
     "app_answers": null,
     "question_answers": true,
     "url": "https://www.ycombinator.com/companies/ontra-mobility",
-    "api": "https://yc-oss.github.io/api/batches/summer-2024/ontra-mobility.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2024/ontra-mobility.json"
   },
   {
     "id": 29801,
@@ -339,6 +339,6 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/rescript",
-    "api": "https://yc-oss.github.io/api/batches/summer-2024/rescript.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2024/rescript.json"
   }
 ]

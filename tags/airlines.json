@@ -38,7 +38,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/volantio",
-    "api": "https://yc-oss.github.io/api/batches/winter-2009/volantio.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2009/volantio.json"
   },
   {
     "id": 1437,
@@ -81,7 +81,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/skylights",
-    "api": "https://yc-oss.github.io/api/batches/summer-2016/skylights.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2016/skylights.json"
   },
   {
     "id": 29093,
@@ -124,7 +124,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/roame",
-    "api": "https://yc-oss.github.io/api/batches/summer-2023/roame.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2023/roame.json"
   },
   {
     "id": 30110,
@@ -165,6 +165,6 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/forerunner-ai",
-    "api": "https://yc-oss.github.io/api/batches/fall-2024/forerunner-ai.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/fall-2024/forerunner-ai.json"
   }
 ]

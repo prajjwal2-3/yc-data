@@ -37,7 +37,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/gtrack-technologies",
-    "api": "https://yc-oss.github.io/api/batches/summer-2016/gtrack-technologies.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2016/gtrack-technologies.json"
   },
   {
     "id": 1655,
@@ -80,7 +80,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/predxion-bio",
-    "api": "https://yc-oss.github.io/api/batches/summer-2017/predxion-bio.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2017/predxion-bio.json"
   },
   {
     "id": 22206,
@@ -125,7 +125,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/vena-vitals",
-    "api": "https://yc-oss.github.io/api/batches/summer-2020/vena-vitals.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2020/vena-vitals.json"
   },
   {
     "id": 22319,
@@ -171,6 +171,6 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/siphox-health",
-    "api": "https://yc-oss.github.io/api/batches/summer-2020/siphox-health.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2020/siphox-health.json"
   }
 ]

@@ -39,7 +39,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/blitz-esports",
-    "api": "https://yc-oss.github.io/api/batches/summer-2015/blitz-esports.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2015/blitz-esports.json"
   },
   {
     "id": 1681,
@@ -79,6 +79,6 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/gamelynx",
-    "api": "https://yc-oss.github.io/api/batches/summer-2017/gamelynx.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2017/gamelynx.json"
   }
 ]

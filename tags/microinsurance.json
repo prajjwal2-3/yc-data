@@ -42,7 +42,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/aella",
-    "api": "https://yc-oss.github.io/api/batches/winter-2017/aella.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2017/aella.json"
   },
   {
     "id": 22792,
@@ -86,7 +86,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/bimaplan",
-    "api": "https://yc-oss.github.io/api/batches/winter-2021/bimaplan.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2021/bimaplan.json"
   },
   {
     "id": 25876,
@@ -128,6 +128,6 @@
     "app_answers": false,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/numida",
-    "api": "https://yc-oss.github.io/api/batches/winter-2022/numida.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2022/numida.json"
   }
 ]

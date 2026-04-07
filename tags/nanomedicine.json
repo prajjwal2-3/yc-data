@@ -36,7 +36,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/bikanta",
-    "api": "https://yc-oss.github.io/api/batches/summer-2014/bikanta.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2014/bikanta.json"
   },
   {
     "id": 1746,
@@ -79,7 +79,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/sixfold-bioscience",
-    "api": "https://yc-oss.github.io/api/batches/winter-2018/sixfold-bioscience.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2018/sixfold-bioscience.json"
   },
   {
     "id": 2028,
@@ -125,7 +125,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/rejuvenation-technologies-inc",
-    "api": "https://yc-oss.github.io/api/batches/summer-2018/rejuvenation-technologies-inc.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2018/rejuvenation-technologies-inc.json"
   },
   {
     "id": 23522,
@@ -167,7 +167,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/nuntius-therapeutics",
-    "api": "https://yc-oss.github.io/api/batches/winter-2021/nuntius-therapeutics.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2021/nuntius-therapeutics.json"
   },
   {
     "id": 29051,
@@ -210,6 +210,6 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/nanograb",
-    "api": "https://yc-oss.github.io/api/batches/summer-2023/nanograb.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2023/nanograb.json"
   }
 ]

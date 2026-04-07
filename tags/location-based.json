@@ -39,7 +39,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/fobo",
-    "api": "https://yc-oss.github.io/api/batches/summer-2011/fobo.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2011/fobo.json"
   },
   {
     "id": 1937,
@@ -81,6 +81,6 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/grabb-it",
-    "api": "https://yc-oss.github.io/api/batches/summer-2018/grabb-it.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2018/grabb-it.json"
   }
 ]

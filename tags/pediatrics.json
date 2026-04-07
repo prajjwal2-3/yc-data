@@ -47,7 +47,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/blueberry-pediatrics",
-    "api": "https://yc-oss.github.io/api/batches/winter-2018/blueberry-pediatrics.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2018/blueberry-pediatrics.json"
   },
   {
     "id": 12645,
@@ -93,7 +93,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/brave-care",
-    "api": "https://yc-oss.github.io/api/batches/summer-2019/brave-care.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2019/brave-care.json"
   },
   {
     "id": 25321,
@@ -138,6 +138,6 @@
     "app_answers": true,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/rosebud-biosciences",
-    "api": "https://yc-oss.github.io/api/batches/winter-2022/rosebud-biosciences.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2022/rosebud-biosciences.json"
   }
 ]

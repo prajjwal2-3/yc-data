@@ -44,7 +44,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/apollo",
-    "api": "https://yc-oss.github.io/api/batches/summer-2011/apollo.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2011/apollo.json"
   },
   {
     "id": 1947,
@@ -84,7 +84,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/onegraph",
-    "api": "https://yc-oss.github.io/api/batches/summer-2018/onegraph.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2018/onegraph.json"
   },
   {
     "id": 28216,
@@ -134,6 +134,6 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/escape",
-    "api": "https://yc-oss.github.io/api/batches/winter-2023/escape.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2023/escape.json"
   }
 ]

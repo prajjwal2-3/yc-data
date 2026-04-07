@@ -40,7 +40,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/skylights",
-    "api": "https://yc-oss.github.io/api/batches/summer-2016/skylights.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2016/skylights.json"
   },
   {
     "id": 1814,
@@ -84,6 +84,6 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/psylaris",
-    "api": "https://yc-oss.github.io/api/batches/winter-2018/psylaris.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2018/psylaris.json"
   }
 ]

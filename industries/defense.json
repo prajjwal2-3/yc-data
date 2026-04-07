@@ -36,7 +36,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/apolloshield",
-    "api": "https://yc-oss.github.io/api/batches/summer-2016/apolloshield.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2016/apolloshield.json"
   },
   {
     "id": 22876,
@@ -81,7 +81,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/hermes-robotics",
-    "api": "https://yc-oss.github.io/api/batches/winter-2021/hermes-robotics.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2021/hermes-robotics.json"
   },
   {
     "id": 29447,
@@ -125,7 +125,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/deepnight",
-    "api": "https://yc-oss.github.io/api/batches/winter-2024/deepnight.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2024/deepnight.json"
   },
   {
     "id": 30210,
@@ -161,7 +161,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/conntour",
-    "api": "https://yc-oss.github.io/api/batches/winter-2025/conntour.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2025/conntour.json"
   },
   {
     "id": 30631,
@@ -203,7 +203,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/null-labs",
-    "api": "https://yc-oss.github.io/api/batches/fall-2025/null-labs.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/fall-2025/null-labs.json"
   },
   {
     "id": 30708,
@@ -239,7 +239,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/perseus-defense",
-    "api": "https://yc-oss.github.io/api/batches/summer-2025/perseus-defense.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2025/perseus-defense.json"
   },
   {
     "id": 30965,
@@ -279,7 +279,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/icarus",
-    "api": "https://yc-oss.github.io/api/batches/fall-2025/icarus.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/fall-2025/icarus.json"
   },
   {
     "id": 31180,
@@ -325,7 +325,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/seeing-systems",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/seeing-systems.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2026/seeing-systems.json"
   },
   {
     "id": 31193,
@@ -370,7 +370,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/9-mothers-corporation",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/9-mothers-corporation.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/9-mothers-corporation.json"
   },
   {
     "id": 31287,
@@ -406,7 +406,7 @@
     "app_answers": null,
     "question_answers": true,
     "url": "https://www.ycombinator.com/companies/daivin",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/daivin.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2026/daivin.json"
   },
   {
     "id": 31374,
@@ -448,7 +448,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/tenet-industries",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/tenet-industries.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/tenet-industries.json"
   },
   {
     "id": 31561,
@@ -491,6 +491,6 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/maquoketa-research",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/maquoketa-research.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/maquoketa-research.json"
   }
 ]

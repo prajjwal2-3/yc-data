@@ -40,7 +40,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/zendar",
-    "api": "https://yc-oss.github.io/api/batches/summer-2017/zendar.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2017/zendar.json"
   },
   {
     "id": 12623,
@@ -84,7 +84,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/lumineye",
-    "api": "https://yc-oss.github.io/api/batches/summer-2019/lumineye.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2019/lumineye.json"
   },
   {
     "id": 31366,
@@ -124,6 +124,6 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/nine-fives",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/nine-fives.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/nine-fives.json"
   }
 ]

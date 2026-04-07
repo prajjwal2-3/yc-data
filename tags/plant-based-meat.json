@@ -41,7 +41,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/rebellyous-foods",
-    "api": "https://yc-oss.github.io/api/batches/summer-2018/rebellyous-foods.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2018/rebellyous-foods.json"
   },
   {
     "id": 1930,
@@ -86,6 +86,6 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/the-good-food-institute",
-    "api": "https://yc-oss.github.io/api/batches/summer-2018/the-good-food-institute.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2018/the-good-food-institute.json"
   }
 ]

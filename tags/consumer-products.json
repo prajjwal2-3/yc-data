@@ -41,7 +41,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/mailtime",
-    "api": "https://yc-oss.github.io/api/batches/winter-2016/mailtime.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2016/mailtime.json"
   },
   {
     "id": 1777,
@@ -81,7 +81,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/aesculatech",
-    "api": "https://yc-oss.github.io/api/batches/winter-2018/aesculatech.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2018/aesculatech.json"
   },
   {
     "id": 1904,
@@ -121,7 +121,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/frey",
-    "api": "https://yc-oss.github.io/api/batches/summer-2018/frey.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2018/frey.json"
   },
   {
     "id": 2025,
@@ -166,7 +166,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/lemonbox-health",
-    "api": "https://yc-oss.github.io/api/batches/summer-2018/lemonbox-health.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2018/lemonbox-health.json"
   },
   {
     "id": 12833,
@@ -211,7 +211,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/stoic",
-    "api": "https://yc-oss.github.io/api/batches/summer-2019/stoic.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2019/stoic.json"
   },
   {
     "id": 24497,
@@ -255,7 +255,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/asim",
-    "api": "https://yc-oss.github.io/api/batches/summer-2021/asim.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2021/asim.json"
   },
   {
     "id": 24925,
@@ -301,7 +301,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/liv-labs-inc",
-    "api": "https://yc-oss.github.io/api/batches/summer-2021/liv-labs-inc.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2021/liv-labs-inc.json"
   },
   {
     "id": 25285,
@@ -349,7 +349,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/scout-2",
-    "api": "https://yc-oss.github.io/api/batches/winter-2022/scout-2.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2022/scout-2.json"
   },
   {
     "id": 27879,
@@ -396,7 +396,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/choppy",
-    "api": "https://yc-oss.github.io/api/batches/winter-2023/choppy.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2023/choppy.json"
   },
   {
     "id": 29848,
@@ -439,7 +439,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/saldor",
-    "api": "https://yc-oss.github.io/api/batches/summer-2024/saldor.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2024/saldor.json"
   },
   {
     "id": 30351,
@@ -488,7 +488,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/joindex",
-    "api": "https://yc-oss.github.io/api/batches/winter-2025/joindex.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2025/joindex.json"
   },
   {
     "id": 30441,
@@ -533,7 +533,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/stratify",
-    "api": "https://yc-oss.github.io/api/batches/spring-2025/stratify.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2025/stratify.json"
   },
   {
     "id": 31443,
@@ -576,6 +576,6 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/complir",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/complir.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/complir.json"
   }
 ]

@@ -42,7 +42,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/momentus",
-    "api": "https://yc-oss.github.io/api/batches/summer-2018/momentus.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2018/momentus.json"
   },
   {
     "id": 11949,
@@ -87,7 +87,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/spaceryde",
-    "api": "https://yc-oss.github.io/api/batches/winter-2019/spaceryde.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2019/spaceryde.json"
   },
   {
     "id": 12877,
@@ -130,7 +130,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/epic-aerospace",
-    "api": "https://yc-oss.github.io/api/batches/summer-2019/epic-aerospace.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2019/epic-aerospace.json"
   },
   {
     "id": 13476,
@@ -172,7 +172,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/daedalus",
-    "api": "https://yc-oss.github.io/api/batches/winter-2020/daedalus.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2020/daedalus.json"
   },
   {
     "id": 23817,
@@ -220,7 +220,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/epsilon3-inc",
-    "api": "https://yc-oss.github.io/api/batches/summer-2021/epsilon3-inc.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2021/epsilon3-inc.json"
   },
   {
     "id": 27198,
@@ -264,6 +264,6 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/velontra",
-    "api": "https://yc-oss.github.io/api/batches/summer-2022/velontra.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2022/velontra.json"
   }
 ]

@@ -38,7 +38,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/termius",
-    "api": "https://yc-oss.github.io/api/batches/winter-2019/termius.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2019/termius.json"
   },
   {
     "id": 30680,
@@ -83,6 +83,6 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/riverbank",
-    "api": "https://yc-oss.github.io/api/batches/summer-2025/riverbank.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2025/riverbank.json"
   }
 ]

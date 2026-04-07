@@ -43,7 +43,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/nuvola",
-    "api": "https://yc-oss.github.io/api/batches/winter-2017/nuvola.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2017/nuvola.json"
   },
   {
     "id": 11925,
@@ -85,6 +85,6 @@
     "app_answers": null,
     "question_answers": true,
     "url": "https://www.ycombinator.com/companies/intelline",
-    "api": "https://yc-oss.github.io/api/batches/winter-2019/intelline.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2019/intelline.json"
   }
 ]

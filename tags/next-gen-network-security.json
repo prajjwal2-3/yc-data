@@ -40,7 +40,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/cryptoseal",
-    "api": "https://yc-oss.github.io/api/batches/summer-2011/cryptoseal.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2011/cryptoseal.json"
   },
   {
     "id": 862,
@@ -87,7 +87,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/teleport",
-    "api": "https://yc-oss.github.io/api/batches/summer-2015/teleport.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2015/teleport.json"
   },
   {
     "id": 1630,
@@ -133,7 +133,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/upfort",
-    "api": "https://yc-oss.github.io/api/batches/summer-2017/upfort.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2017/upfort.json"
   },
   {
     "id": 25552,
@@ -178,7 +178,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/firezone",
-    "api": "https://yc-oss.github.io/api/batches/winter-2022/firezone.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2022/firezone.json"
   },
   {
     "id": 26049,
@@ -224,6 +224,6 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/netmaker",
-    "api": "https://yc-oss.github.io/api/batches/winter-2022/netmaker.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2022/netmaker.json"
   }
 ]

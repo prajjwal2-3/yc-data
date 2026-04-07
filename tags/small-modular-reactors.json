@@ -42,7 +42,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/oklo",
-    "api": "https://yc-oss.github.io/api/batches/summer-2014/oklo.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2014/oklo.json"
   },
   {
     "id": 12012,
@@ -83,6 +83,6 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/atomic-alchemy",
-    "api": "https://yc-oss.github.io/api/batches/winter-2019/atomic-alchemy.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2019/atomic-alchemy.json"
   }
 ]

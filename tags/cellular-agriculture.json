@@ -40,7 +40,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/tule",
-    "api": "https://yc-oss.github.io/api/batches/summer-2014/tule.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2014/tule.json"
   },
   {
     "id": 1856,
@@ -84,7 +84,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/culture-biosciences",
-    "api": "https://yc-oss.github.io/api/batches/winter-2018/culture-biosciences.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2018/culture-biosciences.json"
   },
   {
     "id": 1964,
@@ -126,7 +126,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/cb-therapeutics",
-    "api": "https://yc-oss.github.io/api/batches/summer-2018/cb-therapeutics.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2018/cb-therapeutics.json"
   },
   {
     "id": 12531,
@@ -171,7 +171,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/shiru",
-    "api": "https://yc-oss.github.io/api/batches/summer-2019/shiru.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2019/shiru.json"
   },
   {
     "id": 25349,
@@ -215,7 +215,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/brown-foods",
-    "api": "https://yc-oss.github.io/api/batches/winter-2022/brown-foods.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2022/brown-foods.json"
   },
   {
     "id": 25399,
@@ -261,6 +261,6 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/invert",
-    "api": "https://yc-oss.github.io/api/batches/winter-2022/invert.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2022/invert.json"
   }
 ]

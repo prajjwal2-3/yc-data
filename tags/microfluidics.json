@@ -40,7 +40,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/indee-labs",
-    "api": "https://yc-oss.github.io/api/batches/winter-2017/indee-labs.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2017/indee-labs.json"
   },
   {
     "id": 1655,
@@ -83,7 +83,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/predxion-bio",
-    "api": "https://yc-oss.github.io/api/batches/summer-2017/predxion-bio.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2017/predxion-bio.json"
   },
   {
     "id": 1791,
@@ -126,7 +126,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/correlia-biosystems",
-    "api": "https://yc-oss.github.io/api/batches/winter-2018/correlia-biosystems.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2018/correlia-biosystems.json"
   },
   {
     "id": 24450,
@@ -170,7 +170,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/astek-diagnostics-inc",
-    "api": "https://yc-oss.github.io/api/batches/summer-2021/astek-diagnostics-inc.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2021/astek-diagnostics-inc.json"
   },
   {
     "id": 28112,
@@ -218,6 +218,6 @@
     "app_answers": true,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/persist-ai",
-    "api": "https://yc-oss.github.io/api/batches/winter-2023/persist-ai.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2023/persist-ai.json"
   }
 ]
