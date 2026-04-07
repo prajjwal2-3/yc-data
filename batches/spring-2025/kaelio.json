@@ -1,0 +1,37 @@
+{
+  "id": 30437,
+  "name": "Kaelio",
+  "slug": "kaelio",
+  "former_names": [],
+  "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c4c744ee428be44ba894f8b477449386dca44045.png",
+  "website": "https://kaelio.com/",
+  "all_locations": "",
+  "long_description": "Kaelio connects your CRM, analytics, billing, support, and ops tools. It monitors what's happening across your stack, flags what needs attention, recommends the next step, and executes with one command.\r\n\r\nTeams today switch between five dashboards just to figure out what's going on. They catch problems after they've escalated, spend 45 minutes prepping for meetings, and still miss the follow-up.\r\n\r\nKaelio fixes that. It watches everything, tells your team what matters, and acts on it. Revenue, ops, marketing, finance, customer success. One agent that works across all of them.",
+  "one_liner": "AI that operates your business",
+  "team_size": 4,
+  "industry": "B2B",
+  "subindustry": "B2B",
+  "launched_at": 1747200146,
+  "tags": [
+    "AI"
+  ],
+  "tags_highlighted": [],
+  "top_company": false,
+  "isHiring": false,
+  "nonprofit": false,
+  "batch": "Spring 2025",
+  "status": "Active",
+  "industries": [
+    "B2B"
+  ],
+  "regions": [
+    "Unspecified"
+  ],
+  "stage": "Early",
+  "app_video_public": false,
+  "demo_day_video_public": false,
+  "app_answers": null,
+  "question_answers": false,
+  "url": "https://www.ycombinator.com/companies/kaelio",
+  "api": "https://yc-oss.github.io/api/batches/spring-2025/kaelio.json"
+}

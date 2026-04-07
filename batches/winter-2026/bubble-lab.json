@@ -1,0 +1,36 @@
+{
+  "id": 31215,
+  "name": "Bubble Lab",
+  "slug": "bubble-lab",
+  "former_names": [],
+  "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9fc7f7534f4fb913904f49914952c1daa8086654.png",
+  "website": "https://bubblelab.ai/",
+  "all_locations": "",
+  "long_description": "Bubble Lab lets companies deploy Pearl, an ops super-employee that lives in Slack.\r\n\r\nPearl connects to SaaS tools like Notion, Jira, HubSpot, Stripe, and Google Workspace so teams can simply ask for work to happen — generating reports, updating CRMs, or chasing invoices.\r\n\r\nTasks start as flexible AI agents, but when they become repeatable, Bubble Lab automatically converts them into deterministic workflows that run instantly, reliably, and at zero cost.\r\n\r\nOperations teams use Bubble Lab to eliminate manual work and scale operations without scaling headcount.\r\n\r\nAlready trusted by thousands of operators across BizOps, RevOps, and fast-growing teams.",
+  "one_liner": "The ops super-employee in Slack",
+  "team_size": 2,
+  "industry": "B2B",
+  "subindustry": "B2B -> Operations",
+  "launched_at": 1764881455,
+  "tags": [],
+  "tags_highlighted": [],
+  "top_company": false,
+  "isHiring": false,
+  "nonprofit": false,
+  "batch": "Winter 2026",
+  "status": "Active",
+  "industries": [
+    "B2B",
+    "Operations"
+  ],
+  "regions": [
+    "Unspecified"
+  ],
+  "stage": "Early",
+  "app_video_public": false,
+  "demo_day_video_public": false,
+  "app_answers": null,
+  "question_answers": false,
+  "url": "https://www.ycombinator.com/companies/bubble-lab",
+  "api": "https://yc-oss.github.io/api/batches/winter-2026/bubble-lab.json"
+}

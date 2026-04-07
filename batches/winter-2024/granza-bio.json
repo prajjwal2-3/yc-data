@@ -1,0 +1,45 @@
+{
+  "id": 29485,
+  "name": "Granza Bio",
+  "slug": "granza-bio",
+  "former_names": [
+    "Zyme Therapeutics"
+  ],
+  "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e4fe5f43800f16c0ca16303f58b955037e3f2bc1.png",
+  "website": "https://www.granzabio.com/",
+  "all_locations": "San Francisco, CA, USA",
+  "long_description": "Granza Bio is building on the discovery of a previously unknown cytotoxic mechanism in T cells: supramolecular attack particles (SMAPs, Science 2020). This biology reveals a new modality through which cytotoxic lymphocytes deliver persistent, high-intensity killing.",
+  "one_liner": "Reprogramming Immunity for Target-Specific Medicines",
+  "team_size": 7,
+  "industry": "Healthcare",
+  "subindustry": "Healthcare -> Therapeutics",
+  "launched_at": 1709082658,
+  "tags": [
+    "Synthetic Biology",
+    "Biotech",
+    "Healthcare",
+    "Therapeutics",
+    "Oncology"
+  ],
+  "tags_highlighted": [],
+  "top_company": false,
+  "isHiring": false,
+  "nonprofit": false,
+  "batch": "Winter 2024",
+  "status": "Active",
+  "industries": [
+    "Healthcare",
+    "Therapeutics"
+  ],
+  "regions": [
+    "United States of America",
+    "America / Canada"
+  ],
+  "stage": "Early",
+  "app_video_public": false,
+  "demo_day_video_public": false,
+  "app_answers": null,
+  "question_answers": false,
+  "url": "https://www.ycombinator.com/companies/granza-bio",
+  "api": "https://yc-oss.github.io/api/batches/winter-2024/granza-bio.json"
+}

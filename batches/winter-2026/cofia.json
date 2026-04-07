@@ -1,0 +1,36 @@
+{
+  "id": 31104,
+  "name": "Cofia",
+  "slug": "cofia",
+  "former_names": [],
+  "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4eaa13d214b16fc810b36ff373668440c966f1b5.png",
+  "website": "https://cofia.ai",
+  "all_locations": "",
+  "long_description": "We learn how you work, and proactively create tailor-made automations you can deploy without you ever writing a prompt or relying on X for automation inspo.",
+  "one_liner": "AI automations that write themselves",
+  "team_size": 2,
+  "industry": "B2B",
+  "subindustry": "B2B -> Productivity",
+  "launched_at": 1772226189,
+  "tags": [],
+  "tags_highlighted": [],
+  "top_company": false,
+  "isHiring": false,
+  "nonprofit": false,
+  "batch": "Winter 2026",
+  "status": "Active",
+  "industries": [
+    "B2B",
+    "Productivity"
+  ],
+  "regions": [
+    "Unspecified"
+  ],
+  "stage": "Early",
+  "app_video_public": false,
+  "demo_day_video_public": false,
+  "app_answers": null,
+  "question_answers": false,
+  "url": "https://www.ycombinator.com/companies/cofia",
+  "api": "https://yc-oss.github.io/api/batches/winter-2026/cofia.json"
+}

@@ -1,0 +1,40 @@
+{
+  "id": 31488,
+  "name": "Foaster",
+  "slug": "foaster",
+  "former_names": [],
+  "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/cdcff33c87fe29fc884e55a8d2475dd3ed741f53.png",
+  "website": "https://foaster.ai",
+  "all_locations": "San Francisco, CA, USA",
+  "long_description": "Our agents map your company’s operations to identify where and how AI should be integrated.\r\n\r\nCompanies do not have a clear view of how work actually gets done. Their operations are spread across workflows, tools, teams, processes, and sometimes countries, with critical bottlenecks and inefficiencies hidden in the gaps. \r\n\r\nBefore AI can truly transform a company, you first need a granular view of the tasks, handoffs, and dependencies that make up the business.\r\n\r\nFoaster uses AI-led interviews to rebuild that map at scale through 45 minutes chats with employees. Our agents surface how work really happens across the organization, detect bottlenecks and inefficiencies, and then identify where AI can create the most leverage. \r\n\r\nRight now, AI can automate tasks but not entire job. The real challenge is understanding thousands of processes well enough to redesign them coherently. \r\n\r\nNo human team can do that with enough speed or depth. AI can. In days. ",
+  "one_liner": "Map your company's operations, identify where and how to integrate AI",
+  "team_size": 2,
+  "industry": "B2B",
+  "subindustry": "B2B",
+  "launched_at": 1773744030,
+  "tags": [
+    "B2B",
+    "Enterprise Software",
+    "AI"
+  ],
+  "tags_highlighted": [],
+  "top_company": false,
+  "isHiring": false,
+  "nonprofit": false,
+  "batch": "Spring 2026",
+  "status": "Active",
+  "industries": [
+    "B2B"
+  ],
+  "regions": [
+    "United States of America",
+    "America / Canada"
+  ],
+  "stage": "Early",
+  "app_video_public": false,
+  "demo_day_video_public": false,
+  "app_answers": null,
+  "question_answers": false,
+  "url": "https://www.ycombinator.com/companies/foaster",
+  "api": "https://yc-oss.github.io/api/batches/spring-2026/foaster.json"
+}

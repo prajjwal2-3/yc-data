@@ -1,0 +1,47 @@
+{
+  "id": 22196,
+  "name": "MedPiper Technologies, Inc",
+  "slug": "medpiper-technologies-inc",
+  "former_names": [
+    "MedPiper Technologies"
+  ],
+  "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f7d30e3e30894c40033c853cefa3efa02ec9f54b.png",
+  "website": "https://www.medpiper.com",
+  "all_locations": "Bengaluru, KA, India",
+  "long_description": "OrbitCover (by MedPiper Technologies, YC S20) is parametric settlement infrastructure. We enable insurers and distributors to offer auto-settling protection products where claims resolve in minutes, not weeks, triggered by verifiable events with zero human intervention.\r\n\r\nLive today in travel: flights on IndiGo auto-settle delay payouts via UPI in under 5 minutes. ~49,000 policies/day. We operate as an MGA with 25-30% commission economics and no balance sheet risk, licensed under IRDAI.\r\nWe're expanding into Guaranteed Compute (parametric downtime coverage for GPU infrastructure) and building toward vertical-agnostic parametric rails.\r\n\r\nCore things we deliver:\r\nEvent-triggered, sub-5-minute settlement\r\nVertical-agnostic parametric binding protocol (VerticalBinding)\r\nDual-mode pricing engine with real-time actuarial calibration\r\nFull insurer/reinsurer integration (product filing, claims ops, regulatory compliance)",
+  "one_liner": "Parametric settlement infrastructure for insurance",
+  "team_size": 55,
+  "industry": "Fintech",
+  "subindustry": "Fintech -> Insurance",
+  "launched_at": 1597677447,
+  "tags": [
+    "Fintech",
+    "B2B",
+    "Insurance",
+    "Consumer Finance",
+    "Infrastructure"
+  ],
+  "tags_highlighted": [],
+  "top_company": false,
+  "isHiring": false,
+  "nonprofit": false,
+  "batch": "Summer 2020",
+  "status": "Active",
+  "industries": [
+    "Fintech",
+    "Insurance"
+  ],
+  "regions": [
+    "India",
+    "South Asia",
+    "Remote",
+    "Partly Remote"
+  ],
+  "stage": "Early",
+  "app_video_public": false,
+  "demo_day_video_public": false,
+  "app_answers": null,
+  "question_answers": false,
+  "url": "https://www.ycombinator.com/companies/medpiper-technologies-inc",
+  "api": "https://yc-oss.github.io/api/batches/summer-2020/medpiper-technologies-inc.json"
+}

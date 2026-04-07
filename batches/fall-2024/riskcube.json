@@ -1,0 +1,41 @@
+{
+  "id": 30055,
+  "name": "RiskCube",
+  "slug": "riskcube",
+  "former_names": [],
+  "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/93b1b4fbe4b8807a5770f0fad5c76f3b8685dee9.png",
+  "website": "https://riskcube.com",
+  "all_locations": "San Francisco, CA, USA",
+  "long_description": "RiskCube helps startups and growing businesses become vendor-ready faster by getting them the insurance they need to sell into enterprise customers, pass procurement, move through onboarding, and meet retail vendor requirements. We use AI-driven workflows and licensed broker review to compare top-rated U.S. carriers and help founders secure D&O, Tech E&O, Cyber, General Liability, Product Liability, and Certificates of Insurance (COIs). We serve AI/SaaS, Space, Fintech and Web3 startups. ",
+  "one_liner": "AI-native commercial insurance broker for startups.",
+  "team_size": 3,
+  "industry": "Fintech",
+  "subindustry": "Fintech -> Insurance",
+  "launched_at": 1731782052,
+  "tags": [
+    "Fintech",
+    "Insurance",
+    "AI"
+  ],
+  "tags_highlighted": [],
+  "top_company": false,
+  "isHiring": false,
+  "nonprofit": false,
+  "batch": "Fall 2024",
+  "status": "Active",
+  "industries": [
+    "Fintech",
+    "Insurance"
+  ],
+  "regions": [
+    "United States of America",
+    "America / Canada"
+  ],
+  "stage": "Early",
+  "app_video_public": false,
+  "demo_day_video_public": false,
+  "app_answers": null,
+  "question_answers": false,
+  "url": "https://www.ycombinator.com/companies/riskcube",
+  "api": "https://yc-oss.github.io/api/batches/fall-2024/riskcube.json"
+}

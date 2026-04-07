@@ -1,0 +1,42 @@
+{
+  "id": 31539,
+  "name": "Klaimee",
+  "slug": "klaimee",
+  "former_names": [],
+  "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6e3d33eec8f456adbebd1c1792d44f7e75715cbd.png",
+  "website": "https://www.klaimee.co/",
+  "all_locations": "",
+  "long_description": "Klaimee certifies and insures autonomous AI agents.\r\nWe audit your agents and back them with AI-native liability coverage.\r\nBuilt for startups bringing AI to enterprise clients, self-serve from day one.",
+  "one_liner": "Insurance for the agentic world. Starting with AI agent risk.",
+  "team_size": 2,
+  "industry": "Fintech",
+  "subindustry": "Fintech -> Insurance",
+  "launched_at": 1775456412,
+  "tags": [
+    "AIOps",
+    "Artificial Intelligence",
+    "SaaS",
+    "Insurance",
+    "AI"
+  ],
+  "tags_highlighted": [],
+  "top_company": false,
+  "isHiring": false,
+  "nonprofit": false,
+  "batch": "Spring 2026",
+  "status": "Active",
+  "industries": [
+    "Fintech",
+    "Insurance"
+  ],
+  "regions": [
+    "Unspecified"
+  ],
+  "stage": "Early",
+  "app_video_public": false,
+  "demo_day_video_public": false,
+  "app_answers": null,
+  "question_answers": true,
+  "url": "https://www.ycombinator.com/companies/klaimee",
+  "api": "https://yc-oss.github.io/api/batches/spring-2026/klaimee.json"
+}

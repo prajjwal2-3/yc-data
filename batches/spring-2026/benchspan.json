@@ -1,0 +1,44 @@
+{
+  "id": 31429,
+  "name": "Benchspan",
+  "slug": "benchspan",
+  "former_names": [
+    "Oddpool"
+  ],
+  "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/aa4fc4f6d1e2ccaa194229fd65ff2d902dc82092.png",
+  "website": "https://www.benchspan.com",
+  "all_locations": "San Francisco, CA, USA",
+  "long_description": "Benchspan is a benchmarking platform for AI agents. If you're building an agent, you need to know if it's getting better. But running benchmarks is slow, expensive, and fragile. You spend days writing glue code every time you want to run a new benchmark, runs take forever on your laptop, and when they fail halfway through you burn hundreds of dollars in tokens with nothing to show for it.\r\n\r\nBenchspan fixes all of it. Onboard your agent once, and it works with every benchmark on the platform. We onboarded Claude Code in 37 lines of code. Running a benchmark becomes a single command, executed in parallel in the cloud. Every result goes to one place your whole team can see, with full trajectories, token usage, latency, and custom metrics. When runs partially fail, rerun just the subset that errored instead of starting from scratch. Compare runs side by side to see exactly where your agent is improving and where it's regressing.",
+  "one_liner": "Run agent benchmarks in minutes, not hours",
+  "team_size": 2,
+  "industry": "B2B",
+  "subindustry": "B2B -> Engineering, Product and Design",
+  "launched_at": 1773859660,
+  "tags": [
+    "AIOps",
+    "Analytics",
+    "Infrastructure",
+    "AI"
+  ],
+  "tags_highlighted": [],
+  "top_company": false,
+  "isHiring": false,
+  "nonprofit": false,
+  "batch": "Spring 2026",
+  "status": "Active",
+  "industries": [
+    "B2B",
+    "Engineering, Product and Design"
+  ],
+  "regions": [
+    "United States of America",
+    "America / Canada"
+  ],
+  "stage": "Early",
+  "app_video_public": false,
+  "demo_day_video_public": false,
+  "app_answers": null,
+  "question_answers": false,
+  "url": "https://www.ycombinator.com/companies/benchspan",
+  "api": "https://yc-oss.github.io/api/batches/spring-2026/benchspan.json"
+}

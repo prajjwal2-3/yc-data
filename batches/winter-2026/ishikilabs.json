@@ -1,0 +1,38 @@
+{
+  "id": 31152,
+  "name": "Fern (Formerly Ishiki Labs)",
+  "slug": "ishikilabs",
+  "former_names": [
+    "ProactiveAI",
+    "Ishiki Labs"
+  ],
+  "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/937df36cb9a1992b6e2ab4f4415451f1ad6f7174.png",
+  "website": "https://getfern.ai",
+  "all_locations": "",
+  "long_description": "Fern is a proactive AI assistant. We are starting with sales meeting. Fern runs sales playbooks live in a sales call so any person can function as a top sales person. During the call, Fern will listen to the conversation and provide realtime coaching and help the sales person with questions about product, competitors and discovery. It’s like having a senior AE on every call giving suggestions in the background.",
+  "one_liner": "Proactive AI assistant starting with sales",
+  "team_size": 2,
+  "industry": "B2B",
+  "subindustry": "B2B",
+  "launched_at": 1768297786,
+  "tags": [],
+  "tags_highlighted": [],
+  "top_company": false,
+  "isHiring": false,
+  "nonprofit": false,
+  "batch": "Winter 2026",
+  "status": "Active",
+  "industries": [
+    "B2B"
+  ],
+  "regions": [
+    "Unspecified"
+  ],
+  "stage": "Early",
+  "app_video_public": false,
+  "demo_day_video_public": false,
+  "app_answers": null,
+  "question_answers": true,
+  "url": "https://www.ycombinator.com/companies/ishikilabs",
+  "api": "https://yc-oss.github.io/api/batches/winter-2026/ishikilabs.json"
+}

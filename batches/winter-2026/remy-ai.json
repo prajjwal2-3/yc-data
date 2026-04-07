@@ -1,0 +1,38 @@
+{
+  "id": 31232,
+  "name": "Remy AI",
+  "slug": "remy-ai",
+  "former_names": [
+    "Bright Eyed Labs"
+  ],
+  "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/94f9d60cdf58d3c7fc724152a315ad834ec78eec.png",
+  "website": "https://www.tryremy.ai/",
+  "all_locations": "",
+  "long_description": "We're building flexible automation for warehouses. Our robots automate operationally-intensive, high-dexterity tasks using a proprietary model that draws on the latest architectures in robotic learning. Our custom training pipeline learns new tasks with less data than vanilla VLA fine-tunes, and our unique hardware design operates robustly in the most demanding warehousing environments.\r\n\r\nToday, 80% of small to mid-size warehouses have zero automation. Not because of lack of interest, but because existing systems can't handle their ever-changing inventory and workflows. \r\n\r\nWe're building robots that change that: flexible, adaptable machines that slot into existing work stations, bringing brownfield automation to the millions of facilities the last 20 years of warehouse automation has left behind.",
+  "one_liner": "Automating dexterous tasks in e-commerce warehouses",
+  "team_size": 2,
+  "industry": "Industrials",
+  "subindustry": "Industrials -> Manufacturing and Robotics",
+  "launched_at": 1770934019,
+  "tags": [],
+  "tags_highlighted": [],
+  "top_company": false,
+  "isHiring": false,
+  "nonprofit": false,
+  "batch": "Winter 2026",
+  "status": "Active",
+  "industries": [
+    "Industrials",
+    "Manufacturing and Robotics"
+  ],
+  "regions": [
+    "Unspecified"
+  ],
+  "stage": "Early",
+  "app_video_public": false,
+  "demo_day_video_public": false,
+  "app_answers": null,
+  "question_answers": false,
+  "url": "https://www.ycombinator.com/companies/remy-ai",
+  "api": "https://yc-oss.github.io/api/batches/winter-2026/remy-ai.json"
+}

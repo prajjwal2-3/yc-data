@@ -1,0 +1,37 @@
+{
+  "id": 31507,
+  "name": "ProjectX",
+  "slug": "projectx",
+  "former_names": [],
+  "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2f60ad803d2e9b0079d1a0e2e9afd248df7aafcd.png",
+  "website": "https://www.projectx.cloud/",
+  "all_locations": "",
+  "long_description": "Infinity is one OS for every device. Any workflow, from anywhere.\r\n\r\nTraditional operating systems are hardware-locked, driver-dependent, and were never built for agents. Spinning up AI agents today means wrestling with VMs, DevOps pipelines, and hard resource caps before a single workflow even runs. Every device has its own OS, its own limits, its own ceiling. The heaviest applications -- robotics simulators, CAD tools, AI workloads -- stay locked to the machines powerful enough to run them.\r\n\r\nInfinity abstracts all of it away. Windows apps, Linux apps, and AI agents run in a single cloud-native environment -- streamed with dedicated GPU compute to any browser on any hardware, from a laptop to an Apple Watch. \r\n\r\nRun the heaviest apps from the lightest devices. Humans and agents share the same workspace with infinite compute and unlimited parallel workflows. One URL",
+  "one_liner": "Building Infinity: the cloud OS where humans and agents work together",
+  "team_size": 6,
+  "industry": "B2B",
+  "subindustry": "B2B -> Infrastructure",
+  "launched_at": 1773453080,
+  "tags": [],
+  "tags_highlighted": [],
+  "top_company": false,
+  "isHiring": false,
+  "nonprofit": false,
+  "batch": "Spring 2026",
+  "status": "Active",
+  "industries": [
+    "B2B",
+    "Infrastructure"
+  ],
+  "regions": [
+    "Remote",
+    "Partly Remote"
+  ],
+  "stage": "Early",
+  "app_video_public": false,
+  "demo_day_video_public": false,
+  "app_answers": null,
+  "question_answers": false,
+  "url": "https://www.ycombinator.com/companies/projectx",
+  "api": "https://yc-oss.github.io/api/batches/spring-2026/projectx.json"
+}

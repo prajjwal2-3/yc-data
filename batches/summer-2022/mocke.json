@@ -1,0 +1,48 @@
+{
+  "id": 26730,
+  "name": "Mocke",
+  "slug": "mocke",
+  "former_names": [
+    "Paigo",
+    "Champ",
+    "Mocke",
+    "Champ"
+  ],
+  "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e139b92e8bc60907f4d34db4e4a35641c4f569d9.png",
+  "website": "https://mocke.co/",
+  "all_locations": "San Francisco, CA, USA; Remote",
+  "long_description": "Cold Email AI Agent. ",
+  "one_liner": "Cursor for cold email, with lead research and personalization at scale",
+  "team_size": 5,
+  "industry": "B2B",
+  "subindustry": "B2B -> Sales",
+  "launched_at": 1654798414,
+  "tags": [
+    "B2B",
+    "Sales",
+    "AI"
+  ],
+  "tags_highlighted": [],
+  "top_company": false,
+  "isHiring": false,
+  "nonprofit": false,
+  "batch": "Summer 2022",
+  "status": "Active",
+  "industries": [
+    "B2B",
+    "Sales"
+  ],
+  "regions": [
+    "United States of America",
+    "America / Canada",
+    "Remote",
+    "Fully Remote"
+  ],
+  "stage": "Early",
+  "app_video_public": false,
+  "demo_day_video_public": false,
+  "app_answers": null,
+  "question_answers": false,
+  "url": "https://www.ycombinator.com/companies/mocke",
+  "api": "https://yc-oss.github.io/api/batches/summer-2022/mocke.json"
+}

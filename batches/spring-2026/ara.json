@@ -1,0 +1,42 @@
+{
+  "id": 31458,
+  "name": "Ara",
+  "slug": "ara",
+  "former_names": [
+    "EasyClaw"
+  ],
+  "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/709b77ff2570af190d17b38705c6aa58eb3a15cf.png",
+  "website": "https://ara.so",
+  "all_locations": "San Francisco, CA, USA",
+  "long_description": "Ara is building the fastest personal AI agent computing environment that works for you 24/7.\r\nUsers get instant cloud runtimes to run agents like OpenClaw in isolated environments, letting them organize files, send emails, and handle day-to-day tasks automatically.",
+  "one_liner": "personal ai cloud computing for everyone",
+  "team_size": 2,
+  "industry": "Consumer",
+  "subindustry": "Consumer",
+  "launched_at": 1775160352,
+  "tags": [
+    "Artificial Intelligence",
+    "Developer Tools",
+    "Consumer"
+  ],
+  "tags_highlighted": [],
+  "top_company": false,
+  "isHiring": false,
+  "nonprofit": false,
+  "batch": "Spring 2026",
+  "status": "Active",
+  "industries": [
+    "Consumer"
+  ],
+  "regions": [
+    "United States of America",
+    "America / Canada"
+  ],
+  "stage": "Early",
+  "app_video_public": false,
+  "demo_day_video_public": false,
+  "app_answers": null,
+  "question_answers": false,
+  "url": "https://www.ycombinator.com/companies/ara",
+  "api": "https://yc-oss.github.io/api/batches/spring-2026/ara.json"
+}

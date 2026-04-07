@@ -1,0 +1,37 @@
+{
+  "id": 31156,
+  "name": "Ventura",
+  "slug": "ventura",
+  "former_names": [
+    "Autola"
+  ],
+  "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/da34d67bc7bfb583fad0d2c587e602fbe787b210.png",
+  "website": "https://www.ventura.ai",
+  "all_locations": "",
+  "long_description": "Ventura (YC W26) is building the AI teammate for industrial distributors, starting with quoting. We're live with customers in the building materials supply industry.\r\n\r\nVentura works with your existing ERP and can be trained to execute new processes, like a new teammate.\r\n\r\nCEO Swen previously built and exited a wholesale distribution SaaS.\r\n\r\nCTO Jack was the Founding Engineer at Develop Health (company scaled 0→$7M ARR in 14 months with 5 employees).",
+  "one_liner": "AI Teammates for Industrial Distributors",
+  "team_size": 2,
+  "industry": "Industrials",
+  "subindustry": "Industrials",
+  "launched_at": 1772945697,
+  "tags": [],
+  "tags_highlighted": [],
+  "top_company": false,
+  "isHiring": false,
+  "nonprofit": false,
+  "batch": "Winter 2026",
+  "status": "Active",
+  "industries": [
+    "Industrials"
+  ],
+  "regions": [
+    "Unspecified"
+  ],
+  "stage": "Early",
+  "app_video_public": false,
+  "demo_day_video_public": false,
+  "app_answers": null,
+  "question_answers": false,
+  "url": "https://www.ycombinator.com/companies/ventura",
+  "api": "https://yc-oss.github.io/api/batches/winter-2026/ventura.json"
+}
