@@ -10586,7 +10586,7 @@
       "Remote",
       "Fully Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -11117,6 +11117,51 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/dex",
     "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2019/dex.json"
+  },
+  {
+    "id": 12531,
+    "name": "Shiru",
+    "slug": "shiru",
+    "former_names": [
+      "Shiru Bio"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/96f8b3ffa1e973f19d7d140a20c5160d4529a01e.png",
+    "website": "https://www.shiru.com/",
+    "all_locations": "Emeryville, CA, USA",
+    "long_description": "",
+    "one_liner": "Shiru leverages ML to create proteins to feed the world sustainably. ",
+    "team_size": 4,
+    "industry": "Healthcare",
+    "subindustry": "Healthcare -> Industrial Bio",
+    "launched_at": 1555989874,
+    "tags": [
+      "AI-powered Drug Discovery",
+      "Cellular Agriculture",
+      "Machine Learning"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2019",
+    "status": "Active",
+    "industries": [
+      "Healthcare",
+      "Industrial Bio"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/shiru",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2019/shiru.json"
   },
   {
     "id": 12532,
@@ -27747,17 +27792,17 @@
     "website": "http://www.cinder.co",
     "all_locations": "New York, NY, USA",
     "long_description": "From content moderation to responsible AI, Cinder empowers businesses to orchestrate and automate digital safety at scale. Cinder was founded to help organizations foster safe online spaces for everyone. Our platform empowers companies from start-ups to enterprises with end-to-end capabilities to mitigate harm, investigate abuse, and produce trustworthy and reliable AI outcomes. Building your world-class company means keeping your users and community safe—Cinder unlocks faster growth by making safety easy. We work with customers in every industry from frontier AI labs to e-commerce and social media. \r\n\r\nWe're hiring across a variety of teams and looking for candidates based in NYC or open to relocating to NYC, and able to work in-person.",
-    "one_liner": "Cinder | Responsible AI, Trust & Safety, and Data Labeling At Scale",
+    "one_liner": "Infrastructure to protect companies from AI abuse",
     "team_size": 23,
     "industry": "B2B",
     "subindustry": "B2B -> Security",
     "launched_at": 1647554051,
     "tags": [
+      "Artificial Intelligence",
       "SaaS",
       "B2B",
       "Compliance",
-      "Trust & Safety",
-      "AI"
+      "Trust & Safety"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -29383,7 +29428,7 @@
     "website": "https://mymindbase.ai",
     "all_locations": "Gurugram, HR, India; Remote",
     "long_description": "Mindbase is an AI avatar platform where we launch AI avatars of real human as well create artificial entities and grow them on Instagram/Youtube like a influencer using AI content strategies. \r\n\r\nWe give each AI influencer its own email, phone number and WhatsApp account so they can build deep relationships like a human creator would. \r\n\r\nAlready, generating over 5m+ daily views with just a network of 10+ AI influencers.\r\n\r\nOur business model is simple: brands pay us between $1,000 to $4,000 per month per AI influencer. One of our brand partners generated $45,000 in sales from a $3,000 spend, achieving a 15X ROAS.\r\n\r\nWe believe this is just the beginning.  We can generate $20,000 annually per AI influencer. With just 5000 AI influencers we can quickly scale to $100 million ARR business. \r\n\r\nTo put that in perspective: there are over 400 million regular human influencers globally. Even if we just target a fraction of the market, it’s a massive thing.\r\n\r\nOur team is the key to making this happen. We're alumni of IIT and repeat founders. Previously, built TradeX, a prediction market platform, scaled that to $40 million in monthly trading volume with 5 million users. That success was driven by our trend tracking system & influencer partnerships, the very same expertise we're now using to build Mindbase.\r\n",
-    "one_liner": "We build AI influencers that autonomously create content, engage fans…",
+    "one_liner": "Build AI influencers that autonomously create content, engage fans…",
     "team_size": 7,
     "industry": "B2B",
     "subindustry": "B2B -> Marketing",
@@ -44015,48 +44060,6 @@
     "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2024/brainbase-labs.json"
   },
   {
-    "id": 29418,
-    "name": "Sample",
-    "slug": "sample",
-    "former_names": [
-      "Neem"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6e0d3f747777064eae6051c75654887bc5cb6e33.png",
-    "website": "https://samplehc.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Sample transforms healthcare operations from a burden into a competitive advantage. \r\n\r\nOur users build copilots in Sample to support processes like patient intake and reimbursement. These copilots don't just speed up work – they capture valuable ground-truth data that make our models smarter over time.\r\n\r\nWe work with leading national providers, already have data from 76% of US oncology clinics, and our network is rapidly expanding across the nation.",
-    "one_liner": "Flexible systems for clinical reasoning.",
-    "team_size": 5,
-    "industry": "Healthcare",
-    "subindustry": "Healthcare -> Healthcare IT",
-    "launched_at": 1721245489,
-    "tags": [
-      "Health Tech",
-      "Healthcare IT"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Winter 2024",
-    "status": "Active",
-    "industries": [
-      "Healthcare",
-      "Healthcare IT"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/sample",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2024/sample.json"
-  },
-  {
     "id": 29422,
     "name": "Deep24",
     "slug": "deep24",
@@ -44444,7 +44447,7 @@
     "former_names": [
       "Adam Translate"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e52cdc0c1e4177276aba7fa2d8e4326d287620ca.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c0856f230de1a84be083cff84a3298664d32f0a3.png",
     "website": "https://retellai.com",
     "all_locations": "",
     "long_description": "The leading platform for building and managing AI voice agents that revolutionize contact center operations.",
@@ -45225,14 +45228,20 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/728ee9ea2b99fcf7119bc1be1f331371e8b80fc2.png",
     "website": "https://coval.dev",
-    "all_locations": "",
+    "all_locations": "San Francisco, CA, USA",
     "long_description": "Coval is a simulation & evaluation platform for autonomous AI agents, helping engineers launch dependable assistants across chat, voice, and other modalities. \r\nWe simulate thousands of scenarios engineers don't have to manually test their agents. Our CI/CD evaluations automatically simulate and detect regressions.",
     "one_liner": "Simulation & Evaluation that scales voice and chat AI agents",
-    "team_size": 5,
+    "team_size": 10,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1725341816,
-    "tags": [],
+    "tags": [
+      "Developer Tools",
+      "SaaS",
+      "B2B",
+      "Monitoring",
+      "AI"
+    ],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": true,
@@ -45244,7 +45253,8 @@
       "Engineering, Product and Design"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -49510,9 +49520,9 @@
     "subindustry": "Healthcare -> Healthcare IT",
     "launched_at": 1723733582,
     "tags": [
+      "Artificial Intelligence",
       "Big Data",
-      "Healthcare IT",
-      "AI"
+      "Healthcare IT"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -56000,8 +56010,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6077089b2820cf087e262d7c3ff9da8b9617d791.png",
     "website": "https://parametric.company/",
     "all_locations": "",
-    "long_description": "Existing robots learn generic averages from massive datasets. Our robots learn from customer feedback.\r\n\r\nWe solve the RL feedback loop for robotics, allowing our robots to learn from your specific standards via an automated reward pipeline that combines customer feedback with an intelligent judge model. This is the only way to capture the multi-trillion dollar “long tail” of unique, high-aggregate-value business tasks. ",
-    "one_liner": "Robots for frontline physical labor — starting with laundry",
+    "long_description": "Parametric builds autonomous physical businesses.\r\n\r\nWe're starting with a laundromat, designed from the ground up for autonomy. Dirty laundry in, folded clean laundry out.\r\n\r\nRather than retrofit human workflows with robots, we redesign processes with robots as first class citizens.",
+    "one_liner": "Physical businesses that run themselves",
     "team_size": 7,
     "industry": "Industrials",
     "subindustry": "Industrials -> Manufacturing and Robotics",
@@ -61714,6 +61724,51 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/gojiberry-ai",
     "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/gojiberry-ai.json"
+  },
+  {
+    "id": 31440,
+    "name": "Mount",
+    "slug": "mount",
+    "former_names": [
+      "Cybe"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fa5208859312a795f7e72dfb9eb2a5149785a216.png",
+    "website": "https://mount.insure",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Mount is the Insurer for the Agent Economy.\r\n\r\nWhen AI systems autonomously sign contracts, manage finances, or talk to customers, every failure becomes the deployer's liability. Existing insurers don't want to cover this. They lack the data, the models, and the speed to assess deployed AI systems.              \r\n\r\nWe're solving this by building a risk evaluation and mitigation platform specifically for AI Agents. Mount's platform red-teams them, scores their operational risk, and issues ADR certifications (the SOC 2 for AI agents). Every evaluation generates proprietary risk data that feeds our underwriting engine, a data moat no competitor can replicate.\r\n\r\nThe AI agent market is projected to grow from $7.6B to $183B by 2033. The EU AI Act and upcoming regulation require deployers to manage AI risk. Over 90% of businesses want coverage for AI risks, yet no insurer is built to price this new risk category. We are that company.\r\n\r\nFabian studied CS at ETH Zürich with a focus on machine learning and has been building AI systems since. John founded an AI-first media company at 18 and scaled it to 400K in annual revenue. Together, they combine deep technical AI expertise with the operational intensity to build a full-stack insurance company from scratch.",
+    "one_liner": "Insure and secure your AI Agents",
+    "team_size": 2,
+    "industry": "Fintech",
+    "subindustry": "Fintech -> Insurance",
+    "launched_at": 1775605248,
+    "tags": [
+      "AIOps",
+      "Artificial Intelligence",
+      "Security",
+      "Insurance",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "Fintech",
+      "Insurance"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/mount",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/mount.json"
   },
   {
     "id": 31470,

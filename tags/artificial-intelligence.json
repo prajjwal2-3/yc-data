@@ -4603,52 +4603,6 @@
     "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2019/tailor-ed.json"
   },
   {
-    "id": 12283,
-    "name": "OutRival, Inc.",
-    "slug": "outrival-inc",
-    "former_names": [
-      "Career Karma",
-      "Inc.",
-      "Career Karma"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6c6deff6969e83c832af730188606f1d389231dc.png",
-    "website": "https://outrival.com/",
-    "all_locations": "Miami, FL, USA",
-    "long_description": "OutRival's AI Agents make outbound calls, send texts, and write emails for enterprises in education, insurance, and travel. We drive revenue through millions of proactive conversations monthly. Companies go live in under 2 weeks.",
-    "one_liner": "Outbound AI Agents for Education, Insurance, and Travel",
-    "team_size": 12,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1544068972,
-    "tags": [
-      "Artificial Intelligence",
-      "Education",
-      "Travel",
-      "Insurance",
-      "Customer Service"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2019",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": true,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/outrival-inc",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2019/outrival-inc.json"
-  },
-  {
     "id": 12507,
     "name": "Playground",
     "slug": "playground",
@@ -8061,7 +8015,7 @@
     "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2021",
-    "status": "Active",
+    "status": "Acquired",
     "industries": [
       "Fintech"
     ],
@@ -12182,6 +12136,51 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/goodfin",
     "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2022/goodfin.json"
+  },
+  {
+    "id": 25763,
+    "name": "Cinder",
+    "slug": "cinder-2",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/11e79fdb615e4008b53b6d456fb9c93446ae9d40.png",
+    "website": "http://www.cinder.co",
+    "all_locations": "New York, NY, USA",
+    "long_description": "From content moderation to responsible AI, Cinder empowers businesses to orchestrate and automate digital safety at scale. Cinder was founded to help organizations foster safe online spaces for everyone. Our platform empowers companies from start-ups to enterprises with end-to-end capabilities to mitigate harm, investigate abuse, and produce trustworthy and reliable AI outcomes. Building your world-class company means keeping your users and community safe—Cinder unlocks faster growth by making safety easy. We work with customers in every industry from frontier AI labs to e-commerce and social media. \r\n\r\nWe're hiring across a variety of teams and looking for candidates based in NYC or open to relocating to NYC, and able to work in-person.",
+    "one_liner": "Infrastructure to protect companies from AI abuse",
+    "team_size": 23,
+    "industry": "B2B",
+    "subindustry": "B2B -> Security",
+    "launched_at": 1647554051,
+    "tags": [
+      "Artificial Intelligence",
+      "SaaS",
+      "B2B",
+      "Compliance",
+      "Trust & Safety"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2022",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Security"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Growth",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/cinder-2",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2022/cinder-2.json"
   },
   {
     "id": 25819,
@@ -24090,7 +24089,7 @@
     "former_names": [
       "Adam Translate"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e52cdc0c1e4177276aba7fa2d8e4326d287620ca.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c0856f230de1a84be083cff84a3298664d32f0a3.png",
     "website": "https://retellai.com",
     "all_locations": "",
     "long_description": "The leading platform for building and managing AI voice agents that revolutionize contact center operations.",
@@ -24169,6 +24168,55 @@
     "question_answers": true,
     "url": "https://www.ycombinator.com/companies/ocular-ai",
     "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2024/ocular-ai.json"
+  },
+  {
+    "id": 29443,
+    "name": "Adapted",
+    "slug": "adapted",
+    "former_names": [
+      "Chirp",
+      "Convey",
+      "Corefin",
+      "Stackgrant",
+      "For Effect",
+      "ForEffect",
+      "Pernell"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1a533cff802e0f9057f1431e6f53533be5b04b80.png",
+    "website": "https://adapted.app",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Adapted is an AI physical therapist for athletes. Tell it your injury history, your sport, and your goals - it builds a personalized program to rehab and prevent injuries, bulletproof your body, and improve mobility and flexibility. No generic exercises. Just training and prehab that actually adapts to you.\r\n\r\nAvailable now on the iOS App Store.",
+    "one_liner": "AI physical therapy for athletes",
+    "team_size": 2,
+    "industry": "Consumer",
+    "subindustry": "Consumer",
+    "launched_at": 1702424671,
+    "tags": [
+      "Artificial Intelligence",
+      "Fitness",
+      "Digital Health",
+      "Health & Wellness"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2024",
+    "status": "Active",
+    "industries": [
+      "Consumer"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/adapted",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2024/adapted.json"
   },
   {
     "id": 29447,
@@ -24343,6 +24391,52 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/fluently",
     "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2024/fluently.json"
+  },
+  {
+    "id": 29454,
+    "name": "Veles",
+    "slug": "veles",
+    "former_names": [
+      "Veles Inc"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f31690807aa0caf76a46157dc028528285b5989d.png",
+    "website": "http://www.getveles.com",
+    "all_locations": "Santa Barbara, CA, USA",
+    "long_description": "You closed your first few deals on handshakes and Stripe links. Now a customer wants a ramp-up, custom terms, or annual billing — and suddenly you're duct-taping spreadsheets to your CRM.\r\n\r\nMost CPQ tools are built for 500-person sales orgs with a dedicated RevOps team. Veles is built for you. AI agents handle quoting, approvals, and deal docs end-to-end so you can run a real sales motion without hiring a deal desk.\r\n\r\nIt's free for founders just getting started, and pricing scales with the number of active contracts you manage — so we only grow when you do. No CRM consultant, no six-month rollout. Just connect Salesforce or HubSpot and start closing.",
+    "one_liner": "CPQ for humans and agents",
+    "team_size": 5,
+    "industry": "B2B",
+    "subindustry": "B2B -> Sales",
+    "launched_at": 1708716871,
+    "tags": [
+      "Artificial Intelligence",
+      "B2B",
+      "Sales",
+      "Enterprise"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2024",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Sales"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/veles",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2024/veles.json"
   },
   {
     "id": 29459,
@@ -28713,6 +28807,51 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/pathpilot",
     "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2024/pathpilot.json"
+  },
+  {
+    "id": 29987,
+    "name": "Syntra",
+    "slug": "syntra",
+    "former_names": [
+      "Lightning Medical"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a6d299272e28e28fc0eef5034541be246b698d0b.png",
+    "website": "https://www.syntra.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Syntra is a medical data analytics platform that turns messy clinical documentation into real-time, actionable insights for billing, compliance, and care quality. We help clinics generate more revenue per clinical encounter while reducing up to 60% of administrative overhead. Syntra supports hundreds of specialty practices nationwide and processes $100Ms in medical claim charges annually.\r\n",
+    "one_liner": "Agentic infrastructure for specialty medical practices.",
+    "team_size": 8,
+    "industry": "Healthcare",
+    "subindustry": "Healthcare -> Healthcare IT",
+    "launched_at": 1723733582,
+    "tags": [
+      "Artificial Intelligence",
+      "Big Data",
+      "Healthcare IT"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2024",
+    "status": "Active",
+    "industries": [
+      "Healthcare",
+      "Healthcare IT"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/syntra",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2024/syntra.json"
   },
   {
     "id": 29989,
@@ -37394,6 +37533,46 @@
     "api": "https://prajjwal2-3.github.io/yc-data/batches/fall-2025/compyle.json"
   },
   {
+    "id": 30928,
+    "name": "Thesis",
+    "slug": "thesis",
+    "former_names": [
+      "Thesis Labs"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/834b16b30c5de79bf9dbcd0a4819289bfa937936.png",
+    "website": "https://thesislabs.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "We are accelerating AI research and development. Our aim is to help researchers uncover the next AlphaFold or build the next Transformer, faster, more systematically, and at scale. We treat discovery not as a matter of luck, but as an intelligent search problem.\r\n\r\nBy giving researchers access to an autonomous AI research lab, Thesis lets you build powerful machine learning models for anything imaginable. Every major breakthrough in AI over the next decade will be made on Thesis.",
+    "one_liner": "Accelerating AI research",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1762476616,
+    "tags": [
+      "Artificial Intelligence"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2025",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": true,
+    "url": "https://www.ycombinator.com/companies/thesis",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/fall-2025/thesis.json"
+  },
+  {
     "id": 30929,
     "name": "Inspector",
     "slug": "inspector",
@@ -38877,16 +39056,15 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1f74f218c2714dc8c9f24d72389a7bfa22f2b11d.png",
     "website": "https://qomplement.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "qomplement builds the most accurate AI agents for document filling. We take messy data and fill internal pdfs forms and spreadsheets templates teams actually use.\r\n\r\nToday 90% of enterprise data lives in documents. Extracting it is only half the job. In real workflows, that data has to be filled back into other documents. ",
-    "one_liner": "AI Agents for Document Filling",
+    "long_description": "qomplement is a document parsing API. We lead industry benchmarks for document extraction accuracy, outperforming Azure, Google, OpenAI and AWS.",
+    "one_liner": "API for document parsing",
     "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1771907564,
     "tags": [
       "Documents",
-      "Artificial Intelligence",
-      "B2B"
+      "Artificial Intelligence"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -38994,6 +39172,47 @@
     "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/sherpa.json"
   },
   {
+    "id": 31416,
+    "name": "Callab AI",
+    "slug": "callab-ai",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/02201cc153981810d5a7bf65758c3175779d40d3.png",
+    "website": "https://callab.ai",
+    "all_locations": "",
+    "long_description": "Callab AI - AI voice agents for contact centers. Over half the world's contact center infrastructure still runs on legacy telephony (CUCM, on-prem PBX, carrier-grade SIP) - a $70B+ market where current AI voice platforms can't natively integrate. \r\n\r\nWe plug into these environments without requiring a rip-and-replace. We serve clients across three continents, including brands like DunkinDonut.",
+    "one_liner": "AI voice agents for on-prem PBX stacks.",
+    "team_size": 7,
+    "industry": "B2B",
+    "subindustry": "B2B -> Operations",
+    "launched_at": 1773416869,
+    "tags": [
+      "Artificial Intelligence",
+      "B2B",
+      "Call Center"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Operations"
+    ],
+    "regions": [
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/callab-ai",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/callab-ai.json"
+  },
+  {
     "id": 31420,
     "name": "Kimpton AI",
     "slug": "kimpton-ai",
@@ -39078,46 +39297,49 @@
     "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/lab0.json"
   },
   {
-    "id": 31452,
-    "name": "Degla Inc",
-    "slug": "degla-inc",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9b4aa40c1f823de9d3ec9a6c4b04e1e382dc5a85.png",
-    "website": "https://degla.ai",
-    "all_locations": "",
-    "long_description": "We turn natural Language into Multi-Drone Search & Rescue Mission execution. Degla is built around a simple idea: once you’ve expressed your intent, the system owns the problem.You don’t babysit drones. You don’t micromanage failures. You don’t rewrite plans. You state the goal, Degla figures out how.",
-    "one_liner": "Cursor for Mission Planning",
+    "id": 31440,
+    "name": "Mount",
+    "slug": "mount",
+    "former_names": [
+      "Cybe"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fa5208859312a795f7e72dfb9eb2a5149785a216.png",
+    "website": "https://mount.insure",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Mount is the Insurer for the Agent Economy.\r\n\r\nWhen AI systems autonomously sign contracts, manage finances, or talk to customers, every failure becomes the deployer's liability. Existing insurers don't want to cover this. They lack the data, the models, and the speed to assess deployed AI systems.              \r\n\r\nWe're solving this by building a risk evaluation and mitigation platform specifically for AI Agents. Mount's platform red-teams them, scores their operational risk, and issues ADR certifications (the SOC 2 for AI agents). Every evaluation generates proprietary risk data that feeds our underwriting engine, a data moat no competitor can replicate.\r\n\r\nThe AI agent market is projected to grow from $7.6B to $183B by 2033. The EU AI Act and upcoming regulation require deployers to manage AI risk. Over 90% of businesses want coverage for AI risks, yet no insurer is built to price this new risk category. We are that company.\r\n\r\nFabian studied CS at ETH Zürich with a focus on machine learning and has been building AI systems since. John founded an AI-first media company at 18 and scaled it to 400K in annual revenue. Together, they combine deep technical AI expertise with the operational intensity to build a full-stack insurance company from scratch.",
+    "one_liner": "Insure and secure your AI Agents",
     "team_size": 2,
-    "industry": "Industrials",
-    "subindustry": "Industrials -> Drones",
-    "launched_at": 1775570807,
+    "industry": "Fintech",
+    "subindustry": "Fintech -> Insurance",
+    "launched_at": 1775605248,
     "tags": [
+      "AIOps",
       "Artificial Intelligence",
-      "Hard Tech",
-      "Drones",
-      "Aerospace",
+      "Security",
+      "Insurance",
       "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
-    "batch": "Fall 2026",
+    "batch": "Spring 2026",
     "status": "Active",
     "industries": [
-      "Industrials",
-      "Drones"
+      "Fintech",
+      "Insurance"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/degla-inc",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/fall-2026/degla-inc.json"
+    "url": "https://www.ycombinator.com/companies/mount",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/mount.json"
   },
   {
     "id": 31458,
@@ -39372,6 +39594,46 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/pentagon",
     "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/pentagon.json"
+  },
+  {
+    "id": 31518,
+    "name": "Runtime",
+    "slug": "runtime",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0fb7d11f60217eaded2ae0e96dbee3bf9ebcd68c.png",
+    "website": "https://www.runtm.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Runtime (runtm.com) gives engineering teams control and visibility to enable anyone in their org to use coding agents securely.\r\n\r\nEng leaders rolling out coding agents have no way to see what's happening, set boundaries, or safely let non-engineers use them. We provide sandboxed environments, session-level observability, and configurable guardrails so anyone on your team can ship with coding agents without breaking prod.\r\n\r\nWe're live with fast-growing YC scaleups empowering their Engineers, PMs, designers, marketers, and ops to contribute to their codebase or build prod-grade zero-to-one apps.",
+    "one_liner": "Let all your team ship safely with coding agents",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1773951001,
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/runtime",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/runtime.json"
   },
   {
     "id": 31523,

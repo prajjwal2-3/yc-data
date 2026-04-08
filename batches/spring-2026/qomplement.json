@@ -6,16 +6,15 @@
   "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1f74f218c2714dc8c9f24d72389a7bfa22f2b11d.png",
   "website": "https://qomplement.com/",
   "all_locations": "San Francisco, CA, USA",
-  "long_description": "qomplement builds the most accurate AI agents for document filling. We take messy data and fill internal pdfs forms and spreadsheets templates teams actually use.\r\n\r\nToday 90% of enterprise data lives in documents. Extracting it is only half the job. In real workflows, that data has to be filled back into other documents. ",
-  "one_liner": "AI Agents for Document Filling",
+  "long_description": "qomplement is a document parsing API. We lead industry benchmarks for document extraction accuracy, outperforming Azure, Google, OpenAI and AWS.",
+  "one_liner": "API for document parsing",
   "team_size": 4,
   "industry": "B2B",
   "subindustry": "B2B",
   "launched_at": 1771907564,
   "tags": [
     "Documents",
-    "Artificial Intelligence",
-    "B2B"
+    "Artificial Intelligence"
   ],
   "tags_highlighted": [],
   "top_company": false,
