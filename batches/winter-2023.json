@@ -6464,17 +6464,18 @@
   },
   {
     "id": 27928,
-    "name": "Looooooops",
-    "slug": "looooooops",
+    "name": "David",
+    "slug": "david",
     "former_names": [
       "Portalform",
-      "Fiber"
+      "Fiber",
+      "Looooooops"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c197a2ce0df4a3fc4f91de4f34e5cbc5268ac0aa.png",
-    "website": "https://lo8ps.com",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/df19488d409acccc7a99e6da6694b65535c281c5.png",
+    "website": "https://shipdavid.com",
     "all_locations": "",
     "long_description": "Coming soon",
-    "one_liner": "Agents for personal use cases",
+    "one_liner": "Build and host internal tools",
     "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
@@ -6498,8 +6499,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/looooooops",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2023/looooooops.json"
+    "url": "https://www.ycombinator.com/companies/david",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2023/david.json"
   },
   {
     "id": 27935,
@@ -7165,7 +7166,7 @@
       "Remote",
       "Fully Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": true,
     "demo_day_video_public": false,
     "app_answers": true,

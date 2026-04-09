@@ -2468,7 +2468,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -2747,7 +2747,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": true,
     "app_answers": null,
@@ -5290,7 +5290,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -7347,6 +7347,50 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/medium-biosciences",
     "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2021/medium-biosciences.json"
+  },
+  {
+    "id": 24893,
+    "name": "Exa",
+    "slug": "exa",
+    "former_names": [
+      "Exa Search",
+      "Metaphor"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9a54e5c11b9f296fb3be7980c9aaaf6ddd2f0c8c.png",
+    "website": "https://exa.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Exa is a search engine built for AIs. We enable developers to filter the internet's content with complex queries in order to bring the world's knowledge into their AI apps.",
+    "one_liner": "Web search rebuilt for LLMs",
+    "team_size": 75,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1628280127,
+    "tags": [
+      "Developer Tools",
+      "Search",
+      "AI",
+      "APIs"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2021",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Growth",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/exa",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2021/exa.json"
   },
   {
     "id": 25058,
@@ -16466,7 +16510,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2023",
     "status": "Active",
@@ -18217,48 +18261,6 @@
     "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2024/precip.json"
   },
   {
-    "id": 29251,
-    "name": "Poka Labs",
-    "slug": "poka-labs",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c3db3e4b14d4a36988633e929d3562b45dfa8d41.png",
-    "website": "https://www.pokalabs.com/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Poka Labs is developing an AI platform to automate operations tasks in chemical manufacturing, beginning with production scheduling. Traditionally, these tasks are performed manually using spreadsheets. Our software seamlessly integrates with existing data sources such as data historians, emails, and PDFs to automate analytics, scheduling, changes, and communication within a single platform.\r\n\r\nMalay and Andrew met while pursuing their MBAs at Harvard Business School. Malay previously worked as an engineer in the specialty chemical industry, saving his employers over $100 million across US, China, and German plants. Andrew worked as a software engineer on data infrastructure at Meta and optimization problems at a seed-stage startup. He also completed a Masters degree at Harvard specializing in Machine Learning.",
-    "one_liner": "The modern operating system for chemical manufacturing.",
-    "team_size": 3,
-    "industry": "B2B",
-    "subindustry": "B2B -> Supply Chain and Logistics",
-    "launched_at": 1721318249,
-    "tags": [
-      "SaaS",
-      "Supply Chain",
-      "AI",
-      "Industrial"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Summer 2024",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Supply Chain and Logistics"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/poka-labs",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2024/poka-labs.json"
-  },
-  {
     "id": 29256,
     "name": "Momentic",
     "slug": "momentic",
@@ -19756,7 +19758,7 @@
     "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2024",
-    "status": "Active",
+    "status": "Acquired",
     "industries": [
       "Consumer",
       "Content"
@@ -22286,51 +22288,6 @@
     "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2024/camfer.json"
   },
   {
-    "id": 29693,
-    "name": "Gauge",
-    "slug": "gauge",
-    "former_names": [
-      "Bridge"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8a1b74adcd6bfd4193d3eb1b786fb19988505e78.png",
-    "website": "https://withgauge.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Gauge helps your company show up in more AI answers.\r\n\r\nThere’s a wealth of data distributed across GA4, GSC, keywords, prompts, ads, and more. This data is incredibly rich, but fragmented and complicated to understand.\r\n\r\nGauge unifies all of these data sources into a single agent that can do the work of an entire marketing team.\r\n",
-    "one_liner": "Your marketing agent for organic, paid, and AI search.",
-    "team_size": 6,
-    "industry": "B2B",
-    "subindustry": "B2B -> Marketing",
-    "launched_at": 1717523721,
-    "tags": [
-      "SaaS",
-      "B2B",
-      "Analytics",
-      "Marketing",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2024",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Marketing"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/gauge",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2024/gauge.json"
-  },
-  {
     "id": 29695,
     "name": "Dench.com",
     "slug": "dench-com",
@@ -22462,6 +22419,52 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/fazeshift",
     "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2024/fazeshift.json"
+  },
+  {
+    "id": 29716,
+    "name": "CreativeMode",
+    "slug": "creativemode",
+    "former_names": [
+      "Condor Labs",
+      "Argon",
+      "Parity"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2bdf22dccaa26c230a94ceee5b1728f0d487b3cd.png",
+    "website": "https://creativemode.net",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Lovable for Minecraft Mods. Empowering the 200+ million Minecraft players to become creators.",
+    "one_liner": "Lovable for Minecraft mods",
+    "team_size": 5,
+    "industry": "Consumer",
+    "subindustry": "Consumer -> Gaming",
+    "launched_at": 1723073466,
+    "tags": [
+      "Consumer",
+      "Entertainment",
+      "Gaming",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2024",
+    "status": "Active",
+    "industries": [
+      "Consumer",
+      "Gaming"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/creativemode",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2024/creativemode.json"
   },
   {
     "id": 29719,
@@ -22945,6 +22948,48 @@
     "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2024/opslane.json"
   },
   {
+    "id": 29754,
+    "name": "Conductor Quantum",
+    "slug": "conductor-quantum",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6f87b0dddb05a92646b51780f21648d12f3019bf.png",
+    "website": "https://www.conductorquantum.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Quantum computers will allow humanity to understand the world at its most fundamental level, enabling the acceleration of drug discovery and the development of new materials. \r\n\r\nCurrently, quantum engineers spend days, sometimes weeks, manually getting their silicon quantum chips to operational conditions to realize two qubits. A qubit is the information-carrying unit of a quantum computer, analogous to a bit in a classical computer. \r\n\r\nWe need billions of qubits to make a useful quantum computer. Therefore, automation software will be vital to realizing this goal. \r\n\r\nConductor Quantum will develop AI software to remove the human from the loop, enable the scaling of quantum technology.",
+    "one_liner": "AI software for operating quantum computers",
+    "team_size": 3,
+    "industry": "Industrials",
+    "subindustry": "Industrials",
+    "launched_at": 1718219316,
+    "tags": [
+      "Hard Tech",
+      "Machine Learning",
+      "Quantum Computing",
+      "Semiconductors",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2024",
+    "status": "Active",
+    "industries": [
+      "Industrials"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": true,
+    "url": "https://www.ycombinator.com/companies/conductor-quantum",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2024/conductor-quantum.json"
+  },
+  {
     "id": 29760,
     "name": "Mage Legal",
     "slug": "mage-legal",
@@ -23379,50 +23424,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/simple-ai",
     "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2024/simple-ai.json"
-  },
-  {
-    "id": 29788,
-    "name": "Refactor",
-    "slug": "refactor",
-    "former_names": [
-      "Affix",
-      "Blast"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/45a371e602b123c726fb74d27c73504797f68a62.png",
-    "website": "https://refactor.co",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Refactor works closely with large organizations across healthcare, retail, and logistics to safely tackle their most ambitious AI use-cases in record time. We focus on building autonomous systems that call, click, and navigate legacy software systems. We have worked with companies serving tens of millions of customers and with $50B+ annual revenue. ",
-    "one_liner": "Deploying secure and reliable AI agents across healthcare, retail,…",
-    "team_size": 3,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1724647952,
-    "tags": [
-      "B2B",
-      "Healthcare",
-      "Enterprise Software",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2024",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/refactor",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2024/refactor.json"
   },
   {
     "id": 29790,
@@ -27036,8 +27037,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/35cbadbc20698fdbde411ffce51ce8c13ee4beb3.png",
     "website": "https://www.sennu.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Sennu AI reviews every pull request with full context of your Salesforce codebase like a senior Salesforce architect would",
-    "one_liner": "AI Code Review for Salesforce Development",
+    "long_description": "Sennu AI builds AI systems that fundamentally transform how your business operates",
+    "one_liner": "We turn traditional companies into AI companies",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
@@ -27196,48 +27197,6 @@
     "question_answers": true,
     "url": "https://www.ycombinator.com/companies/woz",
     "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2025/woz.json"
-  },
-  {
-    "id": 30322,
-    "name": "Spott",
-    "slug": "spott",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5f49530f7f80f640f3de8119e00764c7ea777491.png",
-    "website": "https://spott.io",
-    "all_locations": "",
-    "long_description": "Spott is the first AI-native ATS/CRM for recruiting & staffing firms. We built Spott because existing recruitment platforms require extensive manual work, are clunky to use, rely on fragmented add-ons, and are not designed for AI adoption.\r\n\r\nSpott combines everything recruiting firms need, from a full ATS & CRM to AI agents across the entire workflow, into one AI-native solution. It enables recruiters to focus on what matters most and close more placements.",
-    "one_liner": "AI-native ATS/CRM for recruiting firms",
-    "team_size": 20,
-    "industry": "B2B",
-    "subindustry": "B2B -> Recruiting and Talent",
-    "launched_at": 1737184010,
-    "tags": [
-      "SaaS",
-      "B2B",
-      "HR Tech",
-      "Enterprise Software",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Winter 2025",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Recruiting and Talent"
-    ],
-    "regions": [
-      "Unspecified"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/spott",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2025/spott.json"
   },
   {
     "id": 30324,
@@ -28432,51 +28391,6 @@
     "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2025/clado.json"
   },
   {
-    "id": 30464,
-    "name": "Sixtyfour",
-    "slug": "sixtyfour",
-    "former_names": [
-      "Sixtyfour",
-      "Sixtyfour AI"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7a94c5b6ca35db4a8ecda083bd02671f8be5393f.png",
-    "website": "https://www.sixtyfour.ai/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "The Enterprise Data Platform to deploy AI agents that unify social, contact, and proprietary data into decision-ready profiles. Built for mission-critical use cases.",
-    "one_liner": "Enterprise-grade intelligence on Humans and Entities",
-    "team_size": 8,
-    "industry": "B2B",
-    "subindustry": "B2B -> Operations",
-    "launched_at": 1747432267,
-    "tags": [
-      "B2B",
-      "Security",
-      "Enterprise Software",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Spring 2025",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Operations"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/sixtyfour",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2025/sixtyfour.json"
-  },
-  {
     "id": 30469,
     "name": "HABIT",
     "slug": "habit",
@@ -29596,55 +29510,6 @@
     "api": "https://prajjwal2-3.github.io/yc-data/batches/fall-2025/fifth-door.json"
   },
   {
-    "id": 30592,
-    "name": "Prox",
-    "slug": "prox",
-    "former_names": [
-      "DART",
-      "Stealth",
-      "Dart Labs",
-      "prox"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/243748cd44668d7819fa6c9fccf9c7ae41fe71ea.png",
-    "website": "https://useprox.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Every product ever sold needs support at some point. That support falls into one of two buckets.\r\n\r\nBucket 1: Simple stuff. T-shirts, screen protectors, keyboards. You buy it, it shows up, maybe you ask “where's my order?” once. This is solved. Zendesk and a hundred other horizontal companies solved it.\r\n\r\nBucket 2: Hard stuff. $20,000 industrial heaters. HVAC systems. CNC machines. Car parts. Products where buying wrong means your building doesn't have heat or your manufacturing line is down. Support for these products can only be performed by highly trained domain specialists and there aren't enough of them.\r\n\r\nIf you're selling EV charging stations, your support person needs to be a certified electrician who understands local power grids, installation codes, and compatibility matrices. You can't hire this off the street. You can't outsource it overseas.\r\n\r\nYou'd think LLMs would have solved this by now. They haven't. Three years into the LLM era, penetration in this industry is very low & the reason is twofold.\r\n\r\nFirst, off-the-shelf models don't actually understand these products. The knowledge lives in 48-page technical manuals buried on some manufacturer's website in terrible formatting — wiring schematics, compatibility matrices, installation diagrams that can only make sense visually. A general-purpose LLM can't draw you the diagram showing how to connect terminal A to terminal B. It doesn't have the spatial understanding or the product-specific reasoning to be a real technical advisor. So companies still rely entirely on human experts.\r\n\r\nSecond, even if the models were good enough, there are no harnesses to make them useful in the business.\r\n\r\nNo engine to capture deep technical knowledge about complex physical products and keep it updated. No way for a company to offload tribal knowledge from their senior technicians into a system. No way to see what questions customers are actually asking and feed that back into the knowledge base. No generative multimodal presentation and no expressive voice support.\r\n\r\nProx is building the best technical product expert for extremely complicated physical products.\r\n\r\nA multimodal agent that can draw wiring schemes, share CAD models, process incoming videos from a technician in the field, and support people over the phone with voice that can pass the Turing test. To get there, we're solving multimodal knowledge graph building at a very deep level. A huge portion of your work will be developing SOTA knowledge engines that can truly understand complex physical products.\r\n",
-    "one_liner": "Prox is building the best technical product expert for extremely…",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Retail",
-    "launched_at": 1759337800,
-    "tags": [
-      "Customer Success",
-      "E-commerce",
-      "Customer Support",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Fall 2025",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Retail"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/prox",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/fall-2025/prox.json"
-  },
-  {
     "id": 30596,
     "name": "Adaptional",
     "slug": "adaptional",
@@ -30557,48 +30422,6 @@
     "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2025/trace-so.json"
   },
   {
-    "id": 30692,
-    "name": "Costream",
-    "slug": "costream",
-    "former_names": [
-      "Wisp AI",
-      "Candytrail"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/38c13032eb7bce2281be3f920e3afeabfd0835c8.png",
-    "website": "https://www.costream.ai",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "",
-    "one_liner": "Indexing human dialogue through digital products",
-    "team_size": 2,
-    "industry": "Consumer",
-    "subindustry": "Consumer",
-    "launched_at": 1751244737,
-    "tags": [
-      "AI",
-      "Conversational AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2025",
-    "status": "Active",
-    "industries": [
-      "Consumer"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/costream",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2025/costream.json"
-  },
-  {
     "id": 30700,
     "name": "Nozomio",
     "slug": "nozomio",
@@ -30683,50 +30506,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/goriff",
     "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2025/goriff.json"
-  },
-  {
-    "id": 30710,
-    "name": "Manufact (formerly mcp-use)",
-    "slug": "manufact",
-    "former_names": [
-      "mcp-use"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3838f80b214ed1fcda53a2778860e8be11cfdb0d.png",
-    "website": "https://manufact.com",
-    "all_locations": "",
-    "long_description": "Manufact provides open-source dev tools and infrastructure for MCP to help dev teams quickly build and deploy MCP Servers for AI agents & MCP Apps for ChatGPT and Claude.\r\nWe developed the mcp-use SDK, which has over 5M downloads and 9,000 GitHub stars, and is used by 20% of the US 500.\r\nCreate MCP servers/apps in minutes, connect your GitHub repo, and make them immediately available to AI agents and ChatGPT.",
-    "one_liner": "Open source SDK & cloud infrastructure for MCP Servers & ChatGPT Apps ",
-    "team_size": 3,
-    "industry": "B2B",
-    "subindustry": "B2B -> Infrastructure",
-    "launched_at": 1752861544,
-    "tags": [
-      "Developer Tools",
-      "B2B",
-      "Open Source",
-      "Infrastructure",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Summer 2025",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Infrastructure"
-    ],
-    "regions": [
-      "Unspecified"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/manufact",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2025/manufact.json"
   },
   {
     "id": 30713,
@@ -32451,7 +32230,7 @@
     "former_names": [
       "Logos AI"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b3e17b292dce9142e728fb1a7ba4705bb06cceff.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/028016b5518081901c8e2d5a5483ea0f04a88946.png",
     "website": "https://logosguard.com/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Enterprises are racing to adopt AI, but often don't have the right controls in place or know how to verify vendors are compliant. LogosGuard turns AI policies into executable controls, stress-tests your AI products, and continuously monitors changes, giving enterprises the confidence to scale AI responsibly.",
@@ -32784,51 +32563,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/anto-biosciences",
     "api": "https://prajjwal2-3.github.io/yc-data/batches/fall-2025/anto-biosciences.json"
-  },
-  {
-    "id": 30942,
-    "name": "Scott AI",
-    "slug": "scott-ai",
-    "former_names": [
-      "Juno",
-      "Scott AI",
-      "Juno"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e147d1eb5a08ce6e087e44a2f10d637816c7c5db.png",
-    "website": "https://tryscott.ai",
-    "all_locations": "New York, NY, USA",
-    "long_description": "Scott AI is the agentic workspace where teams align on spec before any codegen runs.\r\n\r\nTeams already use multiple coding agents to build. Different coding agents will continue to evolve and have diverse strengths. An engineer will entrust a long-running agent to add dark-mode end-to-end while they pair carefully with an IDE-based agent to land a critical DB migration. These execution agents cannot be the decision layer because they are biased to their own tool, they are not neutral. Scott AI is the neutral, agent agnostic decision layer for the age of multi agent building. Teams will use Scott as their decision workspace to finally ditch google docs and notion as their primary spec alignment layer.",
-    "one_liner": "Agentic Workspace for Engineering Team Alignment",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1762199813,
-    "tags": [
-      "Artificial Intelligence",
-      "Developer Tools",
-      "Collaboration",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Fall 2025",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/scott-ai",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/fall-2025/scott-ai.json"
   },
   {
     "id": 30943,
@@ -34322,6 +34056,48 @@
     "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/stablebrowse.json"
   },
   {
+    "id": 31427,
+    "name": "Paper Star",
+    "slug": "paper-star",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/422567dd84dd3932adf1b51b5f0ff92c1ee1e2e6.png",
+    "website": "https://www.paperstar.cc/napkin-math",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Napkin Math is the food journal for real people. Stop counting calories, get personalized insights and realistic goals. Easily keep a beautiful food journal, get deep insights on your data with AI, and share your table with friends.",
+    "one_liner": "Building Napkin Math, AI-powered food journaling for real people",
+    "team_size": 3,
+    "industry": "Consumer",
+    "subindustry": "Consumer",
+    "launched_at": 1775700750,
+    "tags": [
+      "Consumer",
+      "Fitness",
+      "Digital Health",
+      "Food",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "Consumer"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/paper-star",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/paper-star.json"
+  },
+  {
     "id": 31428,
     "name": "Ontora",
     "slug": "ontora",
@@ -34581,8 +34357,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2140ec31aaa09498a7c4c7a8559cd2f274b9d9e0.png",
     "website": "https://tester.army",
     "all_locations": "San Francisco, CA, USA; Remote",
-    "long_description": "TesterArmy is an AI agent that tests your web app in a real browser before code ships. It runs automatically on every GitHub Pull Request, then posts recording, pass/fail results, and failure context as a PR comment. Teams also get a CLI for local/CI runs and an API for custom pipelines. We catch the regressions that code review misses.",
-    "one_liner": "AI QA agent that tests code before it ships",
+    "long_description": "TesterArmy is an AI agent that tests websites and mobile apps. It monitors production on a schedule and runs automatically on every GitHub Pull Request, delivering screenshots, recordings, and actionable bug reports.\r\n\r\nDescribe tests in plain English. The agent handles login flows, OAuth, and OTPs, no scripts to write or maintain. We catch the regressions and UX issues that code review misses.",
+    "one_liner": "Test your app with AI, catch bugs before users do",
     "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -34707,8 +34483,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6e3d33eec8f456adbebd1c1792d44f7e75715cbd.png",
     "website": "https://www.klaimee.co/",
     "all_locations": "",
-    "long_description": "Klaimee certifies and insures autonomous AI agents.\r\nWe audit your agents and back them with AI-native liability coverage.\r\nBuilt for startups bringing AI to enterprise clients, self-serve from day one.",
-    "one_liner": "Insurance for the agentic world. Starting with AI agent risk.",
+    "long_description": "Klaimee certifies and insures autonomous AI agents.\r\nWe audit your agents and back them with AI-native liability coverage.\r\nBuilt for startups bringing AI to enterprise clients, self-serve from day one.\r\n\r\nThe problem: AI agents are taking actions autonomously, buying, emailing, modifying data. AB 316 already holds deployers liable. EU AI Act enforces in August. Cyber insurance is excluding AI claims. Startups shipping agents to enterprise have zero coverage and no third-party proof their agent is safe. Enterprise legal asks \"who pays if your agent breaks something?\" and there's no good answer.\r\n                                                                                                                                                                                                                                        \r\nWe built the answer. Critical-category risk evaluation, certification, financial guarantee, liability insurance and the documentation enterprise procurement needs to sign off.\r\n\r\nTeam: Ines (ex-General Manager at SafetyWing, grew insurance product from $5M to $40M revenue, 5 years managing claims, underwriting, and carrier relationships) + Julien (software engineer + corporate strategy, enterprise compliance).\r\n\r\nWe understand how insurance works, what enterprises require, and why startups can't wait 6 months for either.",
+    "one_liner": "Insurance for the agentic world. You deploy agents, we cover you.",
     "team_size": 2,
     "industry": "Fintech",
     "subindustry": "Fintech -> Insurance",

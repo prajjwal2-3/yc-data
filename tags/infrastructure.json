@@ -119,7 +119,7 @@
       "Remote",
       "Fully Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -323,7 +323,7 @@
       "Cord Technologies",
       "Cord"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b0c0b8150edc64332f4d529343a9096db99002e1.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fd8270caf52cdd1093c290cba2176776fc6c3460.png",
     "website": "https://encord.com",
     "all_locations": "London, England, United Kingdom",
     "long_description": "Encord is the data layer for physical AI. We're how the world's most ambitious AI teams turn messy, multimodal data into production systems - from humanoid robots to autonomous vehicles to smart infrastructure. 300+ teams including Toyota, Skydio, and Maxar rely on Encord to curate, manage, and align the data their models actually need. $110M raised. San Francisco, New York, and London.",
@@ -3529,6 +3529,51 @@
     "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2025/attune.json"
   },
   {
+    "id": 30464,
+    "name": "Sixtyfour",
+    "slug": "sixtyfour",
+    "former_names": [
+      "Sixtyfour",
+      "Sixtyfour AI"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7a94c5b6ca35db4a8ecda083bd02671f8be5393f.png",
+    "website": "https://www.sixtyfour.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Sixtyfour deploys AI agents that investigate people and companies across the open and dark web, official records, proprietary databases, and unstructured sources. We resolve identities, map entity relationships, and surface risk signals for teams where data quality is essential.",
+    "one_liner": "Intelligence Infrastructure on People and Entities",
+    "team_size": 8,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1747432267,
+    "tags": [
+      "Artificial Intelligence",
+      "B2B",
+      "Enterprise Software",
+      "Infrastructure"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Spring 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/sixtyfour",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2025/sixtyfour.json"
+  },
+  {
     "id": 30507,
     "name": "ParaQuery",
     "slug": "paraquery",
@@ -3935,16 +3980,16 @@
     "all_locations": "",
     "long_description": "Manufact provides open-source dev tools and infrastructure for MCP to help dev teams quickly build and deploy MCP Servers for AI agents & MCP Apps for ChatGPT and Claude.\r\nWe developed the mcp-use SDK, which has over 5M downloads and 9,000 GitHub stars, and is used by 20% of the US 500.\r\nCreate MCP servers/apps in minutes, connect your GitHub repo, and make them immediately available to AI agents and ChatGPT.",
     "one_liner": "Open source SDK & cloud infrastructure for MCP Servers & ChatGPT Apps ",
-    "team_size": 3,
+    "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1752861544,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "B2B",
       "Open Source",
-      "Infrastructure",
-      "AI"
+      "Infrastructure"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -4738,5 +4783,45 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/minicor",
     "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/minicor.json"
+  },
+  {
+    "id": 31475,
+    "name": "Ardent",
+    "slug": "ardent",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f4ef54cc2ae204ad4ac662f9bfacf6a3fa6faf47.png",
+    "website": "https://tryardent.com",
+    "all_locations": "",
+    "long_description": "Clone any postgres DB regardless of size in 6s so agents can test their work",
+    "one_liner": "Database sandboxes for Agents",
+    "team_size": null,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1775685642,
+    "tags": [
+      "Artificial Intelligence",
+      "Data Engineering",
+      "Infrastructure"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/ardent",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/ardent.json"
   }
 ]

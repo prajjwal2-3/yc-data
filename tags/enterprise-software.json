@@ -897,7 +897,7 @@
       "Cord Technologies",
       "Cord"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b0c0b8150edc64332f4d529343a9096db99002e1.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fd8270caf52cdd1093c290cba2176776fc6c3460.png",
     "website": "https://encord.com",
     "all_locations": "London, England, United Kingdom",
     "long_description": "Encord is the data layer for physical AI. We're how the world's most ambitious AI teams turn messy, multimodal data into production systems - from humanoid robots to autonomous vehicles to smart infrastructure. 300+ teams including Toyota, Skydio, and Maxar rely on Encord to curate, manage, and align the data their models actually need. $110M raised. San Francisco, New York, and London.",
@@ -3191,50 +3191,6 @@
     "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2024/the-forecasting-company.json"
   },
   {
-    "id": 29788,
-    "name": "Refactor",
-    "slug": "refactor",
-    "former_names": [
-      "Affix",
-      "Blast"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/45a371e602b123c726fb74d27c73504797f68a62.png",
-    "website": "https://refactor.co",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Refactor works closely with large organizations across healthcare, retail, and logistics to safely tackle their most ambitious AI use-cases in record time. We focus on building autonomous systems that call, click, and navigate legacy software systems. We have worked with companies serving tens of millions of customers and with $50B+ annual revenue. ",
-    "one_liner": "Deploying secure and reliable AI agents across healthcare, retail,…",
-    "team_size": 3,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1724647952,
-    "tags": [
-      "B2B",
-      "Healthcare",
-      "Enterprise Software",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2024",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/refactor",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2024/refactor.json"
-  },
-  {
     "id": 29807,
     "name": "Dataleap",
     "slug": "dataleap",
@@ -3679,16 +3635,16 @@
     "all_locations": "",
     "long_description": "Spott is the first AI-native ATS/CRM for recruiting & staffing firms. We built Spott because existing recruitment platforms require extensive manual work, are clunky to use, rely on fragmented add-ons, and are not designed for AI adoption.\r\n\r\nSpott combines everything recruiting firms need, from a full ATS & CRM to AI agents across the entire workflow, into one AI-native solution. It enables recruiters to focus on what matters most and close more placements.",
     "one_liner": "AI-native ATS/CRM for recruiting firms",
-    "team_size": 20,
+    "team_size": 25,
     "industry": "B2B",
     "subindustry": "B2B -> Recruiting and Talent",
     "launched_at": 1737184010,
     "tags": [
+      "Artificial Intelligence",
       "SaaS",
       "B2B",
       "HR Tech",
-      "Enterprise Software",
-      "AI"
+      "Enterprise Software"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -3889,17 +3845,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7a94c5b6ca35db4a8ecda083bd02671f8be5393f.png",
     "website": "https://www.sixtyfour.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "The Enterprise Data Platform to deploy AI agents that unify social, contact, and proprietary data into decision-ready profiles. Built for mission-critical use cases.",
-    "one_liner": "Enterprise-grade intelligence on Humans and Entities",
+    "long_description": "Sixtyfour deploys AI agents that investigate people and companies across the open and dark web, official records, proprietary databases, and unstructured sources. We resolve identities, map entity relationships, and surface risk signals for teams where data quality is essential.",
+    "one_liner": "Intelligence Infrastructure on People and Entities",
     "team_size": 8,
     "industry": "B2B",
-    "subindustry": "B2B -> Operations",
+    "subindustry": "B2B -> Infrastructure",
     "launched_at": 1747432267,
     "tags": [
+      "Artificial Intelligence",
       "B2B",
-      "Security",
       "Enterprise Software",
-      "AI"
+      "Infrastructure"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -3909,7 +3865,7 @@
     "status": "Active",
     "industries": [
       "B2B",
-      "Operations"
+      "Infrastructure"
     ],
     "regions": [
       "United States of America",

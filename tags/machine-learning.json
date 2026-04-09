@@ -4046,7 +4046,7 @@
       "Cord Technologies",
       "Cord"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b0c0b8150edc64332f4d529343a9096db99002e1.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fd8270caf52cdd1093c290cba2176776fc6c3460.png",
     "website": "https://encord.com",
     "all_locations": "London, England, United Kingdom",
     "long_description": "Encord is the data layer for physical AI. We're how the world's most ambitious AI teams turn messy, multimodal data into production systems - from humanoid robots to autonomous vehicles to smart infrastructure. 300+ teams including Toyota, Skydio, and Maxar rely on Encord to curate, manage, and align the data their models actually need. $110M raised. San Francisco, New York, and London.",
@@ -8600,17 +8600,17 @@
     "website": "https://www.conductorquantum.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Quantum computers will allow humanity to understand the world at its most fundamental level, enabling the acceleration of drug discovery and the development of new materials. \r\n\r\nCurrently, quantum engineers spend days, sometimes weeks, manually getting their silicon quantum chips to operational conditions to realize two qubits. A qubit is the information-carrying unit of a quantum computer, analogous to a bit in a classical computer. \r\n\r\nWe need billions of qubits to make a useful quantum computer. Therefore, automation software will be vital to realizing this goal. \r\n\r\nConductor Quantum will develop AI software to remove the human from the loop, enable the scaling of quantum technology.",
-    "one_liner": "AI software for scaling quantum computers",
+    "one_liner": "AI software for operating quantum computers",
     "team_size": 3,
     "industry": "Industrials",
     "subindustry": "Industrials",
     "launched_at": 1718219316,
     "tags": [
-      "Artificial Intelligence",
       "Hard Tech",
       "Machine Learning",
       "Quantum Computing",
-      "Semiconductors"
+      "Semiconductors",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -10008,7 +10008,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7d5d92304f2eaa0377d188245540fde04aec2281.png",
     "website": "https://www.alchemyai.dev/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Alchemy automates image analysis for life science researchers who spend hours every day turning images into useful numerical data, often manually. Through a combination of our customized pipeline tailored to the researcher's needs and our suite of ML models, we've helped labs reduce analysis time by over 90%, while enabling analyses that were previously impossible. All a researcher has to do is upload their images, describe what you need in plain language, and our agents help assemble your tailored analysis pipeline, selects the right models for your specific images, and lets you verify every step before exporting reproducible, publication-ready results.",
+    "long_description": "Alchemy helps biotech and pharma researchers train and share computer vision models to convert raw images into numerical data, reducing analysis time by 98%.\r\n\r\nAll a researcher has to do is upload their images, describe what they need in plain language, and our agents help assemble their tailored analysis pipeline, select the right models for their specific images, and let them verify every step before exporting reproducible, publication-ready results.",
     "one_liner": "AI-powered image analysis for life sciences",
     "team_size": 2,
     "industry": "B2B",

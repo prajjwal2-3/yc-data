@@ -3667,7 +3667,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7d5d92304f2eaa0377d188245540fde04aec2281.png",
     "website": "https://www.alchemyai.dev/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Alchemy automates image analysis for life science researchers who spend hours every day turning images into useful numerical data, often manually. Through a combination of our customized pipeline tailored to the researcher's needs and our suite of ML models, we've helped labs reduce analysis time by over 90%, while enabling analyses that were previously impossible. All a researcher has to do is upload their images, describe what you need in plain language, and our agents help assemble your tailored analysis pipeline, selects the right models for your specific images, and lets you verify every step before exporting reproducible, publication-ready results.",
+    "long_description": "Alchemy helps biotech and pharma researchers train and share computer vision models to convert raw images into numerical data, reducing analysis time by 98%.\r\n\r\nAll a researcher has to do is upload their images, describe what they need in plain language, and our agents help assemble their tailored analysis pipeline, select the right models for their specific images, and let them verify every step before exporting reproducible, publication-ready results.",
     "one_liner": "AI-powered image analysis for life sciences",
     "team_size": 2,
     "industry": "B2B",

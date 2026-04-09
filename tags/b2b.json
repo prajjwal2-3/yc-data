@@ -5039,7 +5039,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -11707,7 +11707,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -21635,11 +21635,11 @@
       "Taktile Technologies, Inc.",
       "Takt"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/397f876989dcf422d675bcd202915947068a7da4.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/dc613b83486084b72c7376074fa84d16dbd06dbc.png",
     "website": "https://www.sero.so",
-    "all_locations": "Chicago, IL, USA; Remote",
-    "long_description": "",
-    "one_liner": "Customer onboarding built for B2B SaaS",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "We help onboarding, implementation and professional services teams at B2B companies onboard customers faster, more consistently and more efficiently with AI agents.",
+    "one_liner": "Intelligent Customer Implementation Platform for B2B",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
@@ -21647,8 +21647,7 @@
     "tags": [
       "SaaS",
       "B2B",
-      "Customer Success",
-      "Customer Support"
+      "Customer Success"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -21661,9 +21660,7 @@
     ],
     "regions": [
       "United States of America",
-      "America / Canada",
-      "Remote",
-      "Fully Remote"
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -25758,7 +25755,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Summer 2022",
     "status": "Active",
@@ -38316,15 +38313,15 @@
     "subindustry": "B2B -> Marketing",
     "launched_at": 1717523721,
     "tags": [
+      "Artificial Intelligence",
       "SaaS",
       "B2B",
       "Analytics",
-      "Marketing",
-      "AI"
+      "Marketing"
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Summer 2024",
     "status": "Active",
@@ -39309,50 +39306,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/laminar",
     "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2024/laminar.json"
-  },
-  {
-    "id": 29788,
-    "name": "Refactor",
-    "slug": "refactor",
-    "former_names": [
-      "Affix",
-      "Blast"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/45a371e602b123c726fb74d27c73504797f68a62.png",
-    "website": "https://refactor.co",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Refactor works closely with large organizations across healthcare, retail, and logistics to safely tackle their most ambitious AI use-cases in record time. We focus on building autonomous systems that call, click, and navigate legacy software systems. We have worked with companies serving tens of millions of customers and with $50B+ annual revenue. ",
-    "one_liner": "Deploying secure and reliable AI agents across healthcare, retail,…",
-    "team_size": 3,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1724647952,
-    "tags": [
-      "B2B",
-      "Healthcare",
-      "Enterprise Software",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2024",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/refactor",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2024/refactor.json"
   },
   {
     "id": 29793,
@@ -42330,8 +42283,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/35cbadbc20698fdbde411ffce51ce8c13ee4beb3.png",
     "website": "https://www.sennu.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Sennu AI reviews every pull request with full context of your Salesforce codebase like a senior Salesforce architect would",
-    "one_liner": "AI Code Review for Salesforce Development",
+    "long_description": "Sennu AI builds AI systems that fundamentally transform how your business operates",
+    "one_liner": "We turn traditional companies into AI companies",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
@@ -42594,16 +42547,16 @@
     "all_locations": "",
     "long_description": "Spott is the first AI-native ATS/CRM for recruiting & staffing firms. We built Spott because existing recruitment platforms require extensive manual work, are clunky to use, rely on fragmented add-ons, and are not designed for AI adoption.\r\n\r\nSpott combines everything recruiting firms need, from a full ATS & CRM to AI agents across the entire workflow, into one AI-native solution. It enables recruiters to focus on what matters most and close more placements.",
     "one_liner": "AI-native ATS/CRM for recruiting firms",
-    "team_size": 20,
+    "team_size": 25,
     "industry": "B2B",
     "subindustry": "B2B -> Recruiting and Talent",
     "launched_at": 1737184010,
     "tags": [
+      "Artificial Intelligence",
       "SaaS",
       "B2B",
       "HR Tech",
-      "Enterprise Software",
-      "AI"
+      "Enterprise Software"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -43075,17 +43028,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7a94c5b6ca35db4a8ecda083bd02671f8be5393f.png",
     "website": "https://www.sixtyfour.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "The Enterprise Data Platform to deploy AI agents that unify social, contact, and proprietary data into decision-ready profiles. Built for mission-critical use cases.",
-    "one_liner": "Enterprise-grade intelligence on Humans and Entities",
+    "long_description": "Sixtyfour deploys AI agents that investigate people and companies across the open and dark web, official records, proprietary databases, and unstructured sources. We resolve identities, map entity relationships, and surface risk signals for teams where data quality is essential.",
+    "one_liner": "Intelligence Infrastructure on People and Entities",
     "team_size": 8,
     "industry": "B2B",
-    "subindustry": "B2B -> Operations",
+    "subindustry": "B2B -> Infrastructure",
     "launched_at": 1747432267,
     "tags": [
+      "Artificial Intelligence",
       "B2B",
-      "Security",
       "Enterprise Software",
-      "AI"
+      "Infrastructure"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -43095,7 +43048,7 @@
     "status": "Active",
     "industries": [
       "B2B",
-      "Operations"
+      "Infrastructure"
     ],
     "regions": [
       "United States of America",
@@ -44925,16 +44878,16 @@
     "all_locations": "",
     "long_description": "Manufact provides open-source dev tools and infrastructure for MCP to help dev teams quickly build and deploy MCP Servers for AI agents & MCP Apps for ChatGPT and Claude.\r\nWe developed the mcp-use SDK, which has over 5M downloads and 9,000 GitHub stars, and is used by 20% of the US 500.\r\nCreate MCP servers/apps in minutes, connect your GitHub repo, and make them immediately available to AI agents and ChatGPT.",
     "one_liner": "Open source SDK & cloud infrastructure for MCP Servers & ChatGPT Apps ",
-    "team_size": 3,
+    "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1752861544,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "B2B",
       "Open Source",
-      "Infrastructure",
-      "AI"
+      "Infrastructure"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -46121,7 +46074,7 @@
     "former_names": [
       "Logos AI"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b3e17b292dce9142e728fb1a7ba4705bb06cceff.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/028016b5518081901c8e2d5a5483ea0f04a88946.png",
     "website": "https://logosguard.com/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Enterprises are racing to adopt AI, but often don't have the right controls in place or know how to verify vendors are compliant. LogosGuard turns AI policies into executable controls, stress-tests your AI products, and continuously monitors changes, giving enterprises the confidence to scale AI responsibly.",
@@ -48084,5 +48037,45 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/playablai",
     "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/playablai.json"
+  },
+  {
+    "id": 31553,
+    "name": "Framewise Health",
+    "slug": "framewise-health",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e7c03ef5bb8c84872c4ee5809b9b3d8f19f80ae0.png",
+    "website": "https://framewisehealth.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "We're building the world's first personalized AI-generated videos for patients, specific to their health history and preferred language.",
+    "one_liner": "AI-personalized patient recovery videos",
+    "team_size": 2,
+    "industry": "Healthcare",
+    "subindustry": "Healthcare",
+    "launched_at": 1775682737,
+    "tags": [
+      "SaaS",
+      "Health Tech",
+      "B2B"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "Healthcare"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/framewise-health",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/framewise-health.json"
   }
 ]

@@ -9118,50 +9118,6 @@
     "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2018/oxygen.json"
   },
   {
-    "id": 2030,
-    "name": "Culdesac",
-    "slug": "culdesac",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/496d0ff1f20ae199837eebe1bfef35fa059329d0.png",
-    "website": "http://culdesac.com",
-    "all_locations": "Tempe, AZ, USA",
-    "long_description": "Culdesac designs, builds, and manages walkable communities. \r\n\r\nCuldesac is a real estate developer and property manager. We build neighborhoods that embrace community, open space, and mobility. We offer residential units at a variety of price points integrated with local retail, commercial uses, and open space for nature and public plazas.\r\n\r\nOur communities prioritize biking, walking, and transit over cars and parking. We partner with leading mobility companies to deliver convenient and affordable transportation services. This creates a vibrant urban lifestyle without the need for a private vehicle.\r\n\r\nRead more here > https://medium.com/culdesac/introducing-culdesac-3fbfe7c4219c",
-    "one_liner": "We build cities for people, not cars. ",
-    "team_size": 100,
-    "industry": "Real Estate and Construction",
-    "subindustry": "Real Estate and Construction -> Housing and Real Estate",
-    "launched_at": 1575871649,
-    "tags": [
-      "Real Estate",
-      "Housing",
-      "Proptech",
-      "ClimateTech"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Summer 2018",
-    "status": "Active",
-    "industries": [
-      "Real Estate and Construction",
-      "Housing and Real Estate"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Growth",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/culdesac",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2018/culdesac.json"
-  },
-  {
     "id": 11895,
     "name": "Overview",
     "slug": "overview",
@@ -10586,7 +10542,7 @@
       "Remote",
       "Fully Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -17500,7 +17456,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -18060,7 +18016,7 @@
       "Cord Technologies",
       "Cord"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b0c0b8150edc64332f4d529343a9096db99002e1.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fd8270caf52cdd1093c290cba2176776fc6c3460.png",
     "website": "https://encord.com",
     "all_locations": "London, England, United Kingdom",
     "long_description": "Encord is the data layer for physical AI. We're how the world's most ambitious AI teams turn messy, multimodal data into production systems - from humanoid robots to autonomous vehicles to smart infrastructure. 300+ teams including Toyota, Skydio, and Maxar rely on Encord to curate, manage, and align the data their models actually need. $110M raised. San Francisco, New York, and London.",
@@ -19053,7 +19009,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -25030,8 +24986,9 @@
     "subindustry": "B2B",
     "launched_at": 1628280127,
     "tags": [
-      "Artificial Intelligence",
+      "Developer Tools",
       "Search",
+      "AI",
       "APIs"
     ],
     "tags_highlighted": [],
@@ -30466,6 +30423,51 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/codecrafters",
     "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2022/codecrafters.json"
+  },
+  {
+    "id": 26782,
+    "name": "Cashboard",
+    "slug": "cashboard",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/546da2a54a34cd455b53d2395bcff96834f7fb53.png",
+    "website": "https://www.cashboard.co",
+    "all_locations": "New York, NY, USA",
+    "long_description": "",
+    "one_liner": "Inventing the solo CFO.",
+    "team_size": 6,
+    "industry": "B2B",
+    "subindustry": "B2B -> Finance and Accounting",
+    "launched_at": 1657562779,
+    "tags": [
+      "FinOps",
+      "Fintech",
+      "SaaS",
+      "B2B",
+      "Collaboration"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2022",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Finance and Accounting"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/cashboard",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2022/cashboard.json"
   },
   {
     "id": 26783,
@@ -39318,49 +39320,6 @@
     "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2023/letter-ai.json"
   },
   {
-    "id": 28957,
-    "name": "Continue",
-    "slug": "continue",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6603bbbb05f3629720acc724a2c02719efad6f67.png",
-    "website": "https://continue.dev",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "AI coding tools made your team ship faster. But standards are slipping through review. Continue runs source-controlled AI checks on every pull request, enforcing your team's conventions, security patterns, and architecture boundaries as native GitHub status checks. Each check is a markdown file in your repo, running as a full AI agent. It only enforces what you asked for and never misses it. Consistency over breadth. Standards as checks, enforced by AI, decided by humans.\r\n\r\nWith hundreds of thousands of users, Continue is loved by developers worldwide at organizations ranging from small startups to Fortune 500 companies. Continue has raised $5.1M from Heavybit, Y Combinator, and angel investors. The company was founded in 2023 and is based in San Francisco.\r\n\r\nWe believe the time is now to create a future where developers are amplified, not automated.",
-    "one_liner": "Quality control for your software factory",
-    "team_size": 5,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1688142176,
-    "tags": [
-      "Artificial Intelligence",
-      "Developer Tools",
-      "DevSecOps",
-      "DevOps",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Summer 2023",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/continue",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2023/continue.json"
-  },
-  {
     "id": 28976,
     "name": "Bolto",
     "slug": "bolto",
@@ -41512,16 +41471,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c3db3e4b14d4a36988633e929d3562b45dfa8d41.png",
     "website": "https://www.pokalabs.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Poka Labs is developing an AI platform to automate operations tasks in chemical manufacturing, beginning with production scheduling. Traditionally, these tasks are performed manually using spreadsheets. Our software seamlessly integrates with existing data sources such as data historians, emails, and PDFs to automate analytics, scheduling, changes, and communication within a single platform.\r\n\r\nMalay and Andrew met while pursuing their MBAs at Harvard Business School. Malay previously worked as an engineer in the specialty chemical industry, saving his employers over $100 million across US, China, and German plants. Andrew worked as a software engineer on data infrastructure at Meta and optimization problems at a seed-stage startup. He also completed a Masters degree at Harvard specializing in Machine Learning.",
+    "long_description": "Poka Labs builds an AI platform to help sales reps at chemical manufacturers respond to requests from customers and win more business.  Our agent understands each companies product catalog, customer purchase behaviors, and company specific pricing logic to price, quote, and win the business.\r\n\r\nMalay and Andrew met while pursuing their MBAs at Harvard Business School. Malay previously worked as an engineer in the specialty chemical industry, saving his employers over $100 million across US, China, and German plants. Andrew worked as a software engineer on data infrastructure at Meta and optimization problems at a seed-stage startup. He also completed a Masters degree at Harvard specializing in Machine Learning.",
     "one_liner": "The modern operating system for chemical manufacturing.",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Supply Chain and Logistics",
     "launched_at": 1721318249,
     "tags": [
+      "Artificial Intelligence",
       "SaaS",
       "Supply Chain",
-      "AI",
       "Industrial"
     ],
     "tags_highlighted": [],
@@ -44819,12 +44778,12 @@
     "name": "TrueClaim",
     "slug": "trueclaim",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f5022eca8cc608cc11b6618a6ec690fb93c69218.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d154ea98111c38e79994556405d88a0a0ff92209.png",
     "website": "https://www.trytrueclaim.com",
     "all_locations": "San Francisco, CA, USA; Remote",
     "long_description": "TrueClaim processes all payments between healthcare providers and companies that self-fund their insurance. TrueClaim's AI-enabled engine adjudicates and continuously reviews 100% of medical claims to save at least 7% of healthcare costs.",
     "one_liner": "Transparent, AI-powered healthcare TPA.",
-    "team_size": 8,
+    "team_size": 10,
     "industry": "Healthcare",
     "subindustry": "Healthcare",
     "launched_at": 1704498667,
@@ -46882,6 +46841,51 @@
     "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2024/weave-robotics.json"
   },
   {
+    "id": 29693,
+    "name": "Gauge",
+    "slug": "gauge",
+    "former_names": [
+      "Bridge"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8a1b74adcd6bfd4193d3eb1b786fb19988505e78.png",
+    "website": "https://withgauge.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Gauge helps your company show up in more AI answers.\r\n\r\nThere’s a wealth of data distributed across GA4, GSC, keywords, prompts, ads, and more. This data is incredibly rich, but fragmented and complicated to understand.\r\n\r\nGauge unifies all of these data sources into a single agent that can do the work of an entire marketing team.\r\n",
+    "one_liner": "Your marketing agent for organic, paid, and AI search.",
+    "team_size": 6,
+    "industry": "B2B",
+    "subindustry": "B2B -> Marketing",
+    "launched_at": 1717523721,
+    "tags": [
+      "Artificial Intelligence",
+      "SaaS",
+      "B2B",
+      "Analytics",
+      "Marketing"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2024",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Marketing"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/gauge",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2024/gauge.json"
+  },
+  {
     "id": 29695,
     "name": "Dench.com",
     "slug": "dench-com",
@@ -47230,17 +47234,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2bdf22dccaa26c230a94ceee5b1728f0d487b3cd.png",
     "website": "https://creativemode.net",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Lovable for Minecraft Mods. Empowering over 250,000 players to become creators.",
+    "long_description": "Lovable for Minecraft Mods. Empowering the 200+ million Minecraft players to become creators.",
     "one_liner": "Lovable for Minecraft mods",
     "team_size": 5,
     "industry": "Consumer",
     "subindustry": "Consumer -> Gaming",
     "launched_at": 1723073466,
     "tags": [
-      "Artificial Intelligence",
       "Consumer",
       "Entertainment",
-      "Gaming"
+      "Gaming",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -47749,17 +47753,17 @@
     "website": "https://www.conductorquantum.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Quantum computers will allow humanity to understand the world at its most fundamental level, enabling the acceleration of drug discovery and the development of new materials. \r\n\r\nCurrently, quantum engineers spend days, sometimes weeks, manually getting their silicon quantum chips to operational conditions to realize two qubits. A qubit is the information-carrying unit of a quantum computer, analogous to a bit in a classical computer. \r\n\r\nWe need billions of qubits to make a useful quantum computer. Therefore, automation software will be vital to realizing this goal. \r\n\r\nConductor Quantum will develop AI software to remove the human from the loop, enable the scaling of quantum technology.",
-    "one_liner": "AI software for scaling quantum computers",
+    "one_liner": "AI software for operating quantum computers",
     "team_size": 3,
     "industry": "Industrials",
     "subindustry": "Industrials",
     "launched_at": 1718219316,
     "tags": [
-      "Artificial Intelligence",
       "Hard Tech",
       "Machine Learning",
       "Quantum Computing",
-      "Semiconductors"
+      "Semiconductors",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -48744,7 +48748,7 @@
     "name": "Vendra",
     "slug": "vendra",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8045f80c2b2b1a1fc2929fceeae73b968063f35d.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/929ad75b7088b9721f87d1e0e30daae50d49198f.png",
     "website": "https://vendra-marketplace.io/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Vendra makes sourcing custom parts from US manufacturers effortless. Submit one RFQ and we automate the entire sourcing process - matching you with the right suppliers, handling outreach, and collecting competitive quotes. Full transparency and no middleman markups - just smarter sourcing. \r\n\r\nVisit www.vendra.io and submit an RFQ today!",
@@ -49604,8 +49608,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b04f0fee59f28a3fa66d41bb63e4aef150ce2812.png",
     "website": "https://outerport.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Extract structured data from documents, tables, P&ID diagrams, process flow diagrams, GD&T drawings, electrical CAD, blueprints, and more. Build AI agents with tools that help them understand and measure the world.",
-    "one_liner": "Turn diagrams, technical documents, and CAD into structured data",
+    "long_description": "Building out new LNG plants, HVAC systems, or semiconductor processes rely on hundreds of iterations of feasibility testing (through simulation or real-world lab tests) where different designs (combinations of equipment) and parameters are validated. The parameters are often locked in PDFs (datasheets, wiring diagrams, PFDs/P&IDs) and the simulators don't have an easy API to work with. Outerport bridges the gap by extracting structured data from engineering documents, building a knowledge graph over them, and building autonomous AI agents that can fully automate this R&D process.",
+    "one_liner": "Automate engineering science.",
     "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -53390,16 +53394,16 @@
     "all_locations": "",
     "long_description": "Spott is the first AI-native ATS/CRM for recruiting & staffing firms. We built Spott because existing recruitment platforms require extensive manual work, are clunky to use, rely on fragmented add-ons, and are not designed for AI adoption.\r\n\r\nSpott combines everything recruiting firms need, from a full ATS & CRM to AI agents across the entire workflow, into one AI-native solution. It enables recruiters to focus on what matters most and close more placements.",
     "one_liner": "AI-native ATS/CRM for recruiting firms",
-    "team_size": 20,
+    "team_size": 25,
     "industry": "B2B",
     "subindustry": "B2B -> Recruiting and Talent",
     "launched_at": 1737184010,
     "tags": [
+      "Artificial Intelligence",
       "SaaS",
       "B2B",
       "HR Tech",
-      "Enterprise Software",
-      "AI"
+      "Enterprise Software"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -54732,17 +54736,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7a94c5b6ca35db4a8ecda083bd02671f8be5393f.png",
     "website": "https://www.sixtyfour.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "The Enterprise Data Platform to deploy AI agents that unify social, contact, and proprietary data into decision-ready profiles. Built for mission-critical use cases.",
-    "one_liner": "Enterprise-grade intelligence on Humans and Entities",
+    "long_description": "Sixtyfour deploys AI agents that investigate people and companies across the open and dark web, official records, proprietary databases, and unstructured sources. We resolve identities, map entity relationships, and surface risk signals for teams where data quality is essential.",
+    "one_liner": "Intelligence Infrastructure on People and Entities",
     "team_size": 8,
     "industry": "B2B",
-    "subindustry": "B2B -> Operations",
+    "subindustry": "B2B -> Infrastructure",
     "launched_at": 1747432267,
     "tags": [
+      "Artificial Intelligence",
       "B2B",
-      "Security",
       "Enterprise Software",
-      "AI"
+      "Infrastructure"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -54752,7 +54756,7 @@
     "status": "Active",
     "industries": [
       "B2B",
-      "Operations"
+      "Infrastructure"
     ],
     "regions": [
       "United States of America",
@@ -55965,16 +55969,16 @@
     "website": "https://useprox.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Every product ever sold needs support at some point. That support falls into one of two buckets.\r\n\r\nBucket 1: Simple stuff. T-shirts, screen protectors, keyboards. You buy it, it shows up, maybe you ask “where's my order?” once. This is solved. Zendesk and a hundred other horizontal companies solved it.\r\n\r\nBucket 2: Hard stuff. $20,000 industrial heaters. HVAC systems. CNC machines. Car parts. Products where buying wrong means your building doesn't have heat or your manufacturing line is down. Support for these products can only be performed by highly trained domain specialists and there aren't enough of them.\r\n\r\nIf you're selling EV charging stations, your support person needs to be a certified electrician who understands local power grids, installation codes, and compatibility matrices. You can't hire this off the street. You can't outsource it overseas.\r\n\r\nYou'd think LLMs would have solved this by now. They haven't. Three years into the LLM era, penetration in this industry is very low & the reason is twofold.\r\n\r\nFirst, off-the-shelf models don't actually understand these products. The knowledge lives in 48-page technical manuals buried on some manufacturer's website in terrible formatting — wiring schematics, compatibility matrices, installation diagrams that can only make sense visually. A general-purpose LLM can't draw you the diagram showing how to connect terminal A to terminal B. It doesn't have the spatial understanding or the product-specific reasoning to be a real technical advisor. So companies still rely entirely on human experts.\r\n\r\nSecond, even if the models were good enough, there are no harnesses to make them useful in the business.\r\n\r\nNo engine to capture deep technical knowledge about complex physical products and keep it updated. No way for a company to offload tribal knowledge from their senior technicians into a system. No way to see what questions customers are actually asking and feed that back into the knowledge base. No generative multimodal presentation and no expressive voice support.\r\n\r\nProx is building the best technical product expert for extremely complicated physical products.\r\n\r\nA multimodal agent that can draw wiring schemes, share CAD models, process incoming videos from a technician in the field, and support people over the phone with voice that can pass the Turing test. To get there, we're solving multimodal knowledge graph building at a very deep level. A huge portion of your work will be developing SOTA knowledge engines that can truly understand complex physical products.\r\n",
-    "one_liner": "Prox is building the best technical product expert for extremely…",
+    "one_liner": "AI technical support for complex physical products",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Retail",
     "launched_at": 1759337800,
     "tags": [
+      "Artificial Intelligence",
       "Customer Success",
       "E-commerce",
-      "Customer Support",
-      "AI"
+      "Customer Support"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -56494,7 +56498,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "We build AI models for controlling robot arms, enabling them to learn new skills in just hours. Our robots help businesses cut costs by automating back-of-house tasks with an innovative  pay-by-the-hour business model. Our customers include a biotech unicorn, a leading biotech non-profit, and a direct to consumer apparel brand.",
     "one_liner": "AI models that teach robots new skills in hours",
-    "team_size": 4,
+    "team_size": 6,
     "industry": "Industrials",
     "subindustry": "Industrials -> Manufacturing and Robotics",
     "launched_at": 1753480338,
@@ -57081,46 +57085,6 @@
     "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2025/agenthub-2.json"
   },
   {
-    "id": 30675,
-    "name": "BootLoop",
-    "slug": "bootloop",
-    "former_names": [
-      "BootLoop",
-      "BootLoop, Inc."
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/93ce55100656a6ea0aa0d88dd475881eab4f5632.png",
-    "website": "https://bootloop.ai/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "BootLoop is building the first AI agent to write and test firmware on real hardware. Existing AI coding assistants fail completely with embedded systems, but our agent ingests datasheets, schematics, and other design files to write firmware in your style and automatically test it on your hardware.",
-    "one_liner": "Firmware in minutes, not months - rigorously tested on real hardware",
-    "team_size": 3,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1752184530,
-    "tags": [],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Summer 2025",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/bootloop",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2025/bootloop.json"
-  },
-  {
     "id": 30677,
     "name": "Kalinda",
     "slug": "kalinda",
@@ -57557,16 +57521,16 @@
     "all_locations": "",
     "long_description": "Manufact provides open-source dev tools and infrastructure for MCP to help dev teams quickly build and deploy MCP Servers for AI agents & MCP Apps for ChatGPT and Claude.\r\nWe developed the mcp-use SDK, which has over 5M downloads and 9,000 GitHub stars, and is used by 20% of the US 500.\r\nCreate MCP servers/apps in minutes, connect your GitHub repo, and make them immediately available to AI agents and ChatGPT.",
     "one_liner": "Open source SDK & cloud infrastructure for MCP Servers & ChatGPT Apps ",
-    "team_size": 3,
+    "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1752861544,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "B2B",
       "Open Source",
-      "Infrastructure",
-      "AI"
+      "Infrastructure"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -59686,6 +59650,45 @@
     "api": "https://prajjwal2-3.github.io/yc-data/batches/fall-2025/everest.json"
   },
   {
+    "id": 30942,
+    "name": "Scott AI",
+    "slug": "scott-ai",
+    "former_names": [
+      "Juno",
+      "Scott AI",
+      "Juno"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e147d1eb5a08ce6e087e44a2f10d637816c7c5db.png",
+    "website": "https://tryscott.ai",
+    "all_locations": "",
+    "long_description": "Coding agents made writing code fast. But 6 engineers in a room will probably still disagree on what needs to be built.\r\n\r\nScott AI is a planning workspace where engineering teams align on what to build before their coding agents start building it.",
+    "one_liner": "The planning layer for teams that build with coding agents",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1762199813,
+    "tags": [],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Fall 2025",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/scott-ai",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/fall-2025/scott-ai.json"
+  },
+  {
     "id": 30945,
     "name": "Zalos",
     "slug": "zalos",
@@ -61297,6 +61300,42 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/superset",
     "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/superset.json"
+  },
+  {
+    "id": 31240,
+    "name": "General Legal",
+    "slug": "general-legal",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4d1ee22f8af278a7604adf3083f1a87027e066a9.png",
+    "website": "https://general.legal",
+    "all_locations": "",
+    "long_description": "We're the AI native law firm that solves commercial legal for founders. Our firm provides fast, high-quality contract drafting, review, and negotiation for a flat fee. We save founders $100s-$1000s per contract, turn contracts in hours instead of days, and our expert attorneys provide practical, real-time guidance to get deals closed safely.",
+    "one_liner": "The AI native law firm for growth stage companies",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B -> Legal",
+    "launched_at": 1769746017,
+    "tags": [],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Legal"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/general-legal",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2026/general-legal.json"
   },
   {
     "id": 31243,

@@ -8067,8 +8067,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8570f907143e200c57848585eb12a16271d3643f.png",
     "website": "https://www.rejuvenationtech.com/",
     "all_locations": "Mountain View, CA, USA",
-    "long_description": "Delivery of TERT mRNA extends telomeres sufficiently in a few days to reverse over a decade of telomere shortening during normal aging.  We are advancing TERT mRNA-based therapies to the clinic.",
-    "one_liner": "We extend telomeres to extend the human health span",
+    "long_description": "Stanford-patented essential drug platform unlocks the healthspan, which is limited by short telomeres. Extends mouse lifespan by equivalent of 10 years in humans. Reverses 5-10 years of telomere shortening with one dose in one day. Preclinical efficacy in 4 organ systems including immune system. Entering clinical stage. CEO is Subject #1 in longevity trial. 50+ granted patents, 7 patent families. FDA INTERACT cleared. Raising $10M seed extension ($2M+ wired) to fund 3 investigator-initiated trials. Readouts in Q3 2027. $6.8B in comparable mRNA-LNP M&A in last 12 months. ",
+    "one_liner": "mRNA therapeutics to extend healthspan entering clinical trials",
     "team_size": 2,
     "industry": "Healthcare",
     "subindustry": "Healthcare -> Therapeutics",
@@ -13481,7 +13481,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -24467,12 +24467,12 @@
     "name": "TrueClaim",
     "slug": "trueclaim",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f5022eca8cc608cc11b6618a6ec690fb93c69218.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d154ea98111c38e79994556405d88a0a0ff92209.png",
     "website": "https://www.trytrueclaim.com",
     "all_locations": "San Francisco, CA, USA; Remote",
     "long_description": "TrueClaim processes all payments between healthcare providers and companies that self-fund their insurance. TrueClaim's AI-enabled engine adjudicates and continuously reviews 100% of medical claims to save at least 7% of healthcare costs.",
     "one_liner": "Transparent, AI-powered healthcare TPA.",
-    "team_size": 8,
+    "team_size": 10,
     "industry": "Healthcare",
     "subindustry": "Healthcare",
     "launched_at": 1704498667,
@@ -28480,5 +28480,45 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/biostack-platforms",
     "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/biostack-platforms.json"
+  },
+  {
+    "id": 31553,
+    "name": "Framewise Health",
+    "slug": "framewise-health",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e7c03ef5bb8c84872c4ee5809b9b3d8f19f80ae0.png",
+    "website": "https://framewisehealth.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "We're building the world's first personalized AI-generated videos for patients, specific to their health history and preferred language.",
+    "one_liner": "AI-personalized patient recovery videos",
+    "team_size": 2,
+    "industry": "Healthcare",
+    "subindustry": "Healthcare",
+    "launched_at": 1775682737,
+    "tags": [
+      "SaaS",
+      "Health Tech",
+      "B2B"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "Healthcare"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/framewise-health",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/framewise-health.json"
   }
 ]
