@@ -6340,7 +6340,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2022",
     "status": "Active",
@@ -7837,36 +7837,37 @@
   },
   {
     "id": 28958,
-    "name": "Sourcepulse",
-    "slug": "sourcepulse",
+    "name": "Rimward",
+    "slug": "rimward",
     "former_names": [
-      "Quack AI"
+      "Quack AI",
+      "Sourcepulse"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ada46f5d9855ae56a146e944a9293897a7f0c38f.png",
-    "website": "https://www.sourcepulse.io/",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/62a16a2a0e7732cc2efaa618bbcef991bf7a255b.png",
+    "website": "https://rimward.ai/",
     "all_locations": "Paris, Île-de-France, France",
-    "long_description": "Sourcepulse is the internal status page for software delivery, alerting teams before costly delays. We collect anonymous feedback from project members to identify exactly what to fix, just like how Sentry captures system details for production errors.",
-    "one_liner": "Fix your biggest software delays with real developer feedback",
+    "long_description": "Rimward helps operators of solar farms and other remote outdoor infrastructure detect intrusions from existing camera networks. We turn existing CCTV into operator-ready alerts with video verification, so security teams can reduce false alarms, respond faster, and avoid heavy hardware retrofits.\r\n\r\nWe are focused on sites where recurring theft, perimeter intrusion, and low staffing make traditional monitoring noisy and operationally weak. Our approach is software-heavy, field-oriented, and built to work with real site constraints.",
+    "one_liner": "Low-false-positive intrusion detection for remote outdoor sites",
     "team_size": 1,
     "industry": "B2B",
-    "subindustry": "B2B -> Productivity",
+    "subindustry": "B2B -> Security",
     "launched_at": 1691807496,
     "tags": [
       "Machine Learning",
-      "SaaS",
+      "Computer Vision",
       "B2B",
-      "Analytics",
+      "Security",
       "Enterprise"
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Summer 2023",
     "status": "Active",
     "industries": [
       "B2B",
-      "Productivity"
+      "Security"
     ],
     "regions": [
       "France",
@@ -7879,8 +7880,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/sourcepulse",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2023/sourcepulse.json"
+    "url": "https://www.ycombinator.com/companies/rimward",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2023/rimward.json"
   },
   {
     "id": 28968,
@@ -8380,17 +8381,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/83e6dd01545303c123ca60f1dcf8bdc7566497c5.png",
     "website": "https://cloudglue.dev",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Cloudglue APIs (https://cloudglue.dev) makes it easy to transform video and audio into structured data for your LLM/RAG/AI application.\r\n\r\nOur developer-friendly APIs makes it easy to integrate video chat into your AI assistant with minimal heavy-lifting.",
-    "one_liner": "Developer APIs to let your AI/LLM understand videos and audio.",
-    "team_size": 3,
+    "long_description": "Cloudglue is the video context layer for AI. We make it easy for your AI to understand video.\r\n\r\n-> Developer API Platform: https://cloudglue.dev\r\n-> Tinycloud - your AI agent for video: https://tinycloud.cloudglue.dev",
+    "one_liner": "The video context layer for AI.",
+    "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1723146818,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "Machine Learning",
-      "Video"
+      "Video",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,

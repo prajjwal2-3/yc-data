@@ -3414,26 +3414,27 @@
   },
   {
     "id": 26756,
-    "name": "IvyCheck",
-    "slug": "ivycheck",
+    "name": "WithIda",
+    "slug": "withida",
     "former_names": [
-      "Deekard"
+      "Deekard",
+      "IvyCheck"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f6872d6dbb758aef4e167e2daf0efa6876bbbf16.png",
-    "website": "https://www.ivycheck.com",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/eb46e434372c35cadfdd2aa6b6979a11643c10a9.png",
+    "website": "https://withida.app/",
     "all_locations": "Berlin, Berlin, Germany; Remote",
-    "long_description": "IvyCheck helps you extract hidden insights from your data and ensures high data quality and consistency. Use Generative AI in your data warehouse to transform data at scale.",
-    "one_liner": "Clean and enrich your data 10x faster",
+    "long_description": "WithIda is an AI teammate for founders and small teams. Tell Ida what to handle — outreach, follow-ups, competitor monitoring, morning briefings — and she executes across your connected tools. She starts supervised and earns autonomy over time. You’re delegating, not abdicating.",
+    "one_liner": "AI that works across your tools and earns the right to run solo",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1658837091,
     "tags": [
+      "Artificial Intelligence",
       "Generative AI",
       "B2B",
-      "Data Engineering",
-      "AI",
-      "Databases"
+      "Productivity",
+      "AI Assistant"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -3456,8 +3457,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/ivycheck",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2022/ivycheck.json"
+    "url": "https://www.ycombinator.com/companies/withida",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2022/withida.json"
   },
   {
     "id": 26763,

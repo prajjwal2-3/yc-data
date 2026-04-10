@@ -9345,7 +9345,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2022",
     "status": "Active",
@@ -10683,53 +10683,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/paragon-ai",
     "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2022/paragon-ai.json"
-  },
-  {
-    "id": 26756,
-    "name": "IvyCheck",
-    "slug": "ivycheck",
-    "former_names": [
-      "Deekard"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f6872d6dbb758aef4e167e2daf0efa6876bbbf16.png",
-    "website": "https://www.ivycheck.com",
-    "all_locations": "Berlin, Berlin, Germany; Remote",
-    "long_description": "IvyCheck helps you extract hidden insights from your data and ensures high data quality and consistency. Use Generative AI in your data warehouse to transform data at scale.",
-    "one_liner": "Clean and enrich your data 10x faster",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1658837091,
-    "tags": [
-      "Generative AI",
-      "B2B",
-      "Data Engineering",
-      "AI",
-      "Databases"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2022",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "Germany",
-      "Europe",
-      "Remote",
-      "Fully Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/ivycheck",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2022/ivycheck.json"
   },
   {
     "id": 26776,
@@ -13934,7 +13887,7 @@
     "all_locations": "New York, NY, USA",
     "long_description": "Hadrius allows regulated financial firms of all sizes to consolidate and automate their compliance processes using AI in one platform. Today, we're securing compliance for $3T+ AUM across our clients.\r\n\r\nWe're building the AI that will regulate the US financial system and the trillions that flows through it.",
     "one_liner": "Automating Securities Compliance",
-    "team_size": 51,
+    "team_size": 80,
     "industry": "Fintech",
     "subindustry": "Fintech -> Asset Management",
     "launched_at": 1668714980,
@@ -13959,7 +13912,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -20287,7 +20240,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Always-on AI agents for 1-1 personalization at scale",
     "one_liner": "Agentic Marketing Platform",
-    "team_size": 5,
+    "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B -> Marketing",
     "launched_at": 1704840202,
@@ -21972,6 +21925,52 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/stardrift",
     "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2024/stardrift.json"
+  },
+  {
+    "id": 29665,
+    "name": "Cloudglue",
+    "slug": "cloudglue",
+    "former_names": [
+      "Aviary",
+      "CloudGlue"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/83e6dd01545303c123ca60f1dcf8bdc7566497c5.png",
+    "website": "https://cloudglue.dev",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Cloudglue is the video context layer for AI. We make it easy for your AI to understand video.\r\n\r\n-> Developer API Platform: https://cloudglue.dev\r\n-> Tinycloud - your AI agent for video: https://tinycloud.cloudglue.dev",
+    "one_liner": "The video context layer for AI.",
+    "team_size": 4,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1723146818,
+    "tags": [
+      "Developer Tools",
+      "Machine Learning",
+      "Video",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2024",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/cloudglue",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2024/cloudglue.json"
   },
   {
     "id": 29666,
@@ -27078,12 +27077,12 @@
     "former_names": [
       "Cronus"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7ef07251161b57384d4fb72efe63acdf66f79d1d.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b63e52a3ec831660a5917dbb85f52cfd61f714e9.png",
     "website": "https://afterquery.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "AfterQuery is a research lab (backed by Y Combinator) investigating the boundaries and capabilities of artificial intelligence through novel datasets and experimentation. We believe that pushing the frontiers of AI requires both rigorous scientific inquiry and exceptional human data.",
-    "one_liner": "Research lab investigating the boundaries of AI capabilities.",
-    "team_size": 20,
+    "long_description": "AfterQuery is an applied research lab curating data solutions for frontier foundation model development. Serving every frontier AI lab.",
+    "one_liner": "Applied research lab curating data solutions for foundation model…",
+    "team_size": 30,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1738219847,
@@ -33340,6 +33339,50 @@
     "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/cignara.json"
   },
   {
+    "id": 31145,
+    "name": "RamAIn",
+    "slug": "ramain",
+    "former_names": [
+      "Ramain"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9fe951afa5872a811734029111550a11062d931e.png",
+    "website": "https://ramain.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "RamAIn can intelligently automate any super complex and repetitive process across applications (Browser & Desktop) super fast. It doesn’t matter whether you have API access or not - if you can see it, RamAIn can do it.\r\n\r\nCurrent CUAs all follow the same decision loop: screenshot, VLM, decision, repeat. This is expensive, unreliable and slow. We build infrastructure to pre-train CUAs on specific interfaces, effectively teaching RamAIn to use your computer.",
+    "one_liner": "Agentic Process Automation: Super fast computer-use agents.",
+    "team_size": 4,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1767663208,
+    "tags": [
+      "Robotic Process Automation",
+      "Automation",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/ramain",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2026/ramain.json"
+  },
+  {
     "id": 31147,
     "name": "Salus",
     "slug": "salus",
@@ -33671,6 +33714,47 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/librar-labs",
     "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2026/librar-labs.json"
+  },
+  {
+    "id": 31327,
+    "name": "Korso",
+    "slug": "korso",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/41304734421d088c72c82b8e7d148826f4864bc9.png",
+    "website": "https://korsoai.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Korso builds AI agents that handle the operational work manufacturers still do manually, including processing RFQs, following up on quotes, coordinating with suppliers, and keeping production on track when things go wrong. Our agents plug into your existing ERP and CRM, understand your workflows, and act on your behalf: triaging incoming requests, chasing delayed orders, notifying customers, and escalating only when human judgment is truly needed.\r\n\r\nWe built Korso around the reality that enterprise systems cannot afford mistakes. Every agent action passes through verification layers, tools are scoped, and critical operations go through dry-run validation and secondary review. Full audit trails mean you can see exactly what was done, why, and when.\r\n\r\nMost AI automation breaks down at the ERP integration layer. Korso's orchestration is built for the messiness of real manufacturing systems, with long-running workflows that span weeks and checkpointing that never loses progress.\r\n\r\nInstead of replacing your systems, Korso makes them work harder, so your team spends less time on coordination and more time on the work that actually matters.",
+    "one_liner": "The Intelligence Layer for Manufacturing.",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B -> Operations",
+    "launched_at": 1773339255,
+    "tags": [
+      "SaaS",
+      "Manufacturing",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Operations"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": true,
+    "url": "https://www.ycombinator.com/companies/korso",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/korso.json"
   },
   {
     "id": 31329,
@@ -34222,47 +34306,6 @@
     "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/keyframe-labs.json"
   },
   {
-    "id": 31436,
-    "name": "Prototyping.io",
-    "slug": "prototypingio",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5f7df040bbed273d21312d9b7e349583e363f5e4.png",
-    "website": "https://www.prototyping.io",
-    "all_locations": "Sunnyvale, CA, USA",
-    "long_description": "Prototyping.io is a manufacturing intelligence platform that understands mechanical designs, identifies manufacturability issues early, provides actionable insights and delivers custom mechanical parts (CNC machining, sheet metal, 3D printing, injection molding, etc.) with faster lead times, lower cost, and high quality.\r\n",
-    "one_liner": "AI-native mechanical manufacturing platform",
-    "team_size": 2,
-    "industry": "Industrials",
-    "subindustry": "Industrials -> Manufacturing and Robotics",
-    "launched_at": 1774425608,
-    "tags": [
-      "Hardware",
-      "Manufacturing",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Spring 2026",
-    "status": "Active",
-    "industries": [
-      "Industrials",
-      "Manufacturing and Robotics"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/prototypingio",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/prototypingio.json"
-  },
-  {
     "id": 31440,
     "name": "Mount",
     "slug": "mount",
@@ -34389,6 +34432,51 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/testerarmy",
     "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/testerarmy.json"
+  },
+  {
+    "id": 31511,
+    "name": "Arzana",
+    "slug": "arzana",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4785fcf24308f1fcad59fe3eda9fea668524c25f.png",
+    "website": "https://arzana.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Fortune 500 companies and the fastest-growing manufacturing firms use Arzana’s AI platform to automate order entry, quoting, and customer updates. So teams can scale faster, respond sooner, and grow without adding overhead.",
+    "one_liner": "AI automation for the manufacturing office",
+    "team_size": 5,
+    "industry": "B2B",
+    "subindustry": "B2B -> Operations",
+    "launched_at": 1773098013,
+    "tags": [
+      "Manufacturing",
+      "Automation",
+      "Operations",
+      "AI",
+      "Industrial"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Operations"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/arzana",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/arzana.json"
   },
   {
     "id": 31528,

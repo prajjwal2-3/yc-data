@@ -7,15 +7,15 @@
   "website": "https://www.prototyping.io",
   "all_locations": "Sunnyvale, CA, USA",
   "long_description": "Prototyping.io is a manufacturing intelligence platform that understands mechanical designs, identifies manufacturability issues early, provides actionable insights and delivers custom mechanical parts (CNC machining, sheet metal, 3D printing, injection molding, etc.) with faster lead times, lower cost, and high quality.\r\n",
-  "one_liner": "AI-native mechanical manufacturing platform",
+  "one_liner": "AI-native mechanical manufacturing",
   "team_size": 2,
   "industry": "Industrials",
   "subindustry": "Industrials -> Manufacturing and Robotics",
   "launched_at": 1774425608,
   "tags": [
+    "Artificial Intelligence",
     "Hardware",
-    "Manufacturing",
-    "AI"
+    "Manufacturing"
   ],
   "tags_highlighted": [],
   "top_company": false,

@@ -347,16 +347,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/41304734421d088c72c82b8e7d148826f4864bc9.png",
     "website": "https://korsoai.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Korso is an AI-powered operations platform for manufacturers that automates the full quote-to-order workflow: processing incoming RFQs, extracting line items, generating professional quotes, and tracking purchase orders through production. At its core is an intelligent assistant with frontier-model capabilities that understands your business documents, pricing history, and customer relationships, so your team can ask questions, get instant analysis, and make decisions in seconds rather than hours.",
+    "long_description": "Korso builds AI agents that handle the operational work manufacturers still do manually, including processing RFQs, following up on quotes, coordinating with suppliers, and keeping production on track when things go wrong. Our agents plug into your existing ERP and CRM, understand your workflows, and act on your behalf: triaging incoming requests, chasing delayed orders, notifying customers, and escalating only when human judgment is truly needed.\r\n\r\nWe built Korso around the reality that enterprise systems cannot afford mistakes. Every agent action passes through verification layers, tools are scoped, and critical operations go through dry-run validation and secondary review. Full audit trails mean you can see exactly what was done, why, and when.\r\n\r\nMost AI automation breaks down at the ERP integration layer. Korso's orchestration is built for the messiness of real manufacturing systems, with long-running workflows that span weeks and checkpointing that never loses progress.\r\n\r\nInstead of replacing your systems, Korso makes them work harder, so your team spends less time on coordination and more time on the work that actually matters.",
     "one_liner": "The Intelligence Layer for Manufacturing.",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Operations",
     "launched_at": 1773339255,
     "tags": [
-      "Artificial Intelligence",
       "SaaS",
-      "Manufacturing"
+      "Manufacturing",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -805,7 +805,12 @@
     "industry": "Industrials",
     "subindustry": "Industrials -> Manufacturing and Robotics",
     "launched_at": 1774801488,
-    "tags": [],
+    "tags": [
+      "Artificial Intelligence",
+      "Hard Tech",
+      "Robotics",
+      "Logistics"
+    ],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": false,
@@ -2008,15 +2013,15 @@
     "website": "https://www.prototyping.io",
     "all_locations": "Sunnyvale, CA, USA",
     "long_description": "Prototyping.io is a manufacturing intelligence platform that understands mechanical designs, identifies manufacturability issues early, provides actionable insights and delivers custom mechanical parts (CNC machining, sheet metal, 3D printing, injection molding, etc.) with faster lead times, lower cost, and high quality.\r\n",
-    "one_liner": "AI-native mechanical manufacturing platform",
+    "one_liner": "AI-native mechanical manufacturing",
     "team_size": 2,
     "industry": "Industrials",
     "subindustry": "Industrials -> Manufacturing and Robotics",
     "launched_at": 1774425608,
     "tags": [
+      "Artificial Intelligence",
       "Hardware",
-      "Manufacturing",
-      "AI"
+      "Manufacturing"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -2615,6 +2620,44 @@
     "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/biostack-platforms.json"
   },
   {
+    "id": 31478,
+    "name": "Silmaril",
+    "slug": "silmaril",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/86b9dc2025d8d9aaca7a7d152afe3f067bb14268.png",
+    "website": "https://silmaril.dev",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Silmaril is a self-healing app-layer prompt injection defense for AI native applications and agents. It understands application context to block 2x as many threats as current SOTA defenses with 10x lower latency. Customers plug us into agentic frameworks like LangGraph with 5 lines of code. Silmaril has stopped $28M of damages for customers.",
+    "one_liner": "Prompt injection defense that is self-healing",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1775745444,
+    "tags": [
+      "Security"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/silmaril",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/silmaril.json"
+  },
+  {
     "id": 31481,
     "name": "Saudara AI",
     "slug": "saudara-ai",
@@ -2951,15 +2994,15 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Fortune 500 companies and the fastest-growing manufacturing firms use Arzana’s AI platform to automate order entry, quoting, and customer updates. So teams can scale faster, respond sooner, and grow without adding overhead.",
     "one_liner": "AI automation for the manufacturing office",
-    "team_size": 4,
+    "team_size": 5,
     "industry": "B2B",
     "subindustry": "B2B -> Operations",
     "launched_at": 1773098013,
     "tags": [
-      "Artificial Intelligence",
       "Manufacturing",
       "Automation",
       "Operations",
+      "AI",
       "Industrial"
     ],
     "tags_highlighted": [],

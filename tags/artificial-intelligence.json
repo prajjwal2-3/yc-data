@@ -13408,6 +13408,54 @@
     "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2022/numind.json"
   },
   {
+    "id": 26756,
+    "name": "WithIda",
+    "slug": "withida",
+    "former_names": [
+      "Deekard",
+      "IvyCheck"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/eb46e434372c35cadfdd2aa6b6979a11643c10a9.png",
+    "website": "https://withida.app/",
+    "all_locations": "Berlin, Berlin, Germany; Remote",
+    "long_description": "WithIda is an AI teammate for founders and small teams. Tell Ida what to handle — outreach, follow-ups, competitor monitoring, morning briefings — and she executes across your connected tools. She starts supervised and earns autonomy over time. You’re delegating, not abdicating.",
+    "one_liner": "AI that works across your tools and earns the right to run solo",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1658837091,
+    "tags": [
+      "Artificial Intelligence",
+      "Generative AI",
+      "B2B",
+      "Productivity",
+      "AI Assistant"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2022",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "Germany",
+      "Europe",
+      "Remote",
+      "Fully Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/withida",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2022/withida.json"
+  },
+  {
     "id": 26783,
     "name": "Raven",
     "slug": "raven",
@@ -16436,7 +16484,7 @@
     "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2023",
-    "status": "Active",
+    "status": "Acquired",
     "industries": [
       "B2B",
       "Finance and Accounting"
@@ -18903,7 +18951,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2023",
     "status": "Active",
@@ -23200,11 +23248,11 @@
     "slug": "soundry-ai",
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7a8248327c7bdfb14b2d547e4250131e4353d614.png",
-    "website": "https://soundry.ai/",
+    "website": "https://groove.fm/",
     "all_locations": "Seattle, WA, USA",
-    "long_description": "We have built a universal text-to-sound AI generator for musicians and sound designers. Music producers build songs with samples that they've hand crafted with our AI, and sound designers can incorporate generated sound effects into film, TV, and video games. With personalized generations and training data hand-picked by your favorite artists, Soundry AI is your new best friend in the music creation process.",
-    "one_liner": "Professional Quality AI Music Creation",
-    "team_size": 3,
+    "long_description": "We build generative AI tools that enhance the fan engagement experience. Want to remix Taylor Swift in the style of Slayer? Now you can with our new product Groove. ",
+    "one_liner": "Remix any song into any style",
+    "team_size": 2,
     "industry": "Consumer",
     "subindustry": "Consumer -> Content",
     "launched_at": 1707192752,
@@ -23226,9 +23274,7 @@
     ],
     "regions": [
       "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -25893,52 +25939,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/networkocean",
     "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2024/networkocean.json"
-  },
-  {
-    "id": 29665,
-    "name": "Cloudglue",
-    "slug": "cloudglue",
-    "former_names": [
-      "Aviary",
-      "CloudGlue"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/83e6dd01545303c123ca60f1dcf8bdc7566497c5.png",
-    "website": "https://cloudglue.dev",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Cloudglue APIs (https://cloudglue.dev) makes it easy to transform video and audio into structured data for your LLM/RAG/AI application.\r\n\r\nOur developer-friendly APIs makes it easy to integrate video chat into your AI assistant with minimal heavy-lifting.",
-    "one_liner": "Developer APIs to let your AI/LLM understand videos and audio.",
-    "team_size": 3,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1723146818,
-    "tags": [
-      "Artificial Intelligence",
-      "Developer Tools",
-      "Machine Learning",
-      "Video"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Summer 2024",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/cloudglue",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2024/cloudglue.json"
   },
   {
     "id": 29666,
@@ -31772,7 +31772,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Calltree makes enterprise-grade AI support reps for call centers. Our AI reps take voice calls and chats like other AI support agents but can also use internal enterprise tools like a homegrown CRM or internal dashboards, like the highly trained humans working there today.",
     "one_liner": "Enterprise-grade AI support reps for call centers",
-    "team_size": 14,
+    "team_size": 7,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1738270018,
@@ -31935,12 +31935,12 @@
     "former_names": [
       "Cronus"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7ef07251161b57384d4fb72efe63acdf66f79d1d.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b63e52a3ec831660a5917dbb85f52cfd61f714e9.png",
     "website": "https://afterquery.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "AfterQuery is a research lab (backed by Y Combinator) investigating the boundaries and capabilities of artificial intelligence through novel datasets and experimentation. We believe that pushing the frontiers of AI requires both rigorous scientific inquiry and exceptional human data.",
-    "one_liner": "Research lab investigating the boundaries of AI capabilities.",
-    "team_size": 20,
+    "long_description": "AfterQuery is an applied research lab curating data solutions for frontier foundation model development. Serving every frontier AI lab.",
+    "one_liner": "Applied research lab curating data solutions for foundation model…",
+    "team_size": 30,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1738219847,
@@ -35393,7 +35393,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Summer 2025",
     "status": "Active",
@@ -35423,7 +35423,7 @@
     "all_locations": "New York, NY, USA",
     "long_description": "Right now, someone could look up your employees online, craft a perfect phishing email using what they find, and get into your systems by lunch. Or just call your help desk and pretend to be a new hire. No malware. No exploit. Just a conversation.\r\n\r\nGhostEye does this first. We continuously map your employees' real-world exposure the same way a threat actor would, then automatically generate and launch personalized phishing attacks, scam calls, texts, and deepfakes to test them before the real thing hits. Every attack is unique because every employee's exposure is unique.\r\n\r\nQuantified human risk scores that track over time. Employees shown exactly how they were compromised. Not a training platform. A security tool.\r\n\r\n",
     "one_liner": "Vulnerability Management for the Human Layer ",
-    "team_size": 3,
+    "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Security",
     "launched_at": 1753230986,
@@ -38567,50 +38567,6 @@
     "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2026/ndea-com.json"
   },
   {
-    "id": 31145,
-    "name": "RamAIn",
-    "slug": "ramain",
-    "former_names": [
-      "Ramain"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9fe951afa5872a811734029111550a11062d931e.png",
-    "website": "https://ramain.ai",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "RamAIn can intelligently automate any super complex and repetitive process across applications (Browser & Desktop) super fast. It doesn’t matter whether you have API access or not - if you can see it, RamAIn can do it.\r\n\r\nCurrent CUAs all follow the same decision loop: screenshot, VLM, decision, repeat. This is expensive, unreliable and slow. We build infrastructure to pre-train CUAs on specific interfaces, effectively teaching RamAIn to use your computer.",
-    "one_liner": "AI Employees: Super-fast computer use agents",
-    "team_size": 4,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1767663208,
-    "tags": [
-      "Artificial Intelligence",
-      "Robotic Process Automation",
-      "Automation"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Winter 2026",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/ramain",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2026/ramain.json"
-  },
-  {
     "id": 31165,
     "name": "IncidentFox",
     "slug": "brownie",
@@ -38799,6 +38755,7 @@
     "launched_at": 1768432806,
     "tags": [
       "Artificial Intelligence",
+      "Data Labeling",
       "Infrastructure"
     ],
     "tags_highlighted": [],
@@ -38821,47 +38778,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/shofo",
     "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2026/shofo.json"
-  },
-  {
-    "id": 31327,
-    "name": "Korso",
-    "slug": "korso",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/41304734421d088c72c82b8e7d148826f4864bc9.png",
-    "website": "https://korsoai.com/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Korso is an AI-powered operations platform for manufacturers that automates the full quote-to-order workflow: processing incoming RFQs, extracting line items, generating professional quotes, and tracking purchase orders through production. At its core is an intelligent assistant with frontier-model capabilities that understands your business documents, pricing history, and customer relationships, so your team can ask questions, get instant analysis, and make decisions in seconds rather than hours.",
-    "one_liner": "The Intelligence Layer for Manufacturing.",
-    "team_size": 3,
-    "industry": "B2B",
-    "subindustry": "B2B -> Operations",
-    "launched_at": 1773339255,
-    "tags": [
-      "Artificial Intelligence",
-      "SaaS",
-      "Manufacturing"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Spring 2026",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Operations"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": true,
-    "url": "https://www.ycombinator.com/companies/korso",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/korso.json"
   },
   {
     "id": 31362,
@@ -38907,6 +38823,47 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/matforge",
     "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/matforge.json"
+  },
+  {
+    "id": 31369,
+    "name": "InLoop Robotics",
+    "slug": "inloop-robotics",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/32f586c0db7df7371426565793ae565ba0423774.png",
+    "website": "https://inloop-robotics.com/",
+    "all_locations": "",
+    "long_description": "We are building AI-native fulfillment powered by robotics.\r\nWarehouses without human labor that get better, faster, and cheaper with every order.\r\n\r\nMost robotics companies wait until their system is perfect before deploying. We don't. We ship imperfect policies into real warehouses, detect failures in real time, recover automatically when we can, and bring in a remote human operator when we can't.\r\n\r\nEvery failure becomes training data. Every intervention makes the system better. The result is a fulfillment system that continuously learns from production.",
+    "one_liner": "Deploying robots that ask for help!",
+    "team_size": 4,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Manufacturing and Robotics",
+    "launched_at": 1774801488,
+    "tags": [
+      "Artificial Intelligence",
+      "Hard Tech",
+      "Robotics",
+      "Logistics"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Manufacturing and Robotics"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": true,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/inloop-robotics",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/inloop-robotics.json"
   },
   {
     "id": 31373,
@@ -39339,6 +39296,47 @@
     "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/lab0.json"
   },
   {
+    "id": 31436,
+    "name": "Prototyping.io",
+    "slug": "prototypingio",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5f7df040bbed273d21312d9b7e349583e363f5e4.png",
+    "website": "https://www.prototyping.io",
+    "all_locations": "Sunnyvale, CA, USA",
+    "long_description": "Prototyping.io is a manufacturing intelligence platform that understands mechanical designs, identifies manufacturability issues early, provides actionable insights and delivers custom mechanical parts (CNC machining, sheet metal, 3D printing, injection molding, etc.) with faster lead times, lower cost, and high quality.\r\n",
+    "one_liner": "AI-native mechanical manufacturing",
+    "team_size": 2,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Manufacturing and Robotics",
+    "launched_at": 1774425608,
+    "tags": [
+      "Artificial Intelligence",
+      "Hardware",
+      "Manufacturing"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Manufacturing and Robotics"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/prototypingio",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/prototypingio.json"
+  },
+  {
     "id": 31440,
     "name": "Mount",
     "slug": "mount",
@@ -39630,51 +39628,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/asterlab",
     "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/asterlab.json"
-  },
-  {
-    "id": 31511,
-    "name": "Arzana",
-    "slug": "arzana",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4785fcf24308f1fcad59fe3eda9fea668524c25f.png",
-    "website": "https://arzana.ai",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Fortune 500 companies and the fastest-growing manufacturing firms use Arzana’s AI platform to automate order entry, quoting, and customer updates. So teams can scale faster, respond sooner, and grow without adding overhead.",
-    "one_liner": "AI automation for the manufacturing office",
-    "team_size": 4,
-    "industry": "B2B",
-    "subindustry": "B2B -> Operations",
-    "launched_at": 1773098013,
-    "tags": [
-      "Artificial Intelligence",
-      "Manufacturing",
-      "Automation",
-      "Operations",
-      "Industrial"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Spring 2026",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Operations"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/arzana",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/arzana.json"
   },
   {
     "id": 31512,

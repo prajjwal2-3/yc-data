@@ -5651,6 +5651,53 @@
     "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2026/pollen.json"
   },
   {
+    "id": 30779,
+    "name": "Smartbase",
+    "slug": "smartbase",
+    "former_names": [
+      "Glade",
+      "Sandfish",
+      "Anytrace"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2468a3c8a7c5f1a0405c0920fd164d3512f5b6f7.png",
+    "website": "https://www.smartbase.so/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Smartbase automates order entry for manufacturers.\r\n\r\nToday, factory workers manually enter orders into their ERP. This often requires multiple full-time employees, even at small factories.\r\n\r\nSmartbase eliminates this manual labor by letting teams create orders in their ERP with a single click.\r\n\r\nWe’ve worked on factory floors, sat side-by-side with operators to learn their workflows, and even slept at a factory. We’re now onboarding our first customers onto five-figure annual contracts.\r\n\r\nThis is our wedge into automating the $26 billion clerical labor market in U.S. manufacturing.\r\n\r\nSam previously founded a DevOps platform that raised $2M. Taira was the youngest SDE 2 at AWS SageMaker Inference, where he built AI infrastructure for enterprises such as Salesforce.",
+    "one_liner": "Automated order entry for manufacturers",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Operations",
+    "launched_at": 1753758221,
+    "tags": [
+      "SaaS",
+      "B2B",
+      "Workflow Automation",
+      "Manufacturing",
+      "Automation"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Operations"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/smartbase",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2025/smartbase.json"
+  },
+  {
     "id": 30785,
     "name": "RowFlow",
     "slug": "rowflow",
@@ -5967,16 +6014,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/41304734421d088c72c82b8e7d148826f4864bc9.png",
     "website": "https://korsoai.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Korso is an AI-powered operations platform for manufacturers that automates the full quote-to-order workflow: processing incoming RFQs, extracting line items, generating professional quotes, and tracking purchase orders through production. At its core is an intelligent assistant with frontier-model capabilities that understands your business documents, pricing history, and customer relationships, so your team can ask questions, get instant analysis, and make decisions in seconds rather than hours.",
+    "long_description": "Korso builds AI agents that handle the operational work manufacturers still do manually, including processing RFQs, following up on quotes, coordinating with suppliers, and keeping production on track when things go wrong. Our agents plug into your existing ERP and CRM, understand your workflows, and act on your behalf: triaging incoming requests, chasing delayed orders, notifying customers, and escalating only when human judgment is truly needed.\r\n\r\nWe built Korso around the reality that enterprise systems cannot afford mistakes. Every agent action passes through verification layers, tools are scoped, and critical operations go through dry-run validation and secondary review. Full audit trails mean you can see exactly what was done, why, and when.\r\n\r\nMost AI automation breaks down at the ERP integration layer. Korso's orchestration is built for the messiness of real manufacturing systems, with long-running workflows that span weeks and checkpointing that never loses progress.\r\n\r\nInstead of replacing your systems, Korso makes them work harder, so your team spends less time on coordination and more time on the work that actually matters.",
     "one_liner": "The Intelligence Layer for Manufacturing.",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Operations",
     "launched_at": 1773339255,
     "tags": [
-      "Artificial Intelligence",
       "SaaS",
-      "Manufacturing"
+      "Manufacturing",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -6173,15 +6220,15 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Fortune 500 companies and the fastest-growing manufacturing firms use Arzana’s AI platform to automate order entry, quoting, and customer updates. So teams can scale faster, respond sooner, and grow without adding overhead.",
     "one_liner": "AI automation for the manufacturing office",
-    "team_size": 4,
+    "team_size": 5,
     "industry": "B2B",
     "subindustry": "B2B -> Operations",
     "launched_at": 1773098013,
     "tags": [
-      "Artificial Intelligence",
       "Manufacturing",
       "Automation",
       "Operations",
+      "AI",
       "Industrial"
     ],
     "tags_highlighted": [],

@@ -9,15 +9,15 @@
   "website": "https://ramain.ai",
   "all_locations": "San Francisco, CA, USA",
   "long_description": "RamAIn can intelligently automate any super complex and repetitive process across applications (Browser & Desktop) super fast. It doesn’t matter whether you have API access or not - if you can see it, RamAIn can do it.\r\n\r\nCurrent CUAs all follow the same decision loop: screenshot, VLM, decision, repeat. This is expensive, unreliable and slow. We build infrastructure to pre-train CUAs on specific interfaces, effectively teaching RamAIn to use your computer.",
-  "one_liner": "AI Employees: Super-fast computer use agents",
+  "one_liner": "Agentic Process Automation: Super fast computer-use agents.",
   "team_size": 4,
   "industry": "B2B",
   "subindustry": "B2B",
   "launched_at": 1767663208,
   "tags": [
-    "Artificial Intelligence",
     "Robotic Process Automation",
-    "Automation"
+    "Automation",
+    "AI"
   ],
   "tags_highlighted": [],
   "top_company": false,

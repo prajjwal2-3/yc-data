@@ -12,7 +12,12 @@
   "industry": "Industrials",
   "subindustry": "Industrials -> Manufacturing and Robotics",
   "launched_at": 1774801488,
-  "tags": [],
+  "tags": [
+    "Artificial Intelligence",
+    "Hard Tech",
+    "Robotics",
+    "Logistics"
+  ],
   "tags_highlighted": [],
   "top_company": false,
   "isHiring": false,

@@ -12299,26 +12299,27 @@
   },
   {
     "id": 26756,
-    "name": "IvyCheck",
-    "slug": "ivycheck",
+    "name": "WithIda",
+    "slug": "withida",
     "former_names": [
-      "Deekard"
+      "Deekard",
+      "IvyCheck"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f6872d6dbb758aef4e167e2daf0efa6876bbbf16.png",
-    "website": "https://www.ivycheck.com",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/eb46e434372c35cadfdd2aa6b6979a11643c10a9.png",
+    "website": "https://withida.app/",
     "all_locations": "Berlin, Berlin, Germany; Remote",
-    "long_description": "IvyCheck helps you extract hidden insights from your data and ensures high data quality and consistency. Use Generative AI in your data warehouse to transform data at scale.",
-    "one_liner": "Clean and enrich your data 10x faster",
+    "long_description": "WithIda is an AI teammate for founders and small teams. Tell Ida what to handle — outreach, follow-ups, competitor monitoring, morning briefings — and she executes across your connected tools. She starts supervised and earns autonomy over time. You’re delegating, not abdicating.",
+    "one_liner": "AI that works across your tools and earns the right to run solo",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1658837091,
     "tags": [
+      "Artificial Intelligence",
       "Generative AI",
       "B2B",
-      "Data Engineering",
-      "AI",
-      "Databases"
+      "Productivity",
+      "AI Assistant"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -12341,8 +12342,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/ivycheck",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2022/ivycheck.json"
+    "url": "https://www.ycombinator.com/companies/withida",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2022/withida.json"
   },
   {
     "id": 26783,
@@ -13999,12 +14000,12 @@
     "name": "IcePanel",
     "slug": "icepanel",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7373c1adcb59518de3f0525b2829a0ed7943e0a3.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/dbd813cd554f2fcf891554ea0c9a4e0eceff792e.png",
     "website": "https://icepanel.io",
     "all_locations": "North Vancouver, BC, Canada",
     "long_description": "IcePanel is a collaborative diagramming tool that helps software engineering and product teams align on technical decisions. Teams use IcePanel to create a map of their software systems, giving them full context about how it works.",
     "one_liner": "Design and explain complex software architecture.",
-    "team_size": 7,
+    "team_size": 9,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1669087724,
@@ -14017,7 +14018,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Winter 2023",
     "status": "Active",
@@ -21508,7 +21509,7 @@
     "former_names": [
       "Phoenix"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/df7026dcd12ea135065153c734ec97f58ea821d6.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4fad47355d59021d6d855bc4b2dc95cbc0ef2f1a.png",
     "website": "http://trainloop.ai",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "TrainLoop makes it effortless for developers to supercharge LLM performance through reinforcement learning.",
@@ -21948,23 +21949,23 @@
   },
   {
     "id": 30435,
-    "name": "Dolphin",
-    "slug": "dolphin",
+    "name": "Alpha Research",
+    "slug": "alpha-research",
     "former_names": [
-      "Zenobia Pay"
+      "Zenobia Pay",
+      "Dolphin"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/bea5fc25b9efe2c0c42cf75b72f53d52a63f2e5f.png",
-    "website": "https://dolphinmade.com",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9da4ac9dd6be01478b419bbfd282d5e379179bc8.png",
+    "website": "https://alpharesearch.nyc/",
     "all_locations": "New York, NY, USA",
-    "long_description": "Dolphin is a startup in a box. Dolphin is a web-app builder for aspiring startup founders to ship to their first customers in an hour. \r\n\r\nDolphin builds startups in one pass. Dolphin can setup subscriptions, AI assistants, complicated database updates, integrations, messaging, and more. \r\n\r\nTeddy and I have spent thousands of hours building complicated web apps, and we’ve developed strong opinions on how to architect them. That’s why Dolphin is so powerful: rather than give an AI free rein, we constrain it to the Dolphin architecture. Constraints breed creativity. We designed the Dolphin architecture so that, when an AI works with it, its outputs are correct, secure, and scalable.  ",
-    "one_liner": "Dolphin is a startup in a box.",
-    "team_size": 2,
+    "long_description": "Alpha Research builds open source agentic knowledge bases. Our mission is to help knowledge workers work 100x faster. We launched and open sourced our first platform, Alpha Book on a mirror of the Project Gutenberg dataset (75,000 books).\r\n\r\nKnowledge work is bottlenecked in two key ways: finding evidence and testing hypotheses. We make both 100x faster. We extend keyword search and RAG with general coding agents, which use filesystem tools like ripgrep and reason iteratively to find broad evidence. Coding agents also write ad-hoc scripts to label datasets and test hypotheses.\r\n\r\nOur timeline is simple: repeat Alpha Book across every public dataset of humanity's knowledge. Next we'll launch Alpha Econ with US Census, BLS, NBER, etc datasets. Alpha Justice with US Supreme Court Cases, and so on. We support museums, research libraries, historical societies, and archives. We also do custom integration work for enterprise.",
+    "one_liner": "Open source, agentic knowledge bases for all of humanity's knowledge.",
+    "team_size": 1,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1747591533,
     "tags": [
-      "Design Tools",
-      "Web Development"
+      "Market Research"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -21985,8 +21986,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/dolphin",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2025/dolphin.json"
+    "url": "https://www.ycombinator.com/companies/alpha-research",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2025/alpha-research.json"
   },
   {
     "id": 30449,

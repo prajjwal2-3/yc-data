@@ -184,7 +184,7 @@
     "website": "https://www.ycombinator.com",
     "all_locations": "",
     "long_description": "Make something people want.",
-    "one_liner": "",
+    "one_liner": "xxxx",
     "team_size": 100,
     "industry": "Fintech",
     "subindustry": "Fintech",
@@ -25915,47 +25915,6 @@
     "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2022/cozmo-ai.json"
   },
   {
-    "id": 25340,
-    "name": "Loops",
-    "slug": "loops",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ef8d8c9b30ba22bdd91401d412f32c73551f5439.png",
-    "website": "https://loops.so",
-    "all_locations": "Washington, DC, USA; New York, NY, USA; Remote",
-    "long_description": "Loops is a simple and beautiful email sending platform for SaaS companies. We have a Notion-style block editor for email creation, excellent deliverability for transactional mail and pre-built loops for SaaS companies to snap-in to increase their revenue and user engagement.",
-    "one_liner": "Email sending for startups",
-    "team_size": 9,
-    "industry": "B2B",
-    "subindustry": "B2B -> Marketing",
-    "launched_at": 1643293654,
-    "tags": [
-      "Email"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Winter 2022",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Marketing"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Fully Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/loops",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2022/loops.json"
-  },
-  {
     "id": 25348,
     "name": "Sei",
     "slug": "sei",
@@ -28259,50 +28218,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/propelauth",
     "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2022/propelauth.json"
-  },
-  {
-    "id": 25948,
-    "name": "Spade",
-    "slug": "spade",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/dc25342edef4b9f6942587780f3a5d96fae04f9c.png",
-    "website": "https://www.spade.com",
-    "all_locations": "New York, NY, USA",
-    "long_description": "Spade is the next generation of fintech infrastructure. We’re building a financial data enrichment API purpose built to empower our customers to uncover the truth hidden within their transaction data. We use our vast, ground-truth merchant data set to decipher cryptic transactions, helping customers underwrite, detect fraud, build better banking infrastructure and get a unique understanding of their users’ spending habits.",
-    "one_liner": "Enriched transaction data you can build on",
-    "team_size": 25,
-    "industry": "Fintech",
-    "subindustry": "Fintech",
-    "launched_at": 1641512856,
-    "tags": [
-      "Fintech",
-      "Machine Learning",
-      "Payments",
-      "Data Labeling",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Winter 2022",
-    "status": "Active",
-    "industries": [
-      "Fintech"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Growth",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/spade",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2022/spade.json"
   },
   {
     "id": 25969,
@@ -35049,6 +34964,49 @@
     "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2023/storyboarder.json"
   },
   {
+    "id": 27911,
+    "name": "IcePanel",
+    "slug": "icepanel",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/dbd813cd554f2fcf891554ea0c9a4e0eceff792e.png",
+    "website": "https://icepanel.io",
+    "all_locations": "North Vancouver, BC, Canada",
+    "long_description": "IcePanel is a collaborative diagramming tool that helps software engineering and product teams align on technical decisions. Teams use IcePanel to create a map of their software systems, giving them full context about how it works.",
+    "one_liner": "Design and explain complex software architecture.",
+    "team_size": 9,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1669087724,
+    "tags": [
+      "Developer Tools",
+      "SaaS",
+      "B2B",
+      "Collaboration",
+      "Enterprise"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2023",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "Canada",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/icepanel",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2023/icepanel.json"
+  },
+  {
     "id": 27925,
     "name": "222",
     "slug": "222",
@@ -35239,7 +35197,7 @@
     "all_locations": "New York, NY, USA",
     "long_description": "Hadrius allows regulated financial firms of all sizes to consolidate and automate their compliance processes using AI in one platform. Today, we're securing compliance for $3T+ AUM across our clients.\r\n\r\nWe're building the AI that will regulate the US financial system and the trillions that flows through it.",
     "one_liner": "Automating Securities Compliance",
-    "team_size": 51,
+    "team_size": 80,
     "industry": "Fintech",
     "subindustry": "Fintech -> Asset Management",
     "launched_at": 1668714980,
@@ -35264,7 +35222,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -38324,7 +38282,7 @@
       "Canada",
       "America / Canada"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -38984,49 +38942,6 @@
     "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2023/metalware.json"
   },
   {
-    "id": 28928,
-    "name": "MediSearch",
-    "slug": "medisearch",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a5e622a415b26a3986bc9fc08bf8fb1a1fa460e7.png",
-    "website": "https://medisearch.io",
-    "all_locations": "London, England, United Kingdom",
-    "long_description": "MediSearch gives direct answers to medical questions based on trustworthy sources.",
-    "one_liner": "Search engine for trustworthy medical information.",
-    "team_size": 6,
-    "industry": "Healthcare",
-    "subindustry": "Healthcare -> Consumer Health and Wellness",
-    "launched_at": 1690590443,
-    "tags": [
-      "Artificial Intelligence",
-      "Generative AI",
-      "Consumer Health Services",
-      "Digital Health",
-      "Healthcare"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Summer 2023",
-    "status": "Active",
-    "industries": [
-      "Healthcare",
-      "Consumer Health and Wellness"
-    ],
-    "regions": [
-      "United Kingdom",
-      "Europe"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/medisearch",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2023/medisearch.json"
-  },
-  {
     "id": 28929,
     "name": "Bretton AI",
     "slug": "bretton-ai",
@@ -39318,6 +39233,54 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/letter-ai",
     "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2023/letter-ai.json"
+  },
+  {
+    "id": 28958,
+    "name": "Rimward",
+    "slug": "rimward",
+    "former_names": [
+      "Quack AI",
+      "Sourcepulse"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/62a16a2a0e7732cc2efaa618bbcef991bf7a255b.png",
+    "website": "https://rimward.ai/",
+    "all_locations": "Paris, Île-de-France, France",
+    "long_description": "Rimward helps operators of solar farms and other remote outdoor infrastructure detect intrusions from existing camera networks. We turn existing CCTV into operator-ready alerts with video verification, so security teams can reduce false alarms, respond faster, and avoid heavy hardware retrofits.\r\n\r\nWe are focused on sites where recurring theft, perimeter intrusion, and low staffing make traditional monitoring noisy and operationally weak. Our approach is software-heavy, field-oriented, and built to work with real site constraints.",
+    "one_liner": "Low-false-positive intrusion detection for remote outdoor sites",
+    "team_size": 1,
+    "industry": "B2B",
+    "subindustry": "B2B -> Security",
+    "launched_at": 1691807496,
+    "tags": [
+      "Machine Learning",
+      "Computer Vision",
+      "B2B",
+      "Security",
+      "Enterprise"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2023",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Security"
+    ],
+    "regions": [
+      "France",
+      "Europe",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/rimward",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2023/rimward.json"
   },
   {
     "id": 28976,
@@ -43778,7 +43741,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Always-on AI agents for 1-1 personalization at scale",
     "one_liner": "Agentic Marketing Platform",
-    "team_size": 5,
+    "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B -> Marketing",
     "launched_at": 1704840202,
@@ -46483,17 +46446,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/83e6dd01545303c123ca60f1dcf8bdc7566497c5.png",
     "website": "https://cloudglue.dev",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Cloudglue APIs (https://cloudglue.dev) makes it easy to transform video and audio into structured data for your LLM/RAG/AI application.\r\n\r\nOur developer-friendly APIs makes it easy to integrate video chat into your AI assistant with minimal heavy-lifting.",
-    "one_liner": "Developer APIs to let your AI/LLM understand videos and audio.",
-    "team_size": 3,
+    "long_description": "Cloudglue is the video context layer for AI. We make it easy for your AI to understand video.\r\n\r\n-> Developer API Platform: https://cloudglue.dev\r\n-> Tinycloud - your AI agent for video: https://tinycloud.cloudglue.dev",
+    "one_liner": "The video context layer for AI.",
+    "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1723146818,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "Machine Learning",
-      "Video"
+      "Video",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -46693,7 +46656,7 @@
     "slug": "dodo",
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ffc4a158d3979439d30a2236e2c173382feadd5d.png",
-    "website": "https://www.dodo.health/",
+    "website": "https://www.dodo.ai/",
     "all_locations": "",
     "long_description": "Dodo develops AI employees for specialty clinics, starting with veterinarians, fine-tuned on industry-specific knowledge and trained on protocols taken directly from employee manuals and playbooks, which often span multiple binders. \r\n\r\nClinics hire Dodo's labor-as-a-software to handle front and back-office tasks, enabling clinics to provide 24/7 service. Dodo answers calls, sends medical records, and refills prescriptions—fully autonomously, with no human in the loop.",
     "one_liner": "AI Employees for Specialty Clinics",
@@ -51508,42 +51471,6 @@
     "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2025/splash-inc.json"
   },
   {
-    "id": 30196,
-    "name": "Stamp",
-    "slug": "stamp",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ec77fe8f30c765884c0359fdaafcf0412168dd15.png",
-    "website": "https://www.stampmail.ai/",
-    "all_locations": "",
-    "long_description": "Stamp is the first AI Native inbox. It's more than an email client, though -- it's like your second brain.\r\n\r\nStamp can respond to emails in your voice, organize your inbox to filter out the noise, keep track of action items, and automate essentially every task you're doing manually in your inbox today.",
-    "one_liner": "The AI Secretary for Email and Calendar.",
-    "team_size": 1,
-    "industry": "B2B",
-    "subindustry": "B2B -> Productivity",
-    "launched_at": 1739302465,
-    "tags": [],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Winter 2025",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Productivity"
-    ],
-    "regions": [
-      "Unspecified"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/stamp",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2025/stamp.json"
-  },
-  {
     "id": 30205,
     "name": "Scout",
     "slug": "scout-4",
@@ -52735,7 +52662,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Calltree makes enterprise-grade AI support reps for call centers. Our AI reps take voice calls and chats like other AI support agents but can also use internal enterprise tools like a homegrown CRM or internal dashboards, like the highly trained humans working there today.",
     "one_liner": "Enterprise-grade AI support reps for call centers",
-    "team_size": 14,
+    "team_size": 7,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1738270018,
@@ -53016,6 +52943,41 @@
     "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2025/artificial-societies.json"
   },
   {
+    "id": 30299,
+    "name": "Miyagi Labs",
+    "slug": "miyagi-labs",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e5465f36b202134eec8628c9e4cf35661e125dbd.png",
+    "website": "https://miyagilabs.ai",
+    "all_locations": "",
+    "long_description": "Miyagi Labs is an AI-powered exam prep platform that helps students ace tests like the SAT and ACT through our AI tutor, personalized study plans, thousands of practice questions, and realistic practice exams.\r\n\r\nWe’re building the platform we wish we had when studying for exams. No more running out of practice questions. Track your progress as your rating in different exam categories increases, and know exactly what you need to practice most.\r\n\r\nWe envision a world where students anywhere can come to Miyagi to ace their exams and receive personalized, world-class AI tutoring designed to unlock their full potential.",
+    "one_liner": "AI tutors for exam prep",
+    "team_size": 2,
+    "industry": "Education",
+    "subindustry": "Education",
+    "launched_at": 1739904496,
+    "tags": [],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2025",
+    "status": "Active",
+    "industries": [
+      "Education"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/miyagi-labs",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2025/miyagi-labs.json"
+  },
+  {
     "id": 30301,
     "name": "FuseAI",
     "slug": "fuseai",
@@ -53101,12 +53063,12 @@
     "former_names": [
       "Cronus"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7ef07251161b57384d4fb72efe63acdf66f79d1d.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b63e52a3ec831660a5917dbb85f52cfd61f714e9.png",
     "website": "https://afterquery.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "AfterQuery is a research lab (backed by Y Combinator) investigating the boundaries and capabilities of artificial intelligence through novel datasets and experimentation. We believe that pushing the frontiers of AI requires both rigorous scientific inquiry and exceptional human data.",
-    "one_liner": "Research lab investigating the boundaries of AI capabilities.",
-    "team_size": 20,
+    "long_description": "AfterQuery is an applied research lab curating data solutions for frontier foundation model development. Serving every frontier AI lab.",
+    "one_liner": "Applied research lab curating data solutions for foundation model…",
+    "team_size": 30,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1738219847,
@@ -56717,43 +56679,6 @@
     "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2025/wafer.json"
   },
   {
-    "id": 30648,
-    "name": "Janet AI",
-    "slug": "tryjanet",
-    "former_names": [
-      "MeetingToCode"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/00eb0a0f3a1d2e114523331a618501c6336a1b3f.png",
-    "website": "https://janet.ai",
-    "all_locations": "",
-    "long_description": "Janet AI (janet.ai) is the AI-native ticket management system, built for modern engineering and product teams. Janet doesn’t wait for your manual work.\r\n\r\nJanet AI is backed by Y Combinator, Formosa Capital, Paul Graham, Charles Ferguson, and others.\r\n\r\nCheck us out at janet.ai!",
-    "one_liner": "The AI-Native Jira",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1752861520,
-    "tags": [],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Summer 2025",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "Unspecified"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/tryjanet",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2025/tryjanet.json"
-  },
-  {
     "id": 30650,
     "name": "Imprezia",
     "slug": "imprezia",
@@ -57240,6 +57165,46 @@
     "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2025/flai.json"
   },
   {
+    "id": 30695,
+    "name": "Channel3",
+    "slug": "channel3",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/68ab8f3604e8e37628ae61b0f2bc76124389ada3.png",
+    "website": "https://trychannel3.com",
+    "all_locations": "New York, NY, USA",
+    "long_description": "Channel3 is building a database of every product on the internet.\r\n\r\nGoogle and OpenAI maintain vast product graphs, but keep that valuable data to themselves. Channel3 gives every developer access, opening a world of possibility for new shopping experiences across any vertical. For instance, developers could build AI fashion stylists or give their agents shopping capabilities.\r\n\r\nWe don’t just collect product data; we actually understand it. With the latest image classification and reasoning models, we can match products across merchants—even when listings and images differ—recognize variants, and surface the perfect matches for every search. As we grow, we’ll capture unique insights into what users want, click, and buy.\r\n\r\nAs AI models get smarter and cheaper, our flywheel accelerates: our catalog will improve, and it will be even easier for developers and vibe-coders to build on our infrastructure. To further incentivize building on Channel3, we provide built-in monetization; developers earn commissions on sales they drive.\r\n\r\nAlex discovered this need while building an AI tutor that could recommend products and earn affiliate revenue. When no solution existed, he persuaded his smartest friend from Duke and former co-founder George to leave Palantir and build Channel3 together.",
+    "one_liner": "Database of every product on the internet",
+    "team_size": 5,
+    "industry": "B2B",
+    "subindustry": "B2B -> Retail",
+    "launched_at": 1752182938,
+    "tags": [
+      "Artificial Intelligence",
+      "E-commerce"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Retail"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/channel3",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2025/channel3.json"
+  },
+  {
     "id": 30696,
     "name": "GhostEye",
     "slug": "ghosteye",
@@ -57249,7 +57214,7 @@
     "all_locations": "New York, NY, USA",
     "long_description": "Right now, someone could look up your employees online, craft a perfect phishing email using what they find, and get into your systems by lunch. Or just call your help desk and pretend to be a new hire. No malware. No exploit. Just a conversation.\r\n\r\nGhostEye does this first. We continuously map your employees' real-world exposure the same way a threat actor would, then automatically generate and launch personalized phishing attacks, scam calls, texts, and deepfakes to test them before the real thing hits. Every attack is unique because every employee's exposure is unique.\r\n\r\nQuantified human risk scores that track over time. Employees shown exactly how they were compromised. Not a training platform. A security tool.\r\n\r\n",
     "one_liner": "Vulnerability Management for the Human Layer ",
-    "team_size": 3,
+    "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Security",
     "launched_at": 1753230986,
@@ -60743,15 +60708,15 @@
     "website": "https://ramain.ai",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "RamAIn can intelligently automate any super complex and repetitive process across applications (Browser & Desktop) super fast. It doesn’t matter whether you have API access or not - if you can see it, RamAIn can do it.\r\n\r\nCurrent CUAs all follow the same decision loop: screenshot, VLM, decision, repeat. This is expensive, unreliable and slow. We build infrastructure to pre-train CUAs on specific interfaces, effectively teaching RamAIn to use your computer.",
-    "one_liner": "AI Employees: Super-fast computer use agents",
+    "one_liner": "Agentic Process Automation: Super fast computer-use agents.",
     "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1767663208,
     "tags": [
-      "Artificial Intelligence",
       "Robotic Process Automation",
-      "Automation"
+      "Automation",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
