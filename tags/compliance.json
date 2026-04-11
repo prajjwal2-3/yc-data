@@ -1616,7 +1616,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -2626,11 +2626,11 @@
     "subindustry": "B2B -> Legal",
     "launched_at": 1731569238,
     "tags": [
+      "Artificial Intelligence",
       "B2B",
       "Workflow Automation",
       "Compliance",
-      "LegalTech",
-      "AI"
+      "LegalTech"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -2646,7 +2646,7 @@
       "Unspecified"
     ],
     "stage": "Early",
-    "app_video_public": false,
+    "app_video_public": true,
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,

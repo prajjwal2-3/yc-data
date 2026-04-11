@@ -30648,7 +30648,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -40777,11 +40777,11 @@
     "subindustry": "B2B -> Legal",
     "launched_at": 1731569238,
     "tags": [
+      "Artificial Intelligence",
       "B2B",
       "Workflow Automation",
       "Compliance",
-      "LegalTech",
-      "AI"
+      "LegalTech"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -40797,7 +40797,7 @@
       "Unspecified"
     ],
     "stage": "Early",
-    "app_video_public": false,
+    "app_video_public": true,
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
@@ -41597,14 +41597,14 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Weave uses AI to understand engineering.",
     "one_liner": "AI to understand engineering work",
-    "team_size": 9,
+    "team_size": 13,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1738683202,
     "tags": [
+      "Artificial Intelligence",
       "B2B",
-      "Analytics",
-      "AI"
+      "Analytics"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -41979,16 +41979,16 @@
     "all_locations": "New York, NY, USA",
     "long_description": "Trata is an AI-powered research desk for hedge funds. We use agents to interview hedge fund analysts, write investment research, and distribute this through a subscription.",
     "one_liner": "AI-powered research desk for hedge funds",
-    "team_size": 5,
+    "team_size": 6,
     "industry": "B2B",
     "subindustry": "B2B -> Finance and Accounting",
     "launched_at": 1738274242,
     "tags": [
+      "Artificial Intelligence",
       "Finance",
       "B2B",
       "Community",
-      "Investing",
-      "AI"
+      "Investing"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -43378,14 +43378,14 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "",
     "one_liner": "Specialized AI for Every Job",
-    "team_size": 6,
+    "team_size": 7,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1746731099,
     "tags": [
+      "Artificial Intelligence",
       "Reinforcement Learning",
-      "B2B",
-      "AI"
+      "B2B"
     ],
     "tags_highlighted": [],
     "top_company": false,

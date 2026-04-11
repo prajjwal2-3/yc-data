@@ -24514,6 +24514,7 @@
     "launched_at": 1628006072,
     "tags": [
       "AI-powered Drug Discovery",
+      "Artificial Intelligence",
       "Generative AI",
       "Biotech"
     ],
@@ -35222,7 +35223,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -36267,49 +36268,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/vector",
     "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2023/vector.json"
-  },
-  {
-    "id": 28183,
-    "name": "Metal",
-    "slug": "metal",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0bdcc8475801e999a95ad750970c80614d23f5c4.png",
-    "website": "https://metal.ai/",
-    "all_locations": "New York, NY, USA",
-    "long_description": "Metal is building the world’s most powerful intelligence platform for private market investors. We support deal teams throughout the investment lifecycle - from market research and sourcing to diligence and post-close. Top-tier funds like Berkshire Partners and Clearlake Capital already rely on Metal to move faster and make smarter investment decisions - and we’re just getting started.\r\n\r\nIf you're excited to transform how private investors work, collaborate, and make decisions, we’d love to meet you.",
-    "one_liner": "Institutional Intelligence for Private Equity",
-    "team_size": 17,
-    "industry": "B2B",
-    "subindustry": "B2B -> Finance and Accounting",
-    "launched_at": 1674209670,
-    "tags": [
-      "Artificial Intelligence",
-      "Fintech",
-      "SaaS",
-      "Finance",
-      "Investing"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Winter 2023",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Finance and Accounting"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/metal",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2023/metal.json"
   },
   {
     "id": 28205,
@@ -38282,7 +38240,7 @@
       "Canada",
       "America / Canada"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -46345,6 +46303,43 @@
     "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2025/leeroo.json"
   },
   {
+    "id": 29658,
+    "name": "RetroFix",
+    "slug": "retrofix",
+    "former_names": [
+      "RetroFix AI"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/75a43a4feea8b7e9b9068056b060eea8ca21a51a.png",
+    "website": "https://www.retrofix.ai/",
+    "all_locations": "",
+    "long_description": "RetroFix is an automation platform designed to be extremely intuitive to use, making it much easier and faster to automate manual work. \r\n\r\nTo create or modify workflows you can describe them in natural language and our agent will create them end-to-end for you. We allow you to connect with 2000+ applications and use our pre-built actions for your workflows. In the case we don't have a pre-built step, our agent can instead write code to access the full APIs of all the apps we integrate with.",
+    "one_liner": "Automate any workflow using plain english",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1722292194,
+    "tags": [],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2024",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/retrofix",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2024/retrofix.json"
+  },
+  {
     "id": 29659,
     "name": "Unbound",
     "slug": "unbound",
@@ -51734,14 +51729,14 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Weave uses AI to understand engineering.",
     "one_liner": "AI to understand engineering work",
-    "team_size": 9,
+    "team_size": 13,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1738683202,
     "tags": [
+      "Artificial Intelligence",
       "B2B",
-      "Analytics",
-      "AI"
+      "Analytics"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -52007,43 +52002,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/osmosis",
     "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2025/osmosis.json"
-  },
-  {
-    "id": 30249,
-    "name": "HealthKey",
-    "slug": "healthkey",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c1861589f70a31b85bd0f644259f89e147516204.png",
-    "website": "https://gethealthkey.com/",
-    "all_locations": "Austin, TX, USA",
-    "long_description": "HealthKey helps doctors offices generate more revenue by finding eligible patients for their clinical trials. We match at-risk patients with cutting-edge treatments, ultimately getting patients access to potentially life-changing treatments faster.\r\n\r\nBig Pharma pays a lot of money to clinics for each patient they enroll, but finding patients who qualify is an entirely manual process today. We use AI to prescreen doctors’ existing patients against Clinical Trials’ eligibility criteria, making enrollment fast and easy.",
-    "one_liner": "AI-powered Patient Identification for Clinical Trials",
-    "team_size": 10,
-    "industry": "Healthcare",
-    "subindustry": "Healthcare -> Healthcare IT",
-    "launched_at": 1737252261,
-    "tags": [],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Winter 2025",
-    "status": "Active",
-    "industries": [
-      "Healthcare",
-      "Healthcare IT"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/healthkey",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2025/healthkey.json"
   },
   {
     "id": 30254,
@@ -52461,16 +52419,16 @@
     "all_locations": "New York, NY, USA",
     "long_description": "Trata is an AI-powered research desk for hedge funds. We use agents to interview hedge fund analysts, write investment research, and distribute this through a subscription.",
     "one_liner": "AI-powered research desk for hedge funds",
-    "team_size": 5,
+    "team_size": 6,
     "industry": "B2B",
     "subindustry": "B2B -> Finance and Accounting",
     "launched_at": 1738274242,
     "tags": [
+      "Artificial Intelligence",
       "Finance",
       "B2B",
       "Community",
-      "Investing",
-      "AI"
+      "Investing"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -53806,8 +53764,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c1261383b7f5f7d5fcba63a49453bf6d9148fcfc.png",
     "website": "https://www.ambral.com/",
     "all_locations": "",
-    "long_description": "Ambral is an AI Account Management team used and trusted by multi-billion dollar enterprises.\r\n\r\nAmbral synthesizes signals from all customer activity and interactions into AI-powered models of every account. It pinpoints who needs attention and why, and autonomously takes the best next action to drive expansions, prevent churn, and ensure no customer slips through the cracks. \r\n\r\nTeam: \r\nSam (CEO): 2x founder. Led AI at Everlywell and early PM at Wonder (now valued at $7bn). Lived the pain of losing customer intimacy at scale and is obsessed with solving it. \r\n\r\nJack (CTO): Ex-SpaceX Flight Software Special Projects, where he developed telemetry routing and analysis systems for the most complex machines ever created. He’s now doing the same for the complexities of customer relationships. ",
-    "one_liner": "AI Account Managers",
+    "long_description": "AI agents for enterprise account management and customer success. Ambral has already been used to drive $XXXm in expansion revenue and preventable churn at multi-billion dollar enterprises and top scale-ups.\r\n\r\nAmbral synthesizes signals from all customer activity and interactions into AI-powered models of every account. It pinpoints who needs attention and why, and autonomously takes the best next action to drive expansions, prevent churn, and ensure no customer slips through the cracks. \r\n\r\nTeam: \r\nSam (CEO): 2x founder. Led AI at Everlywell and early PM at Wonder (now valued at $7bn). Lived the pain of losing customer intimacy at scale and is obsessed with solving it. \r\n\r\nJack (CTO): Ex-SpaceX Flight Software Special Projects, where he developed telemetry routing and analysis systems for the most complex machines ever created. He’s now doing the same for the complexities of customer relationships. ",
+    "one_liner": "AI for account management and customer success",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Sales",
@@ -60423,6 +60381,45 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/catchback-cards",
     "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2026/catchback-cards.json"
+  },
+  {
+    "id": 31051,
+    "name": "Corvera",
+    "slug": "corvera",
+    "former_names": [
+      "Sarah.AI",
+      "Sarah AI"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9ba3bd8042a63e5e4cc8707533d8561d2aa5bf74.png",
+    "website": "https://www.corvera.ai/",
+    "all_locations": "",
+    "long_description": "Corvera (YC W26) is the AI agent workforce for CPG back-office. We help brands increase profits by up to 40% by deploying digital workers that run their operations on autopilot.\r\n\r\nAs of mid-March 2026, we scaled from $0 to $33k in MRR in 4 weeks, are serving 12 brands, and are growing 130% week-on-week.\r\n\r\n With Corvera’s AI agents, brands can:\r\n- Process orders end-to-end without lifting a finger\r\n- Forecast demand in real time\r\n- Automatically process purchase orders and prevent stockouts\r\n- And much more.\r\n\r\nWe're founded by Chris (2x Founder; ex-CEO at Better Nature; Forbes 30U30), Dirk (ex-Google Data & AI Lead), and Matthew (ex-Head of Product at Rosemark; Princeton MEng in CS).\r\n\r\nOur mission is bold: to give CPG brands hands-free supply chains that run themselves through Corvera, their go-to AI-native operating system.\r\n\r\nOur vision is even bolder: to be the orchestration layer of the $5.4T global CPG industry.\r\n\r\nVisit www.corvera.ai to learn more!",
+    "one_liner": "AI agent workforce for CPG back-office",
+    "team_size": 4,
+    "industry": "B2B",
+    "subindustry": "B2B -> Operations",
+    "launched_at": 1763141207,
+    "tags": [],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Operations"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/corvera",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2026/corvera.json"
   },
   {
     "id": 31063,

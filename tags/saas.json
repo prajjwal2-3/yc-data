@@ -37006,7 +37006,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -38289,7 +38289,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2023",
     "status": "Active",
@@ -42401,48 +42401,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/decisional-ai",
     "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2024/decisional-ai.json"
-  },
-  {
-    "id": 29658,
-    "name": "RetroFix",
-    "slug": "retrofix",
-    "former_names": [
-      "RetroFix AI"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/75a43a4feea8b7e9b9068056b060eea8ca21a51a.png",
-    "website": "https://www.retrofix.ai/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "RetroFix is an automation platform designed to be extremely intuitive to use, making it much easier and faster to automate manual work. \r\n\r\nTo create or modify workflows you can describe them in natural language and our agent will create them end-to-end for you. We allow you to connect with 2000+ applications and use our pre-built actions for your workflows. In the case we don't have a pre-built step, our agent can instead write code to access the full APIs of all the apps we integrate with.",
-    "one_liner": "Automate any workflow using plain english",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1722292194,
-    "tags": [
-      "Artificial Intelligence",
-      "SaaS",
-      "Workflow Automation"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2024",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/retrofix",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2024/retrofix.json"
   },
   {
     "id": 29668,
@@ -48684,7 +48642,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6e3d9a7c1d8ec13bb1565520e7fc7a6ca3a8fa82.png",
     "website": "https://www.argalabs.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Arga is the infrastructure that lets you validate code changes & agents at scale, because you (and your users) were never meant to be QA for AI.\r\n\r\nWe provide validation infrastructure with fully-functional mocks of external services for your code & agents. Deploy a PR into our production-like sandbox and it runs against replicas of any web app, fully compatible with any official API/SDK. These replicas surface edge cases traditional mocks or assertions miss, and you never hit rate limits. For AI agents, run red-teams with Arga: test tool calls, behaviours, and failure modes before anything reaches production. ",
+    "long_description": "Arga provides on-demand staging per PR, so anyone (human or agent) can test any change.\r\n\r\nWe provide staging infrastructure with stateful twins of external services for your code & agents. Deploy a change into our sandbox and it runs against twins of any SaaS (Stripe, Google Drive, Slack, etc.), with no config required. These twins implement the same APIs, are fully compatible with any SDK, surface edge cases traditional mocks or assertions miss, and you never hit rate limits. For AI agents, run red-teams with Arga: test tool calls, behaviours, and failure modes before anything reaches production. ",
     "one_liner": "The validation infrastructure for AI agents",
     "team_size": 3,
     "industry": "B2B",

@@ -10461,6 +10461,50 @@
     "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2021/caire-health.json"
   },
   {
+    "id": 24727,
+    "name": "Output Biosciences",
+    "slug": "output",
+    "former_names": [
+      "Jingu Health"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/990074a168ed566a1898edae4ddc84a3de0b15c3.png",
+    "website": "https://www.outputbio.com/",
+    "all_locations": "New York, NY, USA",
+    "long_description": "Output Biosciences is pioneering Biologically-Aware Generative AI to finally understand complex biological systems. Our new generative AI architecture can handle the extremely long, nonlinear, fragmented, and high dimensional data of biological systems. We are building Large Biological Models that can generate breakthrough medicines and transform the way we diagnose, treat and prevent disease. ",
+    "one_liner": "Teaching Generative AI the Language of Biology",
+    "team_size": 6,
+    "industry": "Healthcare",
+    "subindustry": "Healthcare -> Therapeutics",
+    "launched_at": 1628006072,
+    "tags": [
+      "AI-powered Drug Discovery",
+      "Artificial Intelligence",
+      "Generative AI",
+      "Biotech"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2021",
+    "status": "Active",
+    "industries": [
+      "Healthcare",
+      "Therapeutics"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/output",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2021/output.json"
+  },
+  {
     "id": 24787,
     "name": "Squire.ai",
     "slug": "squire-ai",
@@ -17257,7 +17301,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2023",
     "status": "Active",
@@ -25765,48 +25809,6 @@
     "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2024/decisional-ai.json"
   },
   {
-    "id": 29658,
-    "name": "RetroFix",
-    "slug": "retrofix",
-    "former_names": [
-      "RetroFix AI"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/75a43a4feea8b7e9b9068056b060eea8ca21a51a.png",
-    "website": "https://www.retrofix.ai/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "RetroFix is an automation platform designed to be extremely intuitive to use, making it much easier and faster to automate manual work. \r\n\r\nTo create or modify workflows you can describe them in natural language and our agent will create them end-to-end for you. We allow you to connect with 2000+ applications and use our pre-built actions for your workflows. In the case we don't have a pre-built step, our agent can instead write code to access the full APIs of all the apps we integrate with.",
-    "one_liner": "Automate any workflow using plain english",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1722292194,
-    "tags": [
-      "Artificial Intelligence",
-      "SaaS",
-      "Workflow Automation"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2024",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/retrofix",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2024/retrofix.json"
-  },
-  {
     "id": 29659,
     "name": "Unbound",
     "slug": "unbound",
@@ -28333,6 +28335,48 @@
     "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2024/quetzal.json"
   },
   {
+    "id": 29834,
+    "name": "Rastro",
+    "slug": "rastro",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/447ef3f5bdd55f339b07fe098ff620ccfd86af36.png",
+    "website": "https://rastro.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "We help distributors and manufacturers turn catalog chaos into launch-ready products. Share vendor data, pull online specs and pricing, fuzzy match to your database, generate images, and output products in your exact schema.",
+    "one_liner": "The fastest way to launch product catalogs.",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B -> Retail",
+    "launched_at": 1721284235,
+    "tags": [
+      "Artificial Intelligence",
+      "Manufacturing",
+      "Retail Tech",
+      "Retail"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2024",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Retail"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/rastro",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2024/rastro.json"
+  },
+  {
     "id": 29844,
     "name": "Oway",
     "slug": "oway",
@@ -29558,6 +29602,50 @@
     "api": "https://prajjwal2-3.github.io/yc-data/batches/fall-2024/hybrd.json"
   },
   {
+    "id": 30067,
+    "name": "Platus",
+    "slug": "platus",
+    "former_names": [
+      "Openlaw"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/014b1ba3942482fbcc33d8bd34b870f8e4f598a4.png",
+    "website": "https://www.platus.com",
+    "all_locations": "",
+    "long_description": "Platus delivers fast, reliable legal infrastructure with a no-code platform and API, designed to support SMBs with instant access to notarization, legal drafting, e-signing, and workflow automations. Our solution removes the high costs and slow processing of traditional legal services, by empowering businesses to seamlessly manage compliance and legal tasks.",
+    "one_liner": "Instant Legal Infrastructure - Draft, Sign, Notarize & Process",
+    "team_size": 15,
+    "industry": "B2B",
+    "subindustry": "B2B -> Legal",
+    "launched_at": 1731569238,
+    "tags": [
+      "Artificial Intelligence",
+      "B2B",
+      "Workflow Automation",
+      "Compliance",
+      "LegalTech"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2024",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Legal"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": true,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/platus",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/fall-2024/platus.json"
+  },
+  {
     "id": 30074,
     "name": "vly.ai",
     "slug": "vly-ai-2",
@@ -30729,6 +30817,49 @@
     "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2025/caseflood-ai.json"
   },
   {
+    "id": 30228,
+    "name": "Weave",
+    "slug": "weave-3",
+    "former_names": [
+      "WorkWeave"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/983cb16d6906fc1a691557bf84b21313870ce3d0.png",
+    "website": "https://workweave.dev",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Weave uses AI to understand engineering.",
+    "one_liner": "AI to understand engineering work",
+    "team_size": 13,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1738683202,
+    "tags": [
+      "Artificial Intelligence",
+      "B2B",
+      "Analytics"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/weave-3",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2025/weave-3.json"
+  },
+  {
     "id": 30229,
     "name": "Maive",
     "slug": "maive",
@@ -31632,6 +31763,49 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/haleum",
     "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2025/haleum.json"
+  },
+  {
+    "id": 30274,
+    "name": "Trata",
+    "slug": "trata",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/508cd0aa179903aea336ffc42458a82d33d548ac.png",
+    "website": "https://www.trytrata.com/",
+    "all_locations": "New York, NY, USA",
+    "long_description": "Trata is an AI-powered research desk for hedge funds. We use agents to interview hedge fund analysts, write investment research, and distribute this through a subscription.",
+    "one_liner": "AI-powered research desk for hedge funds",
+    "team_size": 6,
+    "industry": "B2B",
+    "subindustry": "B2B -> Finance and Accounting",
+    "launched_at": 1738274242,
+    "tags": [
+      "Artificial Intelligence",
+      "Finance",
+      "B2B",
+      "Community",
+      "Investing"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Finance and Accounting"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/trata",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2025/trata.json"
   },
   {
     "id": 30283,
@@ -33354,6 +33528,49 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/cleon",
     "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2025/cleon.json"
+  },
+  {
+    "id": 30488,
+    "name": "Theta",
+    "slug": "theta",
+    "former_names": [
+      "Handler AI",
+      "Theta Software"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/bef5c2a34194462b75e30c574accec7a94eef920.png",
+    "website": "https://thetasoftware.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "",
+    "one_liner": "Specialized AI for Every Job",
+    "team_size": 7,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1746731099,
+    "tags": [
+      "Artificial Intelligence",
+      "Reinforcement Learning",
+      "B2B"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2025",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/theta",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2025/theta.json"
   },
   {
     "id": 30496,
@@ -39294,6 +39511,50 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/lab0",
     "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/lab0.json"
+  },
+  {
+    "id": 31429,
+    "name": "Benchspan",
+    "slug": "benchspan",
+    "former_names": [
+      "Oddpool"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/aa4fc4f6d1e2ccaa194229fd65ff2d902dc82092.png",
+    "website": "https://www.benchspan.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "We built the most accurate indirect prompt injection classifier available today, trained by the team behind Microsoft's Prompt Shields. Our model catches the attacks that generic guardrails miss: hidden instructions embedded in documents, emails, tool outputs, and retrieval results that manipulate your agent from the inside.\r\n\r\nConnect your observability stack and Benchspan monitors every LLM call, tool invocation, and RAG retrieval in production. We learn your agents' normal behavior and flag data exfiltration, unauthorized tool access, and behavioral drift before they cause damage",
+    "one_liner": "Real-time threat detection for AI agents in production",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1773859660,
+    "tags": [
+      "AIOps",
+      "Artificial Intelligence",
+      "Analytics",
+      "Infrastructure"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/benchspan",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/benchspan.json"
   },
   {
     "id": 31436,

@@ -13912,7 +13912,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -23833,47 +23833,6 @@
     "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2024/orca-launcher.json"
   },
   {
-    "id": 29834,
-    "name": "Rastro",
-    "slug": "rastro",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/447ef3f5bdd55f339b07fe098ff620ccfd86af36.png",
-    "website": "https://rastro.ai",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "We help distributors and retailers turn catalog chaos into launch-ready products. Share vendor data, pull online specs and pricing, fuzzy match to your database, generate images, and output products in your exact schema.",
-    "one_liner": "The fastest way for retailers to launch product catalogs.",
-    "team_size": 3,
-    "industry": "B2B",
-    "subindustry": "B2B -> Retail",
-    "launched_at": 1721284235,
-    "tags": [
-      "Retail Tech",
-      "Retail",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2024",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Retail"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/rastro",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2024/rastro.json"
-  },
-  {
     "id": 29835,
     "name": "Voker",
     "slug": "voker",
@@ -25187,50 +25146,6 @@
     "api": "https://prajjwal2-3.github.io/yc-data/batches/fall-2024/unusual.json"
   },
   {
-    "id": 30067,
-    "name": "Platus",
-    "slug": "platus",
-    "former_names": [
-      "Openlaw"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/014b1ba3942482fbcc33d8bd34b870f8e4f598a4.png",
-    "website": "https://www.platus.com",
-    "all_locations": "",
-    "long_description": "Platus delivers fast, reliable legal infrastructure with a no-code platform and API, designed to support SMBs with instant access to notarization, legal drafting, e-signing, and workflow automations. Our solution removes the high costs and slow processing of traditional legal services, by empowering businesses to seamlessly manage compliance and legal tasks.",
-    "one_liner": "Instant Legal Infrastructure - Draft, Sign, Notarize & Process",
-    "team_size": 15,
-    "industry": "B2B",
-    "subindustry": "B2B -> Legal",
-    "launched_at": 1731569238,
-    "tags": [
-      "B2B",
-      "Workflow Automation",
-      "Compliance",
-      "LegalTech",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Fall 2024",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Legal"
-    ],
-    "regions": [
-      "Unspecified"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/platus",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/fall-2024/platus.json"
-  },
-  {
     "id": 30068,
     "name": "Stewdio",
     "slug": "stewdio",
@@ -26297,49 +26212,6 @@
     "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2025/a0-dev.json"
   },
   {
-    "id": 30228,
-    "name": "Weave",
-    "slug": "weave-3",
-    "former_names": [
-      "WorkWeave"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/983cb16d6906fc1a691557bf84b21313870ce3d0.png",
-    "website": "https://workweave.dev",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Weave uses AI to understand engineering.",
-    "one_liner": "AI to understand engineering work",
-    "team_size": 9,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1738683202,
-    "tags": [
-      "B2B",
-      "Analytics",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Winter 2025",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/weave-3",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2025/weave-3.json"
-  },
-  {
     "id": 30234,
     "name": "Adam",
     "slug": "adam",
@@ -26727,49 +26599,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/mundo-ai",
     "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2025/mundo-ai.json"
-  },
-  {
-    "id": 30274,
-    "name": "Trata",
-    "slug": "trata",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/508cd0aa179903aea336ffc42458a82d33d548ac.png",
-    "website": "https://www.trytrata.com/",
-    "all_locations": "New York, NY, USA",
-    "long_description": "Trata is an AI-powered research desk for hedge funds. We use agents to interview hedge fund analysts, write investment research, and distribute this through a subscription.",
-    "one_liner": "AI-powered research desk for hedge funds",
-    "team_size": 5,
-    "industry": "B2B",
-    "subindustry": "B2B -> Finance and Accounting",
-    "launched_at": 1738274242,
-    "tags": [
-      "Finance",
-      "B2B",
-      "Community",
-      "Investing",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Winter 2025",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Finance and Accounting"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/trata",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2025/trata.json"
   },
   {
     "id": 30276,
@@ -28024,9 +27853,9 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c4c744ee428be44ba894f8b477449386dca44045.png",
     "website": "https://kaelio.com/",
     "all_locations": "",
-    "long_description": "Kaelio connects your CRM, analytics, billing, support, and ops tools. It monitors what's happening across your stack, flags what needs attention, recommends the next step, and executes with one command.\r\n\r\nTeams today switch between five dashboards just to figure out what's going on. They catch problems after they've escalated, spend 45 minutes prepping for meetings, and still miss the follow-up.\r\n\r\nKaelio fixes that. It watches everything, tells your team what matters, and acts on it. Revenue, ops, marketing, finance, customer success. One agent that works across all of them.",
-    "one_liner": "AI that operates your business",
-    "team_size": 4,
+    "long_description": "Kaelio auto-builds a governed context layer from your data stack. Metrics, schema, dashboard logic, and domain knowledge. Your team reviews. Agents query.\r\n\r\nAnalytics agents today fail because they lack structured context and determinism. Metrics are defined in five places, governed in none. Teams spend months on semantic layer projects that never finish.\r\n\r\nKaelio fixes that. Connect your warehouse, BI tools, and docs. Kaelio builds the context layer automatically. Your team governs it. Any agent can query it. One context layer across your entire data stack.",
+    "one_liner": "The context layer your data agents need",
+    "team_size": 8,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1747200146,
@@ -28606,49 +28435,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/lyrahq",
     "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2025/lyrahq.json"
-  },
-  {
-    "id": 30488,
-    "name": "Theta",
-    "slug": "theta",
-    "former_names": [
-      "Handler AI",
-      "Theta Software"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/bef5c2a34194462b75e30c574accec7a94eef920.png",
-    "website": "https://thetasoftware.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "",
-    "one_liner": "Specialized AI for Every Job",
-    "team_size": 6,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1746731099,
-    "tags": [
-      "Reinforcement Learning",
-      "B2B",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Spring 2025",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/theta",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2025/theta.json"
   },
   {
     "id": 30496,
@@ -34220,50 +34006,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/ontora",
     "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/ontora.json"
-  },
-  {
-    "id": 31429,
-    "name": "Benchspan",
-    "slug": "benchspan",
-    "former_names": [
-      "Oddpool"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/aa4fc4f6d1e2ccaa194229fd65ff2d902dc82092.png",
-    "website": "https://www.benchspan.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Benchspan is a benchmarking platform for AI agents. If you're building an agent, you need to know if it's getting better. But running benchmarks is slow, expensive, and fragile. You spend days writing glue code every time you want to run a new benchmark, runs take forever on your laptop, and when they fail halfway through you burn hundreds of dollars in tokens with nothing to show for it.\r\n\r\nBenchspan fixes all of it. Onboard your agent once, and it works with every benchmark on the platform. We onboarded Claude Code in 37 lines of code. Running a benchmark becomes a single command, executed in parallel in the cloud. Every result goes to one place your whole team can see, with full trajectories, token usage, latency, and custom metrics. When runs partially fail, rerun just the subset that errored instead of starting from scratch. Compare runs side by side to see exactly where your agent is improving and where it's regressing.",
-    "one_liner": "Run agent benchmarks in minutes, not hours",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1773859660,
-    "tags": [
-      "AIOps",
-      "Analytics",
-      "Infrastructure",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Spring 2026",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/benchspan",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/benchspan.json"
   },
   {
     "id": 31432,
