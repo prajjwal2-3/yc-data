@@ -6,7 +6,7 @@
   "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6e3d9a7c1d8ec13bb1565520e7fc7a6ca3a8fa82.png",
   "website": "https://www.argalabs.com/",
   "all_locations": "San Francisco, CA, USA",
-  "long_description": "Arga provides on-demand staging per PR, so anyone (human or agent) can test any change.\r\n\r\nWe provide staging infrastructure with stateful twins of external services for your code & agents. Deploy a change into our sandbox and it runs against twins of any SaaS (Stripe, Google Drive, Slack, etc.), with no config required. These twins implement the same APIs, are fully compatible with any SDK, surface edge cases traditional mocks or assertions miss, and you never hit rate limits. For AI agents, run red-teams with Arga: test tool calls, behaviours, and failure modes before anything reaches production. ",
+  "long_description": "Arga provides on-demand staging per PR, so anyone (human or agent) can test any change.\r\n\r\nDeploy a change into our sandbox and it runs against twins of any SaaS (Stripe, Google Drive, Slack, etc.), with no config required. These twins implement the same APIs, are fully compatible with any SDK, surface edge cases mocks or assertions miss, and you never hit rate limits. For AI agents, run red-teams with Arga: test tool calls, behaviours, and failure modes before anything reaches production. ",
   "one_liner": "The validation infrastructure for AI agents",
   "team_size": 3,
   "industry": "B2B",

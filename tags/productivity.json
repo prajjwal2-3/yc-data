@@ -5389,6 +5389,53 @@
     "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2024/aftercare.json"
   },
   {
+    "id": 29404,
+    "name": "Diana",
+    "slug": "diana",
+    "former_names": [
+      "DianaHR"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/020f142d48a9efde3733971776a68c441557dfe7.png",
+    "website": "https://getdiana.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "The first governed OpenClaw platform, delivering a secure AI assistant to every employee, embedded directly into Slack.",
+    "one_liner": "Give Your Employee An Employee",
+    "team_size": 7,
+    "industry": "B2B",
+    "subindustry": "B2B -> Human Resources",
+    "launched_at": 1706475260,
+    "tags": [
+      "Artificial Intelligence",
+      "Productivity",
+      "SMB",
+      "Operations",
+      "AI Assistant"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2024",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Human Resources"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/diana",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2024/diana.json"
+  },
+  {
     "id": 29419,
     "name": "Lumetric",
     "slug": "lumetric",
@@ -6867,50 +6914,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/epicenter",
     "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2025/epicenter.json"
-  },
-  {
-    "id": 30719,
-    "name": "April",
-    "slug": "april",
-    "former_names": [
-      "Inbox0"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d5d3a6edb5621c81b20be14a648f9b57921bf764.png",
-    "website": "https://tryapril.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "April is a voice AI Executive assistant that manages your email and calendar, hands free. It’s built for busy individuals who need EAs but don’t have them.",
-    "one_liner": "Voice AI Executive Assistant",
-    "team_size": 2,
-    "industry": "Consumer",
-    "subindustry": "Consumer",
-    "launched_at": 1753405058,
-    "tags": [
-      "Consumer",
-      "Productivity",
-      "Calendar",
-      "Email",
-      "AI Assistant"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Summer 2025",
-    "status": "Active",
-    "industries": [
-      "Consumer"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/april",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2025/april.json"
   },
   {
     "id": 30743,

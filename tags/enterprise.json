@@ -3718,17 +3718,17 @@
     "website": "https://tracecat.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Tracecat provides everything busy security teams need to automate work: agents, workflows, cases, and an AI copilot that builds for you. https://github.com/TracecatHQ/tracecat",
-    "one_liner": "Open-source security automation platform for teams and AI agents.",
+    "one_liner": "The open source AI-native security automation platform",
     "team_size": null,
     "industry": "B2B",
     "subindustry": "B2B -> Productivity",
     "launched_at": 1704382841,
     "tags": [
+      "Artificial Intelligence",
       "Security",
       "Open Source",
       "Enterprise",
-      "Automation",
-      "AI"
+      "Automation"
     ],
     "tags_highlighted": [],
     "top_company": false,

@@ -3359,24 +3359,26 @@
   },
   {
     "id": 29404,
-    "name": "DianaHR",
-    "slug": "dianahr",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2f0990cef5b926ae03d0589cc34c56a79adc02d7.png",
-    "website": "http://www.dianahr.ai",
+    "name": "Diana",
+    "slug": "diana",
+    "former_names": [
+      "DianaHR"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/020f142d48a9efde3733971776a68c441557dfe7.png",
+    "website": "https://getdiana.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "DianaHR is an AI-powered HR person for the 1.4 million SMBs with at least 10 employees. Today, SMB owners spend 10+ hours a week struggling with managing software, state compliance notices, benefits questions, onboarding, insurance, workers comp, 401k, etc. With DianaHR, a human-in-the-loop AI takes care of all that and delivers peace of mind.",
-    "one_liner": "An AI-Powered HR Person ",
-    "team_size": 3,
+    "long_description": "The first governed OpenClaw platform, delivering a secure AI assistant to every employee, embedded directly into Slack.",
+    "one_liner": "Give Your Employee An Employee",
+    "team_size": 7,
     "industry": "B2B",
     "subindustry": "B2B -> Human Resources",
     "launched_at": 1706475260,
     "tags": [
       "Artificial Intelligence",
-      "Human Resources",
-      "Compliance",
-      "HR Tech",
-      "Operations"
+      "Productivity",
+      "SMB",
+      "Operations",
+      "AI Assistant"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -3399,8 +3401,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/dianahr",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2024/dianahr.json"
+    "url": "https://www.ycombinator.com/companies/diana",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2024/diana.json"
   },
   {
     "id": 29651,

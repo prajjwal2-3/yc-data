@@ -26516,16 +26516,16 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Metriport provides real-time access to comprehensive medical data for 300M+ individuals across the US. Our open-source intelligence platform helps organizations access, analyze, and exchange patient data while integrating with all major healthcare IT systems.\r\n\r\nIf you’ve been to doctors in the US, you may have encountered the problem: how does a healthcare provider get access to your up-to-date medical history to treat you properly? Reliance on archaic methods is still the norm: typically, you or your provider need to call the facilities where you’ve previously received treatment (assuming you remember them all), just to have them send your records via fax (yep, fax). This can take weeks, only then to have a provider sift through hundreds of pages of unstructured docs, just to figure out basic things like your active medication list, what conditions you may have, latest lab results, etc. This not only delays care—it can cause improper treatment, since the medical history is critical for informing treatment decisions. \r\n\r\nMetriport integrates fragmented medical data from thousands of sources—including both national and state/regional Health Information Exchanges (HIEs), ADTs, EHRs, pharmacies, and labs—through a single API connector. The platform then standardizes, deduplicates, and enriches this data to create a comprehensive longitudinal patient record, with AI-powered clinical summaries. \r\n\r\nAlong with a rich understanding of patient health history, healthcare providers also get realtime updates about their patients' health through Metriport. This includes getting notified when a patient is discharged from the hospital, picks up their prescription from the pharmacy, or has a new lab result available. Through this data, care teams get insights across their patient population, helping with 30-day readmissions prediction, care gap closure, risk adjustment, and more.\r\n\r\nOn top of all of this, Metriport enables healthcare organizations to share net-new clinical information back to all major healthcare IT systems, and to become interoperable with popular EHR systems such as Epic, Cerner, athena, eClinicalWorks, and many more—forming an internet for healthcare data.\r\n\r\nMetriport improves both patient and provider lives at the point-of-care, supporting use cases such as medication adherence, transitions of care management, chart prep, and much more. If you want to do work that matters, get in touch with us today.",
     "one_liner": "Open-Source Platform for Healthcare Data Intelligence",
-    "team_size": 16,
+    "team_size": 21,
     "industry": "Healthcare",
     "subindustry": "Healthcare -> Healthcare IT",
     "launched_at": 1654554081,
     "tags": [
-      "Artificial Intelligence",
       "B2B",
       "Digital Health",
       "Healthcare",
-      "API"
+      "API",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -26543,7 +26543,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -42764,18 +42764,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1e885d9503dffbb01e24f5bd3a78965979764099.png",
     "website": "https://www.frekil.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Today, it takes months to understand how drugs perform in the real world, delaying safety insights, slowing approvals, and costing lives. Frekil turns that months-long process into minutes, with full auditability and regulatory-grade rigor.\r\n\r\nFrekil automatically generates real-world evidence of drug performance from EHR and claims data. It acts like an AI Biostatistician that understands medical ontologies and statistical methods, running complex analyses on autopilot.\r\n\r\nWe help Pharma, Biotech, CROs, and Clinical Researchers to run RWE studies 100x faster and produce publication-ready retrospective studies and FDA/EMA-ready evidence packages with transparent lineage in minutes.",
-    "one_liner": "Intelligence Layer for Clinical Real World Data (RWD)",
+    "long_description": "Today, it takes months to understand how drugs perform in the real world, delaying safety insights, slowing approvals, and costing lives. Frekil turns that months-long process into minutes, with full auditability and regulatory-grade rigor.\r\n\r\nFrekil automatically generates real-world evidence of drug performance from EHR, claims data, etc. It acts like an AI Biostatistician that understands medical ontologies and statistical methods, running complex analyses on autopilot.\r\n\r\nWe help Pharma, Biotech, CROs, and Clinical Researchers to run RWE studies 100x faster and produce publication-ready retrospective studies with transparent lineage in minutes.",
+    "one_liner": "Accelerate Real World Evidence (RWE) Generation from months to minutes",
     "team_size": 2,
     "industry": "Healthcare",
     "subindustry": "Healthcare",
     "launched_at": 1744440110,
     "tags": [
-      "Artificial Intelligence",
       "Health Tech",
       "B2B",
       "Biotech",
-      "Healthcare"
+      "Healthcare",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -44996,6 +44996,51 @@
     "question_answers": true,
     "url": "https://www.ycombinator.com/companies/finto-de",
     "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2025/finto-de.json"
+  },
+  {
+    "id": 30719,
+    "name": "ProcIndex",
+    "slug": "procindex",
+    "former_names": [
+      "Inbox0",
+      "April"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/55b886e3f926718d32add5ccfdea06761c40b243.png",
+    "website": "https://www.procindex.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "",
+    "one_liner": "AI Agents for Accounting Operations",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Finance and Accounting",
+    "launched_at": 1753405058,
+    "tags": [
+      "Fintech",
+      "Finance",
+      "B2B",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Finance and Accounting"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/procindex",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2025/procindex.json"
   },
   {
     "id": 30720,
@@ -47287,22 +47332,24 @@
   },
   {
     "id": 31373,
-    "name": "RefortifAI",
+    "name": "Refortifai",
     "slug": "refortifai",
-    "former_names": [],
+    "former_names": [
+      "RefortifAI"
+    ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b37c6cc458022b158a3f2abce590be2ed10116fb.png",
     "website": "https://refortif.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "RefortifAI provides DRM and IP protection for AI models by obfuscating model weights so they only run inside their hardened runtime, letting companies distribute models to untrusted environments without exposing their IP. It works as a drop-in replacement for existing inference engines (vLLM, SGLang, etc.), so customers deploy normally while weights stay protected.",
-    "one_liner": "Secure Deployment & DRM for AI model providers",
+    "long_description": "Refortifai provides a security agent that monitors your agent.\r\nIt intercepts tool calls, enforces governance policies, and blocks attacks in real time.\r\nCovers prompt injection, memory poisoning, privilege escalation, and more.\r\nIt sits on top of your existing agent setup with minimal integration.",
+    "one_liner": "Runtime security for AI agents",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Security",
     "launched_at": 1774743443,
     "tags": [
-      "Artificial Intelligence",
       "B2B",
-      "Security"
+      "Security",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -48043,6 +48090,49 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/manicule",
     "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/manicule.json"
+  },
+  {
+    "id": 31545,
+    "name": "Modern",
+    "slug": "modern",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3d2529e7f9c6b526eaa04259dba132d262fb29fc.png",
+    "website": "https://getmodern.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Modern helps IT, HR, and Finance teams automatically resolve 80%+ of high-volume requests. Teams define workflows in plain language, set approval rules and policies, and Modern handles the rest: password resets, access provisioning, expense approvals, on-boarding checklists, and more. Everything runs with full audit trails, role-based approvals, and enterprise-grade security built in.\r\n\r\nModern works alongside your existing ITSM with no rip-and-replace required or runs as your ITSM from day one. Most teams are live in under a day. For teams that want to go fully hands-off, 100% automation via a fully managed IT services are also available.",
+    "one_liner": "AI agents for IT, HR & Operations teams",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Operations",
+    "launched_at": 1775918136,
+    "tags": [
+      "AIOps",
+      "Artificial Intelligence",
+      "SaaS",
+      "B2B",
+      "Healthcare IT"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Operations"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/modern",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/modern.json"
   },
   {
     "id": 31550,

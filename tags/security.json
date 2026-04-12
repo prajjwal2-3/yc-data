@@ -3043,17 +3043,17 @@
     "website": "https://tracecat.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Tracecat provides everything busy security teams need to automate work: agents, workflows, cases, and an AI copilot that builds for you. https://github.com/TracecatHQ/tracecat",
-    "one_liner": "Open-source security automation platform for teams and AI agents.",
+    "one_liner": "The open source AI-native security automation platform",
     "team_size": null,
     "industry": "B2B",
     "subindustry": "B2B -> Productivity",
     "launched_at": 1704382841,
     "tags": [
+      "Artificial Intelligence",
       "Security",
       "Open Source",
       "Enterprise",
-      "Automation",
-      "AI"
+      "Automation"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -3788,22 +3788,24 @@
   },
   {
     "id": 31373,
-    "name": "RefortifAI",
+    "name": "Refortifai",
     "slug": "refortifai",
-    "former_names": [],
+    "former_names": [
+      "RefortifAI"
+    ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b37c6cc458022b158a3f2abce590be2ed10116fb.png",
     "website": "https://refortif.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "RefortifAI provides DRM and IP protection for AI models by obfuscating model weights so they only run inside their hardened runtime, letting companies distribute models to untrusted environments without exposing their IP. It works as a drop-in replacement for existing inference engines (vLLM, SGLang, etc.), so customers deploy normally while weights stay protected.",
-    "one_liner": "Secure Deployment & DRM for AI model providers",
+    "long_description": "Refortifai provides a security agent that monitors your agent.\r\nIt intercepts tool calls, enforces governance policies, and blocks attacks in real time.\r\nCovers prompt injection, memory poisoning, privilege escalation, and more.\r\nIt sits on top of your existing agent setup with minimal integration.",
+    "one_liner": "Runtime security for AI agents",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Security",
     "launched_at": 1774743443,
     "tags": [
-      "Artificial Intelligence",
       "B2B",
-      "Security"
+      "Security",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,

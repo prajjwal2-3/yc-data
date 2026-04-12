@@ -24144,17 +24144,17 @@
     "website": "https://www.mach9.ai/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Mach9 accelerates how teams model and understand the world with automated feature extraction technology. Founded in 2021 and headquartered in San Francisco, Mach9's flagship Digital Surveyor platform helps transportation agencies, utility companies, and engineering firms extract miles of road corridor projects in a fraction of traditional processing time. Built on decades of research from Carnegie Mellon University's Robotics Institute, Mach9 empowers the architecture, engineering, and construction industries to tackle large-scale infrastructure projects with unprecedented speed and accuracy. Leading survey and geospatial organizations, including Langan, Olsson, Woolpert, HDR, and major state DOTs trust Digital Surveyor to create engineering-grade maps for infrastructure design and operations.",
-    "one_liner": "AI software for infrastructure engineering",
+    "one_liner": "AI-native CAD software for civil engineering",
     "team_size": 25,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1628526474,
     "tags": [
+      "Artificial Intelligence",
       "Machine Learning",
       "Computer Vision",
       "Design Tools",
-      "Infrastructure",
-      "AI"
+      "Infrastructure"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -31519,16 +31519,16 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Metriport provides real-time access to comprehensive medical data for 300M+ individuals across the US. Our open-source intelligence platform helps organizations access, analyze, and exchange patient data while integrating with all major healthcare IT systems.\r\n\r\nIf you’ve been to doctors in the US, you may have encountered the problem: how does a healthcare provider get access to your up-to-date medical history to treat you properly? Reliance on archaic methods is still the norm: typically, you or your provider need to call the facilities where you’ve previously received treatment (assuming you remember them all), just to have them send your records via fax (yep, fax). This can take weeks, only then to have a provider sift through hundreds of pages of unstructured docs, just to figure out basic things like your active medication list, what conditions you may have, latest lab results, etc. This not only delays care—it can cause improper treatment, since the medical history is critical for informing treatment decisions. \r\n\r\nMetriport integrates fragmented medical data from thousands of sources—including both national and state/regional Health Information Exchanges (HIEs), ADTs, EHRs, pharmacies, and labs—through a single API connector. The platform then standardizes, deduplicates, and enriches this data to create a comprehensive longitudinal patient record, with AI-powered clinical summaries. \r\n\r\nAlong with a rich understanding of patient health history, healthcare providers also get realtime updates about their patients' health through Metriport. This includes getting notified when a patient is discharged from the hospital, picks up their prescription from the pharmacy, or has a new lab result available. Through this data, care teams get insights across their patient population, helping with 30-day readmissions prediction, care gap closure, risk adjustment, and more.\r\n\r\nOn top of all of this, Metriport enables healthcare organizations to share net-new clinical information back to all major healthcare IT systems, and to become interoperable with popular EHR systems such as Epic, Cerner, athena, eClinicalWorks, and many more—forming an internet for healthcare data.\r\n\r\nMetriport improves both patient and provider lives at the point-of-care, supporting use cases such as medication adherence, transitions of care management, chart prep, and much more. If you want to do work that matters, get in touch with us today.",
     "one_liner": "Open-Source Platform for Healthcare Data Intelligence",
-    "team_size": 16,
+    "team_size": 21,
     "industry": "Healthcare",
     "subindustry": "Healthcare -> Healthcare IT",
     "launched_at": 1654554081,
     "tags": [
-      "Artificial Intelligence",
       "B2B",
       "Digital Health",
       "Healthcare",
-      "API"
+      "API",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -31546,7 +31546,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -33972,15 +33972,16 @@
     "slug": "glass-health",
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a4bfc350809e1c4f0b4e0ccc1e6449d3a68998b6.png",
-    "website": "http://glass.health",
+    "website": "https://glass.health",
     "all_locations": "",
     "long_description": "We empower clinicians with our AI platform for developing differential diagnoses and drafting clinical plans.",
     "one_liner": "AI-Powered Clinical Decision Support & Ambient Scribing",
-    "team_size": 2,
+    "team_size": 7,
     "industry": "Healthcare",
     "subindustry": "Healthcare -> Healthcare IT",
     "launched_at": 1671385379,
     "tags": [
+      "Artificial Intelligence",
       "SaaS",
       "Health Tech",
       "Digital Health",
@@ -43641,24 +43642,26 @@
   },
   {
     "id": 29404,
-    "name": "DianaHR",
-    "slug": "dianahr",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2f0990cef5b926ae03d0589cc34c56a79adc02d7.png",
-    "website": "http://www.dianahr.ai",
+    "name": "Diana",
+    "slug": "diana",
+    "former_names": [
+      "DianaHR"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/020f142d48a9efde3733971776a68c441557dfe7.png",
+    "website": "https://getdiana.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "DianaHR is an AI-powered HR person for the 1.4 million SMBs with at least 10 employees. Today, SMB owners spend 10+ hours a week struggling with managing software, state compliance notices, benefits questions, onboarding, insurance, workers comp, 401k, etc. With DianaHR, a human-in-the-loop AI takes care of all that and delivers peace of mind.",
-    "one_liner": "An AI-Powered HR Person ",
-    "team_size": 3,
+    "long_description": "The first governed OpenClaw platform, delivering a secure AI assistant to every employee, embedded directly into Slack.",
+    "one_liner": "Give Your Employee An Employee",
+    "team_size": 7,
     "industry": "B2B",
     "subindustry": "B2B -> Human Resources",
     "launched_at": 1706475260,
     "tags": [
       "Artificial Intelligence",
-      "Human Resources",
-      "Compliance",
-      "HR Tech",
-      "Operations"
+      "Productivity",
+      "SMB",
+      "Operations",
+      "AI Assistant"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -43681,8 +43684,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/dianahr",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2024/dianahr.json"
+    "url": "https://www.ycombinator.com/companies/diana",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2024/diana.json"
   },
   {
     "id": 29407,
@@ -49389,6 +49392,52 @@
     "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2024/merlin-ai.json"
   },
   {
+    "id": 29978,
+    "name": "SimCare",
+    "slug": "simcare",
+    "former_names": [
+      "simhealth.ai",
+      "Luna Sim (prev. simhealth.ai)",
+      "Soma Lab",
+      "SimCare AI"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1907f0562c3999072b46993e335043d8a2316f2d.png",
+    "website": "https://simcare.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "SimCare is an all in one solution for training clinical skills in healthcare and behavioral health. From AI avatars that you can speak with, feedback systems trusted by the top programs in the country, to site placements tools that help you show your skills and find a job. SimCare is used across the board to train counselors, social workers, doctors and nurses.",
+    "one_liner": "AI avatars to scale healthcare training.",
+    "team_size": 7,
+    "industry": "Healthcare",
+    "subindustry": "Healthcare",
+    "launched_at": 1719547782,
+    "tags": [
+      "AI-Enhanced Learning",
+      "Education",
+      "Healthcare",
+      "Edtech"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2024",
+    "status": "Active",
+    "industries": [
+      "Healthcare"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/simcare",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2024/simcare.json"
+  },
+  {
     "id": 29980,
     "name": "Midship",
     "slug": "midship",
@@ -49799,7 +49848,7 @@
       "Titan Ops",
       "Upshift"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/23fc8154fa836adeef8240d282c8bf38c8c6f549.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8cf5624c71cdefc3ccbc9c1bb62f53ea784c3d69.png",
     "website": "https://usecrouton.com",
     "all_locations": "New York, NY, USA",
     "long_description": "Crouton is the living map of your organization.\r\n\r\nIt’s for founders and operators at growing companies who need to understand how people, teams, roles, and ownership actually fit together.\r\n\r\nToday they piece this together from org charts, Notion docs, spreadsheets, Slack, and memory and then redo it every time something changes.",
@@ -54536,7 +54585,7 @@
     "all_locations": "",
     "long_description": "Bluejay’s mission is to engineer trust into every AI interaction, becoming the trust layer between businesses and their customers.",
     "one_liner": "The world's first quality assurance agency for voice & text AI.",
-    "team_size": 3,
+    "team_size": 7,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1746833867,
@@ -57599,26 +57648,26 @@
   },
   {
     "id": 30719,
-    "name": "April",
-    "slug": "april",
+    "name": "ProcIndex",
+    "slug": "procindex",
     "former_names": [
-      "Inbox0"
+      "Inbox0",
+      "April"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d5d3a6edb5621c81b20be14a648f9b57921bf764.png",
-    "website": "https://tryapril.com",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/55b886e3f926718d32add5ccfdea06761c40b243.png",
+    "website": "https://www.procindex.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "April is a voice AI Executive assistant that manages your email and calendar, hands free. It’s built for busy individuals who need EAs but don’t have them.",
-    "one_liner": "Voice AI Executive Assistant",
+    "long_description": "",
+    "one_liner": "AI Agents for Accounting Operations",
     "team_size": 2,
-    "industry": "Consumer",
-    "subindustry": "Consumer",
+    "industry": "B2B",
+    "subindustry": "B2B -> Finance and Accounting",
     "launched_at": 1753405058,
     "tags": [
-      "Consumer",
-      "Productivity",
-      "Calendar",
-      "Email",
-      "AI Assistant"
+      "Fintech",
+      "Finance",
+      "B2B",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -57627,7 +57676,8 @@
     "batch": "Summer 2025",
     "status": "Active",
     "industries": [
-      "Consumer"
+      "B2B",
+      "Finance and Accounting"
     ],
     "regions": [
       "United States of America",
@@ -57638,8 +57688,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/april",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2025/april.json"
+    "url": "https://www.ycombinator.com/companies/procindex",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2025/procindex.json"
   },
   {
     "id": 30726,
@@ -59192,7 +59242,7 @@
     "all_locations": "",
     "long_description": "AI researchers should be pushing the boundaries of what's possible with new architectures and training methods. Instead, they waste weeks configuring cloud infrastructure, debugging distributed systems, and optimizing their GPU code. We know because we lived it: While training our own models across thousands of GPUs earlier this year, we spent more time fighting our infrastructure than doing actual research.\r\n\r\nThat's why we're building two things. First, Elastic Cloud: a managed platform that automatically finds the cheapest GPUs across all providers, handles spot instance preemption, and cuts compute costs by up to 80%. Second, automatic kernel optimization that makes training code run faster by modeling hardware topology, often beating hand-tuned implementations.\r\n\r\nThe problem is that getting high performance across different hardware is genuinely hard. NVIDIA's CUDA moat exists because writing fast kernels requires deep expertise. Most teams either accept vendor lock-in or hire expensive kernel engineers. Our goal is to break the CUDA moat.\r\n\r\nThe compute bottleneck is the biggest constraint on AI progress. NVIDIA can't manufacture enough GPUs, and their monopoly keeps prices astronomical. Meanwhile, AMD, Google, and Amazon are shipping capable alternative hardware that nobody uses because the software is too hard. We're breaking that moat. If we succeed, anyone will be able to train state-of-the-art models without thinking past their PyTorch code.",
     "one_liner": "Infrastructure for AI labs to focus on research.",
-    "team_size": 4,
+    "team_size": 5,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1759869599,
@@ -60651,6 +60701,44 @@
     "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2026/10x-science.json"
   },
   {
+    "id": 31113,
+    "name": "CellType",
+    "slug": "celltype",
+    "former_names": [
+      "Contextual Bio"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7626449e8e50e3bcef406586024dca5da4b7918b.png",
+    "website": "https://www.celltype.com",
+    "all_locations": "",
+    "long_description": "CellType is building an agentic drug company. AI agents that run the full drug discovery pipeline on top of biological foundation models that simulate human biology. Our core technology, developed with Google DeepMind, has already discovered and validated a new cancer treatment signal. We’re working with Top 10 pharma.",
+    "one_liner": "The agentic drug company. We simulate human biology.",
+    "team_size": 2,
+    "industry": "Healthcare",
+    "subindustry": "Healthcare -> Drug Discovery and Delivery",
+    "launched_at": 1771295425,
+    "tags": [],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "Healthcare",
+      "Drug Discovery and Delivery"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/celltype",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2026/celltype.json"
+  },
+  {
     "id": 31117,
     "name": "Cignara",
     "slug": "cignara",
@@ -60887,6 +60975,47 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/jinba",
     "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2026/jinba.json"
+  },
+  {
+    "id": 31180,
+    "name": "Seeing Systems",
+    "slug": "seeing-systems",
+    "former_names": [
+      "Seeing Systems Ltd",
+      "Seeing Systems",
+      "Seeing Systems Ltd"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8d8e226478cb43c163b19e22186c3bab3bdb9668.png",
+    "website": "https://www.seeing-systems.com",
+    "all_locations": "",
+    "long_description": "We're building inexpensive, autonomous strike drones designed to stay operationally relevant as warfare evolves. \r\n\r\nBy combining true hardware modularity with an agentic control system that lowers cognitive load on operators, we enable faster upgrades, broader adoption, and more than 2x reduction in lifecycle cost.\r\n\r\nOur customers and partners include the UK Royal Marine Commandos, several other units in the UK, and 4 other NATO forces, and we are currently shipping prototypes for iterative feedback.\r\n\r\nThink of us as Anduril, but with worse weather, and better banter.",
+    "one_liner": "Modular AI-Commanded Drones for Defence",
+    "team_size": 2,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Defense",
+    "launched_at": 1768422348,
+    "tags": [],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Defense"
+    ],
+    "regions": [
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/seeing-systems",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2026/seeing-systems.json"
   },
   {
     "id": 31188,

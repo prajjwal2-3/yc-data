@@ -8672,7 +8672,7 @@
       "Miru ML"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5f8c54103232ce6ad4a91f33685eeaecbcd4d224.png",
-    "website": "https://www.miruml.com",
+    "website": "https://www.mirurobotics.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Miru makes it easy for robotics teams to manage, version, and deploy robot configurations. Developers use our well-documented APIs and UI components to automate configuration updates for both engineers and operators.\r\n\r\nIn the long term, we're building software infrastructure to accelerate the automation of the physical world.",
     "one_liner": "Config Management for Robotics",
@@ -10416,8 +10416,8 @@
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1756070413,
     "tags": [
-      "Artificial Intelligence",
-      "Robotics"
+      "Robotics",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -10747,7 +10747,7 @@
     "all_locations": "",
     "long_description": "AI researchers should be pushing the boundaries of what's possible with new architectures and training methods. Instead, they waste weeks configuring cloud infrastructure, debugging distributed systems, and optimizing their GPU code. We know because we lived it: While training our own models across thousands of GPUs earlier this year, we spent more time fighting our infrastructure than doing actual research.\r\n\r\nThat's why we're building two things. First, Elastic Cloud: a managed platform that automatically finds the cheapest GPUs across all providers, handles spot instance preemption, and cuts compute costs by up to 80%. Second, automatic kernel optimization that makes training code run faster by modeling hardware topology, often beating hand-tuned implementations.\r\n\r\nThe problem is that getting high performance across different hardware is genuinely hard. NVIDIA's CUDA moat exists because writing fast kernels requires deep expertise. Most teams either accept vendor lock-in or hire expensive kernel engineers. Our goal is to break the CUDA moat.\r\n\r\nThe compute bottleneck is the biggest constraint on AI progress. NVIDIA can't manufacture enough GPUs, and their monopoly keeps prices astronomical. Meanwhile, AMD, Google, and Amazon are shipping capable alternative hardware that nobody uses because the software is too hard. We're breaking that moat. If we succeed, anyone will be able to train state-of-the-art models without thinking past their PyTorch code.",
     "one_liner": "Infrastructure for AI labs to focus on research.",
-    "team_size": 4,
+    "team_size": 5,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1759869599,
@@ -11719,7 +11719,7 @@
     "slug": "moda",
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c76a18751e4b95b7b3cf621f7752449405d71aa5.png",
-    "website": "https://modaflows.com",
+    "website": "https://moda.dev",
     "all_locations": "",
     "long_description": "Moda is the reliability & monitoring layer for agents. It surfaces patterns across agent hallucinations, laziness, forgetfulness, and tool call failures. While also providing analytics on user frustration, net promoter score, retention, and churn rates.\r\n\r\nIn the next 10 years, with more AI agents spawning and trying to get PMF, developing an agent that actually works for users is critical. Everyone has access to the same models, thus the ones that win on a product level will be the ones who learn fastest from real usage. Moda is that learning layer.",
     "one_liner": "The monitoring layer your AI agents need.",

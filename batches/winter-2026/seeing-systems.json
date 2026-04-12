@@ -16,15 +16,10 @@
   "industry": "Industrials",
   "subindustry": "Industrials -> Defense",
   "launched_at": 1768422348,
-  "tags": [
-    "Artificial Intelligence",
-    "Hardware",
-    "Drones",
-    "GovTech"
-  ],
+  "tags": [],
   "tags_highlighted": [],
   "top_company": false,
-  "isHiring": false,
+  "isHiring": true,
   "nonprofit": false,
   "batch": "Winter 2026",
   "status": "Active",
