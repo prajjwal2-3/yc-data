@@ -18161,7 +18161,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -18968,53 +18968,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/lysto",
     "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2023/lysto.json"
-  },
-  {
-    "id": 28921,
-    "name": "Surface Labs",
-    "slug": "surface-labs",
-    "former_names": [
-      "Surface"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/dd06883b73b261dd75ac5399b0cd9b5dc03518d1.png",
-    "website": "https://withsurface.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Surface Labs helps B2B companies capture, qualify, and convert inbound leads through intelligent contact forms. We replace tools like HubSpot Forms, Zapier, and Chili Piper with a single platform that embeds on any site with one line of code.\r\n\r\nOur AI agents handle lead capture, enrichment, routing, follow-up, and CRO testing — automating what used to require full marketing ops teams. Customers see a 30% lift in conversions in under 2 weeks, and our partial response capture feature collects 50% more emails from form drop-offs.",
-    "one_liner": "Building the AI-powered marketing ops platform that turns website…",
-    "team_size": 6,
-    "industry": "B2B",
-    "subindustry": "B2B -> Marketing",
-    "launched_at": 1693007377,
-    "tags": [
-      "Artificial Intelligence",
-      "Sales",
-      "Marketing",
-      "Advertising",
-      "Conversational AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Summer 2023",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Marketing"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": true,
-    "url": "https://www.ycombinator.com/companies/surface-labs",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2023/surface-labs.json"
   },
   {
     "id": 28928,
@@ -21637,7 +21590,7 @@
     "one_liner": "The open source AI-native security automation platform",
     "team_size": null,
     "industry": "B2B",
-    "subindustry": "B2B -> Productivity",
+    "subindustry": "B2B -> Security",
     "launched_at": 1704382841,
     "tags": [
       "Artificial Intelligence",
@@ -21654,7 +21607,7 @@
     "status": "Active",
     "industries": [
       "B2B",
-      "Productivity"
+      "Security"
     ],
     "regions": [
       "United States of America",
@@ -23375,48 +23328,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/conduit-ai",
     "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2024/conduit-ai.json"
-  },
-  {
-    "id": 29382,
-    "name": "Soundry AI",
-    "slug": "soundry-ai",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7a8248327c7bdfb14b2d547e4250131e4353d614.png",
-    "website": "https://groove.fm/",
-    "all_locations": "Seattle, WA, USA",
-    "long_description": "We build generative AI tools that enhance the fan engagement experience. Want to remix Taylor Swift in the style of Slayer? Now you can with our new product Groove. ",
-    "one_liner": "Remix any song into any style",
-    "team_size": 2,
-    "industry": "Consumer",
-    "subindustry": "Consumer -> Content",
-    "launched_at": 1707192752,
-    "tags": [
-      "Artificial Intelligence",
-      "Social Media",
-      "Music",
-      "AI Assistant"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2024",
-    "status": "Active",
-    "industries": [
-      "Consumer",
-      "Content"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/soundry-ai",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2024/soundry-ai.json"
   },
   {
     "id": 29386,
@@ -33711,17 +33622,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/81ca0035244a123067c03e5df2d892bbd9cb7d00.png",
     "website": "https://www.klavis.ai/",
     "all_locations": "",
-    "long_description": "Klavis AI is Open source MCP integration platform that let AI agents use tools reliably at any scale. Our API provides hosted, secure MCP servers, eliminating auth management and client-side code. Co-founder Xiangkai Zeng co-authored the Gemini paper and pioneered the tool calling infrastructure for Gemini. https://www.klavis.ai/",
-    "one_liner": "Open source MCP integration platform for reliably tool use at scale.",
+    "long_description": "Powering frontier AI labs with real world MCP environments and complex, long-horizon agentic tool-use data.",
+    "one_liner": "Live Environments for Training AI Agents",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1744314522,
     "tags": [
       "Artificial Intelligence",
-      "SaaS",
-      "Open Source",
-      "API",
+      "Reinforcement Learning",
+      "Data Science",
       "AI"
     ],
     "tags_highlighted": [],
@@ -35967,6 +35877,51 @@
     "question_answers": true,
     "url": "https://www.ycombinator.com/companies/finto-de",
     "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2025/finto-de.json"
+  },
+  {
+    "id": 30719,
+    "name": "ProcIndex",
+    "slug": "procindex",
+    "former_names": [
+      "Inbox0",
+      "April"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/55b886e3f926718d32add5ccfdea06761c40b243.png",
+    "website": "https://www.procindex.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "ProcIndex is a full stack AI accounting firm, with a suite of agents to automate quote to cash, accounts payable and month end close processes end to end.\r\n\r\nProcIndex connects with your existing ERP, operates in the background while giving you full visibility into the agent actions and powers accounting teams to become 33% more efficient.",
+    "one_liner": "AI Agents for Accounting Operations",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Finance and Accounting",
+    "launched_at": 1753405058,
+    "tags": [
+      "Artificial Intelligence",
+      "Fintech",
+      "Finance",
+      "B2B"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Finance and Accounting"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/procindex",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2025/procindex.json"
   },
   {
     "id": 30721,
@@ -39193,15 +39148,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1f74f218c2714dc8c9f24d72389a7bfa22f2b11d.png",
     "website": "https://qomplement.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Our API turns documents into high-quality structured data ready for your pipeline. We lead industry benchmarks for document extraction accuracy, outperforming Azure, Google, OpenAI and AWS.",
-    "one_liner": "API to turn documents into structured JSON",
+    "long_description": "Early stage AI lab based in San Francisco building the layer between unstructured data and enterprise systems.",
+    "one_liner": "AI Agents for Document Filling",
     "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1771907564,
     "tags": [
       "Documents",
-      "Artificial Intelligence"
+      "Artificial Intelligence",
+      "B2B"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -39727,6 +39683,46 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/saudara-ai",
     "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/saudara-ai.json"
+  },
+  {
+    "id": 31488,
+    "name": "Foaster",
+    "slug": "foaster",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/cdcff33c87fe29fc884e55a8d2475dd3ed741f53.png",
+    "website": "https://foaster.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Foaster is building the AI-native partner for AI transformation. \r\n\r\nWe help companies become AI-native by building a deep understanding of how they actually operate, then using that understanding to decide where AI should be deployed, what should change, and how to make the transformation stick.\r\n\r\nOur AI agents conduct private 45-minute interviews across the organization, in parallel, to capture how work really happens: workflows, tools, handoffs, bottlenecks, dependencies, and what people think should change. \r\n\r\nFrom those interviews, we build a living operational map of the company and use it to produce transformation blueprints grounded in real operational data. \r\n\r\nThis is work that, done manually, would have required very large teams working full-time. AI is what allows us to do it with far greater speed, depth, and consistency.\r\n\r\nAnd we do not stop at a one-off plan. Every month, our system updates its understanding of the business, tracks adoption, refreshes the operational map, surfaces new opportunities, and delivers personalized AI upskilling to employees based on their exact role and context. \r\n\r\nOur human experts focus where humans matter most: validating recommendations, building trust, and helping companies execute over time. For enterprise deployments, our forward-deployed engineers help embed AI directly into workflows and systems.",
+    "one_liner": "Your AI-native partner for AI transformation. ",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1773744030,
+    "tags": [
+      "Artificial Intelligence",
+      "B2B",
+      "Enterprise Software"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/foaster",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/foaster.json"
   },
   {
     "id": 31489,

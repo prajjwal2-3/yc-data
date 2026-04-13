@@ -141,7 +141,7 @@
       "Bujo",
       "Bujo AI"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/31b25b5dfd0faa104c94fb58ad8c345f88395aa4.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/532e556aaa674c581b4083dc6595ac75eeeb0b1a.png",
     "website": "https://cignara.com/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "",
@@ -1225,15 +1225,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1f74f218c2714dc8c9f24d72389a7bfa22f2b11d.png",
     "website": "https://qomplement.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Our API turns documents into high-quality structured data ready for your pipeline. We lead industry benchmarks for document extraction accuracy, outperforming Azure, Google, OpenAI and AWS.",
-    "one_liner": "API to turn documents into structured JSON",
+    "long_description": "Early stage AI lab based in San Francisco building the layer between unstructured data and enterprise systems.",
+    "one_liner": "AI Agents for Document Filling",
     "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1771907564,
     "tags": [
       "Documents",
-      "Artificial Intelligence"
+      "Artificial Intelligence",
+      "B2B"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -1722,7 +1723,7 @@
     "former_names": [
       "GojiberryAI"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/91696171ccb5358864302c756237e3240c19488e.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4a81291bc11ae471a475ddf6ccf1d67360474a8c.png",
     "website": "https://www.gojiberry.ai",
     "all_locations": "Remote",
     "long_description": "GojiberryAI is a GTM Brain that helps sales teams find and convert high-intent leads by continuously learning what works across their go-to-market. Instead of relying on cold lists, it detects real buying signals like competitor engagement and social signals, job changes, hiring spikes, or funding events, then prioritizes the best prospects based on ICP fit and intent. It analyzes each lead’s context, generates personalized messages, starts conversations, and follows up automatically until a meeting is booked, while constantly optimizing targeting, messaging, and timing so performance compounds over time. \r\n\r\nThe result is simple: 2 to 5x more replies, more qualified conversations, and a predictable pipeline without wasting time on low-intent prospects.",
@@ -2708,16 +2709,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/cdcff33c87fe29fc884e55a8d2475dd3ed741f53.png",
     "website": "https://foaster.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Our agents map your company’s operations to identify where and how AI should be integrated.\r\n\r\nCompanies do not have a clear view of how work actually gets done. Their operations are spread across workflows, tools, teams, processes, and sometimes countries, with critical bottlenecks and inefficiencies hidden in the gaps. \r\n\r\nBefore AI can truly transform a company, you first need a granular view of the tasks, handoffs, and dependencies that make up the business.\r\n\r\nFoaster uses AI-led interviews to rebuild that map at scale through 45 minutes chats with employees. Our agents surface how work really happens across the organization, detect bottlenecks and inefficiencies, and then identify where AI can create the most leverage. \r\n\r\nRight now, AI can automate tasks but not entire job. The real challenge is understanding thousands of processes well enough to redesign them coherently. \r\n\r\nNo human team can do that with enough speed or depth. AI can. In days. ",
-    "one_liner": "Map your company's operations, identify where and how to integrate AI",
+    "long_description": "Foaster is building the AI-native partner for AI transformation. \r\n\r\nWe help companies become AI-native by building a deep understanding of how they actually operate, then using that understanding to decide where AI should be deployed, what should change, and how to make the transformation stick.\r\n\r\nOur AI agents conduct private 45-minute interviews across the organization, in parallel, to capture how work really happens: workflows, tools, handoffs, bottlenecks, dependencies, and what people think should change. \r\n\r\nFrom those interviews, we build a living operational map of the company and use it to produce transformation blueprints grounded in real operational data. \r\n\r\nThis is work that, done manually, would have required very large teams working full-time. AI is what allows us to do it with far greater speed, depth, and consistency.\r\n\r\nAnd we do not stop at a one-off plan. Every month, our system updates its understanding of the business, tracks adoption, refreshes the operational map, surfaces new opportunities, and delivers personalized AI upskilling to employees based on their exact role and context. \r\n\r\nOur human experts focus where humans matter most: validating recommendations, building trust, and helping companies execute over time. For enterprise deployments, our forward-deployed engineers help embed AI directly into workflows and systems.",
+    "one_liner": "Your AI-native partner for AI transformation. ",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1773744030,
     "tags": [
+      "Artificial Intelligence",
       "B2B",
-      "Enterprise Software",
-      "AI"
+      "Enterprise Software"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -2957,8 +2958,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2f60ad803d2e9b0079d1a0e2e9afd248df7aafcd.png",
     "website": "https://www.projectx.cloud/",
     "all_locations": "",
-    "long_description": "Infinity is one OS for every device. Any workflow, from anywhere.\r\n\r\nTraditional operating systems are hardware-locked, driver-dependent, and were never built for agents. Spinning up AI agents today means wrestling with VMs, DevOps pipelines, and hard resource caps before a single workflow even runs. Every device has its own OS, its own limits, its own ceiling. The heaviest applications -- robotics simulators, CAD tools, AI workloads -- stay locked to the machines powerful enough to run them.\r\n\r\nInfinity abstracts all of it away. Windows apps, Linux apps, and AI agents run in a single cloud-native environment -- streamed with dedicated GPU compute to any browser on any hardware, from a laptop to an Apple Watch. \r\n\r\nRun the heaviest apps from the lightest devices. Humans and agents share the same workspace with infinite compute and unlimited parallel workflows. One URL",
-    "one_liner": "Building Infinity: the cloud OS where humans and agents work together",
+    "long_description": "Every computer ever made forces you to do one thing at a time. One cursor. One keyboard. One app in focus. Fifty years. Nobody questioned it.\r\n\r\nWe did. We started over.\r\n\r\nInfinity runs every app in its own independent computer -- own GPU, own input, own environment. Windows and Linux in the same session. Humans and agents working side by side. No concurrency ceiling. Cold start in seconds. One URL.",
+    "one_liner": "Building Infinity: the computer that does everything at once.",
     "team_size": 6,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",

@@ -387,6 +387,48 @@
     "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2011/streak.json"
   },
   {
+    "id": 90,
+    "name": "AgileMD",
+    "slug": "agilemd",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/809b12f827ff69a7f32abee89d407ac3eac9359d.png",
+    "website": "https://agilemd.com",
+    "all_locations": "San Francisco, CA, USA; Remote",
+    "long_description": "At AgileMD, we are building the most advanced real-time predictive analytics and clinical algorithms platform for hospitals. Our cloud-based engine helps thousands of doctors and nurses around the country make medical decisions, so that every patient receives the highest quality and value of care based on the latest medical knowledge and data.",
+    "one_liner": "Predictive analytics and clinical pathways for hospitals ",
+    "team_size": 19,
+    "industry": "Healthcare",
+    "subindustry": "Healthcare -> Healthcare IT",
+    "launched_at": 1326789206,
+    "tags": [
+      "Machine Learning",
+      "Healthcare"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2011",
+    "status": "Active",
+    "industries": [
+      "Healthcare",
+      "Healthcare IT"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Fully Remote"
+    ],
+    "stage": "Growth",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/agilemd",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2011/agilemd.json"
+  },
+  {
     "id": 102,
     "name": "Sift",
     "slug": "sift",
@@ -18931,51 +18973,6 @@
     "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2021/measured.json"
   },
   {
-    "id": 22889,
-    "name": "Greywing",
-    "slug": "greywing",
-    "former_names": [
-      "Greywing Pte ltd"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c83d7cd944c66a4565ddeaebe43111f7196d0a98.png",
-    "website": "https://grey-wing.com/",
-    "all_locations": "Singapore, Singapore; Remote",
-    "long_description": "Greywing is a platform for ship operators to automate their business, through actionable intelligence, better data and communication.\r\n\r\nGreywing today serves three product lines to customers:\r\n\r\n*Flotilla* is a monitoring tool for vessels, enabling vessel managers to identify fleet-level patterns and optimizations and to identify risk and liability vectors in advance.\r\n\r\n*CRY4* is an operational tool for individual vessels that allows crew managers, security officers and masters to gather intelligence about a vessels current or proposed route, making decisions about the safest and the cheapest ports of call that a vessel can be directed to.\r\n\r\n*Landfall* is a crew management and analysis system to provide risk reporting and detailed editing capabilities about the crew on-board a vessel.\r\n\r\n*Semaphore* is a port-agent communications tool meant to simplify the process of interfacing with large numbers of port agents while planning a port call.",
-    "one_liner": "The Operating System for Maritime",
-    "team_size": 3,
-    "industry": "B2B",
-    "subindustry": "B2B -> Supply Chain and Logistics",
-    "launched_at": 1614501483,
-    "tags": [
-      "Hard Tech",
-      "SaaS",
-      "Maritime"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Winter 2021",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Supply Chain and Logistics"
-    ],
-    "regions": [
-      "Singapore",
-      "Southeast Asia",
-      "Remote",
-      "Fully Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": true,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/greywing",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2021/greywing.json"
-  },
-  {
     "id": 22906,
     "name": "LiveFlow",
     "slug": "liveflow",
@@ -33012,7 +33009,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Infisical is the leading open-source platform to manage secrets, certificates, configs, and access across your team and infrastructure.\r\n\r\nInfisical stores your secrets and injects them back into your development workflow, CI/CD pipelines, and cloud infrastructure. It comes with secrets versioning, point-in-time recovery, audit logging, automatic secret rotation capabilities, and more.",
     "one_liner": "Unified platform for secrets, certs, and privileged access management",
-    "team_size": 40,
+    "team_size": 50,
     "industry": "B2B",
     "subindustry": "B2B -> Security",
     "launched_at": 1674066953,
@@ -33039,7 +33036,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -37573,7 +37570,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -38774,7 +38771,7 @@
     "former_names": [
       "Surface"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/dd06883b73b261dd75ac5399b0cd9b5dc03518d1.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4d1c735d9ba6a64fce2c94cba6690c524ea7f778.png",
     "website": "https://withsurface.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Surface Labs helps B2B companies capture, qualify, and convert inbound leads through intelligent contact forms. We replace tools like HubSpot Forms, Zapier, and Chili Piper with a single platform that embeds on any site with one line of code.\r\n\r\nOur AI agents handle lead capture, enrichment, routing, follow-up, and CRO testing — automating what used to require full marketing ops teams. Customers see a 30% lift in conversions in under 2 weeks, and our partial response capture feature collects 50% more emails from form drop-offs.",
@@ -38784,10 +38781,10 @@
     "subindustry": "B2B -> Marketing",
     "launched_at": 1693007377,
     "tags": [
-      "Artificial Intelligence",
       "Sales",
       "Marketing",
       "Advertising",
+      "AI",
       "Conversational AI"
     ],
     "tags_highlighted": [],
@@ -39494,6 +39491,43 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/vectorshift",
     "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2023/vectorshift.json"
+  },
+  {
+    "id": 29005,
+    "name": "Roundtable",
+    "slug": "roundtable",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e75b3701367f92118dfb24055cc3333d139fe333.png",
+    "website": "https://roundtable.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Roundtable Proof of Human is an API that invisibly detects bots and verifies human identity.\r\n\r\nFounded by 2 Princeton cognitive scientists, Roundtable leverages world-class research with enterprise-grade accuracy and latency so websites can verify their human users friction-free.",
+    "one_liner": "Proof of Human - invisible human verification",
+    "team_size": 4,
+    "industry": "B2B",
+    "subindustry": "B2B -> Security",
+    "launched_at": 1685540601,
+    "tags": [],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2023",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Security"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/roundtable",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2023/roundtable.json"
   },
   {
     "id": 29008,
@@ -47158,7 +47192,7 @@
     "all_locations": "",
     "long_description": "Kastle is an AI voice agent for mortgage servicing. We help servicers collect payments, verify new borrowers, and qualify new loan inquiries over the phone. \r\n\r\nRishi and Nitish met at UIUC where they graduated with degrees in systems engineering and computer science.  Rishi was the founding Product Manager for Redfin’s Mortgage Marketplace at 22 and grew the business from $3M to $6M in revenue in 9 months. Nitish patented Verkada’s motion search system and was the youngest tech lead at the company at 23.\r\n\r\nWhile building Redfin's Mortgage Marketplace Rishi realized traditional lenders didn't have the infrastructure to service online inquiries and were losing customers. Nitish and Rishi are building Kastle to help traditional financial services companies better interface with their customers. ",
     "one_liner": "AI agents for mortgage servicing",
-    "team_size": 6,
+    "team_size": 10,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1720330783,
@@ -55305,18 +55339,19 @@
   },
   {
     "id": 30522,
-    "name": "Naive",
+    "name": "naïve",
     "slug": "naive",
     "former_names": [
       "Relixir.ai",
-      "Relixir"
+      "Relixir",
+      "Naive"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/06af5d16e9099ea20940c7e2eeb917bb2f11454a.png",
     "website": "https://usenaive.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Naïve is an autonomous company runtime. \r\n\r\nYou describe what your business does, and Naïve deploys AI employees that actually execute — building your app, closing deals, running campaigns, serving customers. \r\n\r\nIt works for new companies being built from zero and existing companies looking to automate entire functions by one-click connecting to your entire stack. \r\n\r\nDeployed @ 500+ companies like Airwallex, Hackerrank, and more.",
-    "one_liner": "Hire AI employees that actually run your company",
-    "team_size": 10,
+    "long_description": "Naïve is an autonomous company builder. \r\n\r\nYou describe what your business does, and Naïve deploys AI employees that actually execute — building your app, closing deals, running campaigns, serving customers. \r\n\r\nIt works for creating new companies and automate existing companies by connecting Naive to their entire stack. ",
+    "one_liner": "Autonomous Companies",
+    "team_size": 12,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1747424808,
@@ -55972,6 +56007,50 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/prox",
     "api": "https://prajjwal2-3.github.io/yc-data/batches/fall-2025/prox.json"
+  },
+  {
+    "id": 30598,
+    "name": "GETASAP",
+    "slug": "getasap",
+    "former_names": [
+      "GETASAP ASIA"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/642bff7a1b26de3309aed7fc5200498a8dca5180.png",
+    "website": "https://www.getasap.us",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Fresh-produce supply chains are built around guesswork. Growers plant without clear demand signals, distributors overbuy to protect against shortages, and retailers end up eating the waste. GETASAP fixes this by rebuilding distribution around real demand and fast execution. We deliver wholesale fresh produce with 8-hour same-day delivery, using micro-fulfillment centers positioned close to demand so we can operate with far less safety stock.\r\n\r\nBehind the scenes, we look at live retail sales, purchasing, and waste patterns to decide what to source, where to place inventory, and when to replenish. That lets us buy closer to actual demand, turn inventory faster, and materially reduce spoilage. For retailers, GETASAP replaces procurement teams and fragmented supplier management—we handle sourcing, inventory decisions, and fulfillment end to end as a single, reliable partner. As more volume flows through the network, demand becomes clearer, sourcing gets smarter, and the operation becomes cheaper and more predictable over time.",
+    "one_liner": "Distribution at the Speed of Compute",
+    "team_size": 17,
+    "industry": "B2B",
+    "subindustry": "B2B -> Supply Chain and Logistics",
+    "launched_at": 1755567142,
+    "tags": [
+      "B2B",
+      "Logistics",
+      "E-commerce",
+      "Supply Chain"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Supply Chain and Logistics"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/getasap",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2025/getasap.json"
   },
   {
     "id": 30604,
@@ -57657,17 +57736,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/55b886e3f926718d32add5ccfdea06761c40b243.png",
     "website": "https://www.procindex.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "",
+    "long_description": "ProcIndex is a full stack AI accounting firm, with a suite of agents to automate quote to cash, accounts payable and month end close processes end to end.\r\n\r\nProcIndex connects with your existing ERP, operates in the background while giving you full visibility into the agent actions and powers accounting teams to become 33% more efficient.",
     "one_liner": "AI Agents for Accounting Operations",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Finance and Accounting",
     "launched_at": 1753405058,
     "tags": [
+      "Artificial Intelligence",
       "Fintech",
       "Finance",
-      "B2B",
-      "AI"
+      "B2B"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -60746,7 +60825,7 @@
       "Bujo",
       "Bujo AI"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/31b25b5dfd0faa104c94fb58ad8c345f88395aa4.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/532e556aaa674c581b4083dc6595ac75eeeb0b1a.png",
     "website": "https://cignara.com/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "",
@@ -61823,7 +61902,7 @@
     "former_names": [
       "GojiberryAI"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/91696171ccb5358864302c756237e3240c19488e.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4a81291bc11ae471a475ddf6ccf1d67360474a8c.png",
     "website": "https://www.gojiberry.ai",
     "all_locations": "Remote",
     "long_description": "GojiberryAI is a GTM Brain that helps sales teams find and convert high-intent leads by continuously learning what works across their go-to-market. Instead of relying on cold lists, it detects real buying signals like competitor engagement and social signals, job changes, hiring spikes, or funding events, then prioritizes the best prospects based on ICP fit and intent. It analyzes each lead’s context, generates personalized messages, starts conversations, and follows up automatically until a meeting is booked, while constantly optimizing targeting, messaging, and timing so performance compounds over time. \r\n\r\nThe result is simple: 2 to 5x more replies, more qualified conversations, and a predictable pipeline without wasting time on low-intent prospects.",

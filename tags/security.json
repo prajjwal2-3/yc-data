@@ -2630,7 +2630,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Infisical is the leading open-source platform to manage secrets, certificates, configs, and access across your team and infrastructure.\r\n\r\nInfisical stores your secrets and injects them back into your development workflow, CI/CD pipelines, and cloud infrastructure. It comes with secrets versioning, point-in-time recovery, audit logging, automatic secret rotation capabilities, and more.",
     "one_liner": "Unified platform for secrets, certs, and privileged access management",
-    "team_size": 40,
+    "team_size": 50,
     "industry": "B2B",
     "subindustry": "B2B -> Security",
     "launched_at": 1674066953,
@@ -2657,7 +2657,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -3046,7 +3046,7 @@
     "one_liner": "The open source AI-native security automation platform",
     "team_size": null,
     "industry": "B2B",
-    "subindustry": "B2B -> Productivity",
+    "subindustry": "B2B -> Security",
     "launched_at": 1704382841,
     "tags": [
       "Artificial Intelligence",
@@ -3063,7 +3063,7 @@
     "status": "Active",
     "industries": [
       "B2B",
-      "Productivity"
+      "Security"
     ],
     "regions": [
       "United States of America",

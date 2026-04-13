@@ -3665,18 +3665,19 @@
   },
   {
     "id": 30522,
-    "name": "Naive",
+    "name": "naïve",
     "slug": "naive",
     "former_names": [
       "Relixir.ai",
-      "Relixir"
+      "Relixir",
+      "Naive"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/06af5d16e9099ea20940c7e2eeb917bb2f11454a.png",
     "website": "https://usenaive.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Naïve is an autonomous company runtime. \r\n\r\nYou describe what your business does, and Naïve deploys AI employees that actually execute — building your app, closing deals, running campaigns, serving customers. \r\n\r\nIt works for new companies being built from zero and existing companies looking to automate entire functions by one-click connecting to your entire stack. \r\n\r\nDeployed @ 500+ companies like Airwallex, Hackerrank, and more.",
-    "one_liner": "Hire AI employees that actually run your company",
-    "team_size": 10,
+    "long_description": "Naïve is an autonomous company builder. \r\n\r\nYou describe what your business does, and Naïve deploys AI employees that actually execute — building your app, closing deals, running campaigns, serving customers. \r\n\r\nIt works for creating new companies and automate existing companies by connecting Naive to their entire stack. ",
+    "one_liner": "Autonomous Companies",
+    "team_size": 12,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1747424808,
