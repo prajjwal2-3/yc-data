@@ -7834,7 +7834,7 @@
     "name": "Klarity",
     "slug": "klarity",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d13acee4c0523585219ccc0ab42e8d16cbd5a287.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5d4790f2b102f3fd696a88213e44f23e7083929b.png",
     "website": "http://klarity.ai",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Klarity is Enterprise AI that helps companies like OpenAI, DoorDash, CrowdStrike and Zoom bend the G&A curve.\r\n\r\nKlarity delivers two core capabilities:\r\n(1) unlimited transformation; creating a digital twin of your business to identify gaps, risks and inefficiencies, and provide valuable insights into your business in weeks instead of quarters, and\r\n(2) intelligent document processing that turns contracts, invoices, and POs into audit-ready data with 82%+ pass-through rates.\r\nKlarity reduces OpEx, boosts accuracy, and empowers CFOs to deliver board-ready ROI.",
@@ -7844,9 +7844,8 @@
     "subindustry": "B2B -> Productivity",
     "launched_at": 1524539154,
     "tags": [
-      "Machine Learning",
-      "SaaS",
-      "AI"
+      "Artificial Intelligence",
+      "ML"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -11751,6 +11750,51 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/banner",
     "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2019/banner.json"
+  },
+  {
+    "id": 12643,
+    "name": "Outtalent",
+    "slug": "outtalent",
+    "former_names": [
+      "Asterisk",
+      "Outtalent (was Asterisk)"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3b4026f586058af29898fc57e3d2e84bdfcb4a09.png",
+    "website": "http://outtalent.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "We started Outtalent because we believe that talent is equally distributed, but opportunity is not and emerging markets have an exceptional number of great but undervalued engineers. We believe getting a job at one of the world’s best companies sets people on a great path to realize their full potential.\r\n\r\nOuttalent is funded by YCombinator, world-class venture capital funds, executives from Google and Facebook, and other angel investors who are passionate about our mission. We have already helped software engineers from Russia, Ukraine and Central Asia get jobs at Google, Amazon, Microsoft and many other companies in the US, Canada, and Europe.",
+    "one_liner": "We help top engineers from emerging markets get jobs abroad at…",
+    "team_size": 8,
+    "industry": "Education",
+    "subindustry": "Education",
+    "launched_at": 1556761338,
+    "tags": [
+      "Education",
+      "Recruiting",
+      "Emerging Markets"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2019",
+    "status": "Active",
+    "industries": [
+      "Education"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/outtalent",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2019/outtalent.json"
   },
   {
     "id": 12661,
@@ -18234,14 +18278,14 @@
     "all_locations": "Atlanta, GA, USA",
     "long_description": "To reimagine cybersecurity with an AI-native platform that unifies detection, protection and remediation across the digital attack surface\r\n\r\nHeadquartered in Alpharetta, Georgia, and with offices in Australia, Malaysia, Singapore, Dubai, Saudi Arabia and India, Cyble has a global presence. To learn more about Cyble, visit www.cyble.com.  ",
     "one_liner": "Cyble - World’s First Intelligence-Driven, AI-Native Security…",
-    "team_size": 260,
+    "team_size": 200,
     "industry": "B2B",
     "subindustry": "B2B -> Security",
     "launched_at": 1613603669,
     "tags": [
+      "Artificial Intelligence",
       "SaaS",
-      "Security",
-      "AI"
+      "Security"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -20203,7 +20247,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -30169,11 +30213,11 @@
     "name": "Novig",
     "slug": "novig",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/37d72609fbfc24b4a158ddb750a5b26591ee74b6.png",
-    "website": "https://www.novig.us",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/70b63d7ab273fdb7b71b48db89fe1042c817e72b.png",
+    "website": "https://www.novig.com",
     "all_locations": "New York, NY, USA",
     "long_description": "Novig is building America's #1 sports prediction market. Founded by Jacob Fortinsky and Kelechi Ukah, we are the only platform to offer commission-free sports trading. We deliver better pricing, full transparency, and a more efficient market structure for users by eliminating the traditional sportsbook model.\r\n\r\nBacked by the best - Novig has raised over $100M from some of Silicon Valley’s top investors including Pantera, Forerunner, Lux, NFX, Paul Graham, and Joe Montana.",
-    "one_liner": "America's #1 Sports Prediction Market",
+    "one_liner": "America's #1 Sports Trading App",
     "team_size": 55,
     "industry": "Consumer",
     "subindustry": "Consumer -> Gaming",
@@ -33036,7 +33080,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -43683,12 +43727,12 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/020f142d48a9efde3733971776a68c441557dfe7.png",
     "website": "https://getdiana.com/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "The first governed OpenClaw platform, delivering a secure AI assistant to every employee, embedded directly into Slack.",
+    "all_locations": "",
+    "long_description": "The first business-ready OpenClaw platform. A secure AI assistant embedded directly into Slack.",
     "one_liner": "Give Your Employee An Employee",
     "team_size": 7,
     "industry": "B2B",
-    "subindustry": "B2B -> Human Resources",
+    "subindustry": "B2B",
     "launched_at": 1706475260,
     "tags": [
       "Artificial Intelligence",
@@ -43704,12 +43748,9 @@
     "batch": "Winter 2024",
     "status": "Active",
     "industries": [
-      "B2B",
-      "Human Resources"
+      "B2B"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada",
       "Remote",
       "Partly Remote"
     ],
@@ -48443,6 +48484,44 @@
     "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2024/simple-ai.json"
   },
   {
+    "id": 29788,
+    "name": "Refactor",
+    "slug": "refactor",
+    "former_names": [
+      "Affix",
+      "Blast"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/45a371e602b123c726fb74d27c73504797f68a62.png",
+    "website": "https://refactor.co",
+    "all_locations": "",
+    "long_description": "Refactor works closely with large organizations across healthcare, retail, and logistics to safely tackle their most ambitious AI use-cases in record time. We focus on building autonomous systems that call, click, and navigate legacy software systems. We have worked with companies serving tens of millions of customers and with $50B+ annual revenue. ",
+    "one_liner": "Deploying secure and reliable AI agents across healthcare, retail,…",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1724647952,
+    "tags": [],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2024",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/refactor",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2024/refactor.json"
+  },
+  {
     "id": 29789,
     "name": "Paasa",
     "slug": "paasa",
@@ -51233,48 +51312,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/bild-ai",
     "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2025/bild-ai.json"
-  },
-  {
-    "id": 30181,
-    "name": "Leaping AI",
-    "slug": "leaping-ai",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2cf89546e97aa00342fd94e13a639b43add977d5.png",
-    "website": "https://www.leapingai.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Leaping AI is the best platform to deploy voice AI agents for customer service, lead qualification and appointment scheduling. We target mid-market and Enterprise companies and industries are: home services, pay per call, travel, retail, health insurance, Medicare, health and real estate.\r\n\r\nWe automated contact centers employing >100 human agents and now handle their incoming customer support and sales calls, end-to-end. All while maintaining 90% customer satisfaction score.\r\n\r\nFor another company, our voice AI agents were able to convert 30% of contacted leads within a week of the outbound campaign. A similar campaign with humans previously took that same company 5 weeks.\r\n",
-    "one_liner": "Voice AI agents to automate call centers (digital call center workers)",
-    "team_size": 9,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1736780951,
-    "tags": [
-      "B2B",
-      "AI",
-      "Conversational AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Winter 2025",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": true,
-    "url": "https://www.ycombinator.com/companies/leaping-ai",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2025/leaping-ai.json"
   },
   {
     "id": 30182,
@@ -55344,13 +55381,14 @@
     "former_names": [
       "Relixir.ai",
       "Relixir",
-      "Naive"
+      "Naive",
+      "Naïve"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/06af5d16e9099ea20940c7e2eeb917bb2f11454a.png",
     "website": "https://usenaive.ai",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Naïve is an autonomous company builder. \r\n\r\nYou describe what your business does, and Naïve deploys AI employees that actually execute — building your app, closing deals, running campaigns, serving customers. \r\n\r\nIt works for creating new companies and automate existing companies by connecting Naive to their entire stack. ",
-    "one_liner": "Autonomous Companies",
+    "one_liner": "Autonomous Company Builder",
     "team_size": 12,
     "industry": "B2B",
     "subindustry": "B2B",
@@ -57377,15 +57415,15 @@
     "all_locations": "",
     "long_description": "VibeFlow generates full-stack web apps from prompts with n8n-style visual workflows for the backend. Users of tools like Lovable or v0 can easily iterate over frontends because they can see them, while backends remain closed black boxes that are hard to evolve through prompting. VibeFlow opens up backend logic, making it visual and editable, with powerful integrations built in.",
     "one_liner": "Lovable, n8n and a database all in one platform ",
-    "team_size": 0,
+    "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1753078619,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "Consumer",
-      "B2B"
+      "B2B",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -57743,10 +57781,10 @@
     "subindustry": "B2B -> Finance and Accounting",
     "launched_at": 1753405058,
     "tags": [
-      "Artificial Intelligence",
       "Fintech",
       "Finance",
-      "B2B"
+      "B2B",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -57862,7 +57900,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Idler builds reinforcement learning environments that teach AI models to code at expert human levels. We create training environments based on real-world coding scenarios that prepare models for the complex challenges they'll face in production.",
     "one_liner": "Reinforcement learning environments. ",
-    "team_size": 14,
+    "team_size": 13,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1749750449,
@@ -61660,43 +61698,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/wayco",
     "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2026/wayco.json"
-  },
-  {
-    "id": 31302,
-    "name": "Remix",
-    "slug": "remix-3",
-    "former_names": [
-      "Resonate"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c24a27022cd7cab3a1c917cac812b16b8f90267e.png",
-    "website": "https://remix.re",
-    "all_locations": "",
-    "long_description": "Remix is the easiest way to create content with AI. Connect your accounts, drop in photos, voice notes, or messages, and Remix instantly creates posts in your style: articles, tweets, carousels, short-form videos, even content riffing on the latest trending formats. Chat with 100s of parallel AI agents that handle everything from picking your best photos to writing copy to applying edits, all at once.\r\n\r\nInstagram was the easiest way to create photos on mobile. Remix is the easiest way to create everything else. Try it for yourself. Download the app and we'll instantly generate content from your LinkedIn and Twitter.",
-    "one_liner": "Social media content auto-generated with your existing data",
-    "team_size": 0,
-    "industry": "Consumer",
-    "subindustry": "Consumer",
-    "launched_at": 1770250805,
-    "tags": [],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Winter 2026",
-    "status": "Active",
-    "industries": [
-      "Consumer"
-    ],
-    "regions": [
-      "Unspecified"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/remix-3",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2026/remix-3.json"
   },
   {
     "id": 31311,

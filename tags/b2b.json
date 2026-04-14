@@ -28265,7 +28265,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -41305,7 +41305,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2025",
     "status": "Active",
@@ -43575,49 +43575,6 @@
     "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2025/scalar-field.json"
   },
   {
-    "id": 30520,
-    "name": "Synthetic Society",
-    "slug": "synthetic-society",
-    "former_names": [
-      "Lizzie AI"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b2b8be4ce1ebb38b874cd798499bbc2de228fc36.png",
-    "website": "https://syntheticsociety.ai/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "",
-    "one_liner": "Synthetic Users to Simulate Real Users",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1752639112,
-    "tags": [
-      "Artificial Intelligence",
-      "Developer Tools",
-      "B2B"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2025",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/synthetic-society",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2025/synthetic-society.json"
-  },
-  {
     "id": 30528,
     "name": "Probo",
     "slug": "probo",
@@ -44838,15 +44795,15 @@
     "all_locations": "",
     "long_description": "VibeFlow generates full-stack web apps from prompts with n8n-style visual workflows for the backend. Users of tools like Lovable or v0 can easily iterate over frontends because they can see them, while backends remain closed black boxes that are hard to evolve through prompting. VibeFlow opens up backend logic, making it visual and editable, with powerful integrations built in.",
     "one_liner": "Lovable, n8n and a database all in one platform ",
-    "team_size": 0,
+    "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1753078619,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "Consumer",
-      "B2B"
+      "B2B",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -45015,10 +44972,10 @@
     "subindustry": "B2B -> Finance and Accounting",
     "launched_at": 1753405058,
     "tags": [
-      "Artificial Intelligence",
       "Fintech",
       "Finance",
-      "B2B"
+      "B2B",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,

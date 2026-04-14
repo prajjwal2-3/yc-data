@@ -3359,6 +3359,48 @@
     "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2018/owny.json"
   },
   {
+    "id": 1891,
+    "name": "Klarity",
+    "slug": "klarity",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5d4790f2b102f3fd696a88213e44f23e7083929b.png",
+    "website": "http://klarity.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Klarity is Enterprise AI that helps companies like OpenAI, DoorDash, CrowdStrike and Zoom bend the G&A curve.\r\n\r\nKlarity delivers two core capabilities:\r\n(1) unlimited transformation; creating a digital twin of your business to identify gaps, risks and inefficiencies, and provide valuable insights into your business in weeks instead of quarters, and\r\n(2) intelligent document processing that turns contracts, invoices, and POs into audit-ready data with 82%+ pass-through rates.\r\nKlarity reduces OpEx, boosts accuracy, and empowers CFOs to deliver board-ready ROI.",
+    "one_liner": "Klarity: Your Always-On AI Analyst, Advisor & Coach",
+    "team_size": 128,
+    "industry": "B2B",
+    "subindustry": "B2B -> Productivity",
+    "launched_at": 1524539154,
+    "tags": [
+      "Artificial Intelligence",
+      "ML"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2018",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Productivity"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Growth",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/klarity",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2018/klarity.json"
+  },
+  {
     "id": 1897,
     "name": "numericcal, inc.",
     "slug": "numericcal-inc",
@@ -7251,6 +7293,49 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/sivo",
     "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2021/sivo.json"
+  },
+  {
+    "id": 22781,
+    "name": "Cyble",
+    "slug": "cyble",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f1559fe73a2c1a1b683d40299a231a3a0becfe24.png",
+    "website": "https://cyble.com/",
+    "all_locations": "Atlanta, GA, USA",
+    "long_description": "To reimagine cybersecurity with an AI-native platform that unifies detection, protection and remediation across the digital attack surface\r\n\r\nHeadquartered in Alpharetta, Georgia, and with offices in Australia, Malaysia, Singapore, Dubai, Saudi Arabia and India, Cyble has a global presence. To learn more about Cyble, visit www.cyble.com.  ",
+    "one_liner": "Cyble - World’s First Intelligence-Driven, AI-Native Security…",
+    "team_size": 200,
+    "industry": "B2B",
+    "subindustry": "B2B -> Security",
+    "launched_at": 1613603669,
+    "tags": [
+      "Artificial Intelligence",
+      "SaaS",
+      "Security"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2021",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Security"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Growth",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/cyble",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2021/cyble.json"
   },
   {
     "id": 22785,
@@ -23611,12 +23696,12 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/020f142d48a9efde3733971776a68c441557dfe7.png",
     "website": "https://getdiana.com/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "The first governed OpenClaw platform, delivering a secure AI assistant to every employee, embedded directly into Slack.",
+    "all_locations": "",
+    "long_description": "The first business-ready OpenClaw platform. A secure AI assistant embedded directly into Slack.",
     "one_liner": "Give Your Employee An Employee",
     "team_size": 7,
     "industry": "B2B",
-    "subindustry": "B2B -> Human Resources",
+    "subindustry": "B2B",
     "launched_at": 1706475260,
     "tags": [
       "Artificial Intelligence",
@@ -23632,12 +23717,9 @@
     "batch": "Winter 2024",
     "status": "Active",
     "industries": [
-      "B2B",
-      "Human Resources"
+      "B2B"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada",
       "Remote",
       "Partly Remote"
     ],
@@ -28378,6 +28460,54 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/rastro",
     "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2024/rastro.json"
+  },
+  {
+    "id": 29835,
+    "name": "Voker",
+    "slug": "voker",
+    "former_names": [
+      "Invoke AI",
+      "Invoke Labs"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e097d283f408c0a5e7db6a2bef1bf267b298465c.png",
+    "website": "https://voker.ai",
+    "all_locations": "Los Angeles, CA, USA",
+    "long_description": "Voker is the Agent Analytics Platform for monitoring and improving your AI agents. Companies like Dutch.com use our SDK to build better agents.\r\n\r\nAlex and Tyler met at a high-growth E-Commerce startup where Tyler was running Technology & Data. Together, they built AI products that bootstrapped the company profitably to $100MM in Revenue.",
+    "one_liner": "The Agent Analytics Platform",
+    "team_size": 6,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1722887304,
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "Generative AI",
+      "Analytics",
+      "Big Data"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2024",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/voker",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2024/voker.json"
   },
   {
     "id": 29844,
@@ -33828,49 +33958,6 @@
     "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2025/orchid-ai.json"
   },
   {
-    "id": 30520,
-    "name": "Synthetic Society",
-    "slug": "synthetic-society",
-    "former_names": [
-      "Lizzie AI"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b2b8be4ce1ebb38b874cd798499bbc2de228fc36.png",
-    "website": "https://syntheticsociety.ai/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "",
-    "one_liner": "Synthetic Users to Simulate Real Users",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1752639112,
-    "tags": [
-      "Artificial Intelligence",
-      "Developer Tools",
-      "B2B"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2025",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/synthetic-society",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2025/synthetic-society.json"
-  },
-  {
     "id": 30523,
     "name": "Mesmer",
     "slug": "mesmer",
@@ -35671,46 +35758,6 @@
     "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2025/normal.json"
   },
   {
-    "id": 30699,
-    "name": "VibeFlow",
-    "slug": "vibeflow",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5596537c1b7f7b2fdc729cd0da77e9c233f79180.png",
-    "website": "https://vibeflow.ai/",
-    "all_locations": "",
-    "long_description": "VibeFlow generates full-stack web apps from prompts with n8n-style visual workflows for the backend. Users of tools like Lovable or v0 can easily iterate over frontends because they can see them, while backends remain closed black boxes that are hard to evolve through prompting. VibeFlow opens up backend logic, making it visual and editable, with powerful integrations built in.",
-    "one_liner": "Lovable, n8n and a database all in one platform ",
-    "team_size": 0,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1753078619,
-    "tags": [
-      "Artificial Intelligence",
-      "Developer Tools",
-      "Consumer",
-      "B2B"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Summer 2025",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "Unspecified"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/vibeflow",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2025/vibeflow.json"
-  },
-  {
     "id": 30701,
     "name": "Mimos",
     "slug": "mimos",
@@ -35877,51 +35924,6 @@
     "question_answers": true,
     "url": "https://www.ycombinator.com/companies/finto-de",
     "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2025/finto-de.json"
-  },
-  {
-    "id": 30719,
-    "name": "ProcIndex",
-    "slug": "procindex",
-    "former_names": [
-      "Inbox0",
-      "April"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/55b886e3f926718d32add5ccfdea06761c40b243.png",
-    "website": "https://www.procindex.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "ProcIndex is a full stack AI accounting firm, with a suite of agents to automate quote to cash, accounts payable and month end close processes end to end.\r\n\r\nProcIndex connects with your existing ERP, operates in the background while giving you full visibility into the agent actions and powers accounting teams to become 33% more efficient.",
-    "one_liner": "AI Agents for Accounting Operations",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Finance and Accounting",
-    "launched_at": 1753405058,
-    "tags": [
-      "Artificial Intelligence",
-      "Fintech",
-      "Finance",
-      "B2B"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Summer 2025",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Finance and Accounting"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/procindex",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2025/procindex.json"
   },
   {
     "id": 30721,
@@ -38790,6 +38792,47 @@
     "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2026/brownie.json"
   },
   {
+    "id": 31215,
+    "name": "Bubble Lab",
+    "slug": "bubble-lab",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9fc7f7534f4fb913904f49914952c1daa8086654.png",
+    "website": "https://bubblelab.ai/",
+    "all_locations": "",
+    "long_description": "Bubble Lab turns natural language into visual, production-ready workflows — built for modern ops teams, with built-in observability, logs, and execution traces.\r\n\r\nDeploy to Slack in one click so your team can build and run workflows from anywhere.\r\n",
+    "one_liner": "Prompt once, automate forever.",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Operations",
+    "launched_at": 1764881455,
+    "tags": [
+      "Artificial Intelligence",
+      "Workflow Automation",
+      "Automation",
+      "Operations"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Operations"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/bubble-lab",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2026/bubble-lab.json"
+  },
+  {
     "id": 31219,
     "name": "Voxel Energy",
     "slug": "voxel-energy",
@@ -39776,14 +39819,15 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/24a27f14876befd155fa8c25b4a3056848cf5b16.png",
     "website": "https://www.asterlab.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "We automate the research and training of machine learning models. Given a dataset, we autonomously launch hundreds of AI researchers who collaboratively theorize and experiment to improve your models.\r\n\r\nWe develop products and conduct frontier research, pushing the bounds of automating research.",
-    "one_liner": "Automated AI model training",
+    "long_description": "We're an AI Research lab that utilizes complex agentic workflows to accelerate the discovery of novel AI research. We've discovered novel optimizers, language modelling architectures, and work in interpretability.\r\n\r\nWe develop products and conduct frontier research, pushing the bounds of automating research.",
+    "one_liner": "The First AI-Native AI Research Lab",
     "team_size": 1,
     "industry": "B2B",
     "subindustry": "B2B -> Productivity",
     "launched_at": 1775665287,
     "tags": [
-      "Artificial Intelligence"
+      "Artificial Intelligence",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,

@@ -606,11 +606,11 @@
     "name": "Novig",
     "slug": "novig",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/37d72609fbfc24b4a158ddb750a5b26591ee74b6.png",
-    "website": "https://www.novig.us",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/70b63d7ab273fdb7b71b48db89fe1042c817e72b.png",
+    "website": "https://www.novig.com",
     "all_locations": "New York, NY, USA",
     "long_description": "Novig is building America's #1 sports prediction market. Founded by Jacob Fortinsky and Kelechi Ukah, we are the only platform to offer commission-free sports trading. We deliver better pricing, full transparency, and a more efficient market structure for users by eliminating the traditional sportsbook model.\r\n\r\nBacked by the best - Novig has raised over $100M from some of Silicon Valley’s top investors including Pantera, Forerunner, Lux, NFX, Paul Graham, and Joe Montana.",
-    "one_liner": "America's #1 Sports Prediction Market",
+    "one_liner": "America's #1 Sports Trading App",
     "team_size": 55,
     "industry": "Consumer",
     "subindustry": "Consumer -> Gaming",
@@ -728,6 +728,54 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/oddsview",
     "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2024/oddsview.json"
+  },
+  {
+    "id": 30345,
+    "name": "Tee Time Tommy",
+    "slug": "tee-time-tommy",
+    "former_names": [
+      "851 Inc.",
+      "851",
+      "AI Emojis",
+      "emojis",
+      "emojis.com",
+      "Lightbox",
+      "emojis.com"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/da12abcb76c9086dab8dd1259bef41c842d90d23.png",
+    "website": "https://teetimetommy.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "",
+    "one_liner": "Book and manage all of your golf tee times in one place.",
+    "team_size": 2,
+    "industry": "Consumer",
+    "subindustry": "Consumer",
+    "launched_at": 1740542821,
+    "tags": [
+      "Sports Tech",
+      "Consumer",
+      "Booking"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2025",
+    "status": "Active",
+    "industries": [
+      "Consumer"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/tee-time-tommy",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2025/tee-time-tommy.json"
   },
   {
     "id": 30871,

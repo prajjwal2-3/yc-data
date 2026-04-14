@@ -300,6 +300,97 @@
     "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/superset.json"
   },
   {
+    "id": 31246,
+    "name": "Inth",
+    "slug": "inth",
+    "former_names": [
+      "Consent.io",
+      "Consent"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/aca00ac880b2d3d17acae2b1679332dc8000c5f7.png",
+    "website": "https://inth.com",
+    "all_locations": "London, England, United Kingdom",
+    "long_description": "Automate consent and user data rights compliance. Built for performance and full developer control.",
+    "one_liner": "Privacy Infrastructure for Developers",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1776095941,
+    "tags": [
+      "Compliance",
+      "Web Development"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "United Kingdom",
+      "Europe",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/inth",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/inth.json"
+  },
+  {
+    "id": 31279,
+    "name": "Regbase",
+    "slug": "regbase",
+    "former_names": [
+      "RegBase"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fd72b079b781bbd2a4eb03627c44c4901fd5da63.png",
+    "website": "https://regbase.com",
+    "all_locations": "New York, NY, USA",
+    "long_description": "",
+    "one_liner": "Tracking global laws, grants and consultations",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B -> Legal",
+    "launched_at": 1776112979,
+    "tags": [
+      "Legal",
+      "Sales Enablement",
+      "LegalTech",
+      "Regtech"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Legal"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/regbase",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/regbase.json"
+  },
+  {
     "id": 31294,
     "name": "Dispatch",
     "slug": "dispatch",
@@ -2880,14 +2971,15 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/24a27f14876befd155fa8c25b4a3056848cf5b16.png",
     "website": "https://www.asterlab.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "We automate the research and training of machine learning models. Given a dataset, we autonomously launch hundreds of AI researchers who collaboratively theorize and experiment to improve your models.\r\n\r\nWe develop products and conduct frontier research, pushing the bounds of automating research.",
-    "one_liner": "Automated AI model training",
+    "long_description": "We're an AI Research lab that utilizes complex agentic workflows to accelerate the discovery of novel AI research. We've discovered novel optimizers, language modelling architectures, and work in interpretability.\r\n\r\nWe develop products and conduct frontier research, pushing the bounds of automating research.",
+    "one_liner": "The First AI-Native AI Research Lab",
     "team_size": 1,
     "industry": "B2B",
     "subindustry": "B2B -> Productivity",
     "launched_at": 1775665287,
     "tags": [
-      "Artificial Intelligence"
+      "Artificial Intelligence",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -3543,5 +3635,45 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/maquoketa-research",
     "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/maquoketa-research.json"
+  },
+  {
+    "id": 31562,
+    "name": "Cohesion",
+    "slug": "cohesion",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/19ae82a3126f7e0acfa4a7ee5f4b31b8e7abae8d.png",
+    "website": "https://cohesionplatform.com/",
+    "all_locations": "",
+    "long_description": "Cohesion is building AI agents for hedge funds. Our agents track earnings and non-traditional datasets like podcasts and X/twitter. Analysts spend hours a week manually tracking these data sources and still miss relevant investing signals. Now, our agents do it for them autonomously. \r\n",
+    "one_liner": "Your public equities teammate ",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B -> Finance and Accounting",
+    "launched_at": 1776132340,
+    "tags": [
+      "Fintech",
+      "SaaS",
+      "Investing"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Finance and Accounting"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/cohesion",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/cohesion.json"
   }
 ]

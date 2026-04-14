@@ -13915,7 +13915,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -22846,11 +22846,11 @@
     "name": "Novig",
     "slug": "novig",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/37d72609fbfc24b4a158ddb750a5b26591ee74b6.png",
-    "website": "https://www.novig.us",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/70b63d7ab273fdb7b71b48db89fe1042c817e72b.png",
+    "website": "https://www.novig.com",
     "all_locations": "New York, NY, USA",
     "long_description": "Novig is building America's #1 sports prediction market. Founded by Jacob Fortinsky and Kelechi Ukah, we are the only platform to offer commission-free sports trading. We deliver better pricing, full transparency, and a more efficient market structure for users by eliminating the traditional sportsbook model.\r\n\r\nBacked by the best - Novig has raised over $100M from some of Silicon Valley’s top investors including Pantera, Forerunner, Lux, NFX, Paul Graham, and Joe Montana.",
-    "one_liner": "America's #1 Sports Prediction Market",
+    "one_liner": "America's #1 Sports Trading App",
     "team_size": 55,
     "industry": "Consumer",
     "subindustry": "Consumer -> Gaming",
@@ -29684,10 +29684,10 @@
     "subindustry": "B2B -> Finance and Accounting",
     "launched_at": 1753405058,
     "tags": [
-      "Artificial Intelligence",
       "Fintech",
       "Finance",
-      "B2B"
+      "B2B",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -30235,5 +30235,45 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/mochatrade",
     "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/mochatrade.json"
+  },
+  {
+    "id": 31562,
+    "name": "Cohesion",
+    "slug": "cohesion",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/19ae82a3126f7e0acfa4a7ee5f4b31b8e7abae8d.png",
+    "website": "https://cohesionplatform.com/",
+    "all_locations": "",
+    "long_description": "Cohesion is building AI agents for hedge funds. Our agents track earnings and non-traditional datasets like podcasts and X/twitter. Analysts spend hours a week manually tracking these data sources and still miss relevant investing signals. Now, our agents do it for them autonomously. \r\n",
+    "one_liner": "Your public equities teammate ",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B -> Finance and Accounting",
+    "launched_at": 1776132340,
+    "tags": [
+      "Fintech",
+      "SaaS",
+      "Investing"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Finance and Accounting"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/cohesion",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/cohesion.json"
   }
 ]

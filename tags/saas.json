@@ -7659,49 +7659,6 @@
     "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2018/user-hero.json"
   },
   {
-    "id": 1891,
-    "name": "Klarity",
-    "slug": "klarity",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d13acee4c0523585219ccc0ab42e8d16cbd5a287.png",
-    "website": "http://klarity.ai",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Klarity is Enterprise AI that helps companies like OpenAI, DoorDash, CrowdStrike and Zoom bend the G&A curve.\r\n\r\nKlarity delivers two core capabilities:\r\n(1) unlimited transformation; creating a digital twin of your business to identify gaps, risks and inefficiencies, and provide valuable insights into your business in weeks instead of quarters, and\r\n(2) intelligent document processing that turns contracts, invoices, and POs into audit-ready data with 82%+ pass-through rates.\r\nKlarity reduces OpEx, boosts accuracy, and empowers CFOs to deliver board-ready ROI.",
-    "one_liner": "Klarity: Your Always-On AI Analyst, Advisor & Coach",
-    "team_size": 128,
-    "industry": "B2B",
-    "subindustry": "B2B -> Productivity",
-    "launched_at": 1524539154,
-    "tags": [
-      "Machine Learning",
-      "SaaS",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Summer 2018",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Productivity"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Growth",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/klarity",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2018/klarity.json"
-  },
-  {
     "id": 1898,
     "name": "Searchlight",
     "slug": "searchlight",
@@ -18602,14 +18559,14 @@
     "all_locations": "Atlanta, GA, USA",
     "long_description": "To reimagine cybersecurity with an AI-native platform that unifies detection, protection and remediation across the digital attack surface\r\n\r\nHeadquartered in Alpharetta, Georgia, and with offices in Australia, Malaysia, Singapore, Dubai, Saudi Arabia and India, Cyble has a global presence. To learn more about Cyble, visit www.cyble.com.  ",
     "one_liner": "Cyble - World’s First Intelligence-Driven, AI-Native Security…",
-    "team_size": 260,
+    "team_size": 200,
     "industry": "B2B",
     "subindustry": "B2B -> Security",
     "launched_at": 1613603669,
     "tags": [
+      "Artificial Intelligence",
       "SaaS",
-      "Security",
-      "AI"
+      "Security"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -34934,7 +34891,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -47171,7 +47128,7 @@
     "slug": "epicenter",
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/15e87b5dae1ddc0ace7595505c49a86f51b6979a.png",
-    "website": "https://epicenter.md",
+    "website": "https://epicenter.so",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Epicenter is an ecosystem of open-source, local-first apps that share a memory. We store all your work—notes, transcripts, chat histories—in a single folder of plain text and SQLite. Every tool we build shares this memory: your text editor, personal assistant, etc.. It's open, tweakable, and yours. Grep it, open it in Obsidian, host it wherever you like. The choice is yours.\r\n\r\nOur vision is to build a personal workspace where you own your data, choose your own AI models, and replace siloed apps with open, interoperable alternatives. All while preserving authenticity and being free and open source. ❤️",
     "one_liner": "ChatGPT's memory feature in an open, portable format",
@@ -48968,5 +48925,45 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/framewise-health",
     "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/framewise-health.json"
+  },
+  {
+    "id": 31562,
+    "name": "Cohesion",
+    "slug": "cohesion",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/19ae82a3126f7e0acfa4a7ee5f4b31b8e7abae8d.png",
+    "website": "https://cohesionplatform.com/",
+    "all_locations": "",
+    "long_description": "Cohesion is building AI agents for hedge funds. Our agents track earnings and non-traditional datasets like podcasts and X/twitter. Analysts spend hours a week manually tracking these data sources and still miss relevant investing signals. Now, our agents do it for them autonomously. \r\n",
+    "one_liner": "Your public equities teammate ",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B -> Finance and Accounting",
+    "launched_at": 1776132340,
+    "tags": [
+      "Fintech",
+      "SaaS",
+      "Investing"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Finance and Accounting"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/cohesion",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/cohesion.json"
   }
 ]
