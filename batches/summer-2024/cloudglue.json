@@ -9,7 +9,7 @@
   "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/83e6dd01545303c123ca60f1dcf8bdc7566497c5.png",
   "website": "https://cloudglue.dev",
   "all_locations": "San Francisco, CA, USA",
-  "long_description": "Cloudglue is the video context layer for AI. We make it easy for your AI to understand video.\r\n\r\n-> Developer API Platform: https://cloudglue.dev\r\n-> Tinycloud - your AI agent for video: https://tinycloud.cloudglue.dev",
+  "long_description": "Cloudglue is the video context layer for AI. We make it easy for your AI to understand video.\r\n- Tinycloud - your AI agent for video, now open for beta: https://tinycloud.cloudglue.dev\r\n- Developer API Platform: https://cloudglue.dev\r\n",
   "one_liner": "The video context layer for AI.",
   "team_size": 4,
   "industry": "B2B",

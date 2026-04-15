@@ -4090,7 +4090,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "As AI agents take on more consequential workflows, the hard part isn’t just whether they work—it’s whether they behave consistently with your company’s knowledge, policies, and expectations. Lucidic AI turns that institutional knowledge into consistent agent behavior by continuously testing, stress-simulating, and auto-optimizing agents against your real production scenarios.\r\nLucidic ingests your real logs, edge cases, and operational rules, then uses controlled simulations, reinforcement learning, and Bayesian optimization to automatically discover failure modes, propose targeted fixes, and verify improvements before anything reaches production. Instead of relying on manual prompt fiddling or guesswork, your agents get a continuous improvement loop: they’re tested, corrected, and optimized based on what your business actually requires—not what a generic model assumes.\r\nThe result is AI agents that reliably follow your domain logic, adapt to changes, and stay aligned across clients, configurations, and environments—without you needing to hand-engineer every prompt or behavior.",
     "one_liner": "AI Agent Training via Simulations",
-    "team_size": null,
+    "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1736904770,
@@ -4848,15 +4848,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/955d29f6fe86baf7c724d6dcd2933cef074c1171.png",
     "website": "https://outlit.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Outlit turns all your customer context across Stripe, PostHog, HubSpot, Slack, email, and more into one unified record so you can query across every tool and let agents monitor and act on signals across your stack.",
-    "one_liner": "Customer Context for Agents ",
+    "long_description": "Outlit turns every customer-facing tool in your stack, like Stripe, Granola, PostHog, Slack, Gmail, Pylon, and more, into one complete, queryable customer profile.\r\n\r\nWe resolve fragmented identity across mismatched records, extract structured facts and signals from unstructured interactions, and expose the result through CLI, MCP, and API. \r\n\r\nSo every person and agent in your company has the full context on every customer to work from.",
+    "one_liner": "Customer Context for Agents",
     "team_size": 2,
     "industry": "B2B",
-    "subindustry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
     "launched_at": 1736658447,
     "tags": [
       "Artificial Intelligence",
-      "B2B"
+      "B2B",
+      "API",
+      "Infrastructure"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -4865,7 +4867,8 @@
     "batch": "Winter 2025",
     "status": "Active",
     "industries": [
-      "B2B"
+      "B2B",
+      "Infrastructure"
     ],
     "regions": [
       "United States of America",
@@ -5256,7 +5259,7 @@
     "all_locations": "New York, NY, USA",
     "long_description": "Misprint is an all-in-one marketplace that solves the biggest pain point in the collectibles world: opaque pricing. Collectors, investors, and hobbyists currently rely on scattered data from auction houses, online forums, and reseller platforms, making it difficult to know the true value of their items. Misprint streamlines the process by combining accurate pricing analytics with a seamless buy/sell marketplace, making it easier than ever to understand and monetize collectible assets.\r\n\r\nExisting marketplaces lack robust, real-time analytics because accurate valuations require deep expertise in both the collectibles domain and advanced pricing algorithms. Misprint’s unique blend of insider trading card knowledge and machine learning allows us to fill this gap.\r\n\r\nBuilding these pricing models requires extensive data infrastructure, deep domain expertise, and cutting-edge ML. Recent surges in the trading card market show that collectors crave transparent valuations.\r\n\r\nThe global collectibles market is worth tens of billions of dollars. Eva has experienced the scale of this industry firsthand, generating $500k ARR within three months of taking her Pokemon card-selling side hustle full-time. With additional segments like sports cards, comics, and emerging collectible categories, the growth runway is immense.\r\n\r\nCo-founders Eva and Jon have been best friends since Exeter, combining finance expertise, a passion for collectibles, and mathematical rigor. By merging Goldman Sachs-level financial analytics with top-tier mathematical talent, Misprint is uniquely positioned to become the go-to platform for fair, transparent pricing in the collectibles space.",
     "one_liner": "Misprint is building Robinhood for Pokemon cards",
-    "team_size": 5,
+    "team_size": 4,
     "industry": "Consumer",
     "subindustry": "Consumer",
     "launched_at": 1737236774,

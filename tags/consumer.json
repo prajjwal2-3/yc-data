@@ -622,16 +622,16 @@
     "all_locations": "San Francisco, CA, USA; Remote",
     "long_description": "MDalgorithms is revolutionizing dermatology by delivering convenient, effective AI-powered solutions for skin and hair care. Since pioneering machine-learning models for acne treatment in 2017, we’ve advanced to develop the world’s first AI-powered scalp analysis for hair regrowth.\r\n\r\nOur proprietary AI technology, built entirely in-house, analyzes blemishes, lesions, and hair conditions with unmatched precision, utilizing the largest global dataset of acne and scalp images. Clinically validated and tested by dermatologists, our personalized treatment kits—MDacne for acne and MDhair for hair regrowth—are customized to each individual’s unique needs, combining over 100 medical and botanical ingredients for optimal results.\r\n\r\nWe empower users to track their progress, adjust treatments as needed, and access real-time support from our team of dermatologists and nurses. By doing so, we make personalized dermatological care accessible to all.",
     "one_liner": "Democratizing Dermatology with AI ",
-    "team_size": 25,
+    "team_size": 40,
     "industry": "Healthcare",
     "subindustry": "Healthcare -> Consumer Health and Wellness",
     "launched_at": 1478144434,
     "tags": [
+      "Artificial Intelligence",
       "Consumer Health Services",
       "Consumer",
       "Healthcare",
-      "Telemedicine",
-      "AI"
+      "Telemedicine"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -649,7 +649,7 @@
       "Remote",
       "Fully Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -3836,20 +3836,21 @@
   },
   {
     "id": 25363,
-    "name": "Gym Class - by IRL Studios",
-    "slug": "gym-class-by-irl-studios",
+    "name": "Gym Class",
+    "slug": "gym-class",
     "former_names": [
       "IRL Studios Inc.",
-      "Gym Class (by IRL Studios)."
+      "Gym Class (by IRL Studios).",
+      "Gym Class - by IRL Studios"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/90fc62ba6240bfed64d6f34df4390cc401252d92.png",
     "website": "https://gymclass.com",
     "all_locations": "Los Angeles, CA, USA; Remote",
-    "long_description": "Gym Class is a top-rated social game for virtual reality. Download to make friends and hangout, compete and play sports, or create and explore in simulated worlds. Join us on our mission is to connect the world by simulating it.",
+    "long_description": "Gym Class is a social platform where you can play games, make friends, and create and share your own experiences. Join a community of millions across virtual reality and mobile.",
     "one_liner": "Connecting the world by simulating it",
     "team_size": 20,
     "industry": "Consumer",
-    "subindustry": "Consumer -> Virtual and Augmented Reality",
+    "subindustry": "Consumer -> Social",
     "launched_at": 1642203216,
     "tags": [
       "Artificial Intelligence",
@@ -3866,7 +3867,7 @@
     "status": "Active",
     "industries": [
       "Consumer",
-      "Virtual and Augmented Reality"
+      "Social"
     ],
     "regions": [
       "United States of America",
@@ -3874,13 +3875,13 @@
       "Remote",
       "Fully Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/gym-class-by-irl-studios",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2022/gym-class-by-irl-studios.json"
+    "url": "https://www.ycombinator.com/companies/gym-class",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2022/gym-class.json"
   },
   {
     "id": 25404,
@@ -9171,7 +9172,7 @@
     "all_locations": "New York, NY, USA",
     "long_description": "Misprint is an all-in-one marketplace that solves the biggest pain point in the collectibles world: opaque pricing. Collectors, investors, and hobbyists currently rely on scattered data from auction houses, online forums, and reseller platforms, making it difficult to know the true value of their items. Misprint streamlines the process by combining accurate pricing analytics with a seamless buy/sell marketplace, making it easier than ever to understand and monetize collectible assets.\r\n\r\nExisting marketplaces lack robust, real-time analytics because accurate valuations require deep expertise in both the collectibles domain and advanced pricing algorithms. Misprint’s unique blend of insider trading card knowledge and machine learning allows us to fill this gap.\r\n\r\nBuilding these pricing models requires extensive data infrastructure, deep domain expertise, and cutting-edge ML. Recent surges in the trading card market show that collectors crave transparent valuations.\r\n\r\nThe global collectibles market is worth tens of billions of dollars. Eva has experienced the scale of this industry firsthand, generating $500k ARR within three months of taking her Pokemon card-selling side hustle full-time. With additional segments like sports cards, comics, and emerging collectible categories, the growth runway is immense.\r\n\r\nCo-founders Eva and Jon have been best friends since Exeter, combining finance expertise, a passion for collectibles, and mathematical rigor. By merging Goldman Sachs-level financial analytics with top-tier mathematical talent, Misprint is uniquely positioned to become the go-to platform for fair, transparent pricing in the collectibles space.",
     "one_liner": "Misprint is building Robinhood for Pokemon cards",
-    "team_size": 5,
+    "team_size": 4,
     "industry": "Consumer",
     "subindustry": "Consumer",
     "launched_at": 1737236774,

@@ -11566,46 +11566,6 @@
     "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2015/platejoy.json"
   },
   {
-    "id": 961,
-    "name": "Click & Grow",
-    "slug": "click-and-grow",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9f7218179cb848d389526954dcc8eb4e7347c22d.png",
-    "website": "https://www.clickandgrow.com/",
-    "all_locations": "Palo Alto, CA, USA",
-    "long_description": "Click & Grow is an innovative, international company that’s changing the way people think about plant cultivation and food. Our unique line of Smart Gardens and Wall Farms uses automatically controlled technology and specially developed Smart Soil to keep oxygen, water, and nutritional ingredients at optimal levels so plants thrive naturally. This helps anyone effortlessly grow plants with complete success and no need for GMOs, pesticides, fungicides, insecticides, plant hormones, or any other suspicious substances.\r\n\r\nVenture-backed, and a favorite of Wired, TechCrunch, Business Insider and more, Click & Grow boasts a forward-thinking team, based in the San Francisco Bay Area, and Tallinn and Tartu, Estonia. Our current products are the first steps towards a greater revolution in urban farming, gardening, and beyond.",
-    "one_liner": "Click & Grow makes indoor urban gardens and farms that take complete…",
-    "team_size": 28,
-    "industry": "Consumer",
-    "subindustry": "Consumer -> Home and Personal",
-    "launched_at": 1433394319,
-    "tags": [
-      "Indoor Mapping",
-      "Gardening"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2015",
-    "status": "Active",
-    "industries": [
-      "Consumer",
-      "Home and Personal"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Growth",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/click-and-grow",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2015/click-and-grow.json"
-  },
-  {
     "id": 964,
     "name": "Eight Sleep",
     "slug": "eight-sleep",
@@ -27714,20 +27674,21 @@
   },
   {
     "id": 25363,
-    "name": "Gym Class - by IRL Studios",
-    "slug": "gym-class-by-irl-studios",
+    "name": "Gym Class",
+    "slug": "gym-class",
     "former_names": [
       "IRL Studios Inc.",
-      "Gym Class (by IRL Studios)."
+      "Gym Class (by IRL Studios).",
+      "Gym Class - by IRL Studios"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/90fc62ba6240bfed64d6f34df4390cc401252d92.png",
     "website": "https://gymclass.com",
     "all_locations": "Los Angeles, CA, USA; Remote",
-    "long_description": "Gym Class is a top-rated social game for virtual reality. Download to make friends and hangout, compete and play sports, or create and explore in simulated worlds. Join us on our mission is to connect the world by simulating it.",
+    "long_description": "Gym Class is a social platform where you can play games, make friends, and create and share your own experiences. Join a community of millions across virtual reality and mobile.",
     "one_liner": "Connecting the world by simulating it",
     "team_size": 20,
     "industry": "Consumer",
-    "subindustry": "Consumer -> Virtual and Augmented Reality",
+    "subindustry": "Consumer -> Social",
     "launched_at": 1642203216,
     "tags": [
       "Artificial Intelligence",
@@ -27744,7 +27705,7 @@
     "status": "Active",
     "industries": [
       "Consumer",
-      "Virtual and Augmented Reality"
+      "Social"
     ],
     "regions": [
       "United States of America",
@@ -27752,13 +27713,13 @@
       "Remote",
       "Fully Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/gym-class-by-irl-studios",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2022/gym-class-by-irl-studios.json"
+    "url": "https://www.ycombinator.com/companies/gym-class",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2022/gym-class.json"
   },
   {
     "id": 25445,
@@ -28214,7 +28175,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2022",
     "status": "Active",
@@ -32430,7 +32391,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Winter 2024",
     "status": "Active",
@@ -34096,7 +34057,7 @@
     "all_locations": "New York, NY, USA",
     "long_description": "Misprint is an all-in-one marketplace that solves the biggest pain point in the collectibles world: opaque pricing. Collectors, investors, and hobbyists currently rely on scattered data from auction houses, online forums, and reseller platforms, making it difficult to know the true value of their items. Misprint streamlines the process by combining accurate pricing analytics with a seamless buy/sell marketplace, making it easier than ever to understand and monetize collectible assets.\r\n\r\nExisting marketplaces lack robust, real-time analytics because accurate valuations require deep expertise in both the collectibles domain and advanced pricing algorithms. Misprint’s unique blend of insider trading card knowledge and machine learning allows us to fill this gap.\r\n\r\nBuilding these pricing models requires extensive data infrastructure, deep domain expertise, and cutting-edge ML. Recent surges in the trading card market show that collectors crave transparent valuations.\r\n\r\nThe global collectibles market is worth tens of billions of dollars. Eva has experienced the scale of this industry firsthand, generating $500k ARR within three months of taking her Pokemon card-selling side hustle full-time. With additional segments like sports cards, comics, and emerging collectible categories, the growth runway is immense.\r\n\r\nCo-founders Eva and Jon have been best friends since Exeter, combining finance expertise, a passion for collectibles, and mathematical rigor. By merging Goldman Sachs-level financial analytics with top-tier mathematical talent, Misprint is uniquely positioned to become the go-to platform for fair, transparent pricing in the collectibles space.",
     "one_liner": "Misprint is building Robinhood for Pokemon cards",
-    "team_size": 5,
+    "team_size": 4,
     "industry": "Consumer",
     "subindustry": "Consumer",
     "launched_at": 1737236774,
@@ -35862,6 +35823,49 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/catchback-cards",
     "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2026/catchback-cards.json"
+  },
+  {
+    "id": 31076,
+    "name": "Imperfect",
+    "slug": "imperfect",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/002fb81dd9c99e80efddd89e683644b3b238f04e.png",
+    "website": "https://imperfect.co",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Imperfect connects your wearables, training platforms, and health apps into one AI coach focused on getting you race day ready. Where other tools give you a fixed plan like MapQuest, Imperfect is Waze, adapting your training, recovery, and nutrition to how your body is actually responding.",
+    "one_liner": "AI coach that connects your wearables to get you race day ready",
+    "team_size": 5,
+    "industry": "Consumer",
+    "subindustry": "Consumer",
+    "launched_at": 1776207717,
+    "tags": [
+      "Fitness",
+      "Health & Wellness",
+      "AI",
+      "AI Assistant"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "Consumer"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/imperfect",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/imperfect.json"
   },
   {
     "id": 31140,

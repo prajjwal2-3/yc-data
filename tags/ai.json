@@ -971,55 +971,6 @@
     "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2016/athelas.json"
   },
   {
-    "id": 1461,
-    "name": "MDalgorithms Inc.",
-    "slug": "mdalgorithms-inc",
-    "former_names": [
-      "MDAlgorithms",
-      "MDAlgorithms Inc.",
-      "MDacne"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c28738affa1266432b0e2667e15541c1ddb131b4.png",
-    "website": "https://www.mdalgorithms.com",
-    "all_locations": "San Francisco, CA, USA; Remote",
-    "long_description": "MDalgorithms is revolutionizing dermatology by delivering convenient, effective AI-powered solutions for skin and hair care. Since pioneering machine-learning models for acne treatment in 2017, we’ve advanced to develop the world’s first AI-powered scalp analysis for hair regrowth.\r\n\r\nOur proprietary AI technology, built entirely in-house, analyzes blemishes, lesions, and hair conditions with unmatched precision, utilizing the largest global dataset of acne and scalp images. Clinically validated and tested by dermatologists, our personalized treatment kits—MDacne for acne and MDhair for hair regrowth—are customized to each individual’s unique needs, combining over 100 medical and botanical ingredients for optimal results.\r\n\r\nWe empower users to track their progress, adjust treatments as needed, and access real-time support from our team of dermatologists and nurses. By doing so, we make personalized dermatological care accessible to all.",
-    "one_liner": "Democratizing Dermatology with AI ",
-    "team_size": 25,
-    "industry": "Healthcare",
-    "subindustry": "Healthcare -> Consumer Health and Wellness",
-    "launched_at": 1478144434,
-    "tags": [
-      "Consumer Health Services",
-      "Consumer",
-      "Healthcare",
-      "Telemedicine",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Winter 2017",
-    "status": "Active",
-    "industries": [
-      "Healthcare",
-      "Consumer Health and Wellness"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Fully Remote"
-    ],
-    "stage": "Growth",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/mdalgorithms-inc",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2017/mdalgorithms-inc.json"
-  },
-  {
     "id": 1483,
     "name": "Entry",
     "slug": "entry",
@@ -7514,7 +7465,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2022",
     "status": "Active",
@@ -11146,51 +11097,6 @@
     "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2022/latent-space.json"
   },
   {
-    "id": 26897,
-    "name": "AviaryAI",
-    "slug": "aviaryai",
-    "former_names": [
-      "Cambio"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/40b545f0827e44a735f2287cc0b17aea7e65e7ff.png",
-    "website": "http://www.helloaviary.ai",
-    "all_locations": "Chicago, IL, USA",
-    "long_description": "AviaryAI is the industry's first outbound AI service team for banks, credit unions, and insurance companies. In a landscape where only 18% of financial service providers make proactive outbound calls and rely heavily on emails, AviaryAI offers a groundbreaking solution. Powered by a private LLM, our suite of products helps institutions leverage Generative AI while adhering to stringent regulatory and compliance standards.",
-    "one_liner": "Outbound AI voice agents for the financial services industry",
-    "team_size": 10,
-    "industry": "Fintech",
-    "subindustry": "Fintech",
-    "launched_at": 1654737893,
-    "tags": [
-      "Fintech",
-      "B2B",
-      "AI",
-      "AI Assistant"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Summer 2022",
-    "status": "Active",
-    "industries": [
-      "Fintech"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/aviaryai",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2022/aviaryai.json"
-  },
-  {
     "id": 26912,
     "name": "Quinn",
     "slug": "quinn",
@@ -11214,7 +11120,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2022",
     "status": "Active",
@@ -12005,6 +11911,54 @@
     "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2022/axle.json"
   },
   {
+    "id": 27255,
+    "name": "Intuned",
+    "slug": "intuned",
+    "former_names": [
+      "The Metrics Shop",
+      "Metrics Shop"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/86c20a802b3a2e0667f7dcdc7fa4c4cb22913691.png",
+    "website": "https://intunedhq.com",
+    "all_locations": "Kirkland, WA, USA",
+    "long_description": "Intuned is a code-first browser automation platform with an AI agent that builds and maintains your automations. Developers use Intuned to deploy scrapers, RPAs, and crawlers as production-ready TypeScript or Python projects — with stealth, CAPTCHA solving, proxies, auth, and scheduling handled out of the box. The agent builds projects from a prompt, fixes failed runs, and can self-heal automations autonomously when websites change.",
+    "one_liner": "Code-first scrapers and RPAs — built and maintained by AI",
+    "team_size": 15,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1657233376,
+    "tags": [
+      "Developer Tools",
+      "Robotic Process Automation",
+      "B2B",
+      "API",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2022",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/intuned",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2022/intuned.json"
+  },
+  {
     "id": 27361,
     "name": "Polymath Robotics",
     "slug": "polymath-robotics",
@@ -12618,6 +12572,52 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/brewit",
     "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2023/brewit.json"
+  },
+  {
+    "id": 27714,
+    "name": "Palomma",
+    "slug": "palomma",
+    "former_names": [
+      "Pagaa"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6efa2d71f0a1a589e982662a2f6c1a1eab9c259b.png",
+    "website": "http://www.palomma.com/",
+    "all_locations": "Medellín, Antioquia, Colombia",
+    "long_description": "Palomma is building the AI-native bank for real estate in LatAm. We start with AI agents for property managers (leasing, sales, collections), then add payments to own the flow of rent. This unlocks credit and insurance products to monetize on the $235Bn of rental flows from tenants and landlords.",
+    "one_liner": "AI & financial services for real estate in LatAm, starting by rent",
+    "team_size": 8,
+    "industry": "Real Estate and Construction",
+    "subindustry": "Real Estate and Construction",
+    "launched_at": 1677732513,
+    "tags": [
+      "SaaS",
+      "Payments",
+      "Finance",
+      "B2B",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2023",
+    "status": "Active",
+    "industries": [
+      "Real Estate and Construction"
+    ],
+    "regions": [
+      "Colombia",
+      "Latin America",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/palomma",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2023/palomma.json"
   },
   {
     "id": 27762,
@@ -17060,50 +17060,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/tiptap",
     "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2023/tiptap.json"
-  },
-  {
-    "id": 29082,
-    "name": "Strada",
-    "slug": "strada",
-    "former_names": [
-      "Strada",
-      "Finbox"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a1ed3e2a5a9fdba541eb63fd5da473fcbac4b34f.png",
-    "website": "https://www.getstrada.com/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Strada automates insurance operations with AI agents. We deploy agents that handle policy servicing and claims operations end-to-end for some of the largest insurance carriers and brokers in the US. With native integrations into core policy, claims and agency management systems, we automate complex workflows with the domain expertise and compliance guardrails the industry demands.",
-    "one_liner": "AI agents that run insurance operations",
-    "team_size": 14,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1690570692,
-    "tags": [
-      "SaaS",
-      "B2B",
-      "Insurance",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Summer 2023",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/strada",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2023/strada.json"
   },
   {
     "id": 29091,
@@ -21717,7 +21673,7 @@
     "all_locations": "New York, NY, USA",
     "long_description": "Bayesline is building a GPU-powered financial analytics suite for institutional investors, like hedge funds. \r\n\r\nClients use our cloud deployed solution to build custom analytics in seconds, having previously been frustrated with off the shelf solutions that don't generate any alpha. What used to take weeks or months now happens near instantly. \r\n\r\nSebastian, CFA (ex Bloomberg Quant & AI Research) and Misha, PhD (ex BlackRock Managing Director) met while working at BlackRock in 2016. With a combined 20 years of experience in the space they set out to change the way the industry uses analytics - from one size doesn't fit all to truly tailored to clients' needs.",
     "one_liner": "Highly customizable and blazingly fast analytics for asset managers.",
-    "team_size": 2,
+    "team_size": 3,
     "industry": "Fintech",
     "subindustry": "Fintech -> Asset Management",
     "launched_at": 1722543223,
@@ -21730,7 +21686,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Summer 2024",
     "status": "Active",
@@ -21892,7 +21848,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/83e6dd01545303c123ca60f1dcf8bdc7566497c5.png",
     "website": "https://cloudglue.dev",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Cloudglue is the video context layer for AI. We make it easy for your AI to understand video.\r\n\r\n-> Developer API Platform: https://cloudglue.dev\r\n-> Tinycloud - your AI agent for video: https://tinycloud.cloudglue.dev",
+    "long_description": "Cloudglue is the video context layer for AI. We make it easy for your AI to understand video.\r\n- Tinycloud - your AI agent for video, now open for beta: https://tinycloud.cloudglue.dev\r\n- Developer API Platform: https://cloudglue.dev\r\n",
     "one_liner": "The video context layer for AI.",
     "team_size": 4,
     "industry": "B2B",
@@ -28381,49 +28337,6 @@
     "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2025/qualgent.json"
   },
   {
-    "id": 30500,
-    "name": "Besimple AI",
-    "slug": "besimple-ai",
-    "former_names": [
-      "Simple Annotation",
-      "besimple ai"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8305d688995d7c8f184d463f02f3ded6947c12e7.png",
-    "website": "https://besimple.ai",
-    "all_locations": "Redwood City, CA, USA",
-    "long_description": "We are building the data layer for AI, starting with audio.  \r\n\r\nWe start with data collection, curating our own proprietary set of diverse conversational data covering a wide range of languages, dialects and accents.  We then leverage human expert audio annotators and our own annotation platform to process audio data for Automatic Speech Recognition.  \r\n\r\nWith human level transcription and diarization, our data help push the audio model frontier.  Today we have over millions of hours of conversational data, and growing. \r\n\r\nIf you need audio data for training or evaluating your voice models or voice agents, reach out!  We offer flexible licensing deals that work for startups and enterprises, with minimal process.  \r\n\r\nAudio data should besimple :) ",
-    "one_liner": "Voice data for AI",
-    "team_size": 5,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1747861843,
-    "tags": [
-      "AIOps",
-      "Data Labeling",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Spring 2025",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/besimple-ai",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2025/besimple-ai.json"
-  },
-  {
     "id": 30501,
     "name": "Cartpole",
     "slug": "cartpole",
@@ -29222,7 +29135,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Summer 2025",
     "status": "Active",
@@ -29717,6 +29630,50 @@
     "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2025/wafer.json"
   },
   {
+    "id": 30646,
+    "name": "Humwork",
+    "slug": "humwork",
+    "former_names": [
+      "Qualify.bot"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/63357814f2f59989ae18e2736412df94c2d8bc31.png",
+    "website": "https://humwork.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Humwork lets AI agents chat with human experts in real-time. When AI agents like Claude Code or OpenClaw hit a wall, Humwork's MCP server connects them to a verified domain expert in under 30 seconds. Our experts include senior engineers, lawyers, marketers, designers, and more.",
+    "one_liner": "Connect AI agents to human experts in 30 seconds",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1753843448,
+    "tags": [
+      "Marketplace",
+      "SaaS",
+      "B2B",
+      "Remote Work",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/humwork",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/humwork.json"
+  },
+  {
     "id": 30649,
     "name": "Lilac",
     "slug": "lilac",
@@ -29798,6 +29755,50 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/skope",
     "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2025/skope.json"
+  },
+  {
+    "id": 30659,
+    "name": "Proliferate",
+    "slug": "proliferate",
+    "former_names": [
+      "Keystone"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e9eb3892f113b924e1c5b9bdf6d120ba559a45ff.png",
+    "website": "https://proliferate.com?utm_source=yc&utm_medium=referral&utm_campaign=profile",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Manage a fleet of agents locally or in the cloud. 100% open source and free to use. Built to help you do your life's work.",
+    "one_liner": "Manage a team of agents from your desktop",
+    "team_size": null,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1749673205,
+    "tags": [
+      "Developer Tools",
+      "SaaS",
+      "B2B",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/proliferate",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2025/proliferate.json"
   },
   {
     "id": 30660,
@@ -31571,6 +31572,51 @@
     "api": "https://prajjwal2-3.github.io/yc-data/batches/fall-2025/movedot.json"
   },
   {
+    "id": 30850,
+    "name": "Zavo",
+    "slug": "zavo",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9a1286c1ed0f215411585d2faaf1c76a245ee266.png",
+    "website": "https://zavopay.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Zavo is the first AI-point of sale platform for restaurants.\r\n\r\nWe unify payments, point of sale, and AI agents into one seamless platform, allowing business to accept payments, manage operations and automate manual processes with Ai. \r\n\r\nFrom reservations, to payments to point of sale, we have built the full restaurant tech stack in-house with AI automation across all products.\r\n\r\nWe started Zavo in May 2025, currently over 800 businesses of different sizes use Zavo to accept payments and manage operations\r\n\r\n",
+    "one_liner": "AI Operating System for Restaurants ",
+    "team_size": 8,
+    "industry": "Fintech",
+    "subindustry": "Fintech -> Payments",
+    "launched_at": 1758482945,
+    "tags": [
+      "Fintech",
+      "Payments",
+      "B2B",
+      "Restaurant Tech",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2025",
+    "status": "Active",
+    "industries": [
+      "Fintech",
+      "Payments"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/zavo",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/fall-2025/zavo.json"
+  },
+  {
     "id": 30851,
     "name": "Sylvian",
     "slug": "sylvian",
@@ -32513,8 +32559,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c12ccaaa4d43530a4f13abb208362f187f33e86d.png",
     "website": "https://www.uselemma.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Lemma enables AI agents to continuously improve from user feedback and production outcomes. Instead of relying on manual prompt tuning and reactive debugging, Lemma detects when an agent’s performance drifts, pinpoints the exact step causing failures, generates optimized prompt candidates, and automatically delivers improvements through our API or by opening a pull request in your codebase. \r\n\r\nBuilt by ex-AI engineers who felt this pain firsthand, Lemma turns static agents into self-improving systems, helping teams ship reliable AI products faster with compounding performance gains over time. \r\n\r\nDeploy 1x. Learn forever.",
-    "one_liner": "Continuous learning for AI agents",
+    "long_description": "Lemma catches the silent, semantic failures your observability tools miss, where your AI agent looks like it worked but didn’t. We scan every trace to surface issues before users complain, identify root causes, and help you fix them without manual digging, so your agents improve over time.",
+    "one_liner": "Reliability platform for AI agents",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -33020,6 +33066,49 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/clara-2",
     "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/clara-2.json"
+  },
+  {
+    "id": 31076,
+    "name": "Imperfect",
+    "slug": "imperfect",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/002fb81dd9c99e80efddd89e683644b3b238f04e.png",
+    "website": "https://imperfect.co",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Imperfect connects your wearables, training platforms, and health apps into one AI coach focused on getting you race day ready. Where other tools give you a fixed plan like MapQuest, Imperfect is Waze, adapting your training, recovery, and nutrition to how your body is actually responding.",
+    "one_liner": "AI coach that connects your wearables to get you race day ready",
+    "team_size": 5,
+    "industry": "Consumer",
+    "subindustry": "Consumer",
+    "launched_at": 1776207717,
+    "tags": [
+      "Fitness",
+      "Health & Wellness",
+      "AI",
+      "AI Assistant"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "Consumer"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/imperfect",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/imperfect.json"
   },
   {
     "id": 31098,
@@ -33872,6 +33961,86 @@
     "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/hubxyz.json"
   },
   {
+    "id": 31388,
+    "name": "Elyra",
+    "slug": "elyra",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/dfc0518b0601b15bf131b045d7c9085b3ab4ac5e.png",
+    "website": "https://www.elyrasystems.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Elyra offers AI-powered restaurant systems with built-in voice and email agents that manage bookings, customer relationships and communication.",
+    "one_liner": "AI Systems for Restaurants",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1776156708,
+    "tags": [
+      "SaaS",
+      "Restaurant Tech",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/elyra",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/elyra.json"
+  },
+  {
+    "id": 31396,
+    "name": "qomplement",
+    "slug": "qomplement",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1f74f218c2714dc8c9f24d72389a7bfa22f2b11d.png",
+    "website": "https://qomplement.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Early stage AI lab based in San Francisco building the layer between unstructured data and enterprise systems.",
+    "one_liner": "AI Agents for Document Filling",
+    "team_size": 4,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1771907564,
+    "tags": [
+      "Documents",
+      "B2B",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/qomplement",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/qomplement.json"
+  },
+  {
     "id": 31407,
     "name": "Sherpa",
     "slug": "sherpa",
@@ -33931,7 +34100,6 @@
     "subindustry": "Healthcare -> Healthcare Services",
     "launched_at": 1775511630,
     "tags": [
-      "Healthcare",
       "AI"
     ],
     "tags_highlighted": [],
@@ -34045,18 +34213,19 @@
     "name": "Ontora",
     "slug": "ontora",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5b5f0e82806f29d679d7c7804c5a08a0c2cfb15c.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/51ba58b94e0a45c3a3cc270067fe72dcf1f9027e.png",
     "website": "https://ontora.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Ontora unlocks real-time operational knowledge across the company, helping leaders make faster decisions at a fraction of the cost and delay of traditional consulting.",
+    "long_description": "Ontora gives C-suite leaders AI agents that interview every employee to uncover process bottlenecks across their organization. Consultants spend months doing this manually; Ontora does it in hours",
     "one_liner": "We help managers regain control of their organisations",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1773487694,
     "tags": [
-      "Robotic Process Automation",
-      "Feedback",
+      "B2B",
+      "Analytics",
+      "Operations",
       "AI"
     ],
     "tags_highlighted": [],
@@ -34076,7 +34245,7 @@
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
-    "question_answers": false,
+    "question_answers": true,
     "url": "https://www.ycombinator.com/companies/ontora",
     "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/ontora.json"
   },
@@ -34088,7 +34257,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ca6ef21e7c765ce2b9f612cc2ec833a2654c6bd4.png",
     "website": "https://keyframelabs.com",
     "all_locations": "",
-    "long_description": "Our interactive video models turn agents into lifelike video calls. Deploy in minutes with a few lines of embed code. Photorealism, emotion, and scale for just $0.06 per minute.",
+    "long_description": "Our real-time, generative models turn AI into lifelike video calls. Deploy in minutes with a few lines of embed code. Photorealism, emotion, and scale for just $0.06 per minute.",
     "one_liner": "Turn agents into lifelike video calls. $0.06 a minute.",
     "team_size": 2,
     "industry": "B2B",
@@ -34164,6 +34333,50 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/mount",
     "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/mount.json"
+  },
+  {
+    "id": 31489,
+    "name": "Eden",
+    "slug": "edenrobotics",
+    "former_names": [
+      "Eden Robotics Inc."
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d769c33ef07da11294e43bb975e258d0ec8c712e.png",
+    "website": "https://www.edenrobotics.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "We're building robots that just work and use them to deliver autonomous services at scale. Our first use case is semi-humanoid robots for manufacturing and logistics. Unlike traditional robotics companies, we don't sell robots, we provide physical agents for hire where companies pay for the robots based on usage, decreasing the barrier to entry and expanding the robotics market as a whole.",
+    "one_liner": "Autonomous services for humanity.",
+    "team_size": 4,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Manufacturing and Robotics",
+    "launched_at": 1775447037,
+    "tags": [
+      "Robotic Process Automation",
+      "Robotics",
+      "Automation",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Manufacturing and Robotics"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/edenrobotics",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/edenrobotics.json"
   },
   {
     "id": 31491,

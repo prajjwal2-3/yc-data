@@ -26343,9 +26343,9 @@
     "subindustry": "Fintech",
     "launched_at": 1654737893,
     "tags": [
+      "Artificial Intelligence",
       "Fintech",
       "B2B",
-      "AI",
       "AI Assistant"
     ],
     "tags_highlighted": [],
@@ -27925,18 +27925,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/86c20a802b3a2e0667f7dcdc7fa4c4cb22913691.png",
     "website": "https://intunedhq.com",
     "all_locations": "Kirkland, WA, USA",
-    "long_description": "Intuned is an AI enabled cloud platform to author, deploy, and monitor integrations to extract web data and execute browser automation. We enable engineers to build reliable integrations to access data and complete actions on other web services when official APIs are not available or complete.",
-    "one_liner": "Reliably integrate with websites that don’t have official APIs",
-    "team_size": 7,
+    "long_description": "Intuned is a code-first browser automation platform with an AI agent that builds and maintains your automations. Developers use Intuned to deploy scrapers, RPAs, and crawlers as production-ready TypeScript or Python projects — with stealth, CAPTCHA solving, proxies, auth, and scheduling handled out of the box. The agent builds projects from a prompt, fixes failed runs, and can self-heal automations autonomously when websites change.",
+    "one_liner": "Code-first scrapers and RPAs — built and maintained by AI",
+    "team_size": 15,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1657233376,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "Robotic Process Automation",
       "B2B",
-      "API"
+      "API",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -29179,18 +29179,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6efa2d71f0a1a589e982662a2f6c1a1eab9c259b.png",
     "website": "http://www.palomma.com/",
     "all_locations": "Medellín, Antioquia, Colombia",
-    "long_description": "Palomma builds vertical AI agents and payments for residential property managers and developers to help them sell more and automate their operations. Their first three agents focus on inbound leasing, outbound sales and collections (+ embedded payments).",
-    "one_liner": "AI Agents for Residential Property Managers & Real Estate Developers",
+    "long_description": "Palomma is building the AI-native bank for real estate in LatAm. We start with AI agents for property managers (leasing, sales, collections), then add payments to own the flow of rent. This unlocks credit and insurance products to monetize on the $235Bn of rental flows from tenants and landlords.",
+    "one_liner": "AI & financial services for real estate in LatAm, starting by rent",
     "team_size": 8,
     "industry": "Real Estate and Construction",
     "subindustry": "Real Estate and Construction",
     "launched_at": 1677732513,
     "tags": [
-      "Artificial Intelligence",
       "SaaS",
       "Payments",
       "Finance",
-      "B2B"
+      "B2B",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -34429,15 +34429,15 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Strada automates insurance operations with AI agents. We deploy agents that handle policy servicing and claims operations end-to-end for some of the largest insurance carriers and brokers in the US. With native integrations into core policy, claims and agency management systems, we automate complex workflows with the domain expertise and compliance guardrails the industry demands.",
     "one_liner": "AI agents that run insurance operations",
-    "team_size": 14,
+    "team_size": 18,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1690570692,
     "tags": [
+      "Artificial Intelligence",
       "SaaS",
       "B2B",
-      "Insurance",
-      "AI"
+      "Insurance"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -37919,7 +37919,7 @@
     "all_locations": "New York, NY, USA",
     "long_description": "Bayesline is building a GPU-powered financial analytics suite for institutional investors, like hedge funds. \r\n\r\nClients use our cloud deployed solution to build custom analytics in seconds, having previously been frustrated with off the shelf solutions that don't generate any alpha. What used to take weeks or months now happens near instantly. \r\n\r\nSebastian, CFA (ex Bloomberg Quant & AI Research) and Misha, PhD (ex BlackRock Managing Director) met while working at BlackRock in 2016. With a combined 20 years of experience in the space they set out to change the way the industry uses analytics - from one size doesn't fit all to truly tailored to clients' needs.",
     "one_liner": "Highly customizable and blazingly fast analytics for asset managers.",
-    "team_size": 2,
+    "team_size": 3,
     "industry": "Fintech",
     "subindustry": "Fintech -> Asset Management",
     "launched_at": 1722543223,
@@ -37932,7 +37932,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Summer 2024",
     "status": "Active",
@@ -42246,15 +42246,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/955d29f6fe86baf7c724d6dcd2933cef074c1171.png",
     "website": "https://outlit.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Outlit turns all your customer context across Stripe, PostHog, HubSpot, Slack, email, and more into one unified record so you can query across every tool and let agents monitor and act on signals across your stack.",
-    "one_liner": "Customer Context for Agents ",
+    "long_description": "Outlit turns every customer-facing tool in your stack, like Stripe, Granola, PostHog, Slack, Gmail, Pylon, and more, into one complete, queryable customer profile.\r\n\r\nWe resolve fragmented identity across mismatched records, extract structured facts and signals from unstructured interactions, and expose the result through CLI, MCP, and API. \r\n\r\nSo every person and agent in your company has the full context on every customer to work from.",
+    "one_liner": "Customer Context for Agents",
     "team_size": 2,
     "industry": "B2B",
-    "subindustry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
     "launched_at": 1736658447,
     "tags": [
       "Artificial Intelligence",
-      "B2B"
+      "B2B",
+      "API",
+      "Infrastructure"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -42263,7 +42265,8 @@
     "batch": "Winter 2025",
     "status": "Active",
     "industries": [
-      "B2B"
+      "B2B",
+      "Infrastructure"
     ],
     "regions": [
       "United States of America",
@@ -44361,6 +44364,50 @@
     "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2025/panels.json"
   },
   {
+    "id": 30646,
+    "name": "Humwork",
+    "slug": "humwork",
+    "former_names": [
+      "Qualify.bot"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/63357814f2f59989ae18e2736412df94c2d8bc31.png",
+    "website": "https://humwork.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Humwork lets AI agents chat with human experts in real-time. When AI agents like Claude Code or OpenClaw hit a wall, Humwork's MCP server connects them to a verified domain expert in under 30 seconds. Our experts include senior engineers, lawyers, marketers, designers, and more.",
+    "one_liner": "Connect AI agents to human experts in 30 seconds",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1753843448,
+    "tags": [
+      "Marketplace",
+      "SaaS",
+      "B2B",
+      "Remote Work",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/humwork",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/humwork.json"
+  },
+  {
     "id": 30652,
     "name": "OnDeck AI",
     "slug": "ondeck-ai",
@@ -44495,17 +44542,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e9eb3892f113b924e1c5b9bdf6d120ba559a45ff.png",
     "website": "https://proliferate.com?utm_source=yc&utm_medium=referral&utm_campaign=profile",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Proliferate gives coding agents production-grade infrastructure- sandboxed environments, event triggers, and verification workflows- so they can ship code end-to-end, not just write it.",
-    "one_liner": "The autonomous engineering organization",
+    "long_description": "Manage a fleet of agents locally or in the cloud. 100% open source and free to use. Built to help you do your life's work.",
+    "one_liner": "Manage a team of agents from your desktop",
     "team_size": null,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1749673205,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "SaaS",
-      "B2B"
+      "B2B",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -45418,7 +45465,7 @@
     "top_company": false,
     "isHiring": false,
     "nonprofit": false,
-    "batch": "Summer 2025",
+    "batch": "Spring 2026",
     "status": "Active",
     "industries": [
       "B2B",
@@ -45434,7 +45481,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/smartbase",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2025/smartbase.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/smartbase.json"
   },
   {
     "id": 30785,
@@ -45617,18 +45664,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9a1286c1ed0f215411585d2faaf1c76a245ee266.png",
     "website": "https://zavopay.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Zavo is the first AI-point of sale platform for restaurants.\r\n\r\nWe unify payments, point of sale, and AI agents into one seamless platform, allowing business to accept payments, manage operations and automate manual processes with Ai. \r\n\r\nFrom reservations, to payments to point of sale, we have built the full restaurant tech stack in-house with AI automation across all products.\r\n\r\nWe started Zavo in May 2025, currently over 400 businesses of different sizes use Zavo to accept payments and manage operations\r\n\r\n",
-    "one_liner": "AI Point of Sale for Restaurants ",
+    "long_description": "Zavo is the first AI-point of sale platform for restaurants.\r\n\r\nWe unify payments, point of sale, and AI agents into one seamless platform, allowing business to accept payments, manage operations and automate manual processes with Ai. \r\n\r\nFrom reservations, to payments to point of sale, we have built the full restaurant tech stack in-house with AI automation across all products.\r\n\r\nWe started Zavo in May 2025, currently over 800 businesses of different sizes use Zavo to accept payments and manage operations\r\n\r\n",
+    "one_liner": "AI Operating System for Restaurants ",
     "team_size": 8,
     "industry": "Fintech",
     "subindustry": "Fintech -> Payments",
     "launched_at": 1758482945,
     "tags": [
-      "Artificial Intelligence",
       "Fintech",
       "Payments",
       "B2B",
-      "Restaurant Tech"
+      "Restaurant Tech",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -45872,7 +45919,7 @@
     "slug": "dari",
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/db1cb9787e09629b6ccb1639f659a5f8d0bb21b1.png",
-    "website": "https://usedari.com",
+    "website": "https://dari.dev",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "A platform where users can automate web workflows using natural language prompts.\r\n\r\nWe handle deterministic playback of browser workflows and fall back to LLMs where necessary, ensuring reliability. ",
     "one_liner": "An API to build the most reliable browser use agents",
@@ -46779,8 +46826,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c12ccaaa4d43530a4f13abb208362f187f33e86d.png",
     "website": "https://www.uselemma.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Lemma enables AI agents to continuously improve from user feedback and production outcomes. Instead of relying on manual prompt tuning and reactive debugging, Lemma detects when an agent’s performance drifts, pinpoints the exact step causing failures, generates optimized prompt candidates, and automatically delivers improvements through our API or by opening a pull request in your codebase. \r\n\r\nBuilt by ex-AI engineers who felt this pain firsthand, Lemma turns static agents into self-improving systems, helping teams ship reliable AI products faster with compounding performance gains over time. \r\n\r\nDeploy 1x. Learn forever.",
-    "one_liner": "Continuous learning for AI agents",
+    "long_description": "Lemma catches the silent, semantic failures your observability tools miss, where your AI agent looks like it worked but didn’t. We scan every trace to surface issues before users complain, identify root causes, and help you fix them without manual digging, so your agents improve over time.",
+    "one_liner": "Reliability platform for AI agents",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -47347,10 +47394,10 @@
       "Singlevox",
       "deep engage"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/04b93245a278c0a3095e4e4e1c3979b316a38a05.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/752bdfb2238c1fa320f09fc4cdb59b41472091d6.png",
     "website": "https://pulsent.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Pulsent continuously watches how your users interacts with your product and engages them at the right moment to convert, upsell, and retain. \r\n\r\nAs companies scale, founders, account managers and customer success teams can only take care of a small fraction of users. The rest receive generic, annoying and poorly timed communication. Opportunities are missed, customers churn, and revenue is lost.\r\n\r\nThe core problem is that user behavior is fragmented across tools like PostHog, Stripe, Salesforce, etc., making it impossible to understand users in real time. We unify all data into a single view and let AI agents act on top. This only recently became possible with advances in visual AI (dec ‘25), allowing agents to watch sessions and understand behavior at human or better level.\r\n\r\nPulsent detects expansion and churn signals, prioritizes high-value accounts, and executes through AI agents across channels like email, LinkedIn, and WhatsApp. It increases conversion and reduces churn without adding headcount.\r\n\r\nWe already have paying customers, process hundreds of millions of events daily, and are seeing strong demand from PLG B2B Clients. Nicolò is an ex-BCG who has scaled two startups to millions in ARR. Arseniy worked for several years at Datadog handling billions of datapoints. We’ve worked together for 3+ years and experienced this problem firsthand in our previous startup.",
+    "long_description": "Pulsent continuously watches how your users and interacts with your product and engages them at the right moment to convert, upsell, and retain. \r\n\r\nAs companies scale, founders, account managers and customer success teams can only take care of a small fraction of users. The rest receive generic, annoying and poorly timed communication. Opportunities are missed, customers churn, and revenue is lost.\r\n\r\nThe core problem is that user behavior is fragmented across tools like PostHog, Stripe, Salesforce, etc., making it impossible to understand users in real time. We unify all data into a single view and let AI agents act on top. This only recently became possible with advances in visual AI (dec ‘25), allowing agents to watch sessions and understand behavior at human or better level.\r\n\r\nPulsent detects expansion and churn signals, prioritizes high-value accounts, and executes through AI agents across channels like email, LinkedIn, and WhatsApp. It increases conversion and reduces churn without adding headcount.\r\n\r\nWe already have paying customers, process hundreds of millions of events daily, and are seeing strong demand from PLG B2B Clients. Nicolò is an ex-BCG who has scaled two startups to millions in ARR. Arseniy worked for several years at Datadog handling billions of datapoints. We’ve worked together for 3+ years and experienced this problem firsthand in our previous startup.",
     "one_liner": "AI Agents that watch, engage and convert your users.",
     "team_size": 2,
     "industry": "B2B",
@@ -47442,8 +47489,8 @@
     "launched_at": 1771907564,
     "tags": [
       "Documents",
-      "Artificial Intelligence",
-      "B2B"
+      "B2B",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -47632,6 +47679,47 @@
     "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/lab0.json"
   },
   {
+    "id": 31428,
+    "name": "Ontora",
+    "slug": "ontora",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/51ba58b94e0a45c3a3cc270067fe72dcf1f9027e.png",
+    "website": "https://ontora.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Ontora gives C-suite leaders AI agents that interview every employee to uncover process bottlenecks across their organization. Consultants spend months doing this manually; Ontora does it in hours",
+    "one_liner": "We help managers regain control of their organisations",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1773487694,
+    "tags": [
+      "B2B",
+      "Analytics",
+      "Operations",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": true,
+    "url": "https://www.ycombinator.com/companies/ontora",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/ontora.json"
+  },
+  {
     "id": 31432,
     "name": "Keyframe Labs",
     "slug": "keyframe-labs",
@@ -47639,7 +47727,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ca6ef21e7c765ce2b9f612cc2ec833a2654c6bd4.png",
     "website": "https://keyframelabs.com",
     "all_locations": "",
-    "long_description": "Our interactive video models turn agents into lifelike video calls. Deploy in minutes with a few lines of embed code. Photorealism, emotion, and scale for just $0.06 per minute.",
+    "long_description": "Our real-time, generative models turn AI into lifelike video calls. Deploy in minutes with a few lines of embed code. Photorealism, emotion, and scale for just $0.06 per minute.",
     "one_liner": "Turn agents into lifelike video calls. $0.06 a minute.",
     "team_size": 2,
     "industry": "B2B",

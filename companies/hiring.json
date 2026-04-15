@@ -184,7 +184,7 @@
     "website": "https://www.ycombinator.com",
     "all_locations": "",
     "long_description": "Make something people want.",
-    "one_liner": "xxxx",
+    "one_liner": "Make something people want.",
     "team_size": 100,
     "industry": "Fintech",
     "subindustry": "Fintech",
@@ -4975,16 +4975,16 @@
     "all_locations": "San Francisco, CA, USA; Remote",
     "long_description": "MDalgorithms is revolutionizing dermatology by delivering convenient, effective AI-powered solutions for skin and hair care. Since pioneering machine-learning models for acne treatment in 2017, we’ve advanced to develop the world’s first AI-powered scalp analysis for hair regrowth.\r\n\r\nOur proprietary AI technology, built entirely in-house, analyzes blemishes, lesions, and hair conditions with unmatched precision, utilizing the largest global dataset of acne and scalp images. Clinically validated and tested by dermatologists, our personalized treatment kits—MDacne for acne and MDhair for hair regrowth—are customized to each individual’s unique needs, combining over 100 medical and botanical ingredients for optimal results.\r\n\r\nWe empower users to track their progress, adjust treatments as needed, and access real-time support from our team of dermatologists and nurses. By doing so, we make personalized dermatological care accessible to all.",
     "one_liner": "Democratizing Dermatology with AI ",
-    "team_size": 25,
+    "team_size": 40,
     "industry": "Healthcare",
     "subindustry": "Healthcare -> Consumer Health and Wellness",
     "launched_at": 1478144434,
     "tags": [
+      "Artificial Intelligence",
       "Consumer Health Services",
       "Consumer",
       "Healthcare",
-      "Telemedicine",
-      "AI"
+      "Telemedicine"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -5002,7 +5002,7 @@
       "Remote",
       "Fully Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -11761,7 +11761,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3b4026f586058af29898fc57e3d2e84bdfcb4a09.png",
     "website": "http://outtalent.com",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "Bishkek, Chuy Province, Kyrgyzstan",
     "long_description": "We started Outtalent because we believe that talent is equally distributed, but opportunity is not and emerging markets have an exceptional number of great but undervalued engineers. We believe getting a job at one of the world’s best companies sets people on a great path to realize their full potential.\r\n\r\nOuttalent is funded by YCombinator, world-class venture capital funds, executives from Google and Facebook, and other angel investors who are passionate about our mission. We have already helped software engineers from Russia, Ukraine and Central Asia get jobs at Google, Amazon, Microsoft and many other companies in the US, Canada, and Europe.",
     "one_liner": "We help top engineers from emerging markets get jobs abroad at…",
     "team_size": 8,
@@ -11783,8 +11783,8 @@
       "Education"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada",
+      "Kyrgyzstan",
+      "Asia",
       "Remote",
       "Partly Remote"
     ],
@@ -16587,45 +16587,6 @@
     "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2020/afriex.json"
   },
   {
-    "id": 22174,
-    "name": "Lendtable",
-    "slug": "lendtable",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8031cfe03db3dc6248ec6d87e84fe7cd9c685577.png",
-    "website": "http://lendtable.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "1 in 4 Americans do not get their full 401(k) match. That means 25 million workers are leaving $24 billion on the table in free employer contributions. The primary reason these workers cannot get their match is because they do not have enough to both cover living expenses and invest. \r\n\r\nLendtable helps workers get thousands in additional income by giving them a cash advance to cover their living expenses so they can finally begin earning their employer match. Once their money has vested we take some of the match money earned in order to cover our expenses. \r\n\r\nWorkers now have thousands of dollars more without putting any money down, and we make money helping them do so -- we win if they win.",
-    "one_liner": "We give employees cash advances for their 401k match and ESPP",
-    "team_size": 20,
-    "industry": "Fintech",
-    "subindustry": "Fintech -> Credit and Lending",
-    "launched_at": 1596041310,
-    "tags": [
-      "Fintech"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Summer 2020",
-    "status": "Active",
-    "industries": [
-      "Fintech",
-      "Credit and Lending"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Growth",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/lendtable",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2020/lendtable.json"
-  },
-  {
     "id": 22184,
     "name": "Dumps",
     "slug": "dumps",
@@ -20222,7 +20183,7 @@
     "all_locations": "Dubai, United Arab Emirates",
     "long_description": "Ziina is bringing the next generation of financial services to the Middle East.",
     "one_liner": "A digital wallet for the Middle East & North Africa",
-    "team_size": 25,
+    "team_size": 57,
     "industry": "Fintech",
     "subindustry": "Fintech -> Consumer Finance",
     "launched_at": 1615710655,
@@ -24451,49 +24412,6 @@
     "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2021/infer.json"
   },
   {
-    "id": 24616,
-    "name": "Vibe Kanban",
-    "slug": "vibe-kanban",
-    "former_names": [
-      "bloop"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/773b39b8261f5827258bdc470dd1356bfb4e9ee4.png",
-    "website": "https://vibekanban.com",
-    "all_locations": "London, England, United Kingdom",
-    "long_description": "As AI agents become more capable at writing code, developers are spending more of their time planning and reviewing what those agents produce. Vibe Kanban helps them do exactly that, seamlessly integrating with leading coding agents like Anthropic’s Claude Code and OpenAI’s Codex.",
-    "one_liner": "Plan and review AI generated code",
-    "team_size": 10,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1629492105,
-    "tags": [
-      "Artificial Intelligence",
-      "Machine Learning",
-      "Open Source"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Summer 2021",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United Kingdom",
-      "Europe"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/vibe-kanban",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2021/vibe-kanban.json"
-  },
-  {
     "id": 24720,
     "name": "Storylane",
     "slug": "storylane",
@@ -25692,52 +25610,6 @@
     "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2022/sieve.json"
   },
   {
-    "id": 25309,
-    "name": "PolicyFly",
-    "slug": "policyfly",
-    "former_names": [
-      "PolicyFly",
-      "Inc."
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7570941b976b7bc56ac23e694bcfe99476db2d2d.png",
-    "website": "https://www.policyfly.com",
-    "all_locations": "New York, NY, USA; Remote",
-    "long_description": "PolicyFly empowers insurers to sell and manage specialty insurance in minutes instead of in weeks.\r\n\r\nEvery year, $200B of specialty insurance like Cyber, Flood or Trucking is processed over email between agents and insurers – PolicyFly connects both parties to automate these workflows and to consolidate all data. \r\n\r\nWe bring growth, efficiency and transparency to otherwise hard to insure markets.",
-    "one_liner": "Modernizing Specialty Insurance",
-    "team_size": 30,
-    "industry": "Fintech",
-    "subindustry": "Fintech -> Insurance",
-    "launched_at": 1648055687,
-    "tags": [
-      "Marketplace",
-      "Insurance",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Winter 2022",
-    "status": "Active",
-    "industries": [
-      "Fintech",
-      "Insurance"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Fully Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/policyfly",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2022/policyfly.json"
-  },
-  {
     "id": 25316,
     "name": "Trébol",
     "slug": "trebol",
@@ -26100,20 +25972,21 @@
   },
   {
     "id": 25363,
-    "name": "Gym Class - by IRL Studios",
-    "slug": "gym-class-by-irl-studios",
+    "name": "Gym Class",
+    "slug": "gym-class",
     "former_names": [
       "IRL Studios Inc.",
-      "Gym Class (by IRL Studios)."
+      "Gym Class (by IRL Studios).",
+      "Gym Class - by IRL Studios"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/90fc62ba6240bfed64d6f34df4390cc401252d92.png",
     "website": "https://gymclass.com",
     "all_locations": "Los Angeles, CA, USA; Remote",
-    "long_description": "Gym Class is a top-rated social game for virtual reality. Download to make friends and hangout, compete and play sports, or create and explore in simulated worlds. Join us on our mission is to connect the world by simulating it.",
+    "long_description": "Gym Class is a social platform where you can play games, make friends, and create and share your own experiences. Join a community of millions across virtual reality and mobile.",
     "one_liner": "Connecting the world by simulating it",
     "team_size": 20,
     "industry": "Consumer",
-    "subindustry": "Consumer -> Virtual and Augmented Reality",
+    "subindustry": "Consumer -> Social",
     "launched_at": 1642203216,
     "tags": [
       "Artificial Intelligence",
@@ -26130,7 +26003,7 @@
     "status": "Active",
     "industries": [
       "Consumer",
-      "Virtual and Augmented Reality"
+      "Social"
     ],
     "regions": [
       "United States of America",
@@ -26138,13 +26011,13 @@
       "Remote",
       "Fully Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/gym-class-by-irl-studios",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2022/gym-class-by-irl-studios.json"
+    "url": "https://www.ycombinator.com/companies/gym-class",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2022/gym-class.json"
   },
   {
     "id": 25381,
@@ -27435,47 +27308,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/curacel",
     "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2022/curacel.json"
-  },
-  {
-    "id": 25689,
-    "name": "Kaagaz",
-    "slug": "kaagaz",
-    "former_names": [
-      "Ordenado Labs Pvt. Ltd."
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f271350ee43aa2c95ce0719ddd066e79505b3730.png",
-    "website": "https://kaagaz.app",
-    "all_locations": "New Delhi, DL, India",
-    "long_description": "Kaagaz is an 'Office' Suite for Mobile-first Businesses in India. With Kaagaz, these users can manage all the document requirements for their business using their smartphone itself, without needing a Desktop.\r\n\r\nWe have an active user base of 3Mn+ users and paid users north of 60,000+ - growing every month.\r\n\r\nWith over 200M such businesses in India, at $15/year subscription price, this a $3B opportunity in India & much larger globally.\r\n\r\nWe are a team of 2nd time entrepreneurs having scaled the pervious startup to $1M in GMV. We are backed by YCombinator, Goodwater Capital, Pravega Venture, Better Capital & other investors including Alan Rutledge (TrendMD) and Farid Ahsan (Sharechat)",
-    "one_liner": "'Office' Suite for Mobile-first Businesses in India",
-    "team_size": 11,
-    "industry": "Consumer",
-    "subindustry": "Consumer",
-    "launched_at": 1643865753,
-    "tags": [
-      "SaaS",
-      "India"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Winter 2022",
-    "status": "Active",
-    "industries": [
-      "Consumer"
-    ],
-    "regions": [
-      "India",
-      "South Asia"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/kaagaz",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2022/kaagaz.json"
   },
   {
     "id": 25691,
@@ -31434,9 +31266,9 @@
     "subindustry": "Fintech",
     "launched_at": 1654737893,
     "tags": [
+      "Artificial Intelligence",
       "Fintech",
       "B2B",
-      "AI",
       "AI Assistant"
     ],
     "tags_highlighted": [],
@@ -31461,52 +31293,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/aviaryai",
     "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2022/aviaryai.json"
-  },
-  {
-    "id": 26912,
-    "name": "Quinn",
-    "slug": "quinn",
-    "former_names": [
-      "iollo"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5bd3e4de086fbafd70c63dbae211f55425382f05.png",
-    "website": "https://www.quinnbio.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Quinn is the AI scientist for high-stakes decisions in drug development, from target discovery to commercial strategy. Defensible answers in days instead of months.",
-    "one_liner": "The AI scientist for high-stakes decisions in drug development",
-    "team_size": 4,
-    "industry": "Healthcare",
-    "subindustry": "Healthcare -> Drug Discovery and Delivery",
-    "launched_at": 1656567327,
-    "tags": [
-      "Generative AI",
-      "Biotech",
-      "Enterprise",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Summer 2022",
-    "status": "Active",
-    "industries": [
-      "Healthcare",
-      "Drug Discovery and Delivery"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/quinn",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2022/quinn.json"
   },
   {
     "id": 26913,
@@ -38597,18 +38383,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7f3b1efd47e85f38279cafba940ec0988913d113.png",
     "website": "https://decodahealth.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Medical practices struggle with front desk shortages and nonstop admin work—ringing phones, scheduling mishaps, intake errors, and billing headaches. The result? Overworked staff and less time for patient care.\r\n\r\nDecoda Health’s AI platform takes over 80% of these tedious tasks, handling calls, scheduling, and payments while alerting staff only when necessary. By reducing chaos and streamlining operations, teams can focus on what truly matters—providing exceptional patient care.",
-    "one_liner": "AI-powered platform automating medical practice operations",
-    "team_size": 9,
+    "long_description": "Med spas, wellness clinics, and aesthetics practices run on 5-10 disconnected tools — separate systems for scheduling, charting, payments, patient communication, and more. It's expensive, error-prone, and holds teams back.\r\n\r\nDecoda is the all-in-one EMR and practice management platform purpose-built for elective care. AI is woven into every workflow — from an AI front desk that answers calls and books patients 24/7, to an ambient scribe that generates clinical notes in real time, to automated patient follow-ups that keep calendars full. Scheduling, payments, memberships, inventory, and analytics all live in one place.\r\n\r\nLive in 150+ clinics, processing $100M+ in annual transactions.",
+    "one_liner": "The all-in-one EMR built for med spas and elective care",
+    "team_size": 15,
     "industry": "Healthcare",
     "subindustry": "Healthcare -> Healthcare IT",
     "launched_at": 1689972321,
     "tags": [
       "Artificial Intelligence",
-      "Messaging",
+      "SaaS",
       "Digital Health",
-      "Healthcare IT",
-      "Billing"
+      "Healthcare IT"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -40012,15 +39797,15 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Strada automates insurance operations with AI agents. We deploy agents that handle policy servicing and claims operations end-to-end for some of the largest insurance carriers and brokers in the US. With native integrations into core policy, claims and agency management systems, we automate complex workflows with the domain expertise and compliance guardrails the industry demands.",
     "one_liner": "AI agents that run insurance operations",
-    "team_size": 14,
+    "team_size": 18,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1690570692,
     "tags": [
+      "Artificial Intelligence",
       "SaaS",
       "B2B",
-      "Insurance",
-      "AI"
+      "Insurance"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -40870,6 +40655,44 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/onyx",
     "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2024/onyx.json"
+  },
+  {
+    "id": 29180,
+    "name": "Gumloop",
+    "slug": "gumloop",
+    "former_names": [
+      "AgentHub"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9fb7e0ce6656ba8369bfc7fdddd4235e6657221b.png",
+    "website": "https://www.gumloop.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Gumloop is a platform for automating repetitive and complex workflows end-to-end with AI. \r\n\r\nBuilders drag, drop, and connect modular components onto a canvas to build powerful automations.\r\n\r\nWe provide the tools and the infrastructure to operate at 10x the speed of writing, testing, and productionizing code so you can focus on the problem at hand. ",
+    "one_liner": "A no-code platform for creating agents and automating workflows with…",
+    "team_size": 25,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1690004343,
+    "tags": [],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2024",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Growth",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/gumloop",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2024/gumloop.json"
   },
   {
     "id": 29181,
@@ -44972,6 +44795,50 @@
     "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2024/forge.json"
   },
   {
+    "id": 29508,
+    "name": "CrowdVolt",
+    "slug": "crowdvolt",
+    "former_names": [
+      "Mirage Match"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/49d2b2fe60b70ec0fe7e8a8f8b9fc420d26c4098.png",
+    "website": "https://crowdvolt.com/",
+    "all_locations": "New York, NY, USA",
+    "long_description": "CrowdVolt is rebuilding the infrastructure for live events, starting with an automated marketplace for raves and electronic dance music.",
+    "one_liner": "The integration layer for live events infrastructure ",
+    "team_size": 8,
+    "industry": "Consumer",
+    "subindustry": "Consumer",
+    "launched_at": 1708402036,
+    "tags": [
+      "Marketplace",
+      "Entertainment",
+      "Social Network",
+      "Music",
+      "Infrastructure"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2024",
+    "status": "Active",
+    "industries": [
+      "Consumer"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/crowdvolt",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2024/crowdvolt.json"
+  },
+  {
     "id": 29509,
     "name": "Blacksmith",
     "slug": "blacksmith",
@@ -46053,6 +45920,51 @@
     "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2024/unsloth-ai.json"
   },
   {
+    "id": 29636,
+    "name": "Bayesline",
+    "slug": "bayesline",
+    "former_names": [
+      "Bayesline, Inc."
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8a34bad8ff76fdef00535145a04bd76a11f215b1.png",
+    "website": "https://bayesline.com",
+    "all_locations": "New York, NY, USA",
+    "long_description": "Bayesline is building a GPU-powered financial analytics suite for institutional investors, like hedge funds. \r\n\r\nClients use our cloud deployed solution to build custom analytics in seconds, having previously been frustrated with off the shelf solutions that don't generate any alpha. What used to take weeks or months now happens near instantly. \r\n\r\nSebastian, CFA (ex Bloomberg Quant & AI Research) and Misha, PhD (ex BlackRock Managing Director) met while working at BlackRock in 2016. With a combined 20 years of experience in the space they set out to change the way the industry uses analytics - from one size doesn't fit all to truly tailored to clients' needs.",
+    "one_liner": "Highly customizable and blazingly fast analytics for asset managers.",
+    "team_size": 3,
+    "industry": "Fintech",
+    "subindustry": "Fintech -> Asset Management",
+    "launched_at": 1722543223,
+    "tags": [
+      "Fintech",
+      "Finance",
+      "B2B",
+      "Analytics",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2024",
+    "status": "Active",
+    "industries": [
+      "Fintech",
+      "Asset Management"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": true,
+    "url": "https://www.ycombinator.com/companies/bayesline",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2024/bayesline.json"
+  },
+  {
     "id": 29644,
     "name": "VideoGen",
     "slug": "videogen",
@@ -46519,7 +46431,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/83e6dd01545303c123ca60f1dcf8bdc7566497c5.png",
     "website": "https://cloudglue.dev",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Cloudglue is the video context layer for AI. We make it easy for your AI to understand video.\r\n\r\n-> Developer API Platform: https://cloudglue.dev\r\n-> Tinycloud - your AI agent for video: https://tinycloud.cloudglue.dev",
+    "long_description": "Cloudglue is the video context layer for AI. We make it easy for your AI to understand video.\r\n- Tinycloud - your AI agent for video, now open for beta: https://tinycloud.cloudglue.dev\r\n- Developer API Platform: https://cloudglue.dev\r\n",
     "one_liner": "The video context layer for AI.",
     "team_size": 4,
     "industry": "B2B",
@@ -48482,44 +48394,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/simple-ai",
     "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2024/simple-ai.json"
-  },
-  {
-    "id": 29788,
-    "name": "Refactor",
-    "slug": "refactor",
-    "former_names": [
-      "Affix",
-      "Blast"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/45a371e602b123c726fb74d27c73504797f68a62.png",
-    "website": "https://refactor.co",
-    "all_locations": "",
-    "long_description": "Refactor works closely with large organizations across healthcare, retail, and logistics to safely tackle their most ambitious AI use-cases in record time. We focus on building autonomous systems that call, click, and navigate legacy software systems. We have worked with companies serving tens of millions of customers and with $50B+ annual revenue. ",
-    "one_liner": "Deploying secure and reliable AI agents across healthcare, retail,…",
-    "team_size": 3,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1724647952,
-    "tags": [],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Summer 2024",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "Unspecified"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/refactor",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2024/refactor.json"
   },
   {
     "id": 29789,
@@ -53105,7 +52979,7 @@
     "all_locations": "New York, NY, USA",
     "long_description": "Misprint is an all-in-one marketplace that solves the biggest pain point in the collectibles world: opaque pricing. Collectors, investors, and hobbyists currently rely on scattered data from auction houses, online forums, and reseller platforms, making it difficult to know the true value of their items. Misprint streamlines the process by combining accurate pricing analytics with a seamless buy/sell marketplace, making it easier than ever to understand and monetize collectible assets.\r\n\r\nExisting marketplaces lack robust, real-time analytics because accurate valuations require deep expertise in both the collectibles domain and advanced pricing algorithms. Misprint’s unique blend of insider trading card knowledge and machine learning allows us to fill this gap.\r\n\r\nBuilding these pricing models requires extensive data infrastructure, deep domain expertise, and cutting-edge ML. Recent surges in the trading card market show that collectors crave transparent valuations.\r\n\r\nThe global collectibles market is worth tens of billions of dollars. Eva has experienced the scale of this industry firsthand, generating $500k ARR within three months of taking her Pokemon card-selling side hustle full-time. With additional segments like sports cards, comics, and emerging collectible categories, the growth runway is immense.\r\n\r\nCo-founders Eva and Jon have been best friends since Exeter, combining finance expertise, a passion for collectibles, and mathematical rigor. By merging Goldman Sachs-level financial analytics with top-tier mathematical talent, Misprint is uniquely positioned to become the go-to platform for fair, transparent pricing in the collectibles space.",
     "one_liner": "Misprint is building Robinhood for Pokemon cards",
-    "team_size": 5,
+    "team_size": 4,
     "industry": "Consumer",
     "subindustry": "Consumer",
     "launched_at": 1737236774,
@@ -55176,14 +55050,14 @@
     "all_locations": "Redwood City, CA, USA",
     "long_description": "We are building the data layer for AI, starting with audio.  \r\n\r\nWe start with data collection, curating our own proprietary set of diverse conversational data covering a wide range of languages, dialects and accents.  We then leverage human expert audio annotators and our own annotation platform to process audio data for Automatic Speech Recognition.  \r\n\r\nWith human level transcription and diarization, our data help push the audio model frontier.  Today we have over millions of hours of conversational data, and growing. \r\n\r\nIf you need audio data for training or evaluating your voice models or voice agents, reach out!  We offer flexible licensing deals that work for startups and enterprises, with minimal process.  \r\n\r\nAudio data should besimple :) ",
     "one_liner": "Voice data for AI",
-    "team_size": 5,
+    "team_size": 6,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1747861843,
     "tags": [
       "AIOps",
-      "Data Labeling",
-      "AI"
+      "Artificial Intelligence",
+      "Data Labeling"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -56045,6 +55919,48 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/prox",
     "api": "https://prajjwal2-3.github.io/yc-data/batches/fall-2025/prox.json"
+  },
+  {
+    "id": 30596,
+    "name": "Adaptional",
+    "slug": "adaptional",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8ea52a7c833e951c693eafd9561453164d5bf74c.png",
+    "website": "https://www.adaptional.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Adaptional is the first system of intelligence for insurance. Existing insurance systems organize work. Adaptional AI actually *does* the work.\r\n\r\nOur first product Underwriter AI pre processes every submission for an underwriter. AI extracts data from submission files, validates each data point using public sources, and summarizes risk using your underwriting guidelines.",
+    "one_liner": "AI underwriting for insurance",
+    "team_size": null,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1758589841,
+    "tags": [
+      "AIOps",
+      "Insurance",
+      "Enterprise",
+      "Enterprise Software",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/adaptional",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2025/adaptional.json"
   },
   {
     "id": 30598,
@@ -56930,17 +56846,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e9eb3892f113b924e1c5b9bdf6d120ba559a45ff.png",
     "website": "https://proliferate.com?utm_source=yc&utm_medium=referral&utm_campaign=profile",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Proliferate gives coding agents production-grade infrastructure- sandboxed environments, event triggers, and verification workflows- so they can ship code end-to-end, not just write it.",
-    "one_liner": "The autonomous engineering organization",
+    "long_description": "Manage a fleet of agents locally or in the cloud. 100% open source and free to use. Built to help you do your life's work.",
+    "one_liner": "Manage a team of agents from your desktop",
     "team_size": null,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1749673205,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "SaaS",
-      "B2B"
+      "B2B",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -58534,6 +58450,42 @@
     "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2025/veritus.json"
   },
   {
+    "id": 30799,
+    "name": "Avent",
+    "slug": "avent",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1db65d6a1bb5d7e7c777ac05121880f5ead05061.png",
+    "website": "https://www.aventindustrial.com",
+    "all_locations": "",
+    "long_description": "Avent helps manufacturers and industrial distributors run quoting and order entry on autopilot. \r\n\r\nOur AI agents manage sales inboxes, build quotes from past pricing and tribal knowledge, and keep records up to date in existing ERPs.",
+    "one_liner": "AI agents for industrial commerce",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1755109512,
+    "tags": [],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/avent",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2025/avent.json"
+  },
+  {
     "id": 30801,
     "name": "burnt",
     "slug": "burnt",
@@ -59075,42 +59027,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/deeptrace",
     "api": "https://prajjwal2-3.github.io/yc-data/batches/fall-2025/deeptrace.json"
-  },
-  {
-    "id": 30861,
-    "name": "Caddy",
-    "slug": "caddy",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/bac17a1edc08045fefbaf98ea25aab130faa01de.png",
-    "website": "https://trycaddy.ai/",
-    "all_locations": "",
-    "long_description": "Caddy is the operating system that works proactively for you. It learns how you work and acts on your behalf, keeping work moving while your context and voice stay intact.\r\n\r\nInstead of producing generic AI output, Caddy creates real work artifacts that sound like you and fit how you actually work. Today, it operates across the tools you use every day, including email, calendar, Slack, Linear, and Notion.\r\n\r\nCaddy is built by the team behind Loom’s AI and core product. We believe the next era of computing is software that understands intent, handles ambiguous work, and quietly gets work done in the background.",
-    "one_liner": "The voice interface that works proactively for you",
-    "team_size": 3,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1761153567,
-    "tags": [],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Fall 2025",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "Unspecified"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/caddy",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/fall-2025/caddy.json"
   },
   {
     "id": 30877,
@@ -61144,7 +61060,7 @@
     "all_locations": "",
     "long_description": "Maywood automates deal execution for investment banks, from decks to diligence\r\n\r\nThe Maywood platform automatically generates finished, on-brand CIMs / presentations, models, and diligence responses that prioritizes editability and auditability, with best-in-class security ensuring information stays protected.\r\n\r\nMaywood reinvents the deal process with a single, living workspace for every deal.",
     "one_liner": "Automating the entire IB deal workflow",
-    "team_size": 5,
+    "team_size": 3,
     "industry": "Fintech",
     "subindustry": "Fintech -> Banking and Exchange",
     "launched_at": 1770247865,
@@ -62062,17 +61978,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d769c33ef07da11294e43bb975e258d0ec8c712e.png",
     "website": "https://www.edenrobotics.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "We're building robots that just work and use them to deliver autonomous services at scale.",
+    "long_description": "We're building robots that just work and use them to deliver autonomous services at scale. Our first use case is semi-humanoid robots for manufacturing and logistics. Unlike traditional robotics companies, we don't sell robots, we provide physical agents for hire where companies pay for the robots based on usage, decreasing the barrier to entry and expanding the robotics market as a whole.",
     "one_liner": "Autonomous services for humanity.",
     "team_size": 4,
     "industry": "Industrials",
     "subindustry": "Industrials -> Manufacturing and Robotics",
     "launched_at": 1775447037,
     "tags": [
-      "Artificial Intelligence",
       "Robotic Process Automation",
       "Robotics",
-      "Automation"
+      "Automation",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,

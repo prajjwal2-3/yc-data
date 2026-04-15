@@ -261,45 +261,5 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/conveo",
     "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2024/conveo.json"
-  },
-  {
-    "id": 31428,
-    "name": "Ontora",
-    "slug": "ontora",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5b5f0e82806f29d679d7c7804c5a08a0c2cfb15c.png",
-    "website": "https://ontora.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Ontora unlocks real-time operational knowledge across the company, helping leaders make faster decisions at a fraction of the cost and delay of traditional consulting.",
-    "one_liner": "We help managers regain control of their organisations",
-    "team_size": 3,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1773487694,
-    "tags": [
-      "Robotic Process Automation",
-      "Feedback",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Spring 2026",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/ontora",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/ontora.json"
   }
 ]

@@ -1,5 +1,96 @@
 [
   {
+    "id": 30646,
+    "name": "Humwork",
+    "slug": "humwork",
+    "former_names": [
+      "Qualify.bot"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/63357814f2f59989ae18e2736412df94c2d8bc31.png",
+    "website": "https://humwork.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Humwork lets AI agents chat with human experts in real-time. When AI agents like Claude Code or OpenClaw hit a wall, Humwork's MCP server connects them to a verified domain expert in under 30 seconds. Our experts include senior engineers, lawyers, marketers, designers, and more.",
+    "one_liner": "Connect AI agents to human experts in 30 seconds",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1753843448,
+    "tags": [
+      "Marketplace",
+      "SaaS",
+      "B2B",
+      "Remote Work",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/humwork",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/humwork.json"
+  },
+  {
+    "id": 30779,
+    "name": "Smartbase",
+    "slug": "smartbase",
+    "former_names": [
+      "Glade",
+      "Sandfish",
+      "Anytrace"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2468a3c8a7c5f1a0405c0920fd164d3512f5b6f7.png",
+    "website": "https://www.smartbase.so/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Smartbase automates order entry for manufacturers.\r\n\r\nToday, incoming purchase orders are still entered into the ERP by hand. This often requires multiple full-time employees, even at small manufacturers.\r\n\r\nSmartbase removes this manual work by automatically converting incoming purchase orders into ERP orders.\r\n\r\nWe’ve worked on factory floors, sat side-by-side with employees to learn their workflows, and even slept at a factory. We’re now onboarding our first customers onto five-figure annual contracts.\r\n\r\nThis is our wedge into automating the $26 billion clerical labor market in U.S. manufacturing.\r\n\r\nSam previously founded a DevOps platform that raised $2M. Taira was the youngest SDE 2 at AWS SageMaker Inference, where he built AI infrastructure for enterprises such as Salesforce.",
+    "one_liner": "Automated order entry for manufacturers",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Operations",
+    "launched_at": 1753758221,
+    "tags": [
+      "SaaS",
+      "B2B",
+      "Workflow Automation",
+      "Manufacturing",
+      "Automation"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Operations"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/smartbase",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/smartbase.json"
+  },
+  {
     "id": 30944,
     "name": "HireGlide",
     "slug": "hireglide",
@@ -86,6 +177,49 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/clara-2",
     "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/clara-2.json"
+  },
+  {
+    "id": 31076,
+    "name": "Imperfect",
+    "slug": "imperfect",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/002fb81dd9c99e80efddd89e683644b3b238f04e.png",
+    "website": "https://imperfect.co",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Imperfect connects your wearables, training platforms, and health apps into one AI coach focused on getting you race day ready. Where other tools give you a fixed plan like MapQuest, Imperfect is Waze, adapting your training, recovery, and nutrition to how your body is actually responding.",
+    "one_liner": "AI coach that connects your wearables to get you race day ready",
+    "team_size": 5,
+    "industry": "Consumer",
+    "subindustry": "Consumer",
+    "launched_at": 1776207717,
+    "tags": [
+      "Fitness",
+      "Health & Wellness",
+      "AI",
+      "AI Assistant"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "Consumer"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/imperfect",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/imperfect.json"
   },
   {
     "id": 31102,
@@ -1150,10 +1284,10 @@
       "Singlevox",
       "deep engage"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/04b93245a278c0a3095e4e4e1c3979b316a38a05.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/752bdfb2238c1fa320f09fc4cdb59b41472091d6.png",
     "website": "https://pulsent.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Pulsent continuously watches how your users interacts with your product and engages them at the right moment to convert, upsell, and retain. \r\n\r\nAs companies scale, founders, account managers and customer success teams can only take care of a small fraction of users. The rest receive generic, annoying and poorly timed communication. Opportunities are missed, customers churn, and revenue is lost.\r\n\r\nThe core problem is that user behavior is fragmented across tools like PostHog, Stripe, Salesforce, etc., making it impossible to understand users in real time. We unify all data into a single view and let AI agents act on top. This only recently became possible with advances in visual AI (dec ‘25), allowing agents to watch sessions and understand behavior at human or better level.\r\n\r\nPulsent detects expansion and churn signals, prioritizes high-value accounts, and executes through AI agents across channels like email, LinkedIn, and WhatsApp. It increases conversion and reduces churn without adding headcount.\r\n\r\nWe already have paying customers, process hundreds of millions of events daily, and are seeing strong demand from PLG B2B Clients. Nicolò is an ex-BCG who has scaled two startups to millions in ARR. Arseniy worked for several years at Datadog handling billions of datapoints. We’ve worked together for 3+ years and experienced this problem firsthand in our previous startup.",
+    "long_description": "Pulsent continuously watches how your users and interacts with your product and engages them at the right moment to convert, upsell, and retain. \r\n\r\nAs companies scale, founders, account managers and customer success teams can only take care of a small fraction of users. The rest receive generic, annoying and poorly timed communication. Opportunities are missed, customers churn, and revenue is lost.\r\n\r\nThe core problem is that user behavior is fragmented across tools like PostHog, Stripe, Salesforce, etc., making it impossible to understand users in real time. We unify all data into a single view and let AI agents act on top. This only recently became possible with advances in visual AI (dec ‘25), allowing agents to watch sessions and understand behavior at human or better level.\r\n\r\nPulsent detects expansion and churn signals, prioritizes high-value accounts, and executes through AI agents across channels like email, LinkedIn, and WhatsApp. It increases conversion and reduces churn without adding headcount.\r\n\r\nWe already have paying customers, process hundreds of millions of events daily, and are seeing strong demand from PLG B2B Clients. Nicolò is an ex-BCG who has scaled two startups to millions in ARR. Arseniy worked for several years at Datadog handling billions of datapoints. We’ve worked together for 3+ years and experienced this problem firsthand in our previous startup.",
     "one_liner": "AI Agents that watch, engage and convert your users.",
     "team_size": 2,
     "industry": "B2B",
@@ -1309,6 +1443,46 @@
     "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/interfaze.json"
   },
   {
+    "id": 31388,
+    "name": "Elyra",
+    "slug": "elyra",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/dfc0518b0601b15bf131b045d7c9085b3ab4ac5e.png",
+    "website": "https://www.elyrasystems.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Elyra offers AI-powered restaurant systems with built-in voice and email agents that manage bookings, customer relationships and communication.",
+    "one_liner": "AI Systems for Restaurants",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1776156708,
+    "tags": [
+      "SaaS",
+      "Restaurant Tech",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/elyra",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/elyra.json"
+  },
+  {
     "id": 31396,
     "name": "qomplement",
     "slug": "qomplement",
@@ -1324,8 +1498,8 @@
     "launched_at": 1771907564,
     "tags": [
       "Documents",
-      "Artificial Intelligence",
-      "B2B"
+      "B2B",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -1614,7 +1788,6 @@
     "subindustry": "Healthcare -> Healthcare Services",
     "launched_at": 1775511630,
     "tags": [
-      "Healthcare",
       "AI"
     ],
     "tags_highlighted": [],
@@ -1893,18 +2066,19 @@
     "name": "Ontora",
     "slug": "ontora",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5b5f0e82806f29d679d7c7804c5a08a0c2cfb15c.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/51ba58b94e0a45c3a3cc270067fe72dcf1f9027e.png",
     "website": "https://ontora.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Ontora unlocks real-time operational knowledge across the company, helping leaders make faster decisions at a fraction of the cost and delay of traditional consulting.",
+    "long_description": "Ontora gives C-suite leaders AI agents that interview every employee to uncover process bottlenecks across their organization. Consultants spend months doing this manually; Ontora does it in hours",
     "one_liner": "We help managers regain control of their organisations",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1773487694,
     "tags": [
-      "Robotic Process Automation",
-      "Feedback",
+      "B2B",
+      "Analytics",
+      "Operations",
       "AI"
     ],
     "tags_highlighted": [],
@@ -1924,7 +2098,7 @@
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
-    "question_answers": false,
+    "question_answers": true,
     "url": "https://www.ycombinator.com/companies/ontora",
     "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/ontora.json"
   },
@@ -1980,7 +2154,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ca6ef21e7c765ce2b9f612cc2ec833a2654c6bd4.png",
     "website": "https://keyframelabs.com",
     "all_locations": "",
-    "long_description": "Our interactive video models turn agents into lifelike video calls. Deploy in minutes with a few lines of embed code. Photorealism, emotion, and scale for just $0.06 per minute.",
+    "long_description": "Our real-time, generative models turn AI into lifelike video calls. Deploy in minutes with a few lines of embed code. Photorealism, emotion, and scale for just $0.06 per minute.",
     "one_liner": "Turn agents into lifelike video calls. $0.06 a minute.",
     "team_size": 2,
     "industry": "B2B",
@@ -2842,17 +3016,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d769c33ef07da11294e43bb975e258d0ec8c712e.png",
     "website": "https://www.edenrobotics.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "We're building robots that just work and use them to deliver autonomous services at scale.",
+    "long_description": "We're building robots that just work and use them to deliver autonomous services at scale. Our first use case is semi-humanoid robots for manufacturing and logistics. Unlike traditional robotics companies, we don't sell robots, we provide physical agents for hire where companies pay for the robots based on usage, decreasing the barrier to entry and expanding the robotics market as a whole.",
     "one_liner": "Autonomous services for humanity.",
     "team_size": 4,
     "industry": "Industrials",
     "subindustry": "Industrials -> Manufacturing and Robotics",
     "launched_at": 1775447037,
     "tags": [
-      "Artificial Intelligence",
       "Robotic Process Automation",
       "Robotics",
-      "Automation"
+      "Automation",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,

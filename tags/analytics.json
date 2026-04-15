@@ -6780,7 +6780,7 @@
     "all_locations": "New York, NY, USA",
     "long_description": "Bayesline is building a GPU-powered financial analytics suite for institutional investors, like hedge funds. \r\n\r\nClients use our cloud deployed solution to build custom analytics in seconds, having previously been frustrated with off the shelf solutions that don't generate any alpha. What used to take weeks or months now happens near instantly. \r\n\r\nSebastian, CFA (ex Bloomberg Quant & AI Research) and Misha, PhD (ex BlackRock Managing Director) met while working at BlackRock in 2016. With a combined 20 years of experience in the space they set out to change the way the industry uses analytics - from one size doesn't fit all to truly tailored to clients' needs.",
     "one_liner": "Highly customizable and blazingly fast analytics for asset managers.",
-    "team_size": 2,
+    "team_size": 3,
     "industry": "Fintech",
     "subindustry": "Fintech -> Asset Management",
     "launched_at": 1722543223,
@@ -6793,7 +6793,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Summer 2024",
     "status": "Active",
@@ -7870,6 +7870,47 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/diligencesquared-inc",
     "api": "https://prajjwal2-3.github.io/yc-data/batches/fall-2025/diligencesquared-inc.json"
+  },
+  {
+    "id": 31428,
+    "name": "Ontora",
+    "slug": "ontora",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/51ba58b94e0a45c3a3cc270067fe72dcf1f9027e.png",
+    "website": "https://ontora.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Ontora gives C-suite leaders AI agents that interview every employee to uncover process bottlenecks across their organization. Consultants spend months doing this manually; Ontora does it in hours",
+    "one_liner": "We help managers regain control of their organisations",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1773487694,
+    "tags": [
+      "B2B",
+      "Analytics",
+      "Operations",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": true,
+    "url": "https://www.ycombinator.com/companies/ontora",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/ontora.json"
   },
   {
     "id": 31429,

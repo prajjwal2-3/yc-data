@@ -1677,6 +1677,55 @@
     "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2017/pit-ai.json"
   },
   {
+    "id": 1461,
+    "name": "MDalgorithms Inc.",
+    "slug": "mdalgorithms-inc",
+    "former_names": [
+      "MDAlgorithms",
+      "MDAlgorithms Inc.",
+      "MDacne"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c28738affa1266432b0e2667e15541c1ddb131b4.png",
+    "website": "https://www.mdalgorithms.com",
+    "all_locations": "San Francisco, CA, USA; Remote",
+    "long_description": "MDalgorithms is revolutionizing dermatology by delivering convenient, effective AI-powered solutions for skin and hair care. Since pioneering machine-learning models for acne treatment in 2017, we’ve advanced to develop the world’s first AI-powered scalp analysis for hair regrowth.\r\n\r\nOur proprietary AI technology, built entirely in-house, analyzes blemishes, lesions, and hair conditions with unmatched precision, utilizing the largest global dataset of acne and scalp images. Clinically validated and tested by dermatologists, our personalized treatment kits—MDacne for acne and MDhair for hair regrowth—are customized to each individual’s unique needs, combining over 100 medical and botanical ingredients for optimal results.\r\n\r\nWe empower users to track their progress, adjust treatments as needed, and access real-time support from our team of dermatologists and nurses. By doing so, we make personalized dermatological care accessible to all.",
+    "one_liner": "Democratizing Dermatology with AI ",
+    "team_size": 40,
+    "industry": "Healthcare",
+    "subindustry": "Healthcare -> Consumer Health and Wellness",
+    "launched_at": 1478144434,
+    "tags": [
+      "Artificial Intelligence",
+      "Consumer Health Services",
+      "Consumer",
+      "Healthcare",
+      "Telemedicine"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2017",
+    "status": "Active",
+    "industries": [
+      "Healthcare",
+      "Consumer Health and Wellness"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Fully Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/mdalgorithms-inc",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2017/mdalgorithms-inc.json"
+  },
+  {
     "id": 1484,
     "name": "RankScience",
     "slug": "rankscience",
@@ -10530,7 +10579,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2021",
     "status": "Active",
@@ -11193,20 +11242,21 @@
   },
   {
     "id": 25363,
-    "name": "Gym Class - by IRL Studios",
-    "slug": "gym-class-by-irl-studios",
+    "name": "Gym Class",
+    "slug": "gym-class",
     "former_names": [
       "IRL Studios Inc.",
-      "Gym Class (by IRL Studios)."
+      "Gym Class (by IRL Studios).",
+      "Gym Class - by IRL Studios"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/90fc62ba6240bfed64d6f34df4390cc401252d92.png",
     "website": "https://gymclass.com",
     "all_locations": "Los Angeles, CA, USA; Remote",
-    "long_description": "Gym Class is a top-rated social game for virtual reality. Download to make friends and hangout, compete and play sports, or create and explore in simulated worlds. Join us on our mission is to connect the world by simulating it.",
+    "long_description": "Gym Class is a social platform where you can play games, make friends, and create and share your own experiences. Join a community of millions across virtual reality and mobile.",
     "one_liner": "Connecting the world by simulating it",
     "team_size": 20,
     "industry": "Consumer",
-    "subindustry": "Consumer -> Virtual and Augmented Reality",
+    "subindustry": "Consumer -> Social",
     "launched_at": 1642203216,
     "tags": [
       "Artificial Intelligence",
@@ -11223,7 +11273,7 @@
     "status": "Active",
     "industries": [
       "Consumer",
-      "Virtual and Augmented Reality"
+      "Social"
     ],
     "regions": [
       "United States of America",
@@ -11231,13 +11281,13 @@
       "Remote",
       "Fully Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/gym-class-by-irl-studios",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2022/gym-class-by-irl-studios.json"
+    "url": "https://www.ycombinator.com/companies/gym-class",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2022/gym-class.json"
   },
   {
     "id": 25394,
@@ -13999,6 +14049,51 @@
     "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2022/anythingllm.json"
   },
   {
+    "id": 26897,
+    "name": "AviaryAI",
+    "slug": "aviaryai",
+    "former_names": [
+      "Cambio"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/40b545f0827e44a735f2287cc0b17aea7e65e7ff.png",
+    "website": "http://www.helloaviary.ai",
+    "all_locations": "Chicago, IL, USA",
+    "long_description": "AviaryAI is the industry's first outbound AI service team for banks, credit unions, and insurance companies. In a landscape where only 18% of financial service providers make proactive outbound calls and rely heavily on emails, AviaryAI offers a groundbreaking solution. Powered by a private LLM, our suite of products helps institutions leverage Generative AI while adhering to stringent regulatory and compliance standards.",
+    "one_liner": "Outbound AI voice agents for the financial services industry",
+    "team_size": 10,
+    "industry": "Fintech",
+    "subindustry": "Fintech",
+    "launched_at": 1654737893,
+    "tags": [
+      "Artificial Intelligence",
+      "Fintech",
+      "B2B",
+      "AI Assistant"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2022",
+    "status": "Active",
+    "industries": [
+      "Fintech"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/aviaryai",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2022/aviaryai.json"
+  },
+  {
     "id": 26901,
     "name": "FlyCode",
     "slug": "flycode",
@@ -14851,54 +14946,6 @@
     "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2023/chima.json"
   },
   {
-    "id": 27255,
-    "name": "Intuned",
-    "slug": "intuned",
-    "former_names": [
-      "The Metrics Shop",
-      "Metrics Shop"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/86c20a802b3a2e0667f7dcdc7fa4c4cb22913691.png",
-    "website": "https://intunedhq.com",
-    "all_locations": "Kirkland, WA, USA",
-    "long_description": "Intuned is an AI enabled cloud platform to author, deploy, and monitor integrations to extract web data and execute browser automation. We enable engineers to build reliable integrations to access data and complete actions on other web services when official APIs are not available or complete.",
-    "one_liner": "Reliably integrate with websites that don’t have official APIs",
-    "team_size": 7,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1657233376,
-    "tags": [
-      "Artificial Intelligence",
-      "Developer Tools",
-      "Robotic Process Automation",
-      "B2B",
-      "API"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2022",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/intuned",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2022/intuned.json"
-  },
-  {
     "id": 27261,
     "name": "Integrated Reasoning",
     "slug": "integrated-reasoning",
@@ -15444,52 +15491,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/lynx",
     "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2023/lynx.json"
-  },
-  {
-    "id": 27714,
-    "name": "Palomma",
-    "slug": "palomma",
-    "former_names": [
-      "Pagaa"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6efa2d71f0a1a589e982662a2f6c1a1eab9c259b.png",
-    "website": "http://www.palomma.com/",
-    "all_locations": "Medellín, Antioquia, Colombia",
-    "long_description": "Palomma builds vertical AI agents and payments for residential property managers and developers to help them sell more and automate their operations. Their first three agents focus on inbound leasing, outbound sales and collections (+ embedded payments).",
-    "one_liner": "AI Agents for Residential Property Managers & Real Estate Developers",
-    "team_size": 8,
-    "industry": "Real Estate and Construction",
-    "subindustry": "Real Estate and Construction",
-    "launched_at": 1677732513,
-    "tags": [
-      "Artificial Intelligence",
-      "SaaS",
-      "Payments",
-      "Finance",
-      "B2B"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2023",
-    "status": "Active",
-    "industries": [
-      "Real Estate and Construction"
-    ],
-    "regions": [
-      "Colombia",
-      "Latin America",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/palomma",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2023/palomma.json"
   },
   {
     "id": 27734,
@@ -18925,18 +18926,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7f3b1efd47e85f38279cafba940ec0988913d113.png",
     "website": "https://decodahealth.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Medical practices struggle with front desk shortages and nonstop admin work—ringing phones, scheduling mishaps, intake errors, and billing headaches. The result? Overworked staff and less time for patient care.\r\n\r\nDecoda Health’s AI platform takes over 80% of these tedious tasks, handling calls, scheduling, and payments while alerting staff only when necessary. By reducing chaos and streamlining operations, teams can focus on what truly matters—providing exceptional patient care.",
-    "one_liner": "AI-powered platform automating medical practice operations",
-    "team_size": 9,
+    "long_description": "Med spas, wellness clinics, and aesthetics practices run on 5-10 disconnected tools — separate systems for scheduling, charting, payments, patient communication, and more. It's expensive, error-prone, and holds teams back.\r\n\r\nDecoda is the all-in-one EMR and practice management platform purpose-built for elective care. AI is woven into every workflow — from an AI front desk that answers calls and books patients 24/7, to an ambient scribe that generates clinical notes in real time, to automated patient follow-ups that keep calendars full. Scheduling, payments, memberships, inventory, and analytics all live in one place.\r\n\r\nLive in 150+ clinics, processing $100M+ in annual transactions.",
+    "one_liner": "The all-in-one EMR built for med spas and elective care",
+    "team_size": 15,
     "industry": "Healthcare",
     "subindustry": "Healthcare -> Healthcare IT",
     "launched_at": 1689972321,
     "tags": [
       "Artificial Intelligence",
-      "Messaging",
+      "SaaS",
       "Digital Health",
-      "Healthcare IT",
-      "Billing"
+      "Healthcare IT"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -20062,6 +20062,50 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/minded",
     "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2023/minded.json"
+  },
+  {
+    "id": 29082,
+    "name": "Strada",
+    "slug": "strada",
+    "former_names": [
+      "Strada",
+      "Finbox"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a1ed3e2a5a9fdba541eb63fd5da473fcbac4b34f.png",
+    "website": "https://www.getstrada.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Strada automates insurance operations with AI agents. We deploy agents that handle policy servicing and claims operations end-to-end for some of the largest insurance carriers and brokers in the US. With native integrations into core policy, claims and agency management systems, we automate complex workflows with the domain expertise and compliance guardrails the industry demands.",
+    "one_liner": "AI agents that run insurance operations",
+    "team_size": 18,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1690570692,
+    "tags": [
+      "Artificial Intelligence",
+      "SaaS",
+      "B2B",
+      "Insurance"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2023",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/strada",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2023/strada.json"
   },
   {
     "id": 29085,
@@ -31819,7 +31863,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "As AI agents take on more consequential workflows, the hard part isn’t just whether they work—it’s whether they behave consistently with your company’s knowledge, policies, and expectations. Lucidic AI turns that institutional knowledge into consistent agent behavior by continuously testing, stress-simulating, and auto-optimizing agents against your real production scenarios.\r\nLucidic ingests your real logs, edge cases, and operational rules, then uses controlled simulations, reinforcement learning, and Bayesian optimization to automatically discover failure modes, propose targeted fixes, and verify improvements before anything reaches production. Instead of relying on manual prompt fiddling or guesswork, your agents get a continuous improvement loop: they’re tested, corrected, and optimized based on what your business actually requires—not what a generic model assumes.\r\nThe result is AI agents that reliably follow your domain logic, adapt to changes, and stay aligned across clients, configurations, and environments—without you needing to hand-engineer every prompt or behavior.",
     "one_liner": "AI Agent Training via Simulations",
-    "team_size": null,
+    "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1736904770,
@@ -32119,15 +32163,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/955d29f6fe86baf7c724d6dcd2933cef074c1171.png",
     "website": "https://outlit.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Outlit turns all your customer context across Stripe, PostHog, HubSpot, Slack, email, and more into one unified record so you can query across every tool and let agents monitor and act on signals across your stack.",
-    "one_liner": "Customer Context for Agents ",
+    "long_description": "Outlit turns every customer-facing tool in your stack, like Stripe, Granola, PostHog, Slack, Gmail, Pylon, and more, into one complete, queryable customer profile.\r\n\r\nWe resolve fragmented identity across mismatched records, extract structured facts and signals from unstructured interactions, and expose the result through CLI, MCP, and API. \r\n\r\nSo every person and agent in your company has the full context on every customer to work from.",
+    "one_liner": "Customer Context for Agents",
     "team_size": 2,
     "industry": "B2B",
-    "subindustry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
     "launched_at": 1736658447,
     "tags": [
       "Artificial Intelligence",
-      "B2B"
+      "B2B",
+      "API",
+      "Infrastructure"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -32136,7 +32182,8 @@
     "batch": "Winter 2025",
     "status": "Active",
     "industries": [
-      "B2B"
+      "B2B",
+      "Infrastructure"
     ],
     "regions": [
       "United States of America",
@@ -33745,6 +33792,49 @@
     "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2025/human-behavior.json"
   },
   {
+    "id": 30500,
+    "name": "Besimple AI",
+    "slug": "besimple-ai",
+    "former_names": [
+      "Simple Annotation",
+      "besimple ai"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8305d688995d7c8f184d463f02f3ded6947c12e7.png",
+    "website": "https://besimple.ai",
+    "all_locations": "Redwood City, CA, USA",
+    "long_description": "We are building the data layer for AI, starting with audio.  \r\n\r\nWe start with data collection, curating our own proprietary set of diverse conversational data covering a wide range of languages, dialects and accents.  We then leverage human expert audio annotators and our own annotation platform to process audio data for Automatic Speech Recognition.  \r\n\r\nWith human level transcription and diarization, our data help push the audio model frontier.  Today we have over millions of hours of conversational data, and growing. \r\n\r\nIf you need audio data for training or evaluating your voice models or voice agents, reach out!  We offer flexible licensing deals that work for startups and enterprises, with minimal process.  \r\n\r\nAudio data should besimple :) ",
+    "one_liner": "Voice data for AI",
+    "team_size": 6,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1747861843,
+    "tags": [
+      "AIOps",
+      "Artificial Intelligence",
+      "Data Labeling"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Spring 2025",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/besimple-ai",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2025/besimple-ai.json"
+  },
+  {
     "id": 30506,
     "name": "Klavis AI",
     "slug": "klavis-ai",
@@ -35209,50 +35299,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/nori",
     "api": "https://prajjwal2-3.github.io/yc-data/batches/fall-2025/nori.json"
-  },
-  {
-    "id": 30659,
-    "name": "Proliferate",
-    "slug": "proliferate",
-    "former_names": [
-      "Keystone"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e9eb3892f113b924e1c5b9bdf6d120ba559a45ff.png",
-    "website": "https://proliferate.com?utm_source=yc&utm_medium=referral&utm_campaign=profile",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Proliferate gives coding agents production-grade infrastructure- sandboxed environments, event triggers, and verification workflows- so they can ship code end-to-end, not just write it.",
-    "one_liner": "The autonomous engineering organization",
-    "team_size": null,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1749673205,
-    "tags": [
-      "Artificial Intelligence",
-      "Developer Tools",
-      "SaaS",
-      "B2B"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Summer 2025",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/proliferate",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2025/proliferate.json"
   },
   {
     "id": 30660,
@@ -36905,51 +36951,6 @@
     "api": "https://prajjwal2-3.github.io/yc-data/batches/fall-2025/structured-ai.json"
   },
   {
-    "id": 30850,
-    "name": "Zavo",
-    "slug": "zavo",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9a1286c1ed0f215411585d2faaf1c76a245ee266.png",
-    "website": "https://zavopay.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Zavo is the first AI-point of sale platform for restaurants.\r\n\r\nWe unify payments, point of sale, and AI agents into one seamless platform, allowing business to accept payments, manage operations and automate manual processes with Ai. \r\n\r\nFrom reservations, to payments to point of sale, we have built the full restaurant tech stack in-house with AI automation across all products.\r\n\r\nWe started Zavo in May 2025, currently over 400 businesses of different sizes use Zavo to accept payments and manage operations\r\n\r\n",
-    "one_liner": "AI Point of Sale for Restaurants ",
-    "team_size": 8,
-    "industry": "Fintech",
-    "subindustry": "Fintech -> Payments",
-    "launched_at": 1758482945,
-    "tags": [
-      "Artificial Intelligence",
-      "Fintech",
-      "Payments",
-      "B2B",
-      "Restaurant Tech"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Fall 2025",
-    "status": "Active",
-    "industries": [
-      "Fintech",
-      "Payments"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/zavo",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/fall-2025/zavo.json"
-  },
-  {
     "id": 30852,
     "name": "Nexus",
     "slug": "gpt",
@@ -38287,8 +38288,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c12ccaaa4d43530a4f13abb208362f187f33e86d.png",
     "website": "https://www.uselemma.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Lemma enables AI agents to continuously improve from user feedback and production outcomes. Instead of relying on manual prompt tuning and reactive debugging, Lemma detects when an agent’s performance drifts, pinpoints the exact step causing failures, generates optimized prompt candidates, and automatically delivers improvements through our API or by opening a pull request in your codebase. \r\n\r\nBuilt by ex-AI engineers who felt this pain firsthand, Lemma turns static agents into self-improving systems, helping teams ship reliable AI products faster with compounding performance gains over time. \r\n\r\nDeploy 1x. Learn forever.",
-    "one_liner": "Continuous learning for AI agents",
+    "long_description": "Lemma catches the silent, semantic failures your observability tools miss, where your AI agent looks like it worked but didn’t. We scan every trace to surface issues before users complain, identify root causes, and help you fix them without manual digging, so your agents improve over time.",
+    "one_liner": "Reliability platform for AI agents",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -39104,10 +39105,10 @@
       "Singlevox",
       "deep engage"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/04b93245a278c0a3095e4e4e1c3979b316a38a05.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/752bdfb2238c1fa320f09fc4cdb59b41472091d6.png",
     "website": "https://pulsent.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Pulsent continuously watches how your users interacts with your product and engages them at the right moment to convert, upsell, and retain. \r\n\r\nAs companies scale, founders, account managers and customer success teams can only take care of a small fraction of users. The rest receive generic, annoying and poorly timed communication. Opportunities are missed, customers churn, and revenue is lost.\r\n\r\nThe core problem is that user behavior is fragmented across tools like PostHog, Stripe, Salesforce, etc., making it impossible to understand users in real time. We unify all data into a single view and let AI agents act on top. This only recently became possible with advances in visual AI (dec ‘25), allowing agents to watch sessions and understand behavior at human or better level.\r\n\r\nPulsent detects expansion and churn signals, prioritizes high-value accounts, and executes through AI agents across channels like email, LinkedIn, and WhatsApp. It increases conversion and reduces churn without adding headcount.\r\n\r\nWe already have paying customers, process hundreds of millions of events daily, and are seeing strong demand from PLG B2B Clients. Nicolò is an ex-BCG who has scaled two startups to millions in ARR. Arseniy worked for several years at Datadog handling billions of datapoints. We’ve worked together for 3+ years and experienced this problem firsthand in our previous startup.",
+    "long_description": "Pulsent continuously watches how your users and interacts with your product and engages them at the right moment to convert, upsell, and retain. \r\n\r\nAs companies scale, founders, account managers and customer success teams can only take care of a small fraction of users. The rest receive generic, annoying and poorly timed communication. Opportunities are missed, customers churn, and revenue is lost.\r\n\r\nThe core problem is that user behavior is fragmented across tools like PostHog, Stripe, Salesforce, etc., making it impossible to understand users in real time. We unify all data into a single view and let AI agents act on top. This only recently became possible with advances in visual AI (dec ‘25), allowing agents to watch sessions and understand behavior at human or better level.\r\n\r\nPulsent detects expansion and churn signals, prioritizes high-value accounts, and executes through AI agents across channels like email, LinkedIn, and WhatsApp. It increases conversion and reduces churn without adding headcount.\r\n\r\nWe already have paying customers, process hundreds of millions of events daily, and are seeing strong demand from PLG B2B Clients. Nicolò is an ex-BCG who has scaled two startups to millions in ARR. Arseniy worked for several years at Datadog handling billions of datapoints. We’ve worked together for 3+ years and experienced this problem firsthand in our previous startup.",
     "one_liner": "AI Agents that watch, engage and convert your users.",
     "team_size": 2,
     "industry": "B2B",
@@ -39182,46 +39183,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/zolvo",
     "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/zolvo.json"
-  },
-  {
-    "id": 31396,
-    "name": "qomplement",
-    "slug": "qomplement",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1f74f218c2714dc8c9f24d72389a7bfa22f2b11d.png",
-    "website": "https://qomplement.com/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Early stage AI lab based in San Francisco building the layer between unstructured data and enterprise systems.",
-    "one_liner": "AI Agents for Document Filling",
-    "team_size": 4,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1771907564,
-    "tags": [
-      "Documents",
-      "Artificial Intelligence",
-      "B2B"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Spring 2026",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/qomplement",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/qomplement.json"
   },
   {
     "id": 31402,
@@ -39766,50 +39727,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/foaster",
     "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/foaster.json"
-  },
-  {
-    "id": 31489,
-    "name": "Eden",
-    "slug": "edenrobotics",
-    "former_names": [
-      "Eden Robotics Inc."
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d769c33ef07da11294e43bb975e258d0ec8c712e.png",
-    "website": "https://www.edenrobotics.ai",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "We're building robots that just work and use them to deliver autonomous services at scale.",
-    "one_liner": "Autonomous services for humanity.",
-    "team_size": 4,
-    "industry": "Industrials",
-    "subindustry": "Industrials -> Manufacturing and Robotics",
-    "launched_at": 1775447037,
-    "tags": [
-      "Artificial Intelligence",
-      "Robotic Process Automation",
-      "Robotics",
-      "Automation"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Spring 2026",
-    "status": "Active",
-    "industries": [
-      "Industrials",
-      "Manufacturing and Robotics"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/edenrobotics",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/edenrobotics.json"
   },
   {
     "id": 31498,

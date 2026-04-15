@@ -4086,16 +4086,16 @@
     "all_locations": "San Francisco, CA, USA; Remote",
     "long_description": "MDalgorithms is revolutionizing dermatology by delivering convenient, effective AI-powered solutions for skin and hair care. Since pioneering machine-learning models for acne treatment in 2017, we’ve advanced to develop the world’s first AI-powered scalp analysis for hair regrowth.\r\n\r\nOur proprietary AI technology, built entirely in-house, analyzes blemishes, lesions, and hair conditions with unmatched precision, utilizing the largest global dataset of acne and scalp images. Clinically validated and tested by dermatologists, our personalized treatment kits—MDacne for acne and MDhair for hair regrowth—are customized to each individual’s unique needs, combining over 100 medical and botanical ingredients for optimal results.\r\n\r\nWe empower users to track their progress, adjust treatments as needed, and access real-time support from our team of dermatologists and nurses. By doing so, we make personalized dermatological care accessible to all.",
     "one_liner": "Democratizing Dermatology with AI ",
-    "team_size": 25,
+    "team_size": 40,
     "industry": "Healthcare",
     "subindustry": "Healthcare -> Consumer Health and Wellness",
     "launched_at": 1478144434,
     "tags": [
+      "Artificial Intelligence",
       "Consumer Health Services",
       "Consumer",
       "Healthcare",
-      "Telemedicine",
-      "AI"
+      "Telemedicine"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -4113,7 +4113,7 @@
       "Remote",
       "Fully Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -20374,7 +20374,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2022",
     "status": "Active",
@@ -22389,18 +22389,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7f3b1efd47e85f38279cafba940ec0988913d113.png",
     "website": "https://decodahealth.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Medical practices struggle with front desk shortages and nonstop admin work—ringing phones, scheduling mishaps, intake errors, and billing headaches. The result? Overworked staff and less time for patient care.\r\n\r\nDecoda Health’s AI platform takes over 80% of these tedious tasks, handling calls, scheduling, and payments while alerting staff only when necessary. By reducing chaos and streamlining operations, teams can focus on what truly matters—providing exceptional patient care.",
-    "one_liner": "AI-powered platform automating medical practice operations",
-    "team_size": 9,
+    "long_description": "Med spas, wellness clinics, and aesthetics practices run on 5-10 disconnected tools — separate systems for scheduling, charting, payments, patient communication, and more. It's expensive, error-prone, and holds teams back.\r\n\r\nDecoda is the all-in-one EMR and practice management platform purpose-built for elective care. AI is woven into every workflow — from an AI front desk that answers calls and books patients 24/7, to an ambient scribe that generates clinical notes in real time, to automated patient follow-ups that keep calendars full. Scheduling, payments, memberships, inventory, and analytics all live in one place.\r\n\r\nLive in 150+ clinics, processing $100M+ in annual transactions.",
+    "one_liner": "The all-in-one EMR built for med spas and elective care",
+    "team_size": 15,
     "industry": "Healthcare",
     "subindustry": "Healthcare -> Healthcare IT",
     "launched_at": 1689972321,
     "tags": [
       "Artificial Intelligence",
-      "Messaging",
+      "SaaS",
       "Digital Health",
-      "Healthcare IT",
-      "Billing"
+      "Healthcare IT"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -28296,7 +28295,6 @@
     "subindustry": "Healthcare -> Healthcare Services",
     "launched_at": 1775511630,
     "tags": [
-      "Healthcare",
       "AI"
     ],
     "tags_highlighted": [],

@@ -2024,18 +2024,19 @@
   },
   {
     "id": 31107,
-    "name": "Clam",
-    "slug": "clam",
+    "name": "BaseFrame",
+    "slug": "baseframe",
     "former_names": [
       "BaseFrame",
       "Clam",
-      "Clam (formerly Baseframe)"
+      "Clam (formerly Baseframe)",
+      "Clam"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ed37fe1286e15e733e3ec760a7dcd194f1dfdd31.png",
-    "website": "https://tryclam.com",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5880da17687400c21750667dffa55d876a4dca48.png",
+    "website": "https://baseframe.co",
     "all_locations": "",
-    "long_description": "Every startup founder wants to 10x their non-technical teams with AI, but they do not have time to decide what to automate, build the workflows, and fix them when they break.\r\n\r\nClam is an AI integration engineer for startup employees. Our desktop app uses local models to analyze work already on your computer, identify repetitive tasks, generate the workflow in code, and run it in the cloud. No more drag and drop. \r\n\r\nWhen software changes cause workflows to fail, Clam repairs them automatically using our secure implementation of OpenClaw. It can write tests, run experiments, update the automation scripts, and even text you for more information. \r\n\r\nStartups want to focus on the outcome of the automation, not the automation itself. We give each use case a dynamic UI that lets you visualize the output in the best way possible for you. \r\n\r\nHow are we keeping our OpenClaw secure? Our system runs a series of scans at the network level to scrutinize every piece of data leaving and entering your system. Each message is scanned for personal info leaks, prompt injection attempts, and malicious code, and custom policies. \r\n",
-    "one_liner": "Self-fixing automations for fast-moving startups built on OpenClaw",
+    "long_description": "Most teams want to plug in AI but don't know where to get started. BaseFrame's desktop app finds exactly what to automate for each employee using the historic data on their computer. \r\n\r\nInstead of relying on screen recording or generic AI demos, we use the existing history of how work gets done across email, docs, Slack, calendar, browser, and files to identify the highest-value automations. We use local models so that your sensitive data doesn’t have to leave your system. \r\n\r\nOnce you find a set of automations, send them off to your automation tool of choice and share them with your team so that everyone can get productivity boosts. \r\n",
+    "one_liner": "Detect what AI can automate for your team",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
@@ -2058,8 +2059,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/clam",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2026/clam.json"
+    "url": "https://www.ycombinator.com/companies/baseframe",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2026/baseframe.json"
   },
   {
     "id": 31108,
@@ -4591,7 +4592,7 @@
     "all_locations": "",
     "long_description": "Maywood automates deal execution for investment banks, from decks to diligence\r\n\r\nThe Maywood platform automatically generates finished, on-brand CIMs / presentations, models, and diligence responses that prioritizes editability and auditability, with best-in-class security ensuring information stays protected.\r\n\r\nMaywood reinvents the deal process with a single, living workspace for every deal.",
     "one_liner": "Automating the entire IB deal workflow",
-    "team_size": 5,
+    "team_size": 3,
     "industry": "Fintech",
     "subindustry": "Fintech -> Banking and Exchange",
     "launched_at": 1770247865,

@@ -2862,7 +2862,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "As AI agents take on more consequential workflows, the hard part isn’t just whether they work—it’s whether they behave consistently with your company’s knowledge, policies, and expectations. Lucidic AI turns that institutional knowledge into consistent agent behavior by continuously testing, stress-simulating, and auto-optimizing agents against your real production scenarios.\r\nLucidic ingests your real logs, edge cases, and operational rules, then uses controlled simulations, reinforcement learning, and Bayesian optimization to automatically discover failure modes, propose targeted fixes, and verify improvements before anything reaches production. Instead of relying on manual prompt fiddling or guesswork, your agents get a continuous improvement loop: they’re tested, corrected, and optimized based on what your business actually requires—not what a generic model assumes.\r\nThe result is AI agents that reliably follow your domain logic, adapt to changes, and stay aligned across clients, configurations, and environments—without you needing to hand-engineer every prompt or behavior.",
     "one_liner": "AI Agent Training via Simulations",
-    "team_size": null,
+    "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1736904770,
@@ -3345,7 +3345,7 @@
     "top_company": false,
     "isHiring": false,
     "nonprofit": false,
-    "batch": "Summer 2025",
+    "batch": "Spring 2026",
     "status": "Active",
     "industries": [
       "B2B",
@@ -3361,7 +3361,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/smartbase",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2025/smartbase.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/smartbase.json"
   },
   {
     "id": 30904,
@@ -3799,17 +3799,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d769c33ef07da11294e43bb975e258d0ec8c712e.png",
     "website": "https://www.edenrobotics.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "We're building robots that just work and use them to deliver autonomous services at scale.",
+    "long_description": "We're building robots that just work and use them to deliver autonomous services at scale. Our first use case is semi-humanoid robots for manufacturing and logistics. Unlike traditional robotics companies, we don't sell robots, we provide physical agents for hire where companies pay for the robots based on usage, decreasing the barrier to entry and expanding the robotics market as a whole.",
     "one_liner": "Autonomous services for humanity.",
     "team_size": 4,
     "industry": "Industrials",
     "subindustry": "Industrials -> Manufacturing and Robotics",
     "launched_at": 1775447037,
     "tags": [
-      "Artificial Intelligence",
       "Robotic Process Automation",
       "Robotics",
-      "Automation"
+      "Automation",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,

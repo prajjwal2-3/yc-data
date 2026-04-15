@@ -2654,7 +2654,7 @@
     "top_company": false,
     "isHiring": false,
     "nonprofit": false,
-    "batch": "Summer 2025",
+    "batch": "Spring 2026",
     "status": "Active",
     "industries": [
       "B2B",
@@ -2670,7 +2670,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/smartbase",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2025/smartbase.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/smartbase.json"
   },
   {
     "id": 30785,
@@ -2768,7 +2768,7 @@
     "slug": "dari",
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/db1cb9787e09629b6ccb1639f659a5f8d0bb21b1.png",
-    "website": "https://usedari.com",
+    "website": "https://dari.dev",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "A platform where users can automate web workflows using natural language prompts.\r\n\r\nWe handle deterministic playback of browser workflows and fall back to LLMs where necessary, ensuring reliability. ",
     "one_liner": "An API to build the most reliable browser use agents",
