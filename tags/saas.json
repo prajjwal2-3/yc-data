@@ -4696,9 +4696,9 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/cdb97ca4207ccb8346f6dd29984f5fca487812e0.png",
     "website": "https://pocketsuite.io",
     "all_locations": "San Francisco, CA, USA; Remote",
-    "long_description": "PocketSuite is a YC-backed mobile platform for service businesses, ranging from fitness trainers, photographers, and home cleaners to dog trainers, hairstylists, therapists, and life coaches. Businesses use PocketSuite to get booked, paid, and message their clients. We make the work of running your own business simple for solo operators and small teams. PocketSuite empowers the U.S. market of 20 million service professionals generating $800 billion in sales with a mobile cloud solution for running their business. Thousands of businesses run on PocketSuite. Over 500,000 clients book and pay their Pros on PocketSuite today and we're growing fast.",
-    "one_liner": "PocketSuite makes it easy for your clients to book and pay you",
-    "team_size": 20,
+    "long_description": "PocketSuite is the all-in-one platform built for service businesses. From bookings and payments to client communication and beyond, we help owners and managers simplify their business and focus on what they do best. For more than a decade, thousands of independent professionals, small businesses, and multi-location brands have trusted PocketSuite to power their service businesses and serve hundreds of thousands of clients. We’re proud to support a diverse community of entrepreneurs at every stage of their journey. PocketSuite empowers the U.S. market of 20 million service businesses, generating $1 billion in sales with a desktop and mobile cloud solution for running their business. Thousands of businesses run on PocketSuite. Over 600,000 clients book, pay, and communicate with their service providers on PocketSuite today, and we're growing fast.",
+    "one_liner": "All-In-One Business Operating System by PocketSuite",
+    "team_size": 30,
     "industry": "B2B",
     "subindustry": "B2B -> Productivity",
     "launched_at": 1447312814,
@@ -4707,7 +4707,7 @@
       "Payments",
       "Messaging",
       "Scheduling",
-      "CRM"
+      "Operations"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -19084,18 +19084,21 @@
     "name": "Fathom",
     "slug": "fathom",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/008e65b3fdfccde7a316a6c0911fd59301ff1025.png",
-    "website": "https://fathom.video",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/cef88933ea79fe84401faaf1ce8c0ecd65c642a3.png",
+    "website": "https://www.fathom.ai",
     "all_locations": "San Francisco, CA, USA; Remote",
-    "long_description": "Instead of trying to hurriedly take notes while also having a conversation, you simply push a button in our app whenever you hear something important, like a piece of product feedback or action item. In real-time our system records, transcribes, and creates clips from the parts of the conversation you tagged that can share with your team or use to write post-call notes.",
-    "one_liner": "Never take notes again with the #1 AI Meeting Assistant",
-    "team_size": 25,
+    "long_description": "Fathom captures your meetings your way – bot or bot-free, on any call. Ask questions across your entire meeting history and get instant, cited answers. Connect your intelligence to Claude, ChatGPT, your CRM, and more. Desktop, mobile, and in-person.\r\n\r\nThe real value of meetings isn't just the notes. It's the knowledge inside them.\r\n\r\n#1 AI Notetaker on G2. Works with Zoom, Meet, and Teams.",
+    "one_liner": "The most flexible AI meeting notetaker ever built.",
+    "team_size": 95,
     "industry": "B2B",
     "subindustry": "B2B -> Productivity",
     "launched_at": 1641591096,
     "tags": [
       "SaaS",
-      "B2B"
+      "B2B",
+      "Productivity",
+      "AI",
+      "Note-taking"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -27012,8 +27015,8 @@
     "website": "https://www.useagave.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "We’re modernizing construction, a $12T global industry run by siloed software built 20-40 years ago (on-prem, no APIs, no mobile access, etc.). \r\n\r\nOur core product is Agave Sync, which helps General and Trade Contractors keep financial data in sync between their field teams on jobsites and their accounting teams in a central back office.",
-    "one_liner": "Financial Operations Platform for Construction",
-    "team_size": 28,
+    "one_liner": "AI Financial Operations for Construction",
+    "team_size": 33,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1642541270,
@@ -29570,17 +29573,17 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8bc1e9f862fee999c4e72bc8a67f0dedc5205775.png",
     "website": "https://getlovage.com",
-    "all_locations": "Lehi, UT, USA",
-    "long_description": "Lovage creates automated, virtual receptionists for businesses that can handle almost any customer need over the phone, via text, or on social media. Instead of hiring someone or having to deal with interruptions while working, Lovage helps your customers by answering questions, booking appointments, and more - just like you would.",
-    "one_liner": "Smart, virtual receptionists for local businesses.",
-    "team_size": 7,
+    "all_locations": "Orem, UT, USA",
+    "long_description": "Lovage helps barbers and stylists fill empty appointment slots and get more clients.\r\n\r\nBeauty professionals frequently have gaps in their schedules due to cancellations, no-shows, and uneven demand. Lovage turns that unused availability into booked appointments.\r\n\r\nWe integrate with booking systems to detect open slots, generate on-brand content, and distribute it to channels like Instagram where clients can instantly book.\r\n\r\nThe result is more bookings, higher utilization, and increased revenue without relying on ads or manual marketing.",
+    "one_liner": "Automatically fill empty appointment slots for beauty professionals",
+    "team_size": 3,
     "industry": "B2B",
-    "subindustry": "B2B -> Operations",
+    "subindustry": "B2B -> Marketing",
     "launched_at": 1642140655,
     "tags": [
       "SaaS",
       "B2B",
-      "Productivity",
+      "Marketing",
       "SMB",
       "AI"
     ],
@@ -29592,7 +29595,7 @@
     "status": "Active",
     "industries": [
       "B2B",
-      "Operations"
+      "Marketing"
     ],
     "regions": [
       "United States of America",
@@ -36255,12 +36258,12 @@
     "name": "Bujeti",
     "slug": "bujeti",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/017a48860aec587fc693f54e2e4052970a43e5c7.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/62a7ef894596096ec275d7930a661da71c364631.png",
     "website": "https://www.bujeti.com",
-    "all_locations": "Lagos, LA, Nigeria; Paris, Île-de-France, France; Remote",
-    "long_description": "Bujeti is a corporate cards and expenses management platform for African businesses. We help African businesses issue corporate cards to their employees, control and manage their expenses and keep track of their finances.",
-    "one_liner": "Corporate cards and expenses management platform for African…",
-    "team_size": 10,
+    "all_locations": "Lagos, LA, Nigeria; Remote",
+    "long_description": "Control your business finances, all in one place\r\nTrack expenses, reimbursements, and invoices for financial efficiency on Africa’s most loved spend management platform.",
+    "one_liner": "Financial OS for African businesses",
+    "team_size": 35,
     "industry": "B2B",
     "subindustry": "B2B -> Finance and Accounting",
     "launched_at": 1673189707,
@@ -36282,16 +36285,14 @@
     ],
     "regions": [
       "Nigeria",
-      "France",
       "Africa",
-      "Europe",
       "Remote",
       "Fully Remote"
     ],
     "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
-    "app_answers": true,
+    "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/bujeti",
     "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2023/bujeti.json"
@@ -37932,7 +37933,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2023",
     "status": "Active",
@@ -38446,17 +38447,18 @@
   },
   {
     "id": 28361,
-    "name": "Streamstraight",
-    "slug": "streamstraight",
+    "name": "Lightski",
+    "slug": "lightski",
     "former_names": [
       "Codex",
-      "Lightski"
+      "Lightski",
+      "Streamstraight"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2d21bd8c7920701952e3692272a988b9e7b8a0e5.png",
-    "website": "https://www.streamstraight.com",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/bb4374eaa0da532a48ab79f76c84cd38d075db6d.png",
+    "website": "https://www.lightski.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Streamstraight ensures your users never see an interrupted LLM response. We solve the problems around resumable streams and reconnecting during an in-progress AI response, so you can ensure your long-running AI agents responses are never interrupted on the frontend. \r\n\r\nIf you…\r\n\r\n* show an incomplete response when users return to an AI chat that's still in-progress\r\n* have users who request multiple long-running AI responses, simultaneously\r\n* lose data when a client reloads the page during a stream\r\n* deal with flaky connections due to mobile clients\r\n* want to run LLM inference from an async job\r\n* want to stream the same LLM response to multiple browser tabs/clients\r\n\r\n…message us! We can fix these issues and ensure your frontend stays high quality during long-running streams. ",
-    "one_liner": "The best way to stream LLM thinking traces to your frontend",
+    "long_description": "We help enterprises transform their operations with the latest AI agents.",
+    "one_liner": "AI Agents for Enterprises",
     "team_size": 1,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -38486,8 +38488,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/streamstraight",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2023/streamstraight.json"
+    "url": "https://www.ycombinator.com/companies/lightski",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2023/lightski.json"
   },
   {
     "id": 28404,
@@ -38521,7 +38523,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -42250,7 +42252,7 @@
     "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2024",
-    "status": "Active",
+    "status": "Inactive",
     "industries": [
       "B2B",
       "Operations"
@@ -44203,7 +44205,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Fall 2024",
     "status": "Active",
@@ -46060,12 +46062,12 @@
     "former_names": [
       "Auctor AI"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d8e7fb9fc6a31a470dcf923a359f699fa65811f5.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e14ac50e2fa0724e7b0c94e9bc2c4cdac5732e9e.png",
     "website": "https://getauctor.com",
     "all_locations": "New York, NY, USA",
     "long_description": "Auctor brings alignment and intelligence to software implementation, enabling every project to deliver its intended value with clarity and precision.",
     "one_liner": "The agentic operating system for modern system integrators.",
-    "team_size": 15,
+    "team_size": 25,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1744707028,
@@ -47291,6 +47293,51 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/mimos",
     "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2025/mimos.json"
+  },
+  {
+    "id": 30711,
+    "name": "Char",
+    "slug": "char",
+    "former_names": [
+      "Hyprnote"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/aca02a57c5f38896120f1fe6767d1975b6a6b522.png",
+    "website": "https://char.com",
+    "all_locations": "",
+    "long_description": "Char records your meetings without bots, pulls action items from your emails, and builds a daily note with everything you need to do. You review it, tick what's done, and hand off the rest to AI agents like Claude or Cursor. Open source.",
+    "one_liner": "AI daily notes from your meetings, emails, and tasks",
+    "team_size": 4,
+    "industry": "B2B",
+    "subindustry": "B2B -> Productivity",
+    "launched_at": 1755302445,
+    "tags": [
+      "SaaS",
+      "Productivity",
+      "Open Source",
+      "AI",
+      "AI Assistant"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Productivity"
+    ],
+    "regions": [
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/char",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2025/char.json"
   },
   {
     "id": 30729,
@@ -49061,7 +49108,7 @@
     "name": "Cohesion",
     "slug": "cohesion",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/19ae82a3126f7e0acfa4a7ee5f4b31b8e7abae8d.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a85ed9b4f8c87d919e87f4a7838af368b02f0f94.png",
     "website": "https://cohesionplatform.com/",
     "all_locations": "",
     "long_description": "Cohesion is building AI agents for hedge funds. Our agents track earnings and non-traditional datasets like podcasts and X/twitter. Analysts spend hours a week manually tracking these data sources and still miss relevant investing signals. Now, our agents do it for them autonomously. \r\n",

@@ -1717,7 +1717,7 @@
       "Remote",
       "Fully Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -4930,26 +4930,26 @@
   },
   {
     "id": 12553,
-    "name": "BODYSIM by Well Principled",
-    "slug": "bodysim-by-well-principled",
+    "name": "Well Principled",
+    "slug": "well-principled",
     "former_names": [
-      "Well Principled"
+      "Well Principled",
+      "BODYSIM by Well Principled"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7deb4b1138bf28d77c17917f911b89d59935e15c.png",
-    "website": "https://bodysim.com",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6c59ac5aca8c4a74c69ab15c408544b91f24e98e.png",
+    "website": "https://wellprincipled.com",
     "all_locations": "St. Louis, MO, USA",
-    "long_description": "Gain muscle and shed fat with a digital twin of your body. BODYSIM is an app-based simulation of your body and its potential that recommends nutrition and exercise to meet your goals. Use BODYSIM to (1) Assemble your data from food logging, BIA weigh-ins, DEXA scans, at-home blood tests, and wearables, (2) Learn to “triangulate the truth” of your unique metabolism and physiology, and (3) Adjust your nutrition and exercise plans by simulating what will happen to your body. One founder put on 45 lbs muscle, and another put on 25 lbs of muscle while losing 50 lbs of fat. Our alpha testers lost an average of 12.6 pounds in 3 months.\r\n\r\nOur core technology distills messy academic literature into simulations. Before turning to our own fitness journeys, we successfully deployed sophisticated enterprise models of plant-soil-atmosphere, consumer behavior and battery electrochemistry. With BODYSIM we built a science-based simulation of macronutrient balance and muscle hypertrophy. It includes cell turnover, oxidation for energy, lipolysis of fat stores, synthesis of new muscle, glycogen resynthesis, GI latency, and even ketones. Get jacked at BODYSIM.com\r\n",
-    "one_liner": "Gain Muscle and Shed Fat with a Digital Twin of Your Body",
-    "team_size": 10,
-    "industry": "Healthcare",
-    "subindustry": "Healthcare -> Consumer Health and Wellness",
+    "long_description": "We aren’t building AI to replace \"knowledge work” that requires neither, but to bolster the working human intellect which has never failed to discover new paths to prosperity.\r\n\r\nFor all their success, mainstream approaches to AI have fundamental limitations preventing them from solving critical classes of problems. We are building a new AI architecture from first principles to break from these limitations.\r\n\r\nThe status quo has ossified around the supervised, brute-force pretraining paradigm. These systems do not, and cannot, handle the essential skills of continual learning, goal discovery, novel planning, and the creation of new knowledge.\r\n\r\nThese limitations are not trivial. Our national prosperity depends directly on overcoming these limitations, because the essential skills underlie the skilled trades. From electricians to machinists to nurses, apprentice tradespeople in all of these fields learn “skilled improvisation” where every solution is novel, and even the goal must be discovered. Prosperity demands the precise capabilities where status quo AI is structurally weak.\r\n\r\nWorse, these limitations will not be overcome with more compute or training data. They are inescapable consequences of the underlying technologies of supervised learning, neural networks, transformers, backprop, and gradient descent. Progress requires independence from them.\r\n\r\nWe are building a new AI architecture by reverse-engineering the system that got us this far: the human brain. By triangulating between neuroscience, cognitive science, and the evolutionary elaboration of brains, we have identified the brain’s algorithms to (a) continually learn a causal world model (b) select goals to both achieve and learn to achieve more (c) plan to reach novel goals, and (d) creatively produce new knowledge.\r\n\r\n\r\nJoin us in building intelligence with ingenuity to bolster the skilled trades.\r\n\r\n",
+    "one_liner": "The neural engine for autonomous robots",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B",
     "launched_at": 1556081533,
     "tags": [
       "Artificial Intelligence",
-      "Sports Tech",
-      "Consumer",
-      "Fitness",
-      "Health & Wellness"
+      "Hard Tech",
+      "Neurotechnology",
+      "Robotics"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -4958,8 +4958,7 @@
     "batch": "Summer 2019",
     "status": "Active",
     "industries": [
-      "Healthcare",
-      "Consumer Health and Wellness"
+      "B2B"
     ],
     "regions": [
       "United States of America",
@@ -4970,10 +4969,10 @@
     "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": true,
-    "app_answers": true,
+    "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/bodysim-by-well-principled",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2019/bodysim-by-well-principled.json"
+    "url": "https://www.ycombinator.com/companies/well-principled",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2019/well-principled.json"
   },
   {
     "id": 12610,
@@ -8761,14 +8760,16 @@
   },
   {
     "id": 23530,
-    "name": "Waydev",
-    "slug": "waydev",
-    "former_names": [],
+    "name": "Waydev AI",
+    "slug": "waydev-ai",
+    "former_names": [
+      "Waydev"
+    ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/90694f4bdb7eb8f17b02f85faee3e3455edb365b.png",
     "website": "https://waydev.co/",
     "all_locations": "Menlo Park, CA, USA",
-    "long_description": "Waydev is the Engineering Productivity Intelligence platform that helps companies understand, measure, and improve the performance of their software teams. It connects to the tools engineers already use, then transforms code, work items, reviews, deployments, and AI-assisted activity into a unified source of truth for engineering effectiveness.\r\n\r\nBuilt for modern engineering leaders, Waydev delivers deep visibility across delivery speed, code quality, collaboration patterns, and real business impact. With automated insights, conversational analytics, and industry benchmarks, teams can make decisions with clarity, reduce bottlenecks, and continuously improve how software is shipped.\r\n\r\nWaydev replaces manual reporting, subjective evaluations, and static dashboards. It gives executives, managers, and ICs the context they need to optimize workflows, forecast outcomes, and align engineering output to business results.\r\n\r\nWaydev powers engineering intelligence for fast-growing startups and global enterprises by turning raw activity into actionable strategy.",
-    "one_liner": "The AI Engineering Intelligence Platform | DORA, SPACE, DX, CORE 4 ",
+    "long_description": "Waydev tracks AI-generated code from commit to production. AI Checkpoints capture which agent wrote the code, tokens consumed, cost per PR, acceptance rate, and whether it deployed. Compare Copilot, Cursor, and Claude Code on real production outcomes. Measure AI adoption by team, monthly spend, avg tokens per developer, and total tokens used. The Waydev Agent answers plain-English questions about your AI investment. Built for VPs of Engineering and CTOs. Trusted by Dropbox, American Express, Caterpillar, and PwC. ",
+    "one_liner": "Waydev: AI Adoption, AI Impact, and AI ROI for engineering teams",
     "team_size": 13,
     "industry": "B2B",
     "subindustry": "B2B -> Productivity",
@@ -8776,9 +8777,9 @@
     "tags": [
       "AI-Enhanced Learning",
       "Artificial Intelligence",
-      "Enterprise",
       "Data Engineering",
-      "Data Visualization"
+      "AI",
+      "AI Assistant"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -8796,13 +8797,13 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": true,
-    "url": "https://www.ycombinator.com/companies/waydev",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2021/waydev.json"
+    "url": "https://www.ycombinator.com/companies/waydev-ai",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2021/waydev-ai.json"
   },
   {
     "id": 23629,
@@ -11281,7 +11282,7 @@
       "Remote",
       "Fully Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -17343,7 +17344,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2023",
     "status": "Active",
@@ -20926,57 +20927,6 @@
     "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2023/autotab.json"
   },
   {
-    "id": 29137,
-    "name": "Oversteer",
-    "slug": "oversteer",
-    "former_names": [
-      "Thumbnail Game",
-      "TrendUp",
-      "trendup",
-      "Curatle",
-      "dinogent",
-      "Curatle"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/38b0ef5314d328b72aff9a8d9829350f181b5ace.png",
-    "website": "https://oversteer.dev",
-    "all_locations": "Irvine, CA, USA; Remote",
-    "long_description": "Oversteer is building browser agents to automate web tasks and turn them into reusable, deterministic APIs. You can integrate the API into any system and automate/integrate any website or portal. ",
-    "one_liner": "The most reliable browser agent for any web task",
-    "team_size": 1,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1689032123,
-    "tags": [
-      "Artificial Intelligence",
-      "Robotic Process Automation",
-      "B2B",
-      "API",
-      "Automation"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2023",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Fully Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/oversteer",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2023/oversteer.json"
-  },
-  {
     "id": 29150,
     "name": "Tempo",
     "slug": "tempo-2",
@@ -21456,12 +21406,12 @@
       "Legora",
       "Legora (formerly Leya)"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0c07116a743e8d35ce903cd8f6eb5d04b07833e7.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/05171178ffc17b0e9580f51631921117958c778c.png",
     "website": "https://www.legora.com/",
     "all_locations": "Stockholm, Stockholm County, Sweden",
     "long_description": "Legora is an AI-powered workspace for law firms and legal professionals. \r\n\r\nLegora lets lawyers automate their repetitive tasks and access public sources and their own data on one single platform.\r\n\r\nLearn more at https://www.legora.com/",
     "one_liner": "The AI workspace for lawyers",
-    "team_size": 250,
+    "team_size": 400,
     "industry": "B2B",
     "subindustry": "B2B -> Legal",
     "launched_at": 1695641655,
@@ -21486,7 +21436,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -28014,53 +27964,6 @@
     "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2024/handled.json"
   },
   {
-    "id": 29808,
-    "name": "Starcloud",
-    "slug": "starcloud",
-    "former_names": [
-      "Lumen Orbit, Inc.",
-      "Lumen Orbit",
-      "Star Cloud"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e9c9b9996bb500ee171134f1e1a0a83f5d48bec3.png",
-    "website": "https://www.starcloud.com/",
-    "all_locations": "Redmond, WA, USA",
-    "long_description": "Starcloud is building data centers in space, initially to provide GPU compute to other satellites, and later to address the rapidly growing demand for energy caused by the deployment of AI. Falling launch costs give Starcloud access to abundant energy, radiative cooling, and the ability to rapidly scale in space.\r\n\r\nIn November 2025, just 21 months after founding, Starcloud launched its first satellite, Starcloud-1 to space. This has an Nvidia H100, which is 100x more powerful GPU than has ever been operated in space before. With this, they became the first entity to train an LLM in space and the first to run a version of Gemini in space. Starcloud will soon also run high-powered inference on Capella SAR data on orbit for the first time. \r\n\r\nStarcloud is launching its second satellite in October 2026, which will have 100x the power generation of the first and generate more cash than it costs to build and launch. Starcloud expects that within 10 years, most new data centers will be being built in space for the energy.",
-    "one_liner": "Data centers in space",
-    "team_size": 12,
-    "industry": "Industrials",
-    "subindustry": "Industrials -> Aviation and Space",
-    "launched_at": 1718841179,
-    "tags": [
-      "Artificial Intelligence",
-      "Hard Tech",
-      "Satellites",
-      "Climate",
-      "Cloud Computing"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2024",
-    "status": "Active",
-    "industries": [
-      "Industrials",
-      "Aviation and Space"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": true,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/starcloud",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2024/starcloud.json"
-  },
-  {
     "id": 29810,
     "name": "bluedoor",
     "slug": "bluedoor",
@@ -29126,7 +29029,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Onlook is the fastest way for anyone to build, deploy, and iterate on websites and web apps. We built an open-source, visual editor for code that merges design, development, and AI.\r\n\r\nSince launching, Onlook hit #1 on Hacker News, was the #1 trending repo on GitHub—above DeepSeek—and has earned over 8,500 GitHub stars.\r\n\r\nFounded by Daniel Farrell, a designer of 10+ years and former Head of Growth, and Kiet Ho, an ex-Amazon and ex-ServiceNow engineer, Onlook is on a mission to finally solve the gap between design and development. ",
     "one_liner": "Cursor for Designers",
-    "team_size": 3,
+    "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1737572736,
@@ -29570,7 +29473,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/93b1b4fbe4b8807a5770f0fad5c76f3b8685dee9.png",
     "website": "https://riskcube.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "RiskCube helps startups and growing businesses become vendor-ready faster.\r\nWe use AI-driven workflows and licensed broker review to compare top U.S. carriers and deliver the insurance they need to sell into enterprise customers, pass procurement, and close deals quickly.\r\nFounders get D&O, Tech E&O, Cyber, General Liability, Product Liability, and COIs — built for AI/SaaS, Fintech, Space, and Web3 startups creating the future, from Earth today to the Moon tomorrow.",
+    "long_description": "RiskCube helps startups and growing businesses become vendor-ready faster.\r\nWe use AI-driven workflows and licensed broker to compare top U.S. carriers and deliver the insurance they need to sell into enterprise customers, pass procurement, and close deals quickly.\r\nFounders get D&O, Tech E&O, Cyber, General Liability, Product Liability, and COIs — built for AI/SaaS, Fintech, GovTech, Space, and Web3 startups creating the future, from Earth today to the Moon tomorrow.",
     "one_liner": "AI-native insurance broker for startups — from Earth to the Moon.",
     "team_size": 3,
     "industry": "Fintech",
@@ -29699,8 +29602,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8a284047c475d06365013890a991877b3bdad21e.png",
     "website": "https://lingo.dev",
     "all_locations": "San Francisco, CA, USA; Remote",
-    "long_description": "Lingo.dev builds localization workflow infrastructure - professional translations powered by any LLM, expert linguists, or both, all behind a single API. Self-teaching translation APIs, trainable to sound like the author. With our APIs, devtools and integrations, we help teams like Mistral, Solana, Cal.com create high quality translations for their content, web and mobile interfaces.",
-    "one_liner": "Localization infrastructure for developers and enterprises",
+    "long_description": "Lingo.dev is a localization engineering platform where teams create localization engines – stateful translation APIs configured with glossaries, brand voice rules, per-locale model preferences, and quality scoring. Each engine persists domain context across every request via retrieval augmented localization (RAL). Integrate via API, CLI, CI/CD, or other integrations. Localization infrastructure behind 200M+ translated words for teams including Mistral, Solana, SoSafe, and Cal.com.",
+    "one_liner": "Localization engineering platform for consistent, quality translations",
     "team_size": 7,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -30469,6 +30372,48 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/vetnio",
     "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2025/vetnio.json"
+  },
+  {
+    "id": 30181,
+    "name": "Leaping AI",
+    "slug": "leaping-ai",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2cf89546e97aa00342fd94e13a639b43add977d5.png",
+    "website": "https://www.leapingai.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Leaping AI is the best platform to deploy voice AI agents for customer service, lead qualification and appointment scheduling. We target mid-market and Enterprise companies and industries are: home services, pay per call, travel, retail, health insurance, Medicare, health and real estate.\r\n\r\nWe automated contact centers employing >100 human agents and now handle their incoming customer support and sales calls, end-to-end. All while maintaining 90% customer satisfaction score.\r\n\r\nFor another company, our voice AI agents were able to convert 30% of contacted leads within a week of the outbound campaign. A similar campaign with humans previously took that same company 5 weeks.\r\n",
+    "one_liner": "Voice AI agents to automate call centers (digital call center workers)",
+    "team_size": 11,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1736780951,
+    "tags": [
+      "Artificial Intelligence",
+      "B2B",
+      "Conversational AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2025",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": true,
+    "url": "https://www.ycombinator.com/companies/leaping-ai",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2025/leaping-ai.json"
   },
   {
     "id": 30183,
@@ -33361,6 +33306,43 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/kestral",
     "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2025/kestral.json"
+  },
+  {
+    "id": 30451,
+    "name": "Bluejay",
+    "slug": "bluejay",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1da0f5ca2648eccf749e97a890ad3887f0dc7eb7.png",
+    "website": "https://getbluejay.ai/",
+    "all_locations": "",
+    "long_description": "Bluejay’s mission is to engineer trust into every AI interaction, becoming the trust layer between businesses and their customers.",
+    "one_liner": "Test, monitor, and improve your voice and chat AI agents",
+    "team_size": 7,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1746833867,
+    "tags": [
+      "Artificial Intelligence"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Spring 2025",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/bluejay",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2025/bluejay.json"
   },
   {
     "id": 30456,
@@ -38874,6 +38856,47 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/voxel-energy",
     "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2026/voxel-energy.json"
+  },
+  {
+    "id": 31259,
+    "name": "Tsenta",
+    "slug": "tsenta",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5670afa2f39d71d15be15ed4c56ae5e0a65dbea4.png",
+    "website": "https://tsenta.com",
+    "all_locations": "",
+    "long_description": "Tsenta is a desktop app that matches you with jobs, optimizes your profile & applies on your behalf. It runs on your device, so you have granular control over every application being submitted in real-time.\r\n\r\nWe built Tsenta after applying to over 3,000 jobs manually, so that nobody else would have to.\r\n\r\nCheck us out at https://tsenta.com :)",
+    "one_liner": "Tsenta matches you to jobs and applies automatically on your behalf.",
+    "team_size": 2,
+    "industry": "Consumer",
+    "subindustry": "Consumer -> Job and Career Services",
+    "launched_at": 1769729252,
+    "tags": [
+      "Artificial Intelligence",
+      "Consumer",
+      "Recruiting",
+      "HR Tech"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "Consumer",
+      "Job and Career Services"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": true,
+    "url": "https://www.ycombinator.com/companies/tsenta",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2026/tsenta.json"
   },
   {
     "id": 31295,

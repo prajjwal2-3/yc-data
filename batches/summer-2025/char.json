@@ -5,16 +5,22 @@
   "former_names": [
     "Hyprnote"
   ],
-  "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/56f12bdb7423798d6634489cf39ecd1b961bf22d.png",
+  "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/aca02a57c5f38896120f1fe6767d1975b6a6b522.png",
   "website": "https://char.com",
   "all_locations": "",
-  "long_description": "Char is an open source Granola alternative that never locks you in. It's local-first and filesystem-based like Obsidian. Also, it provides ways to use on-device AI models or BYOK. ",
-  "one_liner": "Open source AI notepad for meetings",
+  "long_description": "Char records your meetings without bots, pulls action items from your emails, and builds a daily note with everything you need to do. You review it, tick what's done, and hand off the rest to AI agents like Claude or Cursor. Open source.",
+  "one_liner": "AI daily notes from your meetings, emails, and tasks",
   "team_size": 4,
   "industry": "B2B",
   "subindustry": "B2B -> Productivity",
   "launched_at": 1755302445,
-  "tags": [],
+  "tags": [
+    "SaaS",
+    "Productivity",
+    "Open Source",
+    "AI",
+    "AI Assistant"
+  ],
   "tags_highlighted": [],
   "top_company": false,
   "isHiring": false,

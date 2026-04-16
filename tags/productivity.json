@@ -2368,6 +2368,51 @@
     "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2021/clay.json"
   },
   {
+    "id": 22879,
+    "name": "Fathom",
+    "slug": "fathom",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/cef88933ea79fe84401faaf1ce8c0ecd65c642a3.png",
+    "website": "https://www.fathom.ai",
+    "all_locations": "San Francisco, CA, USA; Remote",
+    "long_description": "Fathom captures your meetings your way – bot or bot-free, on any call. Ask questions across your entire meeting history and get instant, cited answers. Connect your intelligence to Claude, ChatGPT, your CRM, and more. Desktop, mobile, and in-person.\r\n\r\nThe real value of meetings isn't just the notes. It's the knowledge inside them.\r\n\r\n#1 AI Notetaker on G2. Works with Zoom, Meet, and Teams.",
+    "one_liner": "The most flexible AI meeting notetaker ever built.",
+    "team_size": 95,
+    "industry": "B2B",
+    "subindustry": "B2B -> Productivity",
+    "launched_at": 1641591096,
+    "tags": [
+      "SaaS",
+      "B2B",
+      "Productivity",
+      "AI",
+      "Note-taking"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2021",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Productivity"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Fully Remote"
+    ],
+    "stage": "Growth",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/fathom",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2021/fathom.json"
+  },
+  {
     "id": 23096,
     "name": "Aerotime",
     "slug": "aerotime",
@@ -3430,51 +3475,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/livedocs",
     "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2022/livedocs.json"
-  },
-  {
-    "id": 25724,
-    "name": "Lovage",
-    "slug": "lovage",
-    "former_names": [
-      "Lovage Labs"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8bc1e9f862fee999c4e72bc8a67f0dedc5205775.png",
-    "website": "https://getlovage.com",
-    "all_locations": "Lehi, UT, USA",
-    "long_description": "Lovage creates automated, virtual receptionists for businesses that can handle almost any customer need over the phone, via text, or on social media. Instead of hiring someone or having to deal with interruptions while working, Lovage helps your customers by answering questions, booking appointments, and more - just like you would.",
-    "one_liner": "Smart, virtual receptionists for local businesses.",
-    "team_size": 7,
-    "industry": "B2B",
-    "subindustry": "B2B -> Operations",
-    "launched_at": 1642140655,
-    "tags": [
-      "SaaS",
-      "B2B",
-      "Productivity",
-      "SMB",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2022",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Operations"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/lovage",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2022/lovage.json"
   },
   {
     "id": 25831,
@@ -6496,12 +6496,12 @@
     "former_names": [
       "Auctor AI"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d8e7fb9fc6a31a470dcf923a359f699fa65811f5.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e14ac50e2fa0724e7b0c94e9bc2c4cdac5732e9e.png",
     "website": "https://getauctor.com",
     "all_locations": "New York, NY, USA",
     "long_description": "Auctor brings alignment and intelligence to software implementation, enabling every project to deliver its intended value with clarity and precision.",
     "one_liner": "The agentic operating system for modern system integrators.",
-    "team_size": 15,
+    "team_size": 25,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1744707028,
@@ -6911,6 +6911,51 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/epicenter",
     "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2025/epicenter.json"
+  },
+  {
+    "id": 30711,
+    "name": "Char",
+    "slug": "char",
+    "former_names": [
+      "Hyprnote"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/aca02a57c5f38896120f1fe6767d1975b6a6b522.png",
+    "website": "https://char.com",
+    "all_locations": "",
+    "long_description": "Char records your meetings without bots, pulls action items from your emails, and builds a daily note with everything you need to do. You review it, tick what's done, and hand off the rest to AI agents like Claude or Cursor. Open source.",
+    "one_liner": "AI daily notes from your meetings, emails, and tasks",
+    "team_size": 4,
+    "industry": "B2B",
+    "subindustry": "B2B -> Productivity",
+    "launched_at": 1755302445,
+    "tags": [
+      "SaaS",
+      "Productivity",
+      "Open Source",
+      "AI",
+      "AI Assistant"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Productivity"
+    ],
+    "regions": [
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/char",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2025/char.json"
   },
   {
     "id": 30743,

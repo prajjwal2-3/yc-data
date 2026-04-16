@@ -2157,24 +2157,25 @@
   },
   {
     "id": 2025,
-    "name": "LemonBox Health",
-    "slug": "lemonbox-health",
+    "name": "LemonBox",
+    "slug": "lemonbox",
     "former_names": [
-      "LemonBox"
+      "LemonBox",
+      "LemonBox Health"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a8e0f926603810ff5a714566d5b989b02b6c7398.png",
     "website": "http://www.lemonbox.com/",
     "all_locations": "Hong Kong, Hong Kong",
-    "long_description": "LemonBox provides personalized daily vitamin packs for Chinese consumers, along with dietary advice from U.S. registered dietitians. All the products are made in the U.S. and shipped to customers within 7-10 days, based on a monthly subscription model.",
-    "one_liner": "From vitamins to meals, AI that optimizes your daily nutrition.",
-    "team_size": 50,
-    "industry": "Consumer",
-    "subindustry": "Consumer -> Home and Personal",
+    "long_description": "LemonBox is an AI-driven personalized nutrition company. Using generative AI nutrition（AI 生成式定制营养）, LemonBox analyzes each user's dietary habits, health goals, and biometric data to generate a custom daily supplement formula — then produces and delivers it as a personalized day pack via monthly subscription. Founded in Silicon Valley in 2016 and backed by Y Combinator, Bessemer Venture Partners, and Partech Ventures, LemonBox has served over 10 million users globally.",
+    "one_liner": "AI-generated personalized nutrition solutions, built for you daily.",
+    "team_size": 20,
+    "industry": "Healthcare",
+    "subindustry": "Healthcare -> Consumer Health and Wellness",
     "launched_at": 1527526952,
     "tags": [
+      "Generative AI",
       "Health Tech",
       "Health & Wellness",
-      "Consumer Products",
       "AI",
       "China"
     ],
@@ -2185,8 +2186,8 @@
     "batch": "Summer 2018",
     "status": "Active",
     "industries": [
-      "Consumer",
-      "Home and Personal"
+      "Healthcare",
+      "Consumer Health and Wellness"
     ],
     "regions": [
       "Hong Kong",
@@ -2197,8 +2198,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/lemonbox-health",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2018/lemonbox-health.json"
+    "url": "https://www.ycombinator.com/companies/lemonbox",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2018/lemonbox.json"
   },
   {
     "id": 2034,
@@ -5122,6 +5123,51 @@
     "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2021/popl.json"
   },
   {
+    "id": 22879,
+    "name": "Fathom",
+    "slug": "fathom",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/cef88933ea79fe84401faaf1ce8c0ecd65c642a3.png",
+    "website": "https://www.fathom.ai",
+    "all_locations": "San Francisco, CA, USA; Remote",
+    "long_description": "Fathom captures your meetings your way – bot or bot-free, on any call. Ask questions across your entire meeting history and get instant, cited answers. Connect your intelligence to Claude, ChatGPT, your CRM, and more. Desktop, mobile, and in-person.\r\n\r\nThe real value of meetings isn't just the notes. It's the knowledge inside them.\r\n\r\n#1 AI Notetaker on G2. Works with Zoom, Meet, and Teams.",
+    "one_liner": "The most flexible AI meeting notetaker ever built.",
+    "team_size": 95,
+    "industry": "B2B",
+    "subindustry": "B2B -> Productivity",
+    "launched_at": 1641591096,
+    "tags": [
+      "SaaS",
+      "B2B",
+      "Productivity",
+      "AI",
+      "Note-taking"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2021",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Productivity"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Fully Remote"
+    ],
+    "stage": "Growth",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/fathom",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2021/fathom.json"
+  },
+  {
     "id": 22906,
     "name": "LiveFlow",
     "slug": "liveflow",
@@ -5524,6 +5570,53 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/mindportal",
     "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2021/mindportal.json"
+  },
+  {
+    "id": 23530,
+    "name": "Waydev AI",
+    "slug": "waydev-ai",
+    "former_names": [
+      "Waydev"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/90694f4bdb7eb8f17b02f85faee3e3455edb365b.png",
+    "website": "https://waydev.co/",
+    "all_locations": "Menlo Park, CA, USA",
+    "long_description": "Waydev tracks AI-generated code from commit to production. AI Checkpoints capture which agent wrote the code, tokens consumed, cost per PR, acceptance rate, and whether it deployed. Compare Copilot, Cursor, and Claude Code on real production outcomes. Measure AI adoption by team, monthly spend, avg tokens per developer, and total tokens used. The Waydev Agent answers plain-English questions about your AI investment. Built for VPs of Engineering and CTOs. Trusted by Dropbox, American Express, Caterpillar, and PwC. ",
+    "one_liner": "Waydev: AI Adoption, AI Impact, and AI ROI for engineering teams",
+    "team_size": 13,
+    "industry": "B2B",
+    "subindustry": "B2B -> Productivity",
+    "launched_at": 1616455133,
+    "tags": [
+      "AI-Enhanced Learning",
+      "Artificial Intelligence",
+      "Data Engineering",
+      "AI",
+      "AI Assistant"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2021",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Productivity"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": true,
+    "url": "https://www.ycombinator.com/companies/waydev-ai",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2021/waydev-ai.json"
   },
   {
     "id": 23638,
@@ -8594,17 +8687,17 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8bc1e9f862fee999c4e72bc8a67f0dedc5205775.png",
     "website": "https://getlovage.com",
-    "all_locations": "Lehi, UT, USA",
-    "long_description": "Lovage creates automated, virtual receptionists for businesses that can handle almost any customer need over the phone, via text, or on social media. Instead of hiring someone or having to deal with interruptions while working, Lovage helps your customers by answering questions, booking appointments, and more - just like you would.",
-    "one_liner": "Smart, virtual receptionists for local businesses.",
-    "team_size": 7,
+    "all_locations": "Orem, UT, USA",
+    "long_description": "Lovage helps barbers and stylists fill empty appointment slots and get more clients.\r\n\r\nBeauty professionals frequently have gaps in their schedules due to cancellations, no-shows, and uneven demand. Lovage turns that unused availability into booked appointments.\r\n\r\nWe integrate with booking systems to detect open slots, generate on-brand content, and distribute it to channels like Instagram where clients can instantly book.\r\n\r\nThe result is more bookings, higher utilization, and increased revenue without relying on ads or manual marketing.",
+    "one_liner": "Automatically fill empty appointment slots for beauty professionals",
+    "team_size": 3,
     "industry": "B2B",
-    "subindustry": "B2B -> Operations",
+    "subindustry": "B2B -> Marketing",
     "launched_at": 1642140655,
     "tags": [
       "SaaS",
       "B2B",
-      "Productivity",
+      "Marketing",
       "SMB",
       "AI"
     ],
@@ -8616,7 +8709,7 @@
     "status": "Active",
     "industries": [
       "B2B",
-      "Operations"
+      "Marketing"
     ],
     "regions": [
       "United States of America",
@@ -14492,7 +14585,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2023",
     "status": "Active",
@@ -17430,6 +17523,58 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/constructable",
     "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2023/constructable.json"
+  },
+  {
+    "id": 29137,
+    "name": "Opensteer",
+    "slug": "opensteer",
+    "former_names": [
+      "Thumbnail Game",
+      "TrendUp",
+      "trendup",
+      "Curatle",
+      "dinogent",
+      "Curatle",
+      "Oversteer"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/38b0ef5314d328b72aff9a8d9829350f181b5ace.png",
+    "website": "https://opensteer.com",
+    "all_locations": "Irvine, CA, USA; Remote",
+    "long_description": "Oversteer is building browser agents to automate web tasks and turn them into reusable, deterministic APIs. You can integrate the API into any system and automate/integrate any website or portal. ",
+    "one_liner": "The most reliable browser agent for any web task",
+    "team_size": 1,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1689032123,
+    "tags": [
+      "Robotic Process Automation",
+      "B2B",
+      "API",
+      "Automation",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2023",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Fully Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/opensteer",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2023/opensteer.json"
   },
   {
     "id": 29150,
@@ -23609,6 +23754,53 @@
     "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2024/dataleap.json"
   },
   {
+    "id": 29808,
+    "name": "Starcloud",
+    "slug": "starcloud",
+    "former_names": [
+      "Lumen Orbit, Inc.",
+      "Lumen Orbit",
+      "Star Cloud"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e9c9b9996bb500ee171134f1e1a0a83f5d48bec3.png",
+    "website": "https://www.starcloud.com/",
+    "all_locations": "Redmond, WA, USA",
+    "long_description": "Starcloud is building data centers in space, initially to provide GPU compute to other satellites, and later to address the rapidly growing demand for energy caused by the deployment of AI. Falling launch costs give Starcloud access to abundant energy, radiative cooling, and the ability to rapidly scale in space.\r\n\r\nIn November 2025, just 21 months after founding, Starcloud launched its first satellite, Starcloud-1 to space. This has an Nvidia H100, which is 100x more powerful GPU than has ever been operated in space before. With this, they became the first entity to train an LLM in space and the first to run a version of Gemini in space. Starcloud will soon also run high-powered inference on Capella SAR data on orbit for the first time. \r\n\r\nStarcloud is launching its second satellite in October 2026, which will have 100x the power generation of the first and generate more cash than it costs to build and launch. Starcloud expects that within 10 years, most new data centers will be being built in space for the energy.\r\n\r\nIn March 2026, Starcloud raised a $170M Series A led by Benchmark, becoming the fastest unicorn in YC history, just 17 months after demo day.",
+    "one_liner": "Data centers in space",
+    "team_size": 12,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Aviation and Space",
+    "launched_at": 1718841179,
+    "tags": [
+      "Hard Tech",
+      "Satellites",
+      "Climate",
+      "Cloud Computing",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2024",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Aviation and Space"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": true,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/starcloud",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2024/starcloud.json"
+  },
+  {
     "id": 29823,
     "name": "autarc",
     "slug": "autarc",
@@ -24589,7 +24781,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Fall 2024",
     "status": "Active",
@@ -25685,48 +25877,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/vetnio",
     "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2025/vetnio.json"
-  },
-  {
-    "id": 30181,
-    "name": "Leaping AI",
-    "slug": "leaping-ai",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2cf89546e97aa00342fd94e13a639b43add977d5.png",
-    "website": "https://www.leapingai.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Leaping AI is the best platform to deploy voice AI agents for customer service, lead qualification and appointment scheduling. We target mid-market and Enterprise companies and industries are: home services, pay per call, travel, retail, health insurance, Medicare, health and real estate.\r\n\r\nWe automated contact centers employing >100 human agents and now handle their incoming customer support and sales calls, end-to-end. All while maintaining 90% customer satisfaction score.\r\n\r\nFor another company, our voice AI agents were able to convert 30% of contacted leads within a week of the outbound campaign. A similar campaign with humans previously took that same company 5 weeks.\r\n",
-    "one_liner": "Voice AI agents to automate call centers (digital call center workers)",
-    "team_size": 9,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1736780951,
-    "tags": [
-      "B2B",
-      "AI",
-      "Conversational AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2025",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": true,
-    "url": "https://www.ycombinator.com/companies/leaping-ai",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2025/leaping-ai.json"
   },
   {
     "id": 30183,
@@ -27207,7 +27357,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1e885d9503dffbb01e24f5bd3a78965979764099.png",
     "website": "https://www.frekil.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Today, it takes months to understand how drugs perform in the real world, delaying safety insights, slowing approvals, and costing lives. Frekil turns that months-long process into minutes, with full auditability and regulatory-grade rigor.\r\n\r\nFrekil automatically generates real-world evidence of drug performance from EHR, claims data, etc. It acts like an AI Biostatistician that understands medical ontologies and statistical methods, running complex analyses on autopilot.\r\n\r\nWe help Pharma, Biotech, CROs, and Clinical Researchers to run RWE studies 100x faster and produce publication-ready retrospective studies with transparent lineage in minutes.",
+    "long_description": "Today, it takes months to understand how drugs perform in the real world, delaying safety insights, slowing approvals, and costing lives. Frekil turns that months-long process into minutes, with full auditability and scientific rigor.\r\n\r\nFrekil accelerates real world evidence (RWE) generation for life sciences companies from months to minutes. It connects to fragmented clinical data (EHR, Claims, etc.), harmonizes it, and lets teams run end-to-end studies from cohort design to SAP, statistical analysis, and final reports.",
     "one_liner": "Accelerate Real World Evidence (RWE) Generation from months to minutes",
     "team_size": 2,
     "industry": "Healthcare",
@@ -27956,43 +28106,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/kirana-ai",
     "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2025/kirana-ai.json"
-  },
-  {
-    "id": 30451,
-    "name": "Bluejay",
-    "slug": "bluejay",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ecd78040c9d350d022460582d39721b12b42ae57.png",
-    "website": "https://getbluejay.ai/",
-    "all_locations": "",
-    "long_description": "Bluejay’s mission is to engineer trust into every AI interaction, becoming the trust layer between businesses and their customers.",
-    "one_liner": "The world's first quality assurance agency for voice & text AI.",
-    "team_size": 7,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1746833867,
-    "tags": [
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Spring 2025",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "Unspecified"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/bluejay",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2025/bluejay.json"
   },
   {
     "id": 30455,
@@ -30239,6 +30352,51 @@
     "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2025/goriff.json"
   },
   {
+    "id": 30711,
+    "name": "Char",
+    "slug": "char",
+    "former_names": [
+      "Hyprnote"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/aca02a57c5f38896120f1fe6767d1975b6a6b522.png",
+    "website": "https://char.com",
+    "all_locations": "",
+    "long_description": "Char records your meetings without bots, pulls action items from your emails, and builds a daily note with everything you need to do. You review it, tick what's done, and hand off the rest to AI agents like Claude or Cursor. Open source.",
+    "one_liner": "AI daily notes from your meetings, emails, and tasks",
+    "team_size": 4,
+    "industry": "B2B",
+    "subindustry": "B2B -> Productivity",
+    "launched_at": 1755302445,
+    "tags": [
+      "SaaS",
+      "Productivity",
+      "Open Source",
+      "AI",
+      "AI Assistant"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Productivity"
+    ],
+    "regions": [
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/char",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2025/char.json"
+  },
+  {
     "id": 30712,
     "name": "Relling",
     "slug": "relling",
@@ -30430,7 +30588,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Summer 2025",
     "status": "Active",
@@ -33534,47 +33692,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/grade",
     "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2026/grade.json"
-  },
-  {
-    "id": 31259,
-    "name": "Tsenta",
-    "slug": "tsenta",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5670afa2f39d71d15be15ed4c56ae5e0a65dbea4.png",
-    "website": "https://tsenta.com",
-    "all_locations": "",
-    "long_description": "Tsenta is a desktop app that matches you with jobs, optimizes your profile & applies on your behalf. It runs on your device, so you have granular control over every application being submitted in real-time.\r\n\r\nWe built Tsenta after applying to over 3,000 jobs manually, so that nobody else would have to.\r\n\r\nCheck us out at https://tsenta.com :)",
-    "one_liner": "AI-Native, On-Device Job Automation",
-    "team_size": 2,
-    "industry": "Consumer",
-    "subindustry": "Consumer -> Job and Career Services",
-    "launched_at": 1769729252,
-    "tags": [
-      "Consumer",
-      "Recruiting",
-      "HR Tech",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Summer 2026",
-    "status": "Active",
-    "industries": [
-      "Consumer",
-      "Job and Career Services"
-    ],
-    "regions": [
-      "Unspecified"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": true,
-    "url": "https://www.ycombinator.com/companies/tsenta",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2026/tsenta.json"
   },
   {
     "id": 31283,

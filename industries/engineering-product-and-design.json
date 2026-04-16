@@ -14592,7 +14592,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2023",
     "status": "Active",
@@ -14794,17 +14794,18 @@
   },
   {
     "id": 28361,
-    "name": "Streamstraight",
-    "slug": "streamstraight",
+    "name": "Lightski",
+    "slug": "lightski",
     "former_names": [
       "Codex",
-      "Lightski"
+      "Lightski",
+      "Streamstraight"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2d21bd8c7920701952e3692272a988b9e7b8a0e5.png",
-    "website": "https://www.streamstraight.com",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/bb4374eaa0da532a48ab79f76c84cd38d075db6d.png",
+    "website": "https://www.lightski.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Streamstraight ensures your users never see an interrupted LLM response. We solve the problems around resumable streams and reconnecting during an in-progress AI response, so you can ensure your long-running AI agents responses are never interrupted on the frontend. \r\n\r\nIf you…\r\n\r\n* show an incomplete response when users return to an AI chat that's still in-progress\r\n* have users who request multiple long-running AI responses, simultaneously\r\n* lose data when a client reloads the page during a stream\r\n* deal with flaky connections due to mobile clients\r\n* want to run LLM inference from an async job\r\n* want to stream the same LLM response to multiple browser tabs/clients\r\n\r\n…message us! We can fix these issues and ensure your frontend stays high quality during long-running streams. ",
-    "one_liner": "The best way to stream LLM thinking traces to your frontend",
+    "long_description": "We help enterprises transform their operations with the latest AI agents.",
+    "one_liner": "AI Agents for Enterprises",
     "team_size": 1,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -14834,8 +14835,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/streamstraight",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2023/streamstraight.json"
+    "url": "https://www.ycombinator.com/companies/lightski",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2023/lightski.json"
   },
   {
     "id": 28416,
@@ -19899,7 +19900,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Onlook is the fastest way for anyone to build, deploy, and iterate on websites and web apps. We built an open-source, visual editor for code that merges design, development, and AI.\r\n\r\nSince launching, Onlook hit #1 on Hacker News, was the #1 trending repo on GitHub—above DeepSeek—and has earned over 8,500 GitHub stars.\r\n\r\nFounded by Daniel Farrell, a designer of 10+ years and former Head of Growth, and Kiet Ho, an ex-Amazon and ex-ServiceNow engineer, Onlook is on a mission to finally solve the gap between design and development. ",
     "one_liner": "Cursor for Designers",
-    "team_size": 3,
+    "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1737572736,
@@ -20168,8 +20169,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8a284047c475d06365013890a991877b3bdad21e.png",
     "website": "https://lingo.dev",
     "all_locations": "San Francisco, CA, USA; Remote",
-    "long_description": "Lingo.dev builds localization workflow infrastructure - professional translations powered by any LLM, expert linguists, or both, all behind a single API. Self-teaching translation APIs, trainable to sound like the author. With our APIs, devtools and integrations, we help teams like Mistral, Solana, Cal.com create high quality translations for their content, web and mobile interfaces.",
-    "one_liner": "Localization infrastructure for developers and enterprises",
+    "long_description": "Lingo.dev is a localization engineering platform where teams create localization engines – stateful translation APIs configured with glossaries, brand voice rules, per-locale model preferences, and quality scoring. Each engine persists domain context across every request via retrieval augmented localization (RAL). Integrate via API, CLI, CI/CD, or other integrations. Localization infrastructure behind 200M+ translated words for teams including Mistral, Solana, SoSafe, and Cal.com.",
+    "one_liner": "Localization engineering platform for consistent, quality translations",
     "team_size": 7,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -23238,7 +23239,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Summer 2025",
     "status": "Active",
@@ -25257,7 +25258,7 @@
     "former_names": [
       "Lamina AI"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5fc3965228e864c02ebb264e89eeaeae9b803abb.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9d4ccf38786878539ecdd96792388a25ab1ab0bf.png",
     "website": "https://laminalabs.ai",
     "all_locations": "",
     "long_description": "We are building the fastest visual infrastructure for EdTech AI applications. With a simple text prompt, students get accurate visual explanations in seconds, making high-quality learning dramatically faster and cheaper. ",
@@ -25463,5 +25464,46 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/gigacatalyst",
     "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/gigacatalyst.json"
+  },
+  {
+    "id": 31547,
+    "name": "InsForge",
+    "slug": "insforge",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/de52713fe1552551dbe8aa2a5e60202c09bfc0d7.png",
+    "website": "https://insforge.dev/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "InsForge is a backend platform built for AI coding agents. Unlike traditional backends designed for humans, InsForge exposes backend primitives like databases and auth through a semantic layer that agents can natively understand and operate, so teams can ship fullstack apps without backend bottlenecks.",
+    "one_liner": "The backend AI agents can actually use",
+    "team_size": 6,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1776234676,
+    "tags": [
+      "Developer Tools",
+      "Open Source",
+      "Infrastructure"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/insforge",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/insforge.json"
   }
 ]

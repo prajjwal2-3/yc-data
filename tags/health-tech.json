@@ -1939,24 +1939,25 @@
   },
   {
     "id": 2025,
-    "name": "LemonBox Health",
-    "slug": "lemonbox-health",
+    "name": "LemonBox",
+    "slug": "lemonbox",
     "former_names": [
-      "LemonBox"
+      "LemonBox",
+      "LemonBox Health"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a8e0f926603810ff5a714566d5b989b02b6c7398.png",
     "website": "http://www.lemonbox.com/",
     "all_locations": "Hong Kong, Hong Kong",
-    "long_description": "LemonBox provides personalized daily vitamin packs for Chinese consumers, along with dietary advice from U.S. registered dietitians. All the products are made in the U.S. and shipped to customers within 7-10 days, based on a monthly subscription model.",
-    "one_liner": "From vitamins to meals, AI that optimizes your daily nutrition.",
-    "team_size": 50,
-    "industry": "Consumer",
-    "subindustry": "Consumer -> Home and Personal",
+    "long_description": "LemonBox is an AI-driven personalized nutrition company. Using generative AI nutrition（AI 生成式定制营养）, LemonBox analyzes each user's dietary habits, health goals, and biometric data to generate a custom daily supplement formula — then produces and delivers it as a personalized day pack via monthly subscription. Founded in Silicon Valley in 2016 and backed by Y Combinator, Bessemer Venture Partners, and Partech Ventures, LemonBox has served over 10 million users globally.",
+    "one_liner": "AI-generated personalized nutrition solutions, built for you daily.",
+    "team_size": 20,
+    "industry": "Healthcare",
+    "subindustry": "Healthcare -> Consumer Health and Wellness",
     "launched_at": 1527526952,
     "tags": [
+      "Generative AI",
       "Health Tech",
       "Health & Wellness",
-      "Consumer Products",
       "AI",
       "China"
     ],
@@ -1967,8 +1968,8 @@
     "batch": "Summer 2018",
     "status": "Active",
     "industries": [
-      "Consumer",
-      "Home and Personal"
+      "Healthcare",
+      "Consumer Health and Wellness"
     ],
     "regions": [
       "Hong Kong",
@@ -1979,8 +1980,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/lemonbox-health",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2018/lemonbox-health.json"
+    "url": "https://www.ycombinator.com/companies/lemonbox",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2018/lemonbox.json"
   },
   {
     "id": 11976,
@@ -6871,7 +6872,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1e885d9503dffbb01e24f5bd3a78965979764099.png",
     "website": "https://www.frekil.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Today, it takes months to understand how drugs perform in the real world, delaying safety insights, slowing approvals, and costing lives. Frekil turns that months-long process into minutes, with full auditability and regulatory-grade rigor.\r\n\r\nFrekil automatically generates real-world evidence of drug performance from EHR, claims data, etc. It acts like an AI Biostatistician that understands medical ontologies and statistical methods, running complex analyses on autopilot.\r\n\r\nWe help Pharma, Biotech, CROs, and Clinical Researchers to run RWE studies 100x faster and produce publication-ready retrospective studies with transparent lineage in minutes.",
+    "long_description": "Today, it takes months to understand how drugs perform in the real world, delaying safety insights, slowing approvals, and costing lives. Frekil turns that months-long process into minutes, with full auditability and scientific rigor.\r\n\r\nFrekil accelerates real world evidence (RWE) generation for life sciences companies from months to minutes. It connects to fragmented clinical data (EHR, Claims, etc.), harmonizes it, and lets teams run end-to-end studies from cohort design to SAP, statistical analysis, and final reports.",
     "one_liner": "Accelerate Real World Evidence (RWE) Generation from months to minutes",
     "team_size": 2,
     "industry": "Healthcare",

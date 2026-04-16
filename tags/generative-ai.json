@@ -453,6 +453,52 @@
     "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2018/leena-ai.json"
   },
   {
+    "id": 2025,
+    "name": "LemonBox",
+    "slug": "lemonbox",
+    "former_names": [
+      "LemonBox",
+      "LemonBox Health"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a8e0f926603810ff5a714566d5b989b02b6c7398.png",
+    "website": "http://www.lemonbox.com/",
+    "all_locations": "Hong Kong, Hong Kong",
+    "long_description": "LemonBox is an AI-driven personalized nutrition company. Using generative AI nutrition（AI 生成式定制营养）, LemonBox analyzes each user's dietary habits, health goals, and biometric data to generate a custom daily supplement formula — then produces and delivers it as a personalized day pack via monthly subscription. Founded in Silicon Valley in 2016 and backed by Y Combinator, Bessemer Venture Partners, and Partech Ventures, LemonBox has served over 10 million users globally.",
+    "one_liner": "AI-generated personalized nutrition solutions, built for you daily.",
+    "team_size": 20,
+    "industry": "Healthcare",
+    "subindustry": "Healthcare -> Consumer Health and Wellness",
+    "launched_at": 1527526952,
+    "tags": [
+      "Generative AI",
+      "Health Tech",
+      "Health & Wellness",
+      "AI",
+      "China"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2018",
+    "status": "Active",
+    "industries": [
+      "Healthcare",
+      "Consumer Health and Wellness"
+    ],
+    "regions": [
+      "Hong Kong",
+      "East Asia"
+    ],
+    "stage": "Growth",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/lemonbox",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2018/lemonbox.json"
+  },
+  {
     "id": 11994,
     "name": "Sapling.ai",
     "slug": "sapling-ai",
@@ -5964,17 +6010,18 @@
   },
   {
     "id": 28361,
-    "name": "Streamstraight",
-    "slug": "streamstraight",
+    "name": "Lightski",
+    "slug": "lightski",
     "former_names": [
       "Codex",
-      "Lightski"
+      "Lightski",
+      "Streamstraight"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2d21bd8c7920701952e3692272a988b9e7b8a0e5.png",
-    "website": "https://www.streamstraight.com",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/bb4374eaa0da532a48ab79f76c84cd38d075db6d.png",
+    "website": "https://www.lightski.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Streamstraight ensures your users never see an interrupted LLM response. We solve the problems around resumable streams and reconnecting during an in-progress AI response, so you can ensure your long-running AI agents responses are never interrupted on the frontend. \r\n\r\nIf you…\r\n\r\n* show an incomplete response when users return to an AI chat that's still in-progress\r\n* have users who request multiple long-running AI responses, simultaneously\r\n* lose data when a client reloads the page during a stream\r\n* deal with flaky connections due to mobile clients\r\n* want to run LLM inference from an async job\r\n* want to stream the same LLM response to multiple browser tabs/clients\r\n\r\n…message us! We can fix these issues and ensure your frontend stays high quality during long-running streams. ",
-    "one_liner": "The best way to stream LLM thinking traces to your frontend",
+    "long_description": "We help enterprises transform their operations with the latest AI agents.",
+    "one_liner": "AI Agents for Enterprises",
     "team_size": 1,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -6004,8 +6051,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/streamstraight",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2023/streamstraight.json"
+    "url": "https://www.ycombinator.com/companies/lightski",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2023/lightski.json"
   },
   {
     "id": 28409,
@@ -7432,12 +7479,12 @@
       "Legora",
       "Legora (formerly Leya)"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0c07116a743e8d35ce903cd8f6eb5d04b07833e7.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/05171178ffc17b0e9580f51631921117958c778c.png",
     "website": "https://www.legora.com/",
     "all_locations": "Stockholm, Stockholm County, Sweden",
     "long_description": "Legora is an AI-powered workspace for law firms and legal professionals. \r\n\r\nLegora lets lawyers automate their repetitive tasks and access public sources and their own data on one single platform.\r\n\r\nLearn more at https://www.legora.com/",
     "one_liner": "The AI workspace for lawyers",
-    "team_size": 250,
+    "team_size": 400,
     "industry": "B2B",
     "subindustry": "B2B -> Legal",
     "launched_at": 1695641655,
@@ -7462,7 +7509,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -10499,12 +10546,12 @@
     "former_names": [
       "Auctor AI"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d8e7fb9fc6a31a470dcf923a359f699fa65811f5.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e14ac50e2fa0724e7b0c94e9bc2c4cdac5732e9e.png",
     "website": "https://getauctor.com",
     "all_locations": "New York, NY, USA",
     "long_description": "Auctor brings alignment and intelligence to software implementation, enabling every project to deliver its intended value with clarity and precision.",
     "one_liner": "The agentic operating system for modern system integrators.",
-    "team_size": 15,
+    "team_size": 25,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1744707028,
@@ -11180,7 +11227,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2a8caed7d0a490086d7e541276710ed25029450f.png",
     "website": "https://absurd.com/",
     "all_locations": "",
-    "long_description": "Absurd makes AI brand and performance ads at scale. Our last video for Kalshi (\"Election Day\") did 1M+ views, and our videos average 400K+ organic views.\r\n\r\nCompanies like Hims, Kalshi, Replit, and Brex use Absurd to create production-quality videos in 72 hours. We do it with a multi-agent orchestration layer, working closely with your team from concept to final cut.\r\n\r\nTry it at absurd.com\r\n\r\nWe're hiring: absurd.com/careers",
+    "long_description": "Absurd makes AI brand and performance ads at scale. Our last video for Kalshi (\"Election Day\") did 1M+ views, and our videos average 400K+ organic views.\r\n\r\nCompanies like Hims, Kalshi, Replit, and Brex use Absurd to create production-quality videos in 72 hours. We do it with a multi-agent orchestration layer, working closely with your team from concept to final cut.\r\n\r\nTry it at absurd.com",
     "one_liner": "AI Videos",
     "team_size": 6,
     "industry": "B2B",

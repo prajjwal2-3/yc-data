@@ -2310,7 +2310,7 @@
     "all_locations": "New York, NY, USA",
     "long_description": "CrowdVolt is rebuilding the infrastructure for live events, starting with an automated marketplace for raves and electronic dance music.",
     "one_liner": "The integration layer for live events infrastructure ",
-    "team_size": 8,
+    "team_size": 10,
     "industry": "Consumer",
     "subindustry": "Consumer",
     "launched_at": 1708402036,
@@ -2924,8 +2924,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8a284047c475d06365013890a991877b3bdad21e.png",
     "website": "https://lingo.dev",
     "all_locations": "San Francisco, CA, USA; Remote",
-    "long_description": "Lingo.dev builds localization workflow infrastructure - professional translations powered by any LLM, expert linguists, or both, all behind a single API. Self-teaching translation APIs, trainable to sound like the author. With our APIs, devtools and integrations, we help teams like Mistral, Solana, Cal.com create high quality translations for their content, web and mobile interfaces.",
-    "one_liner": "Localization infrastructure for developers and enterprises",
+    "long_description": "Lingo.dev is a localization engineering platform where teams create localization engines – stateful translation APIs configured with glossaries, brand voice rules, per-locale model preferences, and quality scoring. Each engine persists domain context across every request via retrieval augmented localization (RAL). Integrate via API, CLI, CI/CD, or other integrations. Localization infrastructure behind 200M+ translated words for teams including Mistral, Solana, SoSafe, and Cal.com.",
+    "one_liner": "Localization engineering platform for consistent, quality translations",
     "team_size": 7,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -4911,5 +4911,46 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/ardent",
     "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/ardent.json"
+  },
+  {
+    "id": 31547,
+    "name": "InsForge",
+    "slug": "insforge",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/de52713fe1552551dbe8aa2a5e60202c09bfc0d7.png",
+    "website": "https://insforge.dev/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "InsForge is a backend platform built for AI coding agents. Unlike traditional backends designed for humans, InsForge exposes backend primitives like databases and auth through a semantic layer that agents can natively understand and operate, so teams can ship fullstack apps without backend bottlenecks.",
+    "one_liner": "The backend AI agents can actually use",
+    "team_size": 6,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1776234676,
+    "tags": [
+      "Developer Tools",
+      "Open Source",
+      "Infrastructure"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/insforge",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/insforge.json"
   }
 ]

@@ -3547,9 +3547,9 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/cdb97ca4207ccb8346f6dd29984f5fca487812e0.png",
     "website": "https://pocketsuite.io",
     "all_locations": "San Francisco, CA, USA; Remote",
-    "long_description": "PocketSuite is a YC-backed mobile platform for service businesses, ranging from fitness trainers, photographers, and home cleaners to dog trainers, hairstylists, therapists, and life coaches. Businesses use PocketSuite to get booked, paid, and message their clients. We make the work of running your own business simple for solo operators and small teams. PocketSuite empowers the U.S. market of 20 million service professionals generating $800 billion in sales with a mobile cloud solution for running their business. Thousands of businesses run on PocketSuite. Over 500,000 clients book and pay their Pros on PocketSuite today and we're growing fast.",
-    "one_liner": "PocketSuite makes it easy for your clients to book and pay you",
-    "team_size": 20,
+    "long_description": "PocketSuite is the all-in-one platform built for service businesses. From bookings and payments to client communication and beyond, we help owners and managers simplify their business and focus on what they do best. For more than a decade, thousands of independent professionals, small businesses, and multi-location brands have trusted PocketSuite to power their service businesses and serve hundreds of thousands of clients. We’re proud to support a diverse community of entrepreneurs at every stage of their journey. PocketSuite empowers the U.S. market of 20 million service businesses, generating $1 billion in sales with a desktop and mobile cloud solution for running their business. Thousands of businesses run on PocketSuite. Over 600,000 clients book, pay, and communicate with their service providers on PocketSuite today, and we're growing fast.",
+    "one_liner": "All-In-One Business Operating System by PocketSuite",
+    "team_size": 30,
     "industry": "B2B",
     "subindustry": "B2B -> Productivity",
     "launched_at": 1447312814,
@@ -3558,7 +3558,7 @@
       "Payments",
       "Messaging",
       "Scheduling",
-      "CRM"
+      "Operations"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -5002,7 +5002,7 @@
       "Remote",
       "Fully Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -18842,18 +18842,21 @@
     "name": "Fathom",
     "slug": "fathom",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/008e65b3fdfccde7a316a6c0911fd59301ff1025.png",
-    "website": "https://fathom.video",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/cef88933ea79fe84401faaf1ce8c0ecd65c642a3.png",
+    "website": "https://www.fathom.ai",
     "all_locations": "San Francisco, CA, USA; Remote",
-    "long_description": "Instead of trying to hurriedly take notes while also having a conversation, you simply push a button in our app whenever you hear something important, like a piece of product feedback or action item. In real-time our system records, transcribes, and creates clips from the parts of the conversation you tagged that can share with your team or use to write post-call notes.",
-    "one_liner": "Never take notes again with the #1 AI Meeting Assistant",
-    "team_size": 25,
+    "long_description": "Fathom captures your meetings your way – bot or bot-free, on any call. Ask questions across your entire meeting history and get instant, cited answers. Connect your intelligence to Claude, ChatGPT, your CRM, and more. Desktop, mobile, and in-person.\r\n\r\nThe real value of meetings isn't just the notes. It's the knowledge inside them.\r\n\r\n#1 AI Notetaker on G2. Works with Zoom, Meet, and Teams.",
+    "one_liner": "The most flexible AI meeting notetaker ever built.",
+    "team_size": 95,
     "industry": "B2B",
     "subindustry": "B2B -> Productivity",
     "launched_at": 1641591096,
     "tags": [
       "SaaS",
-      "B2B"
+      "B2B",
+      "Productivity",
+      "AI",
+      "Note-taking"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -20208,7 +20211,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -20601,14 +20604,16 @@
   },
   {
     "id": 23530,
-    "name": "Waydev",
-    "slug": "waydev",
-    "former_names": [],
+    "name": "Waydev AI",
+    "slug": "waydev-ai",
+    "former_names": [
+      "Waydev"
+    ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/90694f4bdb7eb8f17b02f85faee3e3455edb365b.png",
     "website": "https://waydev.co/",
     "all_locations": "Menlo Park, CA, USA",
-    "long_description": "Waydev is the Engineering Productivity Intelligence platform that helps companies understand, measure, and improve the performance of their software teams. It connects to the tools engineers already use, then transforms code, work items, reviews, deployments, and AI-assisted activity into a unified source of truth for engineering effectiveness.\r\n\r\nBuilt for modern engineering leaders, Waydev delivers deep visibility across delivery speed, code quality, collaboration patterns, and real business impact. With automated insights, conversational analytics, and industry benchmarks, teams can make decisions with clarity, reduce bottlenecks, and continuously improve how software is shipped.\r\n\r\nWaydev replaces manual reporting, subjective evaluations, and static dashboards. It gives executives, managers, and ICs the context they need to optimize workflows, forecast outcomes, and align engineering output to business results.\r\n\r\nWaydev powers engineering intelligence for fast-growing startups and global enterprises by turning raw activity into actionable strategy.",
-    "one_liner": "The AI Engineering Intelligence Platform | DORA, SPACE, DX, CORE 4 ",
+    "long_description": "Waydev tracks AI-generated code from commit to production. AI Checkpoints capture which agent wrote the code, tokens consumed, cost per PR, acceptance rate, and whether it deployed. Compare Copilot, Cursor, and Claude Code on real production outcomes. Measure AI adoption by team, monthly spend, avg tokens per developer, and total tokens used. The Waydev Agent answers plain-English questions about your AI investment. Built for VPs of Engineering and CTOs. Trusted by Dropbox, American Express, Caterpillar, and PwC. ",
+    "one_liner": "Waydev: AI Adoption, AI Impact, and AI ROI for engineering teams",
     "team_size": 13,
     "industry": "B2B",
     "subindustry": "B2B -> Productivity",
@@ -20616,9 +20621,9 @@
     "tags": [
       "AI-Enhanced Learning",
       "Artificial Intelligence",
-      "Enterprise",
       "Data Engineering",
-      "Data Visualization"
+      "AI",
+      "AI Assistant"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -20636,13 +20641,13 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": true,
-    "url": "https://www.ycombinator.com/companies/waydev",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2021/waydev.json"
+    "url": "https://www.ycombinator.com/companies/waydev-ai",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2021/waydev-ai.json"
   },
   {
     "id": 23531,
@@ -25489,8 +25494,8 @@
     "website": "https://www.useagave.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "We’re modernizing construction, a $12T global industry run by siloed software built 20-40 years ago (on-prem, no APIs, no mobile access, etc.). \r\n\r\nOur core product is Agave Sync, which helps General and Trade Contractors keep financial data in sync between their field teams on jobsites and their accounting teams in a central back office.",
-    "one_liner": "Financial Operations Platform for Construction",
-    "team_size": 28,
+    "one_liner": "AI Financial Operations for Construction",
+    "team_size": 33,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1642541270,
@@ -26011,7 +26016,7 @@
       "Remote",
       "Fully Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -35845,95 +35850,6 @@
     "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2023/berry.json"
   },
   {
-    "id": 28115,
-    "name": "Vellum",
-    "slug": "vellum",
-    "former_names": [
-      "Vocify"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/211ce1fb908d8d56541fcc5ddfa4be47bd69dc5d.png",
-    "website": "https://www.vellum.ai/",
-    "all_locations": "New York, NY, USA",
-    "long_description": "Prompting: Systematically iterate on prompts\r\n- Unified prompt management dashboard\r\n- Side-by-side model comparisons\r\n- Native support for tools, structured outputs, OpenAPI specs\r\n\r\nWorkflows: The IDE for building steerable, agent-like systems.\r\n- Visual graph builder for orchestrating complex AI systems\r\n- Support for any model, custom code, and map/reduce functions\r\n- Built-in features like loops, parallelism, error handling\r\n\r\nWorkflows SDK: A full-stack SDK + GUI for building AI apps with precision and flexibility.\r\n- Bi-directional sync between code and UI\r\n- Fine-grained control flow and global state management\r\n- Customizable with Docker and streaming support\r\n\r\nEvaluations: Test-driven development for AI.\r\n- Build scalable test suites via UI/API/CSV\r\n- Use pre-built or custom metrics for evaluation\r\n- Track quality, cost, latency, and regressions over time\r\n\r\nRetrieval: Powerful RAG infrastructure without the complexity.\r\n- Simple APIs for uploading and querying unstructured data\r\n- Tweak chunking, embeddings, and search for advanced use-cases\r\n- Supports various file types including tables and images\r\n\r\nDeployments: Update AI systems without redeploying your app.\r\n- One-click deploy across any model or provider\r\n- Staging environments for safe iteration\r\n- Scalable inference endpoints for production use\r\n\r\nObservability: Full visibility into AI system performance.\r\n- Audit logs, debugging tools, and feedback capture\r\n- Evaluation loops on live traffic\r\n- Dashboards to track cost, latency, errors, and trends",
-    "one_liner": "The AI Product Development Platform",
-    "team_size": 23,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1673626837,
-    "tags": [
-      "Developer Tools",
-      "SaaS",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Winter 2023",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Growth",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": true,
-    "url": "https://www.ycombinator.com/companies/vellum",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2023/vellum.json"
-  },
-  {
-    "id": 28127,
-    "name": "Benchmark",
-    "slug": "benchmark",
-    "former_names": [
-      "BidSight"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0dddc99c1f1c38c90b727d87cc7bb8d59dfad6be.png",
-    "website": "https://withbenchmark.com/",
-    "all_locations": "New York, NY, USA",
-    "long_description": "Benchmark is the trusted AI platform for investment firms. Today, leading firms use Benchmark to screen deals, extract insights from unstructured data, and automate workflows. Our platform combines cutting-edge AI with deep industry expertise to help investment firms make smarter, faster decisions across their entire deal lifecycle.",
-    "one_liner": "Decision infrastructure for investment firms",
-    "team_size": 7,
-    "industry": "B2B",
-    "subindustry": "B2B -> Finance and Accounting",
-    "launched_at": 1673633463,
-    "tags": [
-      "Artificial Intelligence",
-      "Fintech",
-      "Finance",
-      "AI Assistant"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Winter 2023",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Finance and Accounting"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/benchmark",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2023/benchmark.json"
-  },
-  {
     "id": 28131,
     "name": "Untether Labs",
     "slug": "untether-labs",
@@ -40951,12 +40867,12 @@
       "Legora",
       "Legora (formerly Leya)"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0c07116a743e8d35ce903cd8f6eb5d04b07833e7.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/05171178ffc17b0e9580f51631921117958c778c.png",
     "website": "https://www.legora.com/",
     "all_locations": "Stockholm, Stockholm County, Sweden",
     "long_description": "Legora is an AI-powered workspace for law firms and legal professionals. \r\n\r\nLegora lets lawyers automate their repetitive tasks and access public sources and their own data on one single platform.\r\n\r\nLearn more at https://www.legora.com/",
     "one_liner": "The AI workspace for lawyers",
-    "team_size": 250,
+    "team_size": 400,
     "industry": "B2B",
     "subindustry": "B2B -> Legal",
     "launched_at": 1695641655,
@@ -40981,7 +40897,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -41591,8 +41507,8 @@
     "website": "https://www.shopgarage.com/",
     "all_locations": "New York, NY, USA",
     "long_description": "Garage is modernizing how America buys and sells the vehicles and equipment that keep communities safe. Our AI-powered marketplace automates every part of the transaction—appraisals, payments, paperwork, freight, warranty, and financing—reducing what once took months down to minutes.\r\n\r\nBy replacing broken, manual processes with modern software, Garage helps critical equipment reach communities faster—saving taxpayer dollars and supporting the industries that keep America running.\r\n\r\nWe've raised $18M to date, and are backed by Y Combinator, Initialized Capital, Infinity Ventures, FJ Labs, and other leading investors.\r\n",
-    "one_liner": "Building the marketplace that powers America’s most essential assets",
-    "team_size": 20,
+    "one_liner": "Marketplace for America's most essential assets",
+    "team_size": 25,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1709146834,
@@ -41610,9 +41526,11 @@
     ],
     "regions": [
       "United States of America",
-      "America / Canada"
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -44806,7 +44724,7 @@
     "all_locations": "New York, NY, USA",
     "long_description": "CrowdVolt is rebuilding the infrastructure for live events, starting with an automated marketplace for raves and electronic dance music.",
     "one_liner": "The integration layer for live events infrastructure ",
-    "team_size": 8,
+    "team_size": 10,
     "industry": "Consumer",
     "subindustry": "Consumer",
     "launched_at": 1708402036,
@@ -49641,7 +49559,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Onlook is the fastest way for anyone to build, deploy, and iterate on websites and web apps. We built an open-source, visual editor for code that merges design, development, and AI.\r\n\r\nSince launching, Onlook hit #1 on Hacker News, was the #1 trending repo on GitHub—above DeepSeek—and has earned over 8,500 GitHub stars.\r\n\r\nFounded by Daniel Farrell, a designer of 10+ years and former Head of Growth, and Kiet Ho, an ex-Amazon and ex-ServiceNow engineer, Onlook is on a mission to finally solve the gap between design and development. ",
     "one_liner": "Cursor for Designers",
-    "team_size": 3,
+    "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1737572736,
@@ -49911,6 +49829,47 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/candle",
     "api": "https://prajjwal2-3.github.io/yc-data/batches/fall-2024/candle.json"
+  },
+  {
+    "id": 30033,
+    "name": "OpenFunnel",
+    "slug": "openfunnel",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/828abce88fc3773d5c6973ac36dd47b70ebb191e.png",
+    "website": "https://openfunnel.dev",
+    "all_locations": "",
+    "long_description": "OpenFunnel is the Search Engine for GTM.\r\n\r\nSearching for \"B2B SaaS, 501-1000 employees, uses Salesforce\" - is just targeted spam.\r\n\r\nEven if you get creative with LLMs to query these databases, everyone has access to the same commoditized databases, these databases lack insights about right timing or pain-points prospects face.\r\n\r\nOpenFunnel is a time-aware search engine for insights and activities in your target segment - that reveal pain.\r\n\r\nYou can search for activities like:\r\n\"Find companies looking to implement usage based billing\"\r\n\"Find companies that moved from OpenAI to self-hosted models in the last 3-6 months\"\r\n\"Find companies who updated their pricing page to introduce an enterprise plan in the last 3 months\"\r\n\r\nOpenFunnel continuously monitors these time-based signals, delivering actionable insights daily - so you have the fastest, unique insights that your competitors miss out on.\r\nOver 1000+ users are already discovering prospects through pain-first search, including some of the fastest-growing companies like Central, Mintlify, and Everest Systems.",
+    "one_liner": "We monitor your TAM and surface companies when custom triggers fire.",
+    "team_size": 4,
+    "industry": "B2B",
+    "subindustry": "B2B -> Sales",
+    "launched_at": 1728361776,
+    "tags": [
+      "SaaS",
+      "B2B",
+      "Sales Enablement",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Fall 2024",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Sales"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/openfunnel",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/fall-2024/openfunnel.json"
   },
   {
     "id": 30036,
@@ -54285,12 +54244,12 @@
     "former_names": [
       "Auctor AI"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d8e7fb9fc6a31a470dcf923a359f699fa65811f5.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e14ac50e2fa0724e7b0c94e9bc2c4cdac5732e9e.png",
     "website": "https://getauctor.com",
     "all_locations": "New York, NY, USA",
     "long_description": "Auctor brings alignment and intelligence to software implementation, enabling every project to deliver its intended value with clarity and precision.",
     "one_liner": "The agentic operating system for modern system integrators.",
-    "team_size": 15,
+    "team_size": 25,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1744707028,
@@ -54525,17 +54484,17 @@
     "name": "Bluejay",
     "slug": "bluejay",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ecd78040c9d350d022460582d39721b12b42ae57.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1da0f5ca2648eccf749e97a890ad3887f0dc7eb7.png",
     "website": "https://getbluejay.ai/",
     "all_locations": "",
     "long_description": "Bluejay’s mission is to engineer trust into every AI interaction, becoming the trust layer between businesses and their customers.",
-    "one_liner": "The world's first quality assurance agency for voice & text AI.",
+    "one_liner": "Test, monitor, and improve your voice and chat AI agents",
     "team_size": 7,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1746833867,
     "tags": [
-      "AI"
+      "Artificial Intelligence"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -57723,6 +57682,48 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/procindex",
     "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2025/procindex.json"
+  },
+  {
+    "id": 30720,
+    "name": "Autosana",
+    "slug": "autosana",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5c7dda83aa113d5017c2cb187435ccccb356bd6a.png",
+    "website": "https://autosana.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Autosana is the end-to-end testing layer for your coding agents, across iOS, Android, and Web apps.\r\n\r\nStep away from your laptop. Come back to full-stack features built and tested end-to-end, production ready.\r\n\r\nAutosana creates, updates, and runs tests automatically from your code diffs. Locally, it loops with your coding agent until every test passes. In PRs, it loops with cloud agents and shows video proof of your new feature or bug fix working end-to-end.\r\n\r\nNo setup, no maintenance, just tests evolving with your codebase. Ship with confidence.",
+    "one_liner": "Close the E2E testing loop across mobile & web",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1751416575,
+    "tags": [
+      "Developer Tools",
+      "B2B",
+      "Enterprise Software",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/autosana",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2025/autosana.json"
   },
   {
     "id": 30726,
@@ -61507,16 +61508,16 @@
     "website": "https://tsenta.com",
     "all_locations": "",
     "long_description": "Tsenta is a desktop app that matches you with jobs, optimizes your profile & applies on your behalf. It runs on your device, so you have granular control over every application being submitted in real-time.\r\n\r\nWe built Tsenta after applying to over 3,000 jobs manually, so that nobody else would have to.\r\n\r\nCheck us out at https://tsenta.com :)",
-    "one_liner": "AI-Native, On-Device Job Automation",
+    "one_liner": "Tsenta matches you to jobs and applies automatically on your behalf.",
     "team_size": 2,
     "industry": "Consumer",
     "subindustry": "Consumer -> Job and Career Services",
     "launched_at": 1769729252,
     "tags": [
+      "Artificial Intelligence",
       "Consumer",
       "Recruiting",
-      "HR Tech",
-      "AI"
+      "HR Tech"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -61540,33 +61541,28 @@
     "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2026/tsenta.json"
   },
   {
-    "id": 31260,
-    "name": "Copperlane",
-    "slug": "copperlane",
-    "former_names": [
-      "Sevenfold",
-      "Rhombal",
-      "Coevolved"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f6c74fb63a006045b5124e1949931ca658a4aafd.png",
-    "website": "https://www.copperlane.ai",
+    "id": 31293,
+    "name": "Bloom",
+    "slug": "trybloom",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a646e943f901dce6673220447608eb5a1fb6aec0.png",
+    "website": "https://trybloom.ai",
     "all_locations": "",
-    "long_description": "Copperlane helps mortgage lenders accelerate the loan process and reduce mistakes in an application. We use AI agents to understand an applicant's profile, verify their documents, and complete initial underwriting tasks.",
-    "one_liner": "Agentic Mortgage Origination",
+    "long_description": "Your brand should be beautiful. It should be consistent everywhere. And it should be deployable at scale.\r\n\r\nBloom captures your brand's visual identity and creates on-brand assets in seconds.\r\n\r\nWe're building the Brand OS: a system that deeply understands your brand and powers everything it touches.",
+    "one_liner": "Bloom is the Brand OS for your business. ",
     "team_size": 2,
     "industry": "B2B",
-    "subindustry": "B2B -> Finance and Accounting",
-    "launched_at": 1768253497,
+    "subindustry": "B2B",
+    "launched_at": 1776275888,
     "tags": [],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": true,
     "nonprofit": false,
-    "batch": "Winter 2026",
+    "batch": "Spring 2026",
     "status": "Active",
     "industries": [
-      "B2B",
-      "Finance and Accounting"
+      "B2B"
     ],
     "regions": [
       "Unspecified"
@@ -61576,8 +61572,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/copperlane",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2026/copperlane.json"
+    "url": "https://www.ycombinator.com/companies/trybloom",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/trybloom.json"
   },
   {
     "id": 31299,

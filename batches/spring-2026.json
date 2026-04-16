@@ -525,6 +525,41 @@
     "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/regbase.json"
   },
   {
+    "id": 31293,
+    "name": "Bloom",
+    "slug": "trybloom",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a646e943f901dce6673220447608eb5a1fb6aec0.png",
+    "website": "https://trybloom.ai",
+    "all_locations": "",
+    "long_description": "Your brand should be beautiful. It should be consistent everywhere. And it should be deployable at scale.\r\n\r\nBloom captures your brand's visual identity and creates on-brand assets in seconds.\r\n\r\nWe're building the Brand OS: a system that deeply understands your brand and powers everything it touches.",
+    "one_liner": "Bloom is the Brand OS for your business. ",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1776275888,
+    "tags": [],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/trybloom",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/trybloom.json"
+  },
+  {
     "id": 31294,
     "name": "Dispatch",
     "slug": "dispatch",
@@ -1904,7 +1939,7 @@
     "former_names": [
       "Lamina AI"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5fc3965228e864c02ebb264e89eeaeae9b803abb.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9d4ccf38786878539ecdd96792388a25ab1ab0bf.png",
     "website": "https://laminalabs.ai",
     "all_locations": "",
     "long_description": "We are building the fastest visual infrastructure for EdTech AI applications. With a simple text prompt, students get accurate visual explanations in seconds, making high-quality learning dramatically faster and cheaper. ",
@@ -3685,6 +3720,47 @@
     "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/modern.json"
   },
   {
+    "id": 31547,
+    "name": "InsForge",
+    "slug": "insforge",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/de52713fe1552551dbe8aa2a5e60202c09bfc0d7.png",
+    "website": "https://insforge.dev/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "InsForge is a backend platform built for AI coding agents. Unlike traditional backends designed for humans, InsForge exposes backend primitives like databases and auth through a semantic layer that agents can natively understand and operate, so teams can ship fullstack apps without backend bottlenecks.",
+    "one_liner": "The backend AI agents can actually use",
+    "team_size": 6,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1776234676,
+    "tags": [
+      "Developer Tools",
+      "Open Source",
+      "Infrastructure"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/insforge",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/insforge.json"
+  },
+  {
     "id": 31550,
     "name": "Playabl.ai",
     "slug": "playablai",
@@ -3815,7 +3891,7 @@
     "name": "Cohesion",
     "slug": "cohesion",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/19ae82a3126f7e0acfa4a7ee5f4b31b8e7abae8d.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a85ed9b4f8c87d919e87f4a7838af368b02f0f94.png",
     "website": "https://cohesionplatform.com/",
     "all_locations": "",
     "long_description": "Cohesion is building AI agents for hedge funds. Our agents track earnings and non-traditional datasets like podcasts and X/twitter. Analysts spend hours a week manually tracking these data sources and still miss relevant investing signals. Now, our agents do it for them autonomously. \r\n",

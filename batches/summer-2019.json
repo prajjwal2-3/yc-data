@@ -1708,26 +1708,26 @@
   },
   {
     "id": 12553,
-    "name": "BODYSIM by Well Principled",
-    "slug": "bodysim-by-well-principled",
+    "name": "Well Principled",
+    "slug": "well-principled",
     "former_names": [
-      "Well Principled"
+      "Well Principled",
+      "BODYSIM by Well Principled"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7deb4b1138bf28d77c17917f911b89d59935e15c.png",
-    "website": "https://bodysim.com",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6c59ac5aca8c4a74c69ab15c408544b91f24e98e.png",
+    "website": "https://wellprincipled.com",
     "all_locations": "St. Louis, MO, USA",
-    "long_description": "Gain muscle and shed fat with a digital twin of your body. BODYSIM is an app-based simulation of your body and its potential that recommends nutrition and exercise to meet your goals. Use BODYSIM to (1) Assemble your data from food logging, BIA weigh-ins, DEXA scans, at-home blood tests, and wearables, (2) Learn to “triangulate the truth” of your unique metabolism and physiology, and (3) Adjust your nutrition and exercise plans by simulating what will happen to your body. One founder put on 45 lbs muscle, and another put on 25 lbs of muscle while losing 50 lbs of fat. Our alpha testers lost an average of 12.6 pounds in 3 months.\r\n\r\nOur core technology distills messy academic literature into simulations. Before turning to our own fitness journeys, we successfully deployed sophisticated enterprise models of plant-soil-atmosphere, consumer behavior and battery electrochemistry. With BODYSIM we built a science-based simulation of macronutrient balance and muscle hypertrophy. It includes cell turnover, oxidation for energy, lipolysis of fat stores, synthesis of new muscle, glycogen resynthesis, GI latency, and even ketones. Get jacked at BODYSIM.com\r\n",
-    "one_liner": "Gain Muscle and Shed Fat with a Digital Twin of Your Body",
-    "team_size": 10,
-    "industry": "Healthcare",
-    "subindustry": "Healthcare -> Consumer Health and Wellness",
+    "long_description": "We aren’t building AI to replace \"knowledge work” that requires neither, but to bolster the working human intellect which has never failed to discover new paths to prosperity.\r\n\r\nFor all their success, mainstream approaches to AI have fundamental limitations preventing them from solving critical classes of problems. We are building a new AI architecture from first principles to break from these limitations.\r\n\r\nThe status quo has ossified around the supervised, brute-force pretraining paradigm. These systems do not, and cannot, handle the essential skills of continual learning, goal discovery, novel planning, and the creation of new knowledge.\r\n\r\nThese limitations are not trivial. Our national prosperity depends directly on overcoming these limitations, because the essential skills underlie the skilled trades. From electricians to machinists to nurses, apprentice tradespeople in all of these fields learn “skilled improvisation” where every solution is novel, and even the goal must be discovered. Prosperity demands the precise capabilities where status quo AI is structurally weak.\r\n\r\nWorse, these limitations will not be overcome with more compute or training data. They are inescapable consequences of the underlying technologies of supervised learning, neural networks, transformers, backprop, and gradient descent. Progress requires independence from them.\r\n\r\nWe are building a new AI architecture by reverse-engineering the system that got us this far: the human brain. By triangulating between neuroscience, cognitive science, and the evolutionary elaboration of brains, we have identified the brain’s algorithms to (a) continually learn a causal world model (b) select goals to both achieve and learn to achieve more (c) plan to reach novel goals, and (d) creatively produce new knowledge.\r\n\r\n\r\nJoin us in building intelligence with ingenuity to bolster the skilled trades.\r\n\r\n",
+    "one_liner": "The neural engine for autonomous robots",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B",
     "launched_at": 1556081533,
     "tags": [
       "Artificial Intelligence",
-      "Sports Tech",
-      "Consumer",
-      "Fitness",
-      "Health & Wellness"
+      "Hard Tech",
+      "Neurotechnology",
+      "Robotics"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -1736,8 +1736,7 @@
     "batch": "Summer 2019",
     "status": "Active",
     "industries": [
-      "Healthcare",
-      "Consumer Health and Wellness"
+      "B2B"
     ],
     "regions": [
       "United States of America",
@@ -1748,10 +1747,10 @@
     "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": true,
-    "app_answers": true,
+    "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/bodysim-by-well-principled",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2019/bodysim-by-well-principled.json"
+    "url": "https://www.ycombinator.com/companies/well-principled",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2019/well-principled.json"
   },
   {
     "id": 12554,

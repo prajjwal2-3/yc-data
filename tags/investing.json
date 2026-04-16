@@ -2033,7 +2033,7 @@
     "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2024",
-    "status": "Active",
+    "status": "Inactive",
     "industries": [
       "B2B",
       "Operations"
@@ -2447,7 +2447,7 @@
     "name": "Cohesion",
     "slug": "cohesion",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/19ae82a3126f7e0acfa4a7ee5f4b31b8e7abae8d.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a85ed9b4f8c87d919e87f4a7838af368b02f0f94.png",
     "website": "https://cohesionplatform.com/",
     "all_locations": "",
     "long_description": "Cohesion is building AI agents for hedge funds. Our agents track earnings and non-traditional datasets like podcasts and X/twitter. Analysts spend hours a week manually tracking these data sources and still miss relevant investing signals. Now, our agents do it for them autonomously. \r\n",
