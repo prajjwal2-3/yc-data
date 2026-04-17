@@ -3438,54 +3438,6 @@
     "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2020/nextmv.json"
   },
   {
-    "id": 13141,
-    "name": "Aden",
-    "slug": "aden",
-    "former_names": [
-      "UniBit",
-      "Acho",
-      "acho",
-      "Acho"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d64a8d4a7fd2ff08cd85f22f8bd8525fd1a2a965.png",
-    "website": "https://adenhq.com/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "https://github.com/adenhq/hive",
-    "one_liner": "Open source agent generation framework",
-    "team_size": 5,
-    "industry": "B2B",
-    "subindustry": "B2B -> Infrastructure",
-    "launched_at": 1599762607,
-    "tags": [
-      "Developer Tools",
-      "Infrastructure",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Winter 2020",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Infrastructure"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/aden",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2020/aden.json"
-  },
-  {
     "id": 13143,
     "name": "Flik",
     "slug": "flik",
@@ -5610,7 +5562,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -5699,7 +5651,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -7957,6 +7909,55 @@
     "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2022/nyckel.json"
   },
   {
+    "id": 25363,
+    "name": "Gym Class",
+    "slug": "gym-class",
+    "former_names": [
+      "IRL Studios Inc.",
+      "Gym Class (by IRL Studios).",
+      "Gym Class - by IRL Studios"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/90fc62ba6240bfed64d6f34df4390cc401252d92.png",
+    "website": "https://gymclass.com",
+    "all_locations": "San Francisco, CA, USA; Remote",
+    "long_description": "Gym Class is a social platform where you can play games, make friends, and create and share your own experiences. Join a community of millions across virtual reality and mobile.",
+    "one_liner": "Connecting the world by simulating it",
+    "team_size": 20,
+    "industry": "Consumer",
+    "subindustry": "Consumer -> Social",
+    "launched_at": 1642203216,
+    "tags": [
+      "Virtual Reality",
+      "Consumer",
+      "Gaming",
+      "Social",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2022",
+    "status": "Active",
+    "industries": [
+      "Consumer",
+      "Social"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Fully Remote"
+    ],
+    "stage": "Growth",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/gym-class",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2022/gym-class.json"
+  },
+  {
     "id": 25400,
     "name": "Industrial Next",
     "slug": "industrial-next",
@@ -9358,7 +9359,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -17202,51 +17203,6 @@
     "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2023/webhound.json"
   },
   {
-    "id": 29092,
-    "name": "dili",
-    "slug": "dili",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9e905bd15e69e145959bbab0b2b161c61c3dd16c.png",
-    "website": "https://www.dili.ai",
-    "all_locations": "New York, NY, USA",
-    "long_description": "Dili (YC S23) is building the most reliable AI automation for compliance in real-world industries. \r\nAcross energy, infrastructure, datacenters, advanced manufacturing, and construction, Dili has run prevailing wage, apprenticeship, & other labor compliance to help customers secure over $1 billion in federal funding.\r\n\r\nDili is building the AI system of record to help physical industries track compliance, analyze labor and spend, run payroll, and more. ",
-    "one_liner": "Automating PWA Compliance and Diligence",
-    "team_size": 5,
-    "industry": "B2B",
-    "subindustry": "B2B -> Finance and Accounting",
-    "launched_at": 1686681508,
-    "tags": [
-      "Fintech",
-      "B2B",
-      "Compliance",
-      "Energy",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Summer 2023",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Finance and Accounting"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Growth",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/dili",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2023/dili.json"
-  },
-  {
     "id": 29107,
     "name": "Saatvy",
     "slug": "saatvy",
@@ -20596,6 +20552,50 @@
     "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2024/retell-ai.json"
   },
   {
+    "id": 29447,
+    "name": "Deepnight",
+    "slug": "deepnight",
+    "former_names": [
+      "DeepNight"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/419c6b136773af60713e2a4301554b4ef1bbd8a9.png",
+    "website": "https://www.deepnight.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "DeepNight is building the next generation of night vision with AI.",
+    "one_liner": "Building The Next Generation of Night Vision Devices",
+    "team_size": 13,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Defense",
+    "launched_at": 1709629638,
+    "tags": [
+      "Computer Vision",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2024",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Defense"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Growth",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/deepnight",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2024/deepnight.json"
+  },
+  {
     "id": 29450,
     "name": "Aqua Voice",
     "slug": "aqua-voice",
@@ -23169,7 +23169,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -24502,6 +24502,51 @@
     "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2024/merlin-ai.json"
   },
   {
+    "id": 29987,
+    "name": "Syntra",
+    "slug": "syntra",
+    "former_names": [
+      "Lightning Medical"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a6d299272e28e28fc0eef5034541be246b698d0b.png",
+    "website": "https://www.syntra.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Syntra is building the agentic operating layer for private medical practices, starting with insurance claims QA. We help clinics generate more revenue per clinical encounter while reducing up to 60% of administrative overhead. Syntra supports hundreds of specialty practices nationwide and processes $100Ms in medical claim charges annually.\r\n",
+    "one_liner": "Agentic infrastructure for private medical practices.",
+    "team_size": 8,
+    "industry": "Healthcare",
+    "subindustry": "Healthcare -> Healthcare IT",
+    "launched_at": 1723733582,
+    "tags": [
+      "Big Data",
+      "Healthcare IT",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2024",
+    "status": "Active",
+    "industries": [
+      "Healthcare",
+      "Healthcare IT"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/syntra",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2024/syntra.json"
+  },
+  {
     "id": 29988,
     "name": "Delineate",
     "slug": "delineate",
@@ -25199,6 +25244,52 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/unusual",
     "api": "https://prajjwal2-3.github.io/yc-data/batches/fall-2024/unusual.json"
+  },
+  {
+    "id": 30067,
+    "name": "Beglaubigt.de",
+    "slug": "beglaubigtde",
+    "former_names": [
+      "Openlaw",
+      "Platus"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/014b1ba3942482fbcc33d8bd34b870f8e4f598a4.png",
+    "website": "https://beglaubigt.de/en-us",
+    "all_locations": "Munich, BY, Germany",
+    "long_description": "Beglaubigt.de is building the digital back-office for European founders. Our German brand Beglaubigt.de is the market-leading platform for digital company formations and notarizations - reducing GmbH incorporations from 6–8 weeks to as little as 3 days. \r\n\r\nThrough Germany's first fully automated incorporation API, we power the formation flows of partners like Qonto, Holvi, and Sevdesk. We're now expanding the stack into ongoing business operations: registered addresses, trade registrations, bookkeeping, and the full legal back-office.",
+    "one_liner": "The legal back-office for European founders - the incorporation API…",
+    "team_size": 15,
+    "industry": "B2B",
+    "subindustry": "B2B -> Legal",
+    "launched_at": 1731569238,
+    "tags": [
+      "B2B",
+      "Workflow Automation",
+      "Compliance",
+      "LegalTech",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2024",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Legal"
+    ],
+    "regions": [
+      "Germany",
+      "Europe"
+    ],
+    "stage": "Early",
+    "app_video_public": true,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/beglaubigtde",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/fall-2024/beglaubigtde.json"
   },
   {
     "id": 30068,
@@ -28148,6 +28239,49 @@
     "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2025/the-llm-data-company.json"
   },
   {
+    "id": 30456,
+    "name": "Tinfoil",
+    "slug": "tinfoil",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4a45d3f15cbd2d0f665850c643ea48907f1a8bf7.png",
+    "website": "https://tinfoil.sh",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Tinfoil makes it easy to make your AI workloads secure and provably private. You get the privacy of on-prem deployments, while running on the cloud. It's like end-to-end encrypted messaging but for your AI applications. \r\n\r\nWe’ve built a full-stack platform on top of the latest NVIDIA GPUs offering confidential computing capabilities, meaning that you don’t have to trade off performance for privacy. We integrate a suite of recent advances in secure hardware technologies, in particular NVIDIA’s confidential compute mode available on Hopper and Blackwell. When combined with Tinfoil’s software stack, companies can prove their security claims like \"we can't see and don’t log your queries.” Tinfoil guarantees that all data always stays private and cannot be accessed by anyone other than the end user -- not even by Tinfoil or the cloud provider it’s processed on. Everything can be made end-to-end encrypted and private with Tinfoil. \r\n\r\nThe founding team combines deep academic and industry experience in security and Internet protocols. Tanya was previously a systems engineer at Cloudflare, where she built Internet security protocols used by billions, and contributed to the Workers AI platform. Jules and Sacha hold PhDs from MIT, where they worked on secure hardware, cryptography, and privacy technologies. Jules has also worked at NVIDIA on their confidential computing team. Tinfoil was born from our personal frustration with the false choice between access to powerful AI and the massive data privacy implications of deeply integrated AI.\r\n\r\nAI is a universal tool that becomes part of our personal lives and business workflows. In the process, it needs access to all personal, private, and proprietary data. Right now, the only solutions are data processing agreements (i.e., \"pinky promises\"), band-aids like PII redaction that don't work in practice, or AI locally/on-prem, which doesn't scale. Tinfoil promises to unlock significantly deeper AI adoption and integrations by making it easy to obtain true privacy, just as TLS on the Internet enabled e-commerce to flourish by securing credit cards on the network.\r\n\r\nToday we offer several self-serve products: \r\n\r\n- A consumer-facing chatbot that keeps your chats end-to-end encrypted and provides zero-access inference with powerful open-source models like Kimi, Gemma, and GLM. You can try it out for free: https://chat.tinfoil.sh\r\n\r\n- A developer-friendly API that allows you to build AI applications where all user data is kept private and we as the inference provider cannot see any of the prompts. Our SDKs make sure that all relevant security measures are checked for you before even sending a single byte of data. Learn more:https://docs.tinfoil.sh \r\n\r\n- An advanced confidential computing platform we call Tinfoil Containers that allows you to secure any Docker application. We make it easy to deploy your own logic and applications inside secure enclaves and prove to the world what code is running inside. This enables attested workloads and publicly verifiable privacy policies for sensitive applications. Learn more: https://tinfoil.sh/containers ",
+    "one_liner": "Encrypted AI with verifiable privacy",
+    "team_size": 5,
+    "industry": "B2B",
+    "subindustry": "B2B -> Security",
+    "launched_at": 1744845895,
+    "tags": [
+      "Developer Tools",
+      "Security",
+      "Privacy",
+      "Cloud Computing",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Security"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/tinfoil",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2025/tinfoil.json"
+  },
+  {
     "id": 30462,
     "name": "Clado",
     "slug": "clado",
@@ -28817,7 +28951,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Spring 2025",
     "status": "Active",
@@ -30567,48 +30701,6 @@
     "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2025/procindex.json"
   },
   {
-    "id": 30720,
-    "name": "Autosana",
-    "slug": "autosana",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5c7dda83aa113d5017c2cb187435ccccb356bd6a.png",
-    "website": "https://autosana.ai",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Autosana is the end-to-end testing layer for your coding agents, across iOS, Android, and Web apps.\r\n\r\nStep away from your laptop. Come back to full-stack features built and tested end-to-end, production ready.\r\n\r\nAutosana creates, updates, and runs tests automatically from your code diffs. Locally, it loops with your coding agent until every test passes. In PRs, it loops with cloud agents and shows video proof of your new feature or bug fix working end-to-end.\r\n\r\nNo setup, no maintenance, just tests evolving with your codebase. Ship with confidence.",
-    "one_liner": "Close the E2E testing loop across mobile & web",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1751416575,
-    "tags": [
-      "Developer Tools",
-      "B2B",
-      "Enterprise Software",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Summer 2025",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/autosana",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2025/autosana.json"
-  },
-  {
     "id": 30722,
     "name": "Omnara",
     "slug": "omnara",
@@ -31821,7 +31913,7 @@
     "former_names": [
       "Auler"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/172f5fb23b85c343374cfa3c2b0a719eb64be3b6.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1463e08657e2fece9135c0c12e1c308c4da97412.png",
     "website": "https://aspect.inc",
     "all_locations": "",
     "long_description": "With our visual understanding engine & platform, Aspect processes dense multimodal datasets, providing tools for segmentation, QC, structured schema extraction. \r\n\r\nCompanies today have access to Glean and Notion Agents for working with vast text corpuses - Aspect is enabling that for multimodal data.",

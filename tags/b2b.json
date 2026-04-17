@@ -25791,7 +25791,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/65ba001ab4d9a51e57b2d599e1b3c910c0a39b01.png",
     "website": "https://windmill.dev",
     "all_locations": "Paris, Île-de-France, France",
-    "long_description": "Windmill is an open-source developer platform to quickly build production-grade multi-step internal apps, workflows and integrations from minimal Python and Typescript scripts. \r\n\r\nOpen-source alternative to Airplane and Pipedream. Simplified temporal with automatic app generation. Usable as a self-hosted AWS Lambda.\r\n\r\nSync your scripts from your github repo or write them directly on Windmill, have them be converted to apps and no-code modules automatically. Use those apps as standalone or, build powerful flows using either those scripts or scripts made by the community on hub.windmill.dev. The experience is similar to no-code tools except that at any point, any module can have its code inspected and tweaked. Leveraging the open-source community, we will build an exhaustive library of scripts for all apis and generic tasks.\r\n\r\nYou may also wrap Windmill with your own frontend to provide automation as a feature on top of your own SaaS.\r\n\r\nFocus on your business logic for all kind of flows, Windmill is the platform to build, share and run them.",
+    "long_description": "Windmill is an open-source developer platform that turns scripts into workflows, internal tools, and full-stack apps.\r\n\r\nWrite scripts in Python, TypeScript, Go, Bash, Rust, SQL - Windmill auto-generates UIs from their parameters, handles dependencies, credentials, permissions, and scheduling so you focus on business logic, not infra.\r\n                                                                                     \r\nOpen-source alternative to Airflow, Temporal, Retool and n8n. Chain scripts into flows with branching, parallelism, retries. Build dashboards with the app builder. Trigger via cron, webhook, or UI. All-in-one runtime, editor, secret manager, and OAuth platform - enterprise-ready out of the box.\r\n                                                                                                                            \r\nStack: Rust / TypeScript + Svelte / PostgreSQL. Self-hostable, easy to deploy, built for performance and DX.",
     "one_liner": "Open-source platform to turn scripts into internal apps & workflows",
     "team_size": 10,
     "industry": "B2B",
@@ -34468,20 +34468,20 @@
     "slug": "dili",
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9e905bd15e69e145959bbab0b2b161c61c3dd16c.png",
-    "website": "https://www.dili.ai",
+    "website": "https://www.dili.com",
     "all_locations": "New York, NY, USA",
-    "long_description": "Dili (YC S23) is building the most reliable AI automation for compliance in real-world industries. \r\nAcross energy, infrastructure, datacenters, advanced manufacturing, and construction, Dili has run prevailing wage, apprenticeship, & other labor compliance to help customers secure over $1 billion in federal funding.\r\n\r\nDili is building the AI system of record to help physical industries track compliance, analyze labor and spend, run payroll, and more. ",
+    "long_description": "Dili (YC S23) is building the most reliable AI automation for compliance in real-world industries.\r\n\r\nAcross energy, infrastructure, datacenters, advanced manufacturing, and construction, Dili has run prevailing wage, apprenticeship, & other labor compliance to help customers secure over $1 billion in federal funding.\r\n\r\nDili is building the AI system of record to help physical industries track compliance, analyze labor and spend, run payroll, and more. ",
     "one_liner": "Automating PWA Compliance and Diligence",
-    "team_size": 5,
+    "team_size": 15,
     "industry": "B2B",
     "subindustry": "B2B -> Finance and Accounting",
     "launched_at": 1686681508,
     "tags": [
+      "Artificial Intelligence",
       "Fintech",
       "B2B",
       "Compliance",
-      "Energy",
-      "AI"
+      "Energy"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -34499,7 +34499,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -40765,26 +40765,27 @@
   },
   {
     "id": 30067,
-    "name": "Platus",
-    "slug": "platus",
+    "name": "Beglaubigt.de",
+    "slug": "beglaubigtde",
     "former_names": [
-      "Openlaw"
+      "Openlaw",
+      "Platus"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/014b1ba3942482fbcc33d8bd34b870f8e4f598a4.png",
-    "website": "https://www.platus.com",
-    "all_locations": "",
-    "long_description": "Platus delivers fast, reliable legal infrastructure with a no-code platform and API, designed to support SMBs with instant access to notarization, legal drafting, e-signing, and workflow automations. Our solution removes the high costs and slow processing of traditional legal services, by empowering businesses to seamlessly manage compliance and legal tasks.",
-    "one_liner": "Instant Legal Infrastructure - Draft, Sign, Notarize & Process",
+    "website": "https://beglaubigt.de/en-us",
+    "all_locations": "Munich, BY, Germany",
+    "long_description": "Beglaubigt.de is building the digital back-office for European founders. Our German brand Beglaubigt.de is the market-leading platform for digital company formations and notarizations - reducing GmbH incorporations from 6–8 weeks to as little as 3 days. \r\n\r\nThrough Germany's first fully automated incorporation API, we power the formation flows of partners like Qonto, Holvi, and Sevdesk. We're now expanding the stack into ongoing business operations: registered addresses, trade registrations, bookkeeping, and the full legal back-office.",
+    "one_liner": "The legal back-office for European founders - the incorporation API…",
     "team_size": 15,
     "industry": "B2B",
     "subindustry": "B2B -> Legal",
     "launched_at": 1731569238,
     "tags": [
-      "Artificial Intelligence",
       "B2B",
       "Workflow Automation",
       "Compliance",
-      "LegalTech"
+      "LegalTech",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -40797,15 +40798,16 @@
       "Legal"
     ],
     "regions": [
-      "Unspecified"
+      "Germany",
+      "Europe"
     ],
     "stage": "Early",
     "app_video_public": true,
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/platus",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/fall-2024/platus.json"
+    "url": "https://www.ycombinator.com/companies/beglaubigtde",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/fall-2024/beglaubigtde.json"
   },
   {
     "id": 30075,
@@ -42939,49 +42941,6 @@
     "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2025/typeos.json"
   },
   {
-    "id": 30456,
-    "name": "Tinfoil",
-    "slug": "tinfoil",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/dc74e71b1f792bb7e067be2feda82c554eaef27a.png",
-    "website": "https://tinfoil.sh",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Tinfoil makes it easy to make your AI workloads provably private, without changing your code. You get the privacy of on-prem deployments, while running on the cloud.\r\n\r\nWe’ve built a full-stack platform on top of the latest NVIDIA GPUs offering confidential computing capabilities, meaning that you don’t have to tradeoff performance for privacy. \r\n\r\nUnder the hood, we integrate a suite of recent advances in secure hardware technologies, in particular NVIDIA’s confidential compute mode available on Hopper and Blackwell. When combined with Tinfoil’s software stack, companies can prove their security claims rather than relying on unenforceable statements like \"trust us, we don’t log your queries.” Tinfoil guarantees that all data always stays private and cannot be accessed by anyone other than the end user — not even by Tinfoil or the cloud provider it’s processed on. \r\n\r\nThe founding team combines deep academic and industry experience in security and internet protocols. Tanya was previously a systems engineer at Cloudflare, where she built Internet security protocols used by billions, and contributed to the Workers AI platform. Jules and Sacha recently completed their PhDs at MIT where they worked on secure hardware and privacy-preserving technologies. Jules has also worked at NVIDIA on their confidential computing team. Nate has deep infrastructure experience, starting in high school when he built a mini-CDN that got him an internship at Cloudflare. Tinfoil was born from our personal frustration with the false choice between access to powerful AI and data privacy.\r\n\r\nAs AI becomes tightly integrated into our lives and business workflows, it will touch an ever increasing amount of sensitive personal and proprietary data. Right now, the only solutions are DPAs, band-aids like PII redaction, or the nuclear option of running everything on-prem. These solutions are not scalable.  By making it easy to deploy provable privacy, Tinfoil promises to unlock significantly deeper AI adoption and integrations, just as TLS on the Internet enabled e-commerce to flourish by securing credit cards on the network.\r\n\r\nIf OpenAI is creating “God in a box”, we are putting God in a blackbox, so Satan can’t spy.",
-    "one_liner": "Tinfoil makes your AI workflows secure, verifiable, and private.",
-    "team_size": 4,
-    "industry": "B2B",
-    "subindustry": "B2B -> Security",
-    "launched_at": 1744845895,
-    "tags": [
-      "Artificial Intelligence",
-      "B2B",
-      "Security",
-      "Privacy",
-      "Cybersecurity"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Spring 2025",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Security"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/tinfoil",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2025/tinfoil.json"
-  },
-  {
     "id": 30462,
     "name": "Clado",
     "slug": "clado",
@@ -45058,16 +45017,16 @@
     "website": "https://autosana.ai",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Autosana is the end-to-end testing layer for your coding agents, across iOS, Android, and Web apps.\r\n\r\nStep away from your laptop. Come back to full-stack features built and tested end-to-end, production ready.\r\n\r\nAutosana creates, updates, and runs tests automatically from your code diffs. Locally, it loops with your coding agent until every test passes. In PRs, it loops with cloud agents and shows video proof of your new feature or bug fix working end-to-end.\r\n\r\nNo setup, no maintenance, just tests evolving with your codebase. Ship with confidence.",
-    "one_liner": "Close the E2E testing loop across mobile & web",
+    "one_liner": "AI agents for E2E testing across mobile & web",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1751416575,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "B2B",
-      "Enterprise Software",
-      "AI"
+      "Enterprise Software"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -45836,7 +45795,7 @@
     "former_names": [
       "Auler"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/172f5fb23b85c343374cfa3c2b0a719eb64be3b6.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1463e08657e2fece9135c0c12e1c308c4da97412.png",
     "website": "https://aspect.inc",
     "all_locations": "",
     "long_description": "With our visual understanding engine & platform, Aspect processes dense multimodal datasets, providing tools for segmentation, QC, structured schema extraction. \r\n\r\nCompanies today have access to Glean and Notion Agents for working with vast text corpuses - Aspect is enabling that for multimodal data.",
@@ -47639,6 +47598,47 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/callab-ai",
     "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/callab-ai.json"
+  },
+  {
+    "id": 31417,
+    "name": "Pairio",
+    "slug": "pairio",
+    "former_names": [
+      "Servio AI"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2f8a4391b575bceb2e2a9bd9d078e12f8f15d5a5.png",
+    "website": "https://pairio.com",
+    "all_locations": "",
+    "long_description": "Pairo is an AI mobile app to help technicians fix broken equipment in factories. Users just take a picture of the broken machine and we search thousands of pages of manuals to find the right solution.",
+    "one_liner": "AI-native industrial maintenance software",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1776390899,
+    "tags": [
+      "SaaS",
+      "B2B",
+      "Manufacturing"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/pairio",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/pairio.json"
   },
   {
     "id": 31424,

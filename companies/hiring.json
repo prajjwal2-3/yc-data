@@ -6196,7 +6196,7 @@
       "Malaysia",
       "Southeast Asia"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -13088,9 +13088,9 @@
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1599762607,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
-      "Infrastructure",
-      "AI"
+      "Infrastructure"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -14701,7 +14701,7 @@
       "Algeria",
       "Middle East and North Africa"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -20641,7 +20641,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -25986,7 +25986,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/90fc62ba6240bfed64d6f34df4390cc401252d92.png",
     "website": "https://gymclass.com",
-    "all_locations": "Los Angeles, CA, USA; Remote",
+    "all_locations": "San Francisco, CA, USA; Remote",
     "long_description": "Gym Class is a social platform where you can play games, make friends, and create and share your own experiences. Join a community of millions across virtual reality and mobile.",
     "one_liner": "Connecting the world by simulating it",
     "team_size": 20,
@@ -25994,11 +25994,11 @@
     "subindustry": "Consumer -> Social",
     "launched_at": 1642203216,
     "tags": [
-      "Artificial Intelligence",
       "Virtual Reality",
       "Consumer",
       "Gaming",
-      "Social"
+      "Social",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -28133,7 +28133,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -30362,7 +30362,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/65ba001ab4d9a51e57b2d599e1b3c910c0a39b01.png",
     "website": "https://windmill.dev",
     "all_locations": "Paris, Île-de-France, France",
-    "long_description": "Windmill is an open-source developer platform to quickly build production-grade multi-step internal apps, workflows and integrations from minimal Python and Typescript scripts. \r\n\r\nOpen-source alternative to Airplane and Pipedream. Simplified temporal with automatic app generation. Usable as a self-hosted AWS Lambda.\r\n\r\nSync your scripts from your github repo or write them directly on Windmill, have them be converted to apps and no-code modules automatically. Use those apps as standalone or, build powerful flows using either those scripts or scripts made by the community on hub.windmill.dev. The experience is similar to no-code tools except that at any point, any module can have its code inspected and tweaked. Leveraging the open-source community, we will build an exhaustive library of scripts for all apis and generic tasks.\r\n\r\nYou may also wrap Windmill with your own frontend to provide automation as a feature on top of your own SaaS.\r\n\r\nFocus on your business logic for all kind of flows, Windmill is the platform to build, share and run them.",
+    "long_description": "Windmill is an open-source developer platform that turns scripts into workflows, internal tools, and full-stack apps.\r\n\r\nWrite scripts in Python, TypeScript, Go, Bash, Rust, SQL - Windmill auto-generates UIs from their parameters, handles dependencies, credentials, permissions, and scheduling so you focus on business logic, not infra.\r\n                                                                                     \r\nOpen-source alternative to Airflow, Temporal, Retool and n8n. Chain scripts into flows with branching, parallelism, retries. Build dashboards with the app builder. Trigger via cron, webhook, or UI. All-in-one runtime, editor, secret manager, and OAuth platform - enterprise-ready out of the box.\r\n                                                                                                                            \r\nStack: Rust / TypeScript + Svelte / PostgreSQL. Self-hostable, easy to deploy, built for performance and DX.",
     "one_liner": "Open-source platform to turn scripts into internal apps & workflows",
     "team_size": 10,
     "industry": "B2B",
@@ -33314,46 +33314,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/rollstack-2",
     "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2023/rollstack-2.json"
-  },
-  {
-    "id": 27693,
-    "name": "Depot",
-    "slug": "depot",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4bc0c4958bdeddfb5cee7883f042a17f65e1bd00.png",
-    "website": "https://depot.dev",
-    "all_locations": "Remote",
-    "long_description": "Depot is a build acceleration platform making builds up to 40x faster for Docker containers and GitHub Actions. Companies like PostHog, Wistia, Appsmith, and Secoda use Depot to save tens of hours of build time every day.\r\n\r\nWe offer a remote container build service for building Intel & Arm Docker images, from your CI or local machine, up to 40x faster. Our container builds come with in-depth build insights, ephemeral registries, and instant cache sharing across your team.\r\n\r\nFinally, we also offer our own Depot GitHub Actions Runners that brings all the speed of Depot to your entire GitHub Actions workflow at half the cost of GitHub-hosted runners, and up to 10x faster builds. Simply change the runs-on label of your existing workflow to route jobs to Depot runners.\r\n\r\nKyle and Jacob worked together as staff engineers for 4.5 years at Thorn and Era Software, before founding Depot. Depot is their solution to the wildly inefficient container build tooling and non-performant CI systems they encountered throughout their careers. \r\n",
-    "one_liner": "Build faster. Waste less time.",
-    "team_size": 8,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1669037258,
-    "tags": [
-      "Developer Tools",
-      "DevOps"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Winter 2023",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "Remote",
-      "Fully Remote"
-    ],
-    "stage": "Growth",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/depot",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2023/depot.json"
   },
   {
     "id": 27699,
@@ -39929,20 +39889,20 @@
     "slug": "dili",
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9e905bd15e69e145959bbab0b2b161c61c3dd16c.png",
-    "website": "https://www.dili.ai",
+    "website": "https://www.dili.com",
     "all_locations": "New York, NY, USA",
-    "long_description": "Dili (YC S23) is building the most reliable AI automation for compliance in real-world industries. \r\nAcross energy, infrastructure, datacenters, advanced manufacturing, and construction, Dili has run prevailing wage, apprenticeship, & other labor compliance to help customers secure over $1 billion in federal funding.\r\n\r\nDili is building the AI system of record to help physical industries track compliance, analyze labor and spend, run payroll, and more. ",
+    "long_description": "Dili (YC S23) is building the most reliable AI automation for compliance in real-world industries.\r\n\r\nAcross energy, infrastructure, datacenters, advanced manufacturing, and construction, Dili has run prevailing wage, apprenticeship, & other labor compliance to help customers secure over $1 billion in federal funding.\r\n\r\nDili is building the AI system of record to help physical industries track compliance, analyze labor and spend, run payroll, and more. ",
     "one_liner": "Automating PWA Compliance and Diligence",
-    "team_size": 5,
+    "team_size": 15,
     "industry": "B2B",
     "subindustry": "B2B -> Finance and Accounting",
     "launched_at": 1686681508,
     "tags": [
+      "Artificial Intelligence",
       "Fintech",
       "B2B",
       "Compliance",
-      "Energy",
-      "AI"
+      "Energy"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -39960,7 +39920,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -40897,7 +40857,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -41530,7 +41490,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -43238,23 +43198,26 @@
   },
   {
     "id": 29394,
-    "name": "Opencall.ai",
-    "slug": "opencall-ai",
+    "name": "Opencall",
+    "slug": "opencall",
     "former_names": [
       "Grey Matter Labs",
       "OpenCall",
-      "OpenCall.ai"
+      "OpenCall.ai",
+      "Opencall.ai"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/41e58d6b3e2399554a397da9ec33195fe091ac9e.png",
     "website": "https://opencall.ai",
     "all_locations": "",
-    "long_description": "OpenCall builds AI voice and texting agents that boost revenue and cut costs.\r\nOur voice and text agents reduce labor costs by up to 70%, while increasing revenue up to 20% through improved booking rates and customer satisfaction.",
-    "one_liner": "AI Workforce for Services Businesses",
-    "team_size": 9,
+    "long_description": "OpenCall makes medical practices more profitable and enables owners and operators of their rollups to hit their KPIs.",
+    "one_liner": "Practice admin run by AI",
+    "team_size": 7,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1709929196,
-    "tags": [],
+    "tags": [
+      "Healthcare"
+    ],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": true,
@@ -43272,8 +43235,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/opencall-ai",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2024/opencall-ai.json"
+    "url": "https://www.ycombinator.com/companies/opencall",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2024/opencall.json"
   },
   {
     "id": 29396,
@@ -43458,50 +43421,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/yondu",
     "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2024/yondu.json"
-  },
-  {
-    "id": 29404,
-    "name": "Diana",
-    "slug": "diana",
-    "former_names": [
-      "DianaHR"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/020f142d48a9efde3733971776a68c441557dfe7.png",
-    "website": "https://getdiana.com/",
-    "all_locations": "",
-    "long_description": "The first business-ready OpenClaw platform. A secure AI assistant embedded directly into Slack.",
-    "one_liner": "Give Your Employee An Employee",
-    "team_size": 7,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1706475260,
-    "tags": [
-      "Artificial Intelligence",
-      "Productivity",
-      "SMB",
-      "Operations",
-      "AI Assistant"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Winter 2024",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/diana",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2024/diana.json"
   },
   {
     "id": 29407,
@@ -44243,8 +44162,8 @@
     "subindustry": "Industrials -> Defense",
     "launched_at": 1709629638,
     "tags": [
-      "Artificial Intelligence",
-      "Computer Vision"
+      "Computer Vision",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -47846,7 +47765,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -49429,16 +49348,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a6d299272e28e28fc0eef5034541be246b698d0b.png",
     "website": "https://www.syntra.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Syntra is a medical data analytics platform that turns messy clinical documentation into real-time, actionable insights for billing, compliance, and care quality. We help clinics generate more revenue per clinical encounter while reducing up to 60% of administrative overhead. Syntra supports hundreds of specialty practices nationwide and processes $100Ms in medical claim charges annually.\r\n",
-    "one_liner": "Agentic infrastructure for specialty medical practices.",
+    "long_description": "Syntra is building the agentic operating layer for private medical practices, starting with insurance claims QA. We help clinics generate more revenue per clinical encounter while reducing up to 60% of administrative overhead. Syntra supports hundreds of specialty practices nationwide and processes $100Ms in medical claim charges annually.\r\n",
+    "one_liner": "Agentic infrastructure for private medical practices.",
     "team_size": 8,
     "industry": "Healthcare",
     "subindustry": "Healthcare -> Healthcare IT",
     "launched_at": 1723733582,
     "tags": [
-      "Artificial Intelligence",
       "Big Data",
-      "Healthcare IT"
+      "Healthcare IT",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -55208,50 +55127,6 @@
     "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2025/hemut.json"
   },
   {
-    "id": 30522,
-    "name": "naïve",
-    "slug": "naive",
-    "former_names": [
-      "Relixir.ai",
-      "Relixir",
-      "Naive",
-      "Naïve"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/06af5d16e9099ea20940c7e2eeb917bb2f11454a.png",
-    "website": "https://usenaive.ai",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Naïve is an autonomous company builder. \r\n\r\nYou describe what your business does, and Naïve deploys AI employees that actually execute — building your app, closing deals, running campaigns, serving customers. \r\n\r\nIt works for creating new companies and automate existing companies by connecting Naive to their entire stack. ",
-    "one_liner": "Autonomous Company Builder",
-    "team_size": 12,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1747424808,
-    "tags": [
-      "Infrastructure",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Spring 2025",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/naive",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2025/naive.json"
-  },
-  {
     "id": 30527,
     "name": "MindFort",
     "slug": "mindfort",
@@ -57692,16 +57567,16 @@
     "website": "https://autosana.ai",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Autosana is the end-to-end testing layer for your coding agents, across iOS, Android, and Web apps.\r\n\r\nStep away from your laptop. Come back to full-stack features built and tested end-to-end, production ready.\r\n\r\nAutosana creates, updates, and runs tests automatically from your code diffs. Locally, it loops with your coding agent until every test passes. In PRs, it loops with cloud agents and shows video proof of your new feature or bug fix working end-to-end.\r\n\r\nNo setup, no maintenance, just tests evolving with your codebase. Ship with confidence.",
-    "one_liner": "Close the E2E testing loop across mobile & web",
+    "one_liner": "AI agents for E2E testing across mobile & web",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1751416575,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "B2B",
-      "Enterprise Software",
-      "AI"
+      "Enterprise Software"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -60557,13 +60432,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0e2c404c5bbc49c9c8e25d9c60779b50f507ba65.png",
     "website": "https://www.usekita.com/",
     "all_locations": "",
-    "long_description": "In emerging markets like the Philippines, open finance is still nascent. Most of the population is traditionally unbanked, banking APIs don’t exist, and a borrower’s financial history lives in documents: e-wallet records, bank statements, utility bills, and more. Because this data is unstructured, credit and risk teams are forced into manual review. This slows decisioning, increases costs, and caps lending volume. Legacy OCR solutions break on noisy, real-world files and still require human verification.\r\n\r\nKita is the first document intelligence platform built specifically for lending. We are hyperlocalized around the signals that actually drive lending outcomes in emerging and undertapped domestic markets like the Philippines, Indonesia, Mexico, and beyond. Using a layered system led by vision-language models and computer vision, we outperform traditional OCR by transforming messy borrower documents into fraud-checked, decision-ready signals lenders can use directly in underwriting.\r\n\r\nUnder the hood, Kita is a learning engine. We link document-level signals to repayment outcomes, allowing our models to continuously improve fraud detection and risk assessment over time. This creates a compounding advantage for lenders as their distinct underwriting decisions feed back into the system.\r\n\r\nWe’re Carmel and Rhea. We met before Stanford and have been building together ever since. Carmel is from Manila, is a repeat founder, and spent three years in product at Apple. Rhea has a research background in computer vision and received the highest honor in Stanford Computer Science. Together, we combine deep local context with strong technical execution to build the infrastructure that expands access to credit in emerging markets.",
+    "long_description": "In emerging markets, open finance is still nascent. Most of the population is traditionally unbanked, banking APIs don’t exist, and a borrower’s financial history lives in documents: e-wallet records, bank statements, utility bills, and more. Because this data is unstructured, credit and risk teams are forced into manual review. This slows decisioning, increases costs, and caps lending volume. \r\n\r\nKita is the AI platform for global lending operations. We help lenders in emerging markets automate application completion, document verification, and underwriting from messy financial documents — using AI to extract fraud-checked data and localized risk signals that power faster, better credit decisions.\r\n\r\nUnder the hood, Kita is a learning engine. We link document-level signals to repayment outcomes, allowing our models to continuously improve fraud detection and risk assessment over time. This creates a compounding advantage for lenders as their distinct underwriting decisions feed back into the system.\r\n\r\nWe’re Carmel and Rhea. We met before Stanford and have been building together ever since. Carmel is from Manila, is a repeat founder, and spent three years in product at Apple. Rhea has a research background in computer vision and received the highest honor in Stanford Computer Science. Together, we combine deep local context with strong technical execution to build the infrastructure that expands access to credit in emerging markets.",
     "one_liner": "Automate credit review for lenders in emerging markets",
     "team_size": 2,
     "industry": "Fintech",
     "subindustry": "Fintech",
     "launched_at": 1767738733,
-    "tags": [],
+    "tags": [
+      "Fintech",
+      "Computer Vision",
+      "Lending",
+      "Emerging Markets"
+    ],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": true,
@@ -61436,7 +61316,7 @@
     "all_locations": "",
     "long_description": "We're the AI native law firm that solves commercial legal for founders. Our firm provides fast, high-quality contract drafting, review, and negotiation for a flat fee. We save founders $100s-$1000s per contract, turn contracts in hours instead of days, and our expert attorneys provide practical, real-time guidance to get deals closed safely.",
     "one_liner": "The AI native law firm for growth stage companies",
-    "team_size": 3,
+    "team_size": 9,
     "industry": "B2B",
     "subindustry": "B2B -> Legal",
     "launched_at": 1769746017,

@@ -3233,17 +3233,18 @@
   },
   {
     "id": 30944,
-    "name": "HireGlide",
-    "slug": "hireglide",
+    "name": "Prism",
+    "slug": "tryprism",
     "former_names": [
-      "Grappl"
+      "Grappl",
+      "HireGlide"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f43313bb066e1501a71f08b9bb9435ada83f0e9c.png",
-    "website": "https://www.hireglide.ai/",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0ef033d3da927f6edcdbc0ea8d7e36fe8e87bca1.png",
+    "website": "https://tryprism.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "HireGlide is an AI-native recruiting agency. We use software and agents to find companies better people faster.\r\n\r\n",
+    "long_description": "Prism is an AI-native recruiting agency. We use software and agents to find companies better people faster.\r\n\r\n",
     "one_liner": "AI-native recruiting agency",
-    "team_size": 3,
+    "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B -> Recruiting and Talent",
     "launched_at": 1762295048,
@@ -3272,8 +3273,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/hireglide",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/hireglide.json"
+    "url": "https://www.ycombinator.com/companies/tryprism",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/tryprism.json"
   },
   {
     "id": 31011,

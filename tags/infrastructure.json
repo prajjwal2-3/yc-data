@@ -147,9 +147,9 @@
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1599762607,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
-      "Infrastructure",
-      "AI"
+      "Infrastructure"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -3730,7 +3730,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Spring 2025",
     "status": "Active",

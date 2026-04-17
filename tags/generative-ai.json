@@ -1557,7 +1557,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -7123,7 +7123,7 @@
       "Cram"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/bf0019c6ad5bec3a367e3a88e2bc4f39705513aa.png",
-    "website": "https://www.trychatter.ai/",
+    "website": "https://chatter.anish.xyz",
     "all_locations": "Philadelphia, PA, USA",
     "long_description": "Chatter is Postman for LLMs. Our platform helps companies and developers test their LLM models. Iterate on prompts, run them across model families and evaluate them against test cases – all in one place. With collaboration features, engineers can design LLM chains while QA can write test cases. \r\n",
     "one_liner": "Dead simple LLM testing and iteration",
@@ -7509,7 +7509,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -8973,7 +8973,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,

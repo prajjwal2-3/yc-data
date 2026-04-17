@@ -92,17 +92,18 @@
   },
   {
     "id": 30944,
-    "name": "HireGlide",
-    "slug": "hireglide",
+    "name": "Prism",
+    "slug": "tryprism",
     "former_names": [
-      "Grappl"
+      "Grappl",
+      "HireGlide"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f43313bb066e1501a71f08b9bb9435ada83f0e9c.png",
-    "website": "https://www.hireglide.ai/",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0ef033d3da927f6edcdbc0ea8d7e36fe8e87bca1.png",
+    "website": "https://tryprism.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "HireGlide is an AI-native recruiting agency. We use software and agents to find companies better people faster.\r\n\r\n",
+    "long_description": "Prism is an AI-native recruiting agency. We use software and agents to find companies better people faster.\r\n\r\n",
     "one_liner": "AI-native recruiting agency",
-    "team_size": 3,
+    "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B -> Recruiting and Talent",
     "launched_at": 1762295048,
@@ -131,8 +132,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/hireglide",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/hireglide.json"
+    "url": "https://www.ycombinator.com/companies/tryprism",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/tryprism.json"
   },
   {
     "id": 31063,
@@ -1804,6 +1805,47 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/callab-ai",
     "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/callab-ai.json"
+  },
+  {
+    "id": 31417,
+    "name": "Pairio",
+    "slug": "pairio",
+    "former_names": [
+      "Servio AI"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2f8a4391b575bceb2e2a9bd9d078e12f8f15d5a5.png",
+    "website": "https://pairio.com",
+    "all_locations": "",
+    "long_description": "Pairo is an AI mobile app to help technicians fix broken equipment in factories. Users just take a picture of the broken machine and we search thousands of pages of manuals to find the right solution.",
+    "one_liner": "AI-native industrial maintenance software",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1776390899,
+    "tags": [
+      "SaaS",
+      "B2B",
+      "Manufacturing"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/pairio",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/pairio.json"
   },
   {
     "id": 31418,
@@ -3600,8 +3642,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f036b6b16ede0b0a7e4c426862254c490d653c42.png",
     "website": "https://gigacatalyst.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "We provide a white-label AI builder that learns your APIs and embeds in your product, so your customers can build their own apps on your SaaS. Each customer can now adapt your product to match their workflows perfectly and share it across their team with our in-built app store.\r\n\r\nThe result is that customers use your SaaS more, retain for longer, and expand quicker, because they get bespoke implementation for their exact usecase, without waiting.\r\n\r\nWe're live with the top Series B companies with 90% repeat usage rate. Our customers tell us that Gigacatalyst is the best way to increase usage, retention, and expansion for B2B vertical SaaS.",
-    "one_liner": "Turn every customer workflow into a native part of your SaaS with AI",
+    "long_description": "We provide a AI customization layer that learns your APIs and embeds in your product, so your customers can build their own apps on your SaaS. Each customer can now adapt your product to match their workflows perfectly, and share it across their team with our in-built app store.\r\n\r\nThe result is that customers use your SaaS more, retain for longer, and expand quicker, because they get bespoke implementation for their exact usecase, without waiting.\r\n\r\nWe're live with the top Series B companies with 90% repeat usage rate. Our customers tell us that Gigacatalyst is the best way to increase usage, retention, and expansion in 2026.",
+    "one_liner": "Customize your software to every user with AI",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -3895,7 +3937,7 @@
     "website": "https://cohesionplatform.com/",
     "all_locations": "",
     "long_description": "Cohesion is building AI agents for hedge funds. Our agents track earnings and non-traditional datasets like podcasts and X/twitter. Analysts spend hours a week manually tracking these data sources and still miss relevant investing signals. Now, our agents do it for them autonomously. \r\n",
-    "one_liner": "Your public equities teammate ",
+    "one_liner": "Your public equities agentic teammate ",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Finance and Accounting",

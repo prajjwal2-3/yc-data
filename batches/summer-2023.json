@@ -6375,7 +6375,7 @@
       "Cram"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/bf0019c6ad5bec3a367e3a88e2bc4f39705513aa.png",
-    "website": "https://www.trychatter.ai/",
+    "website": "https://chatter.anish.xyz",
     "all_locations": "Philadelphia, PA, USA",
     "long_description": "Chatter is Postman for LLMs. Our platform helps companies and developers test their LLM models. Iterate on prompts, run them across model families and evaluate them against test cases – all in one place. With collaboration features, engineers can design LLM chains while QA can write test cases. \r\n",
     "one_liner": "Dead simple LLM testing and iteration",
@@ -7841,20 +7841,20 @@
     "slug": "dili",
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9e905bd15e69e145959bbab0b2b161c61c3dd16c.png",
-    "website": "https://www.dili.ai",
+    "website": "https://www.dili.com",
     "all_locations": "New York, NY, USA",
-    "long_description": "Dili (YC S23) is building the most reliable AI automation for compliance in real-world industries. \r\nAcross energy, infrastructure, datacenters, advanced manufacturing, and construction, Dili has run prevailing wage, apprenticeship, & other labor compliance to help customers secure over $1 billion in federal funding.\r\n\r\nDili is building the AI system of record to help physical industries track compliance, analyze labor and spend, run payroll, and more. ",
+    "long_description": "Dili (YC S23) is building the most reliable AI automation for compliance in real-world industries.\r\n\r\nAcross energy, infrastructure, datacenters, advanced manufacturing, and construction, Dili has run prevailing wage, apprenticeship, & other labor compliance to help customers secure over $1 billion in federal funding.\r\n\r\nDili is building the AI system of record to help physical industries track compliance, analyze labor and spend, run payroll, and more. ",
     "one_liner": "Automating PWA Compliance and Diligence",
-    "team_size": 5,
+    "team_size": 15,
     "industry": "B2B",
     "subindustry": "B2B -> Finance and Accounting",
     "launched_at": 1686681508,
     "tags": [
+      "Artificial Intelligence",
       "Fintech",
       "B2B",
       "Compliance",
-      "Energy",
-      "AI"
+      "Energy"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -7872,7 +7872,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,

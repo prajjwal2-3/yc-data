@@ -667,7 +667,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -1896,7 +1896,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -6318,23 +6318,26 @@
   },
   {
     "id": 29394,
-    "name": "Opencall.ai",
-    "slug": "opencall-ai",
+    "name": "Opencall",
+    "slug": "opencall",
     "former_names": [
       "Grey Matter Labs",
       "OpenCall",
-      "OpenCall.ai"
+      "OpenCall.ai",
+      "Opencall.ai"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/41e58d6b3e2399554a397da9ec33195fe091ac9e.png",
     "website": "https://opencall.ai",
     "all_locations": "",
-    "long_description": "OpenCall builds AI voice and texting agents that boost revenue and cut costs.\r\nOur voice and text agents reduce labor costs by up to 70%, while increasing revenue up to 20% through improved booking rates and customer satisfaction.",
-    "one_liner": "AI Workforce for Services Businesses",
-    "team_size": 9,
+    "long_description": "OpenCall makes medical practices more profitable and enables owners and operators of their rollups to hit their KPIs.",
+    "one_liner": "Practice admin run by AI",
+    "team_size": 7,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1709929196,
-    "tags": [],
+    "tags": [
+      "Healthcare"
+    ],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": true,
@@ -6352,8 +6355,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/opencall-ai",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2024/opencall-ai.json"
+    "url": "https://www.ycombinator.com/companies/opencall",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2024/opencall.json"
   },
   {
     "id": 29395,
@@ -6780,7 +6783,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2024",
     "status": "Active",
@@ -8275,8 +8278,8 @@
     "subindustry": "Industrials -> Defense",
     "launched_at": 1709629638,
     "tags": [
-      "Artificial Intelligence",
-      "Computer Vision"
+      "Computer Vision",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,

@@ -15714,7 +15714,7 @@
       "Malaysia",
       "Southeast Asia"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -22734,7 +22734,7 @@
       "Algeria",
       "Middle East and North Africa"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -27638,7 +27638,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/90fc62ba6240bfed64d6f34df4390cc401252d92.png",
     "website": "https://gymclass.com",
-    "all_locations": "Los Angeles, CA, USA; Remote",
+    "all_locations": "San Francisco, CA, USA; Remote",
     "long_description": "Gym Class is a social platform where you can play games, make friends, and create and share your own experiences. Join a community of millions across virtual reality and mobile.",
     "one_liner": "Connecting the world by simulating it",
     "team_size": 20,
@@ -27646,11 +27646,11 @@
     "subindustry": "Consumer -> Social",
     "launched_at": 1642203216,
     "tags": [
-      "Artificial Intelligence",
       "Virtual Reality",
       "Consumer",
       "Gaming",
-      "Social"
+      "Social",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -32703,7 +32703,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,

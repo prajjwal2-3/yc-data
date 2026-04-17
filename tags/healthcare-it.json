@@ -1112,16 +1112,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a6d299272e28e28fc0eef5034541be246b698d0b.png",
     "website": "https://www.syntra.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Syntra is a medical data analytics platform that turns messy clinical documentation into real-time, actionable insights for billing, compliance, and care quality. We help clinics generate more revenue per clinical encounter while reducing up to 60% of administrative overhead. Syntra supports hundreds of specialty practices nationwide and processes $100Ms in medical claim charges annually.\r\n",
-    "one_liner": "Agentic infrastructure for specialty medical practices.",
+    "long_description": "Syntra is building the agentic operating layer for private medical practices, starting with insurance claims QA. We help clinics generate more revenue per clinical encounter while reducing up to 60% of administrative overhead. Syntra supports hundreds of specialty practices nationwide and processes $100Ms in medical claim charges annually.\r\n",
+    "one_liner": "Agentic infrastructure for private medical practices.",
     "team_size": 8,
     "industry": "Healthcare",
     "subindustry": "Healthcare -> Healthcare IT",
     "launched_at": 1723733582,
     "tags": [
-      "Artificial Intelligence",
       "Big Data",
-      "Healthcare IT"
+      "Healthcare IT",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,

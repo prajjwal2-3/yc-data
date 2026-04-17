@@ -9551,7 +9551,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -13090,7 +13090,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2023",
     "status": "Active",
@@ -23226,16 +23226,16 @@
     "website": "https://autosana.ai",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Autosana is the end-to-end testing layer for your coding agents, across iOS, Android, and Web apps.\r\n\r\nStep away from your laptop. Come back to full-stack features built and tested end-to-end, production ready.\r\n\r\nAutosana creates, updates, and runs tests automatically from your code diffs. Locally, it loops with your coding agent until every test passes. In PRs, it loops with cloud agents and shows video proof of your new feature or bug fix working end-to-end.\r\n\r\nNo setup, no maintenance, just tests evolving with your codebase. Ship with confidence.",
-    "one_liner": "Close the E2E testing loop across mobile & web",
+    "one_liner": "AI agents for E2E testing across mobile & web",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1751416575,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "B2B",
-      "Enterprise Software",
-      "AI"
+      "Enterprise Software"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -23723,7 +23723,7 @@
     "former_names": [
       "Auler"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/172f5fb23b85c343374cfa3c2b0a719eb64be3b6.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1463e08657e2fece9135c0c12e1c308c4da97412.png",
     "website": "https://aspect.inc",
     "all_locations": "",
     "long_description": "With our visual understanding engine & platform, Aspect processes dense multimodal datasets, providing tools for segmentation, QC, structured schema extraction. \r\n\r\nCompanies today have access to Glean and Notion Agents for working with vast text corpuses - Aspect is enabling that for multimodal data.",
@@ -25431,8 +25431,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f036b6b16ede0b0a7e4c426862254c490d653c42.png",
     "website": "https://gigacatalyst.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "We provide a white-label AI builder that learns your APIs and embeds in your product, so your customers can build their own apps on your SaaS. Each customer can now adapt your product to match their workflows perfectly and share it across their team with our in-built app store.\r\n\r\nThe result is that customers use your SaaS more, retain for longer, and expand quicker, because they get bespoke implementation for their exact usecase, without waiting.\r\n\r\nWe're live with the top Series B companies with 90% repeat usage rate. Our customers tell us that Gigacatalyst is the best way to increase usage, retention, and expansion for B2B vertical SaaS.",
-    "one_liner": "Turn every customer workflow into a native part of your SaaS with AI",
+    "long_description": "We provide a AI customization layer that learns your APIs and embeds in your product, so your customers can build their own apps on your SaaS. Each customer can now adapt your product to match their workflows perfectly, and share it across their team with our in-built app store.\r\n\r\nThe result is that customers use your SaaS more, retain for longer, and expand quicker, because they get bespoke implementation for their exact usecase, without waiting.\r\n\r\nWe're live with the top Series B companies with 90% repeat usage rate. Our customers tell us that Gigacatalyst is the best way to increase usage, retention, and expansion in 2026.",
+    "one_liner": "Customize your software to every user with AI",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",

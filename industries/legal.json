@@ -1217,7 +1217,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -1487,26 +1487,27 @@
   },
   {
     "id": 30067,
-    "name": "Platus",
-    "slug": "platus",
+    "name": "Beglaubigt.de",
+    "slug": "beglaubigtde",
     "former_names": [
-      "Openlaw"
+      "Openlaw",
+      "Platus"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/014b1ba3942482fbcc33d8bd34b870f8e4f598a4.png",
-    "website": "https://www.platus.com",
-    "all_locations": "",
-    "long_description": "Platus delivers fast, reliable legal infrastructure with a no-code platform and API, designed to support SMBs with instant access to notarization, legal drafting, e-signing, and workflow automations. Our solution removes the high costs and slow processing of traditional legal services, by empowering businesses to seamlessly manage compliance and legal tasks.",
-    "one_liner": "Instant Legal Infrastructure - Draft, Sign, Notarize & Process",
+    "website": "https://beglaubigt.de/en-us",
+    "all_locations": "Munich, BY, Germany",
+    "long_description": "Beglaubigt.de is building the digital back-office for European founders. Our German brand Beglaubigt.de is the market-leading platform for digital company formations and notarizations - reducing GmbH incorporations from 6–8 weeks to as little as 3 days. \r\n\r\nThrough Germany's first fully automated incorporation API, we power the formation flows of partners like Qonto, Holvi, and Sevdesk. We're now expanding the stack into ongoing business operations: registered addresses, trade registrations, bookkeeping, and the full legal back-office.",
+    "one_liner": "The legal back-office for European founders - the incorporation API…",
     "team_size": 15,
     "industry": "B2B",
     "subindustry": "B2B -> Legal",
     "launched_at": 1731569238,
     "tags": [
-      "Artificial Intelligence",
       "B2B",
       "Workflow Automation",
       "Compliance",
-      "LegalTech"
+      "LegalTech",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -1519,15 +1520,16 @@
       "Legal"
     ],
     "regions": [
-      "Unspecified"
+      "Germany",
+      "Europe"
     ],
     "stage": "Early",
     "app_video_public": true,
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/platus",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/fall-2024/platus.json"
+    "url": "https://www.ycombinator.com/companies/beglaubigtde",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/fall-2024/beglaubigtde.json"
   },
   {
     "id": 30073,
@@ -2232,7 +2234,7 @@
     "all_locations": "",
     "long_description": "We're the AI native law firm that solves commercial legal for founders. Our firm provides fast, high-quality contract drafting, review, and negotiation for a flat fee. We save founders $100s-$1000s per contract, turn contracts in hours instead of days, and our expert attorneys provide practical, real-time guidance to get deals closed safely.",
     "one_liner": "The AI native law firm for growth stage companies",
-    "team_size": 3,
+    "team_size": 9,
     "industry": "B2B",
     "subindustry": "B2B -> Legal",
     "launched_at": 1769746017,

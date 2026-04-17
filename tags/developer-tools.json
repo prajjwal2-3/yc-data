@@ -1966,7 +1966,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -4753,9 +4753,9 @@
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1599762607,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
-      "Infrastructure",
-      "AI"
+      "Infrastructure"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -8132,7 +8132,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -8180,7 +8180,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -8774,12 +8774,12 @@
     "former_names": [
       "DailyBot"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8a4562eea5bec9eaf52ff9e3598861ff6e24fdf0.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f727e5abc1675504008ed497195c21034c360412.png",
     "website": "https://www.dailybot.com/",
     "all_locations": "Remote, OR, USA; Remote",
-    "long_description": "DailyBot is a chat AI Assistant and Workflow Automation platform. It takes chat to a new level by providing automation and chat use-cases that are underserved by the current messaging platforms. It helps users get more things done within the chat to be more efficient and save time.\r\n\r\nThe new generation lives in chat. Remote/hybrid teams use DailyBot to automate daily workflows like stand-ups, team check-ins, give kudos to teammates or even to create their own chat-automation for their back-office with no-code/low-code in an environment similar to Amazon Alexa. DailyBot offers numerous add-ons to make the work experience better.\r\n\r\nDailyBot provides a ChatGPT assistant and a unique AI Workflows tool. Users can build multi-step workflows that use AI to generate content, process information and run actions.\r\n\r\nDailyBot is cross platform and already available for Slack, Microsoft Teams, Google Chat and Discord.\r\n\r\nKeywords: chatops chat-ops async nocode assistant workflow automation developer",
-    "one_liner": "AI Assistant and Chat Add-ons for Work",
-    "team_size": 12,
+    "long_description": "Dailybot is the coordination platform for software teams where people and AI agents work side by side.\r\n\r\nAs engineering teams increasingly operate alongside multiple AI agents — coding agents, incident responders, research assistants — the gap between what's being worked on and what the team can actually see has become a critical problem. Dailybot closes that gap.\r\n\r\nTeams use Dailybot to run async standups, check-ins, retros, and custom workflows directly inside Slack, Microsoft Teams, Google Chat, and Discord. In Dailybot 3, those capabilities now extend to AI agents: every agent can report progress, surface blockers, and be monitored in a dedicated observability layer — all attributed to the humans who delegated the work.\r\n\r\nThe platform combines four capabilities: structured check-ins and forms in chat, AI-powered summaries and blocker detection, no-code workflow automation, and agent infrastructure (API, CLI, open-source skill pack, fleet monitoring). Leaders get a proactive view of what people and agents accomplished together — without adding meetings or dashboards to check.\r\n\r\nDailybot is SOC 2 and GDPR compliant, backed by Y Combinator (S21), and trusted by teams at IBM, Samsung, Pixar, and 8,000+ teams worldwide.",
+    "one_liner": "Make all team work visible — people and AI agents",
+    "team_size": 11,
     "industry": "B2B",
     "subindustry": "B2B -> Productivity",
     "launched_at": 1625092395,
@@ -11762,7 +11762,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/65ba001ab4d9a51e57b2d599e1b3c910c0a39b01.png",
     "website": "https://windmill.dev",
     "all_locations": "Paris, Île-de-France, France",
-    "long_description": "Windmill is an open-source developer platform to quickly build production-grade multi-step internal apps, workflows and integrations from minimal Python and Typescript scripts. \r\n\r\nOpen-source alternative to Airplane and Pipedream. Simplified temporal with automatic app generation. Usable as a self-hosted AWS Lambda.\r\n\r\nSync your scripts from your github repo or write them directly on Windmill, have them be converted to apps and no-code modules automatically. Use those apps as standalone or, build powerful flows using either those scripts or scripts made by the community on hub.windmill.dev. The experience is similar to no-code tools except that at any point, any module can have its code inspected and tweaked. Leveraging the open-source community, we will build an exhaustive library of scripts for all apis and generic tasks.\r\n\r\nYou may also wrap Windmill with your own frontend to provide automation as a feature on top of your own SaaS.\r\n\r\nFocus on your business logic for all kind of flows, Windmill is the platform to build, share and run them.",
+    "long_description": "Windmill is an open-source developer platform that turns scripts into workflows, internal tools, and full-stack apps.\r\n\r\nWrite scripts in Python, TypeScript, Go, Bash, Rust, SQL - Windmill auto-generates UIs from their parameters, handles dependencies, credentials, permissions, and scheduling so you focus on business logic, not infra.\r\n                                                                                     \r\nOpen-source alternative to Airflow, Temporal, Retool and n8n. Chain scripts into flows with branching, parallelism, retries. Build dashboards with the app builder. Trigger via cron, webhook, or UI. All-in-one runtime, editor, secret manager, and OAuth platform - enterprise-ready out of the box.\r\n                                                                                                                            \r\nStack: Rust / TypeScript + Svelte / PostgreSQL. Self-hostable, easy to deploy, built for performance and DX.",
     "one_liner": "Open-source platform to turn scripts into internal apps & workflows",
     "team_size": 10,
     "industry": "B2B",
@@ -12731,7 +12731,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2023",
     "status": "Active",
@@ -15538,7 +15538,7 @@
       "Cram"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/bf0019c6ad5bec3a367e3a88e2bc4f39705513aa.png",
-    "website": "https://www.trychatter.ai/",
+    "website": "https://chatter.anish.xyz",
     "all_locations": "Philadelphia, PA, USA",
     "long_description": "Chatter is Postman for LLMs. Our platform helps companies and developers test their LLM models. Iterate on prompts, run them across model families and evaluate them against test cases – all in one place. With collaboration features, engineers can design LLM chains while QA can write test cases. \r\n",
     "one_liner": "Dead simple LLM testing and iteration",
@@ -20897,6 +20897,49 @@
     "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2025/better-auth.json"
   },
   {
+    "id": 30456,
+    "name": "Tinfoil",
+    "slug": "tinfoil",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4a45d3f15cbd2d0f665850c643ea48907f1a8bf7.png",
+    "website": "https://tinfoil.sh",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Tinfoil makes it easy to make your AI workloads secure and provably private. You get the privacy of on-prem deployments, while running on the cloud. It's like end-to-end encrypted messaging but for your AI applications. \r\n\r\nWe’ve built a full-stack platform on top of the latest NVIDIA GPUs offering confidential computing capabilities, meaning that you don’t have to trade off performance for privacy. We integrate a suite of recent advances in secure hardware technologies, in particular NVIDIA’s confidential compute mode available on Hopper and Blackwell. When combined with Tinfoil’s software stack, companies can prove their security claims like \"we can't see and don’t log your queries.” Tinfoil guarantees that all data always stays private and cannot be accessed by anyone other than the end user -- not even by Tinfoil or the cloud provider it’s processed on. Everything can be made end-to-end encrypted and private with Tinfoil. \r\n\r\nThe founding team combines deep academic and industry experience in security and Internet protocols. Tanya was previously a systems engineer at Cloudflare, where she built Internet security protocols used by billions, and contributed to the Workers AI platform. Jules and Sacha hold PhDs from MIT, where they worked on secure hardware, cryptography, and privacy technologies. Jules has also worked at NVIDIA on their confidential computing team. Tinfoil was born from our personal frustration with the false choice between access to powerful AI and the massive data privacy implications of deeply integrated AI.\r\n\r\nAI is a universal tool that becomes part of our personal lives and business workflows. In the process, it needs access to all personal, private, and proprietary data. Right now, the only solutions are data processing agreements (i.e., \"pinky promises\"), band-aids like PII redaction that don't work in practice, or AI locally/on-prem, which doesn't scale. Tinfoil promises to unlock significantly deeper AI adoption and integrations by making it easy to obtain true privacy, just as TLS on the Internet enabled e-commerce to flourish by securing credit cards on the network.\r\n\r\nToday we offer several self-serve products: \r\n\r\n- A consumer-facing chatbot that keeps your chats end-to-end encrypted and provides zero-access inference with powerful open-source models like Kimi, Gemma, and GLM. You can try it out for free: https://chat.tinfoil.sh\r\n\r\n- A developer-friendly API that allows you to build AI applications where all user data is kept private and we as the inference provider cannot see any of the prompts. Our SDKs make sure that all relevant security measures are checked for you before even sending a single byte of data. Learn more:https://docs.tinfoil.sh \r\n\r\n- An advanced confidential computing platform we call Tinfoil Containers that allows you to secure any Docker application. We make it easy to deploy your own logic and applications inside secure enclaves and prove to the world what code is running inside. This enables attested workloads and publicly verifiable privacy policies for sensitive applications. Learn more: https://tinfoil.sh/containers ",
+    "one_liner": "Encrypted AI with verifiable privacy",
+    "team_size": 5,
+    "industry": "B2B",
+    "subindustry": "B2B -> Security",
+    "launched_at": 1744845895,
+    "tags": [
+      "Developer Tools",
+      "Security",
+      "Privacy",
+      "Cloud Computing",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Security"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/tinfoil",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2025/tinfoil.json"
+  },
+  {
     "id": 30459,
     "name": "Chiron",
     "slug": "chiron",
@@ -21986,16 +22029,16 @@
     "website": "https://autosana.ai",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Autosana is the end-to-end testing layer for your coding agents, across iOS, Android, and Web apps.\r\n\r\nStep away from your laptop. Come back to full-stack features built and tested end-to-end, production ready.\r\n\r\nAutosana creates, updates, and runs tests automatically from your code diffs. Locally, it loops with your coding agent until every test passes. In PRs, it loops with cloud agents and shows video proof of your new feature or bug fix working end-to-end.\r\n\r\nNo setup, no maintenance, just tests evolving with your codebase. Ship with confidence.",
-    "one_liner": "Close the E2E testing loop across mobile & web",
+    "one_liner": "AI agents for E2E testing across mobile & web",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1751416575,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "B2B",
-      "Enterprise Software",
-      "AI"
+      "Enterprise Software"
     ],
     "tags_highlighted": [],
     "top_company": false,
