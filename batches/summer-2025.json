@@ -1402,26 +1402,27 @@
   },
   {
     "id": 30628,
-    "name": "datafruit",
+    "name": "Datafruit",
     "slug": "datafruit",
     "former_names": [
       "Lychee",
       "DataFruit",
       "datafruit",
-      "Datafruit"
+      "Datafruit",
+      "datafruit"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c0545fc19adebb3a29cdf7c671311902833861e8.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a591148ecee7a3124b7a64758f3eee4d11b56efd.png",
     "website": "https://datafruit.ai/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Datafruit helps enterprise delivery teams understand their customers deeply and deliver more profitably. We build AI agents capture every conversation, structure scope from day one, and use past projects to make every engagement sharper.",
-    "one_liner": "Agents for Enterprise Software Integration Teams",
+    "one_liner": "The AI workspace for software implementations",
     "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1755048308,
     "tags": [
-      "Enterprise Software",
-      "AI"
+      "Artificial Intelligence",
+      "Enterprise Software"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -2400,20 +2401,20 @@
     "slug": "deepaware-ai",
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c1f361055ad23340a67d324b48d58339307211fb.png",
-    "website": "https://deepawareai.com/",
+    "website": "https://roboticscenter.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "DeepAware builds an AI-driven automation system for GPU-intensive data centers. Our reinforcement-learning scheduler, real-time market integration, and unified dashboard slice energy waste by up to 30%. Coming soon: autonomous “robot-hand” inspections and maintenance to enable 24/7 operations with minimal staff.\r\n\r\nMore info: https://deepawareai.com/\r\nJobs/Internship: https://www.deepawareai.com/careers",
-    "one_liner": "Help AI data centers unlock more compute and become more efficient",
+    "long_description": "DeepAware (Silicon Valley Robotics Center roboticscenter.ai) is the fastest way for enterprises and researchers to get robots and robotics parts in the US — 72-hour delivery or Bay Area pickup.\r\n\r\nBeyond hardware, we help teams collect teleoperation data, build reinforcement learning environments, and deploy robots into production. Customers include AI labs, industrial operations, research teams, and event producers.",
+    "one_liner": "Robots, parts & RL environments - delivered in 72 hrs or pickup in SF.",
     "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Infrastructure",
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Manufacturing and Robotics",
     "launched_at": 1753029704,
     "tags": [
+      "Artificial Intelligence",
       "Machine Learning",
       "Robotics",
-      "Energy",
-      "Infrastructure",
-      "AI"
+      "Supply Chain",
+      "Data Engineering"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -2422,8 +2423,8 @@
     "batch": "Summer 2025",
     "status": "Active",
     "industries": [
-      "B2B",
-      "Infrastructure"
+      "Industrials",
+      "Manufacturing and Robotics"
     ],
     "regions": [
       "United States of America",
@@ -4383,13 +4384,13 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Omnara brings Claude Code and Codex to your phone. Start a coding session on your desktop, then seamlessly hand off to mobile and keep building whether you're commuting, traveling, or away from your desk. Code in local or remote environments with full context preservation across devices. Plus, use voice to code hands-free by having natural conversations with Omnara to build, debug, and ship from anywhere.\r\n",
     "one_liner": "Mobile & Web Interface for Claude Code & Codex",
-    "team_size": 3,
+    "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1753676392,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
-      "AI",
       "AI Assistant"
     ],
     "tags_highlighted": [],
@@ -6235,7 +6236,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9dc164f31a43f3059a961dca44229c015bb26437.png",
     "website": "https://vulcan.ai/",
     "all_locations": "Austin, TX, USA",
-    "long_description": "Vulcan uses AI to map every law, regulation, and court case in America, allowing government agencies and businesses to replace massive consulting projects with instant automated analyses. We call this \"intelligent legal cartography.\"\r\n\r\nIn 3 months, we went from zero customers to Virginia's Executive Order 51, requiring all state agencies to use Vulcan. We are now live with the U.S. Department of Education, a regulatory reform PAC in South Carolina, and have a pipeline of several additional state and federal agencies and major enterprises.\r\n\r\nOur initial agency partners use legal cartography to draft lawful regulations, respond to public comments on regulations, and instantly generate mandatory cost-benefit analyses.\r\n\r\nWe have both public and private sector visions. In the public sector: we endeavor to automate the entire regulatory process end-to-end; replacing the consulting industrial complex with software. In the private sector: we plan to automate regulatory compliance, tackling the $4 trillion regulatory cost on the U.S. economy.",
+    "long_description": "Vulcan uses AI to map every law, regulation, and court case in America, allowing government agencies and businesses to replace massive consulting projects with instant automated analyses. We call this \"intelligent legal cartography.\"\r\n\r\nIn 3 months, we went from zero customers to Virginia's Executive Order 51, requiring all state agencies to use Vulcan.\r\n\r\nOur initial agency partners use legal cartography to draft lawful regulations, respond to public comments on regulations, and instantly generate mandatory cost-benefit analyses.\r\n\r\nWe have both public and private sector visions. In the public sector: we endeavor to automate the entire regulatory process end-to-end; replacing the consulting industrial complex with software. In the private sector: we plan to automate regulatory compliance, tackling the $4 trillion regulatory cost on the U.S. economy.",
     "one_liner": "Frontier intelligence for government, policy, and law",
     "team_size": 6,
     "industry": "B2B",

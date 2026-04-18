@@ -12,7 +12,11 @@
   "industry": "B2B",
   "subindustry": "B2B -> Engineering, Product and Design",
   "launched_at": 1773355936,
-  "tags": [],
+  "tags": [
+    "Developer Tools",
+    "API",
+    "AI"
+  ],
   "tags_highlighted": [],
   "top_company": false,
   "isHiring": true,

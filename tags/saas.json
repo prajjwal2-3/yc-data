@@ -12402,7 +12402,7 @@
       "Remote",
       "Fully Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -15091,52 +15091,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/volopay",
     "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2020/volopay.json"
-  },
-  {
-    "id": 21828,
-    "name": "Explorex",
-    "slug": "explorex",
-    "former_names": [
-      "Eatable",
-      "Explorex (Formerly Eatable)"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b038a5e905f1f6cf97ad14baa85b93658ffe2791.png",
-    "website": "https://explorex.co",
-    "all_locations": "Bengaluru, KA, India",
-    "long_description": "The Indian restaurant industry has already adopted technology to adapt to the growing demands and match the expectations of today's customers but the absence of a full-stack cloud-based software is extremely frustrating to business owners today. The existing systems lack modularity, lack the ability to integrate with services, and hence aren't plug and play. Also, Restaurants are extremely frustrated with all the 5-6 independent systems that don't talk to each other. \r\n\r\nWe are solving these problems by building a full-stack solution for the 30 million+ restaurants in India, by solving order management, operations management, online delivery, payment processing, reports & analytics, and guest identification and re-engagement all using one system - Explorex.",
-    "one_liner": "Ecosystem Platform for Restaurants in India",
-    "team_size": 18,
-    "industry": "B2B",
-    "subindustry": "B2B -> Retail",
-    "launched_at": 1597688833,
-    "tags": [
-      "Marketplace",
-      "SaaS",
-      "Consumer"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Summer 2020",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Retail"
-    ],
-    "regions": [
-      "India",
-      "South Asia",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/explorex",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2020/explorex.json"
   },
   {
     "id": 21829,
@@ -24347,7 +24301,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2021",
     "status": "Active",
@@ -27750,7 +27704,7 @@
     "all_locations": "New York, NY, USA; Remote",
     "long_description": "Nest is a lab-agnostic, comprehensive solution for organizations to launch and implement large-scale genomic programs. The platform includes the ability to triage, consent, and counsel patients for genetic testing, provide EMR-integrated clinical decision support for providers managing patients with genetic results, and manage patients’ clinical needs across the continuum of care.",
     "one_liner": "Software to launch and integrate genetics into clinical care",
-    "team_size": 11,
+    "team_size": 14,
     "industry": "Healthcare",
     "subindustry": "Healthcare -> Healthcare IT",
     "launched_at": 1648243110,
@@ -34506,7 +34460,7 @@
     "former_names": [
       "Pump"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7bd441b185f1d0725ac8c35281774ba67b3fdc86.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2e52daa194550c954ede0338084d6994d0aeefde.png",
     "website": "https://www.pump.co/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Pump saves up to 60% off AWS for early stage startups, and for free (yes, that's right). Using group buying and AI, Pump automates cost savings that require no engineering effort. #GetPumped ",

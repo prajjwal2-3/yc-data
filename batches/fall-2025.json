@@ -1523,23 +1523,23 @@
   },
   {
     "id": 30864,
-    "name": "Dari",
-    "slug": "dari",
-    "former_names": [],
+    "name": "dari.dev",
+    "slug": "daridev",
+    "former_names": [
+      "Dari"
+    ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/db1cb9787e09629b6ccb1639f659a5f8d0bb21b1.png",
     "website": "https://dari.dev",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "A platform where users can automate web workflows using natural language prompts.\r\n\r\nWe handle deterministic playback of browser workflows and fall back to LLMs where necessary, ensuring reliability. ",
-    "one_liner": "An API to build the most reliable browser use agents",
+    "long_description": "We let developers deploy AI agents as API endpoints with built-in tools, sandboxes, and durable execution.\r\n\r\nAgents maintain state, run long-lived workflows, and handle retries automatically.",
+    "one_liner": "The Production Layer for AI Agents",
     "team_size": 2,
     "industry": "B2B",
-    "subindustry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1759188885,
     "tags": [
       "Developer Tools",
-      "Robotic Process Automation",
-      "B2B",
-      "Workflow Automation"
+      "B2B"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -1548,7 +1548,8 @@
     "batch": "Fall 2025",
     "status": "Active",
     "industries": [
-      "B2B"
+      "B2B",
+      "Engineering, Product and Design"
     ],
     "regions": [
       "United States of America",
@@ -1559,8 +1560,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/dari",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/fall-2025/dari.json"
+    "url": "https://www.ycombinator.com/companies/daridev",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/fall-2025/daridev.json"
   },
   {
     "id": 30865,
@@ -2899,11 +2900,13 @@
   },
   {
     "id": 30911,
-    "name": "Articulate",
-    "slug": "articulate",
-    "former_names": [],
+    "name": "Helonic",
+    "slug": "helonic",
+    "former_names": [
+      "Articulate"
+    ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b26a35750dbae152a692ea82c2b00bb8f78d4d9b.png",
-    "website": "https://usearticulate.com",
+    "website": "https://helonic.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "We help construction teams eliminate rework, delays, and drawing confusion before construction starts. We analyze PDF plans, detect clashes and inconsistencies across disciplines, and create draft RFIs so teams can resolve issues early.\r\n\r\nThis saves construction companies hundreds of hours and millions of dollars.\r\n\r\nWhat we do:\r\n- Automatically detect clashes, missing information, and drawing mismatches\r\n- Align architectural, structural, and MEP plans so everything matches across sheets\r\n- Generate draft RFIs from issues we find\r\n- Replace long page-turn meetings with instant drawing analysis\r\n- Reduce rework and prevent schedule delays before boots hit the ground\r\n\r\nWe integrate with: Procore, Autodesk, email, and the tools teams already use\r\n\r\nTeams use us to:\r\n- Save hundreds of thousands to millions of dollars per project\r\n- Catch design and coordination issues early\r\n- Reduce RFIs and prevent field fixes\r\n- Keep projects on schedule with fewer surprises\r\n\r\nContact us at founders@usearticulate.com",
     "one_liner": "Automatic Construction Drawing Clash Detection ",
@@ -2912,11 +2915,11 @@
     "subindustry": "Real Estate and Construction -> Construction",
     "launched_at": 1760131149,
     "tags": [
+      "Artificial Intelligence",
       "Construction",
       "B2B",
       "Workflow Automation",
-      "Architecture",
-      "AI"
+      "Architecture"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -2937,8 +2940,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": true,
-    "url": "https://www.ycombinator.com/companies/articulate",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/fall-2025/articulate.json"
+    "url": "https://www.ycombinator.com/companies/helonic",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/fall-2025/helonic.json"
   },
   {
     "id": 30912,
@@ -5525,45 +5528,42 @@
   },
   {
     "id": 30999,
-    "name": "Claybird",
-    "slug": "claybird",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9529719c71a2b6a4f16690eb9667a824c2ab4d65.png",
-    "website": "https://claybird.com/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Claybird makes studio-quality video ads in under 72 hours for brands like Coca-Cola, Walmart, Eight Sleep, Delve, and Mercor.\r\n\r\nClaybird’s AI agents use single-image NeRFs, fine-tuned image editing models, and eval layers for picture-perfect, consistent results at scale.\r\n",
-    "one_liner": "The full-stack AI ad company",
-    "team_size": 4,
-    "industry": "B2B",
-    "subindustry": "B2B -> Marketing",
-    "launched_at": 1759979466,
-    "tags": [
-      "Artificial Intelligence",
-      "Video",
-      "Marketing",
-      "Advertising"
+    "name": "Zag",
+    "slug": "zag",
+    "former_names": [
+      "Claybird",
+      "zag.dev"
     ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5f7aeefba483366ce37b43e62ede2e86d091b755.png",
+    "website": "https://zag.dev/",
+    "all_locations": "",
+    "long_description": "Zag is an AI review agent platform for teams shipping iOS, iPadOS, and macOS apps. You describe review agents in TypeScript or Swift that actually build, test, and run your app on every PR, catching bugs and security issues before they reach a human reviewer.\r\n\r\nUnder the hood, Zag runs on dedicated Apple Silicon in real macOS environments with Xcode, simulators, and your full toolchain.\r\n\r\nZag offers at-cost macOS compute at $0.015/min - 5× cheaper than any other macOS runner on the market.",
+    "one_liner": "AI review agents for iOS, iPadOS, and macOS developers.",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1759979466,
+    "tags": [],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Fall 2025",
     "status": "Active",
     "industries": [
       "B2B",
-      "Marketing"
+      "Engineering, Product and Design"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "Unspecified"
     ],
     "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/claybird",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/fall-2025/claybird.json"
+    "url": "https://www.ycombinator.com/companies/zag",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/fall-2025/zag.json"
   },
   {
     "id": 31001,

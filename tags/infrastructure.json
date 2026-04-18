@@ -3928,51 +3928,6 @@
     "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2025/magnitude.json"
   },
   {
-    "id": 30662,
-    "name": "DeepAware AI",
-    "slug": "deepaware-ai",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c1f361055ad23340a67d324b48d58339307211fb.png",
-    "website": "https://deepawareai.com/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "DeepAware builds an AI-driven automation system for GPU-intensive data centers. Our reinforcement-learning scheduler, real-time market integration, and unified dashboard slice energy waste by up to 30%. Coming soon: autonomous “robot-hand” inspections and maintenance to enable 24/7 operations with minimal staff.\r\n\r\nMore info: https://deepawareai.com/\r\nJobs/Internship: https://www.deepawareai.com/careers",
-    "one_liner": "Help AI data centers unlock more compute and become more efficient",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Infrastructure",
-    "launched_at": 1753029704,
-    "tags": [
-      "Machine Learning",
-      "Robotics",
-      "Energy",
-      "Infrastructure",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Summer 2025",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Infrastructure"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/deepaware-ai",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2025/deepaware-ai.json"
-  },
-  {
     "id": 30671,
     "name": "AgentHub",
     "slug": "agenthub-2",
@@ -4669,16 +4624,16 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Building the communication infrastructure needed for fully autonomous agents",
     "one_liner": "Communication for agents",
-    "team_size": 1,
+    "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1773121787,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "Automation",
       "Email",
-      "Infrastructure",
-      "AI"
+      "Infrastructure"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -4879,17 +4834,17 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f4ef54cc2ae204ad4ac662f9bfacf6a3fa6faf47.png",
     "website": "https://tryardent.com",
-    "all_locations": "",
+    "all_locations": "San Francisco, CA, USA",
     "long_description": "Clone any postgres DB regardless of size in 6s so agents can test their work",
     "one_liner": "Database sandboxes for Agents",
-    "team_size": null,
+    "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1775685642,
     "tags": [
-      "Artificial Intelligence",
       "Data Engineering",
-      "Infrastructure"
+      "Infrastructure",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -4902,7 +4857,8 @@
       "Infrastructure"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,

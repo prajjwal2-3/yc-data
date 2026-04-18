@@ -98,7 +98,7 @@
       "Grappl",
       "HireGlide"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0ef033d3da927f6edcdbc0ea8d7e36fe8e87bca1.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6e52603aa2143dd9017a5e541c9233008c5afe63.png",
     "website": "https://tryprism.com/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Prism is an AI-native recruiting agency. We use software and agents to find companies better people faster.\r\n\r\n",
@@ -108,10 +108,10 @@
     "subindustry": "B2B -> Recruiting and Talent",
     "launched_at": 1762295048,
     "tags": [
-      "Artificial Intelligence",
       "Recruiting",
       "HR Tech",
-      "Talent Acquisition"
+      "Talent Acquisition",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -653,16 +653,16 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Building the communication infrastructure needed for fully autonomous agents",
     "one_liner": "Communication for agents",
-    "team_size": 1,
+    "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1773121787,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "Automation",
       "Email",
-      "Infrastructure",
-      "AI"
+      "Infrastructure"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -860,7 +860,11 @@
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1773355936,
-    "tags": [],
+    "tags": [
+      "Developer Tools",
+      "API",
+      "AI"
+    ],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": true,
@@ -2896,17 +2900,17 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f4ef54cc2ae204ad4ac662f9bfacf6a3fa6faf47.png",
     "website": "https://tryardent.com",
-    "all_locations": "",
+    "all_locations": "San Francisco, CA, USA",
     "long_description": "Clone any postgres DB regardless of size in 6s so agents can test their work",
     "one_liner": "Database sandboxes for Agents",
-    "team_size": null,
+    "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1775685642,
     "tags": [
-      "Artificial Intelligence",
       "Data Engineering",
-      "Infrastructure"
+      "Infrastructure",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -2919,7 +2923,8 @@
       "Infrastructure"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -2972,7 +2977,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/86b9dc2025d8d9aaca7a7d152afe3f067bb14268.png",
     "website": "https://silmaril.dev",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Silmaril is a self-healing app-layer prompt injection defense for AI native applications and agents. It understands application context to block 2x as many threats as current SOTA defenses with 10x lower latency. Customers plug us into agentic frameworks like LangGraph with 5 lines of code. Silmaril has stopped $28M of damages for customers.",
+    "long_description": "Silmaril is self-healing prompt injection defense for AI native applications and agents. It understands application context to block 2x as many threats as current SOTA defenses with 10x lower latency. Customers plug us into agentic frameworks like LangGraph with 5 lines of code. Silmaril has stopped $28M of damages for customers.",
     "one_liner": "Prompt injection defense that is self-healing",
     "team_size": 2,
     "industry": "B2B",

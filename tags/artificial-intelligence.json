@@ -4694,6 +4694,52 @@
     "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2019/tailor-ed.json"
   },
   {
+    "id": 12283,
+    "name": "OutRival, Inc.",
+    "slug": "outrival-inc",
+    "former_names": [
+      "Career Karma",
+      "Inc.",
+      "Career Karma"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6c6deff6969e83c832af730188606f1d389231dc.png",
+    "website": "https://outrival.com/",
+    "all_locations": "Miami, FL, USA",
+    "long_description": "OutRival's AI Agents make outbound calls, send texts, and write emails for enterprises in education, insurance, and travel. We drive revenue through millions of proactive conversations monthly. Companies go live in under 2 weeks.",
+    "one_liner": "Outbound AI Agents for Education, Insurance, and Travel",
+    "team_size": 15,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1544068972,
+    "tags": [
+      "Artificial Intelligence",
+      "Education",
+      "Travel",
+      "Insurance",
+      "Customer Service"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2019",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": true,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/outrival-inc",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2019/outrival-inc.json"
+  },
+  {
     "id": 12507,
     "name": "Playground",
     "slug": "playground",
@@ -13230,46 +13276,6 @@
     "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2022/elessar.json"
   },
   {
-    "id": 26670,
-    "name": "Julius",
-    "slug": "julius",
-    "former_names": [
-      "LiveTrucks"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/01137f903c552dc3ad5d129693b9cf8164803f74.png",
-    "website": "https://julius.ai",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Julius is an AI Data Scientist that can analyze and visualize massive datasets, perform complex analysis like forecasting and regression, and even train ML models",
-    "one_liner": "AI Data Scientist",
-    "team_size": 15,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1662143498,
-    "tags": [
-      "Artificial Intelligence"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Summer 2022",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/julius",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2022/julius.json"
-  },
-  {
     "id": 26671,
     "name": "Ciro",
     "slug": "ciro",
@@ -14688,7 +14694,7 @@
     "former_names": [
       "Pump"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7bd441b185f1d0725ac8c35281774ba67b3fdc86.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2e52daa194550c954ede0338084d6994d0aeefde.png",
     "website": "https://www.pump.co/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Pump saves up to 60% off AWS for early stage startups, and for free (yes, that's right). Using group buying and AI, Pump automates cost savings that require no engineering effort. #GetPumped ",
@@ -20278,7 +20284,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -23130,51 +23136,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/centralize",
     "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2024/centralize.json"
-  },
-  {
-    "id": 29362,
-    "name": "Pythagora",
-    "slug": "pythagora",
-    "former_names": [
-      "GPT Pilot",
-      "Pythagora (GPT Pilot)"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d0ecb110d14b42eafda9ceea57bb192193859109.png",
-    "website": "https://pythagora.ai/",
-    "all_locations": "",
-    "long_description": "Pythagora is the world's first all-in-one AI development platform, which can help you get from idea to production-ready app by talking to users. It uses LLMs to automate developer workflows (debugging, refactoring, etc.) and ask user questions whenever it needs feedback.\r\n\r\nIt is an IDE extension built on top of our open-source tool, GPT Pilot, which has over 32k Github stars.\r\n\r\nYou start with an idea and a simple prompt. In minutes, Pythagora builds you the full app specifications. Once the specs are done, it starts building the frontend. After your app's UI is polished, you can build the backend. It iterates with you by changing the code and asking you for feedback until the app is finished. When done, you can securely deploy and share your app.\r\n",
-    "one_liner": "Worlds first all-in-one AI development platform.",
-    "team_size": 7,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1709274350,
-    "tags": [
-      "Artificial Intelligence",
-      "Developer Tools",
-      "Security",
-      "Web Development"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2024",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": true,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": true,
-    "url": "https://www.ycombinator.com/companies/pythagora",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2024/pythagora.json"
   },
   {
     "id": 29363,
@@ -34766,6 +34727,52 @@
     "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2025/liva-ai.json"
   },
   {
+    "id": 30628,
+    "name": "Datafruit",
+    "slug": "datafruit",
+    "former_names": [
+      "Lychee",
+      "DataFruit",
+      "datafruit",
+      "Datafruit",
+      "datafruit"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a591148ecee7a3124b7a64758f3eee4d11b56efd.png",
+    "website": "https://datafruit.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Datafruit helps enterprise delivery teams understand their customers deeply and deliver more profitably. We build AI agents capture every conversation, structure scope from day one, and use past projects to make every engagement sharper.",
+    "one_liner": "The AI workspace for software implementations",
+    "team_size": 4,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1755048308,
+    "tags": [
+      "Artificial Intelligence",
+      "Enterprise Software"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/datafruit",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2025/datafruit.json"
+  },
+  {
     "id": 30637,
     "name": "Design Arena",
     "slug": "design-arena",
@@ -35196,6 +35203,51 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/magnitude",
     "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2025/magnitude.json"
+  },
+  {
+    "id": 30662,
+    "name": "DeepAware AI",
+    "slug": "deepaware-ai",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c1f361055ad23340a67d324b48d58339307211fb.png",
+    "website": "https://roboticscenter.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "DeepAware (Silicon Valley Robotics Center roboticscenter.ai) is the fastest way for enterprises and researchers to get robots and robotics parts in the US — 72-hour delivery or Bay Area pickup.\r\n\r\nBeyond hardware, we help teams collect teleoperation data, build reinforcement learning environments, and deploy robots into production. Customers include AI labs, industrial operations, research teams, and event producers.",
+    "one_liner": "Robots, parts & RL environments - delivered in 72 hrs or pickup in SF.",
+    "team_size": 2,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Manufacturing and Robotics",
+    "launched_at": 1753029704,
+    "tags": [
+      "Artificial Intelligence",
+      "Machine Learning",
+      "Robotics",
+      "Supply Chain",
+      "Data Engineering"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Manufacturing and Robotics"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/deepaware-ai",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2025/deepaware-ai.json"
   },
   {
     "id": 30666,
@@ -35907,6 +35959,49 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/knowlify",
     "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2025/knowlify.json"
+  },
+  {
+    "id": 30722,
+    "name": "Omnara",
+    "slug": "omnara",
+    "former_names": [
+      "GroundDocs"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fd794dace414f8acdb113022db360874e7706519.png",
+    "website": "https://omnara.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Omnara brings Claude Code and Codex to your phone. Start a coding session on your desktop, then seamlessly hand off to mobile and keep building whether you're commuting, traveling, or away from your desk. Code in local or remote environments with full context preservation across devices. Plus, use voice to code hands-free by having natural conversations with Omnara to build, debug, and ship from anywhere.\r\n",
+    "one_liner": "Mobile & Web Interface for Claude Code & Codex",
+    "team_size": 4,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1753676392,
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "AI Assistant"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/omnara",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2025/omnara.json"
   },
   {
     "id": 30727,
@@ -37521,6 +37616,51 @@
     "api": "https://prajjwal2-3.github.io/yc-data/batches/fall-2025/aleph-lab.json"
   },
   {
+    "id": 30911,
+    "name": "Helonic",
+    "slug": "helonic",
+    "former_names": [
+      "Articulate"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b26a35750dbae152a692ea82c2b00bb8f78d4d9b.png",
+    "website": "https://helonic.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "We help construction teams eliminate rework, delays, and drawing confusion before construction starts. We analyze PDF plans, detect clashes and inconsistencies across disciplines, and create draft RFIs so teams can resolve issues early.\r\n\r\nThis saves construction companies hundreds of hours and millions of dollars.\r\n\r\nWhat we do:\r\n- Automatically detect clashes, missing information, and drawing mismatches\r\n- Align architectural, structural, and MEP plans so everything matches across sheets\r\n- Generate draft RFIs from issues we find\r\n- Replace long page-turn meetings with instant drawing analysis\r\n- Reduce rework and prevent schedule delays before boots hit the ground\r\n\r\nWe integrate with: Procore, Autodesk, email, and the tools teams already use\r\n\r\nTeams use us to:\r\n- Save hundreds of thousands to millions of dollars per project\r\n- Catch design and coordination issues early\r\n- Reduce RFIs and prevent field fixes\r\n- Keep projects on schedule with fewer surprises\r\n\r\nContact us at founders@usearticulate.com",
+    "one_liner": "Automatic Construction Drawing Clash Detection ",
+    "team_size": 2,
+    "industry": "Real Estate and Construction",
+    "subindustry": "Real Estate and Construction -> Construction",
+    "launched_at": 1760131149,
+    "tags": [
+      "Artificial Intelligence",
+      "Construction",
+      "B2B",
+      "Workflow Automation",
+      "Architecture"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2025",
+    "status": "Active",
+    "industries": [
+      "Real Estate and Construction",
+      "Construction"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": true,
+    "url": "https://www.ycombinator.com/companies/helonic",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/fall-2025/helonic.json"
+  },
+  {
     "id": 30912,
     "name": "Redapto",
     "slug": "redapto",
@@ -37907,51 +38047,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/patent-watch",
     "api": "https://prajjwal2-3.github.io/yc-data/batches/fall-2025/patent-watch.json"
-  },
-  {
-    "id": 30944,
-    "name": "Prism",
-    "slug": "tryprism",
-    "former_names": [
-      "Grappl",
-      "HireGlide"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0ef033d3da927f6edcdbc0ea8d7e36fe8e87bca1.png",
-    "website": "https://tryprism.com/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Prism is an AI-native recruiting agency. We use software and agents to find companies better people faster.\r\n\r\n",
-    "one_liner": "AI-native recruiting agency",
-    "team_size": 4,
-    "industry": "B2B",
-    "subindustry": "B2B -> Recruiting and Talent",
-    "launched_at": 1762295048,
-    "tags": [
-      "Artificial Intelligence",
-      "Recruiting",
-      "HR Tech",
-      "Talent Acquisition"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Spring 2026",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Recruiting and Talent"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/tryprism",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/tryprism.json"
   },
   {
     "id": 30946,
@@ -38434,48 +38529,6 @@
     "api": "https://prajjwal2-3.github.io/yc-data/batches/fall-2025/diligencesquared-inc.json"
   },
   {
-    "id": 30999,
-    "name": "Claybird",
-    "slug": "claybird",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9529719c71a2b6a4f16690eb9667a824c2ab4d65.png",
-    "website": "https://claybird.com/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Claybird makes studio-quality video ads in under 72 hours for brands like Coca-Cola, Walmart, Eight Sleep, Delve, and Mercor.\r\n\r\nClaybird’s AI agents use single-image NeRFs, fine-tuned image editing models, and eval layers for picture-perfect, consistent results at scale.\r\n",
-    "one_liner": "The full-stack AI ad company",
-    "team_size": 4,
-    "industry": "B2B",
-    "subindustry": "B2B -> Marketing",
-    "launched_at": 1759979466,
-    "tags": [
-      "Artificial Intelligence",
-      "Video",
-      "Marketing",
-      "Advertising"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Fall 2025",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Marketing"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/claybird",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/fall-2025/claybird.json"
-  },
-  {
     "id": 31002,
     "name": "Clicks",
     "slug": "clicks",
@@ -38641,6 +38694,50 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/ndea-com",
     "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2026/ndea-com.json"
+  },
+  {
+    "id": 31145,
+    "name": "RamAIn",
+    "slug": "ramain",
+    "former_names": [
+      "Ramain"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9fe951afa5872a811734029111550a11062d931e.png",
+    "website": "https://ramain.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "RamAIn can intelligently automate any super complex and repetitive process across applications (Browser & Desktop) super fast. It doesn’t matter whether you have API access or not - if you can see it, RamAIn can do it. \r\n\r\nSimply chat with it and get your UI task as a composable API - fully managed, self-healing and self-evolving!",
+    "one_liner": "Automate any UI task with natural language",
+    "team_size": 4,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1767663208,
+    "tags": [
+      "Artificial Intelligence",
+      "Robotic Process Automation",
+      "Automation"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/ramain",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2026/ramain.json"
   },
   {
     "id": 31165,
@@ -38890,6 +38987,51 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/shofo",
     "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2026/shofo.json"
+  },
+  {
+    "id": 31329,
+    "name": "primitive",
+    "slug": "primitive",
+    "former_names": [
+      "MyMX"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/68d79963abcea30afcb5624fb54adb42544a50ed.png",
+    "website": "https://primitive.dev",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Building the communication infrastructure needed for fully autonomous agents",
+    "one_liner": "Communication for agents",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1773121787,
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "Automation",
+      "Email",
+      "Infrastructure"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/primitive",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/primitive.json"
   },
   {
     "id": 31362,
@@ -39540,46 +39682,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/kuli",
     "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/kuli.json"
-  },
-  {
-    "id": 31475,
-    "name": "Ardent",
-    "slug": "ardent",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f4ef54cc2ae204ad4ac662f9bfacf6a3fa6faf47.png",
-    "website": "https://tryardent.com",
-    "all_locations": "",
-    "long_description": "Clone any postgres DB regardless of size in 6s so agents can test their work",
-    "one_liner": "Database sandboxes for Agents",
-    "team_size": null,
-    "industry": "B2B",
-    "subindustry": "B2B -> Infrastructure",
-    "launched_at": 1775685642,
-    "tags": [
-      "Artificial Intelligence",
-      "Data Engineering",
-      "Infrastructure"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Spring 2026",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Infrastructure"
-    ],
-    "regions": [
-      "Unspecified"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/ardent",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/ardent.json"
   },
   {
     "id": 31481,

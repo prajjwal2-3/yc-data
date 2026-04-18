@@ -6196,7 +6196,7 @@
       "Malaysia",
       "Southeast Asia"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -12967,7 +12967,7 @@
       "Remote",
       "Fully Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -15257,15 +15257,14 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b038a5e905f1f6cf97ad14baa85b93658ffe2791.png",
     "website": "https://explorex.co",
     "all_locations": "Bengaluru, KA, India",
-    "long_description": "The Indian restaurant industry has already adopted technology to adapt to the growing demands and match the expectations of today's customers but the absence of a full-stack cloud-based software is extremely frustrating to business owners today. The existing systems lack modularity, lack the ability to integrate with services, and hence aren't plug and play. Also, Restaurants are extremely frustrated with all the 5-6 independent systems that don't talk to each other. \r\n\r\nWe are solving these problems by building a full-stack solution for the 30 million+ restaurants in India, by solving order management, operations management, online delivery, payment processing, reports & analytics, and guest identification and re-engagement all using one system - Explorex.",
+    "long_description": "Explorex is building the operating system for dining — powering both restaurants and the end consumer experience through a tightly integrated ecosystem.\r\n\r\nWhile most companies in the space focus on software for restaurants or discovery for diners, Explorex connects both sides of the equation. Our platform combines a full-stack restaurant OS (Bridge) with a consumer layer (Elite), enabling seamless, real-time dining experiences — from discovering a place, to ordering, to paying, all without friction.\r\n\r\nAt the core of this is Elite — our consumer app that is redefining how people dine out. Diners can see live table availability, access dynamic menus, place orders, and self-checkout instantly without waiting for staff. This removes the biggest friction in dining — interruptions — and turns going out into a smooth, uninterrupted experience.\r\n\r\nWhat makes Explorex fundamentally different is the data layer. Unlike delivery platforms that only see orders, we capture real-world, in-venue behavior — what people order, how long they stay, how groups behave, how menus perform, and how experiences impact spending.\r\n\r\nWe are now building Elara, an AI-powered dining concierge that uses this data to guide users to the best possible experience in real time — factoring in intent, context, weather, vibe, availability, and historical behavior. This allows us to move beyond discovery into decision-making, becoming the intelligence layer for offline commerce.\r\n\r\nFor restaurants, this translates into higher revenue through better table utilization, increased average order value, and direct access to high-intent consumers. For diners, it means a faster, more personalized, and significantly better dining experience.\r\n\r\nExplorex is not a SaaS tool — it is the infrastructure layer for offline dining, with AI and consumer experience at its core.",
     "one_liner": "Ecosystem Platform for Restaurants in India",
-    "team_size": 18,
-    "industry": "B2B",
-    "subindustry": "B2B -> Retail",
+    "team_size": 25,
+    "industry": "Consumer",
+    "subindustry": "Consumer",
     "launched_at": 1597688833,
     "tags": [
       "Marketplace",
-      "SaaS",
       "Consumer"
     ],
     "tags_highlighted": [],
@@ -15275,8 +15274,7 @@
     "batch": "Summer 2020",
     "status": "Active",
     "industries": [
-      "B2B",
-      "Retail"
+      "Consumer"
     ],
     "regions": [
       "India",
@@ -23012,52 +23010,6 @@
     "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2022/nira-energy.json"
   },
   {
-    "id": 24354,
-    "name": "Cartpanda",
-    "slug": "cartpanda",
-    "former_names": [
-      "CartX",
-      "Cartpanda",
-      "cartpanda"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fdd422df573f9e77279f0da5b79f0c2fcd5b52ca.png",
-    "website": "https://cartpanda.com/",
-    "all_locations": "São Paulo, SP, Brazil; Remote",
-    "long_description": "As an ecommerce platform, we provide a complete ecosystem for creators and entrepreneurs to sell and promote their products and services, including tools for product management, affiliate management, payment processing and much more. Users can sell various types of products, including digital goods, services, events, and physical items.\r\n\r\nCartpanda help entrepreneurs scale their global sales by providing a high converting checkout page and payment solution, capable to convert to 180+ currencies and languages.",
-    "one_liner": "Global online sales platform",
-    "team_size": 60,
-    "industry": "B2B",
-    "subindustry": "B2B -> Sales",
-    "launched_at": 1626632842,
-    "tags": [
-      "SaaS",
-      "E-commerce"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Summer 2021",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Sales"
-    ],
-    "regions": [
-      "Brazil",
-      "Latin America",
-      "Remote",
-      "Fully Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/cartpanda",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2021/cartpanda.json"
-  },
-  {
     "id": 24355,
     "name": "LootRush",
     "slug": "lootrush",
@@ -25889,7 +25841,7 @@
     "all_locations": "New York, NY, USA; Remote",
     "long_description": "Nest is a lab-agnostic, comprehensive solution for organizations to launch and implement large-scale genomic programs. The platform includes the ability to triage, consent, and counsel patients for genetic testing, provide EMR-integrated clinical decision support for providers managing patients with genetic results, and manage patients’ clinical needs across the continuum of care.",
     "one_liner": "Software to launch and integrate genetics into clinical care",
-    "team_size": 11,
+    "team_size": 14,
     "industry": "Healthcare",
     "subindustry": "Healthcare -> Healthcare IT",
     "launched_at": 1648243110,
@@ -29619,12 +29571,12 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Julius is an AI Data Scientist that can analyze and visualize massive datasets, perform complex analysis like forecasting and regression, and even train ML models",
     "one_liner": "AI Data Scientist",
-    "team_size": 15,
+    "team_size": 10,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1662143498,
     "tags": [
-      "Artificial Intelligence"
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -32105,7 +32057,7 @@
     "former_names": [
       "Pump"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7bd441b185f1d0725ac8c35281774ba67b3fdc86.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2e52daa194550c954ede0338084d6994d0aeefde.png",
     "website": "https://www.pump.co/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Pump saves up to 60% off AWS for early stage startups, and for free (yes, that's right). Using group buying and AI, Pump automates cost savings that require no engineering effort. #GetPumped ",
@@ -39920,7 +39872,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -44437,10 +44389,10 @@
     "name": "TrueClaim",
     "slug": "trueclaim",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d154ea98111c38e79994556405d88a0a0ff92209.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/dbc837a5aa88e54597845c3353d6981ada3d5da9.png",
     "website": "https://www.trytrueclaim.com",
-    "all_locations": "San Francisco, CA, USA; Remote",
-    "long_description": "TrueClaim processes all payments between healthcare providers and companies that self-fund their insurance. TrueClaim's AI-enabled engine adjudicates and continuously reviews 100% of medical claims to save at least 7% of healthcare costs.",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "TrueClaim is rebuilding health plan administration software from the ground-up, with modern technology and AI. Most health plans and third-party administrators (TPAs) still operate on outdated legacy technology that’s slow, error-prone and costly. We’re the modern alternative: AI-powered claims review, API-first architecture, and a platform that makes operating great health plans radically simpler. Think Shopify, but for health plans. We're on a mission to modernize how health plans operate to make the healthcare system more transparent, efficient and affordable for everyone.",
     "one_liner": "Transparent, AI-powered healthcare TPA.",
     "team_size": 10,
     "industry": "Healthcare",
@@ -44460,7 +44412,7 @@
       "United States of America",
       "America / Canada",
       "Remote",
-      "Fully Remote"
+      "Partly Remote"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -47765,7 +47717,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -52559,7 +52511,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -52771,41 +52723,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/artificial-societies",
     "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2025/artificial-societies.json"
-  },
-  {
-    "id": 30299,
-    "name": "Miyagi Labs",
-    "slug": "miyagi-labs",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e5465f36b202134eec8628c9e4cf35661e125dbd.png",
-    "website": "https://miyagilabs.ai",
-    "all_locations": "",
-    "long_description": "Miyagi Labs is an AI-powered exam prep platform that helps students ace tests like the SAT and ACT through our AI tutor, personalized study plans, thousands of practice questions, and realistic practice exams.\r\n\r\nWe’re building the platform we wish we had when studying for exams. No more running out of practice questions. Track your progress as your rating in different exam categories increases, and know exactly what you need to practice most.\r\n\r\nWe envision a world where students anywhere can come to Miyagi to ace their exams and receive personalized, world-class AI tutoring designed to unlock their full potential.",
-    "one_liner": "AI tutors for exam prep",
-    "team_size": 2,
-    "industry": "Education",
-    "subindustry": "Education",
-    "launched_at": 1739904496,
-    "tags": [],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Winter 2025",
-    "status": "Active",
-    "industries": [
-      "Education"
-    ],
-    "regions": [
-      "Unspecified"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/miyagi-labs",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2025/miyagi-labs.json"
   },
   {
     "id": 30301,
@@ -56720,20 +56637,20 @@
     "slug": "deepaware-ai",
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c1f361055ad23340a67d324b48d58339307211fb.png",
-    "website": "https://deepawareai.com/",
+    "website": "https://roboticscenter.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "DeepAware builds an AI-driven automation system for GPU-intensive data centers. Our reinforcement-learning scheduler, real-time market integration, and unified dashboard slice energy waste by up to 30%. Coming soon: autonomous “robot-hand” inspections and maintenance to enable 24/7 operations with minimal staff.\r\n\r\nMore info: https://deepawareai.com/\r\nJobs/Internship: https://www.deepawareai.com/careers",
-    "one_liner": "Help AI data centers unlock more compute and become more efficient",
+    "long_description": "DeepAware (Silicon Valley Robotics Center roboticscenter.ai) is the fastest way for enterprises and researchers to get robots and robotics parts in the US — 72-hour delivery or Bay Area pickup.\r\n\r\nBeyond hardware, we help teams collect teleoperation data, build reinforcement learning environments, and deploy robots into production. Customers include AI labs, industrial operations, research teams, and event producers.",
+    "one_liner": "Robots, parts & RL environments - delivered in 72 hrs or pickup in SF.",
     "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Infrastructure",
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Manufacturing and Robotics",
     "launched_at": 1753029704,
     "tags": [
+      "Artificial Intelligence",
       "Machine Learning",
       "Robotics",
-      "Energy",
-      "Infrastructure",
-      "AI"
+      "Supply Chain",
+      "Data Engineering"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -56742,8 +56659,8 @@
     "batch": "Summer 2025",
     "status": "Active",
     "industries": [
-      "B2B",
-      "Infrastructure"
+      "Industrials",
+      "Manufacturing and Robotics"
     ],
     "regions": [
       "United States of America",
@@ -58208,7 +58125,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9dc164f31a43f3059a961dca44229c015bb26437.png",
     "website": "https://vulcan.ai/",
     "all_locations": "Austin, TX, USA",
-    "long_description": "Vulcan uses AI to map every law, regulation, and court case in America, allowing government agencies and businesses to replace massive consulting projects with instant automated analyses. We call this \"intelligent legal cartography.\"\r\n\r\nIn 3 months, we went from zero customers to Virginia's Executive Order 51, requiring all state agencies to use Vulcan. We are now live with the U.S. Department of Education, a regulatory reform PAC in South Carolina, and have a pipeline of several additional state and federal agencies and major enterprises.\r\n\r\nOur initial agency partners use legal cartography to draft lawful regulations, respond to public comments on regulations, and instantly generate mandatory cost-benefit analyses.\r\n\r\nWe have both public and private sector visions. In the public sector: we endeavor to automate the entire regulatory process end-to-end; replacing the consulting industrial complex with software. In the private sector: we plan to automate regulatory compliance, tackling the $4 trillion regulatory cost on the U.S. economy.",
+    "long_description": "Vulcan uses AI to map every law, regulation, and court case in America, allowing government agencies and businesses to replace massive consulting projects with instant automated analyses. We call this \"intelligent legal cartography.\"\r\n\r\nIn 3 months, we went from zero customers to Virginia's Executive Order 51, requiring all state agencies to use Vulcan.\r\n\r\nOur initial agency partners use legal cartography to draft lawful regulations, respond to public comments on regulations, and instantly generate mandatory cost-benefit analyses.\r\n\r\nWe have both public and private sector visions. In the public sector: we endeavor to automate the entire regulatory process end-to-end; replacing the consulting industrial complex with software. In the private sector: we plan to automate regulatory compliance, tackling the $4 trillion regulatory cost on the U.S. economy.",
     "one_liner": "Frontier intelligence for government, policy, and law",
     "team_size": 6,
     "industry": "B2B",
@@ -60102,6 +60019,45 @@
     "api": "https://prajjwal2-3.github.io/yc-data/batches/fall-2025/velvet.json"
   },
   {
+    "id": 30999,
+    "name": "Zag",
+    "slug": "zag",
+    "former_names": [
+      "Claybird",
+      "zag.dev"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5f7aeefba483366ce37b43e62ede2e86d091b755.png",
+    "website": "https://zag.dev/",
+    "all_locations": "",
+    "long_description": "Zag is an AI review agent platform for teams shipping iOS, iPadOS, and macOS apps. You describe review agents in TypeScript or Swift that actually build, test, and run your app on every PR, catching bugs and security issues before they reach a human reviewer.\r\n\r\nUnder the hood, Zag runs on dedicated Apple Silicon in real macOS environments with Xcode, simulators, and your full toolchain.\r\n\r\nZag offers at-cost macOS compute at $0.015/min - 5× cheaper than any other macOS runner on the market.",
+    "one_liner": "AI review agents for iOS, iPadOS, and macOS developers.",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1759979466,
+    "tags": [],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Fall 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/zag",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/fall-2025/zag.json"
+  },
+  {
     "id": 31002,
     "name": "Clicks",
     "slug": "clicks",
@@ -60381,6 +60337,42 @@
     "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2026/corvera.json"
   },
   {
+    "id": 31054,
+    "name": "ARC Prize Foundation",
+    "slug": "arc-prize-foundation",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6cfa6fd37255bf3036179eb9d4770661d2f35d12.png",
+    "website": "https://arcprize.org/",
+    "all_locations": "Remote",
+    "long_description": "ARC Prize builds AI benchmarks that measure general intelligence. Our benchmark, ARC-AGI, has been used by OpenAI, Anthropic, Google DeepMind, and xAI.\r\n\r\nFounded by Mike Knoop and Francois Chollet, we inspire open source artificial general intelligence (AGI) research through benchmarks (the ARC-AGI series), global competitions, research grants, community, and content, we exist to guide researchers, industry, and regulators on the path to AGI.\r\n\r\nWe believe that AGI requires more than just scaling up existing AI models. It demands a fundamental shift towards systems capable of genuine fluid intelligence, the ability to adapt to novel challenges and solve problems efficiently, much like humans do.",
+    "one_liner": "AI benchmarks that measure general intelligence and inspire new ideas",
+    "team_size": 4,
+    "industry": "Industrials",
+    "subindustry": "Industrials",
+    "launched_at": 1769103962,
+    "tags": [],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "Industrials"
+    ],
+    "regions": [
+      "Remote",
+      "Fully Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/arc-prize-foundation",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2026/arc-prize-foundation.json"
+  },
+  {
     "id": 31063,
     "name": "Clara",
     "slug": "clara-2",
@@ -60615,6 +60607,42 @@
     "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2026/10x-science.json"
   },
   {
+    "id": 31104,
+    "name": "Cofia",
+    "slug": "cofia",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4eaa13d214b16fc810b36ff373668440c966f1b5.png",
+    "website": "https://cofia.ai",
+    "all_locations": "",
+    "long_description": "We learn how you work, and proactively create tailor-made automations you can deploy without you ever writing a prompt or relying on X for automation inspo.",
+    "one_liner": "AI automations that write themselves",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Productivity",
+    "launched_at": 1772226189,
+    "tags": [],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Productivity"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/cofia",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2026/cofia.json"
+  },
+  {
     "id": 31113,
     "name": "CellType",
     "slug": "celltype",
@@ -60706,16 +60734,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9fe951afa5872a811734029111550a11062d931e.png",
     "website": "https://ramain.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "RamAIn can intelligently automate any super complex and repetitive process across applications (Browser & Desktop) super fast. It doesn’t matter whether you have API access or not - if you can see it, RamAIn can do it.\r\n\r\nCurrent CUAs all follow the same decision loop: screenshot, VLM, decision, repeat. This is expensive, unreliable and slow. We build infrastructure to pre-train CUAs on specific interfaces, effectively teaching RamAIn to use your computer.",
-    "one_liner": "Agentic Process Automation: Super fast computer-use agents.",
+    "long_description": "RamAIn can intelligently automate any super complex and repetitive process across applications (Browser & Desktop) super fast. It doesn’t matter whether you have API access or not - if you can see it, RamAIn can do it. \r\n\r\nSimply chat with it and get your UI task as a composable API - fully managed, self-healing and self-evolving!",
+    "one_liner": "Automate any UI task with natural language",
     "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1767663208,
     "tags": [
+      "Artificial Intelligence",
       "Robotic Process Automation",
-      "Automation",
-      "AI"
+      "Automation"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -61538,16 +61566,16 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Building the communication infrastructure needed for fully autonomous agents",
     "one_liner": "Communication for agents",
-    "team_size": 1,
+    "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1773121787,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "Automation",
       "Email",
-      "Infrastructure",
-      "AI"
+      "Infrastructure"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -61585,7 +61613,11 @@
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1773355936,
-    "tags": [],
+    "tags": [
+      "Developer Tools",
+      "API",
+      "AI"
+    ],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": true,

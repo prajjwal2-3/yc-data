@@ -6812,7 +6812,7 @@
       "Remote",
       "Fully Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -17177,26 +17177,27 @@
   },
   {
     "id": 29362,
-    "name": "Pythagora",
-    "slug": "pythagora",
+    "name": "Pazi",
+    "slug": "pazi",
     "former_names": [
       "GPT Pilot",
-      "Pythagora (GPT Pilot)"
+      "Pythagora (GPT Pilot)",
+      "Pythagora"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d0ecb110d14b42eafda9ceea57bb192193859109.png",
-    "website": "https://pythagora.ai/",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/39be77a3f81a0c68f20c5bdfe6e6a34a1979d88c.png",
+    "website": "https://pazi.ai/",
     "all_locations": "",
-    "long_description": "Pythagora is the world's first all-in-one AI development platform, which can help you get from idea to production-ready app by talking to users. It uses LLMs to automate developer workflows (debugging, refactoring, etc.) and ask user questions whenever it needs feedback.\r\n\r\nIt is an IDE extension built on top of our open-source tool, GPT Pilot, which has over 32k Github stars.\r\n\r\nYou start with an idea and a simple prompt. In minutes, Pythagora builds you the full app specifications. Once the specs are done, it starts building the frontend. After your app's UI is polished, you can build the backend. It iterates with you by changing the code and asking you for feedback until the app is finished. When done, you can securely deploy and share your app.\r\n",
-    "one_liner": "Worlds first all-in-one AI development platform.",
+    "long_description": "Pazi enables people to build agents that run all operations in a company. You create an agent for a position (eg. developer, devops, social media manager, SDR, etc.), you give it a goal (eg. reach 10k followers on X) and let it create a plan, start checking in with you, oversee how the goal is coming up.",
+    "one_liner": "Platform where autonomous companies are built",
     "team_size": 7,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1709274350,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "Security",
-      "Web Development"
+      "Web Development",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -17213,12 +17214,12 @@
       "Partly Remote"
     ],
     "stage": "Early",
-    "app_video_public": true,
+    "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": true,
-    "url": "https://www.ycombinator.com/companies/pythagora",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2024/pythagora.json"
+    "url": "https://www.ycombinator.com/companies/pazi",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2024/pazi.json"
   },
   {
     "id": 29363,
@@ -22663,26 +22664,27 @@
   },
   {
     "id": 30628,
-    "name": "datafruit",
+    "name": "Datafruit",
     "slug": "datafruit",
     "former_names": [
       "Lychee",
       "DataFruit",
       "datafruit",
-      "Datafruit"
+      "Datafruit",
+      "datafruit"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c0545fc19adebb3a29cdf7c671311902833861e8.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a591148ecee7a3124b7a64758f3eee4d11b56efd.png",
     "website": "https://datafruit.ai/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Datafruit helps enterprise delivery teams understand their customers deeply and deliver more profitably. We build AI agents capture every conversation, structure scope from day one, and use past projects to make every engagement sharper.",
-    "one_liner": "Agents for Enterprise Software Integration Teams",
+    "one_liner": "The AI workspace for software implementations",
     "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1755048308,
     "tags": [
-      "Enterprise Software",
-      "AI"
+      "Artificial Intelligence",
+      "Enterprise Software"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -23271,13 +23273,13 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Omnara brings Claude Code and Codex to your phone. Start a coding session on your desktop, then seamlessly hand off to mobile and keep building whether you're commuting, traveling, or away from your desk. Code in local or remote environments with full context preservation across devices. Plus, use voice to code hands-free by having natural conversations with Omnara to build, debug, and ship from anywhere.\r\n",
     "one_liner": "Mobile & Web Interface for Claude Code & Codex",
-    "team_size": 3,
+    "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1753676392,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
-      "AI",
       "AI Assistant"
     ],
     "tags_highlighted": [],
@@ -23879,6 +23881,48 @@
     "api": "https://prajjwal2-3.github.io/yc-data/batches/fall-2025/the-context-company.json"
   },
   {
+    "id": 30864,
+    "name": "dari.dev",
+    "slug": "daridev",
+    "former_names": [
+      "Dari"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/db1cb9787e09629b6ccb1639f659a5f8d0bb21b1.png",
+    "website": "https://dari.dev",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "We let developers deploy AI agents as API endpoints with built-in tools, sandboxes, and durable execution.\r\n\r\nAgents maintain state, run long-lived workflows, and handle retries automatically.",
+    "one_liner": "The Production Layer for AI Agents",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1759188885,
+    "tags": [
+      "Developer Tools",
+      "B2B"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/daridev",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/fall-2025/daridev.json"
+  },
+  {
     "id": 30882,
     "name": "AtlasGrid",
     "slug": "atlasgrid",
@@ -24321,6 +24365,45 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/uselemma",
     "api": "https://prajjwal2-3.github.io/yc-data/batches/fall-2025/uselemma.json"
+  },
+  {
+    "id": 30999,
+    "name": "Zag",
+    "slug": "zag",
+    "former_names": [
+      "Claybird",
+      "zag.dev"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5f7aeefba483366ce37b43e62ede2e86d091b755.png",
+    "website": "https://zag.dev/",
+    "all_locations": "",
+    "long_description": "Zag is an AI review agent platform for teams shipping iOS, iPadOS, and macOS apps. You describe review agents in TypeScript or Swift that actually build, test, and run your app on every PR, catching bugs and security issues before they reach a human reviewer.\r\n\r\nUnder the hood, Zag runs on dedicated Apple Silicon in real macOS environments with Xcode, simulators, and your full toolchain.\r\n\r\nZag offers at-cost macOS compute at $0.015/min - 5× cheaper than any other macOS runner on the market.",
+    "one_liner": "AI review agents for iOS, iPadOS, and macOS developers.",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1759979466,
+    "tags": [],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Fall 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/zag",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/fall-2025/zag.json"
   },
   {
     "id": 31001,
@@ -25229,7 +25312,11 @@
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1773355936,
-    "tags": [],
+    "tags": [
+      "Developer Tools",
+      "API",
+      "AI"
+    ],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": true,
