@@ -735,16 +735,16 @@
     "website": "https://tsenta.com",
     "all_locations": "",
     "long_description": "Tsenta is a desktop app that matches you with jobs, optimizes your profile & applies on your behalf. It runs on your device, so you have granular control over every application being submitted in real-time.\r\n\r\nWe built Tsenta after applying to over 3,000 jobs manually, so that nobody else would have to.\r\n\r\nCheck us out at https://tsenta.com :)",
-    "one_liner": "Tsenta matches you to jobs and applies automatically on your behalf.",
+    "one_liner": "We match you with jobs and apply automatically",
     "team_size": 2,
     "industry": "Consumer",
     "subindustry": "Consumer -> Job and Career Services",
     "launched_at": 1769729252,
     "tags": [
-      "Artificial Intelligence",
       "Consumer",
       "Recruiting",
-      "HR Tech"
+      "HR Tech",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,

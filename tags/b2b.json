@@ -26546,7 +26546,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -42942,24 +42942,24 @@
   },
   {
     "id": 30462,
-    "name": "Clado",
-    "slug": "clado",
+    "name": "Freesolo",
+    "slug": "freesolo",
     "former_names": [
-      "Linkd"
+      "Linkd",
+      "Clado"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6a95219f5a96e1b807c46a92b589b396703516e1.png",
-    "website": "https://clado.ai",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/802c9c3c1c23b840027f581702b516674e8f4729.png",
+    "website": "https://freesolo.co",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Clado puts 800 million+ people profiles (and growing) at your fingertips with simple, agentic search. If you’re interested in a global people search for sales, spreadsheets, hiring, and more, try our product at clado.ai",
-    "one_liner": "Deep Research for People",
-    "team_size": 7,
+    "long_description": "We work with companies to encode user-trajectory knowledge into specialized models that outperform the state of the art at much lower latency and cost.",
+    "one_liner": "Product Native Models",
+    "team_size": 4,
     "industry": "B2B",
-    "subindustry": "B2B -> Recruiting and Talent",
+    "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1742722403,
     "tags": [
-      "SaaS",
+      "Reinforcement Learning",
       "B2B",
-      "Recruiting",
       "AI"
     ],
     "tags_highlighted": [],
@@ -42970,7 +42970,7 @@
     "status": "Active",
     "industries": [
       "B2B",
-      "Recruiting and Talent"
+      "Engineering, Product and Design"
     ],
     "regions": [
       "United States of America",
@@ -42981,8 +42981,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/clado",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2025/clado.json"
+    "url": "https://www.ycombinator.com/companies/freesolo",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2025/freesolo.json"
   },
   {
     "id": 30464,
@@ -45959,6 +45959,48 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/soren",
     "api": "https://prajjwal2-3.github.io/yc-data/batches/fall-2025/soren.json"
+  },
+  {
+    "id": 30874,
+    "name": "Minro",
+    "slug": "minro",
+    "former_names": [
+      "Iris"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f77542ef92b9a995fd50ddb381187d909ec7f5fd.png",
+    "website": "https://minro.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Minro is a shared workspace for engineering teams using AI coding tools.\r\n\r\nYour teams are running a ton of Claude, Codex, and Cursor sessions every day, and the context from those sessions goes nowhere. Decisions get lost between sessions. Plans live in one person's head. Docs are stale within a week. Engineers keep rebuilding things someone already figured out.\r\nMinro captures what happens in every coding session - decisions, architecture choices, what was tried, what broke, what shipped and writes it back to one place your team and your agents both use. Features get broken into task graphs so work can be split across humans and agents. Docs stay in sync with the code.\r\nA new engineer joins and the workspace already knows the system. A session ends and the next one picks up where it left off. A feature spans three sprints and four people, and the plan is right there - linked to every ticket, doc, and decision.",
+    "one_liner": "The interface for shipping with agents.",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1762405247,
+    "tags": [
+      "Developer Tools",
+      "B2B"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": true,
+    "url": "https://www.ycombinator.com/companies/minro",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/fall-2025/minro.json"
   },
   {
     "id": 30877,

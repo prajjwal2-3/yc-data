@@ -31330,7 +31330,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -35762,6 +35762,50 @@
     "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2023/berry.json"
   },
   {
+    "id": 28127,
+    "name": "Benchmark",
+    "slug": "benchmark",
+    "former_names": [
+      "BidSight"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0dddc99c1f1c38c90b727d87cc7bb8d59dfad6be.png",
+    "website": "https://withbenchmark.com/",
+    "all_locations": "New York, NY, USA",
+    "long_description": "Benchmark is the trusted AI platform for investment firms. Today, leading firms use Benchmark to screen deals, extract insights from unstructured data, and automate workflows. Our platform combines cutting-edge AI with deep industry expertise to help investment firms make smarter, faster decisions across their entire deal lifecycle.",
+    "one_liner": "Decision infrastructure for investment firms",
+    "team_size": 7,
+    "industry": "B2B",
+    "subindustry": "B2B -> Finance and Accounting",
+    "launched_at": 1673633463,
+    "tags": [
+      "Artificial Intelligence",
+      "Fintech",
+      "Finance",
+      "AI Assistant"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2023",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Finance and Accounting"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/benchmark",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2023/benchmark.json"
+  },
+  {
     "id": 28131,
     "name": "Untether Labs",
     "slug": "untether-labs",
@@ -37062,6 +37106,51 @@
     "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2023/sweetspot.json"
   },
   {
+    "id": 28802,
+    "name": "Sohar Health",
+    "slug": "sohar-health",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9e3f7c771362aee962754af2fd00c6281c92c7b2.png",
+    "website": "https://www.soharhealth.com",
+    "all_locations": "New York, NY, USA; Remote",
+    "long_description": "Sohar Health is an AI-driven front-end RCM solution that transforms insurance verification processes for healthcare providers, enabling faster patient conversions and reducing administrative workloads.  With a 95% automation rate, our API-first platform seamlessly integrates into existing workflows to provide real-time claim accuracy and eligibility checks. \r\nKey performance metrics showcase the power of our technology: Median latency of just 6 seconds, ensuring real-time eligibility; over 90% of checks returned within 30 seconds for increased patient conversion; 96% accuracy in identifying and verifying benefits details; Industry-leading 99% accuracy for eligibility determination; >90% carve-out detection rate, mitigating surprise billing risks; a 60% success rate with our Insurance Discovery API, helping identify coverage for self-pay patients.\r\n\r\nOur customers include outpatient clinics, specialty practices, and digital health platforms looking to streamline front-end claim management. By reducing errors and maximizing clean claim submissions, Sohar Health empowers healthcare organizations to convert and retain more patients, reduce operating costs, and increase their top-line revenue.",
+    "one_liner": "AI-powered insurance verification to boost patient conversion.",
+    "team_size": 8,
+    "industry": "Healthcare",
+    "subindustry": "Healthcare -> Healthcare IT",
+    "launched_at": 1688557144,
+    "tags": [
+      "Artificial Intelligence",
+      "Health Tech",
+      "Digital Health",
+      "API",
+      "Data Science"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2023",
+    "status": "Active",
+    "industries": [
+      "Healthcare",
+      "Healthcare IT"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Fully Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": true,
+    "url": "https://www.ycombinator.com/companies/sohar-health",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2023/sohar-health.json"
+  },
+  {
     "id": 28804,
     "name": "Bland AI",
     "slug": "bland-ai",
@@ -37783,18 +37872,18 @@
     "slug": "campfire-2",
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b964d406b730adef7e1ad9fcd6fdf8775ca296fc.png",
-    "website": "https://meetcampfire.com/",
+    "website": "https://campfire.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Campfire is the modern accounting platform for startups and mid-size tech companies. Our product includes an accounting general ledger that has multi-entity support and advanced financial reporting such as P&L by department and contribution margin by customer. Migrate from legacy accounting software to Campfire for your accounting and financial reporting to automate manual tasks and streamline workflows to unlock financial insights and accelerate the monthly close process.",
-    "one_liner": "A modern version of NetSuite",
-    "team_size": 45,
+    "long_description": "Campfire is the modern accounting platform for startups and mid-size tech companies. The fastest growing YC companies such as Replit, Posthog, SpeakAI run on Campfire. Our product includes an accounting general ledger that has multi-entity support and advanced financial reporting such as P&L by department and contribution margin by customer. Migrate from legacy accounting software to Campfire for your accounting and financial reporting to automate manual tasks and streamline workflows to unlock financial insights and accelerate the monthly close process.",
+    "one_liner": "The AI Native ERP for the fastest growing companies.",
+    "team_size": 105,
     "industry": "B2B",
     "subindustry": "B2B -> Finance and Accounting",
     "launched_at": 1690778245,
     "tags": [
-      "Artificial Intelligence",
       "Fintech",
-      "SaaS"
+      "SaaS",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -37810,7 +37899,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -42521,7 +42610,7 @@
     "all_locations": "",
     "long_description": "Firebender is the most powerful coding agent for Android engineering. \r\n\r\nOne-click install from the IntelliJ plugin marketplace to your IDE. It has context over your codebase and lets you use the best models for asking questions, debugging code, and writing full features.\r\n\r\nUnlike other AI assistants, Firebender has access to the emulator, compose previews, and LSP tools like finding usages, renaming variables/functions. It continuously stays up to date with the latest Android SDKs, libraries, and best practices, providing more accurate and relevant assistance for Android development.",
     "one_liner": "Most powerful coding agent for Android engineers",
-    "team_size": 5,
+    "team_size": 1,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1707094110,
@@ -48183,6 +48272,44 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/simple-ai",
     "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2024/simple-ai.json"
+  },
+  {
+    "id": 29788,
+    "name": "Refactor",
+    "slug": "refactor",
+    "former_names": [
+      "Affix",
+      "Blast"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/45a371e602b123c726fb74d27c73504797f68a62.png",
+    "website": "https://refactor.co",
+    "all_locations": "",
+    "long_description": "Refactor works closely with large organizations across healthcare, retail, and logistics to safely tackle their most ambitious AI use-cases in record time. We focus on building autonomous systems that call, click, and navigate legacy software systems. We have worked with companies serving tens of millions of customers and with $50B+ annual revenue. ",
+    "one_liner": "Deploying secure and reliable AI agents across healthcare, retail,…",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1724647952,
+    "tags": [],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2024",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/refactor",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2024/refactor.json"
   },
   {
     "id": 29789,
@@ -58533,6 +58660,43 @@
     "api": "https://prajjwal2-3.github.io/yc-data/batches/fall-2025/brickanta.json"
   },
   {
+    "id": 30837,
+    "name": "AirCaps",
+    "slug": "aircaps",
+    "former_names": [
+      "Vued"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/839111803eb4ccce6e6e411847617a96d8d7d880.png",
+    "website": "https://aircaps.com",
+    "all_locations": "",
+    "long_description": "AirCaps is bringing AI assistance to in-person conversations. \r\n\r\nOur AI-copilot provides live captions, translations, AI meeting notes and insights for in-person conversations in real-time. It's deployed as an app for lightweight AR glasses so you can see visual information overlaid onto your field of vision.\r\n\r\nYou can think of it like a Zoom AI meeting assistant or Granola, but for in-person conversations, and with the ability to proactively help you in real-time, not just after the conversation.\r\n\r\nWe’re building the capture and intelligence layer for the 216 billion daily conversations that happen face-to-face.\r\n\r\nWe’ve already processed 16,500 hours of real-world conversations and counting. Today, AirCaps assists with 11% of our users’ in-person conversations.\r\n\r\nWe did $93K in revenue in October and grew 6.5x from September while spending <$3K on marketing (and hit $70K in revenue in the first 2 weeks of November). Our power users average 6h+ daily usage and our day-30 retention is 91%.\r\n\r\nWe previously went viral (75M+ views on TikTok, 150K+ followers) and have been featured by The New Yorker, WIRED, and Forbes.\r\n\r\nMadhav (CEO, Yale CS) has been building in audio and AR since age 13, starting with Google Glass apps and voice assistants for Raspberry Pis. He researched audio AI at the MIT Media Lab. Nirbhay (CTO, Cornell CS) built voice AI on smart glasses in high school and built conversational AI products as the first engineer at 2 YC startups.",
+    "one_liner": "The AI copilot for in-person conversations.",
+    "team_size": 5,
+    "industry": "Consumer",
+    "subindustry": "Consumer",
+    "launched_at": 1760571679,
+    "tags": [],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Fall 2025",
+    "status": "Active",
+    "industries": [
+      "Consumer"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/aircaps",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/fall-2025/aircaps.json"
+  },
+  {
     "id": 30844,
     "name": "Uplane",
     "slug": "uplane",
@@ -60809,6 +60973,45 @@
     "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2026/arcline.json"
   },
   {
+    "id": 31151,
+    "name": "Sparkles",
+    "slug": "sparkles",
+    "former_names": [
+      "Litmus",
+      "Flics"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2fa726d414c3f4d378fa6af116bb14e3abb29e0f.png",
+    "website": "https://sparkles.dev",
+    "all_locations": "",
+    "long_description": "Sparkles is like Lovable for existing projects, so even Sharon from Marketing can change the button styling on the front page without going back and forth with the dev team.\r\n\r\nSomeone technical connects their GitHub to Sparkles, sets up the repository and environment variables, and then anyone on the team with a @yourcompany.com email can log in on Sparkles and create pull requests without needing to know what Git is.",
+    "one_liner": "Make everyone on your team an engineer",
+    "team_size": 1,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1768436882,
+    "tags": [],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/sparkles",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2026/sparkles.json"
+  },
+  {
     "id": 31174,
     "name": "Hex Security",
     "slug": "hex-security",
@@ -61416,16 +61619,16 @@
     "website": "https://tsenta.com",
     "all_locations": "",
     "long_description": "Tsenta is a desktop app that matches you with jobs, optimizes your profile & applies on your behalf. It runs on your device, so you have granular control over every application being submitted in real-time.\r\n\r\nWe built Tsenta after applying to over 3,000 jobs manually, so that nobody else would have to.\r\n\r\nCheck us out at https://tsenta.com :)",
-    "one_liner": "Tsenta matches you to jobs and applies automatically on your behalf.",
+    "one_liner": "We match you with jobs and apply automatically",
     "team_size": 2,
     "industry": "Consumer",
     "subindustry": "Consumer -> Job and Career Services",
     "launched_at": 1769729252,
     "tags": [
-      "Artificial Intelligence",
       "Consumer",
       "Recruiting",
-      "HR Tech"
+      "HR Tech",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,

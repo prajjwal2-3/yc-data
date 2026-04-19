@@ -8,7 +8,7 @@
   "all_locations": "",
   "long_description": "Firebender is the most powerful coding agent for Android engineering. \r\n\r\nOne-click install from the IntelliJ plugin marketplace to your IDE. It has context over your codebase and lets you use the best models for asking questions, debugging code, and writing full features.\r\n\r\nUnlike other AI assistants, Firebender has access to the emulator, compose previews, and LSP tools like finding usages, renaming variables/functions. It continuously stays up to date with the latest Android SDKs, libraries, and best practices, providing more accurate and relevant assistance for Android development.",
   "one_liner": "Most powerful coding agent for Android engineers",
-  "team_size": 5,
+  "team_size": 1,
   "industry": "B2B",
   "subindustry": "B2B -> Engineering, Product and Design",
   "launched_at": 1707094110,

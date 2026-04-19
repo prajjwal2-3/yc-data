@@ -17097,7 +17097,7 @@
     "all_locations": "",
     "long_description": "Firebender is the most powerful coding agent for Android engineering. \r\n\r\nOne-click install from the IntelliJ plugin marketplace to your IDE. It has context over your codebase and lets you use the best models for asking questions, debugging code, and writing full features.\r\n\r\nUnlike other AI assistants, Firebender has access to the emulator, compose previews, and LSP tools like finding usages, renaming variables/functions. It continuously stays up to date with the latest Android SDKs, libraries, and best practices, providing more accurate and relevant assistance for Android development.",
     "one_liner": "Most powerful coding agent for Android engineers",
-    "team_size": 5,
+    "team_size": 1,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1707094110,
@@ -22113,6 +22113,50 @@
     "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2025/jeevy-fabrication.json"
   },
   {
+    "id": 30462,
+    "name": "Freesolo",
+    "slug": "freesolo",
+    "former_names": [
+      "Linkd",
+      "Clado"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/802c9c3c1c23b840027f581702b516674e8f4729.png",
+    "website": "https://freesolo.co",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "We work with companies to encode user-trajectory knowledge into specialized models that outperform the state of the art at much lower latency and cost.",
+    "one_liner": "Product Native Models",
+    "team_size": 4,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1742722403,
+    "tags": [
+      "Reinforcement Learning",
+      "B2B",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/freesolo",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2025/freesolo.json"
+  },
+  {
     "id": 30465,
     "name": "Photonium",
     "slug": "photonium",
@@ -23923,6 +23967,48 @@
     "api": "https://prajjwal2-3.github.io/yc-data/batches/fall-2025/daridev.json"
   },
   {
+    "id": 30874,
+    "name": "Minro",
+    "slug": "minro",
+    "former_names": [
+      "Iris"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f77542ef92b9a995fd50ddb381187d909ec7f5fd.png",
+    "website": "https://minro.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Minro is a shared workspace for engineering teams using AI coding tools.\r\n\r\nYour teams are running a ton of Claude, Codex, and Cursor sessions every day, and the context from those sessions goes nowhere. Decisions get lost between sessions. Plans live in one person's head. Docs are stale within a week. Engineers keep rebuilding things someone already figured out.\r\nMinro captures what happens in every coding session - decisions, architecture choices, what was tried, what broke, what shipped and writes it back to one place your team and your agents both use. Features get broken into task graphs so work can be split across humans and agents. Docs stay in sync with the code.\r\nA new engineer joins and the workspace already knows the system. A session ends and the next one picks up where it left off. A feature spans three sprints and four people, and the plan is right there - linked to every ticket, doc, and decision.",
+    "one_liner": "The interface for shipping with agents.",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1762405247,
+    "tags": [
+      "Developer Tools",
+      "B2B"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": true,
+    "url": "https://www.ycombinator.com/companies/minro",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/fall-2025/minro.json"
+  },
+  {
     "id": 30882,
     "name": "AtlasGrid",
     "slug": "atlasgrid",
@@ -24854,7 +24940,7 @@
     "tags": [],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Winter 2026",
     "status": "Active",
@@ -25337,6 +25423,45 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/replicas",
     "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/replicas.json"
+  },
+  {
+    "id": 31360,
+    "name": "Lightsprint",
+    "slug": "lightsprint",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3feaf8d76278baf8b9fbde6cc73fdda3ea2a5b18.png",
+    "website": "https://lightsprint.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Lightsprint is a product agent designed to let non-engineering teammates ship real features to an existing codebase. PMs, designers and founders describe what they want in plain English. Lightsprint reads the codebase, presents trade-offs and visual options styled to the actual app, generates a live preview, and ships a real pull request. It also closes the product loop - connect tools like Granola to surface insights from customer conversations, so our product agent builds what customers actually need.\r\n\r\nThe company is founded by Ben Ong, an AI investor who previously scaled AI products at SEA Group (NYSE: SE) and Temasek ($300B fund), Benedict Chan who was VP Engineering at Chainlink and CTO at BitGo (NYSE:BTGO), and Heng Hong Lee who built Facebook Messenger in 2013 and was Director of Engineering at Fazz (YC S17).",
+    "one_liner": "Product agent that lets non-engineering teammates ship real features",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1776537521,
+    "tags": [
+      "Developer Tools"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": true,
+    "url": "https://www.ycombinator.com/companies/lightsprint",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/lightsprint.json"
   },
   {
     "id": 31421,

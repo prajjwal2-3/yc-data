@@ -10140,50 +10140,6 @@
     "api": "https://prajjwal2-3.github.io/yc-data/batches/fall-2025/sorce.json"
   },
   {
-    "id": 30874,
-    "name": "Minro",
-    "slug": "minro",
-    "former_names": [
-      "Iris"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/98d1bce38b63e0d5e40cfd13c435d352bb7d7f54.png",
-    "website": "https://minro.com/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Minro observes how you handle your day - how you reply, decide, prioritize - and prepares the next set of actions. Our key insight: if you model real behavior, you can replicate judgment, not just tasks using personal agents and knowledge graphs. Iris knows what needs your attention across your accounts, pre-fills the actions, and you can simply swipe right to hand it off to your agent.\r\n\r\nWe started with connecting calendars and emails. We launched four weeks ago. Over 1,200 people have downloaded Iris, 168 use it every day, and they’ve taken more than 36,000 actions so far growing 48% week over week.\r\n\r\nIn the future, everyone will have a personal proxy running their digital life with near perfect accuracy. Iris is the first real version of that future.",
-    "one_liner": "The Digital Extension of Yourself",
-    "team_size": 2,
-    "industry": "Consumer",
-    "subindustry": "Consumer",
-    "launched_at": 1762405247,
-    "tags": [
-      "Consumer",
-      "Productivity",
-      "Calendar",
-      "Email",
-      "AI Assistant"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Fall 2025",
-    "status": "Active",
-    "industries": [
-      "Consumer"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": true,
-    "url": "https://www.ycombinator.com/companies/minro",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/fall-2025/minro.json"
-  },
-  {
     "id": 30880,
     "name": "Nessie",
     "slug": "nessie",
@@ -10406,16 +10362,16 @@
     "website": "https://tsenta.com",
     "all_locations": "",
     "long_description": "Tsenta is a desktop app that matches you with jobs, optimizes your profile & applies on your behalf. It runs on your device, so you have granular control over every application being submitted in real-time.\r\n\r\nWe built Tsenta after applying to over 3,000 jobs manually, so that nobody else would have to.\r\n\r\nCheck us out at https://tsenta.com :)",
-    "one_liner": "Tsenta matches you to jobs and applies automatically on your behalf.",
+    "one_liner": "We match you with jobs and apply automatically",
     "team_size": 2,
     "industry": "Consumer",
     "subindustry": "Consumer -> Job and Career Services",
     "launched_at": 1769729252,
     "tags": [
-      "Artificial Intelligence",
       "Consumer",
       "Recruiting",
-      "HR Tech"
+      "HR Tech",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,

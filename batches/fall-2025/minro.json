@@ -5,21 +5,18 @@
   "former_names": [
     "Iris"
   ],
-  "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/98d1bce38b63e0d5e40cfd13c435d352bb7d7f54.png",
+  "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f77542ef92b9a995fd50ddb381187d909ec7f5fd.png",
   "website": "https://minro.com/",
   "all_locations": "San Francisco, CA, USA",
-  "long_description": "Minro observes how you handle your day - how you reply, decide, prioritize - and prepares the next set of actions. Our key insight: if you model real behavior, you can replicate judgment, not just tasks using personal agents and knowledge graphs. Iris knows what needs your attention across your accounts, pre-fills the actions, and you can simply swipe right to hand it off to your agent.\r\n\r\nWe started with connecting calendars and emails. We launched four weeks ago. Over 1,200 people have downloaded Iris, 168 use it every day, and they’ve taken more than 36,000 actions so far growing 48% week over week.\r\n\r\nIn the future, everyone will have a personal proxy running their digital life with near perfect accuracy. Iris is the first real version of that future.",
-  "one_liner": "The Digital Extension of Yourself",
+  "long_description": "Minro is a shared workspace for engineering teams using AI coding tools.\r\n\r\nYour teams are running a ton of Claude, Codex, and Cursor sessions every day, and the context from those sessions goes nowhere. Decisions get lost between sessions. Plans live in one person's head. Docs are stale within a week. Engineers keep rebuilding things someone already figured out.\r\nMinro captures what happens in every coding session - decisions, architecture choices, what was tried, what broke, what shipped and writes it back to one place your team and your agents both use. Features get broken into task graphs so work can be split across humans and agents. Docs stay in sync with the code.\r\nA new engineer joins and the workspace already knows the system. A session ends and the next one picks up where it left off. A feature spans three sprints and four people, and the plan is right there - linked to every ticket, doc, and decision.",
+  "one_liner": "The interface for shipping with agents.",
   "team_size": 2,
-  "industry": "Consumer",
-  "subindustry": "Consumer",
+  "industry": "B2B",
+  "subindustry": "B2B -> Engineering, Product and Design",
   "launched_at": 1762405247,
   "tags": [
-    "Consumer",
-    "Productivity",
-    "Calendar",
-    "Email",
-    "AI Assistant"
+    "Developer Tools",
+    "B2B"
   ],
   "tags_highlighted": [],
   "top_company": false,
@@ -28,7 +25,8 @@
   "batch": "Fall 2025",
   "status": "Active",
   "industries": [
-    "Consumer"
+    "B2B",
+    "Engineering, Product and Design"
   ],
   "regions": [
     "United States of America",

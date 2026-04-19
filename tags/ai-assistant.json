@@ -3100,7 +3100,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Winter 2023",
     "status": "Active",
@@ -4184,7 +4184,7 @@
     "all_locations": "",
     "long_description": "Firebender is the most powerful coding agent for Android engineering. \r\n\r\nOne-click install from the IntelliJ plugin marketplace to your IDE. It has context over your codebase and lets you use the best models for asking questions, debugging code, and writing full features.\r\n\r\nUnlike other AI assistants, Firebender has access to the emulator, compose previews, and LSP tools like finding usages, renaming variables/functions. It continuously stays up to date with the latest Android SDKs, libraries, and best practices, providing more accurate and relevant assistance for Android development.",
     "one_liner": "Most powerful coding agent for Android engineers",
-    "team_size": 5,
+    "team_size": 1,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1707094110,
@@ -6500,50 +6500,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/lunavo",
     "api": "https://prajjwal2-3.github.io/yc-data/batches/fall-2025/lunavo.json"
-  },
-  {
-    "id": 30874,
-    "name": "Minro",
-    "slug": "minro",
-    "former_names": [
-      "Iris"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/98d1bce38b63e0d5e40cfd13c435d352bb7d7f54.png",
-    "website": "https://minro.com/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Minro observes how you handle your day - how you reply, decide, prioritize - and prepares the next set of actions. Our key insight: if you model real behavior, you can replicate judgment, not just tasks using personal agents and knowledge graphs. Iris knows what needs your attention across your accounts, pre-fills the actions, and you can simply swipe right to hand it off to your agent.\r\n\r\nWe started with connecting calendars and emails. We launched four weeks ago. Over 1,200 people have downloaded Iris, 168 use it every day, and they’ve taken more than 36,000 actions so far growing 48% week over week.\r\n\r\nIn the future, everyone will have a personal proxy running their digital life with near perfect accuracy. Iris is the first real version of that future.",
-    "one_liner": "The Digital Extension of Yourself",
-    "team_size": 2,
-    "industry": "Consumer",
-    "subindustry": "Consumer",
-    "launched_at": 1762405247,
-    "tags": [
-      "Consumer",
-      "Productivity",
-      "Calendar",
-      "Email",
-      "AI Assistant"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Fall 2025",
-    "status": "Active",
-    "industries": [
-      "Consumer"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": true,
-    "url": "https://www.ycombinator.com/companies/minro",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/fall-2025/minro.json"
   },
   {
     "id": 30907,

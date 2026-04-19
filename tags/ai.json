@@ -11267,7 +11267,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -15500,6 +15500,47 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/sid",
     "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2023/sid.json"
+  },
+  {
+    "id": 28845,
+    "name": "Campfire",
+    "slug": "campfire-2",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b964d406b730adef7e1ad9fcd6fdf8775ca296fc.png",
+    "website": "https://campfire.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Campfire is the modern accounting platform for startups and mid-size tech companies. The fastest growing YC companies such as Replit, Posthog, SpeakAI run on Campfire. Our product includes an accounting general ledger that has multi-entity support and advanced financial reporting such as P&L by department and contribution margin by customer. Migrate from legacy accounting software to Campfire for your accounting and financial reporting to automate manual tasks and streamline workflows to unlock financial insights and accelerate the monthly close process.",
+    "one_liner": "The AI Native ERP for the fastest growing companies.",
+    "team_size": 105,
+    "industry": "B2B",
+    "subindustry": "B2B -> Finance and Accounting",
+    "launched_at": 1690778245,
+    "tags": [
+      "Fintech",
+      "SaaS",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2023",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Finance and Accounting"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/campfire-2",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2023/campfire-2.json"
   },
   {
     "id": 28849,
@@ -28323,24 +28364,24 @@
   },
   {
     "id": 30462,
-    "name": "Clado",
-    "slug": "clado",
+    "name": "Freesolo",
+    "slug": "freesolo",
     "former_names": [
-      "Linkd"
+      "Linkd",
+      "Clado"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6a95219f5a96e1b807c46a92b589b396703516e1.png",
-    "website": "https://clado.ai",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/802c9c3c1c23b840027f581702b516674e8f4729.png",
+    "website": "https://freesolo.co",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Clado puts 800 million+ people profiles (and growing) at your fingertips with simple, agentic search. If you’re interested in a global people search for sales, spreadsheets, hiring, and more, try our product at clado.ai",
-    "one_liner": "Deep Research for People",
-    "team_size": 7,
+    "long_description": "We work with companies to encode user-trajectory knowledge into specialized models that outperform the state of the art at much lower latency and cost.",
+    "one_liner": "Product Native Models",
+    "team_size": 4,
     "industry": "B2B",
-    "subindustry": "B2B -> Recruiting and Talent",
+    "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1742722403,
     "tags": [
-      "SaaS",
+      "Reinforcement Learning",
       "B2B",
-      "Recruiting",
       "AI"
     ],
     "tags_highlighted": [],
@@ -28351,7 +28392,7 @@
     "status": "Active",
     "industries": [
       "B2B",
-      "Recruiting and Talent"
+      "Engineering, Product and Design"
     ],
     "regions": [
       "United States of America",
@@ -28362,8 +28403,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/clado",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2025/clado.json"
+    "url": "https://www.ycombinator.com/companies/freesolo",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2025/freesolo.json"
   },
   {
     "id": 30469,
@@ -31641,49 +31682,6 @@
     "api": "https://prajjwal2-3.github.io/yc-data/batches/fall-2025/brickanta.json"
   },
   {
-    "id": 30837,
-    "name": "AirCaps",
-    "slug": "aircaps",
-    "former_names": [
-      "Vued"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/839111803eb4ccce6e6e411847617a96d8d7d880.png",
-    "website": "https://aircaps.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "AirCaps is bringing AI assistance to in-person conversations. \r\n\r\nOur AI-copilot provides live captions, translations, AI meeting notes and insights for in-person conversations in real-time. It's deployed as an app for lightweight AR glasses so you can see visual information overlaid onto your field of vision.\r\n\r\nYou can think of it like a Zoom AI meeting assistant or Granola, but for in-person conversations, and with the ability to proactively help you in real-time, not just after the conversation.\r\n\r\nWe’re building the capture and intelligence layer for the 216 billion daily conversations that happen face-to-face.\r\n\r\nWe’ve already processed 16,500 hours of real-world conversations and counting. Today, AirCaps assists with 11% of our users’ in-person conversations.\r\n\r\nWe did $93K in revenue in October and grew 6.5x from September while spending <$3K on marketing (and hit $70K in revenue in the first 2 weeks of November). Our power users average 6h+ daily usage and our day-30 retention is 91%.\r\n\r\nWe previously went viral (75M+ views on TikTok, 150K+ followers) and have been featured by The New Yorker, WIRED, and Forbes.\r\n\r\nMadhav (CEO, Yale CS) has been building in audio and AR since age 13, starting with Google Glass apps and voice assistants for Raspberry Pis. He researched audio AI at the MIT Media Lab. Nirbhay (CTO, Cornell CS) built voice AI on smart glasses in high school and built conversational AI products as the first engineer at 2 YC startups.",
-    "one_liner": "The AI copilot for in-person conversations.",
-    "team_size": 2,
-    "industry": "Consumer",
-    "subindustry": "Consumer",
-    "launched_at": 1760571679,
-    "tags": [
-      "Artificial Intelligence",
-      "Productivity",
-      "AI",
-      "Conversational AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Fall 2025",
-    "status": "Active",
-    "industries": [
-      "Consumer"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/aircaps",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/fall-2025/aircaps.json"
-  },
-  {
     "id": 30849,
     "name": "MOVEdot",
     "slug": "movedot",
@@ -33651,6 +33649,47 @@
     "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2026/grade.json"
   },
   {
+    "id": 31259,
+    "name": "Tsenta",
+    "slug": "tsenta",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5670afa2f39d71d15be15ed4c56ae5e0a65dbea4.png",
+    "website": "https://tsenta.com",
+    "all_locations": "",
+    "long_description": "Tsenta is a desktop app that matches you with jobs, optimizes your profile & applies on your behalf. It runs on your device, so you have granular control over every application being submitted in real-time.\r\n\r\nWe built Tsenta after applying to over 3,000 jobs manually, so that nobody else would have to.\r\n\r\nCheck us out at https://tsenta.com :)",
+    "one_liner": "We match you with jobs and apply automatically",
+    "team_size": 2,
+    "industry": "Consumer",
+    "subindustry": "Consumer -> Job and Career Services",
+    "launched_at": 1769729252,
+    "tags": [
+      "Consumer",
+      "Recruiting",
+      "HR Tech",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "Consumer",
+      "Job and Career Services"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": true,
+    "url": "https://www.ycombinator.com/companies/tsenta",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2026/tsenta.json"
+  },
+  {
     "id": 31283,
     "name": "Librar Labs",
     "slug": "librar-labs",
@@ -34707,7 +34746,7 @@
     "slug": "klaimee",
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6e3d33eec8f456adbebd1c1792d44f7e75715cbd.png",
-    "website": "https://www.klaimee.co/",
+    "website": "https://www.klaimee.ai",
     "all_locations": "",
     "long_description": "Klaimee certifies and insures autonomous AI agents.\r\nWe audit your agents and back them with AI-native liability coverage.\r\nBuilt for startups bringing AI to enterprise clients, self-serve from day one.\r\n\r\nThe problem: AI agents are taking actions autonomously, buying, emailing, modifying data. AB 316 already holds deployers liable. EU AI Act enforces in August. Cyber insurance is excluding AI claims. Startups shipping agents to enterprise have zero coverage and no third-party proof their agent is safe. Enterprise legal asks \"who pays if your agent breaks something?\" and there's no good answer.\r\n                                                                                                                                                                                                                                        \r\nWe built the answer. Critical-category risk evaluation, certification, financial guarantee, liability insurance and the documentation enterprise procurement needs to sign off.\r\n\r\nTeam: Ines (ex-General Manager at SafetyWing, grew insurance product from $5M to $40M revenue, 5 years managing claims, underwriting, and carrier relationships) + Julien (software engineer + corporate strategy, enterprise compliance).\r\n\r\nWe understand how insurance works, what enterprises require, and why startups can't wait 6 months for either.",
     "one_liner": "Insurance for the agentic world. You deploy agents, we cover you.",

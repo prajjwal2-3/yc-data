@@ -2722,24 +2722,24 @@
   },
   {
     "id": 30462,
-    "name": "Clado",
-    "slug": "clado",
+    "name": "Freesolo",
+    "slug": "freesolo",
     "former_names": [
-      "Linkd"
+      "Linkd",
+      "Clado"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6a95219f5a96e1b807c46a92b589b396703516e1.png",
-    "website": "https://clado.ai",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/802c9c3c1c23b840027f581702b516674e8f4729.png",
+    "website": "https://freesolo.co",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Clado puts 800 million+ people profiles (and growing) at your fingertips with simple, agentic search. If you’re interested in a global people search for sales, spreadsheets, hiring, and more, try our product at clado.ai",
-    "one_liner": "Deep Research for People",
-    "team_size": 7,
+    "long_description": "We work with companies to encode user-trajectory knowledge into specialized models that outperform the state of the art at much lower latency and cost.",
+    "one_liner": "Product Native Models",
+    "team_size": 4,
     "industry": "B2B",
-    "subindustry": "B2B -> Recruiting and Talent",
+    "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1742722403,
     "tags": [
-      "SaaS",
+      "Reinforcement Learning",
       "B2B",
-      "Recruiting",
       "AI"
     ],
     "tags_highlighted": [],
@@ -2750,7 +2750,7 @@
     "status": "Active",
     "industries": [
       "B2B",
-      "Recruiting and Talent"
+      "Engineering, Product and Design"
     ],
     "regions": [
       "United States of America",
@@ -2761,8 +2761,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/clado",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2025/clado.json"
+    "url": "https://www.ycombinator.com/companies/freesolo",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2025/freesolo.json"
   },
   {
     "id": 30463,

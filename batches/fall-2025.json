@@ -741,22 +741,17 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/839111803eb4ccce6e6e411847617a96d8d7d880.png",
     "website": "https://aircaps.com",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "",
     "long_description": "AirCaps is bringing AI assistance to in-person conversations. \r\n\r\nOur AI-copilot provides live captions, translations, AI meeting notes and insights for in-person conversations in real-time. It's deployed as an app for lightweight AR glasses so you can see visual information overlaid onto your field of vision.\r\n\r\nYou can think of it like a Zoom AI meeting assistant or Granola, but for in-person conversations, and with the ability to proactively help you in real-time, not just after the conversation.\r\n\r\nWe’re building the capture and intelligence layer for the 216 billion daily conversations that happen face-to-face.\r\n\r\nWe’ve already processed 16,500 hours of real-world conversations and counting. Today, AirCaps assists with 11% of our users’ in-person conversations.\r\n\r\nWe did $93K in revenue in October and grew 6.5x from September while spending <$3K on marketing (and hit $70K in revenue in the first 2 weeks of November). Our power users average 6h+ daily usage and our day-30 retention is 91%.\r\n\r\nWe previously went viral (75M+ views on TikTok, 150K+ followers) and have been featured by The New Yorker, WIRED, and Forbes.\r\n\r\nMadhav (CEO, Yale CS) has been building in audio and AR since age 13, starting with Google Glass apps and voice assistants for Raspberry Pis. He researched audio AI at the MIT Media Lab. Nirbhay (CTO, Cornell CS) built voice AI on smart glasses in high school and built conversational AI products as the first engineer at 2 YC startups.",
     "one_liner": "The AI copilot for in-person conversations.",
-    "team_size": 2,
+    "team_size": 5,
     "industry": "Consumer",
     "subindustry": "Consumer",
     "launched_at": 1760571679,
-    "tags": [
-      "Artificial Intelligence",
-      "Productivity",
-      "AI",
-      "Conversational AI"
-    ],
+    "tags": [],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Fall 2025",
     "status": "Active",
@@ -764,8 +759,7 @@
       "Consumer"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "Unspecified"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -1829,21 +1823,18 @@
     "former_names": [
       "Iris"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/98d1bce38b63e0d5e40cfd13c435d352bb7d7f54.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f77542ef92b9a995fd50ddb381187d909ec7f5fd.png",
     "website": "https://minro.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Minro observes how you handle your day - how you reply, decide, prioritize - and prepares the next set of actions. Our key insight: if you model real behavior, you can replicate judgment, not just tasks using personal agents and knowledge graphs. Iris knows what needs your attention across your accounts, pre-fills the actions, and you can simply swipe right to hand it off to your agent.\r\n\r\nWe started with connecting calendars and emails. We launched four weeks ago. Over 1,200 people have downloaded Iris, 168 use it every day, and they’ve taken more than 36,000 actions so far growing 48% week over week.\r\n\r\nIn the future, everyone will have a personal proxy running their digital life with near perfect accuracy. Iris is the first real version of that future.",
-    "one_liner": "The Digital Extension of Yourself",
+    "long_description": "Minro is a shared workspace for engineering teams using AI coding tools.\r\n\r\nYour teams are running a ton of Claude, Codex, and Cursor sessions every day, and the context from those sessions goes nowhere. Decisions get lost between sessions. Plans live in one person's head. Docs are stale within a week. Engineers keep rebuilding things someone already figured out.\r\nMinro captures what happens in every coding session - decisions, architecture choices, what was tried, what broke, what shipped and writes it back to one place your team and your agents both use. Features get broken into task graphs so work can be split across humans and agents. Docs stay in sync with the code.\r\nA new engineer joins and the workspace already knows the system. A session ends and the next one picks up where it left off. A feature spans three sprints and four people, and the plan is right there - linked to every ticket, doc, and decision.",
+    "one_liner": "The interface for shipping with agents.",
     "team_size": 2,
-    "industry": "Consumer",
-    "subindustry": "Consumer",
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1762405247,
     "tags": [
-      "Consumer",
-      "Productivity",
-      "Calendar",
-      "Email",
-      "AI Assistant"
+      "Developer Tools",
+      "B2B"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -1852,7 +1843,8 @@
     "batch": "Fall 2025",
     "status": "Active",
     "industries": [
-      "Consumer"
+      "B2B",
+      "Engineering, Product and Design"
     ],
     "regions": [
       "United States of America",
