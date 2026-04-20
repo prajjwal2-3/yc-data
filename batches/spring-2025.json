@@ -2731,16 +2731,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/802c9c3c1c23b840027f581702b516674e8f4729.png",
     "website": "https://freesolo.co",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "We work with companies to encode user-trajectory knowledge into specialized models that outperform the state of the art at much lower latency and cost.",
+    "long_description": "Freesolo works with companies to encode user-trajectory knowledge into specialized models that outperform the state of the art at much lower latency and cost.",
     "one_liner": "Product Native Models",
     "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1742722403,
     "tags": [
+      "Artificial Intelligence",
       "Reinforcement Learning",
-      "B2B",
-      "AI"
+      "B2B"
     ],
     "tags_highlighted": [],
     "top_company": false,

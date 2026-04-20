@@ -7112,14 +7112,14 @@
     "all_locations": "Paris, Île-de-France, France",
     "long_description": "We build AI agents that automate healthcare admin workflows. Our agents navigate legacy hospital software like humans (using mouse and keyboard) and automate end-to-end workflows (starting with medical coding), freeing medical professionals from manual tasks.",
     "one_liner": "AI agents for healthcare admin",
-    "team_size": 6,
+    "team_size": 15,
     "industry": "Healthcare",
     "subindustry": "Healthcare -> Healthcare IT",
     "launched_at": 1707957478,
     "tags": [
-      "Artificial Intelligence",
       "Healthcare",
-      "Automation"
+      "Automation",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,

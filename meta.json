@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-04-19T03:23:52.256Z",
+  "last_updated": "2026-04-20T03:26:29.479Z",
   "readme": "https://github.com/prajjwal2-3/yc-data",
   "companies": {
     "all": {
       "name": "All launched companies",
-      "count": 5844,
+      "count": 5845,
       "api": "https://prajjwal2-3.github.io/yc-data/companies/all.json"
     },
     "top": {
@@ -71,12 +71,12 @@
     },
     "ai": {
       "name": "AI",
-      "count": 784,
+      "count": 783,
       "api": "https://prajjwal2-3.github.io/yc-data/tags/ai.json"
     },
     "ai-assistant": {
       "name": "AI Assistant",
-      "count": 157,
+      "count": 156,
       "api": "https://prajjwal2-3.github.io/yc-data/tags/ai-assistant.json"
     },
     "ai-enhanced-learning": {
@@ -181,7 +181,7 @@
     },
     "automation": {
       "name": "Automation",
-      "count": 88,
+      "count": 87,
       "api": "https://prajjwal2-3.github.io/yc-data/tags/automation.json"
     },
     "automotive": {
@@ -201,7 +201,7 @@
     },
     "b2b": {
       "name": "B2B",
-      "count": 1087,
+      "count": 1088,
       "api": "https://prajjwal2-3.github.io/yc-data/tags/b2b.json"
     },
     "banking-as-a-service": {
@@ -416,7 +416,7 @@
     },
     "conversational-ai": {
       "name": "Conversational AI",
-      "count": 41,
+      "count": 42,
       "api": "https://prajjwal2-3.github.io/yc-data/tags/conversational-ai.json"
     },
     "conversational-banking": {
@@ -486,7 +486,7 @@
     },
     "customer-service": {
       "name": "Customer Service",
-      "count": 21,
+      "count": 22,
       "api": "https://prajjwal2-3.github.io/yc-data/tags/customer-service.json"
     },
     "customer-success": {
@@ -496,7 +496,7 @@
     },
     "customer-support": {
       "name": "Customer Support",
-      "count": 31,
+      "count": 30,
       "api": "https://prajjwal2-3.github.io/yc-data/tags/customer-support.json"
     },
     "customization": {
@@ -861,7 +861,7 @@
     },
     "hard-tech": {
       "name": "Hard Tech",
-      "count": 94,
+      "count": 93,
       "api": "https://prajjwal2-3.github.io/yc-data/tags/hard-tech.json"
     },
     "hardware": {
@@ -1336,7 +1336,7 @@
     },
     "reinforcement-learning": {
       "name": "Reinforcement Learning",
-      "count": 31,
+      "count": 30,
       "api": "https://prajjwal2-3.github.io/yc-data/tags/reinforcement-learning.json"
     },
     "remittances": {
@@ -1411,7 +1411,7 @@
     },
     "sales": {
       "name": "Sales",
-      "count": 117,
+      "count": 116,
       "api": "https://prajjwal2-3.github.io/yc-data/tags/sales.json"
     },
     "sales-enablement": {
@@ -1436,7 +1436,7 @@
     },
     "security": {
       "name": "Security",
-      "count": 89,
+      "count": 90,
       "api": "https://prajjwal2-3.github.io/yc-data/tags/security.json"
     },
     "security-orchestration-automation-and-response-(soar)": {
@@ -1728,7 +1728,7 @@
     },
     "b2b": {
       "name": "B2B",
-      "count": 2985,
+      "count": 2986,
       "api": "https://prajjwal2-3.github.io/yc-data/industries/b2b.json"
     },
     "banking-and-exchange": {
@@ -1948,12 +1948,12 @@
     },
     "sales": {
       "name": "Sales",
-      "count": 137,
+      "count": 136,
       "api": "https://prajjwal2-3.github.io/yc-data/industries/sales.json"
     },
     "security": {
       "name": "Security",
-      "count": 113,
+      "count": 114,
       "api": "https://prajjwal2-3.github.io/yc-data/industries/security.json"
     },
     "social": {
@@ -2220,7 +2220,7 @@
     },
     "spring-2026": {
       "name": "Spring 2026",
-      "count": 96,
+      "count": 97,
       "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026.json"
     },
     "summer-2026": {

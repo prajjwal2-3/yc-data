@@ -13732,6 +13732,52 @@
     "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2022/raven.json"
   },
   {
+    "id": 26800,
+    "name": "Juicebox",
+    "slug": "juicebox",
+    "former_names": [
+      "Juicebox App",
+      "Inc."
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2a2858087cb4a0409dfdf9550fd470d4f1798ec6.png",
+    "website": "https://juicebox.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Juicebox is on a mission to help teams win the talent war.\r\n\r\nIn the age of AI, human ingenuity is the ultimate scarce resource. Recruiting is a zero-sum game where you either compete or lose.\r\n\r\nTeams at Ramp, Perplexity, and leading AI labs use Juicebox to power their hiring, alongside 3,000+ customers from early-stage startups to Fortune 500 companies.\r\n\r\nWe’ve crossed $10M in ARR with 20%+ monthly growth, powering thousands of searches every day and making Juicebox one of the fastest-growing AI SaaS companies in the world.\r\n\r\nJuicebox has raised $36M in funding, including a $30M Series A led by Sequoia Capital. Additional investors in Juicebox include Coatue, NFDG, Lux Capital, Y Combinator, and BOND Capital.",
+    "one_liner": "AI-powered talent sourcing for recruiters",
+    "team_size": 50,
+    "industry": "B2B",
+    "subindustry": "B2B -> Recruiting and Talent",
+    "launched_at": 1659905940,
+    "tags": [
+      "Artificial Intelligence",
+      "Generative AI",
+      "B2B",
+      "Recruiting",
+      "HR Tech"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2022",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Recruiting and Talent"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Growth",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/juicebox",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2022/juicebox.json"
+  },
+  {
     "id": 26837,
     "name": "Unify",
     "slug": "unify",
@@ -22714,11 +22760,11 @@
     "former_names": [
       "Markprompt"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1841ada0df7c64908eb6c8d0117d73d41c5eaed1.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2ecdeb51e1b2a618115abfd5f0aefe2b01ed8e6a.png",
     "website": "https://14.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "14.ai is a Zendesk + offshore alternative built from the ground up for AI agents. ",
-    "one_liner": "AI Customer Service Agency for Your B2C Business",
+    "long_description": "14.ai operates brands autonomously. Our software runs the core machinery of a modern company, from demand generation to fulfillment to customer relationships.\r\n\r\nThe next iconic brands will run with far fewer people, tighter software loops, and much more operational intelligence. Our system connects acquisition, operations, support, and decision-making across the brands we build into one intelligent layer.\r\n\r\nWe use 14.ai to launch and run our own brands, improve the system in production, and make brand creation faster, measurable, and more programmable with every cycle.",
+    "one_liner": "AI engine powering autonomous brands starting with gloglo.com",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
@@ -22726,7 +22772,7 @@
     "tags": [
       "Artificial Intelligence",
       "E-commerce",
-      "Customer Support",
+      "Customer Service",
       "Infrastructure",
       "AI Assistant"
     ],
@@ -22795,49 +22841,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/pandasai",
     "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2024/pandasai.json"
-  },
-  {
-    "id": 29348,
-    "name": "Parallel",
-    "slug": "parallel",
-    "former_names": [
-      "Kiosk"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/49003875f2b0e7d5e2b5e10ad67e7b43f3aeb43f.png",
-    "website": "https://www.beparallel.com/?utm_source=ycombinator&utm_medium=directory",
-    "all_locations": "Paris, Île-de-France, France",
-    "long_description": "We build AI agents that automate healthcare admin workflows. Our agents navigate legacy hospital software like humans (using mouse and keyboard) and automate end-to-end workflows (starting with medical coding), freeing medical professionals from manual tasks.",
-    "one_liner": "AI agents for healthcare admin",
-    "team_size": 6,
-    "industry": "Healthcare",
-    "subindustry": "Healthcare -> Healthcare IT",
-    "launched_at": 1707957478,
-    "tags": [
-      "Artificial Intelligence",
-      "Healthcare",
-      "Automation"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2024",
-    "status": "Active",
-    "industries": [
-      "Healthcare",
-      "Healthcare IT"
-    ],
-    "regions": [
-      "France",
-      "Europe"
-    ],
-    "stage": "Growth",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/parallel",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2024/parallel.json"
   },
   {
     "id": 29349,
@@ -25590,6 +25593,51 @@
     "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2024/sagecare.json"
   },
   {
+    "id": 29646,
+    "name": "Corgi Insurance",
+    "slug": "corgi-insurance",
+    "former_names": [
+      "Corgi",
+      "Corgi Insurance",
+      "Corgi"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8f66899a62764756d799d5abc511dc4b46f8c151.png",
+    "website": "https://corgi.insure",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Corgi is a full-stack insurance carrier building better, faster insurance products for startups. We’re not a broker, so we underwrite and issue policies directly, with fewer handoffs and less friction. Cutting out intermediaries lets us tailor coverage to how your company actually operates and price risk more efficiently.\r\n\r\n",
+    "one_liner": "Corgi is building an AI financial infrastructure company",
+    "team_size": 100,
+    "industry": "Fintech",
+    "subindustry": "Fintech -> Insurance",
+    "launched_at": 1720644316,
+    "tags": [
+      "Artificial Intelligence",
+      "Fintech",
+      "Insurance"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2024",
+    "status": "Active",
+    "industries": [
+      "Fintech",
+      "Insurance"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/corgi-insurance",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2024/corgi-insurance.json"
+  },
+  {
     "id": 29647,
     "name": "Maitai",
     "slug": "maitai",
@@ -27752,48 +27800,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/baseline-ai",
     "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2024/baseline-ai.json"
-  },
-  {
-    "id": 29797,
-    "name": "Haystack Software",
-    "slug": "haystack-software",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/bd48721d6c682c48e30cb675f7793656d5a02a9f.png",
-    "website": "https://haystackeditor.com/",
-    "all_locations": "New York, NY, USA",
-    "long_description": "Haystack helps you review and merge code faster, without sacrificing quality.\r\n\r\nHaystack is a code review platform that breaks down pull requests into digestible chunks and lays them out on an infinite canvas, replacing traditional line-by-line diffs in GitHub with a structured, visual walkthrough.",
-    "one_liner": "Understand any pull request in under a minute",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1722315932,
-    "tags": [
-      "Artificial Intelligence",
-      "Developer Tools",
-      "B2B",
-      "Productivity"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2024",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/haystack-software",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2024/haystack-software.json"
   },
   {
     "id": 29804,
@@ -30635,55 +30641,6 @@
     "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2025/toothy-ai.json"
   },
   {
-    "id": 30222,
-    "name": "Altrina",
-    "slug": "altrina",
-    "former_names": [
-      "Symmetric Labs",
-      "Tessa",
-      "General Agency"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/23ee7aa773e16f7887979b0dcfa61db69ba9fd25.png",
-    "website": "https://altrina.com",
-    "all_locations": "Menlo Park, CA, USA",
-    "long_description": "Altrina automates SOPs to give humans back their time to do what matters.\r\n\r\nWe have already significantly improved organizational efficiency for local governments, law offices, insurance brokers, consulting firms, and hedge funds.\r\n\r\nFormerly General Agency/Tessa AI",
-    "one_liner": "The SOP Automation Platform",
-    "team_size": 4,
-    "industry": "B2B",
-    "subindustry": "B2B -> Productivity",
-    "launched_at": 1736185270,
-    "tags": [
-      "Artificial Intelligence",
-      "Hard Tech",
-      "Reinforcement Learning",
-      "Automation",
-      "AI Assistant"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2025",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Productivity"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/altrina",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2025/altrina.json"
-  },
-  {
     "id": 30226,
     "name": "Tejas AI",
     "slug": "tejas-ai",
@@ -33174,6 +33131,50 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/bluejay",
     "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2025/bluejay.json"
+  },
+  {
+    "id": 30462,
+    "name": "Freesolo",
+    "slug": "freesolo",
+    "former_names": [
+      "Linkd",
+      "Clado"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/802c9c3c1c23b840027f581702b516674e8f4729.png",
+    "website": "https://freesolo.co",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Freesolo works with companies to encode user-trajectory knowledge into specialized models that outperform the state of the art at much lower latency and cost.",
+    "one_liner": "Product Native Models",
+    "team_size": 4,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1742722403,
+    "tags": [
+      "Artificial Intelligence",
+      "Reinforcement Learning",
+      "B2B"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/freesolo",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2025/freesolo.json"
   },
   {
     "id": 30463,
@@ -37362,6 +37363,49 @@
     "api": "https://prajjwal2-3.github.io/yc-data/batches/fall-2025/sellraze.json"
   },
   {
+    "id": 30889,
+    "name": "Terrain",
+    "slug": "terrain",
+    "former_names": [
+      "Nivara AI",
+      "Nivara"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f3725baa6ed275d3fe7064a6f04d7c57debd641c.png",
+    "website": "https://onterrain.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Stealth",
+    "one_liner": "Stealth",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Security",
+    "launched_at": 1761077242,
+    "tags": [
+      "Artificial Intelligence",
+      "B2B"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Security"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/terrain",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/fall-2025/terrain.json"
+  },
+  {
     "id": 30894,
     "name": "Unsiloed AI",
     "slug": "unsiloed-ai",
@@ -39343,50 +39387,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/lab0",
     "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/lab0.json"
-  },
-  {
-    "id": 31429,
-    "name": "Benchspan",
-    "slug": "benchspan",
-    "former_names": [
-      "Oddpool"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/aa4fc4f6d1e2ccaa194229fd65ff2d902dc82092.png",
-    "website": "https://www.benchspan.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "We built the most accurate indirect prompt injection classifier available today, trained by the team behind Microsoft's Prompt Shields. Our model catches the attacks that generic guardrails miss: hidden instructions embedded in documents, emails, tool outputs, and retrieval results that manipulate your agent from the inside.\r\n\r\nConnect your observability stack and Benchspan monitors every LLM call, tool invocation, and RAG retrieval in production. We learn your agents' normal behavior and flag data exfiltration, unauthorized tool access, and behavioral drift before they cause damage",
-    "one_liner": "Real-time threat detection for AI agents in production",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1773859660,
-    "tags": [
-      "AIOps",
-      "Artificial Intelligence",
-      "Analytics",
-      "Infrastructure"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Spring 2026",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/benchspan",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/benchspan.json"
   },
   {
     "id": 31436,

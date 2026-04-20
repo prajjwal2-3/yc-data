@@ -4415,11 +4415,11 @@
     "former_names": [
       "Markprompt"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1841ada0df7c64908eb6c8d0117d73d41c5eaed1.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2ecdeb51e1b2a618115abfd5f0aefe2b01ed8e6a.png",
     "website": "https://14.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "14.ai is a Zendesk + offshore alternative built from the ground up for AI agents. ",
-    "one_liner": "AI Customer Service Agency for Your B2C Business",
+    "long_description": "14.ai operates brands autonomously. Our software runs the core machinery of a modern company, from demand generation to fulfillment to customer relationships.\r\n\r\nThe next iconic brands will run with far fewer people, tighter software loops, and much more operational intelligence. Our system connects acquisition, operations, support, and decision-making across the brands we build into one intelligent layer.\r\n\r\nWe use 14.ai to launch and run our own brands, improve the system in production, and make brand creation faster, measurable, and more programmable with every cycle.",
+    "one_liner": "AI engine powering autonomous brands starting with gloglo.com",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
@@ -4427,7 +4427,7 @@
     "tags": [
       "Artificial Intelligence",
       "E-commerce",
-      "Customer Support",
+      "Customer Service",
       "Infrastructure",
       "AI Assistant"
     ],
@@ -4681,14 +4681,14 @@
     "all_locations": "Paris, Île-de-France, France",
     "long_description": "We build AI agents that automate healthcare admin workflows. Our agents navigate legacy hospital software like humans (using mouse and keyboard) and automate end-to-end workflows (starting with medical coding), freeing medical professionals from manual tasks.",
     "one_liner": "AI agents for healthcare admin",
-    "team_size": 6,
+    "team_size": 15,
     "industry": "Healthcare",
     "subindustry": "Healthcare -> Healthcare IT",
     "launched_at": 1707957478,
     "tags": [
-      "Artificial Intelligence",
       "Healthcare",
-      "Automation"
+      "Automation",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,

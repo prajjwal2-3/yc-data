@@ -1179,12 +1179,13 @@
   },
   {
     "id": 31372,
-    "name": "Trellis",
+    "name": "trellis",
     "slug": "trellistech",
     "former_names": [
-      "Trellis Tech"
+      "Trellis Tech",
+      "Trellis"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ab1deb367bb615cd241493c4b89d15c887721cc3.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d4edc07d052fa88205fcd9e264fc066ce8d0f11f.png",
     "website": "https://trellistech.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Short-term rental operators suffer from diseconomies of scale. As listing count grows, operational complexity increases exponentially, managers lose control, reviews drop, and so do rates and homeowner retention. \r\n\r\nMost are stuck between 10 and 50 listings, using 5 to 10 different software tools, none flexible enough for their needs. There is no unified data layer of their company. They navigate in the dark, reacting to problems rather than delivering hospitality.\r\n\r\nTrellis unifies everything into one platform, giving AI agents complete context over operations (communications, tasks, workforce, smart homes, bookings, accounting, revenue management) so they can orchestrate work end to end.\r\n\r\nWe believe software is being commoditized. We reached feature parity with competitors in two weeks. If agents can build software that fast, then every SaaS product becomes a software builder. The vendor provides the trellis: the fixed infrastructure. The AI grows the vines: dynamic features, workflows, and interfaces that adapt to each customer. No more adapting to the tool. The tool adapts to you.\r\n\r\nBut the real value is not in what the agent does for one company. It is in what it learns across all of them. Every workflow that works, every SOP that survives contact with guests, every resolution pattern that prevents a bad review feeds back into the network. The agent shares best practices, battle proven SOPs, and guest intelligence across companies. This creates a network of property management brands where the experience is designed by humans and ensured by software. Quality becomes predictable. Scale becomes unlimited. Hospitality is no longer a people problem, it is a software problem.\r\n\r\nAirbnb built the marketplace. We are building the machine that runs it.",
@@ -2240,9 +2241,10 @@
     "launched_at": 1773859660,
     "tags": [
       "AIOps",
-      "Artificial Intelligence",
       "Analytics",
-      "Infrastructure"
+      "Security",
+      "Infrastructure",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -3498,6 +3500,46 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/runtime",
     "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/runtime.json"
+  },
+  {
+    "id": 31520,
+    "name": "Kinect",
+    "slug": "kinect",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/13574e5b60275accf705e704a142fb091a82a4b0.png",
+    "website": "https://www.trykinect.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "The product detail page is one of the last unchanged surfaces in commerce. Brands have spent years getting sophisticated at driving traffic there but nobody fixed what happens when shoppers arrive.\r\n\r\nKinect is the AI shopping assistant layer for e-commerce. We plug into ecommerce stores and give agents live access to your catalog, inventory, and policies. A brand’s online sales rep that can answer all a customer’s questions, help them find the right products, convince them. The website itself adapts to the shopper’s context: it considers the ads the user clicked on, their searches, filters, scrolling behavior, chat context to all show the shopper what they need to see.\r\n\r\nWe're building for human shoppers today and the AI agents that will shop for them tomorrow. Either way, the product page needs to get a lot smarter. That's Kinect – the product page finally does what it was supposed to do all along.",
+    "one_liner": "Personalized storefronts for every visitor",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1776624849,
+    "tags": [
+      "B2B",
+      "E-commerce",
+      "Conversational AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/kinect",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/kinect.json"
   },
   {
     "id": 31523,
