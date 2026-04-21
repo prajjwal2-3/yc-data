@@ -1770,6 +1770,50 @@
     "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/salesgraph.json"
   },
   {
+    "id": 31410,
+    "name": "RentAHuman",
+    "slug": "rentahuman",
+    "former_names": [
+      "RentAHuman AI"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7890eeb84993f21c597e6eedfe3a2e603178f14f.png",
+    "website": "https://rentahuman.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "",
+    "one_liner": "Marketplace for AI agents to hire humans.",
+    "team_size": 3,
+    "industry": "Consumer",
+    "subindustry": "Consumer -> Job and Career Services",
+    "launched_at": 1776727730,
+    "tags": [
+      "Marketplace",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "Consumer",
+      "Job and Career Services"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/rentahuman",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/rentahuman.json"
+  },
+  {
     "id": 31413,
     "name": "Arga Labs",
     "slug": "arga-labs",
@@ -2194,7 +2238,7 @@
     "one_liner": "We help managers regain control of their organisations",
     "team_size": 3,
     "industry": "B2B",
-    "subindustry": "B2B",
+    "subindustry": "B2B -> Operations",
     "launched_at": 1773487694,
     "tags": [
       "B2B",
@@ -2209,7 +2253,8 @@
     "batch": "Spring 2026",
     "status": "Active",
     "industries": [
-      "B2B"
+      "B2B",
+      "Operations"
     ],
     "regions": [
       "United States of America",
@@ -3057,7 +3102,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1c4216679eb008bbc4571315894d674d507a751f.png",
     "website": "https://saudara.ai",
-    "all_locations": "",
+    "all_locations": "San Francisco, CA, USA",
     "long_description": "Indonesian exports to the US grew 23% in 2025 up to over $30B. The shift is happening. Most brands just don't have the on-ramp yet.\r\n\r\nSaudara AI is an AI-native sourcing agency connecting American brands with Indonesian suppliers across apparel, textiles, home goods, supplements, and raw materials. Our AI agent finds your factory, handles vetting, sampling, and delivery. A human is in the loop at every stage.\r\n\r\nNo more ghosting. No more waiting months for supplier updates. You always know where your order stands.\r\n\r\nWe are the on-ramp.",
     "one_liner": "AI-native Sourcing Agency",
     "team_size": 2,
@@ -3065,9 +3110,9 @@
     "subindustry": "B2B",
     "launched_at": 1774887463,
     "tags": [
-      "Artificial Intelligence",
       "Marketplace",
-      "B2B"
+      "B2B",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -3079,7 +3124,8 @@
       "B2B"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,

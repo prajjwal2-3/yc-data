@@ -1665,18 +1665,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ea398f420376203b7d9380b70500e67185b63403.png",
     "website": "https://alex.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Alex is an agentic AI recruiter for the future of hiring. Companies use us to get the best hiring signal on their applicant pool and hire in a fraction of the time.\r\nOur AI recruiter has a live conversation over a video call with each of your candidates based on the interview questions you choose or that are recommended based on the job description. During the interview, our AI asks personalized follow-up questions in real-time based on the candidate's responses.\r\nOur AI recruiter can be customized to your roles in minutes and has already conducted thousands of interviews across engineering, IT, retail, hospitality, and more.",
+    "long_description": "Alex is an agentic AI recruiter for the future of hiring. Companies use us to get the best hiring signal on their applicant pool and hire in a fraction of the time.\r\n\r\nOur AI recruiter, Alex, has a live conversation over a video call with each of your candidates based on the interview questions you choose or that are recommended based on the job description. During the interview, Alex asks personalized follow-up questions in real-time based on the candidate's responses.\r\n\r\nAlex can be customized to your roles in minutes and has already conducted thousands of interviews across engineering, IT, retail, hospitality, and more.",
     "one_liner": "Your AI recruiter for interviewing and identifying the best talent",
     "team_size": 30,
     "industry": "B2B",
     "subindustry": "B2B -> Recruiting and Talent",
     "launched_at": 1703103445,
     "tags": [
+      "Artificial Intelligence",
       "SaaS",
       "B2B",
       "Recruiting",
-      "HR Tech",
-      "AI"
+      "HR Tech"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -2037,13 +2037,13 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Pivot Robotics makes AI software for robotic arms that helps manufacturers automate their most labor intensive tasks. We are starting out with the dangerous task of metal grinding and are currently deploying our software on 10+ robots in a cast-iron foundry. ",
     "one_liner": "AI for Robot Arms in Factories",
-    "team_size": 6,
+    "team_size": 7,
     "industry": "Industrials",
     "subindustry": "Industrials -> Manufacturing and Robotics",
     "launched_at": 1709584102,
     "tags": [
+      "Artificial Intelligence",
       "Robotics",
-      "AI",
       "Industrial"
     ],
     "tags_highlighted": [],
@@ -4686,9 +4686,9 @@
     "subindustry": "Healthcare -> Healthcare IT",
     "launched_at": 1707957478,
     "tags": [
+      "Artificial Intelligence",
       "Healthcare",
-      "Automation",
-      "AI"
+      "Automation"
     ],
     "tags_highlighted": [],
     "top_company": false,

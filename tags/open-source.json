@@ -3649,7 +3649,7 @@
     "all_locations": "Paris, Île-de-France, France",
     "long_description": "Windmill is an open-source developer platform that turns scripts into workflows, internal tools, and full-stack apps.\r\n\r\nWrite scripts in Python, TypeScript, Go, Bash, Rust, SQL - Windmill auto-generates UIs from their parameters, handles dependencies, credentials, permissions, and scheduling so you focus on business logic, not infra.\r\n                                                                                     \r\nOpen-source alternative to Airflow, Temporal, Retool and n8n. Chain scripts into flows with branching, parallelism, retries. Build dashboards with the app builder. Trigger via cron, webhook, or UI. All-in-one runtime, editor, secret manager, and OAuth platform - enterprise-ready out of the box.\r\n                                                                                                                            \r\nStack: Rust / TypeScript + Svelte / PostgreSQL. Self-hostable, easy to deploy, built for performance and DX.",
     "one_liner": "Open-source platform to turn scripts into internal apps & workflows",
-    "team_size": 10,
+    "team_size": 7,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1651798285,

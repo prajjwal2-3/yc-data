@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-04-20T03:26:29.479Z",
+  "last_updated": "2026-04-21T03:18:04.365Z",
   "readme": "https://github.com/prajjwal2-3/yc-data",
   "companies": {
     "all": {
       "name": "All launched companies",
-      "count": 5845,
+      "count": 5847,
       "api": "https://prajjwal2-3.github.io/yc-data/companies/all.json"
     },
     "top": {
@@ -34,7 +34,7 @@
     },
     "hiring": {
       "name": "Companies currently hiring",
-      "count": 1453,
+      "count": 1449,
       "api": "https://prajjwal2-3.github.io/yc-data/companies/hiring.json"
     }
   },
@@ -71,7 +71,7 @@
     },
     "ai": {
       "name": "AI",
-      "count": 783,
+      "count": 784,
       "api": "https://prajjwal2-3.github.io/yc-data/tags/ai.json"
     },
     "ai-assistant": {
@@ -131,7 +131,7 @@
     },
     "api": {
       "name": "API",
-      "count": 140,
+      "count": 141,
       "api": "https://prajjwal2-3.github.io/yc-data/tags/api.json"
     },
     "apis": {
@@ -161,7 +161,7 @@
     },
     "artificial-intelligence": {
       "name": "Artificial Intelligence",
-      "count": 906,
+      "count": 907,
       "api": "https://prajjwal2-3.github.io/yc-data/tags/artificial-intelligence.json"
     },
     "assistive-tech": {
@@ -201,7 +201,7 @@
     },
     "b2b": {
       "name": "B2B",
-      "count": 1088,
+      "count": 1087,
       "api": "https://prajjwal2-3.github.io/yc-data/tags/b2b.json"
     },
     "banking-as-a-service": {
@@ -376,7 +376,7 @@
     },
     "compliance": {
       "name": "Compliance",
-      "count": 72,
+      "count": 71,
       "api": "https://prajjwal2-3.github.io/yc-data/tags/compliance.json"
     },
     "computational-storage": {
@@ -586,7 +586,7 @@
     },
     "developer-tools": {
       "name": "Developer Tools",
-      "count": 533,
+      "count": 534,
       "api": "https://prajjwal2-3.github.io/yc-data/tags/developer-tools.json"
     },
     "devops": {
@@ -961,7 +961,7 @@
     },
     "infrastructure": {
       "name": "Infrastructure",
-      "count": 111,
+      "count": 112,
       "api": "https://prajjwal2-3.github.io/yc-data/tags/infrastructure.json"
     },
     "insurance": {
@@ -1021,7 +1021,7 @@
     },
     "legaltech": {
       "name": "LegalTech",
-      "count": 54,
+      "count": 53,
       "api": "https://prajjwal2-3.github.io/yc-data/tags/legaltech.json"
     },
     "lending": {
@@ -1081,7 +1081,7 @@
     },
     "marketplace": {
       "name": "Marketplace",
-      "count": 303,
+      "count": 304,
       "api": "https://prajjwal2-3.github.io/yc-data/tags/marketplace.json"
     },
     "media": {
@@ -1626,7 +1626,7 @@
     },
     "trading": {
       "name": "Trading",
-      "count": 9,
+      "count": 10,
       "api": "https://prajjwal2-3.github.io/yc-data/tags/trading.json"
     },
     "transportation": {
@@ -1691,7 +1691,7 @@
     },
     "workflow-automation": {
       "name": "Workflow Automation",
-      "count": 66,
+      "count": 65,
       "api": "https://prajjwal2-3.github.io/yc-data/tags/workflow-automation.json"
     }
   },
@@ -1728,7 +1728,7 @@
     },
     "b2b": {
       "name": "B2B",
-      "count": 2986,
+      "count": 2987,
       "api": "https://prajjwal2-3.github.io/yc-data/industries/b2b.json"
     },
     "banking-and-exchange": {
@@ -1748,7 +1748,7 @@
     },
     "consumer": {
       "name": "Consumer",
-      "count": 866,
+      "count": 867,
       "api": "https://prajjwal2-3.github.io/yc-data/industries/consumer.json"
     },
     "consumer-electronics": {
@@ -1878,7 +1878,7 @@
     },
     "infrastructure": {
       "name": "Infrastructure",
-      "count": 287,
+      "count": 288,
       "api": "https://prajjwal2-3.github.io/yc-data/industries/infrastructure.json"
     },
     "insurance": {
@@ -1888,7 +1888,7 @@
     },
     "job-and-career-services": {
       "name": "Job and Career Services",
-      "count": 19,
+      "count": 20,
       "api": "https://prajjwal2-3.github.io/yc-data/industries/job-and-career-services.json"
     },
     "legal": {
@@ -1918,7 +1918,7 @@
     },
     "operations": {
       "name": "Operations",
-      "count": 144,
+      "count": 145,
       "api": "https://prajjwal2-3.github.io/yc-data/industries/operations.json"
     },
     "payments": {
@@ -2220,12 +2220,12 @@
     },
     "spring-2026": {
       "name": "Spring 2026",
-      "count": 97,
+      "count": 98,
       "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026.json"
     },
     "summer-2026": {
       "name": "Summer 2026",
-      "count": 1,
+      "count": 2,
       "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2026.json"
     },
     "unspecified": {

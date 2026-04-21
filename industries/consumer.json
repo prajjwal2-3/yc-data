@@ -17469,7 +17469,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -36158,6 +36158,50 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/standout",
     "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/standout.json"
+  },
+  {
+    "id": 31410,
+    "name": "RentAHuman",
+    "slug": "rentahuman",
+    "former_names": [
+      "RentAHuman AI"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7890eeb84993f21c597e6eedfe3a2e603178f14f.png",
+    "website": "https://rentahuman.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "",
+    "one_liner": "Marketplace for AI agents to hire humans.",
+    "team_size": 3,
+    "industry": "Consumer",
+    "subindustry": "Consumer -> Job and Career Services",
+    "launched_at": 1776727730,
+    "tags": [
+      "Marketplace",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "Consumer",
+      "Job and Career Services"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/rentahuman",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/rentahuman.json"
   },
   {
     "id": 31427,

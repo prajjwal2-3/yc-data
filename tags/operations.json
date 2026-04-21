@@ -1379,7 +1379,7 @@
     "one_liner": "We help managers regain control of their organisations",
     "team_size": 3,
     "industry": "B2B",
-    "subindustry": "B2B",
+    "subindustry": "B2B -> Operations",
     "launched_at": 1773487694,
     "tags": [
       "B2B",
@@ -1394,7 +1394,8 @@
     "batch": "Spring 2026",
     "status": "Active",
     "industries": [
-      "B2B"
+      "B2B",
+      "Operations"
     ],
     "regions": [
       "United States of America",

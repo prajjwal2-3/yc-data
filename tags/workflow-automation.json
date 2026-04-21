@@ -904,7 +904,7 @@
     "all_locations": "Paris, Île-de-France, France",
     "long_description": "Windmill is an open-source developer platform that turns scripts into workflows, internal tools, and full-stack apps.\r\n\r\nWrite scripts in Python, TypeScript, Go, Bash, Rust, SQL - Windmill auto-generates UIs from their parameters, handles dependencies, credentials, permissions, and scheduling so you focus on business logic, not infra.\r\n                                                                                     \r\nOpen-source alternative to Airflow, Temporal, Retool and n8n. Chain scripts into flows with branching, parallelism, retries. Build dashboards with the app builder. Trigger via cron, webhook, or UI. All-in-one runtime, editor, secret manager, and OAuth platform - enterprise-ready out of the box.\r\n                                                                                                                            \r\nStack: Rust / TypeScript + Svelte / PostgreSQL. Self-hostable, easy to deploy, built for performance and DX.",
     "one_liner": "Open-source platform to turn scripts into internal apps & workflows",
-    "team_size": 10,
+    "team_size": 7,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1651798285,
@@ -1179,7 +1179,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Inkeep is the only agent platform designed to help both developers and non-developers ship Agent-powered assistants and automations.\r\n\r\nCompanies like Anthropic, Midjourney, Clay, PostHog, and Postman deploy Inkeep Agents at scale to help with everything from support to sales.\r\n\r\nHighlights:\r\n- A No-Code Builder and Developer Framework with full 2-way sync\r\n- Unified search and RAG for knowledge bases, docs, and company data\r\n- MCPs and integrations with your apps, APIs, and software\r\n- Intelligent insights and monitoring over how Agents perform\r\n\r\nWith Inkeep Agents, enterprises and high-growth teams empower their employees with AI teammates that help get work done and automate repeatable tasks.\r\n\r\nBacked by Khosla Ventures, Y-Combinator, Great Point Ventures and leading CEOs and founders.",
     "one_liner": "Build AI Agent teammates and automations in code or no-code",
-    "team_size": 17,
+    "team_size": 18,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1677660046,
@@ -2111,52 +2111,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/formula-insight",
     "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2024/formula-insight.json"
-  },
-  {
-    "id": 30067,
-    "name": "Beglaubigt.de",
-    "slug": "beglaubigtde",
-    "former_names": [
-      "Openlaw",
-      "Platus"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/701b2bc3a4abc9947cd6ce87bda2ed1d5e17653c.png",
-    "website": "https://beglaubigt.de/en-us",
-    "all_locations": "Munich, BY, Germany",
-    "long_description": "Beglaubigt.de is building the digital back-office for European founders. Our German brand Beglaubigt.de is the market-leading platform for digital company formations and notarizations - reducing GmbH incorporations from 6–8 weeks to as little as 3 days. \r\n\r\nThrough Germany's first fully automated incorporation API, we power the formation flows of partners like Qonto, Holvi, and Sevdesk. We're now expanding the stack into ongoing business operations: registered addresses, trade registrations, bookkeeping, and the full legal back-office.",
-    "one_liner": "The legal back-office for European founders - the incorporation API…",
-    "team_size": 15,
-    "industry": "B2B",
-    "subindustry": "B2B -> Legal",
-    "launched_at": 1731569238,
-    "tags": [
-      "B2B",
-      "Workflow Automation",
-      "Compliance",
-      "LegalTech",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Fall 2024",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Legal"
-    ],
-    "regions": [
-      "Germany",
-      "Europe"
-    ],
-    "stage": "Early",
-    "app_video_public": true,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/beglaubigtde",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/fall-2024/beglaubigtde.json"
   },
   {
     "id": 30075,

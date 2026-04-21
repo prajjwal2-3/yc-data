@@ -1557,7 +1557,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -1950,7 +1950,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2018",
     "status": "Active",
@@ -5298,48 +5298,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/rejoy-health",
     "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2021/rejoy-health.json"
-  },
-  {
-    "id": 23357,
-    "name": "Treinta",
-    "slug": "treinta",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/22a2db8472fb087e350b2fb2e013f633f97d013d.png",
-    "website": "https://www.treinta.co",
-    "all_locations": "Bogotá, Bogota, Colombia",
-    "long_description": "Treinta powers 7 million SMBs across the US and Latin America with simple finance, inventory, and sales tools. In 2025, Treinta launched idealane, an AI builder that lets entrepreneurs create websites, apps, and automations by chatting. ",
-    "one_liner": "Software and AI tools for SMBs in the US and Latin America",
-    "team_size": 60,
-    "industry": "B2B",
-    "subindustry": "B2B -> Productivity",
-    "launched_at": 1611327725,
-    "tags": [
-      "Subscriptions",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2021",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Productivity"
-    ],
-    "regions": [
-      "Colombia",
-      "Latin America",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/treinta",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2021/treinta.json"
   },
   {
     "id": 23389,
@@ -9551,6 +9509,55 @@
     "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2022/postal.json"
   },
   {
+    "id": 26019,
+    "name": "AYC Fund",
+    "slug": "ayc-fund",
+    "former_names": [
+      "10 minute squad / 10분특공대",
+      "10 minute squad",
+      "Sync"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7e61aca9e3ec1f41c1b6e3f94c2d34767562c42d.png",
+    "website": "http://www.AYCFund.com/",
+    "all_locations": "Seoul, South Korea",
+    "long_description": "AI-native crypto hedge fund",
+    "one_liner": "AI-native crypto hedge fund",
+    "team_size": 1,
+    "industry": "Fintech",
+    "subindustry": "Fintech -> Asset Management",
+    "launched_at": 1641267384,
+    "tags": [
+      "Crypto / Web3",
+      "Finance",
+      "Trading",
+      "AI",
+      "Cryptocurrency"
+    ],
+    "tags_highlighted": [
+      "Crypto / Web3"
+    ],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2022",
+    "status": "Active",
+    "industries": [
+      "Fintech",
+      "Asset Management"
+    ],
+    "regions": [
+      "South Korea",
+      "East Asia"
+    ],
+    "stage": "Growth",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/ayc-fund",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2022/ayc-fund.json"
+  },
+  {
     "id": 26034,
     "name": "Kenobi",
     "slug": "kenobi",
@@ -11137,6 +11144,51 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/latent-space",
     "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2022/latent-space.json"
+  },
+  {
+    "id": 26897,
+    "name": "AviaryAI",
+    "slug": "aviaryai",
+    "former_names": [
+      "Cambio"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/40b545f0827e44a735f2287cc0b17aea7e65e7ff.png",
+    "website": "http://www.helloaviary.ai",
+    "all_locations": "Chicago, IL, USA",
+    "long_description": "AviaryAI is the industry's first outbound AI service team for banks, credit unions, and insurance companies. In a landscape where only 18% of financial service providers make proactive outbound calls and rely heavily on emails, AviaryAI offers a groundbreaking solution. Powered by a private LLM, our suite of products helps institutions leverage Generative AI while adhering to stringent regulatory and compliance standards.",
+    "one_liner": "Outbound AI voice agents for the financial services industry",
+    "team_size": 10,
+    "industry": "Fintech",
+    "subindustry": "Fintech",
+    "launched_at": 1654737893,
+    "tags": [
+      "Fintech",
+      "B2B",
+      "AI",
+      "AI Assistant"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2022",
+    "status": "Active",
+    "industries": [
+      "Fintech"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/aviaryai",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2022/aviaryai.json"
   },
   {
     "id": 26912,
@@ -14422,51 +14474,6 @@
     "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2023/codeparrot-ai.json"
   },
   {
-    "id": 28110,
-    "name": "Conduit",
-    "slug": "conduit",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f9fd269cc7d10c65c452d836b7ba980b58a0c084.png",
-    "website": "http://helloconduit.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Conduit systemizes the planning and execution of dock and yard operations into one platform — dock scheduling, driver check-in, yard management, and compliance documentation. Our workflows give operators leverage to increase throughput and reduce waste. Our platform produces the clean, structured data that makes AI possible — data that doesn't exist elsewhere.\r\n\r\nThe dock is where physical custody of goods changes hands — the most consequential moment in the supply chain, and the least invested-in. WMS stops at staging. TMS doesn't reach the dock. Everything in between is still running on email, spreadsheets, and clipboards. We're closing that gap for the 99% of warehouses that legacy systems were never designed to serve.",
-    "one_liner": "Replacing the spreadsheets and email chains that run every warehouse…",
-    "team_size": 13,
-    "industry": "B2B",
-    "subindustry": "B2B -> Supply Chain and Logistics",
-    "launched_at": 1674704550,
-    "tags": [
-      "SaaS",
-      "B2B",
-      "Logistics",
-      "Enterprise Software",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Winter 2023",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Supply Chain and Logistics"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Growth",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/conduit",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2023/conduit.json"
-  },
-  {
     "id": 28111,
     "name": "Berry",
     "slug": "berry",
@@ -16598,7 +16605,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2023",
     "status": "Active",
@@ -18354,95 +18361,6 @@
     "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2024/quary.json"
   },
   {
-    "id": 29263,
-    "name": "Alex",
-    "slug": "alex-com",
-    "former_names": [
-      "Apriora"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ea398f420376203b7d9380b70500e67185b63403.png",
-    "website": "https://alex.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Alex is an agentic AI recruiter for the future of hiring. Companies use us to get the best hiring signal on their applicant pool and hire in a fraction of the time.\r\nOur AI recruiter has a live conversation over a video call with each of your candidates based on the interview questions you choose or that are recommended based on the job description. During the interview, our AI asks personalized follow-up questions in real-time based on the candidate's responses.\r\nOur AI recruiter can be customized to your roles in minutes and has already conducted thousands of interviews across engineering, IT, retail, hospitality, and more.",
-    "one_liner": "Your AI recruiter for interviewing and identifying the best talent",
-    "team_size": 30,
-    "industry": "B2B",
-    "subindustry": "B2B -> Recruiting and Talent",
-    "launched_at": 1703103445,
-    "tags": [
-      "SaaS",
-      "B2B",
-      "Recruiting",
-      "HR Tech",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Winter 2024",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Recruiting and Talent"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/alex-com",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2024/alex-com.json"
-  },
-  {
-    "id": 29273,
-    "name": "Pivot Robotics",
-    "slug": "pivot-robotics",
-    "former_names": [
-      "Pivot AI",
-      "Pivot Robots"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ee0d44cf8688258862f3d2457491a3a79d07f53c.png",
-    "website": "https://pivotrobotics.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Pivot Robotics makes AI software for robotic arms that helps manufacturers automate their most labor intensive tasks. We are starting out with the dangerous task of metal grinding and are currently deploying our software on 10+ robots in a cast-iron foundry. ",
-    "one_liner": "AI for Robot Arms in Factories",
-    "team_size": 6,
-    "industry": "Industrials",
-    "subindustry": "Industrials -> Manufacturing and Robotics",
-    "launched_at": 1709584102,
-    "tags": [
-      "Robotics",
-      "AI",
-      "Industrial"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Winter 2024",
-    "status": "Active",
-    "industries": [
-      "Industrials",
-      "Manufacturing and Robotics"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/pivot-robotics",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2024/pivot-robotics.json"
-  },
-  {
     "id": 29285,
     "name": "Patchwork",
     "slug": "patchwork",
@@ -19410,49 +19328,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/vibrant-labs",
     "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2024/vibrant-labs.json"
-  },
-  {
-    "id": 29348,
-    "name": "Parallel",
-    "slug": "parallel",
-    "former_names": [
-      "Kiosk"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/49003875f2b0e7d5e2b5e10ad67e7b43f3aeb43f.png",
-    "website": "https://www.beparallel.com/?utm_source=ycombinator&utm_medium=directory",
-    "all_locations": "Paris, Île-de-France, France",
-    "long_description": "We build AI agents that automate healthcare admin workflows. Our agents navigate legacy hospital software like humans (using mouse and keyboard) and automate end-to-end workflows (starting with medical coding), freeing medical professionals from manual tasks.",
-    "one_liner": "AI agents for healthcare admin",
-    "team_size": 15,
-    "industry": "Healthcare",
-    "subindustry": "Healthcare -> Healthcare IT",
-    "launched_at": 1707957478,
-    "tags": [
-      "Healthcare",
-      "Automation",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2024",
-    "status": "Active",
-    "industries": [
-      "Healthcare",
-      "Healthcare IT"
-    ],
-    "regions": [
-      "France",
-      "Europe"
-    ],
-    "stage": "Growth",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/parallel",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2024/parallel.json"
   },
   {
     "id": 29354,
@@ -24778,7 +24653,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Fall 2024",
     "status": "Active",
@@ -25321,52 +25196,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/unusual",
     "api": "https://prajjwal2-3.github.io/yc-data/batches/fall-2024/unusual.json"
-  },
-  {
-    "id": 30067,
-    "name": "Beglaubigt.de",
-    "slug": "beglaubigtde",
-    "former_names": [
-      "Openlaw",
-      "Platus"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/701b2bc3a4abc9947cd6ce87bda2ed1d5e17653c.png",
-    "website": "https://beglaubigt.de/en-us",
-    "all_locations": "Munich, BY, Germany",
-    "long_description": "Beglaubigt.de is building the digital back-office for European founders. Our German brand Beglaubigt.de is the market-leading platform for digital company formations and notarizations - reducing GmbH incorporations from 6–8 weeks to as little as 3 days. \r\n\r\nThrough Germany's first fully automated incorporation API, we power the formation flows of partners like Qonto, Holvi, and Sevdesk. We're now expanding the stack into ongoing business operations: registered addresses, trade registrations, bookkeeping, and the full legal back-office.",
-    "one_liner": "The legal back-office for European founders - the incorporation API…",
-    "team_size": 15,
-    "industry": "B2B",
-    "subindustry": "B2B -> Legal",
-    "launched_at": 1731569238,
-    "tags": [
-      "B2B",
-      "Workflow Automation",
-      "Compliance",
-      "LegalTech",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Fall 2024",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Legal"
-    ],
-    "regions": [
-      "Germany",
-      "Europe"
-    ],
-    "stage": "Early",
-    "app_video_public": true,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/beglaubigtde",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/fall-2024/beglaubigtde.json"
   },
   {
     "id": 30068,
@@ -28876,6 +28705,51 @@
     "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2025/bramante-biologics.json"
   },
   {
+    "id": 30518,
+    "name": "Orchid",
+    "slug": "orchid-ai",
+    "former_names": [
+      "Mail0",
+      "Zero"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4a9494b7b3b62fcb0adb7a5568c37003e022974d.png",
+    "website": "https://orchid.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Orchid is an executive assistant that lives in iMessage, handling your inbox and calendar so you don't have to.",
+    "one_liner": "Your personal exec, in iMessage",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B -> Productivity",
+    "launched_at": 1746733443,
+    "tags": [
+      "AI",
+      "AI Assistant"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Productivity"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/orchid-ai",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2025/orchid-ai.json"
+  },
+  {
     "id": 30519,
     "name": "Hemut",
     "slug": "hemut",
@@ -28984,7 +28858,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Spring 2025",
     "status": "Active",
@@ -31634,6 +31508,48 @@
     "api": "https://prajjwal2-3.github.io/yc-data/batches/fall-2025/brickanta.json"
   },
   {
+    "id": 30845,
+    "name": "Structured AI",
+    "slug": "structured-ai",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7b994637fa890bb7d41d69d022b3d15f6e4f3e8c.png",
+    "website": "https://www.getstructured.ai/",
+    "all_locations": "New York, NY, USA",
+    "long_description": "Structured AI is building the AI workforce for construction design engineering, starting with AI agents that perform quality control on technical documents and drawings. Our agents learn your standards, apply the right building codes, and automatically review your drawings, so you see fewer clashes, fewer inconsistencies, and fewer costly RFIs and change orders.\r\n\r\n⚙️ Automates QA/QC across mechanical, electrical, structural and more\r\n🧩 Used by multi-disciplinary design firms to deliver projects faster with less risk\r\n🚀 Mission: Free engineers to focus on creative design, not repetitive admin",
+    "one_liner": "AI workforce for Construction Engineering",
+    "team_size": 10,
+    "industry": "Real Estate and Construction",
+    "subindustry": "Real Estate and Construction -> Construction",
+    "launched_at": 1759212406,
+    "tags": [
+      "Computer Vision",
+      "Construction",
+      "Architecture",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Fall 2025",
+    "status": "Active",
+    "industries": [
+      "Real Estate and Construction",
+      "Construction"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/structured-ai",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/fall-2025/structured-ai.json"
+  },
+  {
     "id": 30849,
     "name": "MOVEdot",
     "slug": "movedot",
@@ -32670,8 +32586,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e240d7b6e048d06c397f1f72707e3cd4fc0ad63d.png",
     "website": "https://useboom.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Boom builds the AI employee for e-commerce — an agent that manages every customer interaction across WhatsApp, Instagram, TikTok, Facebook, and web chat. It answers product questions, supports customers with orders, follows up on abandoned checkouts, restocks, and repeat purchases, and even runs marketing campaigns. Brands simply connect Boom to their store, and their AI agent instantly starts selling, supporting, and following up like a real team member — no setup or flow-building required.\r\n\r\nE-commerce is a $6T market where brands spend heavily to bring customers in, only to lose over 99% of them before checkout. Boom fixes that by turning every missed conversation into a sales opportunity. Our clients increase conversion rates and deliver a concierge-like buying experience at scale. We believe that in the near future, every online store will have AI employees managing sales and customer relationships — and Boom is building the platform that makes that possible.",
-    "one_liner": "AI growth team for e-commerce brands",
+    "long_description": "Boom reaches out to your customers before you lose them.\r\n\r\nWe run proactive outbound conversations at scale: recovering churned users, re-engaging drop-offs, and protecting revenue you thought was gone. AI agents hold real conversations with your customers over SMS, email, WhatsApp, or phone, in their language, on the channel they actually answer.\r\n\r\nEvery month, companies lose 5-15% of revenue to churn, and more walks out through abandoned signups and failed onboarding. The tools built to fix this don't work. Win-back emails get ignored. Cancel flows only catch people at the door. Hiring humans doesn't scale. Boom does the one thing that works: a real conversation. 1,000x the reach of manual outreach, and the customer can reply.",
+    "one_liner": "AI agents that recover lost revenue through real conversations.",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B",
@@ -33478,6 +33394,50 @@
     "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2026/inventoryquant.json"
   },
   {
+    "id": 31216,
+    "name": "Archal",
+    "slug": "archal",
+    "former_names": [
+      "Archal Labs"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d5457b412312bd26ecc72ccead99d16248cd087a.png",
+    "website": "https://www.archal.ai/",
+    "all_locations": "Boulder, CO, USA",
+    "long_description": "Archal is the staging environment for AI agents. Agents can now write to databases, trigger payments, and push code to production, but dev teams today have no reliable way to test them. We created Archal because we as developers found it frustrating that only way to know what an agent would do in production is to put it in production, meaning you can only discover failures after the damage is done. \r\n\r\nArchal solves this gap by creating stateful clones of software services at scale, so agents can be tested against realistic environments before deployment. These clones carry the business logic and edge cases that make them indistinguishable from the real services to AI agents, meaning agents and harnesses can be tested before they enter production.\r\n\r\nOur platform goes beyond agents by being the ideal platform for testing any outward interacting software. Any code that creates tickets, sends messages, implements business logic should be tested, but mocks are insufficient. Our simulation of software worlds solves this problem, changing the nature of what can feasibly be tested by developers.\r\n\r\nYou would never hire an employee without interviewing them or force push code to the real world. Why would you do the equivalent for an agent?",
+    "one_liner": "The eval platform for autonomous software",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1776709029,
+    "tags": [
+      "Developer Tools",
+      "API",
+      "Infrastructure",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/archal",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2026/archal.json"
+  },
+  {
     "id": 31222,
     "name": "Superset",
     "slug": "superset",
@@ -34100,6 +34060,50 @@
     "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/sherpa.json"
   },
   {
+    "id": 31410,
+    "name": "RentAHuman",
+    "slug": "rentahuman",
+    "former_names": [
+      "RentAHuman AI"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7890eeb84993f21c597e6eedfe3a2e603178f14f.png",
+    "website": "https://rentahuman.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "",
+    "one_liner": "Marketplace for AI agents to hire humans.",
+    "team_size": 3,
+    "industry": "Consumer",
+    "subindustry": "Consumer -> Job and Career Services",
+    "launched_at": 1776727730,
+    "tags": [
+      "Marketplace",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "Consumer",
+      "Job and Career Services"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/rentahuman",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/rentahuman.json"
+  },
+  {
     "id": 31418,
     "name": "Taiga",
     "slug": "taiga",
@@ -34237,7 +34241,7 @@
     "one_liner": "We help managers regain control of their organisations",
     "team_size": 3,
     "industry": "B2B",
-    "subindustry": "B2B",
+    "subindustry": "B2B -> Operations",
     "launched_at": 1773487694,
     "tags": [
       "B2B",
@@ -34252,7 +34256,8 @@
     "batch": "Spring 2026",
     "status": "Active",
     "industries": [
-      "B2B"
+      "B2B",
+      "Operations"
     ],
     "regions": [
       "United States of America",
@@ -34436,6 +34441,48 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/ardent",
     "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/ardent.json"
+  },
+  {
+    "id": 31481,
+    "name": "Saudara AI",
+    "slug": "saudara-ai",
+    "former_names": [
+      "Saudara AI Inc."
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1c4216679eb008bbc4571315894d674d507a751f.png",
+    "website": "https://saudara.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Indonesian exports to the US grew 23% in 2025 up to over $30B. The shift is happening. Most brands just don't have the on-ramp yet.\r\n\r\nSaudara AI is an AI-native sourcing agency connecting American brands with Indonesian suppliers across apparel, textiles, home goods, supplements, and raw materials. Our AI agent finds your factory, handles vetting, sampling, and delivery. A human is in the loop at every stage.\r\n\r\nNo more ghosting. No more waiting months for supplier updates. You always know where your order stands.\r\n\r\nWe are the on-ramp.",
+    "one_liner": "AI-native Sourcing Agency",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1774887463,
+    "tags": [
+      "Marketplace",
+      "B2B",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/saudara-ai",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/saudara-ai.json"
   },
   {
     "id": 31489,

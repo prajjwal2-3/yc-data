@@ -12646,10 +12646,10 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2021",
-    "status": "Active",
+    "status": "Inactive",
     "industries": [
       "B2B",
       "Finance and Accounting"
@@ -18126,7 +18126,7 @@
     "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2021",
-    "status": "Active",
+    "status": "Inactive",
     "industries": [
       "B2B",
       "Retail"
@@ -25793,7 +25793,7 @@
     "all_locations": "Paris, Île-de-France, France",
     "long_description": "Windmill is an open-source developer platform that turns scripts into workflows, internal tools, and full-stack apps.\r\n\r\nWrite scripts in Python, TypeScript, Go, Bash, Rust, SQL - Windmill auto-generates UIs from their parameters, handles dependencies, credentials, permissions, and scheduling so you focus on business logic, not infra.\r\n                                                                                     \r\nOpen-source alternative to Airflow, Temporal, Retool and n8n. Chain scripts into flows with branching, parallelism, retries. Build dashboards with the app builder. Trigger via cron, webhook, or UI. All-in-one runtime, editor, secret manager, and OAuth platform - enterprise-ready out of the box.\r\n                                                                                                                            \r\nStack: Rust / TypeScript + Svelte / PostgreSQL. Self-hostable, easy to deploy, built for performance and DX.",
     "one_liner": "Open-source platform to turn scripts into internal apps & workflows",
-    "team_size": 10,
+    "team_size": 7,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1651798285,
@@ -26346,9 +26346,9 @@
     "subindustry": "Fintech",
     "launched_at": 1654737893,
     "tags": [
-      "Artificial Intelligence",
       "Fintech",
       "B2B",
+      "AI",
       "AI Assistant"
     ],
     "tags_highlighted": [],
@@ -28461,10 +28461,10 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/bad003b9e6b5d5aa5f2dbd605812cd3b2604a327.png",
     "website": "https://rift.com",
-    "all_locations": "San Francisco, CA, USA; Remote",
-    "long_description": "rift is a sales platform that helps salespeople focus on what they do best – selling.\r\n\r\nOn rift, you can accomplish everything you have to do to close deals - send emails, run sequences, cold call, and book meetings.\r\n\r\nThe difference is that rift automates everything in between. If your data is a bit messy - we’ll clean it for you. If it takes a long time to figure out who to reach out to - our platform will flag the most likely leads to engage. If your emails are landing in spam - rift will set up the infrastructure to make sure that you're not landing in spam because of incorrect setup.\r\n\r\nSales teams today spend 70% of their time not selling. rift’s mission is to give that time back to them so they can focus on selling again.\r\n",
-    "one_liner": "The sales platform built to help you focus",
-    "team_size": 8,
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "rift is B2B lead routing made simple.\r\n\r\nInbound workflows leak revenue at every step. Routing is manual. Calendar links are generic. No-shows go unrecovered. The handoff between form fill and booked meeting is where pipeline quietly dies.\r\n\r\nrift fixes that. One system for the full inbound lifecycle:\r\n> Capture. Custom web forms that collect and qualify leads in real time.\r\n> Route. Instant validation, enrichment, and assignment to the right rep.\r\n> Schedule. Top prospects get the best calendar slots, matched to real availability.\r\n> Recover. No-shows and ghosted leads are automatically re-engaged.\r\n\r\nrift is built by growth engineers who ran inbound at high-velocity B2B companies and got tired of watching pipeline fall through the cracks.\r\n\r\nrift is the system we wished existed — opinionated, fast, and wired into the tools sales teams already use: HubSpot, Apollo, Google Calendar, Gmail, Slack, Zoom, Stripe, and more.\r\n\r\nBacked by Y Combinator (W23) and Sequoia Capital.\r\n\r\nnever lose an inbound lead → rift.com\r\n",
+    "one_liner": "B2B lead routing made simple",
+    "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Sales",
     "launched_at": 1676577207,
@@ -28485,9 +28485,7 @@
     ],
     "regions": [
       "United States of America",
-      "America / Canada",
-      "Remote",
-      "Fully Remote"
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -28659,7 +28657,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2023",
     "status": "Active",
@@ -31957,18 +31955,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f9fd269cc7d10c65c452d836b7ba980b58a0c084.png",
     "website": "http://helloconduit.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Conduit systemizes the planning and execution of dock and yard operations into one platform — dock scheduling, driver check-in, yard management, and compliance documentation. Our workflows give operators leverage to increase throughput and reduce waste. Our platform produces the clean, structured data that makes AI possible — data that doesn't exist elsewhere.\r\n\r\nThe dock is where physical custody of goods changes hands — the most consequential moment in the supply chain, and the least invested-in. WMS stops at staging. TMS doesn't reach the dock. Everything in between is still running on email, spreadsheets, and clipboards. We're closing that gap for the 99% of warehouses that legacy systems were never designed to serve.",
-    "one_liner": "Replacing the spreadsheets and email chains that run every warehouse…",
-    "team_size": 13,
+    "long_description": "Conduit is the operating system for shipping and receiving. We build software that systemizes the planning and execution of work on the loading dock and in the yard — giving operators real-time visibility, accountability, and automation across every site they run.\r\n\r\nWe're a small team (<20 people) with real traction: 100+ customers, 172% NRR, and zero churn. We're backed by Innovation Endeavors and Y Combinator, and we recently closed a $6M Seed round.\r\n\r\nWe're based in San Francisco and Seattle, and work hybrid. We move fast, give people real ownership early, and build in a way that most companies don't allow — direct customer access, minimal process, and full access to AI tools.",
+    "one_liner": "The operating system for shipping and receiving.",
+    "team_size": 15,
     "industry": "B2B",
     "subindustry": "B2B -> Supply Chain and Logistics",
     "launched_at": 1674704550,
     "tags": [
+      "Artificial Intelligence",
       "SaaS",
       "B2B",
       "Logistics",
-      "Enterprise Software",
-      "AI"
+      "Enterprise Software"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -31986,7 +31984,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -35157,18 +35155,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ea398f420376203b7d9380b70500e67185b63403.png",
     "website": "https://alex.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Alex is an agentic AI recruiter for the future of hiring. Companies use us to get the best hiring signal on their applicant pool and hire in a fraction of the time.\r\nOur AI recruiter has a live conversation over a video call with each of your candidates based on the interview questions you choose or that are recommended based on the job description. During the interview, our AI asks personalized follow-up questions in real-time based on the candidate's responses.\r\nOur AI recruiter can be customized to your roles in minutes and has already conducted thousands of interviews across engineering, IT, retail, hospitality, and more.",
+    "long_description": "Alex is an agentic AI recruiter for the future of hiring. Companies use us to get the best hiring signal on their applicant pool and hire in a fraction of the time.\r\n\r\nOur AI recruiter, Alex, has a live conversation over a video call with each of your candidates based on the interview questions you choose or that are recommended based on the job description. During the interview, Alex asks personalized follow-up questions in real-time based on the candidate's responses.\r\n\r\nAlex can be customized to your roles in minutes and has already conducted thousands of interviews across engineering, IT, retail, hospitality, and more.",
     "one_liner": "Your AI recruiter for interviewing and identifying the best talent",
     "team_size": 30,
     "industry": "B2B",
     "subindustry": "B2B -> Recruiting and Talent",
     "launched_at": 1703103445,
     "tags": [
+      "Artificial Intelligence",
       "SaaS",
       "B2B",
       "Recruiting",
-      "HR Tech",
-      "AI"
+      "HR Tech"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -38266,7 +38264,7 @@
       "Inc."
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/088175fa9125ef3885f5ea688b7630e8021bece3.png",
-    "website": "https://tandem.space/",
+    "website": "https://tandemspace.com/",
     "all_locations": "",
     "long_description": "The pandemic reduced office use nationwide by 50%, and tenants have been left to deal with highly inflexible, long term lease agreements that don’t fit today’s office use patterns.\r\n\r\nThe traditional brokerage model works great for big spaces and long terms. But when you want to talk smaller units, short term lengths, shared and common areas, you’re out of luck. \r\n\r\nTandem is an AI-native office leasing platform. We’re using technology to unlock an easier leasing process.   Our AI co-pilot provides a white-glove-quality B2B office search experience, with a fraction of the human labor typically required.\r\n\r\nToday we’re serving three primary markets — NY, SF and BOS.  We’ve helped more than 500 companies find great office space and have seen double-digit month-over-month growth.",
     "one_liner": "AI-native office leasing agent",
@@ -40438,7 +40436,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Fall 2024",
     "status": "Active",
@@ -40764,52 +40762,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/lingodotdev",
     "api": "https://prajjwal2-3.github.io/yc-data/batches/fall-2024/lingodotdev.json"
-  },
-  {
-    "id": 30067,
-    "name": "Beglaubigt.de",
-    "slug": "beglaubigtde",
-    "former_names": [
-      "Openlaw",
-      "Platus"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/701b2bc3a4abc9947cd6ce87bda2ed1d5e17653c.png",
-    "website": "https://beglaubigt.de/en-us",
-    "all_locations": "Munich, BY, Germany",
-    "long_description": "Beglaubigt.de is building the digital back-office for European founders. Our German brand Beglaubigt.de is the market-leading platform for digital company formations and notarizations - reducing GmbH incorporations from 6–8 weeks to as little as 3 days. \r\n\r\nThrough Germany's first fully automated incorporation API, we power the formation flows of partners like Qonto, Holvi, and Sevdesk. We're now expanding the stack into ongoing business operations: registered addresses, trade registrations, bookkeeping, and the full legal back-office.",
-    "one_liner": "The legal back-office for European founders - the incorporation API…",
-    "team_size": 15,
-    "industry": "B2B",
-    "subindustry": "B2B -> Legal",
-    "launched_at": 1731569238,
-    "tags": [
-      "B2B",
-      "Workflow Automation",
-      "Compliance",
-      "LegalTech",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Fall 2024",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Legal"
-    ],
-    "regions": [
-      "Germany",
-      "Europe"
-    ],
-    "stage": "Early",
-    "app_video_public": true,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/beglaubigtde",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/fall-2024/beglaubigtde.json"
   },
   {
     "id": 30075,
@@ -45715,7 +45667,7 @@
     "all_locations": "Bengaluru, KA, India",
     "long_description": "Bolna handles the complexity of voice infra, so enterprises can automate calls faster, better, and cheaper, at scale\r\n\r\nBolna is a Voice AI Orchestration platform purpose-built for Indian enterprises.\r\nBusinesses in India run tens of thousands of calls every day - across sales, support, collections, recruitment, and more. Bolna gives them the power to build and deploy Voice AI Agents directly from their transcripts and FAQs, so they can start automating calls immediately.\r\n\r\nWith Bolna, enterprises get:\r\n\r\n1. Full control over agent intelligence, tone, and workflows\r\n2. Cost efficiency at scale with smart routing across providers and price points\r\n3. Enterprise-grade performance on latency, interruptions, multi-language, and multi-accent understanding\r\n\r\n",
     "one_liner": "Voice AI to enable India's next billion",
-    "team_size": 5,
+    "team_size": 21,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1758900227,
@@ -46922,8 +46874,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e240d7b6e048d06c397f1f72707e3cd4fc0ad63d.png",
     "website": "https://useboom.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Boom builds the AI employee for e-commerce — an agent that manages every customer interaction across WhatsApp, Instagram, TikTok, Facebook, and web chat. It answers product questions, supports customers with orders, follows up on abandoned checkouts, restocks, and repeat purchases, and even runs marketing campaigns. Brands simply connect Boom to their store, and their AI agent instantly starts selling, supporting, and following up like a real team member — no setup or flow-building required.\r\n\r\nE-commerce is a $6T market where brands spend heavily to bring customers in, only to lose over 99% of them before checkout. Boom fixes that by turning every missed conversation into a sales opportunity. Our clients increase conversion rates and deliver a concierge-like buying experience at scale. We believe that in the near future, every online store will have AI employees managing sales and customer relationships — and Boom is building the platform that makes that possible.",
-    "one_liner": "AI growth team for e-commerce brands",
+    "long_description": "Boom reaches out to your customers before you lose them.\r\n\r\nWe run proactive outbound conversations at scale: recovering churned users, re-engaging drop-offs, and protecting revenue you thought was gone. AI agents hold real conversations with your customers over SMS, email, WhatsApp, or phone, in their language, on the channel they actually answer.\r\n\r\nEvery month, companies lose 5-15% of revenue to churn, and more walks out through abandoned signups and failed onboarding. The tools built to fix this don't work. Win-back emails get ignored. Cancel flows only catch people at the door. Hiring humans doesn't scale. Boom does the one thing that works: a real conversation. 1,000x the reach of manual outreach, and the customer can reply.",
+    "one_liner": "AI agents that recover lost revenue through real conversations.",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B",
@@ -47740,7 +47692,7 @@
     "one_liner": "We help managers regain control of their organisations",
     "team_size": 3,
     "industry": "B2B",
-    "subindustry": "B2B",
+    "subindustry": "B2B -> Operations",
     "launched_at": 1773487694,
     "tags": [
       "B2B",
@@ -47755,7 +47707,8 @@
     "batch": "Spring 2026",
     "status": "Active",
     "industries": [
-      "B2B"
+      "B2B",
+      "Operations"
     ],
     "regions": [
       "United States of America",
@@ -48027,7 +47980,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1c4216679eb008bbc4571315894d674d507a751f.png",
     "website": "https://saudara.ai",
-    "all_locations": "",
+    "all_locations": "San Francisco, CA, USA",
     "long_description": "Indonesian exports to the US grew 23% in 2025 up to over $30B. The shift is happening. Most brands just don't have the on-ramp yet.\r\n\r\nSaudara AI is an AI-native sourcing agency connecting American brands with Indonesian suppliers across apparel, textiles, home goods, supplements, and raw materials. Our AI agent finds your factory, handles vetting, sampling, and delivery. A human is in the loop at every stage.\r\n\r\nNo more ghosting. No more waiting months for supplier updates. You always know where your order stands.\r\n\r\nWe are the on-ramp.",
     "one_liner": "AI-native Sourcing Agency",
     "team_size": 2,
@@ -48035,9 +47988,9 @@
     "subindustry": "B2B",
     "launched_at": 1774887463,
     "tags": [
-      "Artificial Intelligence",
       "Marketplace",
-      "B2B"
+      "B2B",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -48049,7 +48002,8 @@
       "B2B"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,

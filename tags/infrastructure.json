@@ -3730,7 +3730,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Spring 2025",
     "status": "Active",
@@ -4109,7 +4109,7 @@
     "all_locations": "Bengaluru, KA, India",
     "long_description": "Bolna handles the complexity of voice infra, so enterprises can automate calls faster, better, and cheaper, at scale\r\n\r\nBolna is a Voice AI Orchestration platform purpose-built for Indian enterprises.\r\nBusinesses in India run tens of thousands of calls every day - across sales, support, collections, recruitment, and more. Bolna gives them the power to build and deploy Voice AI Agents directly from their transcripts and FAQs, so they can start automating calls immediately.\r\n\r\nWith Bolna, enterprises get:\r\n\r\n1. Full control over agent intelligence, tone, and workflows\r\n2. Cost efficiency at scale with smart routing across providers and price points\r\n3. Enterprise-grade performance on latency, interruptions, multi-language, and multi-accent understanding\r\n\r\n",
     "one_liner": "Voice AI to enable India's next billion",
-    "team_size": 5,
+    "team_size": 21,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1758900227,
@@ -4527,6 +4527,50 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/approxima",
     "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2026/approxima.json"
+  },
+  {
+    "id": 31216,
+    "name": "Archal",
+    "slug": "archal",
+    "former_names": [
+      "Archal Labs"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d5457b412312bd26ecc72ccead99d16248cd087a.png",
+    "website": "https://www.archal.ai/",
+    "all_locations": "Boulder, CO, USA",
+    "long_description": "Archal is the staging environment for AI agents. Agents can now write to databases, trigger payments, and push code to production, but dev teams today have no reliable way to test them. We created Archal because we as developers found it frustrating that only way to know what an agent would do in production is to put it in production, meaning you can only discover failures after the damage is done. \r\n\r\nArchal solves this gap by creating stateful clones of software services at scale, so agents can be tested against realistic environments before deployment. These clones carry the business logic and edge cases that make them indistinguishable from the real services to AI agents, meaning agents and harnesses can be tested before they enter production.\r\n\r\nOur platform goes beyond agents by being the ideal platform for testing any outward interacting software. Any code that creates tickets, sends messages, implements business logic should be tested, but mocks are insufficient. Our simulation of software worlds solves this problem, changing the nature of what can feasibly be tested by developers.\r\n\r\nYou would never hire an employee without interviewing them or force push code to the real world. Why would you do the equivalent for an agent?",
+    "one_liner": "The eval platform for autonomous software",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1776709029,
+    "tags": [
+      "Developer Tools",
+      "API",
+      "Infrastructure",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/archal",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2026/archal.json"
   },
   {
     "id": 31283,
