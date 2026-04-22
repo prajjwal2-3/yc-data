@@ -1326,7 +1326,7 @@
       "Remote",
       "Fully Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": true,
     "app_answers": null,
@@ -1422,6 +1422,51 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/assemblyai",
     "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2017/assemblyai.json"
+  },
+  {
+    "id": 1703,
+    "name": "FollowUpThen",
+    "slug": "followupthen",
+    "former_names": [
+      "FollowUpThen",
+      "Inc",
+      "Gopher"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/793024bcad049e570384ad1ef56b89ad94fe10db.png",
+    "website": "https://www.followupthen.com/",
+    "all_locations": "San Jose, CA, USA",
+    "long_description": "FollowUpThen is a personal assistant that sends you exactly what you need at exactly the right moment to get something done. Its best feature is its simplicity. Email 1min@followupthen.com, 1hour@followupthen.com or {any-time}@followupthen.com and you'll get the email back at that time. But look further and you will find advanced syntax supporting the most nuanced and complex email productivity workflow. Adding a reminder to any email is a one-second operation thanks to your email client's address autocomplete.\r\n\r\nExample use-cases include:\r\n * Following up with sales prospects\r\n * Maintaining relationships\r\n * Task delegation (put FollowUpThen in the bcc field)\r\n * Just-in-time reminders to get a task done (pay bills, etc)\r\n * Hitting inbox zero (forwarding emails to your future)\r\n\r\nIn today's workplace we are bombarded with realtime demands on our attention. FollowUpThen answers this trend by making work more asynchronous, allowing you to place information in the future,  giving you freedom and peace of mind in the present and allowing you actually get something done. Easy to learn. Hard to outgrow. ",
+    "one_liner": "FollowUpThen is an email-based personal assistant that sends you…",
+    "team_size": 1,
+    "industry": "B2B",
+    "subindustry": "B2B -> Productivity",
+    "launched_at": 1496779971,
+    "tags": [
+      "Productivity",
+      "Automation",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2017",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Productivity"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/followupthen",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2017/followupthen.json"
   },
   {
     "id": 1734,
@@ -1557,7 +1602,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -9700,12 +9745,12 @@
     "former_names": [
       "KorrAI Technologies Ltd."
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/eb9d2b3aba4530f352bea1055d57d8a8874049ff.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/33961621d8602321f304fcd55e4abfa80d7569d4.png",
     "website": "https://www.korrai.com",
     "all_locations": "Toronto, ON, Canada",
     "long_description": "KorrAI provides an AI-native workspace for remote desktop risk studies across construction, infrastructure, and mining projects.\r\nOur platform, TRAIL, enables insurers, asset owners, and builders to evaluate site and construction risk in hours instead of weeks by unifying geospatial data, geotechnical reports, catastrophe model outputs, and engineering context into one traceable system.",
     "one_liner": "AI-native workspace for end-to-end desktop studies",
-    "team_size": 17,
+    "team_size": 24,
     "industry": "Real Estate and Construction",
     "subindustry": "Real Estate and Construction -> Construction",
     "launched_at": 1643659113,
@@ -15527,7 +15572,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Summer 2023",
     "status": "Active",
@@ -20590,6 +20635,48 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/aqua-voice",
     "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2024/aqua-voice.json"
+  },
+  {
+    "id": 29452,
+    "name": "Fluently",
+    "slug": "fluently",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ac751ae51071034b75af18536b15a7ec51b6c117.png",
+    "website": "https://getfluently.app/",
+    "all_locations": "Remote",
+    "long_description": "Imagine a human-like English tutor, but 20x cheaper and available 24/7 - that's Fluently!\r\n\r\nFluently made for people who already know the basics of English but want to feel truly confident in real conversations: whether that’s in an interview, a business meeting, or chatting with friends.\r\n\r\nMost English learning apps are built for beginners and don’t help you improve speaking skills.\r\n\r\nWith Fluently, you get:\r\n- Unlimited real-world speaking practice\r\n- Personalized learning plan\r\n- Free English level assessment and progress tracking\r\n- Real progress in English speaking skills\r\n\r\nWe’re non-native founders who know the stress of speaking English in important moments. With deep AI expertise, we built Fluently to solve it.",
+    "one_liner": "Speaking coach for non-native English professionals",
+    "team_size": 2,
+    "industry": "Consumer",
+    "subindustry": "Consumer",
+    "launched_at": 1705338399,
+    "tags": [
+      "Education",
+      "SaaS",
+      "Consumer",
+      "Productivity",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2024",
+    "status": "Active",
+    "industries": [
+      "Consumer"
+    ],
+    "regions": [
+      "Remote",
+      "Fully Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/fluently",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2024/fluently.json"
   },
   {
     "id": 29455,
@@ -27513,6 +27600,50 @@
     "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2025/nao-labs.json"
   },
   {
+    "id": 30406,
+    "name": "BitBoard",
+    "slug": "bitboard",
+    "former_names": [
+      "Realm"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2cd237a1ed9ded0c19b8fecc9c46b0ad45f89c04.png",
+    "website": "https://bitboard.work/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Data analysis with AI agents is great until you realize you want to set up a recurring report or collaborate with your team. We built an agent-first workbook so you don’t have to roll your own dashboards or fumble around in a rigid BI tool.\r\n\r\nConnect your agent of choice to BitBoard and it can generate connected charts, SQL, code, and commentary in a notebook-style UI you can share with your team.",
+    "one_liner": "Let your agent build dashboards and reporting.",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Analytics",
+    "launched_at": 1746992332,
+    "tags": [
+      "B2B",
+      "Analytics",
+      "Data Visualization",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Analytics"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/bitboard",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2025/bitboard.json"
+  },
+  {
     "id": 30409,
     "name": "Notus Autonomous Systems",
     "slug": "notus-autonomous-systems",
@@ -28361,6 +28492,49 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/throxy",
     "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2025/throxy.json"
+  },
+  {
+    "id": 30485,
+    "name": "Anana",
+    "slug": "anana",
+    "former_names": [
+      "DMV-EZ",
+      "cleon",
+      "Cleon"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/51a782f9ec25213533c54cb1e2cb41bde2210c14.png",
+    "website": "https://getanana.com",
+    "all_locations": "New York, NY, USA",
+    "long_description": "AI that understand your hotel brand's DNA, operational procedures, and the importance of guest experience across your properties. From the first touchpoint to post-checkout feedback, Cleon is built for the full arc of the guest journey, capturing signals that can be turned into actions. ",
+    "one_liner": "AI for hotels & resorts",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1748491833,
+    "tags": [
+      "B2B",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2025",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/anana",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2025/anana.json"
   },
   {
     "id": 30487,
@@ -29309,48 +29483,6 @@
     "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2025/adaptional.json"
   },
   {
-    "id": 30605,
-    "name": "Dedalus Labs",
-    "slug": "dedalus-labs",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9448459d24e79ff3a74806f4accea964e7619319.png",
-    "website": "https://www.dedaluslabs.ai/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "1. Multi-model Agents SDK: build production-grade tool-calling agents in 5 lines of code using our open-source, vendor-agnostic SDK. Connect multiple models across providers (eg. Opus 4.6 + Gemini 3 Flash + GPT 5.4) within the same agent to optimize your agentic workflow's cost, latency, efficiency, and performance.\r\n\r\n2. Agents-as-a-Service (AaaS): serve your agent or service as a hosted endpoint that anyone - including OpenClaw and Claude Code - can call.",
-    "one_liner": "Connect any model(s) to any tool(s) and ship hosted agents in minutes.",
-    "team_size": 10,
-    "industry": "B2B",
-    "subindustry": "B2B -> Infrastructure",
-    "launched_at": 1756399069,
-    "tags": [
-      "Developer Tools",
-      "Workflow Automation",
-      "DevOps",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Summer 2025",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Infrastructure"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/dedalus-labs",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2025/dedalus-labs.json"
-  },
-  {
     "id": 30613,
     "name": "Blank Bio",
     "slug": "blank-bio",
@@ -29525,48 +29657,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/playgent",
     "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2025/playgent.json"
-  },
-  {
-    "id": 30625,
-    "name": "ZeroEval",
-    "slug": "zeroeval",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d7ecfb758177e9198eb8221c46198150c3a277ba.png",
-    "website": "https://zeroeval.com",
-    "all_locations": "New York, NY, USA",
-    "long_description": "Our mission is to build self-improving AI agents.\r\n\r\nWe're here to close the last mile reliability gap. \r\n\r\nThrough calibrated llm judges and automatic evaluations, we help companies optimize their agents 10x faster than doing manual experimentation.",
-    "one_liner": "Auto-optimizer for AI agents",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1755052091,
-    "tags": [
-      "AIOps",
-      "Developer Tools",
-      "Generative AI",
-      "SaaS",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2025",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/zeroeval",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2025/zeroeval.json"
   },
   {
     "id": 30626,
@@ -32877,50 +32967,6 @@
     "api": "https://prajjwal2-3.github.io/yc-data/batches/fall-2025/moss.json"
   },
   {
-    "id": 31010,
-    "name": "Amika",
-    "slug": "amika",
-    "former_names": [
-      "Fixpoint"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5a51d3daafd2b7537bb32ea9c3d6bcfa96ba62a1.png",
-    "website": "https://www.amika.dev/",
-    "all_locations": "New York, NY, USA",
-    "long_description": "Amika is infra to build your software factory.\r\n\r\nWe give your team sandboxed AI coding agents in the cloud: the same infrastructure Ramp, Coinbase, and Stripe built in-house. Kick off work from a web UI, CLI, Slack, or API. Use your preferred coding agent (Claude Code, Codex, etc.). Each agent understands your codebase, runs autonomously, and ships real PRs with live previews of the apps it changed. Use it as your daily driver or plug it into your own code-gen pipeline via API.",
-    "one_liner": "Infra to build your own software factory",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Infrastructure",
-    "launched_at": 1759722442,
-    "tags": [
-      "Machine Learning",
-      "B2B",
-      "Infrastructure",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Fall 2025",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Infrastructure"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/amika",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/fall-2025/amika.json"
-  },
-  {
     "id": 31013,
     "name": "Rivet",
     "slug": "rivet-design",
@@ -34188,24 +34234,22 @@
     "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/stablebrowse.json"
   },
   {
-    "id": 31427,
-    "name": "Paper Star",
-    "slug": "paper-star",
+    "id": 31420,
+    "name": "Kimpton AI",
+    "slug": "kimpton-ai",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/422567dd84dd3932adf1b51b5f0ff92c1ee1e2e6.png",
-    "website": "https://www.paperstar.cc/napkin-math",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Napkin Math is the food journal for real people. Stop counting calories, get personalized insights and realistic goals. Easily keep a beautiful food journal, get deep insights on your data with AI, and share your table with friends.",
-    "one_liner": "Building Napkin Math, AI-powered food journaling for real people",
-    "team_size": 3,
-    "industry": "Consumer",
-    "subindustry": "Consumer",
-    "launched_at": 1775700750,
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/472bbf99a385182b4cadc467c7e537399ce04100.png",
+    "website": "https://kimpton.ai",
+    "all_locations": "San Francisco, CA, USA; Remote",
+    "long_description": "Kimpton is the AI research platform for the buy side, built by ex-Goldman engineers who left to start a hedge fund with $10M and ran it for four years before productizing the stack.\r\n\r\nPortfolio managers spend most of their day on work that isn't investing: filings, earnings prep, 13Fs, peer benchmarking, thesis validation, trade writeups. \r\n\r\nKimpton runs all of it autonomously and delivers structured Trade Proposals with full rationale, fitted to a portfolio manager's mandate and strategy. \r\n\r\nRisk profile, style, and constraints live in plain-text mandate.md and strategy.md files that drive every analysis the system performs. \r\n\r\nThe rest of the desk sits alongside: Deep Research cited to source, natural-language Dashboards, Agentic Charting & Backtests, scheduled Skills for recurring workflows, and auto-generated Reports. \r\n\r\nCoverage includes FactSet pricing, fundamentals, estimates, transcripts, ownership, and M&A data, plus live prediction markets from Polymarket.    \r\n\r\nHumans make the decisions. AI does everything else.",
+    "one_liner": "AI for portfolio managers",
+    "team_size": 5,
+    "industry": "Fintech",
+    "subindustry": "Fintech -> Asset Management",
+    "launched_at": 1774039716,
     "tags": [
-      "Consumer",
-      "Fitness",
-      "Digital Health",
-      "Food",
+      "Fintech",
+      "Investing",
       "AI"
     ],
     "tags_highlighted": [],
@@ -34215,61 +34259,22 @@
     "batch": "Spring 2026",
     "status": "Active",
     "industries": [
-      "Consumer"
+      "Fintech",
+      "Asset Management"
     ],
     "regions": [
       "United States of America",
-      "America / Canada"
+      "America / Canada",
+      "Remote",
+      "Fully Remote"
     ],
     "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/paper-star",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/paper-star.json"
-  },
-  {
-    "id": 31428,
-    "name": "Ontora",
-    "slug": "ontora",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/51ba58b94e0a45c3a3cc270067fe72dcf1f9027e.png",
-    "website": "https://ontora.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Ontora gives C-suite leaders AI agents that interview every employee to uncover process bottlenecks across their organization. Consultants spend months doing this manually; Ontora does it in hours",
-    "one_liner": "We help managers regain control of their organisations",
-    "team_size": 3,
-    "industry": "B2B",
-    "subindustry": "B2B -> Operations",
-    "launched_at": 1773487694,
-    "tags": [
-      "B2B",
-      "Analytics",
-      "Operations",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Spring 2026",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Operations"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": true,
-    "url": "https://www.ycombinator.com/companies/ontora",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/ontora.json"
+    "url": "https://www.ycombinator.com/companies/kimpton-ai",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/kimpton-ai.json"
   },
   {
     "id": 31429,

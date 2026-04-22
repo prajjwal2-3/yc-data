@@ -5,7 +5,7 @@
   "former_names": [
     "Fixpoint"
   ],
-  "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5a51d3daafd2b7537bb32ea9c3d6bcfa96ba62a1.png",
+  "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c42840d914de4ea4ec78f647bf0db2e93434ca5d.png",
   "website": "https://www.amika.dev/",
   "all_locations": "New York, NY, USA",
   "long_description": "Amika is infra to build your software factory.\r\n\r\nWe give your team sandboxed AI coding agents in the cloud: the same infrastructure Ramp, Coinbase, and Stripe built in-house. Kick off work from a web UI, CLI, Slack, or API. Use your preferred coding agent (Claude Code, Codex, etc.). Each agent understands your codebase, runs autonomously, and ships real PRs with live previews of the apps it changed. Use it as your daily driver or plug it into your own code-gen pipeline via API.",
@@ -15,10 +15,10 @@
   "subindustry": "B2B -> Infrastructure",
   "launched_at": 1759722442,
   "tags": [
+    "Artificial Intelligence",
     "Machine Learning",
     "B2B",
-    "Infrastructure",
-    "AI"
+    "Infrastructure"
   ],
   "tags_highlighted": [],
   "top_company": false,

@@ -4116,7 +4116,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2018",
     "status": "Active",
@@ -12019,10 +12019,10 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2021",
-    "status": "Active",
+    "status": "Acquired",
     "industries": [
       "B2B"
     ],
@@ -19757,7 +19757,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7d66896afcf3127a39f735586c48cd210cab0a7f.png",
     "website": "https://www.useagave.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "We’re modernizing construction, a $12T global industry run by siloed software built 20-40 years ago (on-prem, no APIs, no mobile access, etc.). \r\n\r\nOur core product is Agave Sync, which helps General and Trade Contractors keep financial data in sync between their field teams on jobsites and their accounting teams in a central back office.",
+    "long_description": "We’re modernizing construction, a $12T global industry run by siloed software built 20-40 years ago (on-prem, no APIs, no mobile access, etc.). \r\n\r\n\r\nConstruction is at a generational inflection point. 41% of the workforce retires by 2031, and AI is forcing contractors to increase efficiency without increasing headcount. \r\n\r\n\r\nAt Agave, we're building the financial operations platform for construction contractors. We reverse-engineered 11+ proprietary ERPs to build a modern API layer, then built critical products contractors needed on top: ERP Sync and AP Automation, with 4 more products coming out this year. Our goal is to be the financial operations platform every construction company in North America runs on. \r\n\r\n\r\nWe're backed by Accel and Y Combinator, with angels from Plaid, Procore, Autodesk, and PlanGrid. Our founding team worked together for 10 years at Graphiq (acq. Amazon) and Amazon before founding Agave.\r\n\r\nThese slides explain our company and market in more detail: https://www.figma.com/deck/nlpdpvRj3iS2qbPXqkMQz0",
     "one_liner": "AI Financial Operations for Construction",
     "team_size": 33,
     "industry": "B2B",
@@ -19780,7 +19780,9 @@
     ],
     "regions": [
       "United States of America",
-      "America / Canada"
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -31984,7 +31986,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -33236,7 +33238,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Summer 2023",
     "status": "Active",
@@ -42770,18 +42772,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2cd237a1ed9ded0c19b8fecc9c46b0ad45f89c04.png",
     "website": "https://bitboard.work/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "BitBoard is an AI-first spreadsheet that lets you build, update, and analyze spreadsheets via agent chat. Handle complex modeling and analysis 10x faster without giving up direct cell-level control when you need it.\r\n\r\nWe wanted the most capable agent and seamless UX, so we built an agent and spreadsheet to work together instead of bolting chat onto a legacy app.",
-    "one_liner": "The best way to use AI for spreadsheets.",
+    "long_description": "Data analysis with AI agents is great until you realize you want to set up a recurring report or collaborate with your team. We built an agent-first workbook so you don’t have to roll your own dashboards or fumble around in a rigid BI tool.\r\n\r\nConnect your agent of choice to BitBoard and it can generate connected charts, SQL, code, and commentary in a notebook-style UI you can share with your team.",
+    "one_liner": "Let your agent build dashboards and reporting.",
     "team_size": 2,
     "industry": "B2B",
-    "subindustry": "B2B -> Operations",
+    "subindustry": "B2B -> Analytics",
     "launched_at": 1746992332,
     "tags": [
-      "Artificial Intelligence",
-      "Finance",
       "B2B",
       "Analytics",
-      "Operations"
+      "Data Visualization",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -42791,7 +42792,7 @@
     "status": "Active",
     "industries": [
       "B2B",
-      "Operations"
+      "Analytics"
     ],
     "regions": [
       "United States of America",
@@ -43201,24 +43202,25 @@
   },
   {
     "id": 30485,
-    "name": "Cleon",
-    "slug": "cleon",
+    "name": "Anana",
+    "slug": "anana",
     "former_names": [
       "DMV-EZ",
-      "cleon"
+      "cleon",
+      "Cleon"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f45e72de8a958a28fb7ae53a3b51322bb3d582a8.png",
-    "website": "https://getcleon.ai",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/51a782f9ec25213533c54cb1e2cb41bde2210c14.png",
+    "website": "https://getanana.com",
     "all_locations": "New York, NY, USA",
-    "long_description": "AI agents that understand your hotel brand's DNA, operational procedures, and the importance of guest experience across your properties. From the first touchpoint to post-checkout feedback, Cleon is built for the full arc of the guest journey, capturing signals that can be turned into actions. ",
-    "one_liner": "AI agents for hotels & resorts",
+    "long_description": "AI that understand your hotel brand's DNA, operational procedures, and the importance of guest experience across your properties. From the first touchpoint to post-checkout feedback, Cleon is built for the full arc of the guest journey, capturing signals that can be turned into actions. ",
+    "one_liner": "AI for hotels & resorts",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1748491833,
     "tags": [
-      "Artificial Intelligence",
-      "B2B"
+      "B2B",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -43238,8 +43240,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/cleon",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2025/cleon.json"
+    "url": "https://www.ycombinator.com/companies/anana",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2025/anana.json"
   },
   {
     "id": 30487,
@@ -47001,7 +47003,7 @@
     "former_names": [
       "Fixpoint"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5a51d3daafd2b7537bb32ea9c3d6bcfa96ba62a1.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c42840d914de4ea4ec78f647bf0db2e93434ca5d.png",
     "website": "https://www.amika.dev/",
     "all_locations": "New York, NY, USA",
     "long_description": "Amika is infra to build your software factory.\r\n\r\nWe give your team sandboxed AI coding agents in the cloud: the same infrastructure Ramp, Coinbase, and Stripe built in-house. Kick off work from a web UI, CLI, Slack, or API. Use your preferred coding agent (Claude Code, Codex, etc.). Each agent understands your codebase, runs autonomously, and ships real PRs with live previews of the apps it changed. Use it as your daily driver or plug it into your own code-gen pipeline via API.",
@@ -47011,10 +47013,10 @@
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1759722442,
     "tags": [
+      "Artificial Intelligence",
       "Machine Learning",
       "B2B",
-      "Infrastructure",
-      "AI"
+      "Infrastructure"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -47689,16 +47691,16 @@
     "website": "https://ontora.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Ontora gives C-suite leaders AI agents that interview every employee to uncover process bottlenecks across their organization. Consultants spend months doing this manually; Ontora does it in hours",
-    "one_liner": "We help managers regain control of their organisations",
+    "one_liner": "AI agents that interview every employee in 24 hours to map how work…",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Operations",
     "launched_at": 1773487694,
     "tags": [
+      "Artificial Intelligence",
       "B2B",
       "Analytics",
-      "Operations",
-      "AI"
+      "Operations"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -47772,7 +47774,7 @@
     "all_locations": "Saratoga, CA, USA",
     "long_description": "Sidekick is an AI-powered SMS assistant for frontline workers in manufacturing, auto dealerships, and retail. The idea came from Justin's father, who owns a manufacturing facility and asked him to build a tool to help with worker onboarding, training, and organizing company knowledge. Workers text questions in any language and get instant answers from their company's documents — no app, no login, works on any phone. They can send photos of equipment for instant identification or voice memos when their hands are dirty or they're wearing gloves. Managers upload documents and record video walkthroughs; Sidekick automatically generates step-by-step tutorials and a searchable knowledge base. When Sidekick can't answer, it escalates to the manager via SMS and learns from the response, getting smarter with every interaction.",
     "one_liner": "AI-powered SMS assistant for deskless workers.",
-    "team_size": 2,
+    "team_size": 1,
     "industry": "B2B",
     "subindustry": "B2B -> Operations",
     "launched_at": 1775584801,

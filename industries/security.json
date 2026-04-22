@@ -3963,20 +3963,21 @@
   },
   {
     "id": 30273,
-    "name": "Haleum",
-    "slug": "haleum",
+    "name": "Candor",
+    "slug": "candor-security",
     "former_names": [
       "Physion Works",
       "Sophris",
       "Mirror",
       "Anomaly",
-      "Bastion"
+      "Bastion",
+      "Haleum"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/59b46aab85b9c220cb06528843d24808f517c5a0.png",
-    "website": "https://haleum.ai/",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4f571d3c338d1e148daee6fd089530bf3ce62ae4.png",
+    "website": "https://candor.security/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Communications channels are your company's most critical blindspots. While traditional monitoring focuses on files and network traffic, risks hide in everyday conversations. Haleum AI leverages the latest in LLMs to stop financial fraud, IP theft, compliance violations, and insider threats across your communication platforms",
-    "one_liner": "Human Risk Intelligence for the AI-era",
+    "long_description": "Insider threats cost the average enterprise $17.4M per year and take up to 3 months to contain. Most of those threats (employees leaking IP, contractors staging data for exfil, accounts misusing AI tools like Copilot) get buried in thousands of noisy alerts from traditional security tools. Candor changes this by telling your security team exactly who to watch before they cause damage. Zero tuning, detection from day one, and it actually learns from analyst feedback.",
+    "one_liner": "Insider Threat for the Modern Enterprise",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Security",
@@ -3987,7 +3988,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Winter 2025",
     "status": "Active",
@@ -4004,8 +4005,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/haleum",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2025/haleum.json"
+    "url": "https://www.ycombinator.com/companies/candor-security",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2025/candor-security.json"
   },
   {
     "id": 30407,

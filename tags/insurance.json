@@ -1771,12 +1771,12 @@
     "former_names": [
       "KorrAI Technologies Ltd."
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/eb9d2b3aba4530f352bea1055d57d8a8874049ff.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/33961621d8602321f304fcd55e4abfa80d7569d4.png",
     "website": "https://www.korrai.com",
     "all_locations": "Toronto, ON, Canada",
     "long_description": "KorrAI provides an AI-native workspace for remote desktop risk studies across construction, infrastructure, and mining projects.\r\nOur platform, TRAIL, enables insurers, asset owners, and builders to evaluate site and construction risk in hours instead of weeks by unifying geospatial data, geotechnical reports, catastrophe model outputs, and engineering context into one traceable system.",
     "one_liner": "AI-native workspace for end-to-end desktop studies",
-    "team_size": 17,
+    "team_size": 24,
     "industry": "Real Estate and Construction",
     "subindustry": "Real Estate and Construction -> Construction",
     "launched_at": 1643659113,
@@ -3040,5 +3040,46 @@
     "question_answers": true,
     "url": "https://www.ycombinator.com/companies/klaimee",
     "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/klaimee.json"
+  },
+  {
+    "id": 31564,
+    "name": "Huscarl",
+    "slug": "huscarl",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f24300b3eb986e7f19356d2f4af0a1aefc7a5841.png",
+    "website": "https://www.huscarl.io/",
+    "all_locations": "Remote",
+    "long_description": "Huscarl is an AI-native actuarial advisory for large companies ($50M+ turnover) to optimize their insurance decisions. Our approach helps them save ~30% premiums for similar coverage, and manage their own risks like an insurance company would.\r\n\r\nOur technology:\r\n- scans through risks and quantifies them\r\n- translates complex B2B insurance policies into actuarial language\r\n- tells if companies are paying the right $ for their coverage\r\n- tells them what to keep, change or kill in their insurance program",
+    "one_liner": "Actuarial intelligence for corporate risk managers",
+    "team_size": 2,
+    "industry": "Fintech",
+    "subindustry": "Fintech -> Insurance",
+    "launched_at": 1776797773,
+    "tags": [
+      "Generative AI",
+      "Insurance",
+      "Customization"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "Fintech",
+      "Insurance"
+    ],
+    "regions": [
+      "Remote",
+      "Fully Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/huscarl",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/huscarl.json"
   }
 ]

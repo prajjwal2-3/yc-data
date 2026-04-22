@@ -888,11 +888,13 @@
   },
   {
     "id": 31427,
-    "name": "Paper Star",
-    "slug": "paper-star",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/422567dd84dd3932adf1b51b5f0ff92c1ee1e2e6.png",
-    "website": "https://www.paperstar.cc/napkin-math",
+    "name": "Napkin Math",
+    "slug": "napkin-math",
+    "former_names": [
+      "Paper Star"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f3186460384778570f52c73ff19cf5b102436f57.png",
+    "website": "https://napkinmath.club",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Napkin Math is the food journal for real people. Stop counting calories, get personalized insights and realistic goals. Easily keep a beautiful food journal, get deep insights on your data with AI, and share your table with friends.",
     "one_liner": "Building Napkin Math, AI-powered food journaling for real people",
@@ -901,11 +903,11 @@
     "subindustry": "Consumer",
     "launched_at": 1775700750,
     "tags": [
+      "Artificial Intelligence",
       "Consumer",
       "Fitness",
       "Digital Health",
-      "Food",
-      "AI"
+      "Food"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -925,7 +927,7 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/paper-star",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/paper-star.json"
+    "url": "https://www.ycombinator.com/companies/napkin-math",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/napkin-math.json"
   }
 ]

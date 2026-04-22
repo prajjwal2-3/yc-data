@@ -6020,7 +6020,7 @@
       "Remote",
       "Fully Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": true,
     "app_answers": null,
@@ -7135,52 +7135,6 @@
     "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2018/acely.json"
   },
   {
-    "id": 1810,
-    "name": "Treasury Prime",
-    "slug": "treasury-prime",
-    "former_names": [
-      "Ronin Financial Technology"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fb0b666cc71eaf3fdcc64a67ec3b353f2339e37f.png",
-    "website": "https://treasuryprime.com",
-    "all_locations": "San Francisco, CA, USA; Remote",
-    "long_description": "Founded in 2017, Treasury Prime is an embedded banking software platform connecting enterprise companies to a vast marketplace of banks and product partners to launch next-gen payment ecosystems on their platform.  Our banking API offers the quickest, most secure way for fintechs and banks to partner, integrate and build modern financial products and increase revenue streams.\r\n\r\nWe power enterprise-class embedded banking solutions for a range of complex services including money transfer, risk mitigation and integration with bank infrastructure. It's these leading-edge capabilities that helped the company to win Best Banking-as-a-Service Platform from Tearsheet in 2021 and 2022. The company was also named to CB Insights’ annual 2021 Fintech 250 list.\r\n",
-    "one_liner": "Embedded banking software platform and marketplace",
-    "team_size": 100,
-    "industry": "Fintech",
-    "subindustry": "Fintech -> Banking and Exchange",
-    "launched_at": 1510113792,
-    "tags": [
-      "Banking as a Service",
-      "Fintech",
-      "B2B",
-      "API"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Winter 2018",
-    "status": "Active",
-    "industries": [
-      "Fintech",
-      "Banking and Exchange"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Fully Remote"
-    ],
-    "stage": "Growth",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/treasury-prime",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2018/treasury-prime.json"
-  },
-  {
     "id": 1815,
     "name": "Players' Lounge",
     "slug": "players-lounge",
@@ -7258,7 +7212,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -8351,54 +8305,6 @@
     "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2018/meru-health.json"
   },
   {
-    "id": 1936,
-    "name": "Vimcal",
-    "slug": "vimcal",
-    "former_names": [
-      "AdSpecter",
-      "CloudWorkout",
-      "Cloud Workout"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b12cac9857ae502090bf009e94dffb302617cdf0.png",
-    "website": "http://www.vimcal.com",
-    "all_locations": "New York, NY, USA; Remote",
-    "long_description": "",
-    "one_liner": "The world's fastest calendar, beautifully designed for remote teams.",
-    "team_size": 9,
-    "industry": "B2B",
-    "subindustry": "B2B -> Productivity",
-    "launched_at": 1525143899,
-    "tags": [
-      "SaaS",
-      "Productivity",
-      "Scheduling",
-      "Calendar"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Summer 2018",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Productivity"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Fully Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/vimcal",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2018/vimcal.json"
-  },
-  {
     "id": 1938,
     "name": "Embeddables",
     "slug": "embeddables",
@@ -8582,6 +8488,49 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/dreamcraft-entertainment-inc",
     "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2018/dreamcraft-entertainment-inc.json"
+  },
+  {
+    "id": 1965,
+    "name": "Pine Park Health",
+    "slug": "pine-park-health",
+    "former_names": [
+      "Togg"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3facf7f7379345c5f8e16d3059db45980ba0aa68.png",
+    "website": "http://pineparkhealth.com",
+    "all_locations": "Oakland, CA, USA",
+    "long_description": "We're a primary care practice that helps residents of senior living communities lead healthier, happy lives.\r\n\r\nOur mission is to keep senior living residents healthy—by keeping them away from hospitals where exposure to health risks is high. Through our new clinical care delivery model, we bring clinicians right into senior living communities, providing safer, more convenient primary care. Pine Park partners with senior living communities to provide primary care to their residents, building a value-based care model where we keep patients healthier. This allows us to provide comprehensive healthcare on-site, see patients regularly, and better support their holistic health.",
+    "one_liner": "We provide primary care in senior living communities.",
+    "team_size": 75,
+    "industry": "Healthcare",
+    "subindustry": "Healthcare -> Healthcare Services",
+    "launched_at": 1525309681,
+    "tags": [
+      "Healthcare"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2018",
+    "status": "Active",
+    "industries": [
+      "Healthcare",
+      "Healthcare Services"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Growth",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/pine-park-health",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2018/pine-park-health.json"
   },
   {
     "id": 1967,
@@ -12655,7 +12604,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -13911,8 +13860,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/cfbbee59804a41493e50bd030cff5d6d1bc8fc97.png",
     "website": "https://upflow.io/en/",
     "all_locations": "New York, NY, USA",
-    "long_description": "Upflow is building cutting-edge technology to transform how B2B businesses get paid by their customers,  and grow profitably.\r\n\r\nB2B payment remains super painful for both suppliers and customers in 2025. Through a one-click integration with major financial software (Netsuite, Sage Intacct, Quickbooks) it provides finance and business teams with:\r\n1. A better understanding of their cash collection performance through powerful analytics\r\n2. An intuitive platform for all teams (finance, sales, success) to collaborate around cash collection, turning archaic spreadsheet processes into systematic, personalized cash collection processes.\r\n3. A platform to bring modern payment methods to customers and recreate a consumer-like checkout experience with one-click payment. \r\n\r\nOverall, Upflow drastically improves cash collection rates and turns revenues into cash in the bank faster and simpler.\r\n\r\nThe best B2B tech companies, such as Front, Lattice, ProductBoard, rely on Upflow to manage their cash collection. If you're a CFO, Controller, or Finance Ops, check out our free Discover product to run an audit of your cash collection in 5 min: https://insights.upflow.io/en/discover-upflow\r\n",
-    "one_liner": "Cash collection tech for B2B businesses.",
+    "long_description": "Upflow builds the reference cash collection platform to help B2B companies get paid faster, more predictably, and with stronger customer relationships.\r\n\r\nToday, the order-to-cash process is mission critical for businesses, yet it remains fragmented across tools, teams, and workflows. Collections, payments, and reconciliation are often manual, reactive, and disconnected from the rest of the business. Upflow brings this entire process into one system — combining data, agentic automation, collaboration, and financial services to turn receivables into a predictable and scalable engine.\r\n\r\nWe serve 500+ companies across 30+ countries, including Vercel, Lattice, Productboard, and are backed by leading investors including Y Combinator, Hedosophia, Hexa, and Lorimer. With teams across the US and Europe, we’re building a category-defining company at the intersection of finance, payments, and AI.\r\n\r\nTo learn more about what we do, visit upflow.io. For a behind-the-scenes look at how we work as a team, head to the Inside Upflow section of our blog at upflow.io/blog/inside-upflow.",
+    "one_liner": "Cash collection tech for B2B businesses",
     "team_size": 50,
     "industry": "Fintech",
     "subindustry": "Fintech -> Payments",
@@ -17638,57 +17587,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/gromo",
     "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2021/gromo.json"
-  },
-  {
-    "id": 22694,
-    "name": "Vogent",
-    "slug": "vogent",
-    "former_names": [
-      "Monoid",
-      "Interlounge",
-      "Gallery",
-      "Brist",
-      "Monoid",
-      "Elto"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b16347eb61c894b16643b846e1734b737dee7d65.png",
-    "website": "https://vogent.ai",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Vogent is an all-in-one platform for building voice agents by using intelligent building blocks, including IVR detection models, custom phone-ready LLMs, drag-and-drop conversational flow builders, and more. ",
-    "one_liner": "Build Voice AI Agents",
-    "team_size": 3,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1628291828,
-    "tags": [
-      "Artificial Intelligence",
-      "SaaS",
-      "B2B",
-      "Sales",
-      "Operations"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Summer 2021",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/vogent",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2021/vogent.json"
   },
   {
     "id": 22699,
@@ -25312,7 +25210,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7d66896afcf3127a39f735586c48cd210cab0a7f.png",
     "website": "https://www.useagave.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "We’re modernizing construction, a $12T global industry run by siloed software built 20-40 years ago (on-prem, no APIs, no mobile access, etc.). \r\n\r\nOur core product is Agave Sync, which helps General and Trade Contractors keep financial data in sync between their field teams on jobsites and their accounting teams in a central back office.",
+    "long_description": "We’re modernizing construction, a $12T global industry run by siloed software built 20-40 years ago (on-prem, no APIs, no mobile access, etc.). \r\n\r\n\r\nConstruction is at a generational inflection point. 41% of the workforce retires by 2031, and AI is forcing contractors to increase efficiency without increasing headcount. \r\n\r\n\r\nAt Agave, we're building the financial operations platform for construction contractors. We reverse-engineered 11+ proprietary ERPs to build a modern API layer, then built critical products contractors needed on top: ERP Sync and AP Automation, with 4 more products coming out this year. Our goal is to be the financial operations platform every construction company in North America runs on. \r\n\r\n\r\nWe're backed by Accel and Y Combinator, with angels from Plaid, Procore, Autodesk, and PlanGrid. Our founding team worked together for 10 years at Graphiq (acq. Amazon) and Amazon before founding Agave.\r\n\r\nThese slides explain our company and market in more detail: https://www.figma.com/deck/nlpdpvRj3iS2qbPXqkMQz0",
     "one_liner": "AI Financial Operations for Construction",
     "team_size": 33,
     "industry": "B2B",
@@ -25335,7 +25233,9 @@
     ],
     "regions": [
       "United States of America",
-      "America / Canada"
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -28682,12 +28582,12 @@
     "former_names": [
       "KorrAI Technologies Ltd."
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/eb9d2b3aba4530f352bea1055d57d8a8874049ff.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/33961621d8602321f304fcd55e4abfa80d7569d4.png",
     "website": "https://www.korrai.com",
     "all_locations": "Toronto, ON, Canada",
     "long_description": "KorrAI provides an AI-native workspace for remote desktop risk studies across construction, infrastructure, and mining projects.\r\nOur platform, TRAIL, enables insurers, asset owners, and builders to evaluate site and construction risk in hours instead of weeks by unifying geospatial data, geotechnical reports, catastrophe model outputs, and engineering context into one traceable system.",
     "one_liner": "AI-native workspace for end-to-end desktop studies",
-    "team_size": 17,
+    "team_size": 24,
     "industry": "Real Estate and Construction",
     "subindustry": "Real Estate and Construction -> Construction",
     "launched_at": 1643659113,
@@ -30309,51 +30209,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/tank-payments",
     "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2022/tank-payments.json"
-  },
-  {
-    "id": 26806,
-    "name": "Illuminant Surgical",
-    "slug": "illuminant-surgical",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7d849bf884b530749e2b233bf2099f94506fbd24.png",
-    "website": "https://www.illuminant.ai/",
-    "all_locations": "Culver City, CA, USA",
-    "long_description": "Illuminant Surgical is building a new way of seeing inside the human body.\r\n\r\nOur breakthrough platform, Skylight™, is the first real-time anatomical projection system, displaying images directly on the patient to give doctors an x-ray vision view for safer interventions.",
-    "one_liner": "A new way of seeing inside the human body.",
-    "team_size": 8,
-    "industry": "Healthcare",
-    "subindustry": "Healthcare -> Medical Devices",
-    "launched_at": 1660310230,
-    "tags": [
-      "Medical Robotics",
-      "Augmented Reality",
-      "Robotic Surgery",
-      "Medical Devices",
-      "Navigation"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Summer 2022",
-    "status": "Active",
-    "industries": [
-      "Healthcare",
-      "Medical Devices"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/illuminant-surgical",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2022/illuminant-surgical.json"
   },
   {
     "id": 26807,
@@ -35488,7 +35343,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -37360,7 +37215,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d261d8dfa76354809d8e5792b2d21ef5d258f8d5.png",
     "website": "https://airgoods.com/",
     "all_locations": "New York, NY, USA",
-    "long_description": "Airgoods is building the future of food and beverage distribution. \r\n\r\nToday, we help emerging brands (think Fishwife, Ghia and David Protein) rapidly grow their wholesale business and earn placement into the nation’s best specialty and natural food stores.",
+    "long_description": "Airgoods is building the future of food and beverage distribution. \r\n\r\nToday, we help thousands of independent grocers and specialty food stores (like Westside Market, Butterfield Market, and Epicurus Gourmet) discover, order, and sell emerging and gourmet brands like Fishwife, David, and Ghia.",
     "one_liner": "Wholesale marketplace for food & beverage",
     "team_size": 10,
     "industry": "B2B",
@@ -37729,6 +37584,50 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/venta-ai",
     "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2023/venta-ai.json"
+  },
+  {
+    "id": 28849,
+    "name": "Agentive",
+    "slug": "agentive",
+    "former_names": [
+      "Audit AI",
+      "Substantive AI"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7205b3549162efdab32a6366db7e49992589fca3.png",
+    "website": "https://www.goagentive.com",
+    "all_locations": "Provo, UT, USA",
+    "long_description": "Agentive is an AI workspace for financial and technology audit firms that leverages context-aware AI agents to perform testing procedures from natural language instructions—just like an audit associate.\r\n\r\nBy combining critical workflows such as audit planning, client document requests, and evidence testing into one seamless platform, Agentive streamlines audit processes, reduces inefficiencies, and frees teams to focus on high-impact areas.\r\n\r\nWe're backed by Y Combinator, Foundation Capital, Dell Technologies Capital, Liquid 2 Ventures, Ritual Capital, UpHonest Capital, and other fantastic investors from the public accounting profession.",
+    "one_liner": "AI Workspace for Audit & Advisory Firms",
+    "team_size": 6,
+    "industry": "B2B",
+    "subindustry": "B2B -> Finance and Accounting",
+    "launched_at": 1687833550,
+    "tags": [
+      "SaaS",
+      "B2B",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2023",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Finance and Accounting"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/agentive",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2023/agentive.json"
   },
   {
     "id": 28860,
@@ -39862,51 +39761,6 @@
     "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2023/giga.json"
   },
   {
-    "id": 29113,
-    "name": "Simbie AI",
-    "slug": "simbie-ai",
-    "former_names": [
-      "PeerWise Medical",
-      "Simbie Health"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/de3ea440a910c4beb43d2c07c03f4dad65d8030c.png",
-    "website": "http://www.simbie.ai",
-    "all_locations": "New York, NY, USA",
-    "long_description": "",
-    "one_liner": "We get patients to their next appointment",
-    "team_size": 5,
-    "industry": "Healthcare",
-    "subindustry": "Healthcare",
-    "launched_at": 1689114050,
-    "tags": [
-      "Artificial Intelligence",
-      "SaaS",
-      "Health Tech"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Summer 2023",
-    "status": "Active",
-    "industries": [
-      "Healthcare"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/simbie-ai",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2023/simbie-ai.json"
-  },
-  {
     "id": 29118,
     "name": "Waldium",
     "slug": "waldium",
@@ -41193,44 +41047,6 @@
     "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2024/alex-com.json"
   },
   {
-    "id": 29267,
-    "name": "Argon AI, Inc.",
-    "slug": "argon-ai-inc",
-    "former_names": [
-      "Incyte Bio",
-      "Inc."
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/422284c71061c1b13b2dea760955ab9a3fa6d01a.png",
-    "website": "https://www.argon-ai.com/",
-    "all_locations": "",
-    "long_description": "Argon AI is a platform where biopharma and life sciences professionals can execute complex and data driven workflows using natural language. We help professionals get thorough answers to questions about clinical trials, existing treatments, healthcare landscape, and the competitive market in minutes rather than months. \r\n\r\nPrior to starting Argon, Samy was responsible for Flatiron Health’s (Roche) first data analytics project which eventually led to the start of the Flatiron Services business unit. There, he saw first-hand the heavily manual process that biopharma companies struggle through to get the insights they need to drive forward their drug development programs. He also helped close over $6M+ in ARR and is an expert in enterprise pharma sales.\r\n\r\nCyrus previously led engineering teams and built 0 to 1 across pre-seed and unicorn startups, managed mission-critical trade generation systems at Bridgewater, and held AI advisory roles at various startups. Cyrus has a duel degree in EE and CS from USC.\r\n\r\nBreakthroughs in AI present an opportunity to reinvent biopharma and life science workflows to reduce the time and cost of bringing treatments to patients where delays in bringing a drug to market can cost a pharma company $3M / day.",
-    "one_liner": "AI for Pharma Intelligence ",
-    "team_size": 2,
-    "industry": "Healthcare",
-    "subindustry": "Healthcare",
-    "launched_at": 1707499674,
-    "tags": [],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Winter 2024",
-    "status": "Active",
-    "industries": [
-      "Healthcare"
-    ],
-    "regions": [
-      "Unspecified"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/argon-ai-inc",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2024/argon-ai-inc.json"
-  },
-  {
     "id": 29269,
     "name": "Garage",
     "slug": "garage-2",
@@ -41904,12 +41720,12 @@
     "former_names": [
       "Zaymo Inc."
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ffeb1af9c08c8389614114b183fb157758499ef6.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b5f257204d98f9d544a5265e0aac1efeeae4f1f3.png",
     "website": "https://zaymo.com",
     "all_locations": "Lehi, UT, USA",
     "long_description": "Recent changes in email clients made it possible to embed a whole website inside an email.  We've built the first email builder that lets Shopify brands create emails that are fully interactive like websites. \r\n\r\nZaymo emails decrease friction and increase conversion for product marketing and data collection.\r\n",
     "one_liner": "Interactive email builder for ecommerce brands",
-    "team_size": 11,
+    "team_size": 13,
     "industry": "B2B",
     "subindustry": "B2B -> Marketing",
     "launched_at": 1701370559,
@@ -49431,6 +49247,45 @@
     "api": "https://prajjwal2-3.github.io/yc-data/batches/fall-2024/crouton.json"
   },
   {
+    "id": 30029,
+    "name": "Moonset Health",
+    "slug": "moonset-health",
+    "former_names": [
+      "Summed AI"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a0e73c4d8c73910405ffe3b999578c9cd45ed9dd.png",
+    "website": "https://www.moonsethealth.com/",
+    "all_locations": "",
+    "long_description": "",
+    "one_liner": "AI for Post-Acute Senior Care (Hospice, Home Health, Skilled Nursing…",
+    "team_size": 4,
+    "industry": "B2B",
+    "subindustry": "B2B -> Sales",
+    "launched_at": 1731882747,
+    "tags": [],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Fall 2024",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Sales"
+    ],
+    "regions": [
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/moonset-health",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/fall-2024/moonset-health.json"
+  },
+  {
     "id": 30030,
     "name": "Candle",
     "slug": "candle",
@@ -52047,6 +51902,53 @@
     "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2025/pluto.json"
   },
   {
+    "id": 30273,
+    "name": "Candor",
+    "slug": "candor-security",
+    "former_names": [
+      "Physion Works",
+      "Sophris",
+      "Mirror",
+      "Anomaly",
+      "Bastion",
+      "Haleum"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4f571d3c338d1e148daee6fd089530bf3ce62ae4.png",
+    "website": "https://candor.security/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Insider threats cost the average enterprise $17.4M per year and take up to 3 months to contain. Most of those threats (employees leaking IP, contractors staging data for exfil, accounts misusing AI tools like Copilot) get buried in thousands of noisy alerts from traditional security tools. Candor changes this by telling your security team exactly who to watch before they cause damage. Zero tuning, detection from day one, and it actually learns from analyst feedback.",
+    "one_liner": "Insider Threat for the Modern Enterprise",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B -> Security",
+    "launched_at": 1740017526,
+    "tags": [
+      "Artificial Intelligence",
+      "Cybersecurity"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Security"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/candor-security",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2025/candor-security.json"
+  },
+  {
     "id": 30274,
     "name": "Trata",
     "slug": "trata",
@@ -54373,41 +54275,6 @@
     "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2025/labric.json"
   },
   {
-    "id": 30471,
-    "name": "Kaizen",
-    "slug": "kaizen",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ffc8188b9194b518de8d9010fba82b955eedab6f.png",
-    "website": "https://kaizenautomation.com",
-    "all_locations": "",
-    "long_description": "Kaizen uses browser agents to automate operational work across legacy web portals. We’re tackling the $300B business process outsourcing market by replacing the manual portal work that powers industries like healthcare, logistics, and financial services.",
-    "one_liner": "Automate anything on the web.",
-    "team_size": 6,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1747626364,
-    "tags": [],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Spring 2025",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "Unspecified"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/kaizen",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2025/kaizen.json"
-  },
-  {
     "id": 30477,
     "name": "Casco",
     "slug": "casco",
@@ -55657,7 +55524,7 @@
     "name": "Dedalus Labs",
     "slug": "dedalus-labs",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9448459d24e79ff3a74806f4accea964e7619319.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7090c5a2d73a4c3057030995d02dc87abae964a5.png",
     "website": "https://www.dedaluslabs.ai/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "1. Multi-model Agents SDK: build production-grade tool-calling agents in 5 lines of code using our open-source, vendor-agnostic SDK. Connect multiple models across providers (eg. Opus 4.6 + Gemini 3 Flash + GPT 5.4) within the same agent to optimize your agentic workflow's cost, latency, efficiency, and performance.\r\n\r\n2. Agents-as-a-Service (AaaS): serve your agent or service as a hosted endpoint that anyone - including OpenClaw and Claude Code - can call.",
@@ -55667,10 +55534,10 @@
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1756399069,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "Workflow Automation",
-      "DevOps",
-      "AI"
+      "DevOps"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -56656,6 +56523,46 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/agenthub-2",
     "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2025/agenthub-2.json"
+  },
+  {
+    "id": 30675,
+    "name": "BootLoop",
+    "slug": "bootloop",
+    "former_names": [
+      "BootLoop",
+      "BootLoop, Inc."
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/93ce55100656a6ea0aa0d88dd475881eab4f5632.png",
+    "website": "https://bootloop.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "BootLoop is building the first AI agent to write and test firmware on real hardware. Existing AI coding assistants fail completely with embedded systems, but our agent ingests datasheets, schematics, and other design files to write firmware in your style and automatically test it on your hardware.",
+    "one_liner": "Firmware in minutes, not months - rigorously tested on real hardware",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1752184530,
+    "tags": [],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/bootloop",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2025/bootloop.json"
   },
   {
     "id": 30677,
@@ -60740,6 +60647,43 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/sparkles",
     "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2026/sparkles.json"
+  },
+  {
+    "id": 31156,
+    "name": "Ventura",
+    "slug": "ventura",
+    "former_names": [
+      "Autola"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/da34d67bc7bfb583fad0d2c587e602fbe787b210.png",
+    "website": "https://www.ventura.ai",
+    "all_locations": "",
+    "long_description": "Ventura builds the AI workforce for distributors and manufacturers, starting with quoting and order entry. It plugs into your existing ERP, follows your SOPs, and learns your team's tribal knowledge - getting smarter with every completed task.",
+    "one_liner": "AI Workforce for Distributors and Manufacturers",
+    "team_size": 2,
+    "industry": "Industrials",
+    "subindustry": "Industrials",
+    "launched_at": 1772945697,
+    "tags": [],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "Industrials"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/ventura",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2026/ventura.json"
   },
   {
     "id": 31174,

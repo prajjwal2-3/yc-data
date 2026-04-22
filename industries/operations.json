@@ -5367,51 +5367,6 @@
     "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2025/atlog.json"
   },
   {
-    "id": 30406,
-    "name": "BitBoard",
-    "slug": "bitboard",
-    "former_names": [
-      "Realm"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2cd237a1ed9ded0c19b8fecc9c46b0ad45f89c04.png",
-    "website": "https://bitboard.work/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "BitBoard is an AI-first spreadsheet that lets you build, update, and analyze spreadsheets via agent chat. Handle complex modeling and analysis 10x faster without giving up direct cell-level control when you need it.\r\n\r\nWe wanted the most capable agent and seamless UX, so we built an agent and spreadsheet to work together instead of bolting chat onto a legacy app.",
-    "one_liner": "The best way to use AI for spreadsheets.",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Operations",
-    "launched_at": 1746992332,
-    "tags": [
-      "Artificial Intelligence",
-      "Finance",
-      "B2B",
-      "Analytics",
-      "Operations"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Spring 2025",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Operations"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/bitboard",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2025/bitboard.json"
-  },
-  {
     "id": 30408,
     "name": "Autostep",
     "slug": "autostep",
@@ -6009,11 +5964,12 @@
   },
   {
     "id": 31372,
-    "name": "trellis",
+    "name": "Trellis",
     "slug": "trellistech",
     "former_names": [
       "Trellis Tech",
-      "Trellis"
+      "Trellis",
+      "trellis"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d4edc07d052fa88205fcd9e264fc066ce8d0f11f.png",
     "website": "https://trellistech.com",
@@ -6139,16 +6095,16 @@
     "website": "https://ontora.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Ontora gives C-suite leaders AI agents that interview every employee to uncover process bottlenecks across their organization. Consultants spend months doing this manually; Ontora does it in hours",
-    "one_liner": "We help managers regain control of their organisations",
+    "one_liner": "AI agents that interview every employee in 24 hours to map how work…",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Operations",
     "launched_at": 1773487694,
     "tags": [
+      "Artificial Intelligence",
       "B2B",
       "Analytics",
-      "Operations",
-      "AI"
+      "Operations"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -6182,7 +6138,7 @@
     "all_locations": "Saratoga, CA, USA",
     "long_description": "Sidekick is an AI-powered SMS assistant for frontline workers in manufacturing, auto dealerships, and retail. The idea came from Justin's father, who owns a manufacturing facility and asked him to build a tool to help with worker onboarding, training, and organizing company knowledge. Workers text questions in any language and get instant answers from their company's documents — no app, no login, works on any phone. They can send photos of equipment for instant identification or voice memos when their hands are dirty or they're wearing gloves. Managers upload documents and record video walkthroughs; Sidekick automatically generates step-by-step tutorials and a searchable knowledge base. When Sidekick can't answer, it escalates to the manager via SMS and learns from the response, getting smarter with every interaction.",
     "one_liner": "AI-powered SMS assistant for deskless workers.",
-    "team_size": 2,
+    "team_size": 1,
     "industry": "B2B",
     "subindustry": "B2B -> Operations",
     "launched_at": 1775584801,

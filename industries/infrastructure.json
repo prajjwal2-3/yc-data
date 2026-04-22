@@ -10109,7 +10109,7 @@
     "name": "Dedalus Labs",
     "slug": "dedalus-labs",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9448459d24e79ff3a74806f4accea964e7619319.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7090c5a2d73a4c3057030995d02dc87abae964a5.png",
     "website": "https://www.dedaluslabs.ai/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "1. Multi-model Agents SDK: build production-grade tool-calling agents in 5 lines of code using our open-source, vendor-agnostic SDK. Connect multiple models across providers (eg. Opus 4.6 + Gemini 3 Flash + GPT 5.4) within the same agent to optimize your agentic workflow's cost, latency, efficiency, and performance.\r\n\r\n2. Agents-as-a-Service (AaaS): serve your agent or service as a hosted endpoint that anyone - including OpenClaw and Claude Code - can call.",
@@ -10119,10 +10119,10 @@
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1756399069,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "Workflow Automation",
-      "DevOps",
-      "AI"
+      "DevOps"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -10980,7 +10980,7 @@
     "former_names": [
       "Fixpoint"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5a51d3daafd2b7537bb32ea9c3d6bcfa96ba62a1.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c42840d914de4ea4ec78f647bf0db2e93434ca5d.png",
     "website": "https://www.amika.dev/",
     "all_locations": "New York, NY, USA",
     "long_description": "Amika is infra to build your software factory.\r\n\r\nWe give your team sandboxed AI coding agents in the cloud: the same infrastructure Ramp, Coinbase, and Stripe built in-house. Kick off work from a web UI, CLI, Slack, or API. Use your preferred coding agent (Claude Code, Codex, etc.). Each agent understands your codebase, runs autonomously, and ships real PRs with live previews of the apps it changed. Use it as your daily driver or plug it into your own code-gen pipeline via API.",
@@ -10990,10 +10990,10 @@
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1759722442,
     "tags": [
+      "Artificial Intelligence",
       "Machine Learning",
       "B2B",
-      "Infrastructure",
-      "AI"
+      "Infrastructure"
     ],
     "tags_highlighted": [],
     "top_company": false,

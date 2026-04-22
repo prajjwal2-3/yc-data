@@ -1422,7 +1422,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7d66896afcf3127a39f735586c48cd210cab0a7f.png",
     "website": "https://www.useagave.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "We’re modernizing construction, a $12T global industry run by siloed software built 20-40 years ago (on-prem, no APIs, no mobile access, etc.). \r\n\r\nOur core product is Agave Sync, which helps General and Trade Contractors keep financial data in sync between their field teams on jobsites and their accounting teams in a central back office.",
+    "long_description": "We’re modernizing construction, a $12T global industry run by siloed software built 20-40 years ago (on-prem, no APIs, no mobile access, etc.). \r\n\r\n\r\nConstruction is at a generational inflection point. 41% of the workforce retires by 2031, and AI is forcing contractors to increase efficiency without increasing headcount. \r\n\r\n\r\nAt Agave, we're building the financial operations platform for construction contractors. We reverse-engineered 11+ proprietary ERPs to build a modern API layer, then built critical products contractors needed on top: ERP Sync and AP Automation, with 4 more products coming out this year. Our goal is to be the financial operations platform every construction company in North America runs on. \r\n\r\n\r\nWe're backed by Accel and Y Combinator, with angels from Plaid, Procore, Autodesk, and PlanGrid. Our founding team worked together for 10 years at Graphiq (acq. Amazon) and Amazon before founding Agave.\r\n\r\nThese slides explain our company and market in more detail: https://www.figma.com/deck/nlpdpvRj3iS2qbPXqkMQz0",
     "one_liner": "AI Financial Operations for Construction",
     "team_size": 33,
     "industry": "B2B",
@@ -1445,7 +1445,9 @@
     ],
     "regions": [
       "United States of America",
-      "America / Canada"
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -1733,12 +1735,12 @@
     "former_names": [
       "KorrAI Technologies Ltd."
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/eb9d2b3aba4530f352bea1055d57d8a8874049ff.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/33961621d8602321f304fcd55e4abfa80d7569d4.png",
     "website": "https://www.korrai.com",
     "all_locations": "Toronto, ON, Canada",
     "long_description": "KorrAI provides an AI-native workspace for remote desktop risk studies across construction, infrastructure, and mining projects.\r\nOur platform, TRAIL, enables insurers, asset owners, and builders to evaluate site and construction risk in hours instead of weeks by unifying geospatial data, geotechnical reports, catastrophe model outputs, and engineering context into one traceable system.",
     "one_liner": "AI-native workspace for end-to-end desktop studies",
-    "team_size": 17,
+    "team_size": 24,
     "industry": "Real Estate and Construction",
     "subindustry": "Real Estate and Construction -> Construction",
     "launched_at": 1643659113,

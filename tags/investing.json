@@ -2407,16 +2407,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/472bbf99a385182b4cadc467c7e537399ce04100.png",
     "website": "https://kimpton.ai",
     "all_locations": "San Francisco, CA, USA; Remote",
-    "long_description": "Kimpton is an AI-native investment research platform built by ex-quant fund operators. \r\n\r\nInstead of analysts staring at screens hunting for edge, Kimpton's system is a comprehensive agentic harness containing the context that matters to investors: real-time and historical data across 120,000+ assets, company fundamentals fragmented intelligence sources, and your actual portfolio from 2,500+ brokerages. \r\n\r\nIt conducts the research autonomously: visualizing, backtesting, forecasting with prediction markets, and proposing structured trades tailored to your thesis and risk profile. \r\n\r\nBuilt by former hedge fund operators who spent years building this stack for themselves, Kimpton makes the CIO role accessible to every investor. Humans make the decisions. AI does everything else.",
-    "one_liner": "The IDE for investors",
+    "long_description": "Kimpton is the AI research platform for the buy side, built by ex-Goldman engineers who left to start a hedge fund with $10M and ran it for four years before productizing the stack.\r\n\r\nPortfolio managers spend most of their day on work that isn't investing: filings, earnings prep, 13Fs, peer benchmarking, thesis validation, trade writeups. \r\n\r\nKimpton runs all of it autonomously and delivers structured Trade Proposals with full rationale, fitted to a portfolio manager's mandate and strategy. \r\n\r\nRisk profile, style, and constraints live in plain-text mandate.md and strategy.md files that drive every analysis the system performs. \r\n\r\nThe rest of the desk sits alongside: Deep Research cited to source, natural-language Dashboards, Agentic Charting & Backtests, scheduled Skills for recurring workflows, and auto-generated Reports. \r\n\r\nCoverage includes FactSet pricing, fundamentals, estimates, transcripts, ownership, and M&A data, plus live prediction markets from Polymarket.    \r\n\r\nHumans make the decisions. AI does everything else.",
+    "one_liner": "AI for portfolio managers",
     "team_size": 5,
     "industry": "Fintech",
     "subindustry": "Fintech -> Asset Management",
     "launched_at": 1774039716,
     "tags": [
-      "Artificial Intelligence",
       "Fintech",
-      "Investing"
+      "Investing",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,

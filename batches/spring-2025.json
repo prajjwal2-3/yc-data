@@ -674,18 +674,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2cd237a1ed9ded0c19b8fecc9c46b0ad45f89c04.png",
     "website": "https://bitboard.work/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "BitBoard is an AI-first spreadsheet that lets you build, update, and analyze spreadsheets via agent chat. Handle complex modeling and analysis 10x faster without giving up direct cell-level control when you need it.\r\n\r\nWe wanted the most capable agent and seamless UX, so we built an agent and spreadsheet to work together instead of bolting chat onto a legacy app.",
-    "one_liner": "The best way to use AI for spreadsheets.",
+    "long_description": "Data analysis with AI agents is great until you realize you want to set up a recurring report or collaborate with your team. We built an agent-first workbook so you don’t have to roll your own dashboards or fumble around in a rigid BI tool.\r\n\r\nConnect your agent of choice to BitBoard and it can generate connected charts, SQL, code, and commentary in a notebook-style UI you can share with your team.",
+    "one_liner": "Let your agent build dashboards and reporting.",
     "team_size": 2,
     "industry": "B2B",
-    "subindustry": "B2B -> Operations",
+    "subindustry": "B2B -> Analytics",
     "launched_at": 1746992332,
     "tags": [
-      "Artificial Intelligence",
-      "Finance",
       "B2B",
       "Analytics",
-      "Operations"
+      "Data Visualization",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -695,7 +694,7 @@
     "status": "Active",
     "industries": [
       "B2B",
-      "Operations"
+      "Analytics"
     ],
     "regions": [
       "United States of America",
@@ -3079,7 +3078,7 @@
     "tags": [],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Spring 2025",
     "status": "Active",
@@ -3468,24 +3467,25 @@
   },
   {
     "id": 30485,
-    "name": "Cleon",
-    "slug": "cleon",
+    "name": "Anana",
+    "slug": "anana",
     "former_names": [
       "DMV-EZ",
-      "cleon"
+      "cleon",
+      "Cleon"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f45e72de8a958a28fb7ae53a3b51322bb3d582a8.png",
-    "website": "https://getcleon.ai",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/51a782f9ec25213533c54cb1e2cb41bde2210c14.png",
+    "website": "https://getanana.com",
     "all_locations": "New York, NY, USA",
-    "long_description": "AI agents that understand your hotel brand's DNA, operational procedures, and the importance of guest experience across your properties. From the first touchpoint to post-checkout feedback, Cleon is built for the full arc of the guest journey, capturing signals that can be turned into actions. ",
-    "one_liner": "AI agents for hotels & resorts",
+    "long_description": "AI that understand your hotel brand's DNA, operational procedures, and the importance of guest experience across your properties. From the first touchpoint to post-checkout feedback, Cleon is built for the full arc of the guest journey, capturing signals that can be turned into actions. ",
+    "one_liner": "AI for hotels & resorts",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1748491833,
     "tags": [
-      "Artificial Intelligence",
-      "B2B"
+      "B2B",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -3505,8 +3505,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/cleon",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2025/cleon.json"
+    "url": "https://www.ycombinator.com/companies/anana",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2025/anana.json"
   },
   {
     "id": 30487,

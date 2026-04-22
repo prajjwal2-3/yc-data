@@ -1179,11 +1179,12 @@
   },
   {
     "id": 31372,
-    "name": "trellis",
+    "name": "Trellis",
     "slug": "trellistech",
     "former_names": [
       "Trellis Tech",
-      "Trellis"
+      "Trellis",
+      "trellis"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d4edc07d052fa88205fcd9e264fc066ce8d0f11f.png",
     "website": "https://trellistech.com",
@@ -1403,6 +1404,43 @@
     "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/pulsent.json"
   },
   {
+    "id": 31381,
+    "name": "GovGuard",
+    "slug": "govguard",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/088748b86012913f3794408762cedda4f06a4bbf.png",
+    "website": "https://govguard.com",
+    "all_locations": "",
+    "long_description": "Today, when a city gets a FOIA request, the process is still painfully manual.\r\n\r\nCity clerks have to hunt through archived emails, meeting minutes, PDFs, and shared drives just to find the relevant records. Many offices still manually black out sensitive information with a Sharpie, line by line.\r\n\r\nLocal governments spend billions processing these requests. It’s slow, expensive, and a large request can create massive backlogs. If a city misses the deadline for a request, they can be sued for failing to comply with public records law.\r\n\r\nGovGuard uses AI agents to automatically search across years of records, flag sensitive information for redaction, and prepare draft response letters for review. Our redaction engine handles harder edge cases like trade secrets and privileged material. Legacy tools require clerks to manually cite state codes for every redaction, while GovGuard is built with these exemptions.\r\n\r\nThe new surge of AI-generated requests are overwhelming clerk offices. Most cities we speak with are seeing request volume grow 2x year over year, with no increase in staff. The tools they have today are basically Jira. They help manage the ticket/request, but not complete the work.",
+    "one_liner": "AI Infrastructure for Government Agencies",
+    "team_size": 0,
+    "industry": "Government",
+    "subindustry": "Government",
+    "launched_at": 1776807232,
+    "tags": [
+      "GovTech"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "Government"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/govguard",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/govguard.json"
+  },
+  {
     "id": 31382,
     "name": "Kinro",
     "slug": "kinro",
@@ -1437,6 +1475,46 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/kinro",
     "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/kinro.json"
+  },
+  {
+    "id": 31383,
+    "name": "Juno",
+    "slug": "juno-chat",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e0c6bb59547978fc3036953e8d43c990c8c000fc.png",
+    "website": "https://juno-chat.com/",
+    "all_locations": "",
+    "long_description": "Juno is an AI personal health assistant for the 1B+ people living with chronic illness. Juno builds a longitudinal health profile from conversations, biometrics, and medical history to identify patterns behind symptoms and provide tailored guidance. \r\n\r\nIsaac and Marshall started building Juno after growing up with chronic conditions and spending years trying to understand their symptoms. Like millions of others, they waited months for appointments and struggled to explain complex medical history in 15 minutes. As a result, key signals are missed, contributing to an average diagnosis time of 7.6 years. Even after receiving a diagnosis, patients are often left without a clear treatment plan and have to manage their condition alone. \r\n\r\nMany use AI chatbots for support, but without context on their medical history or symptom progression, they receive generic advice that is rarely actionable. Juno solves this by building a continuous, structured health profile for each user and connecting this fragmented health information. We spent the last year conducting research at Oxford and UCL to build our proprietary engagement layer for daily conversations, allowing Juno to ask the right questions at the right time and understand each user's health better than anyone else ever could. \r\n\r\nWe launched in October and are already at $600k in annual run rate, supporting 50,000+ patients globally. We’re building a future where everyone has a private clinical specialist in their pocket, 24/7.",
+    "one_liner": "AI Health Assistant for Chronic Illness",
+    "team_size": 2,
+    "industry": "Healthcare",
+    "subindustry": "Healthcare -> Consumer Health and Wellness",
+    "launched_at": 1776751581,
+    "tags": [
+      "Health Tech",
+      "Health & Wellness",
+      "Consumer Products"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "Healthcare",
+      "Consumer Health and Wellness"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/juno-chat",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/juno-chat.json"
   },
   {
     "id": 31385,
@@ -2027,16 +2105,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/472bbf99a385182b4cadc467c7e537399ce04100.png",
     "website": "https://kimpton.ai",
     "all_locations": "San Francisco, CA, USA; Remote",
-    "long_description": "Kimpton is an AI-native investment research platform built by ex-quant fund operators. \r\n\r\nInstead of analysts staring at screens hunting for edge, Kimpton's system is a comprehensive agentic harness containing the context that matters to investors: real-time and historical data across 120,000+ assets, company fundamentals fragmented intelligence sources, and your actual portfolio from 2,500+ brokerages. \r\n\r\nIt conducts the research autonomously: visualizing, backtesting, forecasting with prediction markets, and proposing structured trades tailored to your thesis and risk profile. \r\n\r\nBuilt by former hedge fund operators who spent years building this stack for themselves, Kimpton makes the CIO role accessible to every investor. Humans make the decisions. AI does everything else.",
-    "one_liner": "The IDE for investors",
+    "long_description": "Kimpton is the AI research platform for the buy side, built by ex-Goldman engineers who left to start a hedge fund with $10M and ran it for four years before productizing the stack.\r\n\r\nPortfolio managers spend most of their day on work that isn't investing: filings, earnings prep, 13Fs, peer benchmarking, thesis validation, trade writeups. \r\n\r\nKimpton runs all of it autonomously and delivers structured Trade Proposals with full rationale, fitted to a portfolio manager's mandate and strategy. \r\n\r\nRisk profile, style, and constraints live in plain-text mandate.md and strategy.md files that drive every analysis the system performs. \r\n\r\nThe rest of the desk sits alongside: Deep Research cited to source, natural-language Dashboards, Agentic Charting & Backtests, scheduled Skills for recurring workflows, and auto-generated Reports. \r\n\r\nCoverage includes FactSet pricing, fundamentals, estimates, transcripts, ownership, and M&A data, plus live prediction markets from Polymarket.    \r\n\r\nHumans make the decisions. AI does everything else.",
+    "one_liner": "AI for portfolio managers",
     "team_size": 5,
     "industry": "Fintech",
     "subindustry": "Fintech -> Asset Management",
     "launched_at": 1774039716,
     "tags": [
-      "Artificial Intelligence",
       "Fintech",
-      "Investing"
+      "Investing",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -2186,11 +2264,13 @@
   },
   {
     "id": 31427,
-    "name": "Paper Star",
-    "slug": "paper-star",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/422567dd84dd3932adf1b51b5f0ff92c1ee1e2e6.png",
-    "website": "https://www.paperstar.cc/napkin-math",
+    "name": "Napkin Math",
+    "slug": "napkin-math",
+    "former_names": [
+      "Paper Star"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f3186460384778570f52c73ff19cf5b102436f57.png",
+    "website": "https://napkinmath.club",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Napkin Math is the food journal for real people. Stop counting calories, get personalized insights and realistic goals. Easily keep a beautiful food journal, get deep insights on your data with AI, and share your table with friends.",
     "one_liner": "Building Napkin Math, AI-powered food journaling for real people",
@@ -2199,11 +2279,11 @@
     "subindustry": "Consumer",
     "launched_at": 1775700750,
     "tags": [
+      "Artificial Intelligence",
       "Consumer",
       "Fitness",
       "Digital Health",
-      "Food",
-      "AI"
+      "Food"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -2223,8 +2303,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/paper-star",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/paper-star.json"
+    "url": "https://www.ycombinator.com/companies/napkin-math",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/napkin-math.json"
   },
   {
     "id": 31428,
@@ -2235,16 +2315,16 @@
     "website": "https://ontora.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Ontora gives C-suite leaders AI agents that interview every employee to uncover process bottlenecks across their organization. Consultants spend months doing this manually; Ontora does it in hours",
-    "one_liner": "We help managers regain control of their organisations",
+    "one_liner": "AI agents that interview every employee in 24 hours to map how work…",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Operations",
     "launched_at": 1773487694,
     "tags": [
+      "Artificial Intelligence",
       "B2B",
       "Analytics",
-      "Operations",
-      "AI"
+      "Operations"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -2440,47 +2520,6 @@
     "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/lumius.json"
   },
   {
-    "id": 31436,
-    "name": "Prototyping.io",
-    "slug": "prototypingio",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5f7df040bbed273d21312d9b7e349583e363f5e4.png",
-    "website": "https://www.prototyping.io",
-    "all_locations": "Sunnyvale, CA, USA",
-    "long_description": "Prototyping.io is a manufacturing intelligence platform that understands mechanical designs, identifies manufacturability issues early, provides actionable insights and delivers custom mechanical parts (CNC machining, sheet metal, 3D printing, injection molding, etc.) with faster lead times, lower cost, and high quality.\r\n",
-    "one_liner": "AI-native mechanical manufacturing",
-    "team_size": 2,
-    "industry": "Industrials",
-    "subindustry": "Industrials -> Manufacturing and Robotics",
-    "launched_at": 1774425608,
-    "tags": [
-      "Artificial Intelligence",
-      "Hardware",
-      "Manufacturing"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Spring 2026",
-    "status": "Active",
-    "industries": [
-      "Industrials",
-      "Manufacturing and Robotics"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/prototypingio",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/prototypingio.json"
-  },
-  {
     "id": 31437,
     "name": "Sidekick",
     "slug": "textsidekick",
@@ -2490,7 +2529,7 @@
     "all_locations": "Saratoga, CA, USA",
     "long_description": "Sidekick is an AI-powered SMS assistant for frontline workers in manufacturing, auto dealerships, and retail. The idea came from Justin's father, who owns a manufacturing facility and asked him to build a tool to help with worker onboarding, training, and organizing company knowledge. Workers text questions in any language and get instant answers from their company's documents — no app, no login, works on any phone. They can send photos of equipment for instant identification or voice memos when their hands are dirty or they're wearing gloves. Managers upload documents and record video walkthroughs; Sidekick automatically generates step-by-step tutorials and a searchable knowledge base. When Sidekick can't answer, it escalates to the manager via SMS and learns from the response, getting smarter with every interaction.",
     "one_liner": "AI-powered SMS assistant for deskless workers.",
-    "team_size": 2,
+    "team_size": 1,
     "industry": "B2B",
     "subindustry": "B2B -> Operations",
     "launched_at": 1775584801,
@@ -4099,5 +4138,46 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/cohesion",
     "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/cohesion.json"
+  },
+  {
+    "id": 31564,
+    "name": "Huscarl",
+    "slug": "huscarl",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f24300b3eb986e7f19356d2f4af0a1aefc7a5841.png",
+    "website": "https://www.huscarl.io/",
+    "all_locations": "Remote",
+    "long_description": "Huscarl is an AI-native actuarial advisory for large companies ($50M+ turnover) to optimize their insurance decisions. Our approach helps them save ~30% premiums for similar coverage, and manage their own risks like an insurance company would.\r\n\r\nOur technology:\r\n- scans through risks and quantifies them\r\n- translates complex B2B insurance policies into actuarial language\r\n- tells if companies are paying the right $ for their coverage\r\n- tells them what to keep, change or kill in their insurance program",
+    "one_liner": "Actuarial intelligence for corporate risk managers",
+    "team_size": 2,
+    "industry": "Fintech",
+    "subindustry": "Fintech -> Insurance",
+    "launched_at": 1776797773,
+    "tags": [
+      "Generative AI",
+      "Insurance",
+      "Customization"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "Fintech",
+      "Insurance"
+    ],
+    "regions": [
+      "Remote",
+      "Fully Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/huscarl",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/huscarl.json"
   }
 ]
