@@ -487,7 +487,7 @@
       "Stack AI"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f0b69f56464fb22aa0805117c2f93c2b32f1c717.png",
-    "website": "https://www.stack-ai.com",
+    "website": "https://www.stackai.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "With StackAI, any organization can deploy custom AI agents to automate its back-office operations. Our low-code interface allows teams of all levels of expertise to build internal tools.\r\n\r\nHundreds of companies use StackAI to build knowledge-based AI assistants, fill out RFPs and questionnaires, automate content QA, conduct due diligence research, and extract data from documents.",
     "one_liner": "The Enterprise AI Transformation Platform",
@@ -496,9 +496,9 @@
     "subindustry": "B2B",
     "launched_at": 1673634480,
     "tags": [
-      "Artificial Intelligence",
       "Enterprise",
-      "Automation"
+      "Automation",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -1329,17 +1329,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/67584a441ac14e21e59b84f0e3760e5308aaf4dc.png",
     "website": "https://credal.ai",
     "all_locations": "New York, NY, USA",
-    "long_description": "Build enterprise-grade MCP servers and AI agents and publish them into any chat surface. Powered by your data and tools, subject to enterprise controls.",
-    "one_liner": "Connect AI to every tool. Enterprise security built in.",
+    "long_description": "Build, govern, and deploy enterprise AI agents and MCP servers \r\nPowered by your data, subject to enterprise controls",
+    "one_liner": "The Control Plane for Enterprise Agents",
     "team_size": 14,
     "industry": "B2B",
     "subindustry": "B2B -> Productivity",
     "launched_at": 1669993072,
     "tags": [
+      "Artificial Intelligence",
       "Generative AI",
       "Cybersecurity",
-      "Enterprise",
-      "AI"
+      "Enterprise"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -2439,9 +2439,9 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c0f30c988fde8ec60cc14e8c5cf656b62cd6d35d.png",
     "website": "https://www.numeral.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Numeral is the fastest, easiest way to stay compliant with US sales tax and global VAT. \r\n\r\nTrusted by 2,000+ businesses, including Eight Sleep, Ridge, and Manus, our end-to-end platform keeps our customers compliant wherever they sell, with registrations, filings, calculations, and ongoing compliance support.\r\n\r\nNumeral’s AI-native solution covers more than 70 countries and tens of thousands of jurisdictions and is built for accuracy and scale.",
+    "long_description": "Numeral is the fastest, easiest way to stay compliant with US sales tax and global VAT. \r\n\r\nTrusted by 3,000+ businesses, including Eight Sleep, Ridge, and Manus, our end-to-end platform keeps our customers compliant wherever they sell, with registrations, filings, calculations, and ongoing compliance support.\r\n\r\nNumeral’s AI-native solution covers more than 70 countries and tens of thousands of jurisdictions and is built for accuracy and scale.",
     "one_liner": "The AI-native sales tax solution.",
-    "team_size": 85,
+    "team_size": 100,
     "industry": "B2B",
     "subindustry": "B2B -> Finance and Accounting",
     "launched_at": 1672355505,
@@ -2468,7 +2468,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,

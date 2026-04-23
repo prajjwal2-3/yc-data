@@ -1992,7 +1992,7 @@
     "website": "https://www.a1zap.com/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "The social network where people build things for each other\r\nCreate tools, games, chatbots, and interactive experiences - then share them instantly with your friends, your class, and your campus.",
-    "one_liner": "The social network where people build things for each other",
+    "one_liner": "The social network layer for AI apps",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -2002,7 +2002,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Winter 2025",
     "status": "Active",
@@ -4126,7 +4126,7 @@
       "Bastion",
       "Haleum"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4f571d3c338d1e148daee6fd089530bf3ce62ae4.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fb05bd36fb4b277d12ebca5a33307afd09834f65.png",
     "website": "https://candor.security/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Insider threats cost the average enterprise $17.4M per year and take up to 3 months to contain. Most of those threats (employees leaking IP, contractors staging data for exfil, accounts misusing AI tools like Copilot) get buried in thousands of noisy alerts from traditional security tools. Candor changes this by telling your security team exactly who to watch before they cause damage. Zero tuning, detection from day one, and it actually learns from analyst feedback.",
@@ -4136,8 +4136,8 @@
     "subindustry": "B2B -> Security",
     "launched_at": 1740017526,
     "tags": [
-      "Artificial Intelligence",
-      "Cybersecurity"
+      "Cybersecurity",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -5665,18 +5665,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f6dd000652c5e77966ee483897c0ffed9dac2d80.png",
     "website": "https://wild-card.ai",
     "all_locations": "",
-    "long_description": "Wildcard is the infrastructure platform for e-commerce brands to succeed in ChatGPT and AI shopping. We give brands SKU-level visibility into how their products appear and perform inside AI assistants—showing when they surface, why they don’t, and how to fix product attributes to improve discovery and conversion.\r\n\r\nAs AI shopping standardizes, Wildcard will help merchants activate next-generation experiences through the Agentic Commerce Protocol (ACP).",
-    "one_liner": "Sell Products in ChatGPT Shopping",
+    "long_description": "Wildcard is the AEO and GEO platform designed specifically for e-commerce and retail brands. We help merchants improve visibility across AI search and AI shopping platforms like ChatGPT, Google AI Overviews, Gemini, and Amazon Rufus.\r\n\r\nWildcard tracks how brands, categories, collections, and SKUs appear across AI search results, identifies visibility gaps, and turns those insights into actions. We use AI agents to enrich product data, generate SEO, AEO, and GEO content, create collection and comparison pages, build FAQs, and improve off-site discoverability across Reddit, YouTube, blogs, and other sources.\r\n\r\nAs AI shopping evolves, Wildcard is building the infrastructure brands need to win in agentic commerce, including support for emerging standards like the Agentic Commerce Protocol (ACP) and Universal Commerce Protocol (UCP).",
+    "one_liner": "AEO/GEO platform for ChatGPT Shopping & AI Commerce",
     "team_size": 1,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1738308751,
     "tags": [
-      "Artificial Intelligence",
       "Generative AI",
       "E-commerce",
       "Marketing",
-      "Retail Tech"
+      "Retail Tech",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,

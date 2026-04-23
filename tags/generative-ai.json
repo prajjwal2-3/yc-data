@@ -4227,17 +4227,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/67584a441ac14e21e59b84f0e3760e5308aaf4dc.png",
     "website": "https://credal.ai",
     "all_locations": "New York, NY, USA",
-    "long_description": "Build enterprise-grade MCP servers and AI agents and publish them into any chat surface. Powered by your data and tools, subject to enterprise controls.",
-    "one_liner": "Connect AI to every tool. Enterprise security built in.",
+    "long_description": "Build, govern, and deploy enterprise AI agents and MCP servers \r\nPowered by your data, subject to enterprise controls",
+    "one_liner": "The Control Plane for Enterprise Agents",
     "team_size": 14,
     "industry": "B2B",
     "subindustry": "B2B -> Productivity",
     "launched_at": 1669993072,
     "tags": [
+      "Artificial Intelligence",
       "Generative AI",
       "Cybersecurity",
-      "Enterprise",
-      "AI"
+      "Enterprise"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -9158,7 +9158,7 @@
       "Invoke AI",
       "Invoke Labs"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e097d283f408c0a5e7db6a2bef1bf267b298465c.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/efc5cb21ff2d8c0c7bf12fe360a1eb51bd8d4d0d.png",
     "website": "https://voker.ai",
     "all_locations": "Los Angeles, CA, USA",
     "long_description": "Voker is the Agent Analytics Platform for monitoring and improving your AI agents. Companies like Dutch.com use our SDK to build better agents.\r\n\r\nAlex and Tyler met at a high-growth E-Commerce startup where Tyler was running Technology & Data. Together, they built AI products that bootstrapped the company profitably to $100MM in Revenue.",
@@ -9168,11 +9168,11 @@
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1722887304,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "Generative AI",
       "Analytics",
-      "Big Data"
+      "Big Data",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -9331,50 +9331,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/pipeshift",
     "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2024/pipeshift.json"
-  },
-  {
-    "id": 29951,
-    "name": "RowBoat Labs",
-    "slug": "rowboat-labs",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8c4e76ac514dde1b24f29f53724cc0f032c90a91.png",
-    "website": "https://www.rowboatlabs.com",
-    "all_locations": "San Francisco, CA, USA; Remote",
-    "long_description": "A Cursor-like AI-assisted, no-code IDE for building production-ready multi-agents.\r\n\r\n✨ Start from a simple prompt to create fully functional agents with the Copilot\r\n🧪 Test them in AI-simulated scenarios\r\n🌐 Connect MCP servers and tools\r\n📞 Interact through the Python SDK, a web widget, or a Twilio phone number\r\n♻️ Continuously refine your agents by providing feedback to the Copilot\r\n\r\nBuilt on OpenAI's Agents SDK, Rowboat is the fastest way to build multi-agents!",
-    "one_liner": "Open-source AI-assisted agent builder",
-    "team_size": 3,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1723615480,
-    "tags": [
-      "Generative AI",
-      "B2B",
-      "Open Source",
-      "Conversational AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2024",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Fully Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/rowboat-labs",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2024/rowboat-labs.json"
   },
   {
     "id": 29954,
@@ -10378,18 +10334,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f6dd000652c5e77966ee483897c0ffed9dac2d80.png",
     "website": "https://wild-card.ai",
     "all_locations": "",
-    "long_description": "Wildcard is the infrastructure platform for e-commerce brands to succeed in ChatGPT and AI shopping. We give brands SKU-level visibility into how their products appear and perform inside AI assistants—showing when they surface, why they don’t, and how to fix product attributes to improve discovery and conversion.\r\n\r\nAs AI shopping standardizes, Wildcard will help merchants activate next-generation experiences through the Agentic Commerce Protocol (ACP).",
-    "one_liner": "Sell Products in ChatGPT Shopping",
+    "long_description": "Wildcard is the AEO and GEO platform designed specifically for e-commerce and retail brands. We help merchants improve visibility across AI search and AI shopping platforms like ChatGPT, Google AI Overviews, Gemini, and Amazon Rufus.\r\n\r\nWildcard tracks how brands, categories, collections, and SKUs appear across AI search results, identifies visibility gaps, and turns those insights into actions. We use AI agents to enrich product data, generate SEO, AEO, and GEO content, create collection and comparison pages, build FAQs, and improve off-site discoverability across Reddit, YouTube, blogs, and other sources.\r\n\r\nAs AI shopping evolves, Wildcard is building the infrastructure brands need to win in agentic commerce, including support for emerging standards like the Agentic Commerce Protocol (ACP) and Universal Commerce Protocol (UCP).",
+    "one_liner": "AEO/GEO platform for ChatGPT Shopping & AI Commerce",
     "team_size": 1,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1738308751,
     "tags": [
-      "Artificial Intelligence",
       "Generative AI",
       "E-commerce",
       "Marketing",
-      "Retail Tech"
+      "Retail Tech",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,

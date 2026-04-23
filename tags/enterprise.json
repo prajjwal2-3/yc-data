@@ -2595,7 +2595,7 @@
       "Stack AI"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f0b69f56464fb22aa0805117c2f93c2b32f1c717.png",
-    "website": "https://www.stack-ai.com",
+    "website": "https://www.stackai.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "With StackAI, any organization can deploy custom AI agents to automate its back-office operations. Our low-code interface allows teams of all levels of expertise to build internal tools.\r\n\r\nHundreds of companies use StackAI to build knowledge-based AI assistants, fill out RFPs and questionnaires, automate content QA, conduct due diligence research, and extract data from documents.",
     "one_liner": "The Enterprise AI Transformation Platform",
@@ -2604,9 +2604,9 @@
     "subindustry": "B2B",
     "launched_at": 1673634480,
     "tags": [
-      "Artificial Intelligence",
       "Enterprise",
-      "Automation"
+      "Automation",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -2639,17 +2639,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/67584a441ac14e21e59b84f0e3760e5308aaf4dc.png",
     "website": "https://credal.ai",
     "all_locations": "New York, NY, USA",
-    "long_description": "Build enterprise-grade MCP servers and AI agents and publish them into any chat surface. Powered by your data and tools, subject to enterprise controls.",
-    "one_liner": "Connect AI to every tool. Enterprise security built in.",
+    "long_description": "Build, govern, and deploy enterprise AI agents and MCP servers \r\nPowered by your data, subject to enterprise controls",
+    "one_liner": "The Control Plane for Enterprise Agents",
     "team_size": 14,
     "industry": "B2B",
     "subindustry": "B2B -> Productivity",
     "launched_at": 1669993072,
     "tags": [
+      "Artificial Intelligence",
       "Generative AI",
       "Cybersecurity",
-      "Enterprise",
-      "AI"
+      "Enterprise"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -4330,23 +4330,25 @@
   },
   {
     "id": 30421,
-    "name": "SynthioLabs",
-    "slug": "synthiolabs",
-    "former_names": [],
+    "name": "Synthio Labs",
+    "slug": "synthio-labs",
+    "former_names": [
+      "SynthioLabs"
+    ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9098a7fb6ce97083cb31b3aea4f58a15ab42e106.png",
     "website": "https://synthiolabs.com/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "The intelligence layer behind modern life sciences engagement, enabling compliant, continuous conversations across HCPs, patients, and field teams",
     "one_liner": "Agentic AI platform for Pharma GTM teams",
-    "team_size": 8,
+    "team_size": 29,
     "industry": "Healthcare",
     "subindustry": "Healthcare",
     "launched_at": 1744430433,
     "tags": [
+      "Artificial Intelligence",
       "Biotech",
       "Healthcare",
-      "Enterprise",
-      "AI"
+      "Enterprise"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -4366,8 +4368,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/synthiolabs",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2025/synthiolabs.json"
+    "url": "https://www.ycombinator.com/companies/synthio-labs",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2025/synthio-labs.json"
   },
   {
     "id": 30513,

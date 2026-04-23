@@ -8,23 +8,17 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/63357814f2f59989ae18e2736412df94c2d8bc31.png",
     "website": "https://humwork.ai",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "",
     "long_description": "Humwork lets AI agents chat with human experts in real-time. When AI agents like Claude Code or OpenClaw hit a wall, Humwork's MCP server connects them to a verified domain expert in under 30 seconds. Our experts include senior engineers, lawyers, marketers, designers, and more.",
     "one_liner": "Connect AI agents to human experts in 30 seconds",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1753843448,
-    "tags": [
-      "Marketplace",
-      "SaaS",
-      "B2B",
-      "Remote Work",
-      "AI"
-    ],
+    "tags": [],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Spring 2026",
     "status": "Active",
@@ -32,8 +26,7 @@
       "B2B"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "Unspecified"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -894,8 +887,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3feaf8d76278baf8b9fbde6cc73fdda3ea2a5b18.png",
     "website": "https://lightsprint.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Lightsprint is a product agent designed to let non-engineering teammates ship real features to an existing codebase. PMs, designers and founders describe what they want in plain English. Lightsprint reads the codebase, presents trade-offs and visual options styled to the actual app, generates a live preview, and ships a real pull request. It also closes the product loop - connect tools like Granola to surface insights from customer conversations, so our product agent builds what customers actually need.\r\n\r\nThe company is founded by Ben Ong, an AI investor who previously scaled AI products at SEA Group (NYSE: SE) and Temasek ($300B fund), Benedict Chan who was VP Engineering at Chainlink and CTO at BitGo (NYSE:BTGO), and Heng Hong Lee who built Facebook Messenger in 2013 and was Director of Engineering at Fazz (YC S17).",
-    "one_liner": "Product agent that lets non-engineering teammates ship real features",
+    "long_description": "Lightsprint is a product development platform designed to let non-engineering teammates ship real features to an existing codebase. PMs, designers and founders describe what they want in plain English. Lightsprint reads the codebase, presents trade-offs and visual options styled to the actual app, generates a live preview, and ships a real pull request. It also closes the product loop - connect tools like Granola to surface insights from customer conversations, so our product agent builds what customers actually need.\r\n\r\nThe company is founded by Ben Ong, an AI investor who previously scaled AI products at SEA Group (NYSE: SE) and Temasek ($300B fund), Benedict Chan who was VP Engineering at Chainlink and CTO at BitGo (NYSE:BTGO), and Heng Hong Lee who built Facebook Messenger in 2013 and was Director of Engineering at Fazz (YC S17).",
+    "one_liner": "Collaborative product development platform that lets non-engineering…",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -1608,16 +1601,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/dfc0518b0601b15bf131b045d7c9085b3ab4ac5e.png",
     "website": "https://www.elyrasystems.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Elyra offers AI-powered restaurant systems with built-in voice and email agents that manage bookings, customer relationships and communication.",
-    "one_liner": "AI Systems for Restaurants",
+    "long_description": "Elyra is an AI reservation system for restaurants with built-in voice and email agents that handle bookings end-to-end.",
+    "one_liner": "AI for Restaurant Reservations",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1776156708,
     "tags": [
+      "Artificial Intelligence",
       "SaaS",
-      "Restaurant Tech",
-      "AI"
+      "Restaurant Tech"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -2314,8 +2307,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/51ba58b94e0a45c3a3cc270067fe72dcf1f9027e.png",
     "website": "https://ontora.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Ontora gives C-suite leaders AI agents that interview every employee to uncover process bottlenecks across their organization. Consultants spend months doing this manually; Ontora does it in hours",
-    "one_liner": "AI agents that interview every employee in 24 hours to map how work…",
+    "long_description": "Ontora gives C-suite leaders AI agents that interview every employee to uncover process bottlenecks across their organization. Consultants spend months doing this manually; Ontora does it in hours.",
+    "one_liner": "AI agents that interview every employee to map how work gets done.",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Operations",
@@ -3216,10 +3209,11 @@
   },
   {
     "id": 31489,
-    "name": "Eden",
-    "slug": "edenrobotics",
+    "name": "Eden Robotics",
+    "slug": "eden-robotics",
     "former_names": [
-      "Eden Robotics Inc."
+      "Eden Robotics Inc.",
+      "Eden"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d769c33ef07da11294e43bb975e258d0ec8c712e.png",
     "website": "https://www.edenrobotics.ai",
@@ -3231,10 +3225,10 @@
     "subindustry": "Industrials -> Manufacturing and Robotics",
     "launched_at": 1775447037,
     "tags": [
+      "Artificial Intelligence",
       "Robotic Process Automation",
       "Robotics",
-      "Automation",
-      "AI"
+      "Automation"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -3255,8 +3249,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/edenrobotics",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/edenrobotics.json"
+    "url": "https://www.ycombinator.com/companies/eden-robotics",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/eden-robotics.json"
   },
   {
     "id": 31491,
@@ -3392,19 +3386,17 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/79f117b2c0a8e5660f929ae9a8070ce8dd61d0ff.png",
     "website": "https://openworklabs.com",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "",
     "long_description": "OpenWork is a desktop app that lets people connect to their existing skills, MCPs, and agents. Users can download the app for free, try it with over 50+ model providers, and easily share their setup with their team.",
     "one_liner": "The open source alternative to Claude Cowork",
     "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B -> Productivity",
     "launched_at": 1774277464,
-    "tags": [
-      "B2B"
-    ],
+    "tags": [],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Spring 2026",
     "status": "Active",
@@ -3413,8 +3405,7 @@
       "Productivity"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "Unspecified"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -3670,6 +3661,45 @@
     "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/indexable.json"
   },
   {
+    "id": 31527,
+    "name": "Revnu",
+    "slug": "revnu",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/37b7a4d126859b0a7edce4eaee5984ecd6f85757.png",
+    "website": "https://revnu.app/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Revnu is a growth team for founders addicted to building. \r\n\r\nPoint us at your product and autonomous agents start running your SEO, ads, cold outreach, A/B tests and more. All sharing a single intelligence layer, so every channel makes the others smarter. \r\n\r\nYou keep shipping. We run the business.",
+    "one_liner": "Everything but the app itself",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1776869663,
+    "tags": [
+      "Developer Tools",
+      "Marketing"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/revnu",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/revnu.json"
+  },
+  {
     "id": 31528,
     "name": "Asendia AI",
     "slug": "asendia-ai",
@@ -3677,8 +3707,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e735fee67a48586d3de061beb544a8ab8d481fc6.png",
     "website": "https://asendia.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "",
-    "one_liner": "Agentic recruitment platform",
+    "long_description": "Asendia AI builds AI recruiters for staffing agencies and enterprise companies. It clones their best recruiters into AI agents that match, screen, and submit candidates 10x faster.",
+    "one_liner": "AI Recruiters for Staffing Agencies and Enterprise",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Human Resources",

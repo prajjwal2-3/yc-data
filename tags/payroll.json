@@ -771,17 +771,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/97bee8995323297bfa4540365e98ff74a62aa5fd.png",
     "website": "https://usegrade.com",
     "all_locations": "",
-    "long_description": "Grade is the API for performance-based payroll. Think of us like Deel or Gusto, but our payouts are for work completed, not hours. Companies use Grade to pay AI agents and contractors based on results: tasks completed, targets hit, work delivered. We handle compliance, tax reporting, and global payouts. Grade powers payouts for AI agents and contractors we are at $452k ARR, $520K+ paid in the last 3 weeks, growing 46% MoM across 23 live companies.",
+    "long_description": "Grade is the API for performance-based payroll. Think of us like Deel or Gusto, but our payouts are for work completed, not hours. Companies use Grade to pay AI agents and contractors based on results: tasks completed, targets hit, work delivered. We handle compliance, tax reporting, and global payouts.",
     "one_liner": "API for performance-based payroll",
     "team_size": 2,
     "industry": "Fintech",
     "subindustry": "Fintech",
     "launched_at": 1768947933,
     "tags": [
+      "Artificial Intelligence",
       "Fintech",
       "Payments",
-      "Payroll",
-      "AI"
+      "Payroll"
     ],
     "tags_highlighted": [],
     "top_company": false,

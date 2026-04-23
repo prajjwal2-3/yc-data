@@ -10,7 +10,7 @@
     "Bastion",
     "Haleum"
   ],
-  "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4f571d3c338d1e148daee6fd089530bf3ce62ae4.png",
+  "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fb05bd36fb4b277d12ebca5a33307afd09834f65.png",
   "website": "https://candor.security/",
   "all_locations": "San Francisco, CA, USA",
   "long_description": "Insider threats cost the average enterprise $17.4M per year and take up to 3 months to contain. Most of those threats (employees leaking IP, contractors staging data for exfil, accounts misusing AI tools like Copilot) get buried in thousands of noisy alerts from traditional security tools. Candor changes this by telling your security team exactly who to watch before they cause damage. Zero tuning, detection from day one, and it actually learns from analyst feedback.",
@@ -20,8 +20,8 @@
   "subindustry": "B2B -> Security",
   "launched_at": 1740017526,
   "tags": [
-    "Artificial Intelligence",
-    "Cybersecurity"
+    "Cybersecurity",
+    "AI"
   ],
   "tags_highlighted": [],
   "top_company": false,

@@ -2600,12 +2600,12 @@
     "former_names": [
       "Sendwithus"
     ],
-    "small_logo_thumb_url": "/company/thumb/missing.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/14dfb847178b7f4bbd87cf5c343762a6ac57c19d.png",
     "website": "https://www.dyspatch.io",
-    "all_locations": "Victoria, BC, Canada",
-    "long_description": "Dyspatch by Sendwithus is a powerful communications platform built around advanced email content management. Our platform simplifies transactional email creation with a robust API, an easy to use editor, and built-in device testing, allowing for truly collaborative email strategy and execution.\r\n\r\nA centralized hub for email creation, approval, and publishing, our cloud-based solution empowers Product, Marketing, CRM, and Loyalty teams to efficiently build and test meaningful, dynamic communications without involving developers or deploying code. And with built-in support for 300+ locales, your teams can seamlessly manage localized content for global communications.\r\n\r\nEasily connect your cloud email provider or customize your integration to connect to your digital messaging service. Upload your existing templates in minutes. And from there, you’re well on your way to optimizing every email you send.",
-    "one_liner": "Two products to help everyone email better. Dyspatch.io - Email…",
-    "team_size": 10,
+    "all_locations": "Victoria, BC, Canada; Remote",
+    "long_description": "Dyspatch is an AI-powered communications platform that transforms how teams build and manage transactional email at scale.\r\nOur platform uses AI to accelerate email creation — from generating and refining content to automating localization across 300+ locales — so your Product, Marketing, and CRM teams can ship polished, dynamic emails without touching code or waiting on developers.\r\nA centralized hub for creation, approval, and publishing, Dyspatch connects directly to your existing cloud email provider or messaging service. Upload your templates in minutes, and let AI handle the heavy lifting: optimizing copy, personalizing at scale, and streamlining the entire review-to-send workflow.\r\nBuilt for teams that move fast. No devs required.",
+    "one_liner": "AI Email Production - Emails on brand, guaranteed to work, fast.",
+    "team_size": 20,
     "industry": "B2B",
     "subindustry": "B2B -> Marketing",
     "launched_at": 1385118322,
@@ -2627,9 +2627,9 @@
       "Canada",
       "America / Canada",
       "Remote",
-      "Partly Remote"
+      "Fully Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -5981,10 +5981,10 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2017",
-    "status": "Active",
+    "status": "Acquired",
     "industries": [
       "B2B",
       "Office Management"
@@ -5995,7 +5995,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": true,
     "app_answers": true,
@@ -14758,7 +14758,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2020",
     "status": "Active",
@@ -22108,16 +22108,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7fbfc5106c32c35b1a0242652667b0ea1ceb47b8.png",
     "website": "https://abstra.io",
     "all_locations": "Rio de Janeiro, RJ, Brazil; Remote",
-    "long_description": "Scale business processes with orchestrated scripts, integrations and UIs. Skip engineering hours, stay auditable & lock-in free.",
-    "one_liner": "Python-based BPM",
-    "team_size": 10,
+    "long_description": "Abstra is a platform that allows finance teams to build, run, and automate their workflows using Python and AI.\r\n\r\nInstead of relying on spreadsheets, ERPs, and manual processes, teams can create programmable workflows for tasks like reporting, reconciliations, approvals, and integrations with systems like SAP.\r\n\r\nWe provide a developer-friendly environment where finance and technical teams can turn business processes into code, connect to their existing tools, and run everything in a controlled, auditable way.\r\n\r\nOur goal is to become the operating system for finance operations, where workflows are not static or manual, but versioned, automated, and continuously improved.",
+    "one_liner": "Automate finance operations with Python and AI",
+    "team_size": 18,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1625673912,
     "tags": [
       "Artificial Intelligence",
-      "Developer Tools",
       "SaaS",
+      "Finance",
       "B2B",
       "Automation"
     ],
@@ -23844,7 +23844,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6427a932886d345ee567b4d32212b20d32be6163.png",
     "website": "https://aitechpacks.com",
     "all_locations": "Los Angeles, CA, USA",
-    "long_description": "AI Tech Packs turns images into production-ready tech packs within minutes. We allow fashion brands to save hundreds of hours and thousands of dollars otherwise spent creating manual tech packs — which typically cost $100–$500 per style and take days or even weeks to complete.",
+    "long_description": "AI Tech Packs is software that generates factory-ready techpacks in minutes for apparel design teams who currently spend 3-4 hours on each one. Our customers are brands, licensing companies, and manufacturers producing 200+ techpacks a month. We make their designers 3x more productive without new hires.",
     "one_liner": "Build factory ready tech packs in minutes.",
     "team_size": 2,
     "industry": "B2B",
@@ -29793,16 +29793,16 @@
     "all_locations": "New York, NY, USA",
     "long_description": "From content moderation to responsible AI, Cinder empowers businesses to orchestrate and automate digital safety at scale. Cinder was founded to help organizations foster safe online spaces for everyone. Our platform empowers companies from start-ups to enterprises with end-to-end capabilities to mitigate harm, investigate abuse, and produce trustworthy and reliable AI outcomes. Building your world-class company means keeping your users and community safe—Cinder unlocks faster growth by making safety easy. We work with customers in every industry from frontier AI labs to e-commerce and social media. \r\n\r\nWe're hiring across a variety of teams and looking for candidates based in NYC or open to relocating to NYC, and able to work in-person.",
     "one_liner": "Infrastructure to protect companies from AI abuse",
-    "team_size": 23,
+    "team_size": 30,
     "industry": "B2B",
     "subindustry": "B2B -> Security",
     "launched_at": 1647554051,
     "tags": [
-      "Artificial Intelligence",
       "SaaS",
       "B2B",
       "Compliance",
-      "Trust & Safety"
+      "Trust & Safety",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -29820,7 +29820,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -32699,50 +32699,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/tranch",
     "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2022/tranch.json"
-  },
-  {
-    "id": 26776,
-    "name": "Overwatch",
-    "slug": "overwatch",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1def1e618878c538c08d4635fb23a133ed14d476.png",
-    "website": "http://www.overwatchdata.ai",
-    "all_locations": "New York, NY, USA",
-    "long_description": "Overwatch Data offers real-time, actionable intelligence tailored for your fraud, security, and strategic insights teams. Our platform provides a comprehensive and contextualized view of opportunities and risks, drawing on the surface, social, and deep web, thereby enabling faster, data-driven decision-making.",
-    "one_liner": "Enterprise software for strategic, risk, and cyber fraud intelligence",
-    "team_size": 5,
-    "industry": "B2B",
-    "subindustry": "B2B -> Security",
-    "launched_at": 1657829137,
-    "tags": [
-      "SaaS",
-      "Supply Chain",
-      "Cybersecurity",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2022",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Security"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/overwatch",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2022/overwatch.json"
   },
   {
     "id": 26780,
@@ -35766,9 +35722,9 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c0f30c988fde8ec60cc14e8c5cf656b62cd6d35d.png",
     "website": "https://www.numeral.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Numeral is the fastest, easiest way to stay compliant with US sales tax and global VAT. \r\n\r\nTrusted by 2,000+ businesses, including Eight Sleep, Ridge, and Manus, our end-to-end platform keeps our customers compliant wherever they sell, with registrations, filings, calculations, and ongoing compliance support.\r\n\r\nNumeral’s AI-native solution covers more than 70 countries and tens of thousands of jurisdictions and is built for accuracy and scale.",
+    "long_description": "Numeral is the fastest, easiest way to stay compliant with US sales tax and global VAT. \r\n\r\nTrusted by 3,000+ businesses, including Eight Sleep, Ridge, and Manus, our end-to-end platform keeps our customers compliant wherever they sell, with registrations, filings, calculations, and ongoing compliance support.\r\n\r\nNumeral’s AI-native solution covers more than 70 countries and tens of thousands of jurisdictions and is built for accuracy and scale.",
     "one_liner": "The AI-native sales tax solution.",
-    "team_size": 85,
+    "team_size": 100,
     "industry": "B2B",
     "subindustry": "B2B -> Finance and Accounting",
     "launched_at": 1672355505,
@@ -35795,7 +35751,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -41335,11 +41291,11 @@
       "Sage",
       "Collate"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8410f1b40522f461a5e5bb56266f4f053b29bffa.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8bc7c40a368d66db588fec716bdb4cfc3dba48d1.png",
     "website": "https://www.usecentralize.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Centralize helps revenue teams operationalize multi-threading and drive warm pipeline. Reps at companies like Sendoso, Ethena, and Navattic use us to automatically map stakeholders, track evolving account priorities, and fill contact gaps by leveraging their networks for warm intros.",
-    "one_liner": "The AI-powered deal collaboration platform for high ACV revenue teams",
+    "long_description": "Centralize is the relationship intelligence platform for enterprise revenue. We show reps who they know inside every deal, who they're missing, and the fastest path to the decision-makers who close it. We're building the graph of who trusts who in B2B.",
+    "one_liner": "The relationship intelligence platform for enterprise revenue",
     "team_size": 6,
     "industry": "B2B",
     "subindustry": "B2B -> Sales",
@@ -42753,7 +42709,7 @@
       "Belgium",
       "Europe"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -46707,10 +46663,10 @@
     "subindustry": "B2B",
     "launched_at": 1755052091,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "SaaS",
-      "Infrastructure"
+      "Infrastructure",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -46732,50 +46688,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/callingbox",
     "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2025/callingbox.json"
-  },
-  {
-    "id": 30646,
-    "name": "Humwork",
-    "slug": "humwork",
-    "former_names": [
-      "Qualify.bot"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/63357814f2f59989ae18e2736412df94c2d8bc31.png",
-    "website": "https://humwork.ai",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Humwork lets AI agents chat with human experts in real-time. When AI agents like Claude Code or OpenClaw hit a wall, Humwork's MCP server connects them to a verified domain expert in under 30 seconds. Our experts include senior engineers, lawyers, marketers, designers, and more.",
-    "one_liner": "Connect AI agents to human experts in 30 seconds",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1753843448,
-    "tags": [
-      "Marketplace",
-      "SaaS",
-      "B2B",
-      "Remote Work",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Spring 2026",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/humwork",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/humwork.json"
   },
   {
     "id": 30652,
@@ -48481,16 +48393,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/dfc0518b0601b15bf131b045d7c9085b3ab4ac5e.png",
     "website": "https://www.elyrasystems.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Elyra offers AI-powered restaurant systems with built-in voice and email agents that manage bookings, customer relationships and communication.",
-    "one_liner": "AI Systems for Restaurants",
+    "long_description": "Elyra is an AI reservation system for restaurants with built-in voice and email agents that handle bookings end-to-end.",
+    "one_liner": "AI for Restaurant Reservations",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1776156708,
     "tags": [
+      "Artificial Intelligence",
       "SaaS",
-      "Restaurant Tech",
-      "AI"
+      "Restaurant Tech"
     ],
     "tags_highlighted": [],
     "top_company": false,

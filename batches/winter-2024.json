@@ -4891,21 +4891,22 @@
   },
   {
     "id": 29355,
-    "name": "phospho",
-    "slug": "phospho",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/18adb73f19cdc6d40006f80186b22f0d0a3b08ff.png",
-    "website": "https://phospho.ai",
+    "name": "NanoCorp",
+    "slug": "nanocorp",
+    "former_names": [
+      "phospho"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4d7970f5f9c344788556040b8a81a00a576fcef8.png",
+    "website": "https://nanocorp.so",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "phospho provides sdks, tutorials and hardware kits for real-world robotics in Python. The goal is to lower the barrier for entry to robotics so that everyone can start building intelligent robots.",
-    "one_liner": "Give brains to robots",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B",
+    "long_description": "NanoCorp is the platform to create and run autonomous companies. In just one prompt, get an autonomous company run by an agent that maximizes revenues while trying to avoid bankruptcy with no human intervention.",
+    "one_liner": "Autonomous Companies Run by AI Working While You Sleep.",
+    "team_size": 1,
+    "industry": "Consumer",
+    "subindustry": "Consumer",
     "launched_at": 1704472093,
     "tags": [
-      "Artificial Intelligence",
-      "Robotics"
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -4914,7 +4915,7 @@
     "batch": "Winter 2024",
     "status": "Active",
     "industries": [
-      "B2B"
+      "Consumer"
     ],
     "regions": [
       "United States of America",
@@ -4925,8 +4926,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/phospho",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2024/phospho.json"
+    "url": "https://www.ycombinator.com/companies/nanocorp",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2024/nanocorp.json"
   },
   {
     "id": 29356,
@@ -4936,11 +4937,11 @@
       "Sage",
       "Collate"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8410f1b40522f461a5e5bb56266f4f053b29bffa.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8bc7c40a368d66db588fec716bdb4cfc3dba48d1.png",
     "website": "https://www.usecentralize.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Centralize helps revenue teams operationalize multi-threading and drive warm pipeline. Reps at companies like Sendoso, Ethena, and Navattic use us to automatically map stakeholders, track evolving account priorities, and fill contact gaps by leveraging their networks for warm intros.",
-    "one_liner": "The AI-powered deal collaboration platform for high ACV revenue teams",
+    "long_description": "Centralize is the relationship intelligence platform for enterprise revenue. We show reps who they know inside every deal, who they're missing, and the fastest path to the decision-makers who close it. We're building the graph of who trusts who in B2B.",
+    "one_liner": "The relationship intelligence platform for enterprise revenue",
     "team_size": 6,
     "industry": "B2B",
     "subindustry": "B2B -> Sales",

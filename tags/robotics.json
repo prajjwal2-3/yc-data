@@ -2669,45 +2669,6 @@
     "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2024/pivot-robotics.json"
   },
   {
-    "id": 29355,
-    "name": "phospho",
-    "slug": "phospho",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/18adb73f19cdc6d40006f80186b22f0d0a3b08ff.png",
-    "website": "https://phospho.ai",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "phospho provides sdks, tutorials and hardware kits for real-world robotics in Python. The goal is to lower the barrier for entry to robotics so that everyone can start building intelligent robots.",
-    "one_liner": "Give brains to robots",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1704472093,
-    "tags": [
-      "Artificial Intelligence",
-      "Robotics"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2024",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/phospho",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2024/phospho.json"
-  },
-  {
     "id": 29402,
     "name": "Yondu",
     "slug": "yondu",
@@ -4469,10 +4430,11 @@
   },
   {
     "id": 31489,
-    "name": "Eden",
-    "slug": "edenrobotics",
+    "name": "Eden Robotics",
+    "slug": "eden-robotics",
     "former_names": [
-      "Eden Robotics Inc."
+      "Eden Robotics Inc.",
+      "Eden"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d769c33ef07da11294e43bb975e258d0ec8c712e.png",
     "website": "https://www.edenrobotics.ai",
@@ -4484,10 +4446,10 @@
     "subindustry": "Industrials -> Manufacturing and Robotics",
     "launched_at": 1775447037,
     "tags": [
+      "Artificial Intelligence",
       "Robotic Process Automation",
       "Robotics",
-      "Automation",
-      "AI"
+      "Automation"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -4508,7 +4470,7 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/edenrobotics",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/edenrobotics.json"
+    "url": "https://www.ycombinator.com/companies/eden-robotics",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/eden-robotics.json"
   }
 ]

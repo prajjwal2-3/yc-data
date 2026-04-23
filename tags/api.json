@@ -6126,17 +6126,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d5457b412312bd26ecc72ccead99d16248cd087a.png",
     "website": "https://www.archal.ai/",
     "all_locations": "Boulder, CO, USA",
-    "long_description": "Archal is the staging environment for AI agents. Agents can now write to databases, trigger payments, and push code to production, but dev teams today have no reliable way to test them. We created Archal because we as developers found it frustrating that only way to know what an agent would do in production is to put it in production, meaning you can only discover failures after the damage is done. \r\n\r\nArchal solves this gap by creating stateful clones of software services at scale, so agents can be tested against realistic environments before deployment. These clones carry the business logic and edge cases that make them indistinguishable from the real services to AI agents, meaning agents and harnesses can be tested before they enter production.\r\n\r\nOur platform goes beyond agents by being the ideal platform for testing any outward interacting software. Any code that creates tickets, sends messages, implements business logic should be tested, but mocks are insufficient. Our simulation of software worlds solves this problem, changing the nature of what can feasibly be tested by developers.\r\n\r\nYou would never hire an employee without interviewing them or force push code to the real world. Why would you do the equivalent for an agent?",
+    "long_description": "Archal lets you test agents and code that touch third-party APIs without hitting the real services. We build working digital twins that hold state across requests and behave like the originals, so you catch bugs before your agent does something irreversible in production.",
     "one_liner": "The eval platform for autonomous software",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1776709029,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "API",
-      "Infrastructure",
-      "AI"
+      "Infrastructure"
     ],
     "tags_highlighted": [],
     "top_company": false,

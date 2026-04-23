@@ -3958,18 +3958,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f6dd000652c5e77966ee483897c0ffed9dac2d80.png",
     "website": "https://wild-card.ai",
     "all_locations": "",
-    "long_description": "Wildcard is the infrastructure platform for e-commerce brands to succeed in ChatGPT and AI shopping. We give brands SKU-level visibility into how their products appear and perform inside AI assistants—showing when they surface, why they don’t, and how to fix product attributes to improve discovery and conversion.\r\n\r\nAs AI shopping standardizes, Wildcard will help merchants activate next-generation experiences through the Agentic Commerce Protocol (ACP).",
-    "one_liner": "Sell Products in ChatGPT Shopping",
+    "long_description": "Wildcard is the AEO and GEO platform designed specifically for e-commerce and retail brands. We help merchants improve visibility across AI search and AI shopping platforms like ChatGPT, Google AI Overviews, Gemini, and Amazon Rufus.\r\n\r\nWildcard tracks how brands, categories, collections, and SKUs appear across AI search results, identifies visibility gaps, and turns those insights into actions. We use AI agents to enrich product data, generate SEO, AEO, and GEO content, create collection and comparison pages, build FAQs, and improve off-site discoverability across Reddit, YouTube, blogs, and other sources.\r\n\r\nAs AI shopping evolves, Wildcard is building the infrastructure brands need to win in agentic commerce, including support for emerging standards like the Agentic Commerce Protocol (ACP) and Universal Commerce Protocol (UCP).",
+    "one_liner": "AEO/GEO platform for ChatGPT Shopping & AI Commerce",
     "team_size": 1,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1738308751,
     "tags": [
-      "Artificial Intelligence",
       "Generative AI",
       "E-commerce",
       "Marketing",
-      "Retail Tech"
+      "Retail Tech",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -4305,6 +4305,48 @@
     "api": "https://prajjwal2-3.github.io/yc-data/batches/fall-2025/lapis.json"
   },
   {
+    "id": 30938,
+    "name": "Imagine AI",
+    "slug": "imagine-ai",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c7fea0a13d1489e9cf0af037ebeefb78a17652c2.png",
+    "website": "https://imagineai.me",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Imagine AI is a research and software company reverse engineering modern B2B growth, starting with LinkedIn.\r\n\r\nWe build coordinated content systems for executive teams, where the CEO, VP of Sales, and Head of Marketing post aligned narratives from a single calendar, producing compounding reach that single-founder posting cannot reach.\r\n\r\n50+ B2B companies are now using Imagine AI, including MongoDB, Rippling, Slash, and Corgi Insurance. Customers have generated $31M in attributed revenue, 12M impressions, and 1,400 hours of executive time saved.",
+    "one_liner": "We reverse engineer B2B growth, starting with LinkedIn.",
+    "team_size": 5,
+    "industry": "B2B",
+    "subindustry": "B2B -> Sales",
+    "launched_at": 1757695309,
+    "tags": [
+      "B2B",
+      "Sales",
+      "Marketing",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Fall 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Sales"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/imagine-ai",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/fall-2025/imagine-ai.json"
+  },
+  {
     "id": 30958,
     "name": "Absurd",
     "slug": "absurd",
@@ -4432,5 +4474,44 @@
     "question_answers": true,
     "url": "https://www.ycombinator.com/companies/sherpa",
     "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/sherpa.json"
+  },
+  {
+    "id": 31527,
+    "name": "Revnu",
+    "slug": "revnu",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/37b7a4d126859b0a7edce4eaee5984ecd6f85757.png",
+    "website": "https://revnu.app/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Revnu is a growth team for founders addicted to building. \r\n\r\nPoint us at your product and autonomous agents start running your SEO, ads, cold outreach, A/B tests and more. All sharing a single intelligence layer, so every channel makes the others smarter. \r\n\r\nYou keep shipping. We run the business.",
+    "one_liner": "Everything but the app itself",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1776869663,
+    "tags": [
+      "Developer Tools",
+      "Marketing"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/revnu",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/revnu.json"
   }
 ]

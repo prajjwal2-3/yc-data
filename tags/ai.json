@@ -1326,7 +1326,7 @@
       "Remote",
       "Fully Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": true,
     "app_answers": null,
@@ -8772,6 +8772,51 @@
     "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2022/airwork.json"
   },
   {
+    "id": 25763,
+    "name": "Cinder",
+    "slug": "cinder-2",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/11e79fdb615e4008b53b6d456fb9c93446ae9d40.png",
+    "website": "http://www.cinder.co",
+    "all_locations": "New York, NY, USA",
+    "long_description": "From content moderation to responsible AI, Cinder empowers businesses to orchestrate and automate digital safety at scale. Cinder was founded to help organizations foster safe online spaces for everyone. Our platform empowers companies from start-ups to enterprises with end-to-end capabilities to mitigate harm, investigate abuse, and produce trustworthy and reliable AI outcomes. Building your world-class company means keeping your users and community safe—Cinder unlocks faster growth by making safety easy. We work with customers in every industry from frontier AI labs to e-commerce and social media. \r\n\r\nWe're hiring across a variety of teams and looking for candidates based in NYC or open to relocating to NYC, and able to work in-person.",
+    "one_liner": "Infrastructure to protect companies from AI abuse",
+    "team_size": 30,
+    "industry": "B2B",
+    "subindustry": "B2B -> Security",
+    "launched_at": 1647554051,
+    "tags": [
+      "SaaS",
+      "B2B",
+      "Compliance",
+      "Trust & Safety",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2022",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Security"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/cinder-2",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2022/cinder-2.json"
+  },
+  {
     "id": 25777,
     "name": "BotCity",
     "slug": "botcity",
@@ -10643,50 +10688,6 @@
     "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2022/paragon-ai.json"
   },
   {
-    "id": 26776,
-    "name": "Overwatch",
-    "slug": "overwatch",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1def1e618878c538c08d4635fb23a133ed14d476.png",
-    "website": "http://www.overwatchdata.ai",
-    "all_locations": "New York, NY, USA",
-    "long_description": "Overwatch Data offers real-time, actionable intelligence tailored for your fraud, security, and strategic insights teams. Our platform provides a comprehensive and contextualized view of opportunities and risks, drawing on the surface, social, and deep web, thereby enabling faster, data-driven decision-making.",
-    "one_liner": "Enterprise software for strategic, risk, and cyber fraud intelligence",
-    "team_size": 5,
-    "industry": "B2B",
-    "subindustry": "B2B -> Security",
-    "launched_at": 1657829137,
-    "tags": [
-      "SaaS",
-      "Supply Chain",
-      "Cybersecurity",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2022",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Security"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/overwatch",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2022/overwatch.json"
-  },
-  {
     "id": 26778,
     "name": "Blee",
     "slug": "blee",
@@ -12312,6 +12313,49 @@
     "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2023/middleware.json"
   },
   {
+    "id": 27667,
+    "name": "StackAI",
+    "slug": "stackai",
+    "former_names": [
+      "Stack",
+      "Stack AI"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f0b69f56464fb22aa0805117c2f93c2b32f1c717.png",
+    "website": "https://www.stackai.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "With StackAI, any organization can deploy custom AI agents to automate its back-office operations. Our low-code interface allows teams of all levels of expertise to build internal tools.\r\n\r\nHundreds of companies use StackAI to build knowledge-based AI assistants, fill out RFPs and questionnaires, automate content QA, conduct due diligence research, and extract data from documents.",
+    "one_liner": "The Enterprise AI Transformation Platform",
+    "team_size": 55,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1673634480,
+    "tags": [
+      "Enterprise",
+      "Automation",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2023",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Growth",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/stackai",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2023/stackai.json"
+  },
+  {
     "id": 27668,
     "name": "Designbase",
     "slug": "designbase",
@@ -12446,50 +12490,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/trigger-dev",
     "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2023/trigger-dev.json"
-  },
-  {
-    "id": 27690,
-    "name": "Credal.ai",
-    "slug": "credal-ai",
-    "former_names": [
-      "Credal.AI"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/67584a441ac14e21e59b84f0e3760e5308aaf4dc.png",
-    "website": "https://credal.ai",
-    "all_locations": "New York, NY, USA",
-    "long_description": "Build enterprise-grade MCP servers and AI agents and publish them into any chat surface. Powered by your data and tools, subject to enterprise controls.",
-    "one_liner": "Connect AI to every tool. Enterprise security built in.",
-    "team_size": 14,
-    "industry": "B2B",
-    "subindustry": "B2B -> Productivity",
-    "launched_at": 1669993072,
-    "tags": [
-      "Generative AI",
-      "Cybersecurity",
-      "Enterprise",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Winter 2023",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Productivity"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/credal-ai",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2023/credal-ai.json"
   },
   {
     "id": 27694,
@@ -19424,6 +19424,46 @@
     "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2024/crmcopilot.json"
   },
   {
+    "id": 29355,
+    "name": "NanoCorp",
+    "slug": "nanocorp",
+    "former_names": [
+      "phospho"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4d7970f5f9c344788556040b8a81a00a576fcef8.png",
+    "website": "https://nanocorp.so",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "NanoCorp is the platform to create and run autonomous companies. In just one prompt, get an autonomous company run by an agent that maximizes revenues while trying to avoid bankruptcy with no human intervention.",
+    "one_liner": "Autonomous Companies Run by AI Working While You Sleep.",
+    "team_size": 1,
+    "industry": "Consumer",
+    "subindustry": "Consumer",
+    "launched_at": 1704472093,
+    "tags": [
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2024",
+    "status": "Active",
+    "industries": [
+      "Consumer"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/nanocorp",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2024/nanocorp.json"
+  },
+  {
     "id": 29356,
     "name": "Centralize",
     "slug": "centralize",
@@ -19431,11 +19471,11 @@
       "Sage",
       "Collate"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8410f1b40522f461a5e5bb56266f4f053b29bffa.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8bc7c40a368d66db588fec716bdb4cfc3dba48d1.png",
     "website": "https://www.usecentralize.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Centralize helps revenue teams operationalize multi-threading and drive warm pipeline. Reps at companies like Sendoso, Ethena, and Navattic use us to automatically map stakeholders, track evolving account priorities, and fill contact gaps by leveraging their networks for warm intros.",
-    "one_liner": "The AI-powered deal collaboration platform for high ACV revenue teams",
+    "long_description": "Centralize is the relationship intelligence platform for enterprise revenue. We show reps who they know inside every deal, who they're missing, and the fastest path to the decision-makers who close it. We're building the graph of who trusts who in B2B.",
+    "one_liner": "The relationship intelligence platform for enterprise revenue",
     "team_size": 6,
     "industry": "B2B",
     "subindustry": "B2B -> Sales",
@@ -23975,6 +24015,54 @@
     "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2024/orca-launcher.json"
   },
   {
+    "id": 29835,
+    "name": "Voker",
+    "slug": "voker",
+    "former_names": [
+      "Invoke AI",
+      "Invoke Labs"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/efc5cb21ff2d8c0c7bf12fe360a1eb51bd8d4d0d.png",
+    "website": "https://voker.ai",
+    "all_locations": "Los Angeles, CA, USA",
+    "long_description": "Voker is the Agent Analytics Platform for monitoring and improving your AI agents. Companies like Dutch.com use our SDK to build better agents.\r\n\r\nAlex and Tyler met at a high-growth E-Commerce startup where Tyler was running Technology & Data. Together, they built AI products that bootstrapped the company profitably to $100MM in Revenue.",
+    "one_liner": "The Agent Analytics Platform",
+    "team_size": 6,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1722887304,
+    "tags": [
+      "Developer Tools",
+      "Generative AI",
+      "Analytics",
+      "Big Data",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2024",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/voker",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2024/voker.json"
+  },
+  {
     "id": 29836,
     "name": "TradeFlow",
     "slug": "tradeflow",
@@ -26698,6 +26786,53 @@
     "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2025/mundo-ai.json"
   },
   {
+    "id": 30273,
+    "name": "Candor",
+    "slug": "candor-security",
+    "former_names": [
+      "Physion Works",
+      "Sophris",
+      "Mirror",
+      "Anomaly",
+      "Bastion",
+      "Haleum"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fb05bd36fb4b277d12ebca5a33307afd09834f65.png",
+    "website": "https://candor.security/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Insider threats cost the average enterprise $17.4M per year and take up to 3 months to contain. Most of those threats (employees leaking IP, contractors staging data for exfil, accounts misusing AI tools like Copilot) get buried in thousands of noisy alerts from traditional security tools. Candor changes this by telling your security team exactly who to watch before they cause damage. Zero tuning, detection from day one, and it actually learns from analyst feedback.",
+    "one_liner": "Insider Threat for the Modern Enterprise",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B -> Security",
+    "launched_at": 1740017526,
+    "tags": [
+      "Cybersecurity",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Security"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/candor-security",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2025/candor-security.json"
+  },
+  {
     "id": 30276,
     "name": "General Trajectory",
     "slug": "general-trajectory",
@@ -27082,6 +27217,48 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/mastra",
     "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2025/mastra.json"
+  },
+  {
+    "id": 30318,
+    "name": "Wildcard",
+    "slug": "wildcard",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f6dd000652c5e77966ee483897c0ffed9dac2d80.png",
+    "website": "https://wild-card.ai",
+    "all_locations": "",
+    "long_description": "Wildcard is the AEO and GEO platform designed specifically for e-commerce and retail brands. We help merchants improve visibility across AI search and AI shopping platforms like ChatGPT, Google AI Overviews, Gemini, and Amazon Rufus.\r\n\r\nWildcard tracks how brands, categories, collections, and SKUs appear across AI search results, identifies visibility gaps, and turns those insights into actions. We use AI agents to enrich product data, generate SEO, AEO, and GEO content, create collection and comparison pages, build FAQs, and improve off-site discoverability across Reddit, YouTube, blogs, and other sources.\r\n\r\nAs AI shopping evolves, Wildcard is building the infrastructure brands need to win in agentic commerce, including support for emerging standards like the Agentic Commerce Protocol (ACP) and Universal Commerce Protocol (UCP).",
+    "one_liner": "AEO/GEO platform for ChatGPT Shopping & AI Commerce",
+    "team_size": 1,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1738308751,
+    "tags": [
+      "Generative AI",
+      "E-commerce",
+      "Marketing",
+      "Retail Tech",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/wildcard",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2025/wildcard.json"
   },
   {
     "id": 30321,
@@ -27727,47 +27904,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/kanava-ai",
     "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2025/kanava-ai.json"
-  },
-  {
-    "id": 30421,
-    "name": "SynthioLabs",
-    "slug": "synthiolabs",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9098a7fb6ce97083cb31b3aea4f58a15ab42e106.png",
-    "website": "https://synthiolabs.com/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "The intelligence layer behind modern life sciences engagement, enabling compliant, continuous conversations across HCPs, patients, and field teams",
-    "one_liner": "Agentic AI platform for Pharma GTM teams",
-    "team_size": 8,
-    "industry": "Healthcare",
-    "subindustry": "Healthcare",
-    "launched_at": 1744430433,
-    "tags": [
-      "Biotech",
-      "Healthcare",
-      "Enterprise",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Spring 2025",
-    "status": "Active",
-    "industries": [
-      "Healthcare"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/synthiolabs",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2025/synthiolabs.json"
   },
   {
     "id": 30423,
@@ -29526,6 +29662,50 @@
     "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2025/blank-bio.json"
   },
   {
+    "id": 30614,
+    "name": "Astor",
+    "slug": "astor",
+    "former_names": [
+      "Gaus"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/84b5fdcf24f0c61830898968d03a605cac559df3.png",
+    "website": "https://astor.app/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Astor is an AI investment advisor for retail investors.\r\n\r\nFounded by Bruno Koba (Nubank, monashees) and Daniel Tulha (Stripe, Robinhood), Astor gives every active investor an AI investment advisor working around the clock to surface their next great investment. We’re backed by YC (S25).\r\n\r\nRetail investors now account for 25% of all U.S. trading volume, nearly double from 2012. But over 56% still say they don’t feel confident in their investment decisions. Astor fixes that. \r\n\r\nOur AI agents uncover opportunities, decode emerging trends, and deliver analysis tailored to you. Instead of drowning in noise, investors gain a clear edge, shifting from guesswork to confident decision-making.\r\n",
+    "one_liner": "AI advisor for retail investors",
+    "team_size": 5,
+    "industry": "Fintech",
+    "subindustry": "Fintech -> Consumer Finance",
+    "launched_at": 1754607917,
+    "tags": [
+      "Fintech",
+      "Investing",
+      "Consumer Finance",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "Fintech",
+      "Consumer Finance"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/astor",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2025/astor.json"
+  },
+  {
     "id": 30615,
     "name": "Lanesurf",
     "slug": "lanesurf",
@@ -29657,6 +29837,49 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/playgent",
     "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2025/playgent.json"
+  },
+  {
+    "id": 30625,
+    "name": "CallingBox",
+    "slug": "callingbox",
+    "former_names": [
+      "ZeroEval"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b30f804e803044d636a123b1124cda00f1065ed2.png",
+    "website": "https://callingbox.io",
+    "all_locations": "New York, NY, USA",
+    "long_description": "Make AI phone calls from a single API call. ",
+    "one_liner": "The API for AI phone calls",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1755052091,
+    "tags": [
+      "Developer Tools",
+      "SaaS",
+      "Infrastructure",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/callingbox",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2025/callingbox.json"
   },
   {
     "id": 30626,
@@ -29827,50 +30050,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/wafer",
     "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2025/wafer.json"
-  },
-  {
-    "id": 30646,
-    "name": "Humwork",
-    "slug": "humwork",
-    "former_names": [
-      "Qualify.bot"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/63357814f2f59989ae18e2736412df94c2d8bc31.png",
-    "website": "https://humwork.ai",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Humwork lets AI agents chat with human experts in real-time. When AI agents like Claude Code or OpenClaw hit a wall, Humwork's MCP server connects them to a verified domain expert in under 30 seconds. Our experts include senior engineers, lawyers, marketers, designers, and more.",
-    "one_liner": "Connect AI agents to human experts in 30 seconds",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1753843448,
-    "tags": [
-      "Marketplace",
-      "SaaS",
-      "B2B",
-      "Remote Work",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Spring 2026",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/humwork",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/humwork.json"
   },
   {
     "id": 30649,
@@ -30391,6 +30570,49 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/goriff",
     "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2025/goriff.json"
+  },
+  {
+    "id": 30707,
+    "name": "Phases",
+    "slug": "phases",
+    "former_names": [
+      "Patiently"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7f48e664a460b19faede05bd1de6c49c5d3931a9.png",
+    "website": "https://phases.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Phases deploys AI agents to oversee clinical trials, improving operational performance, data quality, and audit readiness by identifying risks and taking actions autonomously to solve issues.",
+    "one_liner": "Automated clinical trial oversight and execution",
+    "team_size": 3,
+    "industry": "Healthcare",
+    "subindustry": "Healthcare -> Healthcare IT",
+    "launched_at": 1751998711,
+    "tags": [
+      "Healthcare IT",
+      "AI",
+      "Conversational AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "Healthcare",
+      "Healthcare IT"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/phases",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2025/phases.json"
   },
   {
     "id": 30711,
@@ -32453,6 +32675,48 @@
     "api": "https://prajjwal2-3.github.io/yc-data/batches/fall-2025/anto-biosciences.json"
   },
   {
+    "id": 30938,
+    "name": "Imagine AI",
+    "slug": "imagine-ai",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c7fea0a13d1489e9cf0af037ebeefb78a17652c2.png",
+    "website": "https://imagineai.me",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Imagine AI is a research and software company reverse engineering modern B2B growth, starting with LinkedIn.\r\n\r\nWe build coordinated content systems for executive teams, where the CEO, VP of Sales, and Head of Marketing post aligned narratives from a single calendar, producing compounding reach that single-founder posting cannot reach.\r\n\r\n50+ B2B companies are now using Imagine AI, including MongoDB, Rippling, Slash, and Corgi Insurance. Customers have generated $31M in attributed revenue, 12M impressions, and 1,400 hours of executive time saved.",
+    "one_liner": "We reverse engineer B2B growth, starting with LinkedIn.",
+    "team_size": 5,
+    "industry": "B2B",
+    "subindustry": "B2B -> Sales",
+    "launched_at": 1757695309,
+    "tags": [
+      "B2B",
+      "Sales",
+      "Marketing",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Fall 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Sales"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/imagine-ai",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/fall-2025/imagine-ai.json"
+  },
+  {
     "id": 30943,
     "name": "Aside",
     "slug": "aside",
@@ -33440,50 +33704,6 @@
     "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2026/inventoryquant.json"
   },
   {
-    "id": 31216,
-    "name": "Archal",
-    "slug": "archal",
-    "former_names": [
-      "Archal Labs"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d5457b412312bd26ecc72ccead99d16248cd087a.png",
-    "website": "https://www.archal.ai/",
-    "all_locations": "Boulder, CO, USA",
-    "long_description": "Archal is the staging environment for AI agents. Agents can now write to databases, trigger payments, and push code to production, but dev teams today have no reliable way to test them. We created Archal because we as developers found it frustrating that only way to know what an agent would do in production is to put it in production, meaning you can only discover failures after the damage is done. \r\n\r\nArchal solves this gap by creating stateful clones of software services at scale, so agents can be tested against realistic environments before deployment. These clones carry the business logic and edge cases that make them indistinguishable from the real services to AI agents, meaning agents and harnesses can be tested before they enter production.\r\n\r\nOur platform goes beyond agents by being the ideal platform for testing any outward interacting software. Any code that creates tickets, sends messages, implements business logic should be tested, but mocks are insufficient. Our simulation of software worlds solves this problem, changing the nature of what can feasibly be tested by developers.\r\n\r\nYou would never hire an employee without interviewing them or force push code to the real world. Why would you do the equivalent for an agent?",
-    "one_liner": "The eval platform for autonomous software",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Infrastructure",
-    "launched_at": 1776709029,
-    "tags": [
-      "Developer Tools",
-      "API",
-      "Infrastructure",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2026",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Infrastructure"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/archal",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2026/archal.json"
-  },
-  {
     "id": 31222,
     "name": "Superset",
     "slug": "superset",
@@ -33520,48 +33740,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/superset",
     "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/superset.json"
-  },
-  {
-    "id": 31255,
-    "name": "Grade",
-    "slug": "grade",
-    "former_names": [
-      "Creator Check"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/97bee8995323297bfa4540365e98ff74a62aa5fd.png",
-    "website": "https://usegrade.com",
-    "all_locations": "",
-    "long_description": "Grade is the API for performance-based payroll. Think of us like Deel or Gusto, but our payouts are for work completed, not hours. Companies use Grade to pay AI agents and contractors based on results: tasks completed, targets hit, work delivered. We handle compliance, tax reporting, and global payouts. Grade powers payouts for AI agents and contractors we are at $452k ARR, $520K+ paid in the last 3 weeks, growing 46% MoM across 23 live companies.",
-    "one_liner": "API for performance-based payroll",
-    "team_size": 2,
-    "industry": "Fintech",
-    "subindustry": "Fintech",
-    "launched_at": 1768947933,
-    "tags": [
-      "Fintech",
-      "Payments",
-      "Payroll",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2026",
-    "status": "Active",
-    "industries": [
-      "Fintech"
-    ],
-    "regions": [
-      "Unspecified"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/grade",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2026/grade.json"
   },
   {
     "id": 31259,
@@ -33982,46 +34160,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/hubxyz",
     "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/hubxyz.json"
-  },
-  {
-    "id": 31388,
-    "name": "Elyra",
-    "slug": "elyra",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/dfc0518b0601b15bf131b045d7c9085b3ab4ac5e.png",
-    "website": "https://www.elyrasystems.com/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Elyra offers AI-powered restaurant systems with built-in voice and email agents that manage bookings, customer relationships and communication.",
-    "one_liner": "AI Systems for Restaurants",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1776156708,
-    "tags": [
-      "SaaS",
-      "Restaurant Tech",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Spring 2026",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/elyra",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/elyra.json"
   },
   {
     "id": 31396,
@@ -34490,50 +34628,6 @@
     "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/saudara-ai.json"
   },
   {
-    "id": 31489,
-    "name": "Eden",
-    "slug": "edenrobotics",
-    "former_names": [
-      "Eden Robotics Inc."
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d769c33ef07da11294e43bb975e258d0ec8c712e.png",
-    "website": "https://www.edenrobotics.ai",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "We're building robots that just work and use them to deliver autonomous services at scale. Our first use case is semi-humanoid robots for manufacturing and logistics. Unlike traditional robotics companies, we don't sell robots, we provide physical agents for hire where companies pay for the robots based on usage, decreasing the barrier to entry and expanding the robotics market as a whole.",
-    "one_liner": "Autonomous services for humanity.",
-    "team_size": 4,
-    "industry": "Industrials",
-    "subindustry": "Industrials -> Manufacturing and Robotics",
-    "launched_at": 1775447037,
-    "tags": [
-      "Robotic Process Automation",
-      "Robotics",
-      "Automation",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Spring 2026",
-    "status": "Active",
-    "industries": [
-      "Industrials",
-      "Manufacturing and Robotics"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/edenrobotics",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/edenrobotics.json"
-  },
-  {
     "id": 31491,
     "name": "TesterArmy",
     "slug": "testerarmy",
@@ -34669,8 +34763,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e735fee67a48586d3de061beb544a8ab8d481fc6.png",
     "website": "https://asendia.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "",
-    "one_liner": "Agentic recruitment platform",
+    "long_description": "Asendia AI builds AI recruiters for staffing agencies and enterprise companies. It clones their best recruiters into AI agents that match, screen, and submit candidates 10x faster.",
+    "one_liner": "AI Recruiters for Staffing Agencies and Enterprise",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Human Resources",
