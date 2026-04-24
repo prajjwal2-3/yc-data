@@ -929,7 +929,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7d66896afcf3127a39f735586c48cd210cab0a7f.png",
     "website": "https://www.useagave.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "We’re modernizing construction, a $12T global industry run by siloed software built 20-40 years ago (on-prem, no APIs, no mobile access, etc.). \r\n\r\n\r\nConstruction is at a generational inflection point. 41% of the workforce retires by 2031, and AI is forcing contractors to increase efficiency without increasing headcount. \r\n\r\n\r\nAt Agave, we're building the financial operations platform for construction contractors. We reverse-engineered 11+ proprietary ERPs to build a modern API layer, then built critical products contractors needed on top: ERP Sync and AP Automation, with 4 more products coming out this year. Our goal is to be the financial operations platform every construction company in North America runs on. \r\n\r\n\r\nWe're backed by Accel and Y Combinator, with angels from Plaid, Procore, Autodesk, and PlanGrid. Our founding team worked together for 10 years at Graphiq (acq. Amazon) and Amazon before founding Agave.\r\n\r\nThese slides explain our company and market in more detail: https://www.figma.com/deck/nlpdpvRj3iS2qbPXqkMQz0",
+    "long_description": "We’re modernizing construction, a $12T global industry run by siloed software built 20-40 years ago (on-prem, no APIs, no mobile access, etc.). \r\n\r\nConstruction is at a generational inflection point. 41% of the workforce retires by 2031, and AI is forcing contractors to increase efficiency without increasing headcount. \r\n\r\nAt Agave, we're building the financial operations platform for construction contractors. We reverse-engineered 11+ proprietary ERPs to build a modern API layer, then built critical products contractors needed on top: ERP Sync and AP Automation, with 4 more products coming out this year. Our goal is to be the financial operations platform every construction company in North America runs on. \r\n\r\nWe're backed by Accel and Y Combinator, with angels from Plaid, Procore, Autodesk, and PlanGrid. Our founding team worked together for 10 years at Graphiq (acq. Amazon) and Amazon before founding Agave.",
     "one_liner": "AI Financial Operations for Construction",
     "team_size": 33,
     "industry": "B2B",
@@ -2627,25 +2627,26 @@
   },
   {
     "id": 25339,
-    "name": "AgentDiscuss",
-    "slug": "agentdiscuss",
+    "name": "AgentRouter",
+    "slug": "agentrouter",
     "former_names": [
       "PageOne Lab, Inc.",
       "VacationHomeRents",
-      "Wizwand"
+      "Wizwand",
+      "AgentDiscuss"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/06f893d5b073081cd45d8f0f66797ce918654100.png",
-    "website": "https://www.agentdiscuss.com",
+    "website": "https://www.agentrouter.to",
     "all_locations": "Seattle, WA, USA; Remote",
-    "long_description": "We are building a place for you to launch agent products. Agents could comment, discuss and share products they preferred. Humans could see the trending products agents are picking and iterate on their own products to make it more agent-friendly. ",
-    "one_liner": "Where agents discover and discuss products",
+    "long_description": "AgentRouter lets agents discover, pay, and execute APIs.",
+    "one_liner": "API Router for AI Agents",
     "team_size": 4,
     "industry": "Consumer",
     "subindustry": "Consumer",
     "launched_at": 1647541720,
     "tags": [
-      "Consumer",
-      "AI"
+      "Artificial Intelligence",
+      "Consumer"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -2667,8 +2668,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/agentdiscuss",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2022/agentdiscuss.json"
+    "url": "https://www.ycombinator.com/companies/agentrouter",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2022/agentrouter.json"
   },
   {
     "id": 25340,
@@ -8057,7 +8058,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": true,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -11194,7 +11195,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -14604,18 +14605,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c71984e3c90e232ebbf75967edf3df1a6a22f4e9.png",
     "website": "https://www.workflow86.com",
     "all_locations": "Sydney, NSW, Australia",
-    "long_description": "Workflow86 is your on-demand AI workflow engineer that designs, builds and edits complete end-to-end automated workflows and business processes based on your instructions. \r\n\r\nWorkflow86 turns any description of a business process or procedure into an automated workflow with fully configured forms, tasks, integrations, notifications, document generation and more. Deploy highly customized business processes and workflows that work with your existing systems in minutes, and just as easily edit and iterate on them with no-code, code or AI assistance.",
-    "one_liner": "AI Workflow Engineer for automating your business operations",
+    "long_description": "Workflow86 provides a complete end-to-end platform for building agentic workflows and automating complex business processes and operations. \r\n\r\nWorkflow86 provides users with a complete suite of tools to build and deploy custom agents and orchestrate them to perform complex, long-running workflows including human-in-the-loop steps, custom code, agent tools, and integrations with your existing systems. \r\n\r\nBuild using a visual canvas, or simply describe the workflow in natural language with agents able to self-configure tools, prompts, and integrations, and even build the multi-agent workflows. ",
+    "one_liner": "Agentic workflows for complex, long running business operations",
     "team_size": 6,
     "industry": "B2B",
     "subindustry": "B2B -> Operations",
     "launched_at": 1642126076,
     "tags": [
-      "Artificial Intelligence",
       "SaaS",
       "B2B",
       "Enterprise",
-      "No-code"
+      "No-code",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -17388,18 +17389,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5de4d57756c747e087b70e720cbfdb09672b0cc7.png",
     "website": "http://www.realitydefender.com",
     "all_locations": "New York, NY, USA",
-    "long_description": "Reality Defender’s deepfake detection platform empowers enterprises to flag fraudulent users and content (audio calls, videos, images, documents). Our API and web app provides real-time risk scoring, reporting, alerts, and forensics review.  \r\n\r\nOur team spent 20+ years at Google, Goldman Sachs, and the Intelligence Community at the intersection of data science and cybersecurity.\r\n \r\nCustomer Use Cases:\r\n\r\n• Voice Voice Fraud (Ie. Realtime detection of AI generated voices for banks and call centers)\r\n\r\n• Onboarding KYC (Ie. Anti-fraud to identify fraudulent users and materials)\r\n\r\n• Content Moderation (Ie. Social media, e-commerce, marketplaces, dating, streaming)\r\n\r\n• Disinformation Detection (Ie. News, defense, government)\r\n \r\nWebsite: www.realitydefender.com\r\n\r\nContact: ask@realitydefender.com\r\n\r\nYC AMA: https://news.ycombinator.com/item?id=30766050",
+    "long_description": "Reality Defender is the market leader in deepfake detection, protecting enterprises and governments from realtime deepfake and agentic fraud. Sign up for free access at https://www.realitydefender.com/api\r\n\r\nWebsite: www.realitydefender.com\r\nContact: ask@realitydefender.com\r\nYC AMA: https://news.ycombinator.com/item?id=30766050\r\n\r\nAwards:\r\n2025 - Gartner: Recognized as Market Leader in Deepfake Detection\r\n2025 - JPMorgan: Inducted into Hall of Innovation\r\n2025 - World Economic Forum: Named Technology Pioneer\r\n2025 - USA DIU + Japan MOD: 1st Place \"Global Innovation Challenge\"\r\n2024 - RSA Conference: 1st Place “Most Innovative Startup”\r\n2024 - SINET16 Innovator Award\r\n2023 - SXSW 1st Place \"Artificial Intelligence, Voice, & Robotics Technologies\"",
     "one_liner": "Enterprise Deepfake Detection",
     "team_size": 54,
     "industry": "B2B",
     "subindustry": "B2B -> Security",
     "launched_at": 1647888631,
     "tags": [
+      "Artificial Intelligence",
       "SaaS",
       "Deepfake Detection",
       "Security",
-      "Privacy",
-      "AI"
+      "Privacy"
     ],
     "tags_highlighted": [],
     "top_company": false,

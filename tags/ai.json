@@ -1197,54 +1197,6 @@
     "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2017/nanonets.json"
   },
   {
-    "id": 1548,
-    "name": "Ridecell",
-    "slug": "ridecell",
-    "former_names": [
-      "Summon",
-      "InstantCab",
-      "Ridecell"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/993ff6073116071031609f9e3bed69101446082b.png",
-    "website": "https://www.ridecell.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Ridecell is leading the way in the digital transformation of fleet businesses and operations. Our Fleet Automation and Mobility solutions modernize and monetize fleets by combining data insights with digital vehicle control to turn today’s manual processes into automated workflows. The result is unmatched levels of efficiency and control for leasing, rental,  government, commercial and shared fleets.\r\n\r\nToday Ridecell powers some of the most successful fleet businesses and the leading government fleets in cities across Europe and North America. Our customers and partners include:\r\nPenske  - the largest truck fleet in America with 400,000 trucks\r\nMobility fleets for Toyota, Ford, Daimler, BMW - - the largest OEMs in the world and\r\nBNP Paribas, Arval: 1,500,000 vehicles, the 2nd largest fleet in Europe\r\nAnd  the largest government fleets in the world including San Francisco, New York City, the Belgian Government \r\n\r\nOur platform makes these businesses more intelligent, accessible, efficient and safer by connecting and automating the core technology pillars including vehicle technology like telematics, camera and ADAS system, and enterprise platforms including CRM, commerce and finance systems. \r\n\r\n\r\n\r\n\r\nRidecell is headquartered in San Francisco, California with offices in Tokyo, Madrid, Paris, Bordeaux, Berlin and Pune, India.",
-    "one_liner": "AI for Automotive Leasing and Mobility",
-    "team_size": 88,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1481295031,
-    "tags": [
-      "SaaS",
-      "IoT",
-      "B2B",
-      "Enterprise",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Winter 2012",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Growth",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/ridecell",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2012/ridecell.json"
-  },
-  {
     "id": 1583,
     "name": "Skyways",
     "slug": "skyways",
@@ -7586,51 +7538,6 @@
     "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2022/cozmo-ai.json"
   },
   {
-    "id": 25339,
-    "name": "AgentDiscuss",
-    "slug": "agentdiscuss",
-    "former_names": [
-      "PageOne Lab, Inc.",
-      "VacationHomeRents",
-      "Wizwand"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/06f893d5b073081cd45d8f0f66797ce918654100.png",
-    "website": "https://www.agentdiscuss.com",
-    "all_locations": "Seattle, WA, USA; Remote",
-    "long_description": "We are building a place for you to launch agent products. Agents could comment, discuss and share products they preferred. Humans could see the trending products agents are picking and iterate on their own products to make it more agent-friendly. ",
-    "one_liner": "Where agents discover and discuss products",
-    "team_size": 4,
-    "industry": "Consumer",
-    "subindustry": "Consumer",
-    "launched_at": 1647541720,
-    "tags": [
-      "Consumer",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2022",
-    "status": "Active",
-    "industries": [
-      "Consumer"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Fully Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/agentdiscuss",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2022/agentdiscuss.json"
-  },
-  {
     "id": 25342,
     "name": "Stably AI",
     "slug": "stably-ai",
@@ -8808,7 +8715,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -9511,6 +9418,51 @@
     "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2022/blink-new.json"
   },
   {
+    "id": 25995,
+    "name": "Workflow86",
+    "slug": "workflow86",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c71984e3c90e232ebbf75967edf3df1a6a22f4e9.png",
+    "website": "https://www.workflow86.com",
+    "all_locations": "Sydney, NSW, Australia",
+    "long_description": "Workflow86 provides a complete end-to-end platform for building agentic workflows and automating complex business processes and operations. \r\n\r\nWorkflow86 provides users with a complete suite of tools to build and deploy custom agents and orchestrate them to perform complex, long-running workflows including human-in-the-loop steps, custom code, agent tools, and integrations with your existing systems. \r\n\r\nBuild using a visual canvas, or simply describe the workflow in natural language with agents able to self-configure tools, prompts, and integrations, and even build the multi-agent workflows. ",
+    "one_liner": "Agentic workflows for complex, long running business operations",
+    "team_size": 6,
+    "industry": "B2B",
+    "subindustry": "B2B -> Operations",
+    "launched_at": 1642126076,
+    "tags": [
+      "SaaS",
+      "B2B",
+      "Enterprise",
+      "No-code",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2022",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Operations"
+    ],
+    "regions": [
+      "Australia",
+      "Oceania",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/workflow86",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2022/workflow86.json"
+  },
+  {
     "id": 25999,
     "name": "Codec",
     "slug": "codec",
@@ -9874,51 +9826,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/openbuilder",
     "api": "https://prajjwal2-3.github.io/yc-data/batches/fall-2025/openbuilder.json"
-  },
-  {
-    "id": 26296,
-    "name": "Reality Defender",
-    "slug": "reality-defender",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5de4d57756c747e087b70e720cbfdb09672b0cc7.png",
-    "website": "http://www.realitydefender.com",
-    "all_locations": "New York, NY, USA",
-    "long_description": "Reality Defender’s deepfake detection platform empowers enterprises to flag fraudulent users and content (audio calls, videos, images, documents). Our API and web app provides real-time risk scoring, reporting, alerts, and forensics review.  \r\n\r\nOur team spent 20+ years at Google, Goldman Sachs, and the Intelligence Community at the intersection of data science and cybersecurity.\r\n \r\nCustomer Use Cases:\r\n\r\n• Voice Voice Fraud (Ie. Realtime detection of AI generated voices for banks and call centers)\r\n\r\n• Onboarding KYC (Ie. Anti-fraud to identify fraudulent users and materials)\r\n\r\n• Content Moderation (Ie. Social media, e-commerce, marketplaces, dating, streaming)\r\n\r\n• Disinformation Detection (Ie. News, defense, government)\r\n \r\nWebsite: www.realitydefender.com\r\n\r\nContact: ask@realitydefender.com\r\n\r\nYC AMA: https://news.ycombinator.com/item?id=30766050",
-    "one_liner": "Enterprise Deepfake Detection",
-    "team_size": 54,
-    "industry": "B2B",
-    "subindustry": "B2B -> Security",
-    "launched_at": 1647888631,
-    "tags": [
-      "SaaS",
-      "Deepfake Detection",
-      "Security",
-      "Privacy",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Winter 2022",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Security"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Growth",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/reality-defender",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2022/reality-defender.json"
   },
   {
     "id": 26480,
@@ -12004,51 +11911,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/delfino-ai",
     "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2022/delfino-ai.json"
-  },
-  {
-    "id": 27250,
-    "name": "Axle",
-    "slug": "axle",
-    "former_names": [
-      "Axle (Axle Labs",
-      "Inc.)"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fc7d56236fe67577e1d51a8f6c48ef7c48d88c9a.png",
-    "website": "https://axle.insure",
-    "all_locations": "New York, NY, USA",
-    "long_description": "[Axle](https://axle.insure/) is the AI-native clearinghouse for property and casualty insurance. Our infrastructure and AI agents automate complex insurance workflows for third parties including verification, monitoring, and policy updates. We've helped Fortune 500 businesses like Rocket Mortgage, Avis, and Experrian speed up workflows by 95% while recovering over $220M in potential losses. Axle is backed by Gradient, Y Combinator, and the founding team of Plaid.",
-    "one_liner": "AI-native clearinghouse for insurance",
-    "team_size": 10,
-    "industry": "Fintech",
-    "subindustry": "Fintech",
-    "launched_at": 1658084084,
-    "tags": [
-      "Developer Tools",
-      "Fintech",
-      "B2B",
-      "Insurance",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Summer 2022",
-    "status": "Active",
-    "industries": [
-      "Fintech"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/axle",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2022/axle.json"
   },
   {
     "id": 27255,
@@ -15098,6 +14960,50 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/remy",
     "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2023/remy.json"
+  },
+  {
+    "id": 28805,
+    "name": "Diligent",
+    "slug": "diligent",
+    "former_names": [
+      "Paylane"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/306eaffa9ae52c97e7f7fd8c9161b13409115596.png",
+    "website": "https://godiligent.ai",
+    "all_locations": "London, England, United Kingdom",
+    "long_description": "We help fintech risk and AML compliance teams automate and strengthen routine customer due diligence tasks with LLMs. Our AI assistants slash cost-to-comply, improve risk detection and free up capacity for investigations that require human expertise and decision making. \r\n\r\nFintechs and banks use us to automate workflows like running thorough due diligence on a legal entity, reviewing customer documents like registry extracts, proofs of address etc and remediating false positive alerts from their AML systems.",
+    "one_liner": "AI agents for fintech risk and compliance operations",
+    "team_size": 10,
+    "industry": "Fintech",
+    "subindustry": "Fintech",
+    "launched_at": 1706799734,
+    "tags": [
+      "Fintech",
+      "Compliance",
+      "Fraud Prevention",
+      "Regtech",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2023",
+    "status": "Active",
+    "industries": [
+      "Fintech"
+    ],
+    "regions": [
+      "United Kingdom",
+      "Europe"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/diligent",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2023/diligent.json"
   },
   {
     "id": 28811,
@@ -24475,7 +24381,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2024",
     "status": "Active",
@@ -26607,52 +26513,6 @@
     "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2025/gradewiz.json"
   },
   {
-    "id": 30254,
-    "name": "hud",
-    "slug": "hud",
-    "former_names": [
-      "Human Union Data",
-      "hud",
-      "HUD"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/53fffc4904f866d9d44ba9a47862b594f1d45667.png",
-    "website": "https://www.hud.so",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "HUD (YC W25) is developing agentic evals and RL environments for Computer Use Agents (CUAs) that browse the web for frontier AI labs. Our CUA Evals framework is the first comprehensive evaluation tool for CUAs.\r\n\r\nPeople don't actually know if AI agents are working reliably. To make AI agents work in the real world, we need detailed evals for a huge range of tasks.\r\n\r\nWe're backed by Y Combinator, and work closely with frontier AI labs to provide agent evaluation and training infrastructure at scale.",
-    "one_liner": "Platform for building RL environments and evals ",
-    "team_size": 15,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1740930546,
-    "tags": [
-      "Reinforcement Learning",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Winter 2025",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/hud",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2025/hud.json"
-  },
-  {
     "id": 30259,
     "name": "Asteroid",
     "slug": "asteroid",
@@ -27673,7 +27533,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Spring 2025",
     "status": "Active",
@@ -30265,6 +30125,48 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/stockline",
     "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2025/stockline.json"
+  },
+  {
+    "id": 30671,
+    "name": "Panoptive",
+    "slug": "panoptive",
+    "former_names": [
+      "AgentHub"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f773fb4653e4928ec6dbd27c0a049a20a2e22d7a.png",
+    "website": "https://www.panoptive.com",
+    "all_locations": "",
+    "long_description": "",
+    "one_liner": "The oversight engine for clinical trials",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1753389326,
+    "tags": [
+      "B2B",
+      "Biotech",
+      "Infrastructure",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/panoptive",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2025/panoptive.json"
   },
   {
     "id": 30673,
@@ -32888,6 +32790,48 @@
     "api": "https://prajjwal2-3.github.io/yc-data/batches/fall-2025/specific.json"
   },
   {
+    "id": 30962,
+    "name": "Denki",
+    "slug": "denki",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1543e40091902a20ba3f9f49ea46c17e0b60e86a.png",
+    "website": "https://denki.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Automate internal auditing (planning, testing, documenting) to comply better with financial regulations.\r\n\r\nDenki performs audit work with 99% software, 1% services:\r\n\r\n✔️ Works on existing systems (e.g. Auditboard, Workiva, ERPs)\r\n✔️ Automates Control processes (e.g. collects evidence, runs walkthrough interviews, tests)\r\n✔️ Records every step for traceability (workpapers w/ full audit trace)\r\n\r\nFocused on SOX programs and financial regulations (SEC Rules etc.)",
+    "one_liner": "The full-stack AI financial audit firm",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B -> Finance and Accounting",
+    "launched_at": 1759884466,
+    "tags": [
+      "FinOps",
+      "Compliance",
+      "AI",
+      "AI Assistant"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Finance and Accounting"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/denki",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/fall-2025/denki.json"
+  },
+  {
     "id": 30969,
     "name": "Lemma",
     "slug": "uselemma",
@@ -34286,6 +34230,47 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/rentahuman",
     "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/rentahuman.json"
+  },
+  {
+    "id": 31416,
+    "name": "Callab AI",
+    "slug": "callab-ai",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/02201cc153981810d5a7bf65758c3175779d40d3.png",
+    "website": "https://callab.ai",
+    "all_locations": "",
+    "long_description": "Callab AI - AI voice agents for contact centers. Over half the world's contact center infrastructure still runs on legacy telephony (CUCM, on-prem PBX, carrier-grade SIP) - a $70B+ market where current AI voice platforms can't natively integrate. \r\n\r\nWe plug into these environments without requiring a rip-and-replace. We serve clients across three continents, including brands like DunkinDonut.",
+    "one_liner": "AI voice agents for enterprise telephony systems.",
+    "team_size": 7,
+    "industry": "B2B",
+    "subindustry": "B2B -> Operations",
+    "launched_at": 1773416869,
+    "tags": [
+      "B2B",
+      "Call Center",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Operations"
+    ],
+    "regions": [
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/callab-ai",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/callab-ai.json"
   },
   {
     "id": 31418,

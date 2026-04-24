@@ -11065,7 +11065,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": true,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -14668,7 +14668,7 @@
     "former_names": [
       "Koala Ops"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2051debd2ddc50b321426f669aa98a0120dfc537.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c4df2dc3a8591521492f4797ca92971742623b68.png",
     "website": "https://skyhook.io",
     "all_locations": "Tel Aviv-Yafo, Tel Aviv District, Israel",
     "long_description": "We make running services on Kubernetes as easy as Heroku, but on your cloud and with all the flexibility and power of Kubernetes. Companies use Skyhook so that they don't have to hire dedicated infrastructure engineers.\r\n\r\nAlthough 50-70% of organizations have already adopted Kubernetes, most developers agree that it is too complex and difficult to manage. It is intended to be extremely flexible in order to solve pretty much everyone’s needs, but it can take a ton of work and many auxiliary tools to get there.\r\n\r\nAs companies grow, they spend a lot on DevOps or Platform Engineers that try to reduce the burden on developers by gluing together all the 3p tools via custom internal tools.\r\n\r\nWe are building an “internal developer platform” out of the box, with best practices and golden paths for building and operating services on Kubernetes.\r\n\r\nWe do the research on the latest and greatest tools in the extremely vibrant ecosystem, and automatically integrate for you the tools you want to use.\r\n\r\nWe operate on our customers code and in your Cloud environment, so they never locked in and never restricted, as is common with classic PaaS offerings.\r\n\r\nIf you prefer a fully hosted environment like Heroku, Fly or Vercel, we’ll host a cluster for you and offer you a one-click migration to your own cluster when you want.",
@@ -17412,13 +17412,15 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9efd3b7815df44b6aca06023be3c607e3a345ee5.png",
     "website": "https://codeant.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "CodeAnt AI is the Code Health platform built for the AI era.\r\n\r\nWe bring AI Code Review, Code Security, Code Quality, and Engineering Metrics into one unified platform, so engineering teams can ship faster, safer, and with confidence.\r\n\r\nCodeAnt AI understands your entire codebase.\r\n\r\nWorks with GitHub, GitLab (Cloud & Self-Hosted), Bitbucket, Azure DevOps, all IDEs, and CI/CD tools. Supports all languages and monorepos.\r\n\r\nTrusted by startups and global enterprises including Commvault, to improve code health and reduce review time by 80%.\r\n\r\nSOC 2 Type II & HIPAA compliant.\r\nWe never train on customer code.",
-    "one_liner": "AI Code Health Platform",
-    "team_size": 10,
+    "long_description": "CodeAnt AI is the agentic code security platform, combining defense and offense in a single self-learning engine.\r\n\r\nDefense\r\n→ AI Code Review: Cuts code review time down 80%.\r\n→ Code Security: SAST, SCA, Secrets, IaC, SBOM in one scan.\r\n→ Code Quality: Retires SonarQube across 30+ languages.\r\n\r\nOffense\r\n→ AI Pentesting: 500+ exploit agents, 48-hour report. Free unless we find a critical.\r\n\r\nPlus Developer 360: engineering metrics that ship work.\r\n\r\nWorks with GitHub, GitLab, Bitbucket, Azure DevOps. Every IDE, every CI/CD, every language. \r\n\r\nSOC 2 Type II & HIPAA Complaint.",
+    "one_liner": "Agentic Code Security Platform",
+    "team_size": 25,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1700644508,
-    "tags": [],
+    "tags": [
+      "Cybersecurity"
+    ],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": true,
@@ -20973,7 +20975,7 @@
       "HUD"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/53fffc4904f866d9d44ba9a47862b594f1d45667.png",
-    "website": "https://www.hud.so",
+    "website": "https://www.hud.ai",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "HUD (YC W25) is developing agentic evals and RL environments for Computer Use Agents (CUAs) that browse the web for frontier AI labs. Our CUA Evals framework is the first comprehensive evaluation tool for CUAs.\r\n\r\nPeople don't actually know if AI agents are working reliably. To make AI agents work in the real world, we need detailed evals for a huge range of tasks.\r\n\r\nWe're backed by Y Combinator, and work closely with frontier AI labs to provide agent evaluation and training infrastructure at scale.",
     "one_liner": "Platform for building RL environments and evals ",
@@ -20982,8 +20984,8 @@
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1740930546,
     "tags": [
-      "Reinforcement Learning",
-      "AI"
+      "Artificial Intelligence",
+      "Reinforcement Learning"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -21605,7 +21607,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Spring 2025",
     "status": "Active",

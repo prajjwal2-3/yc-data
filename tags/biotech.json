@@ -5547,6 +5547,48 @@
     "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2025/blank-bio.json"
   },
   {
+    "id": 30671,
+    "name": "Panoptive",
+    "slug": "panoptive",
+    "former_names": [
+      "AgentHub"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f773fb4653e4928ec6dbd27c0a049a20a2e22d7a.png",
+    "website": "https://www.panoptive.com",
+    "all_locations": "",
+    "long_description": "",
+    "one_liner": "The oversight engine for clinical trials",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1753389326,
+    "tags": [
+      "B2B",
+      "Biotech",
+      "Infrastructure",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/panoptive",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2025/panoptive.json"
+  },
+  {
     "id": 30747,
     "name": "Convexia",
     "slug": "convexia",

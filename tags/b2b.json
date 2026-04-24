@@ -1378,7 +1378,7 @@
       "Remote",
       "Fully Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -3093,7 +3093,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": true,
     "app_answers": true,
@@ -3113,18 +3113,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/993ff6073116071031609f9e3bed69101446082b.png",
     "website": "https://www.ridecell.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Ridecell is leading the way in the digital transformation of fleet businesses and operations. Our Fleet Automation and Mobility solutions modernize and monetize fleets by combining data insights with digital vehicle control to turn today’s manual processes into automated workflows. The result is unmatched levels of efficiency and control for leasing, rental,  government, commercial and shared fleets.\r\n\r\nToday Ridecell powers some of the most successful fleet businesses and the leading government fleets in cities across Europe and North America. Our customers and partners include:\r\nPenske  - the largest truck fleet in America with 400,000 trucks\r\nMobility fleets for Toyota, Ford, Daimler, BMW - - the largest OEMs in the world and\r\nBNP Paribas, Arval: 1,500,000 vehicles, the 2nd largest fleet in Europe\r\nAnd  the largest government fleets in the world including San Francisco, New York City, the Belgian Government \r\n\r\nOur platform makes these businesses more intelligent, accessible, efficient and safer by connecting and automating the core technology pillars including vehicle technology like telematics, camera and ADAS system, and enterprise platforms including CRM, commerce and finance systems. \r\n\r\n\r\n\r\n\r\nRidecell is headquartered in San Francisco, California with offices in Tokyo, Madrid, Paris, Bordeaux, Berlin and Pune, India.",
+    "long_description": "Ridecell is leading the way in the digital transformation of fleet businesses and operations. Our Fleet Automation and Mobility solutions modernize and monetize fleets by combining data insights with digital vehicle control to turn today’s manual processes into automated workflows. The result is unmatched levels of efficiency and control for leasing, rental,  government, commercial and shared fleets.\r\n\r\nToday Ridecell powers some of the most successful fleet businesses and the leading government fleets in cities across Europe and North America. Our customers and partners include:\r\nPenske  - the largest truck fleet in America with 400,000 trucks\r\nMobility fleets for Toyota, Ford, Daimler, BMW - - the largest OEMs in the world and\r\nBNP Paribas, Arval: 1,500,000 vehicles, the 2nd largest fleet in Europe\r\nAnd  the largest government fleets in the world including San Francisco, New York City, the Belgian Government \r\n\r\nOur platform makes these businesses more intelligent, accessible, efficient and safer by connecting and automating the core technology pillars including vehicle technology like telematics, camera and ADAS system, and enterprise platforms including CRM, commerce and finance systems. \r\n\r\nRidecell is headquartered in Bay Area, California with offices in Madrid, Paris, Bordeaux, Berlin and Pune, India.",
     "one_liner": "AI for Automotive Leasing and Mobility",
     "team_size": 88,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1481295031,
     "tags": [
+      "Artificial Intelligence",
       "SaaS",
       "IoT",
       "B2B",
-      "Enterprise",
-      "AI"
+      "Enterprise"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -6361,7 +6361,7 @@
     "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2019",
-    "status": "Active",
+    "status": "Inactive",
     "industries": [
       "B2B"
     ],
@@ -19757,7 +19757,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7d66896afcf3127a39f735586c48cd210cab0a7f.png",
     "website": "https://www.useagave.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "We’re modernizing construction, a $12T global industry run by siloed software built 20-40 years ago (on-prem, no APIs, no mobile access, etc.). \r\n\r\n\r\nConstruction is at a generational inflection point. 41% of the workforce retires by 2031, and AI is forcing contractors to increase efficiency without increasing headcount. \r\n\r\n\r\nAt Agave, we're building the financial operations platform for construction contractors. We reverse-engineered 11+ proprietary ERPs to build a modern API layer, then built critical products contractors needed on top: ERP Sync and AP Automation, with 4 more products coming out this year. Our goal is to be the financial operations platform every construction company in North America runs on. \r\n\r\n\r\nWe're backed by Accel and Y Combinator, with angels from Plaid, Procore, Autodesk, and PlanGrid. Our founding team worked together for 10 years at Graphiq (acq. Amazon) and Amazon before founding Agave.\r\n\r\nThese slides explain our company and market in more detail: https://www.figma.com/deck/nlpdpvRj3iS2qbPXqkMQz0",
+    "long_description": "We’re modernizing construction, a $12T global industry run by siloed software built 20-40 years ago (on-prem, no APIs, no mobile access, etc.). \r\n\r\nConstruction is at a generational inflection point. 41% of the workforce retires by 2031, and AI is forcing contractors to increase efficiency without increasing headcount. \r\n\r\nAt Agave, we're building the financial operations platform for construction contractors. We reverse-engineered 11+ proprietary ERPs to build a modern API layer, then built critical products contractors needed on top: ERP Sync and AP Automation, with 4 more products coming out this year. Our goal is to be the financial operations platform every construction company in North America runs on. \r\n\r\nWe're backed by Accel and Y Combinator, with angels from Plaid, Procore, Autodesk, and PlanGrid. Our founding team worked together for 10 years at Graphiq (acq. Amazon) and Amazon before founding Agave.",
     "one_liner": "AI Financial Operations for Construction",
     "team_size": 33,
     "industry": "B2B",
@@ -22570,7 +22570,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -23612,18 +23612,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c71984e3c90e232ebbf75967edf3df1a6a22f4e9.png",
     "website": "https://www.workflow86.com",
     "all_locations": "Sydney, NSW, Australia",
-    "long_description": "Workflow86 is your on-demand AI workflow engineer that designs, builds and edits complete end-to-end automated workflows and business processes based on your instructions. \r\n\r\nWorkflow86 turns any description of a business process or procedure into an automated workflow with fully configured forms, tasks, integrations, notifications, document generation and more. Deploy highly customized business processes and workflows that work with your existing systems in minutes, and just as easily edit and iterate on them with no-code, code or AI assistance.",
-    "one_liner": "AI Workflow Engineer for automating your business operations",
+    "long_description": "Workflow86 provides a complete end-to-end platform for building agentic workflows and automating complex business processes and operations. \r\n\r\nWorkflow86 provides users with a complete suite of tools to build and deploy custom agents and orchestrate them to perform complex, long-running workflows including human-in-the-loop steps, custom code, agent tools, and integrations with your existing systems. \r\n\r\nBuild using a visual canvas, or simply describe the workflow in natural language with agents able to self-configure tools, prompts, and integrations, and even build the multi-agent workflows. ",
+    "one_liner": "Agentic workflows for complex, long running business operations",
     "team_size": 6,
     "industry": "B2B",
     "subindustry": "B2B -> Operations",
     "launched_at": 1642126076,
     "tags": [
-      "Artificial Intelligence",
       "SaaS",
       "B2B",
       "Enterprise",
-      "No-code"
+      "No-code",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -27795,18 +27795,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fc7d56236fe67577e1d51a8f6c48ef7c48d88c9a.png",
     "website": "https://axle.insure",
     "all_locations": "New York, NY, USA",
-    "long_description": "[Axle](https://axle.insure/) is the AI-native clearinghouse for property and casualty insurance. Our infrastructure and AI agents automate complex insurance workflows for third parties including verification, monitoring, and policy updates. We've helped Fortune 500 businesses like Rocket Mortgage, Avis, and Experrian speed up workflows by 95% while recovering over $220M in potential losses. Axle is backed by Gradient, Y Combinator, and the founding team of Plaid.",
+    "long_description": "Axle is the AI-native clearinghouse for property and casualty insurance. Our infrastructure and AI agents automate complex insurance workflows for third parties including verification, monitoring, and policy updates. We've helped Fortune 500 businesses like Rocket Mortgage, Avis, and Experian speed up workflows by 95% while recovering over $220M in potential losses. Axle is backed by Gradient, Y Combinator, and the founding team of Plaid.",
     "one_liner": "AI-native clearinghouse for insurance",
     "team_size": 10,
     "industry": "Fintech",
     "subindustry": "Fintech",
     "launched_at": 1658084084,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "Fintech",
       "B2B",
-      "Insurance",
-      "AI"
+      "Insurance"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -32184,7 +32184,7 @@
     "former_names": [
       "Koala Ops"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2051debd2ddc50b321426f669aa98a0120dfc537.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c4df2dc3a8591521492f4797ca92971742623b68.png",
     "website": "https://skyhook.io",
     "all_locations": "Tel Aviv-Yafo, Tel Aviv District, Israel",
     "long_description": "We make running services on Kubernetes as easy as Heroku, but on your cloud and with all the flexibility and power of Kubernetes. Companies use Skyhook so that they don't have to hire dedicated infrastructure engineers.\r\n\r\nAlthough 50-70% of organizations have already adopted Kubernetes, most developers agree that it is too complex and difficult to manage. It is intended to be extremely flexible in order to solve pretty much everyone’s needs, but it can take a ton of work and many auxiliary tools to get there.\r\n\r\nAs companies grow, they spend a lot on DevOps or Platform Engineers that try to reduce the burden on developers by gluing together all the 3p tools via custom internal tools.\r\n\r\nWe are building an “internal developer platform” out of the box, with best practices and golden paths for building and operating services on Kubernetes.\r\n\r\nWe do the research on the latest and greatest tools in the extremely vibrant ecosystem, and automatically integrate for you the tools you want to use.\r\n\r\nWe operate on our customers code and in your Cloud environment, so they never locked in and never restricted, as is common with classic PaaS offerings.\r\n\r\nIf you prefer a fully hosted environment like Heroku, Fly or Vercel, we’ll host a cluster for you and offer you a one-click migration to your own cluster when you want.",
@@ -34703,7 +34703,7 @@
     "all_locations": "New York, NY, USA; Remote",
     "long_description": "Glide lets apps accept crypto deposits from any chain, wallet, or exchange using pre-built wallet funding flows. Users can fund wallets directly — no bridges, no swaps, no repeated KYC.",
     "one_liner": "Crypto Deposits, Wallet Funding, and Pay-with-crypto Infra",
-    "team_size": 2,
+    "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1689702823,
@@ -39952,7 +39952,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2024",
     "status": "Active",
@@ -40824,7 +40824,8 @@
     "tags": [
       "SaaS",
       "B2B",
-      "Workflow Automation",
+      "Analytics",
+      "Procurement",
       "Automation"
     ],
     "tags_highlighted": [],
@@ -44449,23 +44450,25 @@
   },
   {
     "id": 30671,
-    "name": "AgentHub",
-    "slug": "agenthub-2",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5d79e8581245eb7d73760c80116738ec9835755e.png",
-    "website": "https://www.agenthublabs.com",
+    "name": "Panoptive",
+    "slug": "panoptive",
+    "former_names": [
+      "AgentHub"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f773fb4653e4928ec6dbd27c0a049a20a2e22d7a.png",
+    "website": "https://www.panoptive.com",
     "all_locations": "",
-    "long_description": "AgentHub helps you catch and fix errors in your AI agents - before your users ever see them.\r\n\r\nSimulate real-world scenarios in curated RL environments for your agents - trace, evaluate, and improve agent behavior at scale. Generate large annotated datasets and experiment with different prompts, models, and configurations - all in one place - with clear visualizations of what’s working (and what’s not).\r\n\r\nBuilt by a former tech lead from Apple’s Foundation Model Eval team and a product engineer from MIT with experience working on agents at startups, AgentHub makes it easy to integrate your use case and start improving your agents quickly.\r\n\r\nOur streamlined onboarding process lets you get your agent eval environment up and running fast—no heavy lifting on your end.\r\n\r\nClose the feedback loop and build better agents, faster - with confidence. ",
-    "one_liner": "The simulation and evaluation engine for AI agents",
+    "long_description": "",
+    "one_liner": "The oversight engine for clinical trials",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1753389326,
     "tags": [
-      "Artificial Intelligence",
-      "Reinforcement Learning",
       "B2B",
-      "Infrastructure"
+      "Biotech",
+      "Infrastructure",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -44484,8 +44487,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/agenthub-2",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2025/agenthub-2.json"
+    "url": "https://www.ycombinator.com/companies/panoptive",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2025/panoptive.json"
   },
   {
     "id": 30681,
@@ -47522,15 +47525,15 @@
     "website": "https://callab.ai",
     "all_locations": "",
     "long_description": "Callab AI - AI voice agents for contact centers. Over half the world's contact center infrastructure still runs on legacy telephony (CUCM, on-prem PBX, carrier-grade SIP) - a $70B+ market where current AI voice platforms can't natively integrate. \r\n\r\nWe plug into these environments without requiring a rip-and-replace. We serve clients across three continents, including brands like DunkinDonut.",
-    "one_liner": "AI voice agents for on-prem PBX stacks.",
+    "one_liner": "AI voice agents for enterprise telephony systems.",
     "team_size": 7,
     "industry": "B2B",
     "subindustry": "B2B -> Operations",
     "launched_at": 1773416869,
     "tags": [
-      "Artificial Intelligence",
       "B2B",
-      "Call Center"
+      "Call Center",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -47799,51 +47802,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/runharbor",
     "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/runharbor.json"
-  },
-  {
-    "id": 31453,
-    "name": "Minicor",
-    "slug": "minicor",
-    "former_names": [
-      "Laminar"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e14eb470879a4e71c717ad6774095600e8b0de85.png",
-    "website": "https://minicor.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "AI companies selling into legacy industries can't go live because their customers' systems of record are Windows desktop apps with no APIs. The only way in is clicking through the UI, and it breaks constantly.\r\n\r\nMinicor is a platform for building self-healing desktop automations at scale. Speak the automation into existence through your favourite coding agent via our MCP, or to us directly, and get an API endpoint to trigger it. One API call triggers a full desktop workflow on a Windows VM. On-premise, cloud, or Citrix.\r\n\r\nVideo replay, error logging, and scaling built in.",
-    "one_liner": "Managed, self healing desktop automation at scale",
-    "team_size": 5,
-    "industry": "B2B",
-    "subindustry": "B2B -> Infrastructure",
-    "launched_at": 1772756028,
-    "tags": [
-      "Generative AI",
-      "B2B",
-      "Infrastructure"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Spring 2026",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Infrastructure"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/minicor",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/minicor.json"
   },
   {
     "id": 31454,

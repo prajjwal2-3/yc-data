@@ -5683,18 +5683,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/993ff6073116071031609f9e3bed69101446082b.png",
     "website": "https://www.ridecell.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Ridecell is leading the way in the digital transformation of fleet businesses and operations. Our Fleet Automation and Mobility solutions modernize and monetize fleets by combining data insights with digital vehicle control to turn today’s manual processes into automated workflows. The result is unmatched levels of efficiency and control for leasing, rental,  government, commercial and shared fleets.\r\n\r\nToday Ridecell powers some of the most successful fleet businesses and the leading government fleets in cities across Europe and North America. Our customers and partners include:\r\nPenske  - the largest truck fleet in America with 400,000 trucks\r\nMobility fleets for Toyota, Ford, Daimler, BMW - - the largest OEMs in the world and\r\nBNP Paribas, Arval: 1,500,000 vehicles, the 2nd largest fleet in Europe\r\nAnd  the largest government fleets in the world including San Francisco, New York City, the Belgian Government \r\n\r\nOur platform makes these businesses more intelligent, accessible, efficient and safer by connecting and automating the core technology pillars including vehicle technology like telematics, camera and ADAS system, and enterprise platforms including CRM, commerce and finance systems. \r\n\r\n\r\n\r\n\r\nRidecell is headquartered in San Francisco, California with offices in Tokyo, Madrid, Paris, Bordeaux, Berlin and Pune, India.",
+    "long_description": "Ridecell is leading the way in the digital transformation of fleet businesses and operations. Our Fleet Automation and Mobility solutions modernize and monetize fleets by combining data insights with digital vehicle control to turn today’s manual processes into automated workflows. The result is unmatched levels of efficiency and control for leasing, rental,  government, commercial and shared fleets.\r\n\r\nToday Ridecell powers some of the most successful fleet businesses and the leading government fleets in cities across Europe and North America. Our customers and partners include:\r\nPenske  - the largest truck fleet in America with 400,000 trucks\r\nMobility fleets for Toyota, Ford, Daimler, BMW - - the largest OEMs in the world and\r\nBNP Paribas, Arval: 1,500,000 vehicles, the 2nd largest fleet in Europe\r\nAnd  the largest government fleets in the world including San Francisco, New York City, the Belgian Government \r\n\r\nOur platform makes these businesses more intelligent, accessible, efficient and safer by connecting and automating the core technology pillars including vehicle technology like telematics, camera and ADAS system, and enterprise platforms including CRM, commerce and finance systems. \r\n\r\nRidecell is headquartered in Bay Area, California with offices in Madrid, Paris, Bordeaux, Berlin and Pune, India.",
     "one_liner": "AI for Automotive Leasing and Mobility",
     "team_size": 88,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1481295031,
     "tags": [
+      "Artificial Intelligence",
       "SaaS",
       "IoT",
       "B2B",
-      "Enterprise",
-      "AI"
+      "Enterprise"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -25160,7 +25160,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7d66896afcf3127a39f735586c48cd210cab0a7f.png",
     "website": "https://www.useagave.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "We’re modernizing construction, a $12T global industry run by siloed software built 20-40 years ago (on-prem, no APIs, no mobile access, etc.). \r\n\r\n\r\nConstruction is at a generational inflection point. 41% of the workforce retires by 2031, and AI is forcing contractors to increase efficiency without increasing headcount. \r\n\r\n\r\nAt Agave, we're building the financial operations platform for construction contractors. We reverse-engineered 11+ proprietary ERPs to build a modern API layer, then built critical products contractors needed on top: ERP Sync and AP Automation, with 4 more products coming out this year. Our goal is to be the financial operations platform every construction company in North America runs on. \r\n\r\n\r\nWe're backed by Accel and Y Combinator, with angels from Plaid, Procore, Autodesk, and PlanGrid. Our founding team worked together for 10 years at Graphiq (acq. Amazon) and Amazon before founding Agave.\r\n\r\nThese slides explain our company and market in more detail: https://www.figma.com/deck/nlpdpvRj3iS2qbPXqkMQz0",
+    "long_description": "We’re modernizing construction, a $12T global industry run by siloed software built 20-40 years ago (on-prem, no APIs, no mobile access, etc.). \r\n\r\nConstruction is at a generational inflection point. 41% of the workforce retires by 2031, and AI is forcing contractors to increase efficiency without increasing headcount. \r\n\r\nAt Agave, we're building the financial operations platform for construction contractors. We reverse-engineered 11+ proprietary ERPs to build a modern API layer, then built critical products contractors needed on top: ERP Sync and AP Automation, with 4 more products coming out this year. Our goal is to be the financial operations platform every construction company in North America runs on. \r\n\r\nWe're backed by Accel and Y Combinator, with angels from Plaid, Procore, Autodesk, and PlanGrid. Our founding team worked together for 10 years at Graphiq (acq. Amazon) and Amazon before founding Agave.",
     "one_liner": "AI Financial Operations for Construction",
     "team_size": 33,
     "industry": "B2B",
@@ -26534,7 +26534,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": true,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -27284,7 +27284,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -28800,18 +28800,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5de4d57756c747e087b70e720cbfdb09672b0cc7.png",
     "website": "http://www.realitydefender.com",
     "all_locations": "New York, NY, USA",
-    "long_description": "Reality Defender’s deepfake detection platform empowers enterprises to flag fraudulent users and content (audio calls, videos, images, documents). Our API and web app provides real-time risk scoring, reporting, alerts, and forensics review.  \r\n\r\nOur team spent 20+ years at Google, Goldman Sachs, and the Intelligence Community at the intersection of data science and cybersecurity.\r\n \r\nCustomer Use Cases:\r\n\r\n• Voice Voice Fraud (Ie. Realtime detection of AI generated voices for banks and call centers)\r\n\r\n• Onboarding KYC (Ie. Anti-fraud to identify fraudulent users and materials)\r\n\r\n• Content Moderation (Ie. Social media, e-commerce, marketplaces, dating, streaming)\r\n\r\n• Disinformation Detection (Ie. News, defense, government)\r\n \r\nWebsite: www.realitydefender.com\r\n\r\nContact: ask@realitydefender.com\r\n\r\nYC AMA: https://news.ycombinator.com/item?id=30766050",
+    "long_description": "Reality Defender is the market leader in deepfake detection, protecting enterprises and governments from realtime deepfake and agentic fraud. Sign up for free access at https://www.realitydefender.com/api\r\n\r\nWebsite: www.realitydefender.com\r\nContact: ask@realitydefender.com\r\nYC AMA: https://news.ycombinator.com/item?id=30766050\r\n\r\nAwards:\r\n2025 - Gartner: Recognized as Market Leader in Deepfake Detection\r\n2025 - JPMorgan: Inducted into Hall of Innovation\r\n2025 - World Economic Forum: Named Technology Pioneer\r\n2025 - USA DIU + Japan MOD: 1st Place \"Global Innovation Challenge\"\r\n2024 - RSA Conference: 1st Place “Most Innovative Startup”\r\n2024 - SINET16 Innovator Award\r\n2023 - SXSW 1st Place \"Artificial Intelligence, Voice, & Robotics Technologies\"",
     "one_liner": "Enterprise Deepfake Detection",
     "team_size": 54,
     "industry": "B2B",
     "subindustry": "B2B -> Security",
     "launched_at": 1647888631,
     "tags": [
+      "Artificial Intelligence",
       "SaaS",
       "Deepfake Detection",
       "Security",
-      "Privacy",
-      "AI"
+      "Privacy"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -31954,18 +31954,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fc7d56236fe67577e1d51a8f6c48ef7c48d88c9a.png",
     "website": "https://axle.insure",
     "all_locations": "New York, NY, USA",
-    "long_description": "[Axle](https://axle.insure/) is the AI-native clearinghouse for property and casualty insurance. Our infrastructure and AI agents automate complex insurance workflows for third parties including verification, monitoring, and policy updates. We've helped Fortune 500 businesses like Rocket Mortgage, Avis, and Experrian speed up workflows by 95% while recovering over $220M in potential losses. Axle is backed by Gradient, Y Combinator, and the founding team of Plaid.",
+    "long_description": "Axle is the AI-native clearinghouse for property and casualty insurance. Our infrastructure and AI agents automate complex insurance workflows for third parties including verification, monitoring, and policy updates. We've helped Fortune 500 businesses like Rocket Mortgage, Avis, and Experian speed up workflows by 95% while recovering over $220M in potential losses. Axle is backed by Gradient, Y Combinator, and the founding team of Plaid.",
     "one_liner": "AI-native clearinghouse for insurance",
     "team_size": 10,
     "industry": "Fintech",
     "subindustry": "Fintech",
     "launched_at": 1658084084,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "Fintech",
       "B2B",
-      "Insurance",
-      "AI"
+      "Insurance"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -33158,7 +33158,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -36786,19 +36786,19 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/306eaffa9ae52c97e7f7fd8c9161b13409115596.png",
     "website": "https://godiligent.ai",
-    "all_locations": "Berlin, Berlin, Germany",
+    "all_locations": "London, England, United Kingdom",
     "long_description": "We help fintech risk and AML compliance teams automate and strengthen routine customer due diligence tasks with LLMs. Our AI assistants slash cost-to-comply, improve risk detection and free up capacity for investigations that require human expertise and decision making. \r\n\r\nFintechs and banks use us to automate workflows like running thorough due diligence on a legal entity, reviewing customer documents like registry extracts, proofs of address etc and remediating false positive alerts from their AML systems.",
     "one_liner": "AI agents for fintech risk and compliance operations",
-    "team_size": 2,
+    "team_size": 10,
     "industry": "Fintech",
     "subindustry": "Fintech",
     "launched_at": 1706799734,
     "tags": [
-      "Artificial Intelligence",
       "Fintech",
       "Compliance",
       "Fraud Prevention",
-      "Regtech"
+      "Regtech",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -36810,7 +36810,7 @@
       "Fintech"
     ],
     "regions": [
-      "Germany",
+      "United Kingdom",
       "Europe"
     ],
     "stage": "Early",
@@ -41345,7 +41345,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "FurtherAI is a domain-specific AI for the insurance industry. Our AI Assistant automates complex workflows like submission intake, policy comparisons, and underwriting audits - making teams faster, smarter, and more efficient.\r\n\r\nLeading insurers, reinsurers, MGAs, and brokers rely on FurtherAI to drive better decisions at scale. Backed by top investors including Y Combinator, Nexus, South Park Commons, and Converge, FurtherAI supports customers writing over $15B in premiums across all 50 states.",
     "one_liner": "AI Workforce for the Insurance Industry",
-    "team_size": 8,
+    "team_size": 36,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1719357150,
@@ -41365,7 +41365,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -42331,13 +42331,15 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9efd3b7815df44b6aca06023be3c607e3a345ee5.png",
     "website": "https://codeant.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "CodeAnt AI is the Code Health platform built for the AI era.\r\n\r\nWe bring AI Code Review, Code Security, Code Quality, and Engineering Metrics into one unified platform, so engineering teams can ship faster, safer, and with confidence.\r\n\r\nCodeAnt AI understands your entire codebase.\r\n\r\nWorks with GitHub, GitLab (Cloud & Self-Hosted), Bitbucket, Azure DevOps, all IDEs, and CI/CD tools. Supports all languages and monorepos.\r\n\r\nTrusted by startups and global enterprises including Commvault, to improve code health and reduce review time by 80%.\r\n\r\nSOC 2 Type II & HIPAA compliant.\r\nWe never train on customer code.",
-    "one_liner": "AI Code Health Platform",
-    "team_size": 10,
+    "long_description": "CodeAnt AI is the agentic code security platform, combining defense and offense in a single self-learning engine.\r\n\r\nDefense\r\n→ AI Code Review: Cuts code review time down 80%.\r\n→ Code Security: SAST, SCA, Secrets, IaC, SBOM in one scan.\r\n→ Code Quality: Retires SonarQube across 30+ languages.\r\n\r\nOffense\r\n→ AI Pentesting: 500+ exploit agents, 48-hour report. Free unless we find a critical.\r\n\r\nPlus Developer 360: engineering metrics that ship work.\r\n\r\nWorks with GitHub, GitLab, Bitbucket, Azure DevOps. Every IDE, every CI/CD, every language. \r\n\r\nSOC 2 Type II & HIPAA Complaint.",
+    "one_liner": "Agentic Code Security Platform",
+    "team_size": 25,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1700644508,
-    "tags": [],
+    "tags": [
+      "Cybersecurity"
+    ],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": true,
@@ -46232,10 +46234,10 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/04b962a4bd6f50a02f91de8a67e62a48a1f09373.png",
     "website": "https://www.runpulse.com/",
-    "all_locations": "",
+    "all_locations": "San Francisco, CA, USA",
     "long_description": "Pulse converts complex information into LLM-ready inputs. Our API supports all document formats, from PDFs to Word, Excel, etc. Pulse integrates seamlessly with any existing data pipeline in minutes without any training or complexity. ",
     "one_liner": "Production-grade unstructured document extraction",
-    "team_size": 12,
+    "team_size": 20,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1720821338,
@@ -46251,7 +46253,8 @@
       "Infrastructure"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -46590,7 +46593,7 @@
       "Belgium",
       "Europe"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -48488,49 +48491,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/terra-2",
     "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2024/terra-2.json"
-  },
-  {
-    "id": 29955,
-    "name": "BrowserOS",
-    "slug": "browseros",
-    "former_names": [
-      "Felafax"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8ee9034382624e07d15bb234736662d02dc829f8.png",
-    "website": "https://BrowserOS.com/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "BrowserOS is an open-source agentic browser that runs AI agents locally.",
-    "one_liner": "The Open Source Agentic Browser",
-    "team_size": 4,
-    "industry": "Consumer",
-    "subindustry": "Consumer",
-    "launched_at": 1722468998,
-    "tags": [
-      "Generative AI",
-      "Consumer",
-      "B2B",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Summer 2024",
-    "status": "Active",
-    "industries": [
-      "Consumer"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/browseros",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2024/browseros.json"
   },
   {
     "id": 29957,
@@ -51460,7 +51420,7 @@
       "HUD"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/53fffc4904f866d9d44ba9a47862b594f1d45667.png",
-    "website": "https://www.hud.so",
+    "website": "https://www.hud.ai",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "HUD (YC W25) is developing agentic evals and RL environments for Computer Use Agents (CUAs) that browse the web for frontier AI labs. Our CUA Evals framework is the first comprehensive evaluation tool for CUAs.\r\n\r\nPeople don't actually know if AI agents are working reliably. To make AI agents work in the real world, we need detailed evals for a huge range of tasks.\r\n\r\nWe're backed by Y Combinator, and work closely with frontier AI labs to provide agent evaluation and training infrastructure at scale.",
     "one_liner": "Platform for building RL environments and evals ",
@@ -51469,8 +51429,8 @@
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1740930546,
     "tags": [
-      "Reinforcement Learning",
-      "AI"
+      "Artificial Intelligence",
+      "Reinforcement Learning"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -53423,6 +53383,46 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/chestnut",
     "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2025/chestnut.json"
+  },
+  {
+    "id": 30400,
+    "name": "Plexe",
+    "slug": "plexe",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4911874a37ff01bfa27bb33e5f83f49e6970068e.png",
+    "website": "https://plexe.ai",
+    "all_locations": "",
+    "long_description": "Plexe builds predictive ML models from a problem description. It connects to data sources, conducts experiments, evaluates and deploys the models to an API endpoint.",
+    "one_liner": "Open-source agents to build predictive ML models from a prompt",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1745031118,
+    "tags": [
+      "Machine Learning",
+      "Data Science",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Spring 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/plexe",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2025/plexe.json"
   },
   {
     "id": 30403,
@@ -56435,23 +56435,25 @@
   },
   {
     "id": 30671,
-    "name": "AgentHub",
-    "slug": "agenthub-2",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5d79e8581245eb7d73760c80116738ec9835755e.png",
-    "website": "https://www.agenthublabs.com",
+    "name": "Panoptive",
+    "slug": "panoptive",
+    "former_names": [
+      "AgentHub"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f773fb4653e4928ec6dbd27c0a049a20a2e22d7a.png",
+    "website": "https://www.panoptive.com",
     "all_locations": "",
-    "long_description": "AgentHub helps you catch and fix errors in your AI agents - before your users ever see them.\r\n\r\nSimulate real-world scenarios in curated RL environments for your agents - trace, evaluate, and improve agent behavior at scale. Generate large annotated datasets and experiment with different prompts, models, and configurations - all in one place - with clear visualizations of what’s working (and what’s not).\r\n\r\nBuilt by a former tech lead from Apple’s Foundation Model Eval team and a product engineer from MIT with experience working on agents at startups, AgentHub makes it easy to integrate your use case and start improving your agents quickly.\r\n\r\nOur streamlined onboarding process lets you get your agent eval environment up and running fast—no heavy lifting on your end.\r\n\r\nClose the feedback loop and build better agents, faster - with confidence. ",
-    "one_liner": "The simulation and evaluation engine for AI agents",
+    "long_description": "",
+    "one_liner": "The oversight engine for clinical trials",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1753389326,
     "tags": [
-      "Artificial Intelligence",
-      "Reinforcement Learning",
       "B2B",
-      "Infrastructure"
+      "Biotech",
+      "Infrastructure",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -56470,8 +56472,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/agenthub-2",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2025/agenthub-2.json"
+    "url": "https://www.ycombinator.com/companies/panoptive",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2025/panoptive.json"
   },
   {
     "id": 30675,
@@ -57748,6 +57750,47 @@
     "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2025/magnetic.json"
   },
   {
+    "id": 30781,
+    "name": "Duranium",
+    "slug": "duranium",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2a84608596d6e85a1a64227a175491ef9496eb22.png",
+    "website": "https://www.duranium.co/",
+    "all_locations": "Alameda, CA, USA",
+    "long_description": "China and Russia control the world’s critical minerals. We can produce Titanium, Magnesium, Aluminum, Zirconium & Hafnium in the U.S. more profitably than any existing process, and carbon neutrally via co-production.\r\n\r\nCarbochlorination is the primary process for producing critical metals like titanium, hafnium, and zirconium, and was once the standard for magnesium. The problem: conventional carbochlorination relies on purchasing carbon feedstocks, wastes valuable byproducts, and is highly CO₂-intensive.\r\n\r\nDuranium changes this with a novel reactor that recycles CO₂ emissions back into feedstock (CO) while generating a valuable co-product (bleaching agents). This closed loop slashes emissions and delivers Chinese-level metal pricing without subsidies — unlocking the full potential of carbochlorination for U.S. critical mineral production.",
+    "one_liner": "Reshoring critical metal production",
+    "team_size": 4,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Manufacturing and Robotics",
+    "launched_at": 1757191317,
+    "tags": [
+      "Manufacturing",
+      "Advanced Materials",
+      "ClimateTech"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Manufacturing and Robotics"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/duranium",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2025/duranium.json"
+  },
+  {
     "id": 30782,
     "name": "TectoAI",
     "slug": "tectoai",
@@ -58033,6 +58076,43 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/burnt",
     "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2025/burnt.json"
+  },
+  {
+    "id": 30802,
+    "name": "Freya",
+    "slug": "freya",
+    "former_names": [
+      "CourseShark"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/cd359a60dfecfce9e7a798a4a228f08f05943dcb.png",
+    "website": "https://freyavoice.ai/",
+    "all_locations": "",
+    "long_description": "",
+    "one_liner": "Voice AI for Enterprises",
+    "team_size": 14,
+    "industry": "Fintech",
+    "subindustry": "Fintech",
+    "launched_at": 1754641408,
+    "tags": [],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "Fintech"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/freya",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2025/freya.json"
   },
   {
     "id": 30804,
@@ -60685,6 +60765,43 @@
     "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2026/ventura.json"
   },
   {
+    "id": 31167,
+    "name": "Stilta",
+    "slug": "stilta",
+    "former_names": [
+      "Patrona"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/dd5098ecffa80ba5653bbe087ea69f86e9bb24b7.png",
+    "website": "https://stilta.com",
+    "all_locations": "",
+    "long_description": "Stilta builds agentic AI software for intellectual property, starting with patent litigation. Whether challenging or enforcing a patent, leading IP law firms and in-house IP teams use Stilta for source-backed, auditable analysis.\r\n\r\nInnovation drives the world's most important breakthroughs, but the tools that protect it haven't kept pace. Patent attorneys do high-stakes work with a process still built on manual document review and disconnected point solutions. Generative AI helps with drafting, but it doesn't deliver the trust and transparency that legal-grade work demands - no sources, no traceability, no audit trail. Stilta takes a different approach. We use agentic AI to run search and analysis at a scale manual methods can't match, with every output source-backed, referenced, and auditable. Until recently, this wasn't technically possible.\r\n\r\nWe're four engineers from McKinsey/QuantumBlack who built and deployed AI systems at some of the world's largest organizations. With Stilta, we're equipping the people who protect the world's most valuable ideas with tools that match the stakes.",
+    "one_liner": "Agentic AI for intellectual property",
+    "team_size": 4,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1769876849,
+    "tags": [],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/stilta",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2026/stilta.json"
+  },
+  {
     "id": 31174,
     "name": "Hex Security",
     "slug": "hex-security",
@@ -61362,6 +61479,41 @@
     "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2026/tsenta.json"
   },
   {
+    "id": 31271,
+    "name": "VOYGR",
+    "slug": "voygr",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f0f0bf8a667e6a150380872419b6209ced7f1423.png",
+    "website": "https://voygr.tech",
+    "all_locations": "",
+    "long_description": "VOYGR is a better maps API every agent and AI app will need. Google says '4.2 stars, open till 10 – VOYGR knows the chef left, wait times doubled, and locals moved on. Our intelligent local search combines accurate place data with fresh web context – news, articles, and events. We expand beyond 10-15 map attributes into infinite, queryable place profiles, enabling agents to reason and act in the real world.\r\n\r\nMaps are no longer browsed – LLMs/agents use them to reason and act. 20M+ apps/websites, up to 40% of search queries, and 20% of LLM prompts need local context. \r\n10-15 attributes per place are not enough for AI. Places change constantly - restaurants close, hours change, businesses move. LLMs struggle with semantic queries “Specialty coffee shops in SF with Wi-Fi, popular with YC founders”. Agents cannot reliably “parse half the internet” - they need real-world ontology\r\n\r\nWe’re experienced builders in maps, search, and ML to solve this. Vlad knows this space inside and out – he worked on the Google Maps APIs GTM, plus firsthand customer experience from building in ridesharing and travel. Yarik has spent over a decade leading ML/search teams at Apple, Google, and Meta. \r\n\r\nGoogle Places alone is a $XXB/Yr monopoly. Agents turn it into a transactional layer opportunity for local commerce and ads.",
+    "one_liner": "Real-world place intelligence for AI apps and agents",
+    "team_size": null,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1769793909,
+    "tags": [],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/voygr",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2026/voygr.json"
+  },
+  {
     "id": 31292,
     "name": "Aurorin CAD",
     "slug": "aurorin-cad",
@@ -61755,6 +61907,50 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/mount",
     "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/mount.json"
+  },
+  {
+    "id": 31451,
+    "name": "Archer",
+    "slug": "archer",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8149769a0781242dca23d1bed75bdf39b4b9dba6.png",
+    "website": "https://archermoney.com/",
+    "all_locations": "New York, NY, USA",
+    "long_description": "Archer helps companies automatically pay people when specific business outcomes happen. Instead of manually managing commissions, referrals, or incentive programs, companies can tie payouts directly to things like revenue, signups, onboarding processes, and Archer handles tracking, calculation, and payouts end-to-end using stablecoins. Users are able to spin up the programs using a simple natural language interface.\r\n\r\nToday, every company already spends money to drive behavior, sales bonuses, referral payouts, creator deals, marketplace incentives, but these systems are static, manual, and fragmented across spreadsheets, internal tools, and finance workflows. The result is billions of dollars in incentive spend that is poorly optimized and disconnected from actual outcomes.\r\n\r\nArcher makes this programmable. Companies can define what they want to reward using natural language and only pay when measurable value is created. This turns incentives from a cost center into a lever for growth, allowing teams to continuously test and optimize how money drives behavior across employees, partners, and users.",
+    "one_liner": "Instant payouts for work and incentives.",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B -> Finance and Accounting",
+    "launched_at": 1776977656,
+    "tags": [
+      "Crypto / Web3",
+      "Finance"
+    ],
+    "tags_highlighted": [
+      "Crypto / Web3"
+    ],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Finance and Accounting"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/archer",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/archer.json"
   },
   {
     "id": 31470,

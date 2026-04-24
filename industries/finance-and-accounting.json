@@ -3556,7 +3556,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -5217,14 +5217,14 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Automate internal auditing (planning, testing, documenting) to comply better with financial regulations.\r\n\r\nDenki performs audit work with 99% software, 1% services:\r\n\r\n✔️ Works on existing systems (e.g. Auditboard, Workiva, ERPs)\r\n✔️ Automates Control processes (e.g. collects evidence, runs walkthrough interviews, tests)\r\n✔️ Records every step for traceability (workpapers w/ full audit trace)\r\n\r\nFocused on SOX programs and financial regulations (SEC Rules etc.)",
     "one_liner": "The full-stack AI financial audit firm",
-    "team_size": 2,
+    "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Finance and Accounting",
     "launched_at": 1759884466,
     "tags": [
-      "Artificial Intelligence",
       "FinOps",
       "Compliance",
+      "AI",
       "AI Assistant"
     ],
     "tags_highlighted": [],
@@ -5558,6 +5558,50 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/copperlane",
     "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2026/copperlane.json"
+  },
+  {
+    "id": 31451,
+    "name": "Archer",
+    "slug": "archer",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8149769a0781242dca23d1bed75bdf39b4b9dba6.png",
+    "website": "https://archermoney.com/",
+    "all_locations": "New York, NY, USA",
+    "long_description": "Archer helps companies automatically pay people when specific business outcomes happen. Instead of manually managing commissions, referrals, or incentive programs, companies can tie payouts directly to things like revenue, signups, onboarding processes, and Archer handles tracking, calculation, and payouts end-to-end using stablecoins. Users are able to spin up the programs using a simple natural language interface.\r\n\r\nToday, every company already spends money to drive behavior, sales bonuses, referral payouts, creator deals, marketplace incentives, but these systems are static, manual, and fragmented across spreadsheets, internal tools, and finance workflows. The result is billions of dollars in incentive spend that is poorly optimized and disconnected from actual outcomes.\r\n\r\nArcher makes this programmable. Companies can define what they want to reward using natural language and only pay when measurable value is created. This turns incentives from a cost center into a lever for growth, allowing teams to continuously test and optimize how money drives behavior across employees, partners, and users.",
+    "one_liner": "Instant payouts for work and incentives.",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B -> Finance and Accounting",
+    "launched_at": 1776977656,
+    "tags": [
+      "Crypto / Web3",
+      "Finance"
+    ],
+    "tags_highlighted": [
+      "Crypto / Web3"
+    ],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Finance and Accounting"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/archer",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/archer.json"
   },
   {
     "id": 31562,

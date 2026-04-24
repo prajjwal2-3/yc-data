@@ -1933,15 +1933,15 @@
     "website": "https://callab.ai",
     "all_locations": "",
     "long_description": "Callab AI - AI voice agents for contact centers. Over half the world's contact center infrastructure still runs on legacy telephony (CUCM, on-prem PBX, carrier-grade SIP) - a $70B+ market where current AI voice platforms can't natively integrate. \r\n\r\nWe plug into these environments without requiring a rip-and-replace. We serve clients across three continents, including brands like DunkinDonut.",
-    "one_liner": "AI voice agents for on-prem PBX stacks.",
+    "one_liner": "AI voice agents for enterprise telephony systems.",
     "team_size": 7,
     "industry": "B2B",
     "subindustry": "B2B -> Operations",
     "launched_at": 1773416869,
     "tags": [
-      "Artificial Intelligence",
       "B2B",
-      "Call Center"
+      "Call Center",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -2806,6 +2806,50 @@
     "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/smol-machines.json"
   },
   {
+    "id": 31451,
+    "name": "Archer",
+    "slug": "archer",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8149769a0781242dca23d1bed75bdf39b4b9dba6.png",
+    "website": "https://archermoney.com/",
+    "all_locations": "New York, NY, USA",
+    "long_description": "Archer helps companies automatically pay people when specific business outcomes happen. Instead of manually managing commissions, referrals, or incentive programs, companies can tie payouts directly to things like revenue, signups, onboarding processes, and Archer handles tracking, calculation, and payouts end-to-end using stablecoins. Users are able to spin up the programs using a simple natural language interface.\r\n\r\nToday, every company already spends money to drive behavior, sales bonuses, referral payouts, creator deals, marketplace incentives, but these systems are static, manual, and fragmented across spreadsheets, internal tools, and finance workflows. The result is billions of dollars in incentive spend that is poorly optimized and disconnected from actual outcomes.\r\n\r\nArcher makes this programmable. Companies can define what they want to reward using natural language and only pay when measurable value is created. This turns incentives from a cost center into a lever for growth, allowing teams to continuously test and optimize how money drives behavior across employees, partners, and users.",
+    "one_liner": "Instant payouts for work and incentives.",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B -> Finance and Accounting",
+    "launched_at": 1776977656,
+    "tags": [
+      "Crypto / Web3",
+      "Finance"
+    ],
+    "tags_highlighted": [
+      "Crypto / Web3"
+    ],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Finance and Accounting"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/archer",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/archer.json"
+  },
+  {
     "id": 31453,
     "name": "Minicor",
     "slug": "minicor",
@@ -2814,18 +2858,14 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e14eb470879a4e71c717ad6774095600e8b0de85.png",
     "website": "https://minicor.com",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "",
     "long_description": "AI companies selling into legacy industries can't go live because their customers' systems of record are Windows desktop apps with no APIs. The only way in is clicking through the UI, and it breaks constantly.\r\n\r\nMinicor is a platform for building self-healing desktop automations at scale. Speak the automation into existence through your favourite coding agent via our MCP, or to us directly, and get an API endpoint to trigger it. One API call triggers a full desktop workflow on a Windows VM. On-premise, cloud, or Citrix.\r\n\r\nVideo replay, error logging, and scaling built in.",
     "one_liner": "Managed, self healing desktop automation at scale",
     "team_size": 5,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1772756028,
-    "tags": [
-      "Generative AI",
-      "B2B",
-      "Infrastructure"
-    ],
+    "tags": [],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": false,
@@ -2837,8 +2877,6 @@
       "Infrastructure"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada",
       "Remote",
       "Partly Remote"
     ],
@@ -3423,13 +3461,19 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2f60ad803d2e9b0079d1a0e2e9afd248df7aafcd.png",
     "website": "https://www.projectx.cloud/",
     "all_locations": "",
-    "long_description": "Every computer ever made forces you to do one thing at a time. One cursor. One keyboard. One app in focus. Fifty years. Nobody questioned it.\r\n\r\nWe did. We started over.\r\n\r\nInfinity runs every app in its own independent computer -- own GPU, own input, own environment. Windows and Linux in the same session. Humans and agents working side by side. No concurrency ceiling. Cold start in seconds. One URL.",
-    "one_liner": "Building Infinity: the computer that does everything at once.",
+    "long_description": "Every computer ever made forces you to do one thing at a time. One cursor. One keyboard. One Hardware. One app in focus. Fifty years. Nobody questioned it.\r\n\r\nWe did. We started over.\r\n\r\nWe built InfinityOS, a fundamentally new computer OS on the cloud from ground up.\r\n\r\nInfinity runs every app in its own independent computer -- own GPU, own input, own environment. Windows and Linux in the same session. Humans and agents working side by side. No concurrency ceiling. Cold start in seconds. One URL.",
+    "one_liner": "Infinity: the first OS where humans and agents work with no limits.",
     "team_size": 6,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1773453080,
-    "tags": [],
+    "tags": [
+      "Artificial Intelligence",
+      "Marketplace",
+      "DevOps",
+      "Cloud Computing",
+      "Infrastructure"
+    ],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": false,

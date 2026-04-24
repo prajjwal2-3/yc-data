@@ -2629,7 +2629,7 @@
       "Remote",
       "Fully Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -5995,7 +5995,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": true,
     "app_answers": true,
@@ -6015,18 +6015,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/993ff6073116071031609f9e3bed69101446082b.png",
     "website": "https://www.ridecell.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Ridecell is leading the way in the digital transformation of fleet businesses and operations. Our Fleet Automation and Mobility solutions modernize and monetize fleets by combining data insights with digital vehicle control to turn today’s manual processes into automated workflows. The result is unmatched levels of efficiency and control for leasing, rental,  government, commercial and shared fleets.\r\n\r\nToday Ridecell powers some of the most successful fleet businesses and the leading government fleets in cities across Europe and North America. Our customers and partners include:\r\nPenske  - the largest truck fleet in America with 400,000 trucks\r\nMobility fleets for Toyota, Ford, Daimler, BMW - - the largest OEMs in the world and\r\nBNP Paribas, Arval: 1,500,000 vehicles, the 2nd largest fleet in Europe\r\nAnd  the largest government fleets in the world including San Francisco, New York City, the Belgian Government \r\n\r\nOur platform makes these businesses more intelligent, accessible, efficient and safer by connecting and automating the core technology pillars including vehicle technology like telematics, camera and ADAS system, and enterprise platforms including CRM, commerce and finance systems. \r\n\r\n\r\n\r\n\r\nRidecell is headquartered in San Francisco, California with offices in Tokyo, Madrid, Paris, Bordeaux, Berlin and Pune, India.",
+    "long_description": "Ridecell is leading the way in the digital transformation of fleet businesses and operations. Our Fleet Automation and Mobility solutions modernize and monetize fleets by combining data insights with digital vehicle control to turn today’s manual processes into automated workflows. The result is unmatched levels of efficiency and control for leasing, rental,  government, commercial and shared fleets.\r\n\r\nToday Ridecell powers some of the most successful fleet businesses and the leading government fleets in cities across Europe and North America. Our customers and partners include:\r\nPenske  - the largest truck fleet in America with 400,000 trucks\r\nMobility fleets for Toyota, Ford, Daimler, BMW - - the largest OEMs in the world and\r\nBNP Paribas, Arval: 1,500,000 vehicles, the 2nd largest fleet in Europe\r\nAnd  the largest government fleets in the world including San Francisco, New York City, the Belgian Government \r\n\r\nOur platform makes these businesses more intelligent, accessible, efficient and safer by connecting and automating the core technology pillars including vehicle technology like telematics, camera and ADAS system, and enterprise platforms including CRM, commerce and finance systems. \r\n\r\nRidecell is headquartered in Bay Area, California with offices in Madrid, Paris, Bordeaux, Berlin and Pune, India.",
     "one_liner": "AI for Automotive Leasing and Mobility",
     "team_size": 88,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1481295031,
     "tags": [
+      "Artificial Intelligence",
       "SaaS",
       "IoT",
       "B2B",
-      "Enterprise",
-      "AI"
+      "Enterprise"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -26968,7 +26968,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7d66896afcf3127a39f735586c48cd210cab0a7f.png",
     "website": "https://www.useagave.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "We’re modernizing construction, a $12T global industry run by siloed software built 20-40 years ago (on-prem, no APIs, no mobile access, etc.). \r\n\r\n\r\nConstruction is at a generational inflection point. 41% of the workforce retires by 2031, and AI is forcing contractors to increase efficiency without increasing headcount. \r\n\r\n\r\nAt Agave, we're building the financial operations platform for construction contractors. We reverse-engineered 11+ proprietary ERPs to build a modern API layer, then built critical products contractors needed on top: ERP Sync and AP Automation, with 4 more products coming out this year. Our goal is to be the financial operations platform every construction company in North America runs on. \r\n\r\n\r\nWe're backed by Accel and Y Combinator, with angels from Plaid, Procore, Autodesk, and PlanGrid. Our founding team worked together for 10 years at Graphiq (acq. Amazon) and Amazon before founding Agave.\r\n\r\nThese slides explain our company and market in more detail: https://www.figma.com/deck/nlpdpvRj3iS2qbPXqkMQz0",
+    "long_description": "We’re modernizing construction, a $12T global industry run by siloed software built 20-40 years ago (on-prem, no APIs, no mobile access, etc.). \r\n\r\nConstruction is at a generational inflection point. 41% of the workforce retires by 2031, and AI is forcing contractors to increase efficiency without increasing headcount. \r\n\r\nAt Agave, we're building the financial operations platform for construction contractors. We reverse-engineered 11+ proprietary ERPs to build a modern API layer, then built critical products contractors needed on top: ERP Sync and AP Automation, with 4 more products coming out this year. Our goal is to be the financial operations platform every construction company in North America runs on. \r\n\r\nWe're backed by Accel and Y Combinator, with angels from Plaid, Procore, Autodesk, and PlanGrid. Our founding team worked together for 10 years at Graphiq (acq. Amazon) and Amazon before founding Agave.",
     "one_liner": "AI Financial Operations for Construction",
     "team_size": 33,
     "industry": "B2B",
@@ -29820,7 +29820,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -30906,18 +30906,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c71984e3c90e232ebbf75967edf3df1a6a22f4e9.png",
     "website": "https://www.workflow86.com",
     "all_locations": "Sydney, NSW, Australia",
-    "long_description": "Workflow86 is your on-demand AI workflow engineer that designs, builds and edits complete end-to-end automated workflows and business processes based on your instructions. \r\n\r\nWorkflow86 turns any description of a business process or procedure into an automated workflow with fully configured forms, tasks, integrations, notifications, document generation and more. Deploy highly customized business processes and workflows that work with your existing systems in minutes, and just as easily edit and iterate on them with no-code, code or AI assistance.",
-    "one_liner": "AI Workflow Engineer for automating your business operations",
+    "long_description": "Workflow86 provides a complete end-to-end platform for building agentic workflows and automating complex business processes and operations. \r\n\r\nWorkflow86 provides users with a complete suite of tools to build and deploy custom agents and orchestrate them to perform complex, long-running workflows including human-in-the-loop steps, custom code, agent tools, and integrations with your existing systems. \r\n\r\nBuild using a visual canvas, or simply describe the workflow in natural language with agents able to self-configure tools, prompts, and integrations, and even build the multi-agent workflows. ",
+    "one_liner": "Agentic workflows for complex, long running business operations",
     "team_size": 6,
     "industry": "B2B",
     "subindustry": "B2B -> Operations",
     "launched_at": 1642126076,
     "tags": [
-      "Artificial Intelligence",
       "SaaS",
       "B2B",
       "Enterprise",
-      "No-code"
+      "No-code",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -31549,18 +31549,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5de4d57756c747e087b70e720cbfdb09672b0cc7.png",
     "website": "http://www.realitydefender.com",
     "all_locations": "New York, NY, USA",
-    "long_description": "Reality Defender’s deepfake detection platform empowers enterprises to flag fraudulent users and content (audio calls, videos, images, documents). Our API and web app provides real-time risk scoring, reporting, alerts, and forensics review.  \r\n\r\nOur team spent 20+ years at Google, Goldman Sachs, and the Intelligence Community at the intersection of data science and cybersecurity.\r\n \r\nCustomer Use Cases:\r\n\r\n• Voice Voice Fraud (Ie. Realtime detection of AI generated voices for banks and call centers)\r\n\r\n• Onboarding KYC (Ie. Anti-fraud to identify fraudulent users and materials)\r\n\r\n• Content Moderation (Ie. Social media, e-commerce, marketplaces, dating, streaming)\r\n\r\n• Disinformation Detection (Ie. News, defense, government)\r\n \r\nWebsite: www.realitydefender.com\r\n\r\nContact: ask@realitydefender.com\r\n\r\nYC AMA: https://news.ycombinator.com/item?id=30766050",
+    "long_description": "Reality Defender is the market leader in deepfake detection, protecting enterprises and governments from realtime deepfake and agentic fraud. Sign up for free access at https://www.realitydefender.com/api\r\n\r\nWebsite: www.realitydefender.com\r\nContact: ask@realitydefender.com\r\nYC AMA: https://news.ycombinator.com/item?id=30766050\r\n\r\nAwards:\r\n2025 - Gartner: Recognized as Market Leader in Deepfake Detection\r\n2025 - JPMorgan: Inducted into Hall of Innovation\r\n2025 - World Economic Forum: Named Technology Pioneer\r\n2025 - USA DIU + Japan MOD: 1st Place \"Global Innovation Challenge\"\r\n2024 - RSA Conference: 1st Place “Most Innovative Startup”\r\n2024 - SINET16 Innovator Award\r\n2023 - SXSW 1st Place \"Artificial Intelligence, Voice, & Robotics Technologies\"",
     "one_liner": "Enterprise Deepfake Detection",
     "team_size": 54,
     "industry": "B2B",
     "subindustry": "B2B -> Security",
     "launched_at": 1647888631,
     "tags": [
+      "Artificial Intelligence",
       "SaaS",
       "Deepfake Detection",
       "Security",
-      "Privacy",
-      "AI"
+      "Privacy"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -35751,7 +35751,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -38185,7 +38185,7 @@
     "former_names": [
       "Koala Ops"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2051debd2ddc50b321426f669aa98a0120dfc537.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c4df2dc3a8591521492f4797ca92971742623b68.png",
     "website": "https://skyhook.io",
     "all_locations": "Tel Aviv-Yafo, Tel Aviv District, Israel",
     "long_description": "We make running services on Kubernetes as easy as Heroku, but on your cloud and with all the flexibility and power of Kubernetes. Companies use Skyhook so that they don't have to hire dedicated infrastructure engineers.\r\n\r\nAlthough 50-70% of organizations have already adopted Kubernetes, most developers agree that it is too complex and difficult to manage. It is intended to be extremely flexible in order to solve pretty much everyone’s needs, but it can take a ton of work and many auxiliary tools to get there.\r\n\r\nAs companies grow, they spend a lot on DevOps or Platform Engineers that try to reduce the burden on developers by gluing together all the 3p tools via custom internal tools.\r\n\r\nWe are building an “internal developer platform” out of the box, with best practices and golden paths for building and operating services on Kubernetes.\r\n\r\nWe do the research on the latest and greatest tools in the extremely vibrant ecosystem, and automatically integrate for you the tools you want to use.\r\n\r\nWe operate on our customers code and in your Cloud environment, so they never locked in and never restricted, as is common with classic PaaS offerings.\r\n\r\nIf you prefer a fully hosted environment like Heroku, Fly or Vercel, we’ll host a cluster for you and offer you a one-click migration to your own cluster when you want.",
@@ -42709,7 +42709,7 @@
       "Belgium",
       "Europe"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -44333,7 +44333,8 @@
     "tags": [
       "SaaS",
       "B2B",
-      "Workflow Automation",
+      "Analytics",
+      "Procurement",
       "Automation"
     ],
     "tags_highlighted": [],

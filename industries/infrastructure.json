@@ -8057,7 +8057,7 @@
     "all_locations": "New York, NY, USA; Remote",
     "long_description": "Glide lets apps accept crypto deposits from any chain, wallet, or exchange using pre-built wallet funding flows. Users can fund wallets directly — no bridges, no swaps, no repeated KYC.",
     "one_liner": "Crypto Deposits, Wallet Funding, and Pay-with-crypto Infra",
-    "team_size": 2,
+    "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1689702823,
@@ -8880,10 +8880,10 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/04b962a4bd6f50a02f91de8a67e62a48a1f09373.png",
     "website": "https://www.runpulse.com/",
-    "all_locations": "",
+    "all_locations": "San Francisco, CA, USA",
     "long_description": "Pulse converts complex information into LLM-ready inputs. Our API supports all document formats, from PDFs to Word, Excel, etc. Pulse integrates seamlessly with any existing data pipeline in minutes without any training or complexity. ",
     "one_liner": "Production-grade unstructured document extraction",
-    "team_size": 12,
+    "team_size": 20,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1720821338,
@@ -8899,7 +8899,8 @@
       "Infrastructure"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -12173,18 +12174,14 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e14eb470879a4e71c717ad6774095600e8b0de85.png",
     "website": "https://minicor.com",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "",
     "long_description": "AI companies selling into legacy industries can't go live because their customers' systems of record are Windows desktop apps with no APIs. The only way in is clicking through the UI, and it breaks constantly.\r\n\r\nMinicor is a platform for building self-healing desktop automations at scale. Speak the automation into existence through your favourite coding agent via our MCP, or to us directly, and get an API endpoint to trigger it. One API call triggers a full desktop workflow on a Windows VM. On-premise, cloud, or Citrix.\r\n\r\nVideo replay, error logging, and scaling built in.",
     "one_liner": "Managed, self healing desktop automation at scale",
     "team_size": 5,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1772756028,
-    "tags": [
-      "Generative AI",
-      "B2B",
-      "Infrastructure"
-    ],
+    "tags": [],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": false,
@@ -12196,8 +12193,6 @@
       "Infrastructure"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada",
       "Remote",
       "Partly Remote"
     ],
@@ -12258,13 +12253,19 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2f60ad803d2e9b0079d1a0e2e9afd248df7aafcd.png",
     "website": "https://www.projectx.cloud/",
     "all_locations": "",
-    "long_description": "Every computer ever made forces you to do one thing at a time. One cursor. One keyboard. One app in focus. Fifty years. Nobody questioned it.\r\n\r\nWe did. We started over.\r\n\r\nInfinity runs every app in its own independent computer -- own GPU, own input, own environment. Windows and Linux in the same session. Humans and agents working side by side. No concurrency ceiling. Cold start in seconds. One URL.",
-    "one_liner": "Building Infinity: the computer that does everything at once.",
+    "long_description": "Every computer ever made forces you to do one thing at a time. One cursor. One keyboard. One Hardware. One app in focus. Fifty years. Nobody questioned it.\r\n\r\nWe did. We started over.\r\n\r\nWe built InfinityOS, a fundamentally new computer OS on the cloud from ground up.\r\n\r\nInfinity runs every app in its own independent computer -- own GPU, own input, own environment. Windows and Linux in the same session. Humans and agents working side by side. No concurrency ceiling. Cold start in seconds. One URL.",
+    "one_liner": "Infinity: the first OS where humans and agents work with no limits.",
     "team_size": 6,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1773453080,
-    "tags": [],
+    "tags": [
+      "Artificial Intelligence",
+      "Marketplace",
+      "DevOps",
+      "Cloud Computing",
+      "Infrastructure"
+    ],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": false,

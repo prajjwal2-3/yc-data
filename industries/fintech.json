@@ -20490,18 +20490,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fc7d56236fe67577e1d51a8f6c48ef7c48d88c9a.png",
     "website": "https://axle.insure",
     "all_locations": "New York, NY, USA",
-    "long_description": "[Axle](https://axle.insure/) is the AI-native clearinghouse for property and casualty insurance. Our infrastructure and AI agents automate complex insurance workflows for third parties including verification, monitoring, and policy updates. We've helped Fortune 500 businesses like Rocket Mortgage, Avis, and Experrian speed up workflows by 95% while recovering over $220M in potential losses. Axle is backed by Gradient, Y Combinator, and the founding team of Plaid.",
+    "long_description": "Axle is the AI-native clearinghouse for property and casualty insurance. Our infrastructure and AI agents automate complex insurance workflows for third parties including verification, monitoring, and policy updates. We've helped Fortune 500 businesses like Rocket Mortgage, Avis, and Experian speed up workflows by 95% while recovering over $220M in potential losses. Axle is backed by Gradient, Y Combinator, and the founding team of Plaid.",
     "one_liner": "AI-native clearinghouse for insurance",
     "team_size": 10,
     "industry": "Fintech",
     "subindustry": "Fintech",
     "launched_at": 1658084084,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "Fintech",
       "B2B",
-      "Insurance",
-      "AI"
+      "Insurance"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -22067,19 +22067,19 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/306eaffa9ae52c97e7f7fd8c9161b13409115596.png",
     "website": "https://godiligent.ai",
-    "all_locations": "Berlin, Berlin, Germany",
+    "all_locations": "London, England, United Kingdom",
     "long_description": "We help fintech risk and AML compliance teams automate and strengthen routine customer due diligence tasks with LLMs. Our AI assistants slash cost-to-comply, improve risk detection and free up capacity for investigations that require human expertise and decision making. \r\n\r\nFintechs and banks use us to automate workflows like running thorough due diligence on a legal entity, reviewing customer documents like registry extracts, proofs of address etc and remediating false positive alerts from their AML systems.",
     "one_liner": "AI agents for fintech risk and compliance operations",
-    "team_size": 2,
+    "team_size": 10,
     "industry": "Fintech",
     "subindustry": "Fintech",
     "launched_at": 1706799734,
     "tags": [
-      "Artificial Intelligence",
       "Fintech",
       "Compliance",
       "Fraud Prevention",
-      "Regtech"
+      "Regtech",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -22091,7 +22091,7 @@
       "Fintech"
     ],
     "regions": [
-      "Germany",
+      "United Kingdom",
       "Europe"
     ],
     "stage": "Early",
@@ -25501,22 +25501,17 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/cd359a60dfecfce9e7a798a4a228f08f05943dcb.png",
     "website": "https://freyavoice.ai/",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "",
     "long_description": "",
     "one_liner": "Voice AI for Enterprises",
     "team_size": 14,
     "industry": "Fintech",
     "subindustry": "Fintech",
     "launched_at": 1754641408,
-    "tags": [
-      "Artificial Intelligence",
-      "Fintech",
-      "Retail",
-      "Call Center"
-    ],
+    "tags": [],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Summer 2025",
     "status": "Active",
@@ -25524,8 +25519,7 @@
       "Fintech"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "Unspecified"
     ],
     "stage": "Early",
     "app_video_public": false,

@@ -1905,7 +1905,7 @@
     "all_locations": "New York, NY, USA; Remote",
     "long_description": "Glide lets apps accept crypto deposits from any chain, wallet, or exchange using pre-built wallet funding flows. Users can fund wallets directly — no bridges, no swaps, no repeated KYC.",
     "one_liner": "Crypto Deposits, Wallet Funding, and Pay-with-crypto Infra",
-    "team_size": 2,
+    "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1689702823,
@@ -3972,23 +3972,25 @@
   },
   {
     "id": 30671,
-    "name": "AgentHub",
-    "slug": "agenthub-2",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5d79e8581245eb7d73760c80116738ec9835755e.png",
-    "website": "https://www.agenthublabs.com",
+    "name": "Panoptive",
+    "slug": "panoptive",
+    "former_names": [
+      "AgentHub"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f773fb4653e4928ec6dbd27c0a049a20a2e22d7a.png",
+    "website": "https://www.panoptive.com",
     "all_locations": "",
-    "long_description": "AgentHub helps you catch and fix errors in your AI agents - before your users ever see them.\r\n\r\nSimulate real-world scenarios in curated RL environments for your agents - trace, evaluate, and improve agent behavior at scale. Generate large annotated datasets and experiment with different prompts, models, and configurations - all in one place - with clear visualizations of what’s working (and what’s not).\r\n\r\nBuilt by a former tech lead from Apple’s Foundation Model Eval team and a product engineer from MIT with experience working on agents at startups, AgentHub makes it easy to integrate your use case and start improving your agents quickly.\r\n\r\nOur streamlined onboarding process lets you get your agent eval environment up and running fast—no heavy lifting on your end.\r\n\r\nClose the feedback loop and build better agents, faster - with confidence. ",
-    "one_liner": "The simulation and evaluation engine for AI agents",
+    "long_description": "",
+    "one_liner": "The oversight engine for clinical trials",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1753389326,
     "tags": [
-      "Artificial Intelligence",
-      "Reinforcement Learning",
       "B2B",
-      "Infrastructure"
+      "Biotech",
+      "Infrastructure",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -4007,8 +4009,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/agenthub-2",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2025/agenthub-2.json"
+    "url": "https://www.ycombinator.com/companies/panoptive",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2025/panoptive.json"
   },
   {
     "id": 30710,
@@ -4871,51 +4873,6 @@
     "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/smol-machines.json"
   },
   {
-    "id": 31453,
-    "name": "Minicor",
-    "slug": "minicor",
-    "former_names": [
-      "Laminar"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e14eb470879a4e71c717ad6774095600e8b0de85.png",
-    "website": "https://minicor.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "AI companies selling into legacy industries can't go live because their customers' systems of record are Windows desktop apps with no APIs. The only way in is clicking through the UI, and it breaks constantly.\r\n\r\nMinicor is a platform for building self-healing desktop automations at scale. Speak the automation into existence through your favourite coding agent via our MCP, or to us directly, and get an API endpoint to trigger it. One API call triggers a full desktop workflow on a Windows VM. On-premise, cloud, or Citrix.\r\n\r\nVideo replay, error logging, and scaling built in.",
-    "one_liner": "Managed, self healing desktop automation at scale",
-    "team_size": 5,
-    "industry": "B2B",
-    "subindustry": "B2B -> Infrastructure",
-    "launched_at": 1772756028,
-    "tags": [
-      "Generative AI",
-      "B2B",
-      "Infrastructure"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Spring 2026",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Infrastructure"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/minicor",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/minicor.json"
-  },
-  {
     "id": 31475,
     "name": "Ardent",
     "slug": "ardent",
@@ -4955,6 +4912,49 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/ardent",
     "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/ardent.json"
+  },
+  {
+    "id": 31507,
+    "name": "ProjectX",
+    "slug": "projectx",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2f60ad803d2e9b0079d1a0e2e9afd248df7aafcd.png",
+    "website": "https://www.projectx.cloud/",
+    "all_locations": "",
+    "long_description": "Every computer ever made forces you to do one thing at a time. One cursor. One keyboard. One Hardware. One app in focus. Fifty years. Nobody questioned it.\r\n\r\nWe did. We started over.\r\n\r\nWe built InfinityOS, a fundamentally new computer OS on the cloud from ground up.\r\n\r\nInfinity runs every app in its own independent computer -- own GPU, own input, own environment. Windows and Linux in the same session. Humans and agents working side by side. No concurrency ceiling. Cold start in seconds. One URL.",
+    "one_liner": "Infinity: the first OS where humans and agents work with no limits.",
+    "team_size": 6,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1773453080,
+    "tags": [
+      "Artificial Intelligence",
+      "Marketplace",
+      "DevOps",
+      "Cloud Computing",
+      "Infrastructure"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/projectx",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/projectx.json"
   },
   {
     "id": 31547,

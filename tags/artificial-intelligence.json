@@ -1983,6 +1983,54 @@
     "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2017/bicycle-ai.json"
   },
   {
+    "id": 1548,
+    "name": "Ridecell",
+    "slug": "ridecell",
+    "former_names": [
+      "Summon",
+      "InstantCab",
+      "Ridecell"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/993ff6073116071031609f9e3bed69101446082b.png",
+    "website": "https://www.ridecell.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Ridecell is leading the way in the digital transformation of fleet businesses and operations. Our Fleet Automation and Mobility solutions modernize and monetize fleets by combining data insights with digital vehicle control to turn today’s manual processes into automated workflows. The result is unmatched levels of efficiency and control for leasing, rental,  government, commercial and shared fleets.\r\n\r\nToday Ridecell powers some of the most successful fleet businesses and the leading government fleets in cities across Europe and North America. Our customers and partners include:\r\nPenske  - the largest truck fleet in America with 400,000 trucks\r\nMobility fleets for Toyota, Ford, Daimler, BMW - - the largest OEMs in the world and\r\nBNP Paribas, Arval: 1,500,000 vehicles, the 2nd largest fleet in Europe\r\nAnd  the largest government fleets in the world including San Francisco, New York City, the Belgian Government \r\n\r\nOur platform makes these businesses more intelligent, accessible, efficient and safer by connecting and automating the core technology pillars including vehicle technology like telematics, camera and ADAS system, and enterprise platforms including CRM, commerce and finance systems. \r\n\r\nRidecell is headquartered in Bay Area, California with offices in Madrid, Paris, Bordeaux, Berlin and Pune, India.",
+    "one_liner": "AI for Automotive Leasing and Mobility",
+    "team_size": 88,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1481295031,
+    "tags": [
+      "Artificial Intelligence",
+      "SaaS",
+      "IoT",
+      "B2B",
+      "Enterprise"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2012",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Growth",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/ridecell",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2012/ridecell.json"
+  },
+  {
     "id": 1560,
     "name": "Helix Nanotechnologies",
     "slug": "helix-nanotechnologies",
@@ -11287,6 +11335,52 @@
     "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2022/promptloop.json"
   },
   {
+    "id": 25339,
+    "name": "AgentRouter",
+    "slug": "agentrouter",
+    "former_names": [
+      "PageOne Lab, Inc.",
+      "VacationHomeRents",
+      "Wizwand",
+      "AgentDiscuss"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/06f893d5b073081cd45d8f0f66797ce918654100.png",
+    "website": "https://www.agentrouter.to",
+    "all_locations": "Seattle, WA, USA; Remote",
+    "long_description": "AgentRouter lets agents discover, pay, and execute APIs.",
+    "one_liner": "API Router for AI Agents",
+    "team_size": 4,
+    "industry": "Consumer",
+    "subindustry": "Consumer",
+    "launched_at": 1647541720,
+    "tags": [
+      "Artificial Intelligence",
+      "Consumer"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2022",
+    "status": "Active",
+    "industries": [
+      "Consumer"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Fully Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/agentrouter",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2022/agentrouter.json"
+  },
+  {
     "id": 25343,
     "name": "CoffeeAI",
     "slug": "coffeeai",
@@ -12728,51 +12822,6 @@
     "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2022/humand.json"
   },
   {
-    "id": 25995,
-    "name": "Workflow86",
-    "slug": "workflow86",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c71984e3c90e232ebbf75967edf3df1a6a22f4e9.png",
-    "website": "https://www.workflow86.com",
-    "all_locations": "Sydney, NSW, Australia",
-    "long_description": "Workflow86 is your on-demand AI workflow engineer that designs, builds and edits complete end-to-end automated workflows and business processes based on your instructions. \r\n\r\nWorkflow86 turns any description of a business process or procedure into an automated workflow with fully configured forms, tasks, integrations, notifications, document generation and more. Deploy highly customized business processes and workflows that work with your existing systems in minutes, and just as easily edit and iterate on them with no-code, code or AI assistance.",
-    "one_liner": "AI Workflow Engineer for automating your business operations",
-    "team_size": 6,
-    "industry": "B2B",
-    "subindustry": "B2B -> Operations",
-    "launched_at": 1642126076,
-    "tags": [
-      "Artificial Intelligence",
-      "SaaS",
-      "B2B",
-      "Enterprise",
-      "No-code"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2022",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Operations"
-    ],
-    "regions": [
-      "Australia",
-      "Oceania",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/workflow86",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2022/workflow86.json"
-  },
-  {
     "id": 26012,
     "name": "Postal",
     "slug": "postal",
@@ -13140,6 +13189,51 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/flike",
     "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2022/flike.json"
+  },
+  {
+    "id": 26296,
+    "name": "Reality Defender",
+    "slug": "reality-defender",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5de4d57756c747e087b70e720cbfdb09672b0cc7.png",
+    "website": "http://www.realitydefender.com",
+    "all_locations": "New York, NY, USA",
+    "long_description": "Reality Defender is the market leader in deepfake detection, protecting enterprises and governments from realtime deepfake and agentic fraud. Sign up for free access at https://www.realitydefender.com/api\r\n\r\nWebsite: www.realitydefender.com\r\nContact: ask@realitydefender.com\r\nYC AMA: https://news.ycombinator.com/item?id=30766050\r\n\r\nAwards:\r\n2025 - Gartner: Recognized as Market Leader in Deepfake Detection\r\n2025 - JPMorgan: Inducted into Hall of Innovation\r\n2025 - World Economic Forum: Named Technology Pioneer\r\n2025 - USA DIU + Japan MOD: 1st Place \"Global Innovation Challenge\"\r\n2024 - RSA Conference: 1st Place “Most Innovative Startup”\r\n2024 - SINET16 Innovator Award\r\n2023 - SXSW 1st Place \"Artificial Intelligence, Voice, & Robotics Technologies\"",
+    "one_liner": "Enterprise Deepfake Detection",
+    "team_size": 54,
+    "industry": "B2B",
+    "subindustry": "B2B -> Security",
+    "launched_at": 1647888631,
+    "tags": [
+      "Artificial Intelligence",
+      "SaaS",
+      "Deepfake Detection",
+      "Security",
+      "Privacy"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2022",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Security"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Growth",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/reality-defender",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2022/reality-defender.json"
   },
   {
     "id": 26311,
@@ -14858,6 +14952,51 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/cambio-2",
     "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2022/cambio-2.json"
+  },
+  {
+    "id": 27250,
+    "name": "Axle",
+    "slug": "axle",
+    "former_names": [
+      "Axle (Axle Labs",
+      "Inc.)"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fc7d56236fe67577e1d51a8f6c48ef7c48d88c9a.png",
+    "website": "https://axle.insure",
+    "all_locations": "New York, NY, USA",
+    "long_description": "Axle is the AI-native clearinghouse for property and casualty insurance. Our infrastructure and AI agents automate complex insurance workflows for third parties including verification, monitoring, and policy updates. We've helped Fortune 500 businesses like Rocket Mortgage, Avis, and Experian speed up workflows by 95% while recovering over $220M in potential losses. Axle is backed by Gradient, Y Combinator, and the founding team of Plaid.",
+    "one_liner": "AI-native clearinghouse for insurance",
+    "team_size": 10,
+    "industry": "Fintech",
+    "subindustry": "Fintech",
+    "launched_at": 1658084084,
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "Fintech",
+      "B2B",
+      "Insurance"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2022",
+    "status": "Active",
+    "industries": [
+      "Fintech"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/axle",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2022/axle.json"
   },
   {
     "id": 27252,
@@ -18170,50 +18309,6 @@
     "question_answers": true,
     "url": "https://www.ycombinator.com/companies/sohar-health",
     "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2023/sohar-health.json"
-  },
-  {
-    "id": 28805,
-    "name": "Diligent",
-    "slug": "diligent",
-    "former_names": [
-      "Paylane"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/306eaffa9ae52c97e7f7fd8c9161b13409115596.png",
-    "website": "https://godiligent.ai",
-    "all_locations": "Berlin, Berlin, Germany",
-    "long_description": "We help fintech risk and AML compliance teams automate and strengthen routine customer due diligence tasks with LLMs. Our AI assistants slash cost-to-comply, improve risk detection and free up capacity for investigations that require human expertise and decision making. \r\n\r\nFintechs and banks use us to automate workflows like running thorough due diligence on a legal entity, reviewing customer documents like registry extracts, proofs of address etc and remediating false positive alerts from their AML systems.",
-    "one_liner": "AI agents for fintech risk and compliance operations",
-    "team_size": 2,
-    "industry": "Fintech",
-    "subindustry": "Fintech",
-    "launched_at": 1706799734,
-    "tags": [
-      "Artificial Intelligence",
-      "Fintech",
-      "Compliance",
-      "Fraud Prevention",
-      "Regtech"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Summer 2023",
-    "status": "Active",
-    "industries": [
-      "Fintech"
-    ],
-    "regions": [
-      "Germany",
-      "Europe"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/diligent",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2023/diligent.json"
   },
   {
     "id": 28807,
@@ -29570,11 +29665,11 @@
     "name": "HYBRD",
     "slug": "hybrd",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2c9c9e9401c331a915e89803f89ed7452f03d962.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4d43a2e4ad2a1d85682aa3ad5a84240ff8cd7dca.png",
     "website": "https://www.hybrd.com/",
     "all_locations": "Boston, MA, USA",
-    "long_description": "HYBRD helps you get stronger and faster. It pulls in all your training data, from every wearable and workout tracking app you use, and uses it to personalize training plans specifically to you and your goals\r\n\r\nExisting products tend to focus on only one type of exercise (either cardio or strength), leaving hybrid athletes juggling disconnected tools. As hybrid athletes themselves the founders found this frustrating and set out to build the unified approach they needed for their training.\r\n\r\nThree of HYBRD’s founders previously worked at WHOOP, each leading teams across product, growth and analytics. Ruiters, the CTO, was a senior tech lead at AWS. In parallel, Mats was a member of the US national rowing team and Ben, Shoe and Ruiters have all completed Ironman 70.3s. The team's VP of tech/founding engineer Michael rowed at Cornell and is ex-WHOOP as well. \r\n",
-    "one_liner": "Get faster & stronger",
+    "long_description": "The mission of HYBRD is to take world-class coaching and make it universally available. \r\n\r\nHealth data has never been more abundant. GPS watches track pace and heart rate, wearables monitor sleep and recovery, and voice logging has made it easier than ever to capture weightlifting and HYROX. \r\n\r\nAnd yet most athletes are still following static PDF plans they found online, or \"adaptive\" apps that fall apart the moment cross-training enters the picture.\r\n\r\nExisting tools feel disappointing because they don’t actually know your goals and constraints, so they can’t do anything meaningful with the data they collect. \r\nHYBRD can. \r\n\r\nWe aggregate your wearable data, fill the gaps with a simple AI logger, and use that complete picture to build personalized training programs from the best coaches in the world, like Alex Viada, who coined the term \"hybrid athlete.\" \r\n\r\nFrom there, the HYBRD agent keeps you on track, adjusting your schedule around weather, travel, and fatigue as you progress. Everything you'd get from a $500/month coach, at a 50x lower price. \r\n\r\nFounded in 2024 by WHOOP and AWS alumni, HYBRD is built by hybrid athletes. Join us for a workout every Monday morning in San Francisco and Boston.",
+    "one_liner": "coaching agents for athletes",
     "team_size": 5,
     "industry": "Consumer",
     "subindustry": "Consumer",
@@ -31195,6 +31290,52 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/cuckoo-labs",
     "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2025/cuckoo-labs.json"
+  },
+  {
+    "id": 30254,
+    "name": "hud",
+    "slug": "hud",
+    "former_names": [
+      "Human Union Data",
+      "hud",
+      "HUD"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/53fffc4904f866d9d44ba9a47862b594f1d45667.png",
+    "website": "https://www.hud.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "HUD (YC W25) is developing agentic evals and RL environments for Computer Use Agents (CUAs) that browse the web for frontier AI labs. Our CUA Evals framework is the first comprehensive evaluation tool for CUAs.\r\n\r\nPeople don't actually know if AI agents are working reliably. To make AI agents work in the real world, we need detailed evals for a huge range of tasks.\r\n\r\nWe're backed by Y Combinator, and work closely with frontier AI labs to provide agent evaluation and training infrastructure at scale.",
+    "one_liner": "Platform for building RL environments and evals ",
+    "team_size": 15,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1740930546,
+    "tags": [
+      "Artificial Intelligence",
+      "Reinforcement Learning"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/hud",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2025/hud.json"
   },
   {
     "id": 30255,
@@ -35201,46 +35342,6 @@
     "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2025/slashy.json"
   },
   {
-    "id": 30671,
-    "name": "AgentHub",
-    "slug": "agenthub-2",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5d79e8581245eb7d73760c80116738ec9835755e.png",
-    "website": "https://www.agenthublabs.com",
-    "all_locations": "",
-    "long_description": "AgentHub helps you catch and fix errors in your AI agents - before your users ever see them.\r\n\r\nSimulate real-world scenarios in curated RL environments for your agents - trace, evaluate, and improve agent behavior at scale. Generate large annotated datasets and experiment with different prompts, models, and configurations - all in one place - with clear visualizations of what’s working (and what’s not).\r\n\r\nBuilt by a former tech lead from Apple’s Foundation Model Eval team and a product engineer from MIT with experience working on agents at startups, AgentHub makes it easy to integrate your use case and start improving your agents quickly.\r\n\r\nOur streamlined onboarding process lets you get your agent eval environment up and running fast—no heavy lifting on your end.\r\n\r\nClose the feedback loop and build better agents, faster - with confidence. ",
-    "one_liner": "The simulation and evaluation engine for AI agents",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1753389326,
-    "tags": [
-      "Artificial Intelligence",
-      "Reinforcement Learning",
-      "B2B",
-      "Infrastructure"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Summer 2025",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "Unspecified"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/agenthub-2",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2025/agenthub-2.json"
-  },
-  {
     "id": 30676,
     "name": "Stellon Labs",
     "slug": "stellon-labs",
@@ -36419,49 +36520,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/noso-labs",
     "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2025/noso-labs.json"
-  },
-  {
-    "id": 30802,
-    "name": "Freya",
-    "slug": "freya",
-    "former_names": [
-      "CourseShark"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/cd359a60dfecfce9e7a798a4a228f08f05943dcb.png",
-    "website": "https://freyavoice.ai/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "",
-    "one_liner": "Voice AI for Enterprises",
-    "team_size": 14,
-    "industry": "Fintech",
-    "subindustry": "Fintech",
-    "launched_at": 1754641408,
-    "tags": [
-      "Artificial Intelligence",
-      "Fintech",
-      "Retail",
-      "Call Center"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2025",
-    "status": "Active",
-    "industries": [
-      "Fintech"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/freya",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2025/freya.json"
   },
   {
     "id": 30807,
@@ -37968,48 +38026,6 @@
     "api": "https://prajjwal2-3.github.io/yc-data/batches/fall-2025/arcten.json"
   },
   {
-    "id": 30962,
-    "name": "Denki",
-    "slug": "denki",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1543e40091902a20ba3f9f49ea46c17e0b60e86a.png",
-    "website": "https://denki.ai",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Automate internal auditing (planning, testing, documenting) to comply better with financial regulations.\r\n\r\nDenki performs audit work with 99% software, 1% services:\r\n\r\n✔️ Works on existing systems (e.g. Auditboard, Workiva, ERPs)\r\n✔️ Automates Control processes (e.g. collects evidence, runs walkthrough interviews, tests)\r\n✔️ Records every step for traceability (workpapers w/ full audit trace)\r\n\r\nFocused on SOX programs and financial regulations (SEC Rules etc.)",
-    "one_liner": "The full-stack AI financial audit firm",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Finance and Accounting",
-    "launched_at": 1759884466,
-    "tags": [
-      "Artificial Intelligence",
-      "FinOps",
-      "Compliance",
-      "AI Assistant"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Fall 2025",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Finance and Accounting"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/denki",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/fall-2025/denki.json"
-  },
-  {
     "id": 30969,
     "name": "Lemma",
     "slug": "uselemma",
@@ -39215,47 +39231,6 @@
     "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/sherpa.json"
   },
   {
-    "id": 31416,
-    "name": "Callab AI",
-    "slug": "callab-ai",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/02201cc153981810d5a7bf65758c3175779d40d3.png",
-    "website": "https://callab.ai",
-    "all_locations": "",
-    "long_description": "Callab AI - AI voice agents for contact centers. Over half the world's contact center infrastructure still runs on legacy telephony (CUCM, on-prem PBX, carrier-grade SIP) - a $70B+ market where current AI voice platforms can't natively integrate. \r\n\r\nWe plug into these environments without requiring a rip-and-replace. We serve clients across three continents, including brands like DunkinDonut.",
-    "one_liner": "AI voice agents for on-prem PBX stacks.",
-    "team_size": 7,
-    "industry": "B2B",
-    "subindustry": "B2B -> Operations",
-    "launched_at": 1773416869,
-    "tags": [
-      "Artificial Intelligence",
-      "B2B",
-      "Call Center"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Spring 2026",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Operations"
-    ],
-    "regions": [
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/callab-ai",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/callab-ai.json"
-  },
-  {
     "id": 31424,
     "name": "Lab0",
     "slug": "lab0",
@@ -39635,6 +39610,49 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/asterlab",
     "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/asterlab.json"
+  },
+  {
+    "id": 31507,
+    "name": "ProjectX",
+    "slug": "projectx",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2f60ad803d2e9b0079d1a0e2e9afd248df7aafcd.png",
+    "website": "https://www.projectx.cloud/",
+    "all_locations": "",
+    "long_description": "Every computer ever made forces you to do one thing at a time. One cursor. One keyboard. One Hardware. One app in focus. Fifty years. Nobody questioned it.\r\n\r\nWe did. We started over.\r\n\r\nWe built InfinityOS, a fundamentally new computer OS on the cloud from ground up.\r\n\r\nInfinity runs every app in its own independent computer -- own GPU, own input, own environment. Windows and Linux in the same session. Humans and agents working side by side. No concurrency ceiling. Cold start in seconds. One URL.",
+    "one_liner": "Infinity: the first OS where humans and agents work with no limits.",
+    "team_size": 6,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1773453080,
+    "tags": [
+      "Artificial Intelligence",
+      "Marketplace",
+      "DevOps",
+      "Cloud Computing",
+      "Infrastructure"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/projectx",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/projectx.json"
   },
   {
     "id": 31512,

@@ -1312,7 +1312,7 @@
     "former_names": [
       "Koala Ops"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2051debd2ddc50b321426f669aa98a0120dfc537.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c4df2dc3a8591521492f4797ca92971742623b68.png",
     "website": "https://skyhook.io",
     "all_locations": "Tel Aviv-Yafo, Tel Aviv District, Israel",
     "long_description": "We make running services on Kubernetes as easy as Heroku, but on your cloud and with all the flexibility and power of Kubernetes. Companies use Skyhook so that they don't have to hire dedicated infrastructure engineers.\r\n\r\nAlthough 50-70% of organizations have already adopted Kubernetes, most developers agree that it is too complex and difficult to manage. It is intended to be extremely flexible in order to solve pretty much everyone’s needs, but it can take a ton of work and many auxiliary tools to get there.\r\n\r\nAs companies grow, they spend a lot on DevOps or Platform Engineers that try to reduce the burden on developers by gluing together all the 3p tools via custom internal tools.\r\n\r\nWe are building an “internal developer platform” out of the box, with best practices and golden paths for building and operating services on Kubernetes.\r\n\r\nWe do the research on the latest and greatest tools in the extremely vibrant ecosystem, and automatically integrate for you the tools you want to use.\r\n\r\nWe operate on our customers code and in your Cloud environment, so they never locked in and never restricted, as is common with classic PaaS offerings.\r\n\r\nIf you prefer a fully hosted environment like Heroku, Fly or Vercel, we’ll host a cluster for you and offer you a one-click migration to your own cluster when you want.",
@@ -2147,5 +2147,48 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/specific",
     "api": "https://prajjwal2-3.github.io/yc-data/batches/fall-2025/specific.json"
+  },
+  {
+    "id": 31507,
+    "name": "ProjectX",
+    "slug": "projectx",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2f60ad803d2e9b0079d1a0e2e9afd248df7aafcd.png",
+    "website": "https://www.projectx.cloud/",
+    "all_locations": "",
+    "long_description": "Every computer ever made forces you to do one thing at a time. One cursor. One keyboard. One Hardware. One app in focus. Fifty years. Nobody questioned it.\r\n\r\nWe did. We started over.\r\n\r\nWe built InfinityOS, a fundamentally new computer OS on the cloud from ground up.\r\n\r\nInfinity runs every app in its own independent computer -- own GPU, own input, own environment. Windows and Linux in the same session. Humans and agents working side by side. No concurrency ceiling. Cold start in seconds. One URL.",
+    "one_liner": "Infinity: the first OS where humans and agents work with no limits.",
+    "team_size": 6,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1773453080,
+    "tags": [
+      "Artificial Intelligence",
+      "Marketplace",
+      "DevOps",
+      "Cloud Computing",
+      "Infrastructure"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/projectx",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/projectx.json"
   }
 ]
