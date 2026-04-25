@@ -929,7 +929,7 @@
     "tags": [],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Spring 2025",
     "status": "Active",
@@ -2490,7 +2490,7 @@
     "name": "Tinfoil",
     "slug": "tinfoil",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4a45d3f15cbd2d0f665850c643ea48907f1a8bf7.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1fb98a08722d6b4a90ad914611f5c3579c0f3558.png",
     "website": "https://tinfoil.sh",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Tinfoil makes it easy to make your AI workloads secure and provably private. You get the privacy of on-prem deployments, while running on the cloud. It's like end-to-end encrypted messaging but for your AI applications. \r\n\r\nWe’ve built a full-stack platform on top of the latest NVIDIA GPUs offering confidential computing capabilities, meaning that you don’t have to trade off performance for privacy. We integrate a suite of recent advances in secure hardware technologies, in particular NVIDIA’s confidential compute mode available on Hopper and Blackwell. When combined with Tinfoil’s software stack, companies can prove their security claims like \"we can't see and don’t log your queries.” Tinfoil guarantees that all data always stays private and cannot be accessed by anyone other than the end user -- not even by Tinfoil or the cloud provider it’s processed on. Everything can be made end-to-end encrypted and private with Tinfoil. \r\n\r\nThe founding team combines deep academic and industry experience in security and Internet protocols. Tanya was previously a systems engineer at Cloudflare, where she built Internet security protocols used by billions, and contributed to the Workers AI platform. Jules and Sacha hold PhDs from MIT, where they worked on secure hardware, cryptography, and privacy technologies. Jules has also worked at NVIDIA on their confidential computing team. Tinfoil was born from our personal frustration with the false choice between access to powerful AI and the massive data privacy implications of deeply integrated AI.\r\n\r\nAI is a universal tool that becomes part of our personal lives and business workflows. In the process, it needs access to all personal, private, and proprietary data. Right now, the only solutions are data processing agreements (i.e., \"pinky promises\"), band-aids like PII redaction that don't work in practice, or AI locally/on-prem, which doesn't scale. Tinfoil promises to unlock significantly deeper AI adoption and integrations by making it easy to obtain true privacy, just as TLS on the Internet enabled e-commerce to flourish by securing credit cards on the network.\r\n\r\nToday we offer several self-serve products: \r\n\r\n- A consumer-facing chatbot that keeps your chats end-to-end encrypted and provides zero-access inference with powerful open-source models like Kimi, Gemma, and GLM. You can try it out for free: https://chat.tinfoil.sh\r\n\r\n- A developer-friendly API that allows you to build AI applications where all user data is kept private and we as the inference provider cannot see any of the prompts. Our SDKs make sure that all relevant security measures are checked for you before even sending a single byte of data. Learn more:https://docs.tinfoil.sh \r\n\r\n- An advanced confidential computing platform we call Tinfoil Containers that allows you to secure any Docker application. We make it easy to deploy your own logic and applications inside secure enclaves and prove to the world what code is running inside. This enables attested workloads and publicly verifiable privacy policies for sensitive applications. Learn more: https://tinfoil.sh/containers ",
@@ -2500,11 +2500,11 @@
     "subindustry": "B2B -> Security",
     "launched_at": 1744845895,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "Security",
       "Privacy",
-      "Cloud Computing",
-      "AI"
+      "Cloud Computing"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -4344,14 +4344,16 @@
   },
   {
     "id": 30515,
-    "name": "Saffron Health",
-    "slug": "saffron-health",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a1d1c47066a65e1dc6b009d0e651d5fdbac29265.png",
-    "website": "https://www.saffron.health",
-    "all_locations": "",
-    "long_description": "Saffron Health is building AI agents that automate specialist referrals for primary care. \r\n\r\nPrimary care staff spend hours each day on tedious coordination work: searching for in-network specialists, filling out authorization forms, and chasing down medical records.\r\n\r\nSaffron's agents find available in-network providers, complete prior authorizations, and help patients book appointments, which lowers administrative costs and improves access to care.\r\n",
-    "one_liner": "AI-powered care coordination for primary care",
+    "name": "Libretto",
+    "slug": "libretto",
+    "former_names": [
+      "Saffron Health"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2ab7b1807b8d28eb8c42b24701e5f9b9db153ee8.png",
+    "website": "https://libretto.sh",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Libretto is a token-efficient CLI and agent skill that generates production-ready browser automations as code in your repo.\r\n\r\nThe problem: Most browser automation tools work by sending an AI agent to operate a website in real time, like a robot typing and clicking on your behalf. This is slow, expensive, and unpredictable. They rely on fragile DOM parsing that breaks on legacy and complex sites, and you can never fully trust what the agent will do on unintuitive or inconsistent workflows.\r\n\r\nOur approach: Libretto helps your coding agents generate workflows as actual, readable code during development, not at runtime. Under the hood it combines Playwright with direct in-session network/API calls for reliability and bot detection evasion. It also supports step-through debugging and a read-only mode to prevent accidental data changes while your agent builds and debugs workflows.\r\n\r\nThis makes Libretto cheaper, faster, and easier to maintain, especially for more complex websites and high stakes workflows.",
+    "one_liner": "Agents that Build Deterministic Web Automations",
     "team_size": 2,
     "industry": "Healthcare",
     "subindustry": "Healthcare -> Healthcare Services",
@@ -4368,15 +4370,16 @@
       "Healthcare Services"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/saffron-health",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2025/saffron-health.json"
+    "url": "https://www.ycombinator.com/companies/libretto",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2025/libretto.json"
   },
   {
     "id": 30516,
@@ -5826,7 +5829,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Spring 2025",
     "status": "Active",
@@ -5855,17 +5858,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/aa0aa8a269ab91daa7f1007cbe3b7c767e28dc44.png",
     "website": "https://www.sureformhq.com/",
     "all_locations": "Palo Alto, CA, USA",
-    "long_description": "We connect real-world workplaces and skilled trade workers with robotics labs to collect task-specific training data for robot foundation models\r\n",
-    "one_liner": "Real-world data for world models and robotics",
+    "long_description": "We collect high-quality human data, across diverse interactions and environments, to help advance the next generation of multimodal AI and robotics models.",
+    "one_liner": "Real-world data for multimodal and embodied AI",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1744274885,
     "tags": [
+      "Artificial Intelligence",
       "Marketplace",
       "Robotics",
-      "Data Labeling",
-      "AI"
+      "Data Labeling"
     ],
     "tags_highlighted": [],
     "top_company": false,

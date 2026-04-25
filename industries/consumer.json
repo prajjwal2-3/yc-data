@@ -35629,7 +35629,7 @@
     "all_locations": "Paris, Île-de-France, France",
     "long_description": "Tornyol builds micro-drones that kill mosquitoes. We use smartphone microphones, car park assist sensors and some clever DSP and control to transform 40-gram toy drones into mosquito killers. Because these drones are so cheap and fast, we will lower the cost of mosquito control by 100x which will enable the eradication of mosquitoes from cities, saving more than a million people each year from Malaria, West Nile, Dengue, etc. ",
     "one_liner": "We build micro-drones that kill mosquitoes. ",
-    "team_size": 5,
+    "team_size": 7,
     "industry": "Consumer",
     "subindustry": "Consumer -> Consumer Electronics",
     "launched_at": 1761986194,
@@ -36099,10 +36099,10 @@
     "subindustry": "Consumer -> Job and Career Services",
     "launched_at": 1769729252,
     "tags": [
+      "Artificial Intelligence",
       "Consumer",
       "Recruiting",
-      "HR Tech",
-      "AI"
+      "HR Tech"
     ],
     "tags_highlighted": [],
     "top_company": false,

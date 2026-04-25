@@ -6857,7 +6857,7 @@
     "all_locations": "New York, NY, USA",
     "long_description": "As healthcare costs have increased, the patient's home has become incredibly important as a site of care. Yet, patients recovering at home are highly underserved.\r\n\r\nPatients can only get better at home if they receive the high-quality care that they need reliably. The existing in-home care process involves patchwork of different vendors, all connected through faxes by nurses. We're building modern, robust software that solves this challenge and brings this market online.",
     "one_liner": "Software platform for in-home healthcare",
-    "team_size": 95,
+    "team_size": 200,
     "industry": "Healthcare",
     "subindustry": "Healthcare -> Consumer Health and Wellness",
     "launched_at": 1524625564,
@@ -6881,7 +6881,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -13552,7 +13552,7 @@
     "all_locations": "New York, NY, USA; San Francisco, CA, USA",
     "long_description": "Nourish is solving America's healthcare crisis by helping people eat better. We connect chronic condition patients with a Registered Dietitian via telehealth and get it covered by their health insurance.",
     "one_liner": "Telehealth dietitians covered by insurance",
-    "team_size": 38,
+    "team_size": 250,
     "industry": "Healthcare",
     "subindustry": "Healthcare",
     "launched_at": 1649801872,
@@ -13575,7 +13575,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -20284,7 +20284,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Summer 2022",
     "status": "Active",
@@ -26539,14 +26539,16 @@
   },
   {
     "id": 30515,
-    "name": "Saffron Health",
-    "slug": "saffron-health",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a1d1c47066a65e1dc6b009d0e651d5fdbac29265.png",
-    "website": "https://www.saffron.health",
-    "all_locations": "",
-    "long_description": "Saffron Health is building AI agents that automate specialist referrals for primary care. \r\n\r\nPrimary care staff spend hours each day on tedious coordination work: searching for in-network specialists, filling out authorization forms, and chasing down medical records.\r\n\r\nSaffron's agents find available in-network providers, complete prior authorizations, and help patients book appointments, which lowers administrative costs and improves access to care.\r\n",
-    "one_liner": "AI-powered care coordination for primary care",
+    "name": "Libretto",
+    "slug": "libretto",
+    "former_names": [
+      "Saffron Health"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2ab7b1807b8d28eb8c42b24701e5f9b9db153ee8.png",
+    "website": "https://libretto.sh",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Libretto is a token-efficient CLI and agent skill that generates production-ready browser automations as code in your repo.\r\n\r\nThe problem: Most browser automation tools work by sending an AI agent to operate a website in real time, like a robot typing and clicking on your behalf. This is slow, expensive, and unpredictable. They rely on fragile DOM parsing that breaks on legacy and complex sites, and you can never fully trust what the agent will do on unintuitive or inconsistent workflows.\r\n\r\nOur approach: Libretto helps your coding agents generate workflows as actual, readable code during development, not at runtime. Under the hood it combines Playwright with direct in-session network/API calls for reliability and bot detection evasion. It also supports step-through debugging and a read-only mode to prevent accidental data changes while your agent builds and debugs workflows.\r\n\r\nThis makes Libretto cheaper, faster, and easier to maintain, especially for more complex websites and high stakes workflows.",
+    "one_liner": "Agents that Build Deterministic Web Automations",
     "team_size": 2,
     "industry": "Healthcare",
     "subindustry": "Healthcare -> Healthcare Services",
@@ -26563,15 +26565,16 @@
       "Healthcare Services"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/saffron-health",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2025/saffron-health.json"
+    "url": "https://www.ycombinator.com/companies/libretto",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2025/libretto.json"
   },
   {
     "id": 30516,

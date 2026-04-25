@@ -1049,7 +1049,7 @@
     "all_locations": "Paris, Île-de-France, France",
     "long_description": "Tornyol builds micro-drones that kill mosquitoes. We use smartphone microphones, car park assist sensors and some clever DSP and control to transform 40-gram toy drones into mosquito killers. Because these drones are so cheap and fast, we will lower the cost of mosquito control by 100x which will enable the eradication of mosquitoes from cities, saving more than a million people each year from Malaria, West Nile, Dengue, etc. ",
     "one_liner": "We build micro-drones that kill mosquitoes. ",
-    "team_size": 5,
+    "team_size": 7,
     "industry": "Consumer",
     "subindustry": "Consumer -> Consumer Electronics",
     "launched_at": 1761986194,
@@ -1124,6 +1124,50 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/9-mothers-corporation",
     "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/9-mothers-corporation.json"
+  },
+  {
+    "id": 31285,
+    "name": "GrazeMate",
+    "slug": "grazemate",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d2a4475db614107fb0effa347e625a6885ca8045.png",
+    "website": "https://grazemate.com",
+    "all_locations": "Sydney, NSW, Australia",
+    "long_description": "GrazeMate builds autonomous drones that herd cattle.\r\n\r\nOn command, our drones fly to a paddock, position themselves around the mob, and move them where they need to go. What used to take a full day of helicopters, motorbikes, and horses now runs on a schedule.\r\n\r\nWe work with some of the largest cattle ranches in the world. While the drones are herding, they're also estimating animal weights, measuring grass biomass, monitoring water levels, and flagging sick animals. We're building physical AI that lets a grazier manage thousands of head across millions of acres from their phone.",
+    "one_liner": "Robot Cowboys that Herd Cattle with AI Drones",
+    "team_size": 3,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Agriculture",
+    "launched_at": 1768433444,
+    "tags": [
+      "Reinforcement Learning",
+      "Drones",
+      "Computer Vision",
+      "Agriculture"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Agriculture"
+    ],
+    "regions": [
+      "Australia",
+      "Oceania",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/grazemate",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2026/grazemate.json"
   },
   {
     "id": 31374,
