@@ -2418,19 +2418,14 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/79ffca3b97639c7dbc3864b40c1a8a01d1691675.png",
     "website": "https://www.runparagon.com",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "",
     "long_description": "Paragon is the AI growth engine for distributors and manufacturers, freeing up staff and growing revenue on autopilot.",
     "one_liner": "The AI Growth Engine for Industrials",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Operations",
     "launched_at": 1737662674,
-    "tags": [
-      "AIOps",
-      "Generative AI",
-      "SaaS",
-      "Manufacturing"
-    ],
+    "tags": [],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": false,
@@ -2442,8 +2437,7 @@
       "Operations"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "Unspecified"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -3378,15 +3372,15 @@
     "website": "https://fromolive.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "",
-    "one_liner": "The context layer for your team",
+    "one_liner": "Curated stories, every day",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Recruiting and Talent",
     "launched_at": 1740018718,
     "tags": [
-      "Artificial Intelligence",
       "Productivity",
-      "Team Collaboration"
+      "Team Collaboration",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -4671,16 +4665,16 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Calltree makes enterprise-grade AI support reps for call centers. Our AI reps take voice calls and chats like other AI support agents but can also use internal enterprise tools like a homegrown CRM or internal dashboards, like the highly trained humans working there today.",
     "one_liner": "Enterprise-grade AI support reps for call centers",
-    "team_size": 7,
+    "team_size": 14,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1738270018,
     "tags": [
-      "Artificial Intelligence",
       "Generative AI",
       "SaaS",
       "B2B",
-      "Customer Service"
+      "Customer Service",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,

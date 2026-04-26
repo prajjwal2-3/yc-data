@@ -1,23 +1,21 @@
 [
   {
-    "id": 31452,
-    "name": "Degla Inc",
-    "slug": "degla-inc",
+    "id": 31378,
+    "name": "GodHands",
+    "slug": "godhands",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9b4aa40c1f823de9d3ec9a6c4b04e1e382dc5a85.png",
-    "website": "https://degla.ai",
-    "all_locations": "",
-    "long_description": "We turn natural Language into Multi-Drone Search & Rescue Mission execution. Degla is built around a simple idea: once you’ve expressed your intent, the system owns the problem.You don’t babysit drones. You don’t micromanage failures. You don’t rewrite plans. You state the goal, Degla figures out how.",
-    "one_liner": "Cursor for Mission Planning",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5ec540989c0e572731406bc02714d7608e407cc3.png",
+    "website": "https://godhands.dev",
+    "all_locations": "San Francisco, CA, USA; Remote",
+    "long_description": "GodHands is a deterministic computer use layer that enables AI agents to reliably operate across browser and desktop apps. \r\n\r\nWe make real-world workflows even on legacy or non-API systems more deterministic and predictable, without completely relying on fragile vision-based approaches. By leveraging our infrastructure, your agent can seamlessly operate across new or internal enterprise applications without requiring custom integrations or per-app handling.",
+    "one_liner": "Deterministic Computer Use Infra for AI Agents",
     "team_size": 2,
-    "industry": "Industrials",
-    "subindustry": "Industrials -> Drones",
-    "launched_at": 1775570807,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1777151399,
     "tags": [
-      "Artificial Intelligence",
-      "Hard Tech",
-      "Drones",
-      "Aerospace",
+      "Robotic Process Automation",
+      "Workflow Automation",
       "AI"
     ],
     "tags_highlighted": [],
@@ -27,18 +25,20 @@
     "batch": "Fall 2026",
     "status": "Active",
     "industries": [
-      "Industrials",
-      "Drones"
+      "B2B"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Fully Remote"
     ],
     "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/degla-inc",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/fall-2026/degla-inc.json"
+    "url": "https://www.ycombinator.com/companies/godhands",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/fall-2026/godhands.json"
   }
 ]

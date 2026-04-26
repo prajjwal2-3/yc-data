@@ -7860,7 +7860,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -17544,7 +17544,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -21537,53 +21537,6 @@
     "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2021/neodocs.json"
   },
   {
-    "id": 24100,
-    "name": "MobileBoost",
-    "slug": "mobileboost",
-    "former_names": [
-      "Kitchenful"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4fdfe6ee3e3551142b62a5144a0c5d6494e9c0ac.png",
-    "website": "https://www.mobileboost.io/yc",
-    "all_locations": "San Francisco, CA, USA; Remote",
-    "long_description": "*Achieve Mobile App Test Coverage 10x Faster with AI-Powered Automation*\r\n\r\nStruggling with low E2E test coverage for your mobile app? Short on QA resources? \r\n\r\nOur GPT Driver uses AI to automate your mobile app testing, freeing up your team and providing reliable, consistent results. Eliminate tedious maintenance, accelerate release cycles, and ship higher-quality apps with GPT Driver. \r\n\r\nTrusted by mobile industry leaders like Duolingo, Spotify, Netflix, Salesforce and Groupon.\r\n\r\nCheck out Duolingo's case study about their partnership with GPT Driver and how they reduced manual regression testing by 70%: https://blog.duolingo.com/reduced-regression-testing/\r\n",
-    "one_liner": "AI native mobile testing.",
-    "team_size": 15,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1628867687,
-    "tags": [
-      "Artificial Intelligence",
-      "Developer Tools",
-      "Generative AI",
-      "B2B",
-      "No-code"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Summer 2021",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Fully Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/mobileboost",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2021/mobileboost.json"
-  },
-  {
     "id": 24131,
     "name": "Strive Math",
     "slug": "strive-math",
@@ -22641,7 +22594,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d3f982deac62cf40f505362f3a6405c4b5190460.png",
     "website": "https://trusspayments.com",
-    "all_locations": "Victoria, BC, Canada; Remote",
+    "all_locations": "San Francisco, CA, USA",
     "long_description": "Truss is an all-in-one banking and payment automation platform for construction businesses. With Truss, construction companies can manage bill payments, receivables, and corporate cards in one place. They can save time on manual data entry by integrating Truss with their existing tools and automating the full billing cycle, from invoicing and reconciliation.",
     "one_liner": "Banking for construction",
     "team_size": 12,
@@ -22664,10 +22617,10 @@
       "Banking and Exchange"
     ],
     "regions": [
-      "Canada",
+      "United States of America",
       "America / Canada",
       "Remote",
-      "Fully Remote"
+      "Partly Remote"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -27021,7 +26974,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -30976,16 +30929,16 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Metriport provides real-time access to comprehensive medical data for 300M+ individuals across the US. Our open-source intelligence platform helps organizations access, analyze, and exchange patient data while integrating with all major healthcare IT systems.\r\n\r\nIf you’ve been to doctors in the US, you may have encountered the problem: how does a healthcare provider get access to your up-to-date medical history to treat you properly? Reliance on archaic methods is still the norm: typically, you or your provider need to call the facilities where you’ve previously received treatment (assuming you remember them all), just to have them send your records via fax (yep, fax). This can take weeks, only then to have a provider sift through hundreds of pages of unstructured docs, just to figure out basic things like your active medication list, what conditions you may have, latest lab results, etc. This not only delays care—it can cause improper treatment, since the medical history is critical for informing treatment decisions. \r\n\r\nMetriport integrates fragmented medical data from thousands of sources—including both national and state/regional Health Information Exchanges (HIEs), ADTs, EHRs, pharmacies, and labs—through a single API connector. The platform then standardizes, deduplicates, and enriches this data to create a comprehensive longitudinal patient record, with AI-powered clinical summaries. \r\n\r\nAlong with a rich understanding of patient health history, healthcare providers also get realtime updates about their patients' health through Metriport. This includes getting notified when a patient is discharged from the hospital, picks up their prescription from the pharmacy, or has a new lab result available. Through this data, care teams get insights across their patient population, helping with 30-day readmissions prediction, care gap closure, risk adjustment, and more.\r\n\r\nOn top of all of this, Metriport enables healthcare organizations to share net-new clinical information back to all major healthcare IT systems, and to become interoperable with popular EHR systems such as Epic, Cerner, athena, eClinicalWorks, and many more—forming an internet for healthcare data.\r\n\r\nMetriport improves both patient and provider lives at the point-of-care, supporting use cases such as medication adherence, transitions of care management, chart prep, and much more. If you want to do work that matters, get in touch with us today.",
     "one_liner": "Open-Source Platform for Healthcare Data Intelligence",
-    "team_size": 21,
+    "team_size": 23,
     "industry": "Healthcare",
     "subindustry": "Healthcare -> Healthcare IT",
     "launched_at": 1654554081,
     "tags": [
+      "Artificial Intelligence",
       "B2B",
       "Digital Health",
       "Healthcare",
-      "API",
-      "AI"
+      "API"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -31003,7 +30956,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -45609,8 +45562,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/509f2048cdd77eab05ee8a3d68e8bbc31e9d9af1.png",
     "website": "https://stardrift.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Stardrift is an AI travel agent. We help our users plan flights, hotels and activities for their trips.",
-    "one_liner": "Your AI travel agent",
+    "long_description": "Stardrift is an AI travel planner. We help our users find and book flights, hotels and activities for their vacations.",
+    "one_liner": "AI travel planner",
     "team_size": 3,
     "industry": "Consumer",
     "subindustry": "Consumer -> Travel, Leisure and Tourism",
@@ -51638,15 +51591,15 @@
     "website": "https://fromolive.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "",
-    "one_liner": "The context layer for your team",
+    "one_liner": "Curated stories, every day",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Recruiting and Talent",
     "launched_at": 1740018718,
     "tags": [
-      "Artificial Intelligence",
       "Productivity",
-      "Team Collaboration"
+      "Team Collaboration",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -52247,16 +52200,16 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Calltree makes enterprise-grade AI support reps for call centers. Our AI reps take voice calls and chats like other AI support agents but can also use internal enterprise tools like a homegrown CRM or internal dashboards, like the highly trained humans working there today.",
     "one_liner": "Enterprise-grade AI support reps for call centers",
-    "team_size": 7,
+    "team_size": 14,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1738270018,
     "tags": [
-      "Artificial Intelligence",
       "Generative AI",
       "SaaS",
       "B2B",
-      "Customer Service"
+      "Customer Service",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -54940,49 +54893,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/code-four",
     "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2025/code-four.json"
-  },
-  {
-    "id": 30545,
-    "name": "StarSling",
-    "slug": "starsling",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fae29a98d132c4b435b336dbb5d6cf4a1aaf5de7.png",
-    "website": "https://www.starsling.dev/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "StarSling is building an agentic developer homepage that automates all the tasks that eat up a developer’s time after they’ve left their code editor: deployments, performance, incidents, and bugs. Open your homepage, click on a GitHub, Linear, or Sentry issue and you’ll see an Autofix button that triggers an AI agent and opens up a Pull Request with a fix, all without leaving your homepage.",
-    "one_liner": "Cursor for DevOps",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1747381971,
-    "tags": [
-      "Artificial Intelligence",
-      "Developer Tools",
-      "B2B",
-      "DevOps",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Spring 2025",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/starsling",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2025/starsling.json"
   },
   {
     "id": 30547,
@@ -61842,6 +61752,42 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/replicas",
     "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/replicas.json"
+  },
+  {
+    "id": 31370,
+    "name": "Dayjob",
+    "slug": "dayjob",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b05d200707537271b32356fc9f883781eb7e5f4a.png",
+    "website": "https://www.getdayjob.ai",
+    "all_locations": "",
+    "long_description": "Dayjob builds autonomous AI workers for transport operations. Our scheduling agent plugs into existing ERPs and continuously re-optimises routes in real time - handling new jobs, driver changes, and exceptions automatically. Customers in waste management see 8%+ efficiency gains from day one.",
+    "one_liner": "AI Agents for Industrial Logistics",
+    "team_size": 5,
+    "industry": "B2B",
+    "subindustry": "B2B -> Supply Chain and Logistics",
+    "launched_at": 1775407410,
+    "tags": [],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Supply Chain and Logistics"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": true,
+    "url": "https://www.ycombinator.com/companies/dayjob",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/dayjob.json"
   },
   {
     "id": 31382,

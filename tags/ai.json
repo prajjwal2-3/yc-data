@@ -11190,51 +11190,6 @@
     "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2022/quinn.json"
   },
   {
-    "id": 27037,
-    "name": "Metriport",
-    "slug": "metriport",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d4da680d3cdee4cc7ad6408d3177026092f04c75.png",
-    "website": "https://metriport.com/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Metriport provides real-time access to comprehensive medical data for 300M+ individuals across the US. Our open-source intelligence platform helps organizations access, analyze, and exchange patient data while integrating with all major healthcare IT systems.\r\n\r\nIf you’ve been to doctors in the US, you may have encountered the problem: how does a healthcare provider get access to your up-to-date medical history to treat you properly? Reliance on archaic methods is still the norm: typically, you or your provider need to call the facilities where you’ve previously received treatment (assuming you remember them all), just to have them send your records via fax (yep, fax). This can take weeks, only then to have a provider sift through hundreds of pages of unstructured docs, just to figure out basic things like your active medication list, what conditions you may have, latest lab results, etc. This not only delays care—it can cause improper treatment, since the medical history is critical for informing treatment decisions. \r\n\r\nMetriport integrates fragmented medical data from thousands of sources—including both national and state/regional Health Information Exchanges (HIEs), ADTs, EHRs, pharmacies, and labs—through a single API connector. The platform then standardizes, deduplicates, and enriches this data to create a comprehensive longitudinal patient record, with AI-powered clinical summaries. \r\n\r\nAlong with a rich understanding of patient health history, healthcare providers also get realtime updates about their patients' health through Metriport. This includes getting notified when a patient is discharged from the hospital, picks up their prescription from the pharmacy, or has a new lab result available. Through this data, care teams get insights across their patient population, helping with 30-day readmissions prediction, care gap closure, risk adjustment, and more.\r\n\r\nOn top of all of this, Metriport enables healthcare organizations to share net-new clinical information back to all major healthcare IT systems, and to become interoperable with popular EHR systems such as Epic, Cerner, athena, eClinicalWorks, and many more—forming an internet for healthcare data.\r\n\r\nMetriport improves both patient and provider lives at the point-of-care, supporting use cases such as medication adherence, transitions of care management, chart prep, and much more. If you want to do work that matters, get in touch with us today.",
-    "one_liner": "Open-Source Platform for Healthcare Data Intelligence",
-    "team_size": 21,
-    "industry": "Healthcare",
-    "subindustry": "Healthcare -> Healthcare IT",
-    "launched_at": 1654554081,
-    "tags": [
-      "B2B",
-      "Digital Health",
-      "Healthcare",
-      "API",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Summer 2022",
-    "status": "Active",
-    "industries": [
-      "Healthcare",
-      "Healthcare IT"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Growth",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/metriport",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2022/metriport.json"
-  },
-  {
     "id": 27038,
     "name": "Fini",
     "slug": "fini",
@@ -21890,8 +21845,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/509f2048cdd77eab05ee8a3d68e8bbc31e9d9af1.png",
     "website": "https://stardrift.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Stardrift is an AI travel agent. We help our users plan flights, hotels and activities for their trips.",
-    "one_liner": "Your AI travel agent",
+    "long_description": "Stardrift is an AI travel planner. We help our users find and book flights, hotels and activities for their vacations.",
+    "one_liner": "AI travel planner",
     "team_size": 3,
     "industry": "Consumer",
     "subindustry": "Consumer -> Travel, Leisure and Tourism",
@@ -26513,6 +26468,47 @@
     "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2025/gradewiz.json"
   },
   {
+    "id": 30255,
+    "name": "Olive",
+    "slug": "olive",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/544faf85c3fb3b0e5acf3a985a6a1ce535df4377.png",
+    "website": "https://fromolive.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "",
+    "one_liner": "Curated stories, every day",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Recruiting and Talent",
+    "launched_at": 1740018718,
+    "tags": [
+      "Productivity",
+      "Team Collaboration",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Recruiting and Talent"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Growth",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/olive",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2025/olive.json"
+  },
+  {
     "id": 30259,
     "name": "Asteroid",
     "slug": "asteroid",
@@ -26815,6 +26811,51 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/riviera",
     "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2025/riviera.json"
+  },
+  {
+    "id": 30287,
+    "name": "Calltree",
+    "slug": "calltree",
+    "former_names": [
+      "Scotty AI",
+      "Calltree AI"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e2ad0fe64b625227762a6c6a44c1872475df287d.png",
+    "website": "https://calltree.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Calltree makes enterprise-grade AI support reps for call centers. Our AI reps take voice calls and chats like other AI support agents but can also use internal enterprise tools like a homegrown CRM or internal dashboards, like the highly trained humans working there today.",
+    "one_liner": "Enterprise-grade AI support reps for call centers",
+    "team_size": 14,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1738270018,
+    "tags": [
+      "Generative AI",
+      "SaaS",
+      "B2B",
+      "Customer Service",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2025",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/calltree",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2025/calltree.json"
   },
   {
     "id": 30288,
@@ -29243,7 +29284,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Spring 2025",
     "status": "Active",
@@ -33807,47 +33848,6 @@
     "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/matforge.json"
   },
   {
-    "id": 31370,
-    "name": "Dayjob",
-    "slug": "dayjob",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b05d200707537271b32356fc9f883781eb7e5f4a.png",
-    "website": "https://www.getdayjob.ai",
-    "all_locations": "London, England, United Kingdom",
-    "long_description": "Dayjob builds autonomous AI workers for transport operations. Our scheduling agent plugs into existing ERPs and continuously re-optimises routes in real time - handling new jobs, driver changes, and exceptions automatically. Customers in waste management see 8%+ efficiency gains from day one.",
-    "one_liner": "AI Agents for Industrial Logistics",
-    "team_size": 5,
-    "industry": "B2B",
-    "subindustry": "B2B -> Supply Chain and Logistics",
-    "launched_at": 1775407410,
-    "tags": [
-      "Logistics",
-      "Transportation",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Spring 2026",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Supply Chain and Logistics"
-    ],
-    "regions": [
-      "United Kingdom",
-      "Europe"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": true,
-    "url": "https://www.ycombinator.com/companies/dayjob",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/dayjob.json"
-  },
-  {
     "id": 31373,
     "name": "Refortifai",
     "slug": "refortifai",
@@ -33934,6 +33934,48 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/hubxyz",
     "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/hubxyz.json"
+  },
+  {
+    "id": 31378,
+    "name": "GodHands",
+    "slug": "godhands",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5ec540989c0e572731406bc02714d7608e407cc3.png",
+    "website": "https://godhands.dev",
+    "all_locations": "San Francisco, CA, USA; Remote",
+    "long_description": "GodHands is a deterministic computer use layer that enables AI agents to reliably operate across browser and desktop apps. \r\n\r\nWe make real-world workflows even on legacy or non-API systems more deterministic and predictable, without completely relying on fragile vision-based approaches. By leveraging our infrastructure, your agent can seamlessly operate across new or internal enterprise applications without requiring custom integrations or per-app handling.",
+    "one_liner": "Deterministic Computer Use Infra for AI Agents",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1777151399,
+    "tags": [
+      "Robotic Process Automation",
+      "Workflow Automation",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2026",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Fully Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/godhands",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/fall-2026/godhands.json"
   },
   {
     "id": 31396,
@@ -34441,6 +34483,46 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/saudara-ai",
     "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/saudara-ai.json"
+  },
+  {
+    "id": 31488,
+    "name": "Foaster",
+    "slug": "foaster",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/cdcff33c87fe29fc884e55a8d2475dd3ed741f53.png",
+    "website": "https://foaster.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Foaster is an AI-native partner for AI transformation. \r\n\r\nWe help companies become AI-native by building a deep understanding of how they actually operate, then using that understanding to decide where AI should be deployed, what should change, and how to make the transformation stick.\r\n\r\nOur AI agents conduct private 45-minute interviews across the organization, in parallel, to capture how work really happens: workflows, tools, handoffs, bottlenecks, dependencies, and what people think should change. \r\n\r\nFrom those interviews, we build a living operational map of the company and use it to produce transformation blueprints grounded in real operational data. \r\n\r\nThis is work that, done manually, would have required very large teams working full-time. AI is what allows us to do it with far greater speed, depth, and consistency.\r\n\r\nAnd we do not stop at a one-off plan. Every month, our system updates its understanding of the business, tracks adoption, refreshes the operational map, surfaces new opportunities, and delivers personalized AI upskilling to employees based on their exact role and context. \r\n\r\nOur human experts focus where humans matter most: validating recommendations, building trust, and helping companies execute over time. For enterprise deployments, our forward-deployed engineers help embed AI directly into workflows and systems.",
+    "one_liner": "Your AI-native partner for AI transformation. ",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1773744030,
+    "tags": [
+      "B2B",
+      "Enterprise Software",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/foaster",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/foaster.json"
   },
   {
     "id": 31491,
