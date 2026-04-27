@@ -23645,7 +23645,7 @@
     "all_locations": "New York, NY, USA",
     "long_description": "The first AI-powered demo platform designed to sell, market and implement technical products with ease. Our visual platform makes APIs more accessible and accelerates commercialization, enabling high-impact digital transformation for the world’s largest enterprises.",
     "one_liner": "Demo Platform for API-First Companies",
-    "team_size": 30,
+    "team_size": 35,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1647531815,
@@ -30956,7 +30956,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -38366,7 +38366,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f3a2460651e6fcbf7d9ddcbd54822e26944663e9.png",
     "website": "https://aglide.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Our mission is to secure access to every enterprise application.\r\n\r\nAglide SSO lets security and IT teams connect non-standard and legacy apps - from banking portals to social media logins - directly to their existing identity provider (Okta, Entra, OneLogin, Ping, etc.), with no need for app-side integration.\r\n\r\nOnce connected, these apps behave like any other IdP-managed service: policies like MFA, Conditional Access, RBAC, and audit logging just work, and end users access them through SSO only.\r\n\r\nCustomers use Aglide to secure both individual apps (e.g., legacy banking portals, Discord, Squarespace) and sensitive shared accounts (e.g., AWS root, social media). Our agentic identity technology means Aglide works with any app out of the box - no integration catalog, no custom scripting.\r\n\r\nToday, customers from fintech decacorns to global media companies rely on Aglide’s zero-trust, end-to-end encrypted platform to complete their identity stack.",
+    "long_description": "Our mission is to secure access to every enterprise application.\r\n\r\nAglide SSO lets security and IT teams connect non-standard and legacy apps - from banking portals to social media logins - directly to their existing identity provider (Okta, Entra, OneLogin, Ping, etc.), with no need for app-side integration.\r\n\r\nOnce connected, these apps behave like any other IdP-managed service: policies like MFA, Conditional Access, RBAC, and audit logging just work, and end users access them through SSO only.\r\n\r\nCustomers use Aglide to secure both individual apps (e.g., legacy banking portals, Discord, Squarespace) and sensitive shared accounts (e.g., AWS root, social media). Our agentic identity technology means Aglide works with any app out of the box - no integration catalog, no custom scripting.\r\n\r\nToday, companies from public fintechs like Gemini to media companies like The Motley Fool rely on Aglide’s zero-trust, end-to-end encrypted platform to complete their identity stack.",
     "one_liner": "Connect every disconnected app to your SSO.",
     "team_size": 6,
     "industry": "B2B",
@@ -49673,11 +49673,11 @@
     "name": "Luthor",
     "slug": "luthor",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d91e1c60cc50fb16c36d4796d44c09c5b7431053.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/bb20b2bce4f5e0cb26cffa31072a6cc5d7bc7145.png",
     "website": "https://luthor.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "We’re building Luthor: software that helps regulated companies review and approve marketing content in minutes instead of weeks.",
-    "one_liner": "Marketing Approval Platform for Regulated Industries",
+    "long_description": "Luthor replaces fragmented compliance workflows with a single system that reviews, enforces, and logs every piece of marketing content the moment it’s created.\r\n\r\nGenerative AI has made content production effortless. Manual compliance review has not kept up. This gap is now the largest and fastest-growing source of risk in the enterprise.\r\n\r\nLuthor closes that gap completely. Every claim is checked against your policies, your regulations, and your approved sources before it goes live. Marketing teams move faster. Compliance teams gain complete confidence, with every message verified and fully auditable.\r\n\r\nTrusted by asset managers, RIAs, lenders, banks, and credit unions to operate at AI-era volume while meeting SEC, FINRA, FTC, UDAAP, and more.\r\n\r\nLuthor eliminates the gap between what companies say and what they can stand behind.",
+    "one_liner": "Real-time governance for enterprise communications",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B",
@@ -51335,6 +51335,47 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/salespatriot",
     "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2025/salespatriot.json"
+  },
+  {
+    "id": 30231,
+    "name": "Paragon",
+    "slug": "deployparagon",
+    "former_names": [
+      "Sift",
+      "Serix",
+      "Sift Dev",
+      "Sift"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/79ffca3b97639c7dbc3864b40c1a8a01d1691675.png",
+    "website": "https://www.runparagon.com",
+    "all_locations": "",
+    "long_description": "Paragon is the AI growth engine for distributors and manufacturers, freeing up staff and growing revenue on autopilot.",
+    "one_liner": "The AI Growth Engine for Industrials",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Operations",
+    "launched_at": 1737662674,
+    "tags": [],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Operations"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/deployparagon",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2025/deployparagon.json"
   },
   {
     "id": 30234,
@@ -54743,14 +54784,14 @@
     "website": "https://usenaive.ai",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Naïve is an autonomous company builder. \r\n\r\nYou describe what your business does, and Naïve deploys AI employees that actually execute — building your app, closing deals, running campaigns, serving customers. \r\n\r\nIt works for creating new companies and automate existing companies by connecting Naive to their entire stack. ",
-    "one_liner": "Autonomous Company Builder",
-    "team_size": 12,
+    "one_liner": "Autonomous Company Infrastructure",
+    "team_size": 8,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1747424808,
     "tags": [
-      "Infrastructure",
-      "AI"
+      "Artificial Intelligence",
+      "Infrastructure"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -58665,10 +58706,10 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/12a498451818daa71ba01c88400ac7f241e33a03.png",
     "website": "https://www.wardstone.space",
-    "all_locations": "",
+    "all_locations": "El Segundo, CA, USA",
     "long_description": "Wardstone is a space defense-tech company developing next-generation capabilities to protect the United States and its allies from missiles and other space-based threats. We design, build, and deploy satellites equipped with space-based interceptors to kinetically counter hypersonic and ballistic missiles.",
     "one_liner": "Satellites for Missile Defense",
-    "team_size": 2,
+    "team_size": 5,
     "industry": "Industrials",
     "subindustry": "Industrials -> Aviation and Space",
     "launched_at": 1758642388,
@@ -58684,7 +58725,8 @@
       "Aviation and Space"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -60766,6 +60808,42 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/stilta",
     "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2026/stilta.json"
+  },
+  {
+    "id": 31169,
+    "name": "Proximitty",
+    "slug": "proximitty",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/efa65b431815794902ea2af28480ef4f2990fd4c.png",
+    "website": "https://proximitty.ai",
+    "all_locations": "",
+    "long_description": "Proximitty is the AI operating system for commercial loans - we build regulator-grade AI agents that ingest and parse documents, spread financials, automate loan operations and track covenants.\r\n\r\nWe help FDIC-insured banks and fintechs underwrite faster and scale their loan books without scaling costs.",
+    "one_liner": "AI operating system for commercial loans",
+    "team_size": 2,
+    "industry": "Fintech",
+    "subindustry": "Fintech -> Credit and Lending",
+    "launched_at": 1771451277,
+    "tags": [],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "Fintech",
+      "Credit and Lending"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/proximitty",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2026/proximitty.json"
   },
   {
     "id": 31174,

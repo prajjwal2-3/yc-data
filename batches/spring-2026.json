@@ -973,8 +973,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d3143a0fc23ce4251d146cce9ebb5799fc664317.png",
     "website": "https://www.trysaffron.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Saffron is building a platform to test how well candidates can use coding agents. \r\n\r\nThe way engineers write code has fundamentally changed, but the way companies evaluate them hasn't. Saffron gives hiring teams full visibility into how candidates use AI agents to build, debug, and ship real features on an actual codebase. \r\n\r\nSaffron was founded by Robert Chondro (formerly MIT and Jane Street), Jerry Yao (Stanford and Jane Street), and Kazuma Choji (Harvey Mudd, published in NeurIPS and ICML), and is backed by Y Combinator (P26) and Afore Capital. ",
-    "one_liner": "AI-Native Technical Assessments and Work Trials. ",
+    "long_description": "Saffron allows companies to quickly evaluate how well software engineers use AI to code. \r\n\r\nThe way engineers write code has fundamentally changed, but the way companies evaluate them hasn't. Saffron gives teams full visibility into how candidates use AI agents to build, debug, and ship real features on an actual codebase. \r\n\r\nSaffron was founded by Robert Chondro (formerly MIT and Jane Street), Jerry Yao (Stanford and Jane Street), and Kazuma Choji (Harvey Mudd, published in NeurIPS and ICML), and is backed by Y Combinator (P26) and Afore Capital. ",
+    "one_liner": "Helping your company find 10x engineers. ",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Recruiting and Talent",
@@ -2136,17 +2136,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ed9bc479aa95e772450f53b3ce34a581c2a1e4b7.png",
     "website": "https://stablebrowse.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "We are making the world's fastest and lightest browser for your AI agents. Agents don’t need to see UIs like us humans do. We remove the costly visual rendering stack, giving agents a semantic understanding of the web instead of brittle interfaces. Your agents can perform deep research, large-scale scraping, and complex automation—more efficiently with our browser that turns the web into a native protocol for LLMs.",
+    "long_description": "We are making the world's fastest browser for your AI agents. Agents don’t need to see UIs like us humans do. We give agents a semantic understanding of the web instead of brittle visual interfaces. Your agents can perform deep research, large-scale scraping, and complex automation—more efficiently with our agentic browser that turns the web into a native protocol for LLMs.",
     "one_liner": "Browser for AI agents",
     "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1774843315,
     "tags": [
+      "Artificial Intelligence",
       "API",
       "Automation",
-      "Web Development",
-      "AI"
+      "Web Development"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -3286,6 +3286,49 @@
     "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/saudara-ai.json"
   },
   {
+    "id": 31482,
+    "name": "Memory Store",
+    "slug": "memory-store",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/81520a45661b113f68072bffbdfe2eeb3b94215d.png",
+    "website": "https://memory.store",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "One memory for your team's agents. \r\n\r\nTurn every meeting, Claude session, and Slack chat into context your team and agents share.",
+    "one_liner": "Shared context for all of your team's agents.",
+    "team_size": 4,
+    "industry": "B2B",
+    "subindustry": "B2B -> Productivity",
+    "launched_at": 1777184787,
+    "tags": [
+      "Generative AI",
+      "SaaS",
+      "Consumer Products"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Productivity"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/memory-store",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/memory-store.json"
+  },
+  {
     "id": 31488,
     "name": "Foaster",
     "slug": "foaster",
@@ -4015,13 +4058,7 @@
     "industry": "Fintech",
     "subindustry": "Fintech -> Insurance",
     "launched_at": 1775456412,
-    "tags": [
-      "AIOps",
-      "Artificial Intelligence",
-      "SaaS",
-      "Insurance",
-      "AI"
-    ],
+    "tags": [],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": false,

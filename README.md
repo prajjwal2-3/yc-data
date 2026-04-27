@@ -9,8 +9,8 @@
 
 API endpoint: https://prajjwal2-3.github.io/yc-data/meta.json
 
-- Last updated: April 26, 2026 at 3:29 AM
-- Companies: 5855
+- Last updated: April 27, 2026 at 3:33 AM
+- Companies: 5856
 - Batches: 49
 - Industries: 59
 - Tags: 332
@@ -81,7 +81,7 @@ API endpoint: https://prajjwal2-3.github.io/yc-data/meta.json
 | Fall 2024   | 93    | https://prajjwal2-3.github.io/yc-data/batches/fall-2024.json   |
 | Spring 2025 | 144   | https://prajjwal2-3.github.io/yc-data/batches/spring-2025.json |
 | Summer 2025 | 166   | https://prajjwal2-3.github.io/yc-data/batches/summer-2025.json |
-| Spring 2026 | 104   | https://prajjwal2-3.github.io/yc-data/batches/spring-2026.json |
+| Spring 2026 | 105   | https://prajjwal2-3.github.io/yc-data/batches/spring-2026.json |
 | Summer 2026 | 2     | https://prajjwal2-3.github.io/yc-data/batches/summer-2026.json |
 | Fall 2026   | 1     | https://prajjwal2-3.github.io/yc-data/batches/fall-2026.json   |
 | Unspecified | 1     | https://prajjwal2-3.github.io/yc-data/batches/unspecified.json |
@@ -101,7 +101,7 @@ API endpoint: https://prajjwal2-3.github.io/yc-data/meta.json
 | Asset Management                | 53    | https://prajjwal2-3.github.io/yc-data/industries/asset-management.json               |
 | Automotive                      | 21    | https://prajjwal2-3.github.io/yc-data/industries/automotive.json                     |
 | Aviation and Space              | 60    | https://prajjwal2-3.github.io/yc-data/industries/aviation-and-space.json             |
-| B2B                             | 2991  | https://prajjwal2-3.github.io/yc-data/industries/b2b.json                            |
+| B2B                             | 2992  | https://prajjwal2-3.github.io/yc-data/industries/b2b.json                            |
 | Banking and Exchange            | 69    | https://prajjwal2-3.github.io/yc-data/industries/banking-and-exchange.json           |
 | Climate                         | 52    | https://prajjwal2-3.github.io/yc-data/industries/climate.json                        |
 | Construction                    | 47    | https://prajjwal2-3.github.io/yc-data/industries/construction.json                   |
@@ -141,7 +141,7 @@ API endpoint: https://prajjwal2-3.github.io/yc-data/meta.json
 | Office Management               | 24    | https://prajjwal2-3.github.io/yc-data/industries/office-management.json              |
 | Operations                      | 144   | https://prajjwal2-3.github.io/yc-data/industries/operations.json                     |
 | Payments                        | 123   | https://prajjwal2-3.github.io/yc-data/industries/payments.json                       |
-| Productivity                    | 222   | https://prajjwal2-3.github.io/yc-data/industries/productivity.json                   |
+| Productivity                    | 223   | https://prajjwal2-3.github.io/yc-data/industries/productivity.json                   |
 | Real Estate and Construction    | 153   | https://prajjwal2-3.github.io/yc-data/industries/real-estate-and-construction.json   |
 | Recruiting and Talent           | 73    | https://prajjwal2-3.github.io/yc-data/industries/recruiting-and-talent.json          |
 | Retail                          | 130   | https://prajjwal2-3.github.io/yc-data/industries/retail.json                         |
@@ -170,11 +170,11 @@ API endpoint: https://prajjwal2-3.github.io/yc-data/meta.json
 | Advertising                                            | 41    | https://prajjwal2-3.github.io/yc-data/tags/advertising.json                                           |
 | Aerospace                                              | 34    | https://prajjwal2-3.github.io/yc-data/tags/aerospace.json                                             |
 | Agriculture                                            | 32    | https://prajjwal2-3.github.io/yc-data/tags/agriculture.json                                           |
-| AI                                                     | 784   | https://prajjwal2-3.github.io/yc-data/tags/ai.json                                                    |
+| AI                                                     | 780   | https://prajjwal2-3.github.io/yc-data/tags/ai.json                                                    |
 | AI Assistant                                           | 158   | https://prajjwal2-3.github.io/yc-data/tags/ai-assistant.json                                          |
 | AI-Enhanced Learning                                   | 45    | https://prajjwal2-3.github.io/yc-data/tags/ai-enhanced-learning.json                                  |
 | AI-powered Drug Discovery                              | 39    | https://prajjwal2-3.github.io/yc-data/tags/ai-powered-drug-discovery.json                             |
-| AIOps                                                  | 55    | https://prajjwal2-3.github.io/yc-data/tags/aiops.json                                                 |
+| AIOps                                                  | 54    | https://prajjwal2-3.github.io/yc-data/tags/aiops.json                                                 |
 | Air Taxis                                              | 5     | https://prajjwal2-3.github.io/yc-data/tags/air-taxis.json                                             |
 | Airlines                                               | 4     | https://prajjwal2-3.github.io/yc-data/tags/airlines.json                                              |
 | Airplanes                                              | 11    | https://prajjwal2-3.github.io/yc-data/tags/airplanes.json                                             |
@@ -188,7 +188,7 @@ API endpoint: https://prajjwal2-3.github.io/yc-data/meta.json
 | AR                                                     | 6     | https://prajjwal2-3.github.io/yc-data/tags/ar.json                                                    |
 | Architecture                                           | 4     | https://prajjwal2-3.github.io/yc-data/tags/architecture.json                                          |
 | Art Trading Platforms                                  | 1     | https://prajjwal2-3.github.io/yc-data/tags/art-trading-platforms.json                                 |
-| Artificial Intelligence                                | 911   | https://prajjwal2-3.github.io/yc-data/tags/artificial-intelligence.json                               |
+| Artificial Intelligence                                | 913   | https://prajjwal2-3.github.io/yc-data/tags/artificial-intelligence.json                               |
 | Assistive Tech                                         | 6     | https://prajjwal2-3.github.io/yc-data/tags/assistive-tech.json                                        |
 | Augmented Reality                                      | 23    | https://prajjwal2-3.github.io/yc-data/tags/augmented-reality.json                                     |
 | Auto Commerce                                          | 5     | https://prajjwal2-3.github.io/yc-data/tags/auto-commerce.json                                         |
@@ -238,7 +238,7 @@ API endpoint: https://prajjwal2-3.github.io/yc-data/meta.json
 | Consumer                                               | 238   | https://prajjwal2-3.github.io/yc-data/tags/consumer.json                                              |
 | Consumer Finance                                       | 30    | https://prajjwal2-3.github.io/yc-data/tags/consumer-finance.json                                      |
 | Consumer Health Services                               | 104   | https://prajjwal2-3.github.io/yc-data/tags/consumer-health-services.json                              |
-| Consumer Products                                      | 13    | https://prajjwal2-3.github.io/yc-data/tags/consumer-products.json                                     |
+| Consumer Products                                      | 14    | https://prajjwal2-3.github.io/yc-data/tags/consumer-products.json                                     |
 | Conversational AI                                      | 41    | https://prajjwal2-3.github.io/yc-data/tags/conversational-ai.json                                     |
 | Conversational Banking                                 | 2     | https://prajjwal2-3.github.io/yc-data/tags/conversational-banking.json                                |
 | COVID-19                                               | 4     | https://prajjwal2-3.github.io/yc-data/tags/covid-19.json                                              |
@@ -320,7 +320,7 @@ API endpoint: https://prajjwal2-3.github.io/yc-data/meta.json
 | Gaming                                                 | 87    | https://prajjwal2-3.github.io/yc-data/tags/gaming.json                                                |
 | Gardening                                              | 1     | https://prajjwal2-3.github.io/yc-data/tags/gardening.json                                             |
 | Gene Therapy                                           | 12    | https://prajjwal2-3.github.io/yc-data/tags/gene-therapy.json                                          |
-| Generative AI                                          | 255   | https://prajjwal2-3.github.io/yc-data/tags/generative-ai.json                                         |
+| Generative AI                                          | 256   | https://prajjwal2-3.github.io/yc-data/tags/generative-ai.json                                         |
 | Genetic Engineering                                    | 2     | https://prajjwal2-3.github.io/yc-data/tags/genetic-engineering.json                                   |
 | Genomics                                               | 27    | https://prajjwal2-3.github.io/yc-data/tags/genomics.json                                              |
 | Geographic Information System                          | 4     | https://prajjwal2-3.github.io/yc-data/tags/geographic-information-system.json                         |
@@ -338,7 +338,7 @@ API endpoint: https://prajjwal2-3.github.io/yc-data/meta.json
 | Home Automation                                        | 4     | https://prajjwal2-3.github.io/yc-data/tags/home-automation.json                                       |
 | Home Services                                          | 11    | https://prajjwal2-3.github.io/yc-data/tags/home-services.json                                         |
 | Housing                                                | 20    | https://prajjwal2-3.github.io/yc-data/tags/housing.json                                               |
-| HR Tech                                                | 76    | https://prajjwal2-3.github.io/yc-data/tags/hr-tech.json                                               |
+| HR Tech                                                | 77    | https://prajjwal2-3.github.io/yc-data/tags/hr-tech.json                                               |
 | Human Resources                                        | 21    | https://prajjwal2-3.github.io/yc-data/tags/human-resources.json                                       |
 | Hydrogen Energy                                        | 4     | https://prajjwal2-3.github.io/yc-data/tags/hydrogen-energy.json                                       |
 | Identity                                               | 15    | https://prajjwal2-3.github.io/yc-data/tags/identity.json                                              |
@@ -349,7 +349,7 @@ API endpoint: https://prajjwal2-3.github.io/yc-data/meta.json
 | Industrial                                             | 25    | https://prajjwal2-3.github.io/yc-data/tags/industrial.json                                            |
 | Industrial Workplace Safety                            | 4     | https://prajjwal2-3.github.io/yc-data/tags/industrial-workplace-safety.json                           |
 | Infrastructure                                         | 114   | https://prajjwal2-3.github.io/yc-data/tags/infrastructure.json                                        |
-| Insurance                                              | 71    | https://prajjwal2-3.github.io/yc-data/tags/insurance.json                                             |
+| Insurance                                              | 70    | https://prajjwal2-3.github.io/yc-data/tags/insurance.json                                             |
 | International                                          | 6     | https://prajjwal2-3.github.io/yc-data/tags/international.json                                         |
 | Investing                                              | 57    | https://prajjwal2-3.github.io/yc-data/tags/investing.json                                             |
 | Investments                                            | 6     | https://prajjwal2-3.github.io/yc-data/tags/investments.json                                           |
@@ -372,7 +372,7 @@ API endpoint: https://prajjwal2-3.github.io/yc-data/meta.json
 | Maritime                                               | 3     | https://prajjwal2-3.github.io/yc-data/tags/maritime.json                                              |
 | Market Research                                        | 15    | https://prajjwal2-3.github.io/yc-data/tags/market-research.json                                       |
 | Marketing                                              | 102   | https://prajjwal2-3.github.io/yc-data/tags/marketing.json                                             |
-| Marketplace                                            | 304   | https://prajjwal2-3.github.io/yc-data/tags/marketplace.json                                           |
+| Marketplace                                            | 305   | https://prajjwal2-3.github.io/yc-data/tags/marketplace.json                                           |
 | Media                                                  | 44    | https://prajjwal2-3.github.io/yc-data/tags/media.json                                                 |
 | Medical Devices                                        | 68    | https://prajjwal2-3.github.io/yc-data/tags/medical-devices.json                                       |
 | Medical Robotics                                       | 5     | https://prajjwal2-3.github.io/yc-data/tags/medical-robotics.json                                      |
@@ -420,7 +420,7 @@ API endpoint: https://prajjwal2-3.github.io/yc-data/meta.json
 | Radar                                                  | 3     | https://prajjwal2-3.github.io/yc-data/tags/radar.json                                                 |
 | Real Estate                                            | 77    | https://prajjwal2-3.github.io/yc-data/tags/real-estate.json                                           |
 | Recommendation System                                  | 4     | https://prajjwal2-3.github.io/yc-data/tags/recommendation-system.json                                 |
-| Recruiting                                             | 68    | https://prajjwal2-3.github.io/yc-data/tags/recruiting.json                                            |
+| Recruiting                                             | 67    | https://prajjwal2-3.github.io/yc-data/tags/recruiting.json                                            |
 | Referrals                                              | 2     | https://prajjwal2-3.github.io/yc-data/tags/referrals.json                                             |
 | Regtech                                                | 21    | https://prajjwal2-3.github.io/yc-data/tags/regtech.json                                               |
 | Reinforcement Learning                                 | 30    | https://prajjwal2-3.github.io/yc-data/tags/reinforcement-learning.json                                |

@@ -28915,51 +28915,6 @@
     "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2025/bramante-biologics.json"
   },
   {
-    "id": 30518,
-    "name": "Orchid",
-    "slug": "orchid-ai",
-    "former_names": [
-      "Mail0",
-      "Zero"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4a9494b7b3b62fcb0adb7a5568c37003e022974d.png",
-    "website": "https://orchid.ai",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Orchid is an executive assistant that lives in iMessage, handling your inbox and calendar so you don't have to.",
-    "one_liner": "Your personal exec, in iMessage",
-    "team_size": 3,
-    "industry": "B2B",
-    "subindustry": "B2B -> Productivity",
-    "launched_at": 1746733443,
-    "tags": [
-      "AI",
-      "AI Assistant"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Spring 2025",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Productivity"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/orchid-ai",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2025/orchid-ai.json"
-  },
-  {
     "id": 30519,
     "name": "Hemut",
     "slug": "hemut",
@@ -29042,50 +28997,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/janus",
     "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2025/janus.json"
-  },
-  {
-    "id": 30522,
-    "name": "naïve",
-    "slug": "naive",
-    "former_names": [
-      "Relixir.ai",
-      "Relixir",
-      "Naive",
-      "Naïve"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/06af5d16e9099ea20940c7e2eeb917bb2f11454a.png",
-    "website": "https://usenaive.ai",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Naïve is an autonomous company builder. \r\n\r\nYou describe what your business does, and Naïve deploys AI employees that actually execute — building your app, closing deals, running campaigns, serving customers. \r\n\r\nIt works for creating new companies and automate existing companies by connecting Naive to their entire stack. ",
-    "one_liner": "Autonomous Company Builder",
-    "team_size": 12,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1747424808,
-    "tags": [
-      "Infrastructure",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Spring 2025",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/naive",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2025/naive.json"
   },
   {
     "id": 30523,
@@ -34187,48 +34098,6 @@
     "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/taiga.json"
   },
   {
-    "id": 31419,
-    "name": "StableBrowse",
-    "slug": "stablebrowse",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ed9bc479aa95e772450f53b3ce34a581c2a1e4b7.png",
-    "website": "https://stablebrowse.com/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "We are making the world's fastest and lightest browser for your AI agents. Agents don’t need to see UIs like us humans do. We remove the costly visual rendering stack, giving agents a semantic understanding of the web instead of brittle interfaces. Your agents can perform deep research, large-scale scraping, and complex automation—more efficiently with our browser that turns the web into a native protocol for LLMs.",
-    "one_liner": "Browser for AI agents",
-    "team_size": 4,
-    "industry": "B2B",
-    "subindustry": "B2B -> Infrastructure",
-    "launched_at": 1774843315,
-    "tags": [
-      "API",
-      "Automation",
-      "Web Development",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Spring 2026",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Infrastructure"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/stablebrowse",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/stablebrowse.json"
-  },
-  {
     "id": 31420,
     "name": "Kimpton AI",
     "slug": "kimpton-ai",
@@ -34736,47 +34605,5 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/manicule",
     "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/manicule.json"
-  },
-  {
-    "id": 31539,
-    "name": "Klaimee",
-    "slug": "klaimee",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6e3d33eec8f456adbebd1c1792d44f7e75715cbd.png",
-    "website": "https://www.klaimee.ai",
-    "all_locations": "",
-    "long_description": "Klaimee certifies and insures autonomous AI agents.\r\nWe audit your agents and back them with AI-native liability coverage.\r\nBuilt for startups bringing AI to enterprise clients, self-serve from day one.\r\n\r\nThe problem: AI agents are taking actions autonomously, buying, emailing, modifying data. AB 316 already holds deployers liable. EU AI Act enforces in August. Cyber insurance is excluding AI claims. Startups shipping agents to enterprise have zero coverage and no third-party proof their agent is safe. Enterprise legal asks \"who pays if your agent breaks something?\" and there's no good answer.\r\n                                                                                                                                                                                                                                        \r\nWe built the answer. Critical-category risk evaluation, certification, financial guarantee, liability insurance and the documentation enterprise procurement needs to sign off.\r\n\r\nTeam: Ines (ex-General Manager at SafetyWing, grew insurance product from $5M to $40M revenue, 5 years managing claims, underwriting, and carrier relationships) + Julien (software engineer + corporate strategy, enterprise compliance).\r\n\r\nWe understand how insurance works, what enterprises require, and why startups can't wait 6 months for either.",
-    "one_liner": "Insurance for the agentic world. You deploy agents, we cover you.",
-    "team_size": 2,
-    "industry": "Fintech",
-    "subindustry": "Fintech -> Insurance",
-    "launched_at": 1775456412,
-    "tags": [
-      "AIOps",
-      "Artificial Intelligence",
-      "SaaS",
-      "Insurance",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Spring 2026",
-    "status": "Active",
-    "industries": [
-      "Fintech",
-      "Insurance"
-    ],
-    "regions": [
-      "Unspecified"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": true,
-    "url": "https://www.ycombinator.com/companies/klaimee",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/klaimee.json"
   }
 ]

@@ -25086,7 +25086,7 @@
     "all_locations": "New York, NY, USA",
     "long_description": "The first AI-powered demo platform designed to sell, market and implement technical products with ease. Our visual platform makes APIs more accessible and accelerates commercialization, enabling high-impact digital transformation for the world’s largest enterprises.",
     "one_liner": "Demo Platform for API-First Companies",
-    "team_size": 30,
+    "team_size": 35,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1647531815,
@@ -48294,8 +48294,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d3143a0fc23ce4251d146cce9ebb5799fc664317.png",
     "website": "https://www.trysaffron.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Saffron is building a platform to test how well candidates can use coding agents. \r\n\r\nThe way engineers write code has fundamentally changed, but the way companies evaluate them hasn't. Saffron gives hiring teams full visibility into how candidates use AI agents to build, debug, and ship real features on an actual codebase. \r\n\r\nSaffron was founded by Robert Chondro (formerly MIT and Jane Street), Jerry Yao (Stanford and Jane Street), and Kazuma Choji (Harvey Mudd, published in NeurIPS and ICML), and is backed by Y Combinator (P26) and Afore Capital. ",
-    "one_liner": "AI-Native Technical Assessments and Work Trials. ",
+    "long_description": "Saffron allows companies to quickly evaluate how well software engineers use AI to code. \r\n\r\nThe way engineers write code has fundamentally changed, but the way companies evaluate them hasn't. Saffron gives teams full visibility into how candidates use AI agents to build, debug, and ship real features on an actual codebase. \r\n\r\nSaffron was founded by Robert Chondro (formerly MIT and Jane Street), Jerry Yao (Stanford and Jane Street), and Kazuma Choji (Harvey Mudd, published in NeurIPS and ICML), and is backed by Y Combinator (P26) and Afore Capital. ",
+    "one_liner": "Helping your company find 10x engineers. ",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Recruiting and Talent",
@@ -48838,6 +48838,49 @@
     "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/kuli.json"
   },
   {
+    "id": 31482,
+    "name": "Memory Store",
+    "slug": "memory-store",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/81520a45661b113f68072bffbdfe2eeb3b94215d.png",
+    "website": "https://memory.store",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "One memory for your team's agents. \r\n\r\nTurn every meeting, Claude session, and Slack chat into context your team and agents share.",
+    "one_liner": "Shared context for all of your team's agents.",
+    "team_size": 4,
+    "industry": "B2B",
+    "subindustry": "B2B -> Productivity",
+    "launched_at": 1777184787,
+    "tags": [
+      "Generative AI",
+      "SaaS",
+      "Consumer Products"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Productivity"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/memory-store",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/memory-store.json"
+  },
+  {
     "id": 31536,
     "name": "Gigacatalyst",
     "slug": "gigacatalyst",
@@ -48881,48 +48924,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/gigacatalyst",
     "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/gigacatalyst.json"
-  },
-  {
-    "id": 31539,
-    "name": "Klaimee",
-    "slug": "klaimee",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6e3d33eec8f456adbebd1c1792d44f7e75715cbd.png",
-    "website": "https://www.klaimee.ai",
-    "all_locations": "",
-    "long_description": "Klaimee certifies and insures autonomous AI agents.\r\nWe audit your agents and back them with AI-native liability coverage.\r\nBuilt for startups bringing AI to enterprise clients, self-serve from day one.\r\n\r\nThe problem: AI agents are taking actions autonomously, buying, emailing, modifying data. AB 316 already holds deployers liable. EU AI Act enforces in August. Cyber insurance is excluding AI claims. Startups shipping agents to enterprise have zero coverage and no third-party proof their agent is safe. Enterprise legal asks \"who pays if your agent breaks something?\" and there's no good answer.\r\n                                                                                                                                                                                                                                        \r\nWe built the answer. Critical-category risk evaluation, certification, financial guarantee, liability insurance and the documentation enterprise procurement needs to sign off.\r\n\r\nTeam: Ines (ex-General Manager at SafetyWing, grew insurance product from $5M to $40M revenue, 5 years managing claims, underwriting, and carrier relationships) + Julien (software engineer + corporate strategy, enterprise compliance).\r\n\r\nWe understand how insurance works, what enterprises require, and why startups can't wait 6 months for either.",
-    "one_liner": "Insurance for the agentic world. You deploy agents, we cover you.",
-    "team_size": 2,
-    "industry": "Fintech",
-    "subindustry": "Fintech -> Insurance",
-    "launched_at": 1775456412,
-    "tags": [
-      "AIOps",
-      "Artificial Intelligence",
-      "SaaS",
-      "Insurance",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Spring 2026",
-    "status": "Active",
-    "industries": [
-      "Fintech",
-      "Insurance"
-    ],
-    "regions": [
-      "Unspecified"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": true,
-    "url": "https://www.ycombinator.com/companies/klaimee",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/klaimee.json"
   },
   {
     "id": 31545,
