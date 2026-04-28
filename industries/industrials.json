@@ -11870,7 +11870,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/22c2bd83d673e7df9f3a78b87b760253845534a0.png",
     "website": "https://apolink.space",
     "all_locations": "Palo Alto, CA, USA",
-    "long_description": "Apolink is building the world’s most interoperable satellite relay network in low Earth orbit. Our hybrid communication architecture combines RF and optical inter-satellite links to enable real-time, continuous connectivity for satellite operators across industries.",
+    "long_description": "Apolink is a next-generation data relay network designed to provide real-time, low-latency connectivity for satellites in low Earth orbit. By enabling efficient data aggregation and relay through our hybrid RF-optical inter-satellite link (ISL) architecture, we support scalable and resilient space infrastructure across commercial, federal, and defense applications.",
     "one_liner": "24/7 satellite connectivity in low Earth orbit",
     "team_size": 7,
     "industry": "Industrials",
@@ -13522,6 +13522,50 @@
     "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2025/normal.json"
   },
   {
+    "id": 30704,
+    "name": "Albacore Inc.",
+    "slug": "albacore-inc",
+    "former_names": [
+      "Albacore Ocean Systems, Inc."
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/136331286874ea99fbd7e2a7b2acfee659b0c7bf.png",
+    "website": "https://www.albacore.inc",
+    "all_locations": "Philadelphia, PA, USA",
+    "long_description": "Albacore Inc. builds mass-producible long-range drone submarines. In the era of autonomous warfare, we support military operators with underwater systems that can traverse oceans and be deployed at scale.",
+    "one_liner": "Drone submarines",
+    "team_size": 18,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Defense",
+    "launched_at": 1753760756,
+    "tags": [
+      "Drones",
+      "Maritime"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Defense"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/albacore-inc",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2025/albacore-inc.json"
+  },
+  {
     "id": 30708,
     "name": "Perseus Defense",
     "slug": "perseus-defense",
@@ -13649,10 +13693,10 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2a84608596d6e85a1a64227a175491ef9496eb22.png",
     "website": "https://www.duranium.co/",
-    "all_locations": "Alameda, CA, USA",
+    "all_locations": "Oakland, CA, USA",
     "long_description": "China and Russia control the world’s critical minerals. We can produce Titanium, Magnesium, Aluminum, Zirconium & Hafnium in the U.S. more profitably than any existing process, and carbon neutrally via co-production.\r\n\r\nCarbochlorination is the primary process for producing critical metals like titanium, hafnium, and zirconium, and was once the standard for magnesium. The problem: conventional carbochlorination relies on purchasing carbon feedstocks, wastes valuable byproducts, and is highly CO₂-intensive.\r\n\r\nDuranium changes this with a novel reactor that recycles CO₂ emissions back into feedstock (CO) while generating a valuable co-product (bleaching agents). This closed loop slashes emissions and delivers Chinese-level metal pricing without subsidies — unlocking the full potential of carbochlorination for U.S. critical mineral production.",
     "one_liner": "Reshoring critical metal production",
-    "team_size": 4,
+    "team_size": 9,
     "industry": "Industrials",
     "subindustry": "Industrials -> Manufacturing and Robotics",
     "launched_at": 1757191317,
@@ -14721,7 +14765,12 @@
     "industry": "Industrials",
     "subindustry": "Industrials -> Defense",
     "launched_at": 1768422348,
-    "tags": [],
+    "tags": [
+      "Artificial Intelligence",
+      "Hardware",
+      "Drones",
+      "Aerospace"
+    ],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": true,
@@ -15446,6 +15495,48 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/aice-power",
     "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/aice-power.json"
+  },
+  {
+    "id": 31486,
+    "name": "Ornadyne",
+    "slug": "ornadyne",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a1b22be817e9ad2d1f4b3a606e7b94d10bc6a8d6.png",
+    "website": "https://ornadyne.com/",
+    "all_locations": "Los Angeles, CA, USA",
+    "long_description": "Ornadyne builds flapping-wing drones for reconnaissance that look, fly, and sound like birds.\r\n\r\nToday’s drones are easy to detect acoustically, visually, and electronically. As counter-UAS systems improve, traditional quadcopters and fixed-wing UAS systems are becoming increasingly ineffective for close-range surveillance.  \r\n\r\nFlapping-wing aircraft have existed for years, but have lacked the performance, endurance, and control required for real-world deployment. We’re changing that by engineering a high-performance, stealth-optimized system built from first principles for efficiency, autonomy, and reliable field use.\r\n\r\nThe final frontier of surveillance won’t look like machines; it will look like wildlife already in the sky. \r\n\r\nMaybe birds aren't real?",
+    "one_liner": "We're building bird robots for surveillance.",
+    "team_size": 2,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Drones",
+    "launched_at": 1777342640,
+    "tags": [
+      "Security Orchestration, Automation and Response (SOAR)",
+      "Robotics",
+      "Drones",
+      "Aerospace"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Drones"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/ornadyne",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/ornadyne.json"
   },
   {
     "id": 31489,

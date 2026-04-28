@@ -1136,7 +1136,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Spring 2025",
     "status": "Active",
@@ -3144,7 +3144,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "RunRL improves LLMs and AI agents with reinforcement learning. Do you have a model that needs to get better at a certain task? Are you tired of messing around with prompts? Do you spend a lot of money on observability, and wish that all this data could let your model self-improve? Well, head on over to RunRL.com, and see what we have to offer! If you give us a model, a prompt, and a reward, we’ll make your model’s reward go up.",
     "one_liner": "Reinforcement learning as a service",
-    "team_size": 3,
+    "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1743582739,
@@ -4590,13 +4590,14 @@
   },
   {
     "id": 30522,
-    "name": "naïve",
+    "name": "Naïve",
     "slug": "naive",
     "former_names": [
       "Relixir.ai",
       "Relixir",
       "Naive",
-      "Naïve"
+      "Naïve",
+      "naïve"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/06af5d16e9099ea20940c7e2eeb917bb2f11454a.png",
     "website": "https://usenaive.ai",
@@ -4608,8 +4609,8 @@
     "subindustry": "B2B",
     "launched_at": 1747424808,
     "tags": [
-      "Artificial Intelligence",
-      "Infrastructure"
+      "Infrastructure",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,

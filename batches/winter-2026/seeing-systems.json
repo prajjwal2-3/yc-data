@@ -16,7 +16,12 @@
   "industry": "Industrials",
   "subindustry": "Industrials -> Defense",
   "launched_at": 1768422348,
-  "tags": [],
+  "tags": [
+    "Artificial Intelligence",
+    "Hardware",
+    "Drones",
+    "Aerospace"
+  ],
   "tags_highlighted": [],
   "top_company": false,
   "isHiring": true,

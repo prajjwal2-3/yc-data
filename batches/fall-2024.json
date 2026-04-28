@@ -969,7 +969,7 @@
     "slug": "revyl",
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1eca61dd3b32e7b0f7174161cd567ec823504e49.png",
-    "website": "https://www.revyl.ai",
+    "website": "https://www.revyl.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Revyl is a AI-native mobile testing platform that automatically catches and triages bugs before they reach production.",
     "one_liner": "AI-Native Mobile Testing",
@@ -978,10 +978,10 @@
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1729643205,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "B2B",
-      "Infrastructure"
+      "Infrastructure",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -3834,7 +3834,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/22c2bd83d673e7df9f3a78b87b760253845534a0.png",
     "website": "https://apolink.space",
     "all_locations": "Palo Alto, CA, USA",
-    "long_description": "Apolink is building the world’s most interoperable satellite relay network in low Earth orbit. Our hybrid communication architecture combines RF and optical inter-satellite links to enable real-time, continuous connectivity for satellite operators across industries.",
+    "long_description": "Apolink is a next-generation data relay network designed to provide real-time, low-latency connectivity for satellites in low Earth orbit. By enabling efficient data aggregation and relay through our hybrid RF-optical inter-satellite link (ISL) architecture, we support scalable and resilient space infrastructure across commercial, federal, and defense applications.",
     "one_liner": "24/7 satellite connectivity in low Earth orbit",
     "team_size": 7,
     "industry": "Industrials",

@@ -14,17 +14,16 @@
   "website": "https://arcten.com",
   "all_locations": "San Francisco, CA, USA",
   "long_description": "",
-  "one_liner": "Building the best coding agents.",
+  "one_liner": "Lab working on long-horizon autonomous research and coding agents",
   "team_size": 2,
   "industry": "B2B",
   "subindustry": "B2B -> Engineering, Product and Design",
   "launched_at": 1761245566,
   "tags": [
-    "Artificial Intelligence",
-    "SaaS",
-    "B2B",
-    "Customer Success",
-    "Enterprise"
+    "Deep Learning",
+    "Generative AI",
+    "Machine Learning",
+    "AI"
   ],
   "tags_highlighted": [],
   "top_company": false,

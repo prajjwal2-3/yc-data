@@ -5951,7 +5951,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Summer 2020",
     "status": "Active",
@@ -13319,7 +13319,7 @@
     "all_locations": "New York, NY, USA",
     "long_description": "Parse, extract, and split your hardest documents with unmatched accuracy. Read any layout with specialized vision models, and ship reliable pipelines in minutes, not months.",
     "one_liner": "Production-ready document processing",
-    "team_size": 20,
+    "team_size": 25,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1679062598,
@@ -13938,50 +13938,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/dagworks-inc",
     "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2023/dagworks-inc.json"
-  },
-  {
-    "id": 28089,
-    "name": "Thread",
-    "slug": "thread-2",
-    "former_names": [
-      "Leather"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fe1ab28914af8d00a360fa68da95751ee8c4470e.png",
-    "website": "https://www.usethread.io",
-    "all_locations": "Chattanooga, TN, USA",
-    "long_description": "Thread simplifies the business processes for manufacturing companies. Upload your company documents to our secure platform, collaborate seamlessly across your organization to respond to vendor questionnaires.",
-    "one_liner": "Lifeline for your business",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1674772876,
-    "tags": [
-      "Developer Tools",
-      "B2B",
-      "Manufacturing",
-      "Enterprise",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2023",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/thread-2",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2023/thread-2.json"
   },
   {
     "id": 28096,
@@ -19163,7 +19119,7 @@
     "slug": "revyl",
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1eca61dd3b32e7b0f7174161cd567ec823504e49.png",
-    "website": "https://www.revyl.ai",
+    "website": "https://www.revyl.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Revyl is a AI-native mobile testing platform that automatically catches and triages bugs before they reach production.",
     "one_liner": "AI-Native Mobile Testing",
@@ -19172,10 +19128,10 @@
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1729643205,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "B2B",
-      "Infrastructure"
+      "Infrastructure",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,

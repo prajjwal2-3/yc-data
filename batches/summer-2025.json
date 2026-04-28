@@ -2614,19 +2614,14 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f77131cbecf4a204722622db553ac42245dbff78.png",
     "website": "https://www.wedge.health",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "",
     "long_description": "The Operating System for Health AI: we deploy, govern, and scale AI agents across healthcare organizations.",
     "one_liner": "Palantir for Healthcare AI Agents",
     "team_size": 2,
     "industry": "Healthcare",
     "subindustry": "Healthcare",
     "launched_at": 1753822608,
-    "tags": [
-      "Artificial Intelligence",
-      "SaaS",
-      "Health Tech",
-      "Healthcare"
-    ],
+    "tags": [],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": false,
@@ -2637,8 +2632,7 @@
       "Healthcare"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "Unspecified"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -3809,11 +3803,11 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/136331286874ea99fbd7e2a7b2acfee659b0c7bf.png",
     "website": "https://www.albacore.inc",
     "all_locations": "Philadelphia, PA, USA",
-    "long_description": "Albacore is building 6ft-long drone submarines to deter littoral conflict. Our first product, Ghostfin can be launched from land in minutes, and carry precision effects or conduct sensing missions up to 1,000 nautical miles. Our team consists of multiple serial entrepreneurs in defense and hardware who have worked alongside top DoD leadership on autonomous platforms.",
-    "one_liner": "Autonomous undersea vehicles to deter maritime invasions.",
-    "team_size": 15,
-    "industry": "Government",
-    "subindustry": "Government",
+    "long_description": "Albacore Inc. builds mass-producible long-range drone submarines. In the era of autonomous warfare, we support military operators with underwater systems that can traverse oceans and be deployed at scale.",
+    "one_liner": "Drone submarines",
+    "team_size": 18,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Defense",
     "launched_at": 1753760756,
     "tags": [
       "Drones",
@@ -3826,7 +3820,8 @@
     "batch": "Summer 2025",
     "status": "Active",
     "industries": [
-      "Government"
+      "Industrials",
+      "Defense"
     ],
     "regions": [
       "United States of America",
@@ -5943,10 +5938,10 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2a84608596d6e85a1a64227a175491ef9496eb22.png",
     "website": "https://www.duranium.co/",
-    "all_locations": "Alameda, CA, USA",
+    "all_locations": "Oakland, CA, USA",
     "long_description": "China and Russia control the world’s critical minerals. We can produce Titanium, Magnesium, Aluminum, Zirconium & Hafnium in the U.S. more profitably than any existing process, and carbon neutrally via co-production.\r\n\r\nCarbochlorination is the primary process for producing critical metals like titanium, hafnium, and zirconium, and was once the standard for magnesium. The problem: conventional carbochlorination relies on purchasing carbon feedstocks, wastes valuable byproducts, and is highly CO₂-intensive.\r\n\r\nDuranium changes this with a novel reactor that recycles CO₂ emissions back into feedstock (CO) while generating a valuable co-product (bleaching agents). This closed loop slashes emissions and delivers Chinese-level metal pricing without subsidies — unlocking the full potential of carbochlorination for U.S. critical mineral production.",
     "one_liner": "Reshoring critical metal production",
-    "team_size": 4,
+    "team_size": 9,
     "industry": "Industrials",
     "subindustry": "Industrials -> Manufacturing and Robotics",
     "launched_at": 1757191317,

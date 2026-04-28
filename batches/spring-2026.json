@@ -601,16 +601,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/41304734421d088c72c82b8e7d148826f4864bc9.png",
     "website": "https://korsoai.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Korso builds AI agents that handle the operational work manufacturers still do manually, including processing RFQs, following up on quotes, coordinating with suppliers, and keeping production on track when things go wrong. Our agents plug into your existing ERP and CRM, understand your workflows, and act on your behalf: triaging incoming requests, chasing delayed orders, notifying customers, and escalating only when human judgment is truly needed.\r\n\r\nWe built Korso around the reality that enterprise systems cannot afford mistakes. Every agent action passes through verification layers, tools are scoped, and critical operations go through dry-run validation and secondary review. Full audit trails mean you can see exactly what was done, why, and when.\r\n\r\nMost AI automation breaks down at the ERP integration layer. Korso's orchestration is built for the messiness of real manufacturing systems, with long-running workflows that span weeks and checkpointing that never loses progress.\r\n\r\nInstead of replacing your systems, Korso makes them work harder, so your team spends less time on coordination and more time on the work that actually matters.",
+    "long_description": "Korso builds AI agents that handle the operational work manufacturers still do manually, including processing RFQs, following up on quotes, coordinating with suppliers, and keeping production on track when things go wrong. Our agents plug into your existing ERP and CRM, understand your workflows, and act on your behalf: triaging incoming requests, chasing delayed orders, notifying customers, and escalating when human judgment is needed.\r\n\r\nWe built Korso around the reality that enterprise systems cannot afford mistakes. Every agent action passes through verification layers, tools are scoped, and critical operations go through dry-run validation and secondary review. Full audit trails mean you can see exactly what was done, why, and when.\r\n\r\nMost AI automation breaks down at the ERP integration layer. Korso's orchestration is built for the messiness of real manufacturing systems, with long-running workflows that span weeks and checkpointing that never loses progress.\r\n\r\nInstead of replacing your systems, Korso makes them work harder, so your team spends less time on coordination and more time on the work that actually matters.",
     "one_liner": "The Intelligence Layer for Manufacturing.",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Operations",
     "launched_at": 1773339255,
     "tags": [
+      "Artificial Intelligence",
       "SaaS",
-      "Manufacturing",
-      "AI"
+      "Manufacturing"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -3329,6 +3329,48 @@
     "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/memory-store.json"
   },
   {
+    "id": 31486,
+    "name": "Ornadyne",
+    "slug": "ornadyne",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a1b22be817e9ad2d1f4b3a606e7b94d10bc6a8d6.png",
+    "website": "https://ornadyne.com/",
+    "all_locations": "Los Angeles, CA, USA",
+    "long_description": "Ornadyne builds flapping-wing drones for reconnaissance that look, fly, and sound like birds.\r\n\r\nToday’s drones are easy to detect acoustically, visually, and electronically. As counter-UAS systems improve, traditional quadcopters and fixed-wing UAS systems are becoming increasingly ineffective for close-range surveillance.  \r\n\r\nFlapping-wing aircraft have existed for years, but have lacked the performance, endurance, and control required for real-world deployment. We’re changing that by engineering a high-performance, stealth-optimized system built from first principles for efficiency, autonomy, and reliable field use.\r\n\r\nThe final frontier of surveillance won’t look like machines; it will look like wildlife already in the sky. \r\n\r\nMaybe birds aren't real?",
+    "one_liner": "We're building bird robots for surveillance.",
+    "team_size": 2,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Drones",
+    "launched_at": 1777342640,
+    "tags": [
+      "Security Orchestration, Automation and Response (SOAR)",
+      "Robotics",
+      "Drones",
+      "Aerospace"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Drones"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/ornadyne",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/ornadyne.json"
+  },
+  {
     "id": 31488,
     "name": "Foaster",
     "slug": "foaster",
@@ -4122,6 +4164,46 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/modern",
     "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/modern.json"
+  },
+  {
+    "id": 31546,
+    "name": "ReasonBlocks",
+    "slug": "reasonblocks",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d73e9cbe0885e3d783faf674783100f13336068b.png",
+    "website": "https://reasonblocks.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "ReasonBlocks makes AI agents more accurate and cheaper by catching failures mid-run and compounding reasoning patterns across every agent you deploy. Plugs into your existing agent stack in minutes and starts improving results from the first call.",
+    "one_liner": "Infra layer for smarter and cheaper AI agents",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1777282713,
+    "tags": [
+      "Artificial Intelligence",
+      "SaaS",
+      "B2B"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/reasonblocks",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/reasonblocks.json"
   },
   {
     "id": 31547,

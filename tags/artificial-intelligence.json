@@ -7861,11 +7861,11 @@
       "QuickVid",
       "True3D"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/084dd39112f991529cbcde05f2b6e80e075b606f.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7da2309b02d5990f41bbcc5b3695e3e028b38c7f.png",
     "website": "https://true3d.com/",
     "all_locations": "New York, NY, USA",
-    "long_description": "True3D is on a mission to kill black bars. Our AI expands any video to fit any screen.\r\n",
-    "one_liner": "AI that expands any video to fill any screen",
+    "long_description": "We build immersive video models for domes, giant screens, and VR headsets",
+    "one_liner": "AI that expands any video to fit any screen.",
     "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
@@ -14325,48 +14325,6 @@
     "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2022/rima-ai.json"
   },
   {
-    "id": 26913,
-    "name": "Aurelian",
-    "slug": "aurelian",
-    "former_names": [
-      "Needl"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b2c5063acaca8254ce02340b8663c47624a60972.png",
-    "website": "https://www.aurelian.com/",
-    "all_locations": "Seattle, WA, USA",
-    "long_description": "Aurelian automates non-emergency calls for 911 centers. Our AI-powered operator instantly routes, triages, and resolves calls so citizens get exactly what they need and 911 dispatchers get to focus on emergencies.\r\n\r\nUpwards of 80% of total call volume faced by public safety agencies are administrative calls e.g., citizens trying to pay parking tickets or reporting a power outage. Aurelian lessens this burden and lets 9-1-1 dispatchers deal with actual emergencies.\r\n\r\nTo date, Aurelian has automated hundreds of thousands of calls and sent over 10,000 emergent calls (that typically would've sat on hold) to the 911 line to be handled immediately.",
-    "one_liner": "Automating non-emergency calls for 911 centers",
-    "team_size": 45,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1658420852,
-    "tags": [
-      "Artificial Intelligence",
-      "SaaS",
-      "GovTech"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Summer 2022",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Growth",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/aurelian",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2022/aurelian.json"
-  },
-  {
     "id": 27037,
     "name": "Metriport",
     "slug": "metriport",
@@ -17282,6 +17240,49 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/dagworks-inc",
     "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2023/dagworks-inc.json"
+  },
+  {
+    "id": 28089,
+    "name": "Thread",
+    "slug": "thread-2",
+    "former_names": [
+      "Leather"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fe1ab28914af8d00a360fa68da95751ee8c4470e.png",
+    "website": "https://www.usethread.io",
+    "all_locations": "New York, NY, USA",
+    "long_description": "Thread simplifies the business processes for manufacturing companies. Upload your company documents to our secure platform, collaborate seamlessly across your organization to respond to vendor questionnaires.",
+    "one_liner": "Lifeline for your business",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1674772876,
+    "tags": [
+      "Artificial Intelligence",
+      "Fintech",
+      "B2B",
+      "Enterprise"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2023",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/thread-2",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2023/thread-2.json"
   },
   {
     "id": 28097,
@@ -29404,48 +29405,6 @@
     "api": "https://prajjwal2-3.github.io/yc-data/batches/fall-2024/raycaster.json"
   },
   {
-    "id": 30041,
-    "name": "Revyl",
-    "slug": "revyl",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1eca61dd3b32e7b0f7174161cd567ec823504e49.png",
-    "website": "https://www.revyl.ai",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Revyl is a AI-native mobile testing platform that automatically catches and triages bugs before they reach production.",
-    "one_liner": "AI-Native Mobile Testing",
-    "team_size": 7,
-    "industry": "B2B",
-    "subindustry": "B2B -> Infrastructure",
-    "launched_at": 1729643205,
-    "tags": [
-      "Artificial Intelligence",
-      "Developer Tools",
-      "B2B",
-      "Infrastructure"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Fall 2024",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Infrastructure"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/revyl",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/fall-2024/revyl.json"
-  },
-  {
     "id": 30047,
     "name": "Endstack",
     "slug": "endstack",
@@ -32744,7 +32703,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Spring 2025",
     "status": "Active",
@@ -33831,50 +33790,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/orchid-ai",
     "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2025/orchid-ai.json"
-  },
-  {
-    "id": 30522,
-    "name": "naïve",
-    "slug": "naive",
-    "former_names": [
-      "Relixir.ai",
-      "Relixir",
-      "Naive",
-      "Naïve"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/06af5d16e9099ea20940c7e2eeb917bb2f11454a.png",
-    "website": "https://usenaive.ai",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Naïve is an autonomous company builder. \r\n\r\nYou describe what your business does, and Naïve deploys AI employees that actually execute — building your app, closing deals, running campaigns, serving customers. \r\n\r\nIt works for creating new companies and automate existing companies by connecting Naive to their entire stack. ",
-    "one_liner": "Autonomous Company Infrastructure",
-    "team_size": 8,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1747424808,
-    "tags": [
-      "Artificial Intelligence",
-      "Infrastructure"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Spring 2025",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/naive",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2025/naive.json"
   },
   {
     "id": 30523,
@@ -35430,50 +35345,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/careswift",
     "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2025/careswift.json"
-  },
-  {
-    "id": 30668,
-    "name": "Wedge",
-    "slug": "wedge",
-    "former_names": [
-      "supermodel",
-      "Supermodel AI"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f77131cbecf4a204722622db553ac42245dbff78.png",
-    "website": "https://www.wedge.health",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "The Operating System for Health AI: we deploy, govern, and scale AI agents across healthcare organizations.",
-    "one_liner": "Palantir for Healthcare AI Agents",
-    "team_size": 2,
-    "industry": "Healthcare",
-    "subindustry": "Healthcare",
-    "launched_at": 1753822608,
-    "tags": [
-      "Artificial Intelligence",
-      "SaaS",
-      "Health Tech",
-      "Healthcare"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2025",
-    "status": "Active",
-    "industries": [
-      "Healthcare"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/wedge",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2025/wedge.json"
   },
   {
     "id": 30669,
@@ -37083,6 +36954,45 @@
     "api": "https://prajjwal2-3.github.io/yc-data/batches/fall-2025/scoop.json"
   },
   {
+    "id": 30861,
+    "name": "Caddy",
+    "slug": "caddy",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b00ba607980bb58773b7bd6c760f042ebe9e31b6.png",
+    "website": "https://caddy.app/",
+    "all_locations": "",
+    "long_description": "Caddy is the operating system that works proactively for you. It learns how you work and acts on your behalf, keeping work moving while your context and voice stay intact.\r\n\r\nInstead of producing generic AI output, Caddy creates real work artifacts that sound like you and fit how you actually work. Today, it operates across the tools you use every day, including email, calendar, Slack, Linear, and Notion.\r\n\r\nCaddy is built by the team behind Loom’s AI and core product. We believe the next era of computing is software that understands intent, handles ambiguous work, and quietly gets work done in the background.",
+    "one_liner": "Your partner for everyday work, lives in iMessage",
+    "team_size": 4,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1761153567,
+    "tags": [
+      "Artificial Intelligence",
+      "AI Assistant"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/caddy",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/fall-2025/caddy.json"
+  },
+  {
     "id": 30863,
     "name": "The Context Company",
     "slug": "the-context-company",
@@ -38194,56 +38104,6 @@
     "api": "https://prajjwal2-3.github.io/yc-data/batches/fall-2025/primer.json"
   },
   {
-    "id": 30961,
-    "name": "Arcten",
-    "slug": "arcten",
-    "former_names": [
-      "Cortex",
-      "ArcTen",
-      "Arc Ten",
-      "ArcTen",
-      "ArcTen, Inc.",
-      "Arcten, Inc."
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b8b85a37c57824f6296369d2840bc02a481f8bf6.png",
-    "website": "https://arcten.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "",
-    "one_liner": "Building the best coding agents.",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1761245566,
-    "tags": [
-      "Artificial Intelligence",
-      "SaaS",
-      "B2B",
-      "Customer Success",
-      "Enterprise"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Fall 2025",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/arcten",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/fall-2025/arcten.json"
-  },
-  {
     "id": 30969,
     "name": "Lemma",
     "slug": "uselemma",
@@ -38845,6 +38705,52 @@
     "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2026/brownie.json"
   },
   {
+    "id": 31180,
+    "name": "Seeing Systems",
+    "slug": "seeing-systems",
+    "former_names": [
+      "Seeing Systems Ltd",
+      "Seeing Systems",
+      "Seeing Systems Ltd"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8d8e226478cb43c163b19e22186c3bab3bdb9668.png",
+    "website": "https://www.seeing-systems.com",
+    "all_locations": "",
+    "long_description": "We engineer inexpensive, autonomous strike drones designed to operate in the most contested combat environments on Earth!\r\n\r\nBy combining true hardware modularity with an agentic control system that lowers cognitive load on operators, we enable faster upgrades, broader adoption, and more than 2x reduction in lifecycle cost.\r\n\r\nOur customers and partners include the UK Royal Marine Commandos, several other units in the UK, and 4 other NATO forces, and we are currently shipping prototypes for iterative feedback.\r\n\r\nThink of us as Anduril, but with worse weather, and better banter.",
+    "one_liner": "Modular AI-Commanded Drones for Defence",
+    "team_size": 2,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Defense",
+    "launched_at": 1768422348,
+    "tags": [
+      "Artificial Intelligence",
+      "Hardware",
+      "Drones",
+      "Aerospace"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Defense"
+    ],
+    "regions": [
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/seeing-systems",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2026/seeing-systems.json"
+  },
+  {
     "id": 31215,
     "name": "Bubble Lab",
     "slug": "bubble-lab",
@@ -39177,6 +39083,47 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/shofo",
     "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2026/shofo.json"
+  },
+  {
+    "id": 31327,
+    "name": "Korso",
+    "slug": "korso",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/41304734421d088c72c82b8e7d148826f4864bc9.png",
+    "website": "https://korsoai.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Korso builds AI agents that handle the operational work manufacturers still do manually, including processing RFQs, following up on quotes, coordinating with suppliers, and keeping production on track when things go wrong. Our agents plug into your existing ERP and CRM, understand your workflows, and act on your behalf: triaging incoming requests, chasing delayed orders, notifying customers, and escalating when human judgment is needed.\r\n\r\nWe built Korso around the reality that enterprise systems cannot afford mistakes. Every agent action passes through verification layers, tools are scoped, and critical operations go through dry-run validation and secondary review. Full audit trails mean you can see exactly what was done, why, and when.\r\n\r\nMost AI automation breaks down at the ERP integration layer. Korso's orchestration is built for the messiness of real manufacturing systems, with long-running workflows that span weeks and checkpointing that never loses progress.\r\n\r\nInstead of replacing your systems, Korso makes them work harder, so your team spends less time on coordination and more time on the work that actually matters.",
+    "one_liner": "The Intelligence Layer for Manufacturing.",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B -> Operations",
+    "launched_at": 1773339255,
+    "tags": [
+      "Artificial Intelligence",
+      "SaaS",
+      "Manufacturing"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Operations"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": true,
+    "url": "https://www.ycombinator.com/companies/korso",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/korso.json"
   },
   {
     "id": 31329,
@@ -40294,6 +40241,46 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/modern",
     "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/modern.json"
+  },
+  {
+    "id": 31546,
+    "name": "ReasonBlocks",
+    "slug": "reasonblocks",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d73e9cbe0885e3d783faf674783100f13336068b.png",
+    "website": "https://reasonblocks.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "ReasonBlocks makes AI agents more accurate and cheaper by catching failures mid-run and compounding reasoning patterns across every agent you deploy. Plugs into your existing agent stack in minutes and starts improving results from the first call.",
+    "one_liner": "Infra layer for smarter and cheaper AI agents",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1777282713,
+    "tags": [
+      "Artificial Intelligence",
+      "SaaS",
+      "B2B"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/reasonblocks",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/reasonblocks.json"
   },
   {
     "id": 31550,
