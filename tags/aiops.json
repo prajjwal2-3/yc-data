@@ -1670,8 +1670,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6dc8136429eadec250bda86f1102143f81a24beb.png",
     "website": "https://pipeshift.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Pipeshift helps engineering teams run real-time inference in production. We offer optimized runtimes to hit latency/throughput SLAs, paired with infrastructure orchestration that auto-scales and routes workloads across clusters and regions.",
-    "one_liner": "Inference for real-time production workloads",
+    "long_description": "Pipeshift helps engineering teams run real-time inference in production. We offer optimized runtimes to meet latency/throughput SLAs, paired with infrastructure orchestration that auto-scales and routes workloads across clusters and regions at cost-effective rates.",
+    "one_liner": "Inference for real-time agents",
     "team_size": 10,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
@@ -1679,9 +1679,9 @@
     "tags": [
       "AIOps",
       "Artificial Intelligence",
-      "Generative AI",
       "Infrastructure",
-      "AI"
+      "AI",
+      "ML"
     ],
     "tags_highlighted": [],
     "top_company": false,

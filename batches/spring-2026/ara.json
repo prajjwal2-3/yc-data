@@ -7,18 +7,14 @@
   ],
   "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/709b77ff2570af190d17b38705c6aa58eb3a15cf.png",
   "website": "https://ara.so",
-  "all_locations": "San Francisco, CA, USA",
-  "long_description": "Ara is building the fastest personal AI agent computing environment that works for you 24/7.\r\nUsers get instant cloud runtimes to run agents like OpenClaw in isolated environments, letting them organize files, send emails, and handle day-to-day tasks automatically.",
-  "one_liner": "personal ai cloud computing for everyone",
+  "all_locations": "",
+  "long_description": "Ara is building the fastest personal AI agent computing environment that works for you 24/7.\r\n\r\nUsers get a real deployed site on their FIRST message in around 30s. Reducing the friction to personal software to absolute 0. ",
+  "one_liner": "Worlds fastest website builder in your sms",
   "team_size": 2,
   "industry": "Consumer",
   "subindustry": "Consumer",
   "launched_at": 1775160352,
-  "tags": [
-    "Artificial Intelligence",
-    "Developer Tools",
-    "Consumer"
-  ],
+  "tags": [],
   "tags_highlighted": [],
   "top_company": false,
   "isHiring": false,
@@ -29,8 +25,7 @@
     "Consumer"
   ],
   "regions": [
-    "United States of America",
-    "America / Canada"
+    "Unspecified"
   ],
   "stage": "Early",
   "app_video_public": false,

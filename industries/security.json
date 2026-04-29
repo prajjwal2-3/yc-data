@@ -3409,7 +3409,7 @@
       "Quack AI",
       "Sourcepulse"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/62a16a2a0e7732cc2efaa618bbcef991bf7a255b.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/bd215af97ab581709a04ff6284c6091f29c2058e.png",
     "website": "https://rimward.ai/",
     "all_locations": "Paris, Île-de-France, France",
     "long_description": "Rimward helps operators of solar farms and other remote outdoor infrastructure detect intrusions from existing camera networks. We turn existing CCTV into operator-ready alerts with video verification, so security teams can reduce false alarms, respond faster, and avoid heavy hardware retrofits.\r\n\r\nWe are focused on sites where recurring theft, perimeter intrusion, and low staffing make traditional monitoring noisy and operationally weak. Our approach is software-heavy, field-oriented, and built to work with real site constraints.",
@@ -3942,7 +3942,7 @@
     "tags": [],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2025",
     "status": "Active",
@@ -4438,14 +4438,14 @@
     "all_locations": "New York, NY, USA",
     "long_description": "Right now, someone could look up your employees online, craft a perfect phishing email using what they find, and get into your systems by lunch. Or just call your help desk and pretend to be a new hire. No malware. No exploit. Just a conversation.\r\n\r\nGhostEye does this first. We continuously map your employees' real-world exposure the same way a threat actor would, then automatically generate and launch personalized phishing attacks, scam calls, texts, and deepfakes to test them before the real thing hits. Every attack is unique because every employee's exposure is unique.\r\n\r\nQuantified human risk scores that track over time. Employees shown exactly how they were compromised. Not a training platform. A security tool.\r\n\r\n",
     "one_liner": "Vulnerability Management for the Human Layer ",
-    "team_size": 2,
+    "team_size": 5,
     "industry": "B2B",
     "subindustry": "B2B -> Security",
     "launched_at": 1753230986,
     "tags": [
-      "Artificial Intelligence",
       "B2B",
-      "Cybersecurity"
+      "Cybersecurity",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -4785,7 +4785,7 @@
       "Anytool"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/814cf30167622bfb5c6d35815a24f51d91529f3b.png",
-    "website": "https://hex.co",
+    "website": "https://hex.co?utm_source=bookface&utm_medium=referral&utm_campaign=hex-security-profile",
     "all_locations": "",
     "long_description": "Hex Security builds AI agents that run continuous penetration tests against your apps and infrastructure. Instead of a once-a-year penetration test, Hex Security's agents works 24/7 to find and verify critical vulnerabilities so you can prevent them before attackers.",
     "one_liner": "Agentic Offensive Security at Scale",

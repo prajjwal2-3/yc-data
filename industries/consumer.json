@@ -13525,8 +13525,8 @@
     "small_logo_thumb_url": "/company/thumb/missing.png",
     "website": "https://www.xberts.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Xberts is an online shopping community that helps people find the best daily deals, get money-saving tips from experts, win reward points for Free Gift Redemption and more. Millions of users have joined our community to explore and share special offers every day, which makes Xberts your go-to destination for online shopping!\r\n\r\nWe're an international startup company backed by leading investors from both Silicon Valley and Asia including Y Combinator, YCVC Fund, Plug&Play, AV Capital, M&S Partners, Monad Ventures, Dropbox's Early Employee, etc. In 2017, Xberts was recognized by Forbes as one of the \"Top10 Startups Using Tech to Change People's Lives in Asia\".\r\n\r\nFor more details, please visit our website at:  www.xberts.com",
-    "one_liner": "Xberts.com is a cross-border marketplace for hardware products. ",
+    "long_description": "A community-based marketplace to review, discover and shop global hardware products. ",
+    "one_liner": "Xberts.com is a community-based marketplace for global hardware…",
     "team_size": 50,
     "industry": "Consumer",
     "subindustry": "Consumer",
@@ -31438,8 +31438,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8c5177c13126141e3271facbae25104898deb0f7.png",
     "website": "https://egoai.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Ego AI is building Character AI + Roblox. Our conviction is that 3D embodiment, shared activities in games and AI imbued with human-like personalities will solve the existing problems of low-stakes, shallow and generic interactions that impact retention in consumer AI chat experiences.  \r\n\r\nWe’re fine-tuning a foundation model for characters to behave in human-like ways—indistinguishable from real people—and building a UGC platform around it to allow users to create, experience and form meaningful connections & mutual stories with these AI characters. On our platform, simworld, users will be able place the characters in a Stardew Valley style simulated town, where the AI characters will live, work and play, leading rich internal lives. Users who deepen bonds with these AI character friends can invite them out with them to Discord, Minecraft or even a Netflix-n-chill session.\r\n\r\nOur Character engine, ego AI, built on top of Unreal, will allow users to create, deploy and even monetize their characters across any surface that supports our CCProtocol. The first use case for our characters will likely be DnD-style roleplay, Minecraft RP, and Twitch streaming. \r\n\r\nCharacters will always live and exist in Simtowns with other AIs (and humans) where they will all lead varied internal lives replete with conflict, danger, opportunity, and love…just like humans in the real world!\r\n\r\nDuring YC, we used our engine to build TownWorld - a 3D interactive Twitch live stream of the Stanford generative agents paper (https://www.twitch.tv/townworld). To the best of our knowledge, it's the first ever AI 3D simulation of a small town in real time\r\n\r\nYC Launch - https://www.ycombinator.com/launches/KeD-ego-an-ai-native-3d-simulation-engine-getting-us-closer-to-the-matrix-one-pixel-at-a-time\r\n\r\nDemo video: https://docsend.com/view/mzf6i7kiwkkgg669\r\n\r\nAI 3D TownWorld video: https://docsend.com/view/ig6t2shuz26z7wha",
-    "one_liner": "Character AI + Roblox :persistent, sapient AI characters in 3D worlds ",
+    "long_description": "we are making AI feel more human starting with voice. ai applied research lab training a novel end-to-end model & productizing what makes AI more personal, persistent, and human. frontier AI, like Claude and ChatGPT, are weak on memory, personality, relationship, and human-like interaction...that's our domain.",
+    "one_liner": "AI applied research lab building synthetic sapience; human-like AI",
     "team_size": 9,
     "industry": "Consumer",
     "subindustry": "Consumer",
@@ -31447,7 +31447,6 @@
     "tags": [
       "Artificial Intelligence",
       "Consumer",
-      "Gaming",
       "AI",
       "Conversational AI"
     ],
@@ -32431,7 +32430,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2024",
     "status": "Active",
@@ -36341,18 +36340,14 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/709b77ff2570af190d17b38705c6aa58eb3a15cf.png",
     "website": "https://ara.so",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Ara is building the fastest personal AI agent computing environment that works for you 24/7.\r\nUsers get instant cloud runtimes to run agents like OpenClaw in isolated environments, letting them organize files, send emails, and handle day-to-day tasks automatically.",
-    "one_liner": "personal ai cloud computing for everyone",
+    "all_locations": "",
+    "long_description": "Ara is building the fastest personal AI agent computing environment that works for you 24/7.\r\n\r\nUsers get a real deployed site on their FIRST message in around 30s. Reducing the friction to personal software to absolute 0. ",
+    "one_liner": "Worlds fastest website builder in your sms",
     "team_size": 2,
     "industry": "Consumer",
     "subindustry": "Consumer",
     "launched_at": 1775160352,
-    "tags": [
-      "Artificial Intelligence",
-      "Developer Tools",
-      "Consumer"
-    ],
+    "tags": [],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": false,
@@ -36363,8 +36358,7 @@
       "Consumer"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "Unspecified"
     ],
     "stage": "Early",
     "app_video_public": false,

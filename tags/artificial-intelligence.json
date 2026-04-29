@@ -7864,7 +7864,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7da2309b02d5990f41bbcc5b3695e3e028b38c7f.png",
     "website": "https://true3d.com/",
     "all_locations": "New York, NY, USA",
-    "long_description": "We build immersive video models for domes, giant screens, and VR headsets",
+    "long_description": "We build AI models that convert standard video into immersive 3D for domes, giant screens, and VR headsets without reshoots.",
     "one_liner": "AI that expands any video to fit any screen.",
     "team_size": 4,
     "industry": "B2B",
@@ -14470,10 +14470,10 @@
       "Hostfi",
       "Accountable"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b43ecf0808f334d17e126970a590f4a2bbc9c662.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/14b168ed501ea557559382e4424055d43c1f293a.png",
     "website": "https://atlaswork.ai",
     "all_locations": "New York, NY, USA; Remote",
-    "long_description": "Send any document. Atlas detects fields, pre-fills data, and returns a signable link in one API call. No templates, no manual setup. Atlas gets smarter with every doc. The next deal with the same company prefills itself.",
+    "long_description": "Send any document. Atlas detects fields, pre-fills data, and returns a signable link in one API call. No templates, no manual setup. ",
     "one_liner": "E-Sign API for AI Agents",
     "team_size": 2,
     "industry": "B2B",
@@ -21645,8 +21645,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8c5177c13126141e3271facbae25104898deb0f7.png",
     "website": "https://egoai.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Ego AI is building Character AI + Roblox. Our conviction is that 3D embodiment, shared activities in games and AI imbued with human-like personalities will solve the existing problems of low-stakes, shallow and generic interactions that impact retention in consumer AI chat experiences.  \r\n\r\nWe’re fine-tuning a foundation model for characters to behave in human-like ways—indistinguishable from real people—and building a UGC platform around it to allow users to create, experience and form meaningful connections & mutual stories with these AI characters. On our platform, simworld, users will be able place the characters in a Stardew Valley style simulated town, where the AI characters will live, work and play, leading rich internal lives. Users who deepen bonds with these AI character friends can invite them out with them to Discord, Minecraft or even a Netflix-n-chill session.\r\n\r\nOur Character engine, ego AI, built on top of Unreal, will allow users to create, deploy and even monetize their characters across any surface that supports our CCProtocol. The first use case for our characters will likely be DnD-style roleplay, Minecraft RP, and Twitch streaming. \r\n\r\nCharacters will always live and exist in Simtowns with other AIs (and humans) where they will all lead varied internal lives replete with conflict, danger, opportunity, and love…just like humans in the real world!\r\n\r\nDuring YC, we used our engine to build TownWorld - a 3D interactive Twitch live stream of the Stanford generative agents paper (https://www.twitch.tv/townworld). To the best of our knowledge, it's the first ever AI 3D simulation of a small town in real time\r\n\r\nYC Launch - https://www.ycombinator.com/launches/KeD-ego-an-ai-native-3d-simulation-engine-getting-us-closer-to-the-matrix-one-pixel-at-a-time\r\n\r\nDemo video: https://docsend.com/view/mzf6i7kiwkkgg669\r\n\r\nAI 3D TownWorld video: https://docsend.com/view/ig6t2shuz26z7wha",
-    "one_liner": "Character AI + Roblox :persistent, sapient AI characters in 3D worlds ",
+    "long_description": "we are making AI feel more human starting with voice. ai applied research lab training a novel end-to-end model & productizing what makes AI more personal, persistent, and human. frontier AI, like Claude and ChatGPT, are weak on memory, personality, relationship, and human-like interaction...that's our domain.",
+    "one_liner": "AI applied research lab building synthetic sapience; human-like AI",
     "team_size": 9,
     "industry": "Consumer",
     "subindustry": "Consumer",
@@ -21654,7 +21654,6 @@
     "tags": [
       "Artificial Intelligence",
       "Consumer",
-      "Gaming",
       "AI",
       "Conversational AI"
     ],
@@ -22464,6 +22463,51 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/arini",
     "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2024/arini.json"
+  },
+  {
+    "id": 29296,
+    "name": "Simplex",
+    "slug": "simplex",
+    "former_names": [
+      "Simplex",
+      "Pansimulate"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/556d5a66ef0386d859db3ad9f500ceeadf756032.png",
+    "website": "https://simplex.sh",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Simplex is an API to submit prior authorizations. AI-native health clinics integrate us with their clinical data layer to get GLP-1s, ADHD medication, and more approved by health insurance.",
+    "one_liner": "API to submit prior authorizations",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1723709594,
+    "tags": [
+      "Artificial Intelligence",
+      "Machine Learning",
+      "Robotic Process Automation",
+      "B2B"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2024",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/simplex",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2024/simplex.json"
   },
   {
     "id": 29297,
@@ -24502,12 +24546,12 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c0856f230de1a84be083cff84a3298664d32f0a3.png",
     "website": "https://retellai.com",
-    "all_locations": "",
+    "all_locations": "Redwood City, CA, USA",
     "long_description": "The leading platform for building and managing AI voice agents that revolutionize contact center operations.",
     "one_liner": "Supercharge Your Contact Center Operations with AI Phone Agents",
-    "team_size": 30,
+    "team_size": 40,
     "industry": "B2B",
-    "subindustry": "B2B -> Infrastructure",
+    "subindustry": "B2B",
     "launched_at": 1700513197,
     "tags": [
       "Artificial Intelligence",
@@ -24520,11 +24564,11 @@
     "batch": "Winter 2024",
     "status": "Active",
     "industries": [
-      "B2B",
-      "Infrastructure"
+      "B2B"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -25051,7 +25095,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2024",
     "status": "Active",
@@ -28747,8 +28791,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6dc8136429eadec250bda86f1102143f81a24beb.png",
     "website": "https://pipeshift.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Pipeshift helps engineering teams run real-time inference in production. We offer optimized runtimes to hit latency/throughput SLAs, paired with infrastructure orchestration that auto-scales and routes workloads across clusters and regions.",
-    "one_liner": "Inference for real-time production workloads",
+    "long_description": "Pipeshift helps engineering teams run real-time inference in production. We offer optimized runtimes to meet latency/throughput SLAs, paired with infrastructure orchestration that auto-scales and routes workloads across clusters and regions at cost-effective rates.",
+    "one_liner": "Inference for real-time agents",
     "team_size": 10,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
@@ -28756,9 +28800,9 @@
     "tags": [
       "AIOps",
       "Artificial Intelligence",
-      "Generative AI",
       "Infrastructure",
-      "AI"
+      "AI",
+      "ML"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -31214,6 +31258,53 @@
     "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2025/osmosis.json"
   },
   {
+    "id": 30250,
+    "name": "10x",
+    "slug": "10x",
+    "former_names": [
+      "GradeWIz",
+      "Gradewiz",
+      "GradeWiz",
+      "GradeWIz",
+      "GradeWiz"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ba966c23157e18273203c5a895b88637e3e4b8e0.png",
+    "website": "https://www.10xdental.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "10x helps dental practices turn missed revenue opportunities into booked appointments. We connect to a practice’s patient database, identify overdue recalls, lapsed patients, and unscheduled treatment plans, then use AI calling and texting to bring those patients back into the chair.",
+    "one_liner": "AI Sales Teams for Dental Practices",
+    "team_size": 2,
+    "industry": "Healthcare",
+    "subindustry": "Healthcare",
+    "launched_at": 1736138044,
+    "tags": [
+      "Artificial Intelligence",
+      "SaaS",
+      "B2B",
+      "Dental"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2025",
+    "status": "Active",
+    "industries": [
+      "Healthcare"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/10x",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2025/10x.json"
+  },
+  {
     "id": 30251,
     "name": "Mecha Health",
     "slug": "mecha-health",
@@ -32373,7 +32464,7 @@
     "name": "TamLabs",
     "slug": "tamlabs",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a12bc3e49320bd460e7131075a5795180751227a.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/34b8a98c2f9db316565bd733e8ce6e18bca1bb3b.png",
     "website": "https://tamlabs.ai",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "TamLabs is an applied research lab redesigning how knowledge work gets done.",
@@ -35640,47 +35731,6 @@
     "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2025/channel3.json"
   },
   {
-    "id": 30696,
-    "name": "GhostEye",
-    "slug": "ghosteye",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/81ba9326d1d371675b429c97e982da02b3d22b88.png",
-    "website": "https://ghosteye.ai",
-    "all_locations": "New York, NY, USA",
-    "long_description": "Right now, someone could look up your employees online, craft a perfect phishing email using what they find, and get into your systems by lunch. Or just call your help desk and pretend to be a new hire. No malware. No exploit. Just a conversation.\r\n\r\nGhostEye does this first. We continuously map your employees' real-world exposure the same way a threat actor would, then automatically generate and launch personalized phishing attacks, scam calls, texts, and deepfakes to test them before the real thing hits. Every attack is unique because every employee's exposure is unique.\r\n\r\nQuantified human risk scores that track over time. Employees shown exactly how they were compromised. Not a training platform. A security tool.\r\n\r\n",
-    "one_liner": "Vulnerability Management for the Human Layer ",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Security",
-    "launched_at": 1753230986,
-    "tags": [
-      "Artificial Intelligence",
-      "B2B",
-      "Cybersecurity"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Summer 2025",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Security"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/ghosteye",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2025/ghosteye.json"
-  },
-  {
     "id": 30697,
     "name": "Normal",
     "slug": "normal",
@@ -37034,49 +37084,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/the-context-company",
     "api": "https://prajjwal2-3.github.io/yc-data/batches/fall-2025/the-context-company.json"
-  },
-  {
-    "id": 30867,
-    "name": "Soren",
-    "slug": "soren",
-    "former_names": [
-      "Remediate"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/66adc42c53024ebb1bfc81c3de3961890ae2b2a8.png",
-    "website": "https://soren-ai.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Soren develops private AI infrastructure for teams in regulated industries. We make it possible for organizations to adopt modern AI without worrying about data privacy or security.",
-    "one_liner": "Private AI for Regulated Industries",
-    "team_size": 1,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1759390917,
-    "tags": [
-      "Artificial Intelligence",
-      "Finance",
-      "B2B",
-      "Enterprise"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Fall 2025",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/soren",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/fall-2025/soren.json"
   },
   {
     "id": 30868,
@@ -39777,48 +39784,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/mount",
     "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/mount.json"
-  },
-  {
-    "id": 31458,
-    "name": "Ara",
-    "slug": "ara",
-    "former_names": [
-      "EasyClaw"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/709b77ff2570af190d17b38705c6aa58eb3a15cf.png",
-    "website": "https://ara.so",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Ara is building the fastest personal AI agent computing environment that works for you 24/7.\r\nUsers get instant cloud runtimes to run agents like OpenClaw in isolated environments, letting them organize files, send emails, and handle day-to-day tasks automatically.",
-    "one_liner": "personal ai cloud computing for everyone",
-    "team_size": 2,
-    "industry": "Consumer",
-    "subindustry": "Consumer",
-    "launched_at": 1775160352,
-    "tags": [
-      "Artificial Intelligence",
-      "Developer Tools",
-      "Consumer"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Spring 2026",
-    "status": "Active",
-    "industries": [
-      "Consumer"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/ara",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/ara.json"
   },
   {
     "id": 31473,

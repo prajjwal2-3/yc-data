@@ -928,7 +928,7 @@
     "tags": [],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2025",
     "status": "Active",
@@ -3152,27 +3152,29 @@
   },
   {
     "id": 30250,
-    "name": "GradeWiz",
-    "slug": "gradewiz",
+    "name": "10x",
+    "slug": "10x",
     "former_names": [
       "GradeWIz",
       "Gradewiz",
       "GradeWiz",
-      "GradeWIz"
+      "GradeWIz",
+      "GradeWiz"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/457b05762957fe3db28fe1457bc145653e7ee436.png",
-    "website": "https://www.gradewiz.ai/",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ba966c23157e18273203c5a895b88637e3e4b8e0.png",
+    "website": "https://www.10xdental.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "GradeWiz is an AI assistant that helps educators create rubrics, grade student work and give detailed feedback on handwritten worksheets and tests, saving 4+ hrs a week\r\n\r\n",
-    "one_liner": "AI Grading for Teachers",
+    "long_description": "10x helps dental practices turn missed revenue opportunities into booked appointments. We connect to a practice’s patient database, identify overdue recalls, lapsed patients, and unscheduled treatment plans, then use AI calling and texting to bring those patients back into the chair.",
+    "one_liner": "AI Sales Teams for Dental Practices",
     "team_size": 2,
-    "industry": "Education",
-    "subindustry": "Education",
+    "industry": "Healthcare",
+    "subindustry": "Healthcare",
     "launched_at": 1736138044,
     "tags": [
-      "AI-Enhanced Learning",
-      "Edtech",
-      "AI"
+      "Artificial Intelligence",
+      "SaaS",
+      "B2B",
+      "Dental"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -3181,7 +3183,7 @@
     "batch": "Winter 2025",
     "status": "Active",
     "industries": [
-      "Education"
+      "Healthcare"
     ],
     "regions": [
       "United States of America",
@@ -3192,8 +3194,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/gradewiz",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2025/gradewiz.json"
+    "url": "https://www.ycombinator.com/companies/10x",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2025/10x.json"
   },
   {
     "id": 30251,
@@ -6240,7 +6242,7 @@
     "name": "TamLabs",
     "slug": "tamlabs",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a12bc3e49320bd460e7131075a5795180751227a.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/34b8a98c2f9db316565bd733e8ce6e18bca1bb3b.png",
     "website": "https://tamlabs.ai",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "TamLabs is an applied research lab redesigning how knowledge work gets done.",

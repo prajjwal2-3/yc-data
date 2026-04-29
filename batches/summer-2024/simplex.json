@@ -9,17 +9,17 @@
   "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/556d5a66ef0386d859db3ad9f500ceeadf756032.png",
   "website": "https://simplex.sh",
   "all_locations": "San Francisco, CA, USA",
-  "long_description": "Simplex is browser automation infrastructure built for health tech companies. Automate prior auth, enrollment, intake, claims, and more on provider/payer portals. ",
-  "one_liner": "Browser automation infrastructure for health tech companies",
+  "long_description": "Simplex is an API to submit prior authorizations. AI-native health clinics integrate us with their clinical data layer to get GLP-1s, ADHD medication, and more approved by health insurance.",
+  "one_liner": "API to submit prior authorizations",
   "team_size": 2,
   "industry": "B2B",
   "subindustry": "B2B -> Engineering, Product and Design",
   "launched_at": 1723709594,
   "tags": [
+    "Artificial Intelligence",
     "Machine Learning",
     "Robotic Process Automation",
-    "B2B",
-    "AI"
+    "B2B"
   ],
   "tags_highlighted": [],
   "top_company": false,

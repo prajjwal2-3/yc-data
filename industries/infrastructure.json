@@ -4524,7 +4524,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7da2309b02d5990f41bbcc5b3695e3e028b38c7f.png",
     "website": "https://true3d.com/",
     "all_locations": "New York, NY, USA",
-    "long_description": "We build immersive video models for domes, giant screens, and VR headsets",
+    "long_description": "We build AI models that convert standard video into immersive 3D for domes, giant screens, and VR headsets without reshoots.",
     "one_liner": "AI that expands any video to fit any screen.",
     "team_size": 4,
     "industry": "B2B",
@@ -8585,47 +8585,6 @@
     "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2024/downlink.json"
   },
   {
-    "id": 29441,
-    "name": "Retell AI",
-    "slug": "retell-ai",
-    "former_names": [
-      "Adam Translate"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c0856f230de1a84be083cff84a3298664d32f0a3.png",
-    "website": "https://retellai.com",
-    "all_locations": "",
-    "long_description": "The leading platform for building and managing AI voice agents that revolutionize contact center operations.",
-    "one_liner": "Supercharge Your Contact Center Operations with AI Phone Agents",
-    "team_size": 30,
-    "industry": "B2B",
-    "subindustry": "B2B -> Infrastructure",
-    "launched_at": 1700513197,
-    "tags": [
-      "Artificial Intelligence",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Winter 2024",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Infrastructure"
-    ],
-    "regions": [
-      "Unspecified"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/retell-ai",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2024/retell-ai.json"
-  },
-  {
     "id": 29509,
     "name": "Blacksmith",
     "slug": "blacksmith",
@@ -9059,8 +9018,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6dc8136429eadec250bda86f1102143f81a24beb.png",
     "website": "https://pipeshift.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Pipeshift helps engineering teams run real-time inference in production. We offer optimized runtimes to hit latency/throughput SLAs, paired with infrastructure orchestration that auto-scales and routes workloads across clusters and regions.",
-    "one_liner": "Inference for real-time production workloads",
+    "long_description": "Pipeshift helps engineering teams run real-time inference in production. We offer optimized runtimes to meet latency/throughput SLAs, paired with infrastructure orchestration that auto-scales and routes workloads across clusters and regions at cost-effective rates.",
+    "one_liner": "Inference for real-time agents",
     "team_size": 10,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
@@ -9068,9 +9027,9 @@
     "tags": [
       "AIOps",
       "Artificial Intelligence",
-      "Generative AI",
       "Infrastructure",
-      "AI"
+      "AI",
+      "ML"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -10919,7 +10878,7 @@
     "tags": [],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Fall 2025",
     "status": "Active",
@@ -11213,17 +11172,17 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/cfbd3640d376f89f668901f7449636b7f882fdb6.png",
     "website": "https://pirislabs.io/",
-    "all_locations": "",
+    "all_locations": "San Francisco, CA, USA",
     "long_description": "Piris Labs offers a full-stack inference service that eliminates the AI data movement bottleneck. By pairing proprietary photonic hardware with a vertically optimized software stack, we minimize the \"memory wall\" associated with expensive GPUs. This allows us to deliver the same performance as traditional clusters at a fraction of the cost. Our technology improves effective FLOP utilization and reduces latency, finally making the unit economics of trillion-parameter models sustainable. Founded by a team of MIT physicists and Meta AI experts.",
-    "one_liner": "Cerebras-speed inference but scalable",
-    "team_size": 2,
+    "one_liner": "Inference at Light Speed",
+    "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1770857008,
     "tags": [],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Winter 2026",
     "status": "Active",
@@ -11232,7 +11191,8 @@
       "Infrastructure"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
