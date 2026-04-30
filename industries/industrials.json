@@ -6378,7 +6378,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Winter 2021",
     "status": "Active",
@@ -11957,7 +11957,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Winter 2025",
     "status": "Active",
@@ -14433,7 +14433,7 @@
     "tags": [],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Winter 2026",
     "status": "Active",
@@ -15098,6 +15098,47 @@
     "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2026/squid.json"
   },
   {
+    "id": 31261,
+    "name": "Control Seat",
+    "slug": "control-seat",
+    "former_names": [
+      "C42"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c9fbf6b23216653c383d7f0caea2def1b673a3a5.png",
+    "website": "https://www.controlseat.com",
+    "all_locations": "",
+    "long_description": "",
+    "one_liner": "Control and Monitoring of Industrial Operations",
+    "team_size": 2,
+    "industry": "Industrials",
+    "subindustry": "Industrials",
+    "launched_at": 1777448165,
+    "tags": [
+      "Workflow Automation",
+      "Monitoring",
+      "Industrial"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "Industrials"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/control-seat",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2026/control-seat.json"
+  },
+  {
     "id": 31284,
     "name": "Origami Robotics",
     "slug": "origami-robotics",
@@ -15582,6 +15623,46 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/eden-robotics",
     "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/eden-robotics.json"
+  },
+  {
+    "id": 31560,
+    "name": "Intelligence Factory",
+    "slug": "intelligence-factory",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/30c1f1fb7356289878fa2341c0a20700f178fbcf.png",
+    "website": "https://intelligence-factory.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Robotics is the new paradigm. With hardware converging, Intelligence is the biggest bottleneck. Our world was built for humans and we're giving robots the ability to reason and act like us. \r\n\r\nThe way we learn any task - by seeing, doing, and feeling - is how we train robots. We're building general intelligence that works on any robot and fits seamlessly within our world.",
+    "one_liner": "Human Intelligence for Robots",
+    "team_size": 5,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Manufacturing and Robotics",
+    "launched_at": 1777499618,
+    "tags": [
+      "Robotics",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Manufacturing and Robotics"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/intelligence-factory",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/intelligence-factory.json"
   },
   {
     "id": 31561,

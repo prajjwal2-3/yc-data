@@ -2767,8 +2767,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7522b24d3853d0b79cebe72798f4a3a33c54ac27.png",
     "website": "https://www.stably.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Stably AI auto-writes, runs, and maintains end-to-end tests directly in your CI, guarding every pull‑request and production release—no flakiness, no test maintenance.\r\n\r\nHundreds of modern engineering orgs already use Stably to merge code in minutes, replace brittle Playwright/Cypress suites, and slash QA spend by up to 80%.\r\n\r\nStably offers\r\n- AI-generated test flows that mirror real user journeys.\r\n- Diff-aware execution—only tests affected by your change run, so CI stays under five minutes.\r\n- Automatic selector & assertion healing when your UI shifts, keeping the suite green.\r\n- Plain‑English editor letting PMs and QAs add tests without writing code.\r\n- One‑click GitHub App or API for instant pipeline integration.",
-    "one_liner": "AI Testing that Writes, Runs & Maintains Tests for Every PR & Release",
+    "long_description": "We build devtools. Orca is an open-source Cursor—a local-first AI coding environment. Stably is our AI testing platform that writes, runs, and maintains E2E tests in CI.                                                                      \r\n                                    \r\nDevelopers use Orca and Stably to ship faster with more control—coding with their own AI setup and merging with confidence in minutes.",
+    "one_liner": "Makers of Orca (OSS Cursor) and Stably (AI testing platform)",
     "team_size": 8,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -5466,7 +5466,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -11430,17 +11430,17 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3fe5c2be7e2aa0778e285c356dcedd5751eb0f3d.png",
     "website": "https://courtyard.io",
-    "all_locations": "San Francisco, CA, USA; Remote",
-    "long_description": "Courtyard.io (YC W’22) is a marketplace and tokenization service that enables anyone to easily own and trade physical collectibles on the blockchain, unlocking greater transparency, liquidity, and a powerful new form of ownership. For vaulting, we’re partnered with Brink’s – one of the global leaders in security and logistics. We’re currently focused on graded cards, and offer a variety of slab Vending Machines along with curated mystery pack Drops to provide a fun, fair, and transparent way for enthusiasts and new collectors alike to grow their collections.",
-    "one_liner": "A frictionless, safe, and fun experience to invest in collectibles",
-    "team_size": 80,
-    "industry": "Fintech",
-    "subindustry": "Fintech -> Asset Management",
+    "all_locations": "New York, NY, USA",
+    "long_description": "Courtyard.io (YC W’22) turns shopping into entertainment. Open digital packs to instantly reveal physical trading cards, comics, watches, and more. Keep what you love – securely vaulted, insured, and ready to ship – or sell back instantly at a guaranteed price. Expanding across new collectibles, fashion, and beyond, Courtyard is pioneering a new model of shopping where entertainment drives demand and liquidity backs every purchase.",
+    "one_liner": "Courtyard turns shopping into entertainment with instant liquidity",
+    "team_size": 90,
+    "industry": "Consumer",
+    "subindustry": "Consumer",
     "launched_at": 1642471735,
     "tags": [
       "Marketplace",
-      "Sports Tech",
-      "Consumer"
+      "Consumer",
+      "E-commerce"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -11449,16 +11449,15 @@
     "batch": "Winter 2022",
     "status": "Active",
     "industries": [
-      "Fintech",
-      "Asset Management"
+      "Consumer"
     ],
     "regions": [
       "United States of America",
       "America / Canada",
       "Remote",
-      "Fully Remote"
+      "Partly Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,

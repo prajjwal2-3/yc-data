@@ -16216,7 +16216,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Winter 2023",
     "status": "Active",
@@ -21685,7 +21685,7 @@
     "former_names": [
       "Onboard AI"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c2b36d17df23b1b97acf8da329ffce929fa129ce.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/16a991d8af835ae196b30e656796c7aa6805c9d1.png",
     "website": "https://www.greptile.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Greptile reviews pull requests with full context of the codebase. \r\n\r\nTop YC companies like PostHog, Raycast, Vouch, Podium, and YC's own internal software team use Greptile to review millions of changes every week. \r\n\r\nWhen companies start using Greptile, they catch more bugs and merge PRs 4x faster, on average\r\n\r\nGreptile can be used via the cloud, or be hosted 100% on your cloud in an air-gapped VPC.",
@@ -22941,6 +22941,54 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/speck",
     "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2024/speck.json"
+  },
+  {
+    "id": 29332,
+    "name": "Polished",
+    "slug": "polished",
+    "former_names": [
+      "Double",
+      "Pillar"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b6b130da6813f93f556cf04be9132b6ba506b4fc.png",
+    "website": "https://polished.ad",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "With Polished, you create finished ads (video or static) in minutes.\r\nThen you refine it in plain English, until it's exactly what you had in mind.",
+    "one_liner": "Generate ads. Iterate till perfect.",
+    "team_size": null,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1701750687,
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "SaaS",
+      "B2B",
+      "Advertising"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2024",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/polished",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2024/polished.json"
   },
   {
     "id": 29334,
@@ -29878,25 +29926,26 @@
   },
   {
     "id": 30101,
-    "name": "BrowserBook",
-    "slug": "browserbook",
+    "name": "Kilvin",
+    "slug": "kilvin",
     "former_names": [
-      "Chorrie"
+      "Chorrie",
+      "BrowserBook"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6a865085a8c1bba663b682273cb6897a7a4f4686.png",
-    "website": "https://www.browserbook.com",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/32467b13d36c9fed6c944cbb62eed3f24594bf45.png",
+    "website": "https://www.kilvin.ai",
     "all_locations": "New York, NY, USA",
-    "long_description": "BrowserBook makes it easy to reliably automate the web. It's a Jupyter-style IDE for browser automation that combines a live browser, executable code cells, and an AI coding assistant to generate Playwright scripts that are deterministic by default. Developers use BrowserBook to build, debug, and deploy robust web automations, powering AI agents, QA workflows, and data operations.",
-    "one_liner": "The Browser Automation IDE",
+    "long_description": "Kilvin is an AI-native agency that builds custom software solutions for non-technical teams.\r\n\r\nWith AI, the future of software is democratized. Every team deserves tools built exactly for them, not off-the-shelf SaaS products they need to adapt to. Kilvin makes it a reality, delivering a private, secure workspace of custom applications, built around your workflows and ready in days, not months.\r\n\r\nNo engineers needed on your side. Just software that fits exactly how you work.",
+    "one_liner": "Custom software for non-technical teams.",
     "team_size": 3,
     "industry": "B2B",
-    "subindustry": "B2B -> Productivity",
+    "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1731609344,
     "tags": [
       "Artificial Intelligence",
       "Developer Tools",
-      "Robotic Process Automation",
-      "SaaS",
+      "Productivity",
+      "Data Engineering",
       "Automation"
     ],
     "tags_highlighted": [],
@@ -29907,7 +29956,7 @@
     "status": "Active",
     "industries": [
       "B2B",
-      "Productivity"
+      "Engineering, Product and Design"
     ],
     "regions": [
       "United States of America",
@@ -29920,8 +29969,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/browserbook",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/fall-2024/browserbook.json"
+    "url": "https://www.ycombinator.com/companies/kilvin",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/fall-2024/kilvin.json"
   },
   {
     "id": 30102,
@@ -39572,6 +39621,45 @@
     "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/sherpa.json"
   },
   {
+    "id": 31411,
+    "name": "Andco",
+    "slug": "andco",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c2a1952b4bf4f03f6e4d7c3a1bc30b3b97ba2619.png",
+    "website": "http://www.useandco.com",
+    "all_locations": "",
+    "long_description": "",
+    "one_liner": "End-to-end case workups for personal injury firms.",
+    "team_size": 0,
+    "industry": "B2B",
+    "subindustry": "B2B -> Legal",
+    "launched_at": 1777434223,
+    "tags": [
+      "Artificial Intelligence",
+      "Legal"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Legal"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/andco",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/andco.json"
+  },
+  {
     "id": 31419,
     "name": "StableBrowse",
     "slug": "stablebrowse",
@@ -39786,6 +39874,50 @@
     "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/mount.json"
   },
   {
+    "id": 31460,
+    "name": "PLAN0 AI",
+    "slug": "plan0-ai",
+    "former_names": [
+      "PLANO AI Inc."
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/abb178493b637223c4623f43b2c209131939af8e.png",
+    "website": "https://plan0.ai/",
+    "all_locations": "",
+    "long_description": "PLAN0 is an AI-powered preconstruction cost intelligence platform serving real estate developers, general contractors, and investors. We analyze architectural plans using computer vision AI models trained on tens of thousands of examples to generate detailed, industry standard cost estimates in 30 minutes vs. 2+ weeks traditionally.\r\n\r\nThe platform is also building a proprietary database of real-time localized cost data that feed its analytics and forecasting tools. Using quant finance inspired deep neural networks, PLAN0 can decompose construction costs in market observable factors to predict all local trade level costs up to 24 months out with high accuracy.\r\n\r\nThe vision is to develop the CoStar or Bloomberg of construction – a system of record and intelligence layer that allows real estate stakeholders to underwrite, design, and benchmark development projects with greater speed, precision, and confidence.",
+    "one_liner": "AI powered construction cost estimation & analytics.",
+    "team_size": 5,
+    "industry": "Real Estate and Construction",
+    "subindustry": "Real Estate and Construction",
+    "launched_at": 1777504379,
+    "tags": [
+      "Artificial Intelligence",
+      "Computer Vision",
+      "Real Estate",
+      "Construction",
+      "Proptech"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "Real Estate and Construction"
+    ],
+    "regions": [
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/plan0-ai",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/plan0-ai.json"
+  },
+  {
     "id": 31473,
     "name": "Kuli",
     "slug": "kuli",
@@ -39826,6 +39958,48 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/kuli",
     "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/kuli.json"
+  },
+  {
+    "id": 31481,
+    "name": "Saudara AI",
+    "slug": "saudara-ai",
+    "former_names": [
+      "Saudara AI Inc."
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1c4216679eb008bbc4571315894d674d507a751f.png",
+    "website": "https://saudara.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Saudara AI is an AI broker connecting American brands with vetted overseas factories. International sourcing is broken. We're fixing it.\r\n\r\nUS brands import over $3 trillion in goods every year and lose billions to ghost suppliers, hidden fees, and missed deadlines. The best factories sit behind decades-old relationships. We have them. Our AI handles the rest.\r\n\r\nA real broker on every deal, supercharged by AI. 10x faster, at a fraction of the cost. We are the on-ramp.",
+    "one_liner": "AI Broker Connecting American Brands With The World's Best Factories",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1774887463,
+    "tags": [
+      "Artificial Intelligence",
+      "B2B",
+      "Supply Chain"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/saudara-ai",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/saudara-ai.json"
   },
   {
     "id": 31489,
@@ -39954,86 +40128,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/projectx",
     "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/projectx.json"
-  },
-  {
-    "id": 31512,
-    "name": "Pentagon",
-    "slug": "pentagon",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/668fe720bcb2a436a1056efc2df9c0c22d5922cc.png",
-    "website": "https://pentagon.run",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Pentagon is a workspace for your AI employees to communicate, coordinate, and get work done as a team.",
-    "one_liner": "Your AI agents, working as a team.",
-    "team_size": 1,
-    "industry": "B2B",
-    "subindustry": "B2B -> Productivity",
-    "launched_at": 1775312221,
-    "tags": [
-      "Artificial Intelligence",
-      "Enterprise Software"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Spring 2026",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Productivity"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/pentagon",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/pentagon.json"
-  },
-  {
-    "id": 31518,
-    "name": "Runtime",
-    "slug": "runtime",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0fb7d11f60217eaded2ae0e96dbee3bf9ebcd68c.png",
-    "website": "https://www.runtm.com/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Runtime (runtm.com) gives engineering teams control and visibility to enable anyone in their org to use coding agents securely.\r\n\r\nEng leaders rolling out coding agents have no way to see what's happening, set boundaries, or safely let non-engineers use them. We provide sandboxed environments, session-level observability, and configurable guardrails so anyone on your team can ship with coding agents without breaking prod.\r\n\r\nWe're live with fast-growing YC scaleups empowering their Engineers, PMs, designers, marketers, and ops to contribute to their codebase or build prod-grade zero-to-one apps.",
-    "one_liner": "Let all your team ship safely with coding agents",
-    "team_size": 3,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1773951001,
-    "tags": [
-      "Artificial Intelligence",
-      "Developer Tools"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Spring 2026",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/runtime",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/runtime.json"
   },
   {
     "id": 31523,

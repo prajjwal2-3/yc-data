@@ -2813,25 +2813,26 @@
   },
   {
     "id": 30101,
-    "name": "BrowserBook",
-    "slug": "browserbook",
+    "name": "Kilvin",
+    "slug": "kilvin",
     "former_names": [
-      "Chorrie"
+      "Chorrie",
+      "BrowserBook"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6a865085a8c1bba663b682273cb6897a7a4f4686.png",
-    "website": "https://www.browserbook.com",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/32467b13d36c9fed6c944cbb62eed3f24594bf45.png",
+    "website": "https://www.kilvin.ai",
     "all_locations": "New York, NY, USA",
-    "long_description": "BrowserBook makes it easy to reliably automate the web. It's a Jupyter-style IDE for browser automation that combines a live browser, executable code cells, and an AI coding assistant to generate Playwright scripts that are deterministic by default. Developers use BrowserBook to build, debug, and deploy robust web automations, powering AI agents, QA workflows, and data operations.",
-    "one_liner": "The Browser Automation IDE",
+    "long_description": "Kilvin is an AI-native agency that builds custom software solutions for non-technical teams.\r\n\r\nWith AI, the future of software is democratized. Every team deserves tools built exactly for them, not off-the-shelf SaaS products they need to adapt to. Kilvin makes it a reality, delivering a private, secure workspace of custom applications, built around your workflows and ready in days, not months.\r\n\r\nNo engineers needed on your side. Just software that fits exactly how you work.",
+    "one_liner": "Custom software for non-technical teams.",
     "team_size": 3,
     "industry": "B2B",
-    "subindustry": "B2B -> Productivity",
+    "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1731609344,
     "tags": [
       "Artificial Intelligence",
       "Developer Tools",
-      "Robotic Process Automation",
-      "SaaS",
+      "Productivity",
+      "Data Engineering",
       "Automation"
     ],
     "tags_highlighted": [],
@@ -2842,7 +2843,7 @@
     "status": "Active",
     "industries": [
       "B2B",
-      "Productivity"
+      "Engineering, Product and Design"
     ],
     "regions": [
       "United States of America",
@@ -2855,8 +2856,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/browserbook",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/fall-2024/browserbook.json"
+    "url": "https://www.ycombinator.com/companies/kilvin",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/fall-2024/kilvin.json"
   },
   {
     "id": 30102,

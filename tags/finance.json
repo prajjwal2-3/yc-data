@@ -3791,6 +3791,92 @@
     "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/standard-signal.json"
   },
   {
+    "id": 31391,
+    "name": "HEVN, inc",
+    "slug": "hevn-inc",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9670403b854641364928ce34e110c0d9752c9d8d.png",
+    "website": "https://gethevn.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "HEVN is a b2b financial platform where international companies can run their business globally with USD.\r\n↓\r\n> Use USD cards with cashback and do not pay fees on converting local currency, by paying to Google/Meta ads\r\n\r\n> Pay/get paid in local currency via named accounts in EU, Hong Kong and UAE banks \r\n\r\n> (soon) store USD in FDIC-insured account in a US bank, even if your company does not have EIN",
+    "one_liner": "\"Brex\" for international companies",
+    "team_size": 4,
+    "industry": "Fintech",
+    "subindustry": "Fintech",
+    "launched_at": 1777498705,
+    "tags": [
+      "Finance",
+      "Consumer Finance",
+      "Neobank"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "Fintech"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/hevn-inc",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/hevn-inc.json"
+  },
+  {
+    "id": 31429,
+    "name": "Oddpool",
+    "slug": "oddpool",
+    "former_names": [
+      "Oddpool",
+      "Benchspan"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/cbb613ad9cc7cb217457623774de2039f44ba7d6.png",
+    "website": "https://www.oddpool.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "",
+    "one_liner": "Institutional data broker for prediction markets",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1773859660,
+    "tags": [
+      "Fintech",
+      "Finance",
+      "Analytics"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/oddpool",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/oddpool.json"
+  },
+  {
     "id": 31451,
     "name": "Archer",
     "slug": "archer",

@@ -9864,8 +9864,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7522b24d3853d0b79cebe72798f4a3a33c54ac27.png",
     "website": "https://www.stably.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Stably AI auto-writes, runs, and maintains end-to-end tests directly in your CI, guarding every pull‑request and production release—no flakiness, no test maintenance.\r\n\r\nHundreds of modern engineering orgs already use Stably to merge code in minutes, replace brittle Playwright/Cypress suites, and slash QA spend by up to 80%.\r\n\r\nStably offers\r\n- AI-generated test flows that mirror real user journeys.\r\n- Diff-aware execution—only tests affected by your change run, so CI stays under five minutes.\r\n- Automatic selector & assertion healing when your UI shifts, keeping the suite green.\r\n- Plain‑English editor letting PMs and QAs add tests without writing code.\r\n- One‑click GitHub App or API for instant pipeline integration.",
-    "one_liner": "AI Testing that Writes, Runs & Maintains Tests for Every PR & Release",
+    "long_description": "We build devtools. Orca is an open-source Cursor—a local-first AI coding environment. Stably is our AI testing platform that writes, runs, and maintains E2E tests in CI.                                                                      \r\n                                    \r\nDevelopers use Orca and Stably to ship faster with more control—coding with their own AI setup and merging with confidence in minutes.",
+    "one_liner": "Makers of Orca (OSS Cursor) and Stably (AI testing platform)",
     "team_size": 8,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -16255,7 +16255,7 @@
     "former_names": [
       "Onboard AI"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c2b36d17df23b1b97acf8da329ffce929fa129ce.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/16a991d8af835ae196b30e656796c7aa6805c9d1.png",
     "website": "https://www.greptile.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Greptile reviews pull requests with full context of the codebase. \r\n\r\nTop YC companies like PostHog, Raycast, Vouch, Podium, and YC's own internal software team use Greptile to review millions of changes every week. \r\n\r\nWhen companies start using Greptile, they catch more bugs and merge PRs 4x faster, on average\r\n\r\nGreptile can be used via the cloud, or be hosted 100% on your cloud in an air-gapped VPC.",
@@ -16731,25 +16731,27 @@
   },
   {
     "id": 29332,
-    "name": "Pillar",
-    "slug": "trypillar",
+    "name": "Polished",
+    "slug": "polished",
     "former_names": [
-      "Double"
+      "Double",
+      "Pillar"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3765a4b3a407691f524ffa2f1b9c994e62781a26.png",
-    "website": "https://trypillar.com/",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b6b130da6813f93f556cf04be9132b6ba506b4fc.png",
+    "website": "https://polished.ad",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Pillar is an open source copilot that turns user requests into completed actions, right inside your app.",
-    "one_liner": "Your App's Copilot",
+    "long_description": "With Polished, you create finished ads (video or static) in minutes.\r\nThen you refine it in plain English, until it's exactly what you had in mind.",
+    "one_liner": "Generate ads. Iterate till perfect.",
     "team_size": null,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1701750687,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "SaaS",
       "B2B",
-      "AI"
+      "Advertising"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -16772,8 +16774,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/trypillar",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2024/trypillar.json"
+    "url": "https://www.ycombinator.com/companies/polished",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2024/polished.json"
   },
   {
     "id": 29334,
@@ -19386,25 +19388,26 @@
   },
   {
     "id": 30101,
-    "name": "BrowserBook",
-    "slug": "browserbook",
+    "name": "Kilvin",
+    "slug": "kilvin",
     "former_names": [
-      "Chorrie"
+      "Chorrie",
+      "BrowserBook"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6a865085a8c1bba663b682273cb6897a7a4f4686.png",
-    "website": "https://www.browserbook.com",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/32467b13d36c9fed6c944cbb62eed3f24594bf45.png",
+    "website": "https://www.kilvin.ai",
     "all_locations": "New York, NY, USA",
-    "long_description": "BrowserBook makes it easy to reliably automate the web. It's a Jupyter-style IDE for browser automation that combines a live browser, executable code cells, and an AI coding assistant to generate Playwright scripts that are deterministic by default. Developers use BrowserBook to build, debug, and deploy robust web automations, powering AI agents, QA workflows, and data operations.",
-    "one_liner": "The Browser Automation IDE",
+    "long_description": "Kilvin is an AI-native agency that builds custom software solutions for non-technical teams.\r\n\r\nWith AI, the future of software is democratized. Every team deserves tools built exactly for them, not off-the-shelf SaaS products they need to adapt to. Kilvin makes it a reality, delivering a private, secure workspace of custom applications, built around your workflows and ready in days, not months.\r\n\r\nNo engineers needed on your side. Just software that fits exactly how you work.",
+    "one_liner": "Custom software for non-technical teams.",
     "team_size": 3,
     "industry": "B2B",
-    "subindustry": "B2B -> Productivity",
+    "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1731609344,
     "tags": [
       "Artificial Intelligence",
       "Developer Tools",
-      "Robotic Process Automation",
-      "SaaS",
+      "Productivity",
+      "Data Engineering",
       "Automation"
     ],
     "tags_highlighted": [],
@@ -19415,7 +19418,7 @@
     "status": "Active",
     "industries": [
       "B2B",
-      "Productivity"
+      "Engineering, Product and Design"
     ],
     "regions": [
       "United States of America",
@@ -19428,8 +19431,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/browserbook",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/fall-2024/browserbook.json"
+    "url": "https://www.ycombinator.com/companies/kilvin",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/fall-2024/kilvin.json"
   },
   {
     "id": 30107,
@@ -21462,49 +21465,6 @@
     "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2025/gitdot.json"
   },
   {
-    "id": 30625,
-    "name": "CallingBox",
-    "slug": "callingbox",
-    "former_names": [
-      "ZeroEval"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b30f804e803044d636a123b1124cda00f1065ed2.png",
-    "website": "https://callingbox.io",
-    "all_locations": "New York, NY, USA",
-    "long_description": "Make AI phone calls from a single API call. ",
-    "one_liner": "The API for AI phone calls",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1755052091,
-    "tags": [
-      "Developer Tools",
-      "SaaS",
-      "Infrastructure",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2025",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/callingbox",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2025/callingbox.json"
-  },
-  {
     "id": 30630,
     "name": "Lark",
     "slug": "lark",
@@ -23426,7 +23386,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0fb7d11f60217eaded2ae0e96dbee3bf9ebcd68c.png",
     "website": "https://www.runtm.com/",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "",
     "long_description": "Runtime (runtm.com) gives engineering teams control and visibility to enable anyone in their org to use coding agents securely.\r\n\r\nEng leaders rolling out coding agents have no way to see what's happening, set boundaries, or safely let non-engineers use them. We provide sandboxed environments, session-level observability, and configurable guardrails so anyone on your team can ship with coding agents without breaking prod.\r\n\r\nWe're live with fast-growing YC scaleups empowering their Engineers, PMs, designers, marketers, and ops to contribute to their codebase or build prod-grade zero-to-one apps.",
     "one_liner": "Let all your team ship safely with coding agents",
     "team_size": 3,
@@ -23434,8 +23394,8 @@
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1773951001,
     "tags": [
-      "Artificial Intelligence",
-      "Developer Tools"
+      "Developer Tools",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -23448,8 +23408,7 @@
       "Engineering, Product and Design"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "Unspecified"
     ],
     "stage": "Early",
     "app_video_public": false,

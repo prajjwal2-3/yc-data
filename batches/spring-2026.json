@@ -1672,6 +1672,48 @@
     "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/elyra.json"
   },
   {
+    "id": 31391,
+    "name": "HEVN, inc",
+    "slug": "hevn-inc",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9670403b854641364928ce34e110c0d9752c9d8d.png",
+    "website": "https://gethevn.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "HEVN is a b2b financial platform where international companies can run their business globally with USD.\r\n↓\r\n> Use USD cards with cashback and do not pay fees on converting local currency, by paying to Google/Meta ads\r\n\r\n> Pay/get paid in local currency via named accounts in EU, Hong Kong and UAE banks \r\n\r\n> (soon) store USD in FDIC-insured account in a US bank, even if your company does not have EIN",
+    "one_liner": "\"Brex\" for international companies",
+    "team_size": 4,
+    "industry": "Fintech",
+    "subindustry": "Fintech",
+    "launched_at": 1777498705,
+    "tags": [
+      "Finance",
+      "Consumer Finance",
+      "Neobank"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "Fintech"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/hevn-inc",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/hevn-inc.json"
+  },
+  {
     "id": 31396,
     "name": "qomplement",
     "slug": "qomplement",
@@ -1921,6 +1963,45 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/rentahuman",
     "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/rentahuman.json"
+  },
+  {
+    "id": 31411,
+    "name": "Andco",
+    "slug": "andco",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c2a1952b4bf4f03f6e4d7c3a1bc30b3b97ba2619.png",
+    "website": "http://www.useandco.com",
+    "all_locations": "",
+    "long_description": "",
+    "one_liner": "End-to-end case workups for personal injury firms.",
+    "team_size": 0,
+    "industry": "B2B",
+    "subindustry": "B2B -> Legal",
+    "launched_at": 1777434223,
+    "tags": [
+      "Artificial Intelligence",
+      "Legal"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Legal"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/andco",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/andco.json"
   },
   {
     "id": 31413,
@@ -2423,26 +2504,25 @@
   },
   {
     "id": 31429,
-    "name": "Benchspan",
-    "slug": "benchspan",
+    "name": "Oddpool",
+    "slug": "oddpool",
     "former_names": [
-      "Oddpool"
+      "Oddpool",
+      "Benchspan"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/aa4fc4f6d1e2ccaa194229fd65ff2d902dc82092.png",
-    "website": "https://www.benchspan.com",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/cbb613ad9cc7cb217457623774de2039f44ba7d6.png",
+    "website": "https://www.oddpool.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "We built the most accurate indirect prompt injection classifier available today, trained by the team behind Microsoft's Prompt Shields. Our model catches the attacks that generic guardrails miss: hidden instructions embedded in documents, emails, tool outputs, and retrieval results that manipulate your agent from the inside.\r\n\r\nConnect your observability stack and Benchspan monitors every LLM call, tool invocation, and RAG retrieval in production. We learn your agents' normal behavior and flag data exfiltration, unauthorized tool access, and behavioral drift before they cause damage",
-    "one_liner": "Real-time threat detection for AI agents in production",
+    "long_description": "",
+    "one_liner": "Institutional data broker for prediction markets",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1773859660,
     "tags": [
-      "AIOps",
-      "Analytics",
-      "Security",
-      "Infrastructure",
-      "AI"
+      "Fintech",
+      "Finance",
+      "Analytics"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -2463,8 +2543,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/benchspan",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/benchspan.json"
+    "url": "https://www.ycombinator.com/companies/oddpool",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/oddpool.json"
   },
   {
     "id": 31432,
@@ -3046,6 +3126,50 @@
     "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/ara.json"
   },
   {
+    "id": 31460,
+    "name": "PLAN0 AI",
+    "slug": "plan0-ai",
+    "former_names": [
+      "PLANO AI Inc."
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/abb178493b637223c4623f43b2c209131939af8e.png",
+    "website": "https://plan0.ai/",
+    "all_locations": "",
+    "long_description": "PLAN0 is an AI-powered preconstruction cost intelligence platform serving real estate developers, general contractors, and investors. We analyze architectural plans using computer vision AI models trained on tens of thousands of examples to generate detailed, industry standard cost estimates in 30 minutes vs. 2+ weeks traditionally.\r\n\r\nThe platform is also building a proprietary database of real-time localized cost data that feed its analytics and forecasting tools. Using quant finance inspired deep neural networks, PLAN0 can decompose construction costs in market observable factors to predict all local trade level costs up to 24 months out with high accuracy.\r\n\r\nThe vision is to develop the CoStar or Bloomberg of construction – a system of record and intelligence layer that allows real estate stakeholders to underwrite, design, and benchmark development projects with greater speed, precision, and confidence.",
+    "one_liner": "AI powered construction cost estimation & analytics.",
+    "team_size": 5,
+    "industry": "Real Estate and Construction",
+    "subindustry": "Real Estate and Construction",
+    "launched_at": 1777504379,
+    "tags": [
+      "Artificial Intelligence",
+      "Computer Vision",
+      "Real Estate",
+      "Construction",
+      "Proptech"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "Real Estate and Construction"
+    ],
+    "regions": [
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/plan0-ai",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/plan0-ai.json"
+  },
+  {
     "id": 31470,
     "name": "Tasklet",
     "slug": "tasklet-2",
@@ -3248,16 +3372,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1c4216679eb008bbc4571315894d674d507a751f.png",
     "website": "https://saudara.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Indonesian exports to the US grew 23% in 2025 up to over $30B. The shift is happening. Most brands just don't have the on-ramp yet.\r\n\r\nSaudara AI is an AI-native sourcing agency connecting American brands with Indonesian suppliers across apparel, textiles, home goods, supplements, and raw materials. Our AI agent finds your factory, handles vetting, sampling, and delivery. A human is in the loop at every stage.\r\n\r\nNo more ghosting. No more waiting months for supplier updates. You always know where your order stands.\r\n\r\nWe are the on-ramp.",
-    "one_liner": "AI-native Sourcing Agency",
+    "long_description": "Saudara AI is an AI broker connecting American brands with vetted overseas factories. International sourcing is broken. We're fixing it.\r\n\r\nUS brands import over $3 trillion in goods every year and lose billions to ghost suppliers, hidden fees, and missed deadlines. The best factories sit behind decades-old relationships. We have them. Our AI handles the rest.\r\n\r\nA real broker on every deal, supercharged by AI. 10x faster, at a fraction of the cost. We are the on-ramp.",
+    "one_liner": "AI Broker Connecting American Brands With The World's Best Factories",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1774887463,
     "tags": [
+      "Artificial Intelligence",
       "B2B",
-      "Supply Chain",
-      "AI"
+      "Supply Chain"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -3716,8 +3840,9 @@
     "subindustry": "B2B -> Productivity",
     "launched_at": 1775312221,
     "tags": [
-      "Artificial Intelligence",
-      "Enterprise Software"
+      "B2B",
+      "Enterprise Software",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -3748,7 +3873,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0fb7d11f60217eaded2ae0e96dbee3bf9ebcd68c.png",
     "website": "https://www.runtm.com/",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "",
     "long_description": "Runtime (runtm.com) gives engineering teams control and visibility to enable anyone in their org to use coding agents securely.\r\n\r\nEng leaders rolling out coding agents have no way to see what's happening, set boundaries, or safely let non-engineers use them. We provide sandboxed environments, session-level observability, and configurable guardrails so anyone on your team can ship with coding agents without breaking prod.\r\n\r\nWe're live with fast-growing YC scaleups empowering their Engineers, PMs, designers, marketers, and ops to contribute to their codebase or build prod-grade zero-to-one apps.",
     "one_liner": "Let all your team ship safely with coding agents",
     "team_size": 3,
@@ -3756,8 +3881,8 @@
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1773951001,
     "tags": [
-      "Artificial Intelligence",
-      "Developer Tools"
+      "Developer Tools",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -3770,8 +3895,7 @@
       "Engineering, Product and Design"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "Unspecified"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -4323,6 +4447,46 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/framewise-health",
     "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/framewise-health.json"
+  },
+  {
+    "id": 31560,
+    "name": "Intelligence Factory",
+    "slug": "intelligence-factory",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/30c1f1fb7356289878fa2341c0a20700f178fbcf.png",
+    "website": "https://intelligence-factory.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Robotics is the new paradigm. With hardware converging, Intelligence is the biggest bottleneck. Our world was built for humans and we're giving robots the ability to reason and act like us. \r\n\r\nThe way we learn any task - by seeing, doing, and feeling - is how we train robots. We're building general intelligence that works on any robot and fits seamlessly within our world.",
+    "one_liner": "Human Intelligence for Robots",
+    "team_size": 5,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Manufacturing and Robotics",
+    "launched_at": 1777499618,
+    "tags": [
+      "Robotics",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Manufacturing and Robotics"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/intelligence-factory",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/intelligence-factory.json"
   },
   {
     "id": 31561,

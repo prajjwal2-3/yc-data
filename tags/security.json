@@ -3831,51 +3831,6 @@
     "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/refortifai.json"
   },
   {
-    "id": 31429,
-    "name": "Benchspan",
-    "slug": "benchspan",
-    "former_names": [
-      "Oddpool"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/aa4fc4f6d1e2ccaa194229fd65ff2d902dc82092.png",
-    "website": "https://www.benchspan.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "We built the most accurate indirect prompt injection classifier available today, trained by the team behind Microsoft's Prompt Shields. Our model catches the attacks that generic guardrails miss: hidden instructions embedded in documents, emails, tool outputs, and retrieval results that manipulate your agent from the inside.\r\n\r\nConnect your observability stack and Benchspan monitors every LLM call, tool invocation, and RAG retrieval in production. We learn your agents' normal behavior and flag data exfiltration, unauthorized tool access, and behavioral drift before they cause damage",
-    "one_liner": "Real-time threat detection for AI agents in production",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1773859660,
-    "tags": [
-      "AIOps",
-      "Analytics",
-      "Security",
-      "Infrastructure",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Spring 2026",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/benchspan",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/benchspan.json"
-  },
-  {
     "id": 31440,
     "name": "Mount",
     "slug": "mount",
