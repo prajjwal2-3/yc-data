@@ -27534,50 +27534,6 @@
     "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2022/boardcave.json"
   },
   {
-    "id": 25306,
-    "name": "WorldQL",
-    "slug": "worldql",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/77812b9a6c46bc50c4a0b0326c080c241d029714.png",
-    "website": "https://www.worldql.com/",
-    "all_locations": "San Francisco, CA, USA; Remote",
-    "long_description": "",
-    "one_liner": "Multiplayer engine for building games and RL environments",
-    "team_size": 3,
-    "industry": "Consumer",
-    "subindustry": "Consumer -> Gaming",
-    "launched_at": 1648654841,
-    "tags": [
-      "Artificial Intelligence",
-      "Developer Tools",
-      "Reinforcement Learning",
-      "Gaming"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2022",
-    "status": "Active",
-    "industries": [
-      "Consumer",
-      "Gaming"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Fully Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/worldql",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2022/worldql.json"
-  },
-  {
     "id": 25339,
     "name": "AgentRouter",
     "slug": "agentrouter",
@@ -28403,7 +28359,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -33072,20 +33028,20 @@
       "Sterling Labs",
       "Focus Buddy"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/36badd071180ac2d70c72ca019989b6ecf1830ca.png",
-    "website": "https://www.focusbuddy.ai/?ref=yc",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c84a03d0d402a34192f801bf5c20f40407fa3c88.png",
+    "website": "https://www.drafttherecord.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "currently in stealth\r\n\r\nReach out to us at founders@focusbuddy.ai\r\n\r\nOur previous product - \r\nFocus buddy is an AI productivity coach that stays on calls with you and help you accomplish your important work goals on a daily basis, even when you are struggling to focus.\r\n\r\nWe noticed that our users develop a productive relationship with Focus Buddy. Users stay on calls for multiple hours everyday where they depend on Focus Buddy to:\r\n• Avoid procrastination and get started: Address hidden anxieties, embrace imperfection, chunk tasks, kickstart with mini-goals, and use regular check-ins to maintain momentum.\r\n• Recover from distractions and stay focused: Focus Buddy detects when they are working on less important tasks or scrolling on social media, help them overcome the underlying concerns feeding the distraction, and help them get back to the important task\r\n• Manage stress and Prevent Burnout: Focus Buddy detects stress buildup, integrates mindfulness habits to the workflow, helps take short rejuvenating breaks, and stay composed.\r\n\r\nOur Initial ICP is people with ADHD who are highly motivated but also highly blocked by internal and environmental factors. In the future, we believe each worker should have their own personal coach that enforces proven productivity techniques in real time to help them extract more focused hours every day with the same effort. \r\n",
-    "one_liner": "Currently in stealth - previously FocusBuddy",
+    "long_description": "DraftTheRecord Desktop helps court reporters record and transcribe proceedings.\r\n\r\nUse the app to capture local recording sessions, create enhanced transcripts from audio/video, and review transcript content in a focused workspace designed for court reporting.",
+    "one_liner": "AI For Court Reporting",
     "team_size": 2,
     "industry": "Consumer",
     "subindustry": "Consumer -> Content",
     "launched_at": 1724988357,
     "tags": [
-      "Artificial Intelligence",
       "Consumer",
       "Productivity",
       "Mental Health",
+      "AI",
       "Conversational AI"
     ],
     "tags_highlighted": [],
@@ -33150,49 +33106,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/pap",
     "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2024/pap.json"
-  },
-  {
-    "id": 29848,
-    "name": "Saldor",
-    "slug": "saldor",
-    "former_names": [
-      "Ovation"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e5e8dd5c7448c58bdeb274d4e57e63ee206feb72.png",
-    "website": "https://saldor.com/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "",
-    "one_liner": "",
-    "team_size": 2,
-    "industry": "Consumer",
-    "subindustry": "Consumer",
-    "launched_at": 1722921255,
-    "tags": [
-      "Productivity",
-      "Consumer Products",
-      "AI",
-      "AI Assistant"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2024",
-    "status": "Active",
-    "industries": [
-      "Consumer"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/saldor",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2024/saldor.json"
   },
   {
     "id": 29852,
@@ -36244,6 +36157,45 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/gikl-inc",
     "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/gikl-inc.json"
+  },
+  {
+    "id": 31376,
+    "name": "Light Anchor",
+    "slug": "light-anchor",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3e90f1f997478761cc013525bd81b5fc23984166.png",
+    "website": "https://lightanchor.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Brands have always been bottlenecked by how fast people can operate them. With agents that automate processes end-to-end, that bottleneck disappears, and a different kind of consumer business becomes possible: one where the cost and speed of operating it aren't capped by humans.\r\n\r\nLight Anchor builds fully autonomous e-commerce. We own and operate our own brands today, each run by agents across marketing, sourcing, operations, and support.\r\n\r\nEach brand runs on its own stack of agents: a CEO agent that sets weekly priorities and manages the budget, a GM agent that owns the P&L, merchandising, sourcing, and support, and a Marketing agent that handles creative, acquisition, and the content calendar.\r\n\r\nEach operates with independent decision-making, memory, policies, and proposals specific to the brand. Every brand we run feeds the platform with new operating data, so the next brand we launch starts smarter than the last.",
+    "one_liner": "Autonomous e-commerce",
+    "team_size": 2,
+    "industry": "Consumer",
+    "subindustry": "Consumer",
+    "launched_at": 1777575492,
+    "tags": [
+      "E-commerce",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "Consumer"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/light-anchor",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/light-anchor.json"
   },
   {
     "id": 31402,

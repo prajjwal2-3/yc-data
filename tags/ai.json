@@ -5569,6 +5569,51 @@
     "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2021/openlayer.json"
   },
   {
+    "id": 23946,
+    "name": "Legion Health",
+    "slug": "legion-health",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d3ae3f109ad60ca8a6a5c6055ffa946a4d30cd38.png",
+    "website": "https://legionhealth.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Legion Health is building autonomous medical care, starting with psychiatry. Our AI-native care-delivery platform currently automates 95% of the administrative work required for us to deliver direct patient care. We also became the first company ever to receive regulatory authorization to let AI prescribe psychiatric medications, allowing us to not only collapse health care’s admin costs but also its clinical labor costs—entirely shifting this industry’s economics from humans to tokens.",
+    "one_liner": "Autonomous medical care",
+    "team_size": 11,
+    "industry": "Healthcare",
+    "subindustry": "Healthcare -> Consumer Health and Wellness",
+    "launched_at": 1624636729,
+    "tags": [
+      "Consumer Health Services",
+      "Telehealth",
+      "Healthcare",
+      "Mental Health",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2021",
+    "status": "Active",
+    "industries": [
+      "Healthcare",
+      "Consumer Health and Wellness"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/legion-health",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2021/legion-health.json"
+  },
+  {
     "id": 23951,
     "name": "Mindstate Design Labs",
     "slug": "mindstate-design-labs",
@@ -6802,53 +6847,6 @@
     "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2021/tenyks.json"
   },
   {
-    "id": 24571,
-    "name": "Adni",
-    "slug": "adni",
-    "former_names": [
-      "Lumify Care",
-      "Lumify"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/48474c1b0337163fd12462fb6b72ee336a4ad010.png",
-    "website": "https://www.adni.ai/",
-    "all_locations": "San Francisco, CA, USA; Remote",
-    "long_description": "Healthcare workers use Adni's AI career assistant, Allie, to find jobs, buy gear, connect with peers, manage credentials, and more. Leading organizations, like Penn Medicine, Medical Solutions, and MedPro use Adni’s clinician network and AI sourcing and screening agents to hire healthcare talent faster and cheaper.\r\n\r\nBacked by YC, Flare Capital, Liquid 2, Fresco, Augment, Crista Galli, Adam Grant, the founders of CareRev, Clipboard Health, Papa, and more.",
-    "one_liner": "AI career platform for healthcare workers",
-    "team_size": 5,
-    "industry": "Healthcare",
-    "subindustry": "Healthcare",
-    "launched_at": 1624982871,
-    "tags": [
-      "Marketplace",
-      "SaaS",
-      "Recruiting",
-      "Healthcare",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2021",
-    "status": "Active",
-    "industries": [
-      "Healthcare"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Fully Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/adni",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2021/adni.json"
-  },
-  {
     "id": 24573,
     "name": "Telmai",
     "slug": "telmai",
@@ -7351,6 +7349,48 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/moots",
     "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2022/moots.json"
+  },
+  {
+    "id": 25306,
+    "name": "WorldQL",
+    "slug": "worldql",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/77812b9a6c46bc50c4a0b0326c080c241d029714.png",
+    "website": "https://www.worldql.com/",
+    "all_locations": "San Francisco, CA, USA; Remote",
+    "long_description": "",
+    "one_liner": "Simulating problems AI can't solve yet",
+    "team_size": 4,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1648654841,
+    "tags": [
+      "Reinforcement Learning",
+      "Security",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2022",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Fully Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/worldql",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2022/worldql.json"
   },
   {
     "id": 25307,
@@ -10496,52 +10536,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/mocke",
     "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2022/mocke.json"
-  },
-  {
-    "id": 26733,
-    "name": "trebu",
-    "slug": "trebu",
-    "former_names": [
-      "Trebu"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7e23166b394dd40a944a9147832db449cf09b72f.png",
-    "website": "https://www.trebu.io/",
-    "all_locations": "Mexico City, CDMX, Mexico; Remote",
-    "long_description": "Trebu helps logistics companies to reliably detect and structure incoming sales orders by scanning and interpreting the thousands of incoming Whatsapp messages and emails they receive every day.\r\nFor example, we help a logistics broker to double the amount of daily reported shipment requests by automatically detecting messages asking for a shipping service and transferring the details into a structured database.\r\n",
-    "one_liner": "Extract and organize order requests, supplier availabilities, and…",
-    "team_size": 3,
-    "industry": "B2B",
-    "subindustry": "B2B -> Supply Chain and Logistics",
-    "launched_at": 1657745629,
-    "tags": [
-      "B2B",
-      "Transportation",
-      "AI",
-      "AI Assistant"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2022",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Supply Chain and Logistics"
-    ],
-    "regions": [
-      "Mexico",
-      "Latin America",
-      "Remote",
-      "Fully Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/trebu",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2022/trebu.json"
   },
   {
     "id": 26741,
@@ -15971,7 +15965,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Summer 2023",
     "status": "Active",
@@ -17698,6 +17692,49 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/event-horizon-labs",
     "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2024/event-horizon-labs.json"
+  },
+  {
+    "id": 29182,
+    "name": "Upsolve AI",
+    "slug": "upsolve-ai",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/584af51898d885eead8c1806789fece6d7acaff0.png",
+    "website": "https://upsolve.ai/",
+    "all_locations": "",
+    "long_description": "Upsolve AI is the analytics platform for deploying governed, grounded, and trustworthy data agents that know your business. Data teams use Upsolve's Agent Studio to get to AI-ready data foundations fast, unify and curate their context layer, and test, tune and monitor their Upsolve Data Agent to their benchmark. The company is founded by Ka Ling Wu and Serguei Balanovich, who built a similar product at Palantir before (featured in Palantir's S-1), growing it to 50+ enterprise customers and 8-figures of annual revenue in 2 years.",
+    "one_liner": "Deploy trustworthy data agent that know your business",
+    "team_size": 5,
+    "industry": "B2B",
+    "subindustry": "B2B -> Analytics",
+    "launched_at": 1699320905,
+    "tags": [
+      "Developer Tools",
+      "B2B",
+      "Analytics",
+      "Big Data",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2024",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Analytics"
+    ],
+    "regions": [
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/upsolve-ai",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2024/upsolve-ai.json"
   },
   {
     "id": 29205,
@@ -23782,6 +23819,53 @@
     "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2024/orca-launcher.json"
   },
   {
+    "id": 29828,
+    "name": "Sterling Labs, Inc",
+    "slug": "sterling-labs-inc",
+    "former_names": [
+      "Therapy Buddy",
+      "Sterling Labs",
+      "Focus Buddy"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c84a03d0d402a34192f801bf5c20f40407fa3c88.png",
+    "website": "https://www.drafttherecord.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "DraftTheRecord Desktop helps court reporters record and transcribe proceedings.\r\n\r\nUse the app to capture local recording sessions, create enhanced transcripts from audio/video, and review transcript content in a focused workspace designed for court reporting.",
+    "one_liner": "AI For Court Reporting",
+    "team_size": 2,
+    "industry": "Consumer",
+    "subindustry": "Consumer -> Content",
+    "launched_at": 1724988357,
+    "tags": [
+      "Consumer",
+      "Productivity",
+      "Mental Health",
+      "AI",
+      "Conversational AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2024",
+    "status": "Active",
+    "industries": [
+      "Consumer",
+      "Content"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/sterling-labs-inc",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2024/sterling-labs-inc.json"
+  },
+  {
     "id": 29835,
     "name": "Voker",
     "slug": "voker",
@@ -23914,49 +23998,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/elayne",
     "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2024/elayne.json"
-  },
-  {
-    "id": 29848,
-    "name": "Saldor",
-    "slug": "saldor",
-    "former_names": [
-      "Ovation"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e5e8dd5c7448c58bdeb274d4e57e63ee206feb72.png",
-    "website": "https://saldor.com/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "",
-    "one_liner": "",
-    "team_size": 2,
-    "industry": "Consumer",
-    "subindustry": "Consumer",
-    "launched_at": 1722921255,
-    "tags": [
-      "Productivity",
-      "Consumer Products",
-      "AI",
-      "AI Assistant"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2024",
-    "status": "Active",
-    "industries": [
-      "Consumer"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/saldor",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2024/saldor.json"
   },
   {
     "id": 29852,
@@ -27031,7 +27072,7 @@
     "website": "https://wild-card.ai",
     "all_locations": "",
     "long_description": "Wildcard is the AEO and GEO platform designed specifically for e-commerce and retail brands. We help merchants improve visibility across AI search and AI shopping platforms like ChatGPT, Google AI Overviews, Gemini, and Amazon Rufus.\r\n\r\nWildcard tracks how brands, categories, collections, and SKUs appear across AI search results, identifies visibility gaps, and turns those insights into actions. We use AI agents to enrich product data, generate SEO, AEO, and GEO content, create collection and comparison pages, build FAQs, and improve off-site discoverability across Reddit, YouTube, blogs, and other sources.\r\n\r\nAs AI shopping evolves, Wildcard is building the infrastructure brands need to win in agentic commerce, including support for emerging standards like the Agentic Commerce Protocol (ACP) and Universal Commerce Protocol (UCP).",
-    "one_liner": "AEO/GEO platform for ChatGPT Shopping & AI Commerce",
+    "one_liner": "AEO/GEO for E-Commerce and Retail",
     "team_size": 1,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -29128,8 +29169,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fae29a98d132c4b435b336dbb5d6cf4a1aaf5de7.png",
     "website": "https://www.starsling.dev/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "StarSling is building an agentic developer homepage that automates all the tasks that eat up a developer’s time after they’ve left their code editor: deployments, performance, incidents, and bugs. Open your homepage, click on a GitHub, Linear, or Sentry issue and you’ll see an Autofix button that triggers an AI agent and opens up a Pull Request with a fix, all without leaving your homepage.",
-    "one_liner": "Cursor for DevOps",
+    "long_description": "StarSling is building an AI-native DevOps platform for developers that ship, starting with CI. StarSling Runners are fast GitHub Actions runners with AI agents that continuously improve your build speeds by more than 80%.",
+    "one_liner": "Self-Driving CI",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -31621,51 +31662,6 @@
     "api": "https://prajjwal2-3.github.io/yc-data/batches/fall-2025/movedot.json"
   },
   {
-    "id": 30850,
-    "name": "Zavo",
-    "slug": "zavo",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9a1286c1ed0f215411585d2faaf1c76a245ee266.png",
-    "website": "https://zavopay.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Zavo is the first AI-point of sale platform for restaurants.\r\n\r\nWe unify payments, point of sale, and AI agents into one seamless platform, allowing business to accept payments, manage operations and automate manual processes with Ai. \r\n\r\nFrom reservations, to payments to point of sale, we have built the full restaurant tech stack in-house with AI automation across all products.\r\n\r\nWe started Zavo in May 2025, currently over 800 businesses of different sizes use Zavo to accept payments and manage operations\r\n\r\n",
-    "one_liner": "AI Operating System for Restaurants ",
-    "team_size": 8,
-    "industry": "Fintech",
-    "subindustry": "Fintech -> Payments",
-    "launched_at": 1758482945,
-    "tags": [
-      "Fintech",
-      "Payments",
-      "B2B",
-      "Restaurant Tech",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Fall 2025",
-    "status": "Active",
-    "industries": [
-      "Fintech",
-      "Payments"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/zavo",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/fall-2025/zavo.json"
-  },
-  {
     "id": 30851,
     "name": "Sylvian",
     "slug": "sylvian",
@@ -31961,6 +31957,48 @@
     "api": "https://prajjwal2-3.github.io/yc-data/batches/fall-2025/veria-labs.json"
   },
   {
+    "id": 30877,
+    "name": "Trelium",
+    "slug": "trelium",
+    "former_names": [
+      "Questom"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b0c983ddfd3fa9bc66481090e877261b8325bea1.png",
+    "website": "https://www.trelium.com",
+    "all_locations": "Remote",
+    "long_description": "",
+    "one_liner": "The Agent to Build Your Agents",
+    "team_size": 6,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1759277752,
+    "tags": [
+      "B2B",
+      "Workflow Automation",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Fall 2025",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "Remote",
+      "Fully Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/trelium",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/fall-2025/trelium.json"
+  },
+  {
     "id": 30878,
     "name": "Cranston AI",
     "slug": "cranston-ai",
@@ -32044,53 +32082,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/nessie",
     "api": "https://prajjwal2-3.github.io/yc-data/batches/fall-2025/nessie.json"
-  },
-  {
-    "id": 30882,
-    "name": "AtlasGrid",
-    "slug": "atlasgrid",
-    "former_names": [
-      "I purchased precedents.ai, will found a corp w/ Clerky in 2 weeks once the domain transfer is confirmed",
-      "precedents.ai",
-      "AtlasGrid AI"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c51d7c36e595d35dc2f3a6fbe00ef8d4d923dbe9.png",
-    "website": "https://atlasgrid.ai",
-    "all_locations": "Mountain View, CA, USA; Remote",
-    "long_description": "AtlasGrid automatically builds a visual graph of your mobile app UI and displays analytics directly on your screens. Additionally, our fleet of AI-powered agents will continuously analyze thousands of mobile apps, gathering design insights and identifying growth opportunities + actionable product improvements.",
-    "one_liner": "Accelerate Product Iteration",
-    "team_size": 6,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1763057438,
-    "tags": [
-      "Analytics",
-      "Design Tools",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Fall 2025",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Fully Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/atlasgrid",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/fall-2025/atlasgrid.json"
   },
   {
     "id": 30886,
@@ -32221,6 +32212,51 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/logical",
     "api": "https://prajjwal2-3.github.io/yc-data/batches/fall-2025/logical.json"
+  },
+  {
+    "id": 30911,
+    "name": "Helonic",
+    "slug": "helonic",
+    "former_names": [
+      "Articulate"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b26a35750dbae152a692ea82c2b00bb8f78d4d9b.png",
+    "website": "https://helonic.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "We help construction teams eliminate rework, delays, and drawing confusion before construction starts. We analyze PDF plans, detect clashes and inconsistencies across disciplines, and create draft RFIs so teams can resolve issues early.\r\n\r\nThis saves construction companies hundreds of hours and millions of dollars.\r\n\r\nWhat we do:\r\n- Automatically detect clashes, missing information, and drawing mismatches\r\n- Align architectural, structural, and MEP plans so everything matches across sheets\r\n- Generate draft RFIs from issues we find\r\n- Replace long page-turn meetings with instant drawing analysis\r\n- Reduce rework and prevent schedule delays before boots hit the ground\r\n\r\nWe integrate with: Procore, Autodesk, email, and the tools teams already use\r\n\r\nTeams use us to:\r\n- Save hundreds of thousands to millions of dollars per project\r\n- Catch design and coordination issues early\r\n- Reduce RFIs and prevent field fixes\r\n- Keep projects on schedule with fewer surprises\r\n\r\nContact us at founders@usearticulate.com",
+    "one_liner": "Automatic Construction Drawing Clash Detection ",
+    "team_size": 2,
+    "industry": "Real Estate and Construction",
+    "subindustry": "Real Estate and Construction -> Construction",
+    "launched_at": 1760131149,
+    "tags": [
+      "Construction",
+      "B2B",
+      "Workflow Automation",
+      "Architecture",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2025",
+    "status": "Active",
+    "industries": [
+      "Real Estate and Construction",
+      "Construction"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": true,
+    "url": "https://www.ycombinator.com/companies/helonic",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/fall-2025/helonic.json"
   },
   {
     "id": 30918,
@@ -33634,6 +33670,50 @@
     "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2026/librar-labs.json"
   },
   {
+    "id": 31323,
+    "name": "Hedge",
+    "slug": "hedge",
+    "former_names": [
+      "Taven"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3a2579aaa172cfb606855a9d93aaa1c946945357.png",
+    "website": "https://www.hedgespecialty.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "",
+    "one_liner": "AI native insurance company",
+    "team_size": 0,
+    "industry": "Fintech",
+    "subindustry": "Fintech -> Insurance",
+    "launched_at": 1777586182,
+    "tags": [
+      "Fintech",
+      "B2B",
+      "Insurance",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "Fintech",
+      "Insurance"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/hedge",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/hedge.json"
+  },
+  {
     "id": 31330,
     "name": "Standard Signal",
     "slug": "standard-signal",
@@ -33808,15 +33888,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b37c6cc458022b158a3f2abce590be2ed10116fb.png",
     "website": "https://refortif.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Refortifai provides a security agent that monitors your agent.\r\nIt intercepts tool calls, enforces governance policies, and blocks attacks in real time.\r\nCovers prompt injection, memory poisoning, privilege escalation, and more.\r\nIt sits on top of your existing agent setup with minimal integration.",
-    "one_liner": "Runtime security for AI agents",
+    "long_description": "Refortifai builds RL environments to solve and evaluate complex tasks involving electronic design.",
+    "one_liner": "Reasoning for Electronic Design Automation ",
     "team_size": 3,
     "industry": "B2B",
-    "subindustry": "B2B -> Security",
+    "subindustry": "B2B",
     "launched_at": 1774743443,
     "tags": [
+      "AI-Enhanced Learning",
+      "Reinforcement Learning",
       "B2B",
-      "Security",
+      "Semiconductors",
       "AI"
     ],
     "tags_highlighted": [],
@@ -33826,8 +33908,7 @@
     "batch": "Spring 2026",
     "status": "Active",
     "industries": [
-      "B2B",
-      "Security"
+      "B2B"
     ],
     "regions": [
       "United States of America",
@@ -33885,6 +33966,45 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/hubxyz",
     "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/hubxyz.json"
+  },
+  {
+    "id": 31376,
+    "name": "Light Anchor",
+    "slug": "light-anchor",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3e90f1f997478761cc013525bd81b5fc23984166.png",
+    "website": "https://lightanchor.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Brands have always been bottlenecked by how fast people can operate them. With agents that automate processes end-to-end, that bottleneck disappears, and a different kind of consumer business becomes possible: one where the cost and speed of operating it aren't capped by humans.\r\n\r\nLight Anchor builds fully autonomous e-commerce. We own and operate our own brands today, each run by agents across marketing, sourcing, operations, and support.\r\n\r\nEach brand runs on its own stack of agents: a CEO agent that sets weekly priorities and manages the budget, a GM agent that owns the P&L, merchandising, sourcing, and support, and a Marketing agent that handles creative, acquisition, and the content calendar.\r\n\r\nEach operates with independent decision-making, memory, policies, and proposals specific to the brand. Every brand we run feeds the platform with new operating data, so the next brand we launch starts smarter than the last.",
+    "one_liner": "Autonomous e-commerce",
+    "team_size": 2,
+    "industry": "Consumer",
+    "subindustry": "Consumer",
+    "launched_at": 1777575492,
+    "tags": [
+      "E-commerce",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "Consumer"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/light-anchor",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/light-anchor.json"
   },
   {
     "id": 31378,

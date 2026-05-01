@@ -1644,7 +1644,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -4921,6 +4921,52 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/speak",
     "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2017/speak.json"
+  },
+  {
+    "id": 1444,
+    "name": "Bountiful",
+    "slug": "bountiful",
+    "former_names": [
+      "Vinsight"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/40bd701518c1492966677e92d610182861a00a02.png",
+    "website": "https://bountiful.ag/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "We’re on a mission to optimize the agricultural industry.\r\n\r\nWhen we started Bountiful in 2015, the grape error rate for predicting production was 30 percent. Why? We found that many farmers in the specialty crops space were still using traditional pencil-and-paper techniques to predict yield. These low-fidelity forecasting methods weren’t giving them a clear enough understanding of their production until it was too late, leading to waste and inefficiency throughout the supply chain.\r\n\r\nWe saw a problem we wanted to solve.\r\n\r\nToday, Bountiful is using advanced data science to help farmers forecast more accurately, so they can make better decisions. In the last three years, we’ve combined the latest in machine learning with weather, satellite, geographic, and historical data. The result is a user-friendly platform that transforms volumes of complex agricultural information into simple, actionable insights farmers can use to run more economically and environmentally sustainable farms.\r\n\r\nMore recently, we’re working to open the dialogue between buyers and sellers, remove uncertainty, and provide clarity to the supply chain to meet global food demand.\r\n\r\nOur ultimate goal is to close the agricultural margin of error. Not only will this make individual farms more efficient, profitable, and sustainable, but it will help optimize the global food supply chain. That means healthier people and a healthier planet.",
+    "one_liner": "An Operating System for agriculture.",
+    "team_size": 4,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Agriculture",
+    "launched_at": 1478053227,
+    "tags": [
+      "Machine Learning",
+      "Marketplace",
+      "Analytics",
+      "Agriculture"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2017",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Agriculture"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/bountiful",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2017/bountiful.json"
   },
   {
     "id": 1451,
@@ -10575,7 +10621,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -12662,54 +12708,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/ophelia",
     "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2020/ophelia.json"
-  },
-  {
-    "id": 13104,
-    "name": "Letterdrop",
-    "slug": "letterdrop",
-    "former_names": [
-      "Wisdom",
-      "Talkative",
-      "FounderPhone",
-      "Across"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/37e8e62d8a79db7c006e15d1cce3365c5fc7e469.png",
-    "website": "https://letterdrop.com",
-    "all_locations": "New York, NY, USA",
-    "long_description": "Find warm leads from public and private conversations across the web, your calls, and CRM. Draft personalized outbound for hot leads. Nurture other leads with automated thought leadership.",
-    "one_liner": "Book more meetings with conversational intent",
-    "team_size": 10,
-    "industry": "B2B",
-    "subindustry": "B2B -> Sales",
-    "launched_at": 1646371716,
-    "tags": [
-      "Generative AI",
-      "Sales",
-      "Marketing"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Winter 2020",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Sales"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/letterdrop",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2020/letterdrop.json"
   },
   {
     "id": 13109,
@@ -15247,53 +15245,6 @@
     "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2020/hypotenuse-ai.json"
   },
   {
-    "id": 21862,
-    "name": "Dialect",
-    "slug": "dialect",
-    "former_names": [
-      "Enombic",
-      "Inc.",
-      "Enombic"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a2b901dbb91e775e6c41d297e3ec4cd19a3b0ec2.png",
-    "website": "https://dialect.to",
-    "all_locations": "New York, NY, USA",
-    "long_description": "Dialect is on a mission to organize the internet’s experiences and make them distributable and actionable everywhere. We’re doing this with blockchain links, or blinks, a new technology that lets businesses unbundle their product experiences from their apps and sites, allowing users to take instant, no-redirect actions wherever they are.\r\n\r\nThis technology is unique to blockchain today, but as the world moves onchain, it will redefine how we interact with the internet—everywhere.",
-    "one_liner": "Making internet experiences distributable and actionable everywhere",
-    "team_size": 8,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1614625190,
-    "tags": [
-      "Crypto / Web3",
-      "B2B"
-    ],
-    "tags_highlighted": [
-      "Crypto / Web3"
-    ],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Summer 2020",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/dialect",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2020/dialect.json"
-  },
-  {
     "id": 21885,
     "name": "Swif.ai",
     "slug": "swif-ai",
@@ -16907,7 +16858,7 @@
     "website": "https://www.siphoxhealth.com",
     "all_locations": "Burlington, MA, USA",
     "long_description": "We are developing a new paradigm for consumer health tech wearables by replacing a 100lb optical instrument with an area of silicon smaller than a postage stamp.",
-    "one_liner": "Wearable and At-Home protein monitoring with silicon photonic chips",
+    "one_liner": "Wearable and At-Home health monitoring with silicon photonic chips",
     "team_size": 63,
     "industry": "Healthcare",
     "subindustry": "Healthcare -> Consumer Health and Wellness",
@@ -20899,18 +20850,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d3ae3f109ad60ca8a6a5c6055ffa946a4d30cd38.png",
     "website": "https://legionhealth.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Legion Health is a high-quality, AI-enabled psychiatry network where patients receive care from a provider who takes their insurance. We use LLMs and AI agents to improve care quality, streamline operations, enhance patient communications, and more.",
-    "one_liner": "AI-native psychiatry, built for scale and covered by insurance",
+    "long_description": "Legion Health is building autonomous medical care, starting with psychiatry. Our AI-native care-delivery platform currently automates 95% of the administrative work required for us to deliver direct patient care. We also became the first company ever to receive regulatory authorization to let AI prescribe psychiatric medications, allowing us to not only collapse health care’s admin costs but also its clinical labor costs—entirely shifting this industry’s economics from humans to tokens.",
+    "one_liner": "Autonomous medical care",
     "team_size": 11,
     "industry": "Healthcare",
     "subindustry": "Healthcare -> Consumer Health and Wellness",
     "launched_at": 1624636729,
     "tags": [
-      "Artificial Intelligence",
       "Consumer Health Services",
       "Telehealth",
       "Healthcare",
-      "Mental Health"
+      "Mental Health",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -20928,7 +20879,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -23188,7 +23139,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Stardex is an AI native ATS and CRM executive firms and professional recruiting firms. We are AI first designed specifically for modern recruiting firms. It has a powerful client collaboration feature that helps you execute searches faster with clients. It also streamlines your searches by automating repetitive tasks, allowing you to dedicate more time to building meaningful relationships.﻿",
     "one_liner": "AI native ATS + CRM for executive search firms",
-    "team_size": 3,
+    "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1627928818,
@@ -26226,7 +26177,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -27464,7 +27415,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -38149,6 +38100,54 @@
     "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2023/numen.json"
   },
   {
+    "id": 28893,
+    "name": "VetRec",
+    "slug": "vetrec",
+    "former_names": [
+      "Verba",
+      "Neum",
+      "Verba",
+      "Neum",
+      "Neum AI"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b431c0a63a44f00269d119fe4eabf718b56980ac.png",
+    "website": "https://vetrec.io",
+    "all_locations": "Seattle, WA, USA",
+    "long_description": "VetRec automates the process of taking clinical notes for veterinarians in a matter of seconds. Veterinarians should just review clinical notes, not spend time creating them. A visit with a pet is precious and 100% of the focus should be spent on the pet, not on notes. VetRec is the veterinarian's best friend.",
+    "one_liner": "AI Scribe for veterinarians. Saving time and improving patient care.",
+    "team_size": 25,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1689362011,
+    "tags": [
+      "Generative AI",
+      "Health Tech",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2023",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/vetrec",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2023/vetrec.json"
+  },
+  {
     "id": 28896,
     "name": "GovernGPT",
     "slug": "governgpt",
@@ -40286,18 +40285,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/584af51898d885eead8c1806789fece6d7acaff0.png",
     "website": "https://upsolve.ai/",
     "all_locations": "",
-    "long_description": "Upsolve AI is a customer-facing analytics as a service platform. We are building a full data stack that enables businesses to build and offer analytics to their customers at lightning speed and gives their customers the superpower to answer any data questions via AI. The company is founded by Ka Ling Wu and Serguei Balanovich, who built a similar product at Palantir before (featured in Palantir's S-1), growing it to 50+ enterprise customers and 8-figures of annual revenue in 2 years.",
-    "one_liner": "Embed GenBI in Your SaaS App",
+    "long_description": "Upsolve AI is the analytics platform for deploying governed, grounded, and trustworthy data agents that know your business. Data teams use Upsolve's Agent Studio to get to AI-ready data foundations fast, unify and curate their context layer, and test, tune and monitor their Upsolve Data Agent to their benchmark. The company is founded by Ka Ling Wu and Serguei Balanovich, who built a similar product at Palantir before (featured in Palantir's S-1), growing it to 50+ enterprise customers and 8-figures of annual revenue in 2 years.",
+    "one_liner": "Deploy trustworthy data agent that know your business",
     "team_size": 5,
     "industry": "B2B",
     "subindustry": "B2B -> Analytics",
     "launched_at": 1699320905,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "B2B",
       "Analytics",
-      "Big Data"
+      "Big Data",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -45258,6 +45257,45 @@
     "question_answers": true,
     "url": "https://www.ycombinator.com/companies/bayesline",
     "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2024/bayesline.json"
+  },
+  {
+    "id": 29640,
+    "name": "Tabula",
+    "slug": "tabula",
+    "former_names": [
+      "Tabular"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/024093e1cf5ee62ecc6d67c4d8f74b230167a84b.png",
+    "website": "https://www.tabula.de",
+    "all_locations": "Berlin, Berlin, Germany",
+    "long_description": "We build autonomous accounting software. \r\n\r\nEvery company should have financial insights at a fingertip – not just big enterprises with dedicated finance teams. For the first time, AI makes this possible. In the intelligence age, business owners with no financial expertise will get access to all the latent knowledge hidden in their books. Businesses will operate with a level of clarity, confidence, and speed that is almost unimaginable today.",
+    "one_liner": "Autonomous Accounting Software",
+    "team_size": 13,
+    "industry": "B2B",
+    "subindustry": "B2B -> Finance and Accounting",
+    "launched_at": 1724096273,
+    "tags": [],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2024",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Finance and Accounting"
+    ],
+    "regions": [
+      "Germany",
+      "Europe"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/tabula",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2024/tabula.json"
   },
   {
     "id": 29644,
@@ -52483,6 +52521,41 @@
     "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2025/artificial-societies.json"
   },
   {
+    "id": 30299,
+    "name": "Miyagi Labs",
+    "slug": "miyagi-labs",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e5465f36b202134eec8628c9e4cf35661e125dbd.png",
+    "website": "https://miyagilabs.ai",
+    "all_locations": "",
+    "long_description": "Miyagi Labs is an AI-powered exam prep platform that helps students ace tests like the SAT and ACT through our AI tutor, personalized study plans, thousands of practice questions, and realistic practice exams.\r\n\r\nWe’re building the platform we wish we had when studying for exams. No more running out of practice questions. Track your progress as your rating in different exam categories increases, and know exactly what you need to practice most.\r\n\r\nWe envision a world where students anywhere can come to Miyagi to ace their exams and receive personalized, world-class AI tutoring designed to unlock their full potential.",
+    "one_liner": "AI tutors for exam prep",
+    "team_size": 2,
+    "industry": "Education",
+    "subindustry": "Education",
+    "launched_at": 1739904496,
+    "tags": [],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2025",
+    "status": "Active",
+    "industries": [
+      "Education"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/miyagi-labs",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2025/miyagi-labs.json"
+  },
+  {
     "id": 30301,
     "name": "FuseAI",
     "slug": "fuseai",
@@ -52739,7 +52812,7 @@
     "website": "https://wild-card.ai",
     "all_locations": "",
     "long_description": "Wildcard is the AEO and GEO platform designed specifically for e-commerce and retail brands. We help merchants improve visibility across AI search and AI shopping platforms like ChatGPT, Google AI Overviews, Gemini, and Amazon Rufus.\r\n\r\nWildcard tracks how brands, categories, collections, and SKUs appear across AI search results, identifies visibility gaps, and turns those insights into actions. We use AI agents to enrich product data, generate SEO, AEO, and GEO content, create collection and comparison pages, build FAQs, and improve off-site discoverability across Reddit, YouTube, blogs, and other sources.\r\n\r\nAs AI shopping evolves, Wildcard is building the infrastructure brands need to win in agentic commerce, including support for emerging standards like the Agentic Commerce Protocol (ACP) and Universal Commerce Protocol (UCP).",
-    "one_liner": "AEO/GEO platform for ChatGPT Shopping & AI Commerce",
+    "one_liner": "AEO/GEO for E-Commerce and Retail",
     "team_size": 1,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -56719,6 +56792,48 @@
     "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2025/flai.json"
   },
   {
+    "id": 30691,
+    "name": "Embedder",
+    "slug": "embedder",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d68609856b561b0ebfce1f766d19021620459fa0.png",
+    "website": "https://www.embedder.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Embedder is a coding agent that can write, test, and debug firmware.",
+    "one_liner": "AI Firmware Engineer",
+    "team_size": 4,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1752258104,
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "Hardware",
+      "B2B"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/embedder",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2025/embedder.json"
+  },
+  {
     "id": 30695,
     "name": "Channel3",
     "slug": "channel3",
@@ -58218,7 +58333,7 @@
     "all_locations": "Detroit, MI, USA",
     "long_description": "Nox Metals is an AI-powered metals supplier powering modern American manufacturing at scale. We are building automated factories that turn raw metal into production-ready material faster, cheaper, and more reliably than legacy service centers.",
     "one_liner": "Supplying America's Industrial Base",
-    "team_size": 11,
+    "team_size": 13,
     "industry": "Industrials",
     "subindustry": "Industrials -> Manufacturing and Robotics",
     "launched_at": 1751751667,
@@ -58667,17 +58782,17 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b0c983ddfd3fa9bc66481090e877261b8325bea1.png",
     "website": "https://www.trelium.com",
-    "all_locations": "",
+    "all_locations": "Remote",
     "long_description": "",
     "one_liner": "The Agent to Build Your Agents",
-    "team_size": 2,
+    "team_size": 6,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1759277752,
     "tags": [
-      "Artificial Intelligence",
       "B2B",
-      "Workflow Automation"
+      "Workflow Automation",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -58689,7 +58804,8 @@
       "B2B"
     ],
     "regions": [
-      "Unspecified"
+      "Remote",
+      "Fully Remote"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -60811,6 +60927,42 @@
     "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2026/ventura.json"
   },
   {
+    "id": 31158,
+    "name": "Terranox AI",
+    "slug": "terranox-ai",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5f32ec888cb2d0eee4fa5e89a1e14a8af2c2f61f.png",
+    "website": "https://terranox.ai",
+    "all_locations": "",
+    "long_description": "Terranox is the first vertically integrated AI-powered uranium exploration company. We find high-grade uranium deposits in North America using AI trained on 70+ years of exploration outcomes. Our mission is to find the fuel we need to power the next century with nuclear energy.",
+    "one_liner": "The first AI-powered uranium discovery company",
+    "team_size": 2,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Energy",
+    "launched_at": 1771881994,
+    "tags": [],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Energy"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/terranox-ai",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2026/terranox-ai.json"
+  },
+  {
     "id": 31167,
     "name": "Stilta",
     "slug": "stilta",
@@ -61825,6 +61977,50 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/trycardinal-ai",
     "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2026/trycardinal-ai.json"
+  },
+  {
+    "id": 31323,
+    "name": "Hedge",
+    "slug": "hedge",
+    "former_names": [
+      "Taven"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3a2579aaa172cfb606855a9d93aaa1c946945357.png",
+    "website": "https://www.hedgespecialty.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "",
+    "one_liner": "AI native insurance company",
+    "team_size": 0,
+    "industry": "Fintech",
+    "subindustry": "Fintech -> Insurance",
+    "launched_at": 1777586182,
+    "tags": [
+      "Fintech",
+      "B2B",
+      "Insurance",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "Fintech",
+      "Insurance"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/hedge",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/hedge.json"
   },
   {
     "id": 31329,

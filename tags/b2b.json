@@ -9777,10 +9777,10 @@
       "Crypto / Web3"
     ],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2020",
-    "status": "Active",
+    "status": "Acquired",
     "industries": [
       "B2B"
     ],
@@ -25236,24 +25236,24 @@
   },
   {
     "id": 26733,
-    "name": "trebu",
-    "slug": "trebu",
+    "name": "Roxels",
+    "slug": "roxels",
     "former_names": [
-      "Trebu"
+      "Trebu",
+      "trebu"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7e23166b394dd40a944a9147832db449cf09b72f.png",
-    "website": "https://www.trebu.io/",
-    "all_locations": "Mexico City, CDMX, Mexico; Remote",
-    "long_description": "Trebu helps logistics companies to reliably detect and structure incoming sales orders by scanning and interpreting the thousands of incoming Whatsapp messages and emails they receive every day.\r\nFor example, we help a logistics broker to double the amount of daily reported shipment requests by automatically detecting messages asking for a shipping service and transferring the details into a structured database.\r\n",
-    "one_liner": "Extract and organize order requests, supplier availabilities, and…",
-    "team_size": 3,
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0cf53490864092dbff595fc62f53545226e16ac0.png",
+    "website": "https://www.roxels.ai/",
+    "all_locations": "San Francisco, CA, USA; Remote",
+    "long_description": "Roxels is a vision-enabled voice agent that can handle complex flows for your users. For example, it can onboard and give the “Collison Installation” experience to every customer, not just the first ten.",
+    "one_liner": "Founder-level assistance whenever customers need it, at scale",
+    "team_size": 7,
     "industry": "B2B",
-    "subindustry": "B2B -> Supply Chain and Logistics",
+    "subindustry": "B2B",
     "launched_at": 1657745629,
     "tags": [
+      "Artificial Intelligence",
       "B2B",
-      "Transportation",
-      "AI",
       "AI Assistant"
     ],
     "tags_highlighted": [],
@@ -25263,12 +25263,11 @@
     "batch": "Summer 2022",
     "status": "Active",
     "industries": [
-      "B2B",
-      "Supply Chain and Logistics"
+      "B2B"
     ],
     "regions": [
-      "Mexico",
-      "Latin America",
+      "United States of America",
+      "America / Canada",
       "Remote",
       "Fully Remote"
     ],
@@ -25277,8 +25276,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/trebu",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2022/trebu.json"
+    "url": "https://www.ycombinator.com/companies/roxels",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2022/roxels.json"
   },
   {
     "id": 26741,
@@ -34933,18 +34932,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/584af51898d885eead8c1806789fece6d7acaff0.png",
     "website": "https://upsolve.ai/",
     "all_locations": "",
-    "long_description": "Upsolve AI is a customer-facing analytics as a service platform. We are building a full data stack that enables businesses to build and offer analytics to their customers at lightning speed and gives their customers the superpower to answer any data questions via AI. The company is founded by Ka Ling Wu and Serguei Balanovich, who built a similar product at Palantir before (featured in Palantir's S-1), growing it to 50+ enterprise customers and 8-figures of annual revenue in 2 years.",
-    "one_liner": "Embed GenBI in Your SaaS App",
+    "long_description": "Upsolve AI is the analytics platform for deploying governed, grounded, and trustworthy data agents that know your business. Data teams use Upsolve's Agent Studio to get to AI-ready data foundations fast, unify and curate their context layer, and test, tune and monitor their Upsolve Data Agent to their benchmark. The company is founded by Ka Ling Wu and Serguei Balanovich, who built a similar product at Palantir before (featured in Palantir's S-1), growing it to 50+ enterprise customers and 8-figures of annual revenue in 2 years.",
+    "one_liner": "Deploy trustworthy data agent that know your business",
     "team_size": 5,
     "industry": "B2B",
     "subindustry": "B2B -> Analytics",
     "launched_at": 1699320905,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "B2B",
       "Analytics",
-      "Big Data"
+      "Big Data",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -43642,8 +43641,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fae29a98d132c4b435b336dbb5d6cf4a1aaf5de7.png",
     "website": "https://www.starsling.dev/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "StarSling is building an agentic developer homepage that automates all the tasks that eat up a developer’s time after they’ve left their code editor: deployments, performance, incidents, and bugs. Open your homepage, click on a GitHub, Linear, or Sentry issue and you’ll see an Autofix button that triggers an AI agent and opens up a Pull Request with a fix, all without leaving your homepage.",
-    "one_liner": "Cursor for DevOps",
+    "long_description": "StarSling is building an AI-native DevOps platform for developers that ship, starting with CI. StarSling Runners are fast GitHub Actions runners with AI agents that continuously improve your build speeds by more than 80%.",
+    "one_liner": "Self-Driving CI",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -44605,7 +44604,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Summer 2025",
     "status": "Active",
@@ -45498,18 +45497,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9a1286c1ed0f215411585d2faaf1c76a245ee266.png",
     "website": "https://zavopay.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Zavo is the first AI-point of sale platform for restaurants.\r\n\r\nWe unify payments, point of sale, and AI agents into one seamless platform, allowing business to accept payments, manage operations and automate manual processes with Ai. \r\n\r\nFrom reservations, to payments to point of sale, we have built the full restaurant tech stack in-house with AI automation across all products.\r\n\r\nWe started Zavo in May 2025, currently over 800 businesses of different sizes use Zavo to accept payments and manage operations\r\n\r\n",
+    "long_description": "Zavo is the AI-powered operating system for restaurants.\r\n\r\nWe bring payments, point of sale, and AI agents into one unified platform, so restaurants can run their entire business seamlessly.\r\n\r\nFrom reservations to payments to POS, Zavo replaces fragmented tools with a fully integrated stack built in-house. Our AI agents automate repetitive tasks, streamline operations, and help teams focus on delivering great guest experiences.",
     "one_liner": "AI Operating System for Restaurants ",
     "team_size": 8,
     "industry": "Fintech",
     "subindustry": "Fintech -> Payments",
     "launched_at": 1758482945,
     "tags": [
+      "Artificial Intelligence",
       "Fintech",
       "Payments",
       "B2B",
-      "Restaurant Tech",
-      "AI"
+      "Restaurant Tech"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -45883,17 +45882,17 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b0c983ddfd3fa9bc66481090e877261b8325bea1.png",
     "website": "https://www.trelium.com",
-    "all_locations": "",
+    "all_locations": "Remote",
     "long_description": "",
     "one_liner": "The Agent to Build Your Agents",
-    "team_size": 2,
+    "team_size": 6,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1759277752,
     "tags": [
-      "Artificial Intelligence",
       "B2B",
-      "Workflow Automation"
+      "Workflow Automation",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -45905,7 +45904,8 @@
       "B2B"
     ],
     "regions": [
-      "Unspecified"
+      "Remote",
+      "Fully Remote"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -46148,11 +46148,11 @@
     "subindustry": "Real Estate and Construction -> Construction",
     "launched_at": 1760131149,
     "tags": [
-      "Artificial Intelligence",
       "Construction",
       "B2B",
       "Workflow Automation",
-      "Architecture"
+      "Architecture",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -47249,6 +47249,50 @@
     "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2026/q2q.json"
   },
   {
+    "id": 31323,
+    "name": "Hedge",
+    "slug": "hedge",
+    "former_names": [
+      "Taven"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3a2579aaa172cfb606855a9d93aaa1c946945357.png",
+    "website": "https://www.hedgespecialty.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "",
+    "one_liner": "AI native insurance company",
+    "team_size": 0,
+    "industry": "Fintech",
+    "subindustry": "Fintech -> Insurance",
+    "launched_at": 1777586182,
+    "tags": [
+      "Fintech",
+      "B2B",
+      "Insurance",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "Fintech",
+      "Insurance"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/hedge",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/hedge.json"
+  },
+  {
     "id": 31364,
     "name": "Chert",
     "slug": "chert",
@@ -47301,15 +47345,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b37c6cc458022b158a3f2abce590be2ed10116fb.png",
     "website": "https://refortif.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Refortifai provides a security agent that monitors your agent.\r\nIt intercepts tool calls, enforces governance policies, and blocks attacks in real time.\r\nCovers prompt injection, memory poisoning, privilege escalation, and more.\r\nIt sits on top of your existing agent setup with minimal integration.",
-    "one_liner": "Runtime security for AI agents",
+    "long_description": "Refortifai builds RL environments to solve and evaluate complex tasks involving electronic design.",
+    "one_liner": "Reasoning for Electronic Design Automation ",
     "team_size": 3,
     "industry": "B2B",
-    "subindustry": "B2B -> Security",
+    "subindustry": "B2B",
     "launched_at": 1774743443,
     "tags": [
+      "AI-Enhanced Learning",
+      "Reinforcement Learning",
       "B2B",
-      "Security",
+      "Semiconductors",
       "AI"
     ],
     "tags_highlighted": [],
@@ -47319,8 +47365,7 @@
     "batch": "Spring 2026",
     "status": "Active",
     "industries": [
-      "B2B",
-      "Security"
+      "B2B"
     ],
     "regions": [
       "United States of America",

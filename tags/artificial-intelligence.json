@@ -9088,51 +9088,6 @@
     "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2021/slope.json"
   },
   {
-    "id": 23946,
-    "name": "Legion Health",
-    "slug": "legion-health",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d3ae3f109ad60ca8a6a5c6055ffa946a4d30cd38.png",
-    "website": "https://legionhealth.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Legion Health is a high-quality, AI-enabled psychiatry network where patients receive care from a provider who takes their insurance. We use LLMs and AI agents to improve care quality, streamline operations, enhance patient communications, and more.",
-    "one_liner": "AI-native psychiatry, built for scale and covered by insurance",
-    "team_size": 11,
-    "industry": "Healthcare",
-    "subindustry": "Healthcare -> Consumer Health and Wellness",
-    "launched_at": 1624636729,
-    "tags": [
-      "Artificial Intelligence",
-      "Consumer Health Services",
-      "Telehealth",
-      "Healthcare",
-      "Mental Health"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Summer 2021",
-    "status": "Active",
-    "industries": [
-      "Healthcare",
-      "Consumer Health and Wellness"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Growth",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/legion-health",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2021/legion-health.json"
-  },
-  {
     "id": 23954,
     "name": "Serif Health",
     "slug": "serif-health",
@@ -10601,6 +10556,53 @@
     "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2021/tenyks.json"
   },
   {
+    "id": 24571,
+    "name": "Adni",
+    "slug": "adni",
+    "former_names": [
+      "Lumify Care",
+      "Lumify"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/48474c1b0337163fd12462fb6b72ee336a4ad010.png",
+    "website": "https://www.adni.ai/",
+    "all_locations": "San Francisco, CA, USA; Remote",
+    "long_description": "Healthcare workers use Adni’s AI career app to find jobs, buy gear, connect with peers, store credentials, review clinical info, and more. Healthcare employers, like Penn Medicine, Medical Solutions, and MedPro use Adni’s clinician network and AI sourcing and screening agents to hire healthcare talent faster and cheaper.\r\n\r\nBacked by YC, Flare Capital, Liquid 2, Fresco, Augment, Crista Galli, Adam Grant, the founders of CareRev, Clipboard Health, Papa, and more.",
+    "one_liner": "AI career platform for healthcare workers",
+    "team_size": 5,
+    "industry": "Healthcare",
+    "subindustry": "Healthcare",
+    "launched_at": 1624982871,
+    "tags": [
+      "Artificial Intelligence",
+      "Marketplace",
+      "SaaS",
+      "Recruiting",
+      "Healthcare"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2021",
+    "status": "Active",
+    "industries": [
+      "Healthcare"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Fully Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/adni",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2021/adni.json"
+  },
+  {
     "id": 24586,
     "name": "Hudson Labs (formerly Bedrock AI)",
     "slug": "hudson-labs",
@@ -11147,50 +11149,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/tigereye",
     "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2022/tigereye.json"
-  },
-  {
-    "id": 25306,
-    "name": "WorldQL",
-    "slug": "worldql",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/77812b9a6c46bc50c4a0b0326c080c241d029714.png",
-    "website": "https://www.worldql.com/",
-    "all_locations": "San Francisco, CA, USA; Remote",
-    "long_description": "",
-    "one_liner": "Multiplayer engine for building games and RL environments",
-    "team_size": 3,
-    "industry": "Consumer",
-    "subindustry": "Consumer -> Gaming",
-    "launched_at": 1648654841,
-    "tags": [
-      "Artificial Intelligence",
-      "Developer Tools",
-      "Reinforcement Learning",
-      "Gaming"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2022",
-    "status": "Active",
-    "industries": [
-      "Consumer",
-      "Gaming"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Fully Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/worldql",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2022/worldql.json"
   },
   {
     "id": 25314,
@@ -13596,6 +13554,51 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/ecsa",
     "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2022/ecsa.json"
+  },
+  {
+    "id": 26733,
+    "name": "Roxels",
+    "slug": "roxels",
+    "former_names": [
+      "Trebu",
+      "trebu"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0cf53490864092dbff595fc62f53545226e16ac0.png",
+    "website": "https://www.roxels.ai/",
+    "all_locations": "San Francisco, CA, USA; Remote",
+    "long_description": "Roxels is a vision-enabled voice agent that can handle complex flows for your users. For example, it can onboard and give the “Collison Installation” experience to every customer, not just the first ten.",
+    "one_liner": "Founder-level assistance whenever customers need it, at scale",
+    "team_size": 7,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1657745629,
+    "tags": [
+      "Artificial Intelligence",
+      "B2B",
+      "AI Assistant"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2022",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Fully Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/roxels",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2022/roxels.json"
   },
   {
     "id": 26737,
@@ -21338,49 +21341,6 @@
     "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2024/lantern-2.json"
   },
   {
-    "id": 29182,
-    "name": "Upsolve AI",
-    "slug": "upsolve-ai",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/584af51898d885eead8c1806789fece6d7acaff0.png",
-    "website": "https://upsolve.ai/",
-    "all_locations": "",
-    "long_description": "Upsolve AI is a customer-facing analytics as a service platform. We are building a full data stack that enables businesses to build and offer analytics to their customers at lightning speed and gives their customers the superpower to answer any data questions via AI. The company is founded by Ka Ling Wu and Serguei Balanovich, who built a similar product at Palantir before (featured in Palantir's S-1), growing it to 50+ enterprise customers and 8-figures of annual revenue in 2 years.",
-    "one_liner": "Embed GenBI in Your SaaS App",
-    "team_size": 5,
-    "industry": "B2B",
-    "subindustry": "B2B -> Analytics",
-    "launched_at": 1699320905,
-    "tags": [
-      "Artificial Intelligence",
-      "Developer Tools",
-      "B2B",
-      "Analytics",
-      "Big Data"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Winter 2024",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Analytics"
-    ],
-    "regions": [
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/upsolve-ai",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2024/upsolve-ai.json"
-  },
-  {
     "id": 29183,
     "name": "Navier AI",
     "slug": "navier-ai",
@@ -28485,53 +28445,6 @@
     "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2024/orca-launcher.json"
   },
   {
-    "id": 29828,
-    "name": "Sterling Labs, Inc",
-    "slug": "sterling-labs-inc",
-    "former_names": [
-      "Therapy Buddy",
-      "Sterling Labs",
-      "Focus Buddy"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/36badd071180ac2d70c72ca019989b6ecf1830ca.png",
-    "website": "https://www.focusbuddy.ai/?ref=yc",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "currently in stealth\r\n\r\nReach out to us at founders@focusbuddy.ai\r\n\r\nOur previous product - \r\nFocus buddy is an AI productivity coach that stays on calls with you and help you accomplish your important work goals on a daily basis, even when you are struggling to focus.\r\n\r\nWe noticed that our users develop a productive relationship with Focus Buddy. Users stay on calls for multiple hours everyday where they depend on Focus Buddy to:\r\n• Avoid procrastination and get started: Address hidden anxieties, embrace imperfection, chunk tasks, kickstart with mini-goals, and use regular check-ins to maintain momentum.\r\n• Recover from distractions and stay focused: Focus Buddy detects when they are working on less important tasks or scrolling on social media, help them overcome the underlying concerns feeding the distraction, and help them get back to the important task\r\n• Manage stress and Prevent Burnout: Focus Buddy detects stress buildup, integrates mindfulness habits to the workflow, helps take short rejuvenating breaks, and stay composed.\r\n\r\nOur Initial ICP is people with ADHD who are highly motivated but also highly blocked by internal and environmental factors. In the future, we believe each worker should have their own personal coach that enforces proven productivity techniques in real time to help them extract more focused hours every day with the same effort. \r\n",
-    "one_liner": "Currently in stealth - previously FocusBuddy",
-    "team_size": 2,
-    "industry": "Consumer",
-    "subindustry": "Consumer -> Content",
-    "launched_at": 1724988357,
-    "tags": [
-      "Artificial Intelligence",
-      "Consumer",
-      "Productivity",
-      "Mental Health",
-      "Conversational AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2024",
-    "status": "Active",
-    "industries": [
-      "Consumer",
-      "Content"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/sterling-labs-inc",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2024/sterling-labs-inc.json"
-  },
-  {
     "id": 29830,
     "name": "Typa",
     "slug": "typa",
@@ -28705,6 +28618,48 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/oway",
     "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2024/oway.json"
+  },
+  {
+    "id": 29848,
+    "name": "Saldor",
+    "slug": "saldor",
+    "former_names": [
+      "Ovation"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e5e8dd5c7448c58bdeb274d4e57e63ee206feb72.png",
+    "website": "https://saldor.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "We help State and County governments lower their PER, avoiding penalties from H.R.1 and saving governments Billions.",
+    "one_liner": "Saving States from SNAP Payment Errors",
+    "team_size": 2,
+    "industry": "Government",
+    "subindustry": "Government",
+    "launched_at": 1722921255,
+    "tags": [
+      "Artificial Intelligence",
+      "Civic Tech",
+      "GovTech"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2024",
+    "status": "Active",
+    "industries": [
+      "Government"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/saldor",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2024/saldor.json"
   },
   {
     "id": 29849,
@@ -34240,8 +34195,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fae29a98d132c4b435b336dbb5d6cf4a1aaf5de7.png",
     "website": "https://www.starsling.dev/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "StarSling is building an agentic developer homepage that automates all the tasks that eat up a developer’s time after they’ve left their code editor: deployments, performance, incidents, and bugs. Open your homepage, click on a GitHub, Linear, or Sentry issue and you’ll see an Autofix button that triggers an AI agent and opens up a Pull Request with a fix, all without leaving your homepage.",
-    "one_liner": "Cursor for DevOps",
+    "long_description": "StarSling is building an AI-native DevOps platform for developers that ship, starting with CI. StarSling Runners are fast GitHub Actions runners with AI agents that continuously improve your build speeds by more than 80%.",
+    "one_liner": "Self-Driving CI",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -35719,7 +35674,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Summer 2025",
     "status": "Active",
@@ -36882,6 +36837,51 @@
     "api": "https://prajjwal2-3.github.io/yc-data/batches/fall-2025/uplane.json"
   },
   {
+    "id": 30850,
+    "name": "Zavo",
+    "slug": "zavo",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9a1286c1ed0f215411585d2faaf1c76a245ee266.png",
+    "website": "https://zavopay.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Zavo is the AI-powered operating system for restaurants.\r\n\r\nWe bring payments, point of sale, and AI agents into one unified platform, so restaurants can run their entire business seamlessly.\r\n\r\nFrom reservations to payments to POS, Zavo replaces fragmented tools with a fully integrated stack built in-house. Our AI agents automate repetitive tasks, streamline operations, and help teams focus on delivering great guest experiences.",
+    "one_liner": "AI Operating System for Restaurants ",
+    "team_size": 8,
+    "industry": "Fintech",
+    "subindustry": "Fintech -> Payments",
+    "launched_at": 1758482945,
+    "tags": [
+      "Artificial Intelligence",
+      "Fintech",
+      "Payments",
+      "B2B",
+      "Restaurant Tech"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2025",
+    "status": "Active",
+    "industries": [
+      "Fintech",
+      "Payments"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/zavo",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/fall-2025/zavo.json"
+  },
+  {
     "id": 30852,
     "name": "Nexus",
     "slug": "gpt",
@@ -37175,47 +37175,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/norra",
     "api": "https://prajjwal2-3.github.io/yc-data/batches/fall-2025/norra.json"
-  },
-  {
-    "id": 30877,
-    "name": "Trelium",
-    "slug": "trelium",
-    "former_names": [
-      "Questom"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b0c983ddfd3fa9bc66481090e877261b8325bea1.png",
-    "website": "https://www.trelium.com",
-    "all_locations": "",
-    "long_description": "",
-    "one_liner": "The Agent to Build Your Agents",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1759277752,
-    "tags": [
-      "Artificial Intelligence",
-      "B2B",
-      "Workflow Automation"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Fall 2025",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "Unspecified"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/trelium",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/fall-2025/trelium.json"
   },
   {
     "id": 30880,
@@ -37597,51 +37556,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/aleph-lab",
     "api": "https://prajjwal2-3.github.io/yc-data/batches/fall-2025/aleph-lab.json"
-  },
-  {
-    "id": 30911,
-    "name": "Helonic",
-    "slug": "helonic",
-    "former_names": [
-      "Articulate"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b26a35750dbae152a692ea82c2b00bb8f78d4d9b.png",
-    "website": "https://helonic.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "We help construction teams eliminate rework, delays, and drawing confusion before construction starts. We analyze PDF plans, detect clashes and inconsistencies across disciplines, and create draft RFIs so teams can resolve issues early.\r\n\r\nThis saves construction companies hundreds of hours and millions of dollars.\r\n\r\nWhat we do:\r\n- Automatically detect clashes, missing information, and drawing mismatches\r\n- Align architectural, structural, and MEP plans so everything matches across sheets\r\n- Generate draft RFIs from issues we find\r\n- Replace long page-turn meetings with instant drawing analysis\r\n- Reduce rework and prevent schedule delays before boots hit the ground\r\n\r\nWe integrate with: Procore, Autodesk, email, and the tools teams already use\r\n\r\nTeams use us to:\r\n- Save hundreds of thousands to millions of dollars per project\r\n- Catch design and coordination issues early\r\n- Reduce RFIs and prevent field fixes\r\n- Keep projects on schedule with fewer surprises\r\n\r\nContact us at founders@usearticulate.com",
-    "one_liner": "Automatic Construction Drawing Clash Detection ",
-    "team_size": 2,
-    "industry": "Real Estate and Construction",
-    "subindustry": "Real Estate and Construction -> Construction",
-    "launched_at": 1760131149,
-    "tags": [
-      "Artificial Intelligence",
-      "Construction",
-      "B2B",
-      "Workflow Automation",
-      "Architecture"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Fall 2025",
-    "status": "Active",
-    "industries": [
-      "Real Estate and Construction",
-      "Construction"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": true,
-    "url": "https://www.ycombinator.com/companies/helonic",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/fall-2025/helonic.json"
   },
   {
     "id": 30912,

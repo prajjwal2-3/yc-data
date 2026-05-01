@@ -2084,6 +2084,48 @@
     "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2022/strac.json"
   },
   {
+    "id": 25306,
+    "name": "WorldQL",
+    "slug": "worldql",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/77812b9a6c46bc50c4a0b0326c080c241d029714.png",
+    "website": "https://www.worldql.com/",
+    "all_locations": "San Francisco, CA, USA; Remote",
+    "long_description": "",
+    "one_liner": "Simulating problems AI can't solve yet",
+    "team_size": 4,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1648654841,
+    "tags": [
+      "Reinforcement Learning",
+      "Security",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2022",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Fully Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/worldql",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2022/worldql.json"
+  },
+  {
     "id": 25433,
     "name": "JumpWire",
     "slug": "jumpwire",
@@ -3786,49 +3828,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/kestrel-ai",
     "api": "https://prajjwal2-3.github.io/yc-data/batches/fall-2025/kestrel-ai.json"
-  },
-  {
-    "id": 31373,
-    "name": "Refortifai",
-    "slug": "refortifai",
-    "former_names": [
-      "RefortifAI"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b37c6cc458022b158a3f2abce590be2ed10116fb.png",
-    "website": "https://refortif.ai",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Refortifai provides a security agent that monitors your agent.\r\nIt intercepts tool calls, enforces governance policies, and blocks attacks in real time.\r\nCovers prompt injection, memory poisoning, privilege escalation, and more.\r\nIt sits on top of your existing agent setup with minimal integration.",
-    "one_liner": "Runtime security for AI agents",
-    "team_size": 3,
-    "industry": "B2B",
-    "subindustry": "B2B -> Security",
-    "launched_at": 1774743443,
-    "tags": [
-      "B2B",
-      "Security",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Spring 2026",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Security"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/refortifai",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/refortifai.json"
   },
   {
     "id": 31440,

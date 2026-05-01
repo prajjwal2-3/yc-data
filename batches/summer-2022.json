@@ -2618,24 +2618,24 @@
   },
   {
     "id": 26733,
-    "name": "trebu",
-    "slug": "trebu",
+    "name": "Roxels",
+    "slug": "roxels",
     "former_names": [
-      "Trebu"
+      "Trebu",
+      "trebu"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7e23166b394dd40a944a9147832db449cf09b72f.png",
-    "website": "https://www.trebu.io/",
-    "all_locations": "Mexico City, CDMX, Mexico; Remote",
-    "long_description": "Trebu helps logistics companies to reliably detect and structure incoming sales orders by scanning and interpreting the thousands of incoming Whatsapp messages and emails they receive every day.\r\nFor example, we help a logistics broker to double the amount of daily reported shipment requests by automatically detecting messages asking for a shipping service and transferring the details into a structured database.\r\n",
-    "one_liner": "Extract and organize order requests, supplier availabilities, and…",
-    "team_size": 3,
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0cf53490864092dbff595fc62f53545226e16ac0.png",
+    "website": "https://www.roxels.ai/",
+    "all_locations": "San Francisco, CA, USA; Remote",
+    "long_description": "Roxels is a vision-enabled voice agent that can handle complex flows for your users. For example, it can onboard and give the “Collison Installation” experience to every customer, not just the first ten.",
+    "one_liner": "Founder-level assistance whenever customers need it, at scale",
+    "team_size": 7,
     "industry": "B2B",
-    "subindustry": "B2B -> Supply Chain and Logistics",
+    "subindustry": "B2B",
     "launched_at": 1657745629,
     "tags": [
+      "Artificial Intelligence",
       "B2B",
-      "Transportation",
-      "AI",
       "AI Assistant"
     ],
     "tags_highlighted": [],
@@ -2645,12 +2645,11 @@
     "batch": "Summer 2022",
     "status": "Active",
     "industries": [
-      "B2B",
-      "Supply Chain and Logistics"
+      "B2B"
     ],
     "regions": [
-      "Mexico",
-      "Latin America",
+      "United States of America",
+      "America / Canada",
       "Remote",
       "Fully Remote"
     ],
@@ -2659,8 +2658,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/trebu",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2022/trebu.json"
+    "url": "https://www.ycombinator.com/companies/roxels",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2022/roxels.json"
   },
   {
     "id": 26734,
