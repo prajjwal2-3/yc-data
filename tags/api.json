@@ -5436,7 +5436,7 @@
       "Taiki"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c28333543424f2e5753fd39fd195e354af322187.png",
-    "website": "https://www.integuru.ai",
+    "website": "https://www.integuru.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Integuru turns any website into a reliable, real-time, low-latency, and high-volume API. No RPA involved. We specialize in delivering the most robust integrations, processing millions of API calls monthly at 99.99%+ success rate.",
     "one_liner": "Generate the most robust APIs with any website",
@@ -5445,11 +5445,11 @@
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1709153976,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "B2B",
       "API",
-      "Automation"
+      "Automation",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -5918,14 +5918,14 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Nozomio is a product and research lab solving context, starting with Nia.\r\n\r\nNia is a search and index API. We continuously provide context from docs, research papers, datasets, codebases, and more so agents never rely on stale data. Scalable, 5x cheaper, and reliable.",
     "one_liner": "index anything. search it with ai.",
-    "team_size": 1,
+    "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1751302971,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
-      "API",
-      "AI"
+      "API"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -5945,7 +5945,7 @@
     "app_video_public": true,
     "demo_day_video_public": false,
     "app_answers": null,
-    "question_answers": false,
+    "question_answers": true,
     "url": "https://www.ycombinator.com/companies/nozomio",
     "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2025/nozomio.json"
   },
@@ -6291,7 +6291,7 @@
     "website": "https://kugelaudio.com/en",
     "all_locations": "Berlin, Berlin, Germany",
     "long_description": "Kugel is an enterprise-ready TTS model, available on-prem, with a focus on European languages and low latency. ",
-    "one_liner": "Kugel is an enterprise-ready TTS model for customer support",
+    "one_liner": "Kugel is an on-prem enterprise TTS supporting 25+ languages ",
     "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",

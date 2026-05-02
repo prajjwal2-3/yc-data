@@ -1303,7 +1303,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -9514,18 +9514,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0da6fd5bf7648bc26ba469b7a2a03b08186196dd.png",
     "website": "https://www.oneschema.co",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "OneSchema is the AI-powered automation platform for messy files. Map and integrate your messiest spreadsheets and PDFs with your enterprise business systems without countless hours of manual work.",
-    "one_liner": "Automate CSV & PDF workflows with AI",
-    "team_size": 25,
+    "long_description": "OneSchema is the AI-powered automation platform for legacy systems with no API. Map and integrate messy files, PDFs, or database dumps all without countless hours of manual work or brittle scripts.",
+    "one_liner": "The AI Agent for Autonomous Data Operations",
+    "team_size": 20,
     "industry": "B2B",
     "subindustry": "B2B -> Operations",
     "launched_at": 1626328672,
     "tags": [
+      "Artificial Intelligence",
       "SaaS",
       "B2B",
       "Workflow Automation",
-      "No-code",
-      "AI"
+      "No-code"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -13965,7 +13965,7 @@
     "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2021",
-    "status": "Active",
+    "status": "Inactive",
     "industries": [
       "Fintech",
       "Credit and Lending"
@@ -15318,14 +15318,13 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0f30f00dbe44cde67296a43e445c0bb0dc14f9b5.png",
     "website": "http://medium.bio",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "We develop AI models & new assays to create functional, therapeutic proteins.",
-    "one_liner": "AI-designed Protein Therapeutics",
+    "long_description": "Custom affinity reagents, designed for your target and application! We turn advances in AI and protein design into experimentally validated molecular tools, partnering with research teams and diagnostic developers to deliver high-performance affinity reagents in weeks, not months.",
+    "one_liner": "AI-designed Affinity Reagents",
     "team_size": 6,
     "industry": "Healthcare",
-    "subindustry": "Healthcare -> Therapeutics",
+    "subindustry": "Healthcare -> Diagnostics",
     "launched_at": 1630004252,
     "tags": [
-      "AI-powered Drug Discovery",
       "Machine Learning",
       "Biotech",
       "AI"
@@ -15338,7 +15337,7 @@
     "status": "Active",
     "industries": [
       "Healthcare",
-      "Therapeutics"
+      "Diagnostics"
     ],
     "regions": [
       "United States of America",

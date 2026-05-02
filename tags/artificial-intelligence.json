@@ -10238,6 +10238,51 @@
     "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2021/dot.json"
   },
   {
+    "id": 24404,
+    "name": "OneSchema",
+    "slug": "oneschema",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0da6fd5bf7648bc26ba469b7a2a03b08186196dd.png",
+    "website": "https://www.oneschema.co",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "OneSchema is the AI-powered automation platform for legacy systems with no API. Map and integrate messy files, PDFs, or database dumps all without countless hours of manual work or brittle scripts.",
+    "one_liner": "The AI Agent for Autonomous Data Operations",
+    "team_size": 20,
+    "industry": "B2B",
+    "subindustry": "B2B -> Operations",
+    "launched_at": 1626328672,
+    "tags": [
+      "Artificial Intelligence",
+      "SaaS",
+      "B2B",
+      "Workflow Automation",
+      "No-code"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2021",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Operations"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/oneschema",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2021/oneschema.json"
+  },
+  {
     "id": 24461,
     "name": "Mine",
     "slug": "mine",
@@ -12161,10 +12206,10 @@
     "name": "Cogram",
     "slug": "cogram",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/61153d83e47c1914a8eed2b2b8b7f1813bf43dca.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9e67ec6dcc40ad110095fd4caf4f77334ee70a01.png",
     "website": "https://cogram.com",
     "all_locations": "New York, NY, USA",
-    "long_description": "Cogram is an AI platform for the architecture, engineering, and construction (AEC) industry. Our products automate a growing number of AEC workflows such as site reports, meeting minutes, mail management, and RFP bidding.",
+    "long_description": "The software architects and engineers rely on is decades old, hard to use, and built for a pre-AI world. Since 2021, Cogram is building the alternative: AI-native tools that leading firms use to deliver projects.",
     "one_liner": "The AI Platform for Architects, Builders, and Engineers",
     "team_size": 15,
     "industry": "B2B",
@@ -13802,7 +13847,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2022",
     "status": "Active",
@@ -21832,7 +21877,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Winter 2024",
     "status": "Active",
@@ -25121,51 +25166,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/voxops-ai",
     "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2024/voxops-ai.json"
-  },
-  {
-    "id": 29498,
-    "name": "Integuru",
-    "slug": "integuru",
-    "former_names": [
-      "Taiki"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c28333543424f2e5753fd39fd195e354af322187.png",
-    "website": "https://www.integuru.ai",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Integuru turns any website into a reliable, real-time, low-latency, and high-volume API. No RPA involved. We specialize in delivering the most robust integrations, processing millions of API calls monthly at 99.99%+ success rate.",
-    "one_liner": "Generate the most robust APIs with any website",
-    "team_size": 4,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1709153976,
-    "tags": [
-      "Artificial Intelligence",
-      "Developer Tools",
-      "B2B",
-      "API",
-      "Automation"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2024",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/integuru",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2024/integuru.json"
   },
   {
     "id": 29507,
@@ -35776,6 +35776,51 @@
     "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2025/normal.json"
   },
   {
+    "id": 30700,
+    "name": "Nozomio",
+    "slug": "nozomio",
+    "former_names": [
+      "Nozomio Inc.",
+      "Nozomio",
+      "Nozomio (Nia AI)"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1d85c6a1195667680f7ed4c90a6bda101d0cc579.png",
+    "website": "https://www.trynia.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Nozomio is a product and research lab solving context, starting with Nia.\r\n\r\nNia is a search and index API. We continuously provide context from docs, research papers, datasets, codebases, and more so agents never rely on stale data. Scalable, 5x cheaper, and reliable.",
+    "one_liner": "index anything. search it with ai.",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1751302971,
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "API"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": true,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": true,
+    "url": "https://www.ycombinator.com/companies/nozomio",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2025/nozomio.json"
+  },
+  {
     "id": 30701,
     "name": "Mimos",
     "slug": "mimos",
@@ -39055,6 +39100,50 @@
     "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2026/shofo.json"
   },
   {
+    "id": 31323,
+    "name": "Hedge",
+    "slug": "hedge",
+    "former_names": [
+      "Taven"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3a2579aaa172cfb606855a9d93aaa1c946945357.png",
+    "website": "https://www.hedgespecialty.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "",
+    "one_liner": "AI native specialty insurance company",
+    "team_size": 0,
+    "industry": "Fintech",
+    "subindustry": "Fintech -> Insurance",
+    "launched_at": 1777586182,
+    "tags": [
+      "Artificial Intelligence",
+      "Fintech",
+      "B2B",
+      "Insurance"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "Fintech",
+      "Insurance"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/hedge",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/hedge.json"
+  },
+  {
     "id": 31327,
     "name": "Korso",
     "slug": "korso",
@@ -39786,6 +39875,50 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/mount",
     "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/mount.json"
+  },
+  {
+    "id": 31459,
+    "name": "Zibra Labs",
+    "slug": "zibra-labs",
+    "former_names": [
+      "TBD. We don't have a name yet."
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/561de55fc1ba8b5c7254d0ad9eed2d656139b041.png",
+    "website": "https://zibralabs.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Quant research is generating candidate strategies orders of magnitude faster than backtesting infrastructure can evaluate them. AI has further accelerated alpha research from a handful of signals per quarter to hundreds per day. The bottleneck has moved from researcher time to compute throughput.\r\n\r\nWe're building large HPC clusters (100 - 50,000 nodes) that can run up to 6.4M tasks in parallel across multiple cloud providers on spot instances.\r\n\r\nOur goal is to make backtesting strategies simple, fast, and cheap at scale.",
+    "one_liner": "HPC for Quant Trading Firms running backtesting at scale.",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1777682633,
+    "tags": [
+      "Artificial Intelligence",
+      "Fintech",
+      "Cloud Computing",
+      "Infrastructure"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/zibra-labs",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/zibra-labs.json"
   },
   {
     "id": 31460,

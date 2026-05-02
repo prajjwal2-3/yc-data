@@ -15413,7 +15413,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -17746,14 +17746,13 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0f30f00dbe44cde67296a43e445c0bb0dc14f9b5.png",
     "website": "http://medium.bio",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "We develop AI models & new assays to create functional, therapeutic proteins.",
-    "one_liner": "AI-designed Protein Therapeutics",
+    "long_description": "Custom affinity reagents, designed for your target and application! We turn advances in AI and protein design into experimentally validated molecular tools, partnering with research teams and diagnostic developers to deliver high-performance affinity reagents in weeks, not months.",
+    "one_liner": "AI-designed Affinity Reagents",
     "team_size": 6,
     "industry": "Healthcare",
-    "subindustry": "Healthcare -> Therapeutics",
+    "subindustry": "Healthcare -> Diagnostics",
     "launched_at": 1630004252,
     "tags": [
-      "AI-powered Drug Discovery",
       "Machine Learning",
       "Biotech",
       "AI"
@@ -17766,7 +17765,7 @@
     "status": "Active",
     "industries": [
       "Healthcare",
-      "Therapeutics"
+      "Diagnostics"
     ],
     "regions": [
       "United States of America",
@@ -24807,16 +24806,22 @@
     "name": "Dodo",
     "slug": "dodo",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ffc4a158d3979439d30a2236e2c173382feadd5d.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/931b010912edad6092eb6dc209a64e86f18872c9.png",
     "website": "https://www.dodo.ai/",
-    "all_locations": "",
-    "long_description": "Dodo develops AI employees for specialty clinics, starting with veterinarians, fine-tuned on industry-specific knowledge and trained on protocols taken directly from employee manuals and playbooks, which often span multiple binders. \r\n\r\nClinics hire Dodo's labor-as-a-software to handle front and back-office tasks, enabling clinics to provide 24/7 service. Dodo answers calls, sends medical records, and refills prescriptions—fully autonomously, with no human in the loop.",
-    "one_liner": "AI Employees for Specialty Clinics",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Dodo turns client communication into booked appointments, completed workflows, and predictive analytics, powering millions of client interactions annually for hundreds of clinics.\r\n\r\nOur multi-agent system autonomously runs scheduling, refills, intake, and follow-ups across calls and texts — integrating directly with clinic systems to cut communication overhead ~70% and act like a trained CSR 24/7.",
+    "one_liner": "AI agents that handle communications for clinics",
     "team_size": 3,
     "industry": "Healthcare",
     "subindustry": "Healthcare -> Healthcare IT",
     "launched_at": 1723044153,
-    "tags": [],
+    "tags": [
+      "Health Tech",
+      "Dental",
+      "Call Center",
+      "AI",
+      "Conversational AI"
+    ],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": true,
@@ -24828,7 +24833,8 @@
       "Healthcare IT"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -26624,49 +26630,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/libretto",
     "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2025/libretto.json"
-  },
-  {
-    "id": 30516,
-    "name": "Bramante Biologics",
-    "slug": "bramante-biologics",
-    "former_names": [
-      "LabKick Corporation",
-      "LabKick"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/bf074dabb28f6a317b41850f4ce802050e1e38af.png",
-    "website": "https://www.bramantebio.com",
-    "all_locations": "Cambridge, MA, USA",
-    "long_description": "Manufacturing pharmaceutical drugs faster and in the USA",
-    "one_liner": "American drug manufacturing",
-    "team_size": 2,
-    "industry": "Healthcare",
-    "subindustry": "Healthcare",
-    "launched_at": 1747846039,
-    "tags": [
-      "Biotech",
-      "Manufacturing",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Spring 2025",
-    "status": "Active",
-    "industries": [
-      "Healthcare"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/bramante-biologics",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2025/bramante-biologics.json"
   },
   {
     "id": 30529,

@@ -604,16 +604,16 @@
     "website": "https://www.hedgespecialty.com/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "",
-    "one_liner": "AI native insurance company",
+    "one_liner": "AI native specialty insurance company",
     "team_size": 0,
     "industry": "Fintech",
     "subindustry": "Fintech -> Insurance",
     "launched_at": 1777586182,
     "tags": [
+      "Artificial Intelligence",
       "Fintech",
       "B2B",
-      "Insurance",
-      "AI"
+      "Insurance"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -2135,8 +2135,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/81cc115767ef5ba186ef4f8840e2888354896cb7.png",
     "website": "https://drippay.dev/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "",
-    "one_liner": "Infrastructure to replace most monetization tooling",
+    "long_description": "We build the way for you to create context for all your communications, finances, and inbound.",
+    "one_liner": "The company brain",
     "team_size": 0,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
@@ -3210,6 +3210,50 @@
     "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/ara.json"
   },
   {
+    "id": 31459,
+    "name": "Zibra Labs",
+    "slug": "zibra-labs",
+    "former_names": [
+      "TBD. We don't have a name yet."
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/561de55fc1ba8b5c7254d0ad9eed2d656139b041.png",
+    "website": "https://zibralabs.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Quant research is generating candidate strategies orders of magnitude faster than backtesting infrastructure can evaluate them. AI has further accelerated alpha research from a handful of signals per quarter to hundreds per day. The bottleneck has moved from researcher time to compute throughput.\r\n\r\nWe're building large HPC clusters (100 - 50,000 nodes) that can run up to 6.4M tasks in parallel across multiple cloud providers on spot instances.\r\n\r\nOur goal is to make backtesting strategies simple, fast, and cheap at scale.",
+    "one_liner": "HPC for Quant Trading Firms running backtesting at scale.",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1777682633,
+    "tags": [
+      "Artificial Intelligence",
+      "Fintech",
+      "Cloud Computing",
+      "Infrastructure"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/zibra-labs",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/zibra-labs.json"
+  },
+  {
     "id": 31460,
     "name": "PLAN0 AI",
     "slug": "plan0-ai",
@@ -3951,6 +3995,49 @@
     "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/pentagon.json"
   },
   {
+    "id": 31517,
+    "name": "YouArt",
+    "slug": "youart",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b7bf5ef49531e304338226fa7947782386f95b91.png",
+    "website": "https://youart.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "YouArt helps storytellers create AI originals using our industry-leading video agent, launch their original concepts, get funded directly by early fans, and earn from their audience.",
+    "one_liner": "Patreon for AI originals",
+    "team_size": 3,
+    "industry": "Consumer",
+    "subindustry": "Consumer -> Content",
+    "launched_at": 1777676428,
+    "tags": [
+      "Generative AI",
+      "Video",
+      "Creator Economy"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "Consumer",
+      "Content"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/youart",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/youart.json"
+  },
+  {
     "id": 31518,
     "name": "Runtime",
     "slug": "runtime",
@@ -4334,7 +4421,7 @@
     "website": "https://kugelaudio.com/en",
     "all_locations": "Berlin, Berlin, Germany",
     "long_description": "Kugel is an enterprise-ready TTS model, available on-prem, with a focus on European languages and low latency. ",
-    "one_liner": "Kugel is an enterprise-ready TTS model for customer support",
+    "one_liner": "Kugel is an on-prem enterprise TTS supporting 25+ languages ",
     "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",

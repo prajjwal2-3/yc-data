@@ -17579,18 +17579,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0da6fd5bf7648bc26ba469b7a2a03b08186196dd.png",
     "website": "https://www.oneschema.co",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "OneSchema is the AI-powered automation platform for messy files. Map and integrate your messiest spreadsheets and PDFs with your enterprise business systems without countless hours of manual work.",
-    "one_liner": "Automate CSV & PDF workflows with AI",
-    "team_size": 25,
+    "long_description": "OneSchema is the AI-powered automation platform for legacy systems with no API. Map and integrate messy files, PDFs, or database dumps all without countless hours of manual work or brittle scripts.",
+    "one_liner": "The AI Agent for Autonomous Data Operations",
+    "team_size": 20,
     "industry": "B2B",
     "subindustry": "B2B -> Operations",
     "launched_at": 1626328672,
     "tags": [
+      "Artificial Intelligence",
       "SaaS",
       "B2B",
       "Workflow Automation",
-      "No-code",
-      "AI"
+      "No-code"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -18739,7 +18739,7 @@
     "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2021",
-    "status": "Active",
+    "status": "Inactive",
     "industries": [
       "Fintech",
       "Credit and Lending"
@@ -21548,10 +21548,10 @@
     "name": "Cogram",
     "slug": "cogram",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/61153d83e47c1914a8eed2b2b8b7f1813bf43dca.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9e67ec6dcc40ad110095fd4caf4f77334ee70a01.png",
     "website": "https://cogram.com",
     "all_locations": "New York, NY, USA",
-    "long_description": "Cogram is an AI platform for the architecture, engineering, and construction (AEC) industry. Our products automate a growing number of AEC workflows such as site reports, meeting minutes, mail management, and RFP bidding.",
+    "long_description": "The software architects and engineers rely on is decades old, hard to use, and built for a pre-AI world. Since 2021, Cogram is building the alternative: AI-native tools that leading firms use to deliver projects.",
     "one_liner": "The AI Platform for Architects, Builders, and Engineers",
     "team_size": 15,
     "industry": "B2B",
@@ -32276,7 +32276,7 @@
       "WarpSpeed"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b9b1d03584239acca9b7673ae88585f25fe796b0.png",
-    "website": "https://www.joinwarp.com/",
+    "website": "https://www.warp.co/",
     "all_locations": "New York, NY, USA",
     "long_description": "Warp is a modern, AI-native employee management platform for high-growth companies.\r\n\r\nWe’ve raised $25M from Sound Ventures (Ashton Kutcher), A-Star, Abstract, Drew Houston & Arash Ferdowsi (Dropbox), Balaji Srinivasan, Amjad Masad (Replit), Kyle Vogt (Cruise), SV Angel & Homebrew Capital.",
     "one_liner": "AI-native Employee Management Platform for High-Growth Companies",
@@ -37297,7 +37297,7 @@
       "Taiki"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c28333543424f2e5753fd39fd195e354af322187.png",
-    "website": "https://www.integuru.ai",
+    "website": "https://www.integuru.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Integuru turns any website into a reliable, real-time, low-latency, and high-volume API. No RPA involved. We specialize in delivering the most robust integrations, processing millions of API calls monthly at 99.99%+ success rate.",
     "one_liner": "Generate the most robust APIs with any website",
@@ -37306,11 +37306,11 @@
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1709153976,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "B2B",
       "API",
-      "Automation"
+      "Automation",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -47259,16 +47259,16 @@
     "website": "https://www.hedgespecialty.com/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "",
-    "one_liner": "AI native insurance company",
+    "one_liner": "AI native specialty insurance company",
     "team_size": 0,
     "industry": "Fintech",
     "subindustry": "Fintech -> Insurance",
     "launched_at": 1777586182,
     "tags": [
+      "Artificial Intelligence",
       "Fintech",
       "B2B",
-      "Insurance",
-      "AI"
+      "Insurance"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -47606,8 +47606,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/81cc115767ef5ba186ef4f8840e2888354896cb7.png",
     "website": "https://drippay.dev/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "",
-    "one_liner": "Infrastructure to replace most monetization tooling",
+    "long_description": "We build the way for you to create context for all your communications, finances, and inbound.",
+    "one_liner": "The company brain",
     "team_size": 0,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",

@@ -5605,7 +5605,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -6577,51 +6577,6 @@
     "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2021/miniloop.json"
   },
   {
-    "id": 24404,
-    "name": "OneSchema",
-    "slug": "oneschema",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0da6fd5bf7648bc26ba469b7a2a03b08186196dd.png",
-    "website": "https://www.oneschema.co",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "OneSchema is the AI-powered automation platform for messy files. Map and integrate your messiest spreadsheets and PDFs with your enterprise business systems without countless hours of manual work.",
-    "one_liner": "Automate CSV & PDF workflows with AI",
-    "team_size": 25,
-    "industry": "B2B",
-    "subindustry": "B2B -> Operations",
-    "launched_at": 1626328672,
-    "tags": [
-      "SaaS",
-      "B2B",
-      "Workflow Automation",
-      "No-code",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Summer 2021",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Operations"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/oneschema",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2021/oneschema.json"
-  },
-  {
     "id": 24408,
     "name": "Forage Mail",
     "slug": "forage-mail",
@@ -7082,14 +7037,13 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0f30f00dbe44cde67296a43e445c0bb0dc14f9b5.png",
     "website": "http://medium.bio",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "We develop AI models & new assays to create functional, therapeutic proteins.",
-    "one_liner": "AI-designed Protein Therapeutics",
+    "long_description": "Custom affinity reagents, designed for your target and application! We turn advances in AI and protein design into experimentally validated molecular tools, partnering with research teams and diagnostic developers to deliver high-performance affinity reagents in weeks, not months.",
+    "one_liner": "AI-designed Affinity Reagents",
     "team_size": 6,
     "industry": "Healthcare",
-    "subindustry": "Healthcare -> Therapeutics",
+    "subindustry": "Healthcare -> Diagnostics",
     "launched_at": 1630004252,
     "tags": [
-      "AI-powered Drug Discovery",
       "Machine Learning",
       "Biotech",
       "AI"
@@ -7102,7 +7056,7 @@
     "status": "Active",
     "industries": [
       "Healthcare",
-      "Therapeutics"
+      "Diagnostics"
     ],
     "regions": [
       "United States of America",
@@ -9341,7 +9295,7 @@
     "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2022",
-    "status": "Active",
+    "status": "Inactive",
     "industries": [
       "B2B",
       "Engineering, Product and Design"
@@ -20739,6 +20693,51 @@
     "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2024/spur.json"
   },
   {
+    "id": 29498,
+    "name": "Integuru",
+    "slug": "integuru",
+    "former_names": [
+      "Taiki"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c28333543424f2e5753fd39fd195e354af322187.png",
+    "website": "https://www.integuru.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Integuru turns any website into a reliable, real-time, low-latency, and high-volume API. No RPA involved. We specialize in delivering the most robust integrations, processing millions of API calls monthly at 99.99%+ success rate.",
+    "one_liner": "Generate the most robust APIs with any website",
+    "team_size": 4,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1709153976,
+    "tags": [
+      "Developer Tools",
+      "B2B",
+      "API",
+      "Automation",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2024",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/integuru",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2024/integuru.json"
+  },
+  {
     "id": 29499,
     "name": "Forge",
     "slug": "forge",
@@ -22043,6 +22042,49 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/deepsim-inc",
     "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2024/deepsim-inc.json"
+  },
+  {
+    "id": 29679,
+    "name": "Dodo",
+    "slug": "dodo",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/931b010912edad6092eb6dc209a64e86f18872c9.png",
+    "website": "https://www.dodo.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Dodo turns client communication into booked appointments, completed workflows, and predictive analytics, powering millions of client interactions annually for hundreds of clinics.\r\n\r\nOur multi-agent system autonomously runs scheduling, refills, intake, and follow-ups across calls and texts — integrating directly with clinic systems to cut communication overhead ~70% and act like a trained CSR 24/7.",
+    "one_liner": "AI agents that handle communications for clinics",
+    "team_size": 3,
+    "industry": "Healthcare",
+    "subindustry": "Healthcare -> Healthcare IT",
+    "launched_at": 1723044153,
+    "tags": [
+      "Health Tech",
+      "Dental",
+      "Call Center",
+      "AI",
+      "Conversational AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2024",
+    "status": "Active",
+    "industries": [
+      "Healthcare",
+      "Healthcare IT"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/dodo",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2024/dodo.json"
   },
   {
     "id": 29682,
@@ -28817,20 +28859,21 @@
   },
   {
     "id": 30516,
-    "name": "Bramante Biologics",
-    "slug": "bramante-biologics",
+    "name": "Bramante",
+    "slug": "bramante",
     "former_names": [
       "LabKick Corporation",
-      "LabKick"
+      "LabKick",
+      "Bramante Biologics"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/bf074dabb28f6a317b41850f4ce802050e1e38af.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d13627b06670d3337bda071d8e7bccb8d6728ffd.png",
     "website": "https://www.bramantebio.com",
     "all_locations": "Cambridge, MA, USA",
-    "long_description": "Manufacturing pharmaceutical drugs faster and in the USA",
-    "one_liner": "American drug manufacturing",
+    "long_description": "We manufacturing instruments and reagents that are purpose built for AI, automated labs, and personalized medicines.",
+    "one_liner": "Life sciences instrument and reagent manufacturing",
     "team_size": 2,
-    "industry": "Healthcare",
-    "subindustry": "Healthcare",
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Manufacturing and Robotics",
     "launched_at": 1747846039,
     "tags": [
       "Biotech",
@@ -28844,7 +28887,8 @@
     "batch": "Spring 2025",
     "status": "Active",
     "industries": [
-      "Healthcare"
+      "Industrials",
+      "Manufacturing and Robotics"
     ],
     "regions": [
       "United States of America",
@@ -28855,8 +28899,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/bramante-biologics",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2025/bramante-biologics.json"
+    "url": "https://www.ycombinator.com/companies/bramante",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2025/bramante.json"
   },
   {
     "id": 30519,
@@ -30239,51 +30283,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/vibeflow",
     "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2025/vibeflow.json"
-  },
-  {
-    "id": 30700,
-    "name": "Nozomio",
-    "slug": "nozomio",
-    "former_names": [
-      "Nozomio Inc.",
-      "Nozomio",
-      "Nozomio (Nia AI)"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1d85c6a1195667680f7ed4c90a6bda101d0cc579.png",
-    "website": "https://www.trynia.ai/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Nozomio is a product and research lab solving context, starting with Nia.\r\n\r\nNia is a search and index API. We continuously provide context from docs, research papers, datasets, codebases, and more so agents never rely on stale data. Scalable, 5x cheaper, and reliable.",
-    "one_liner": "index anything. search it with ai.",
-    "team_size": 1,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1751302971,
-    "tags": [
-      "Developer Tools",
-      "API",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Summer 2025",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": true,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/nozomio",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2025/nozomio.json"
   },
   {
     "id": 30703,
@@ -33668,50 +33667,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/librar-labs",
     "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2026/librar-labs.json"
-  },
-  {
-    "id": 31323,
-    "name": "Hedge",
-    "slug": "hedge",
-    "former_names": [
-      "Taven"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3a2579aaa172cfb606855a9d93aaa1c946945357.png",
-    "website": "https://www.hedgespecialty.com/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "",
-    "one_liner": "AI native insurance company",
-    "team_size": 0,
-    "industry": "Fintech",
-    "subindustry": "Fintech -> Insurance",
-    "launched_at": 1777586182,
-    "tags": [
-      "Fintech",
-      "B2B",
-      "Insurance",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Spring 2026",
-    "status": "Active",
-    "industries": [
-      "Fintech",
-      "Insurance"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/hedge",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/hedge.json"
   },
   {
     "id": 31330,
