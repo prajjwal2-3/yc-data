@@ -465,7 +465,7 @@
       "Partly Remote"
     ],
     "stage": "Early",
-    "app_video_public": false,
+    "app_video_public": true,
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
@@ -1065,10 +1065,10 @@
     "subindustry": "B2B -> Sales",
     "launched_at": 1777155515,
     "tags": [
-      "Artificial Intelligence",
       "SaaS",
       "B2B",
       "Sales",
+      "AI",
       "AI Assistant"
     ],
     "tags_highlighted": [],
@@ -2473,7 +2473,7 @@
     "all_locations": "Remote",
     "long_description": "GojiberryAI is a GTM Brain that helps sales teams find and convert high-intent leads by continuously learning what works across their go-to-market. Instead of relying on cold lists, it detects real buying signals like competitor engagement and social signals, job changes, hiring spikes, or funding events, then prioritizes the best prospects based on ICP fit and intent. It analyzes each lead’s context, generates personalized messages, starts conversations, and follows up automatically until a meeting is booked, while constantly optimizing targeting, messaging, and timing so performance compounds over time. \r\n\r\nThe result is simple: 2 to 5x more replies, more qualified conversations, and a predictable pipeline without wasting time on low-intent prospects.",
     "one_liner": "GTM Brain for small sales teams ",
-    "team_size": 0,
+    "team_size": 7,
     "industry": "B2B",
     "subindustry": "B2B -> Sales",
     "launched_at": 1774430148,
@@ -4381,7 +4381,7 @@
     "name": "Klaimee",
     "slug": "klaimee",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6e3d33eec8f456adbebd1c1792d44f7e75715cbd.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7b072cf10e5d03192359bbf4a4f1e59c2bed6476.png",
     "website": "https://www.klaimee.ai",
     "all_locations": "",
     "long_description": "Klaimee certifies and insures autonomous AI agents.\r\nWe audit your agents and back them with AI-native liability coverage.\r\nBuilt for startups bringing AI to enterprise clients, self-serve from day one.\r\n\r\nThe problem: AI agents are taking actions autonomously, buying, emailing, modifying data. AB 316 already holds deployers liable. EU AI Act enforces in August. Cyber insurance is excluding AI claims. Startups shipping agents to enterprise have zero coverage and no third-party proof their agent is safe. Enterprise legal asks \"who pays if your agent breaks something?\" and there's no good answer.\r\n                                                                                                                                                                                                                                        \r\nWe built the answer. Critical-category risk evaluation, certification, financial guarantee, liability insurance and the documentation enterprise procurement needs to sign off.\r\n\r\nTeam: Ines (ex-General Manager at SafetyWing, grew insurance product from $5M to $40M revenue, 5 years managing claims, underwriting, and carrier relationships) + Julien (software engineer + corporate strategy, enterprise compliance).\r\n\r\nWe understand how insurance works, what enterprises require, and why startups can't wait 6 months for either.",

@@ -43577,7 +43577,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/83db64301a123c8f20195581b448254e59c1a24f.png",
     "website": "https://www.therentflow.com",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "NY, USA",
     "long_description": "RentFlow is the first ‘Buy Now Pay Later’ platform for commercial rent.\r\n\r\nIn the US alone, ~ 50% of small & medium businesses are behind on their rent. \r\nRentFlow is the first AI-powered platform to end the late rent cycle for businesses:\r\nFor landlords: Rent is paid in full and on time every month, at no extra cost. Cut the collections hassle.\r\nFor businesses: Rent is split into smaller, revenue-synced installments. Match fixed costs to real cash flow year-long.\r\n\r\nNo late rent. Just perfect timing on both sides.",
     "one_liner": "The first 'Buy Now Pay Later' solution for Commercial Rent",
     "team_size": 3,
@@ -44102,7 +44102,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/828abce88fc3773d5c6973ac36dd47b70ebb191e.png",
     "website": "https://openfunnel.dev",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "OpenFunnel is the Search Engine for GTM.\r\n\r\nSearching for \"B2B SaaS, 501-1000 employees, uses Salesforce\" - is just targeted spam.\r\n\r\nEven if you get creative with LLMs to query these databases, everyone has access to the same commoditized databases, these databases lack insights about right timing or pain-points prospects face.\r\n\r\nOpenFunnel is a time-aware search engine for insights and activities in your target segment - that reveal pain.\r\n\r\nYou can search for activities like:\r\n\"Find companies looking to implement usage based billing\"\r\n\"Find companies that moved from OpenAI to self-hosted models in the last 3-6 months\"\r\n\"Find companies who updated their pricing page to introduce an enterprise plan in the last 3 months\"\r\n\r\nOpenFunnel continuously monitors these time-based signals, delivering actionable insights daily - so you have the fastest, unique insights that your competitors miss out on.\r\nOver 1000+ users are already discovering prospects through pain-first search, including some of the fastest-growing companies like Central, Mintlify, and Everest Systems.",
     "one_liner": "We monitor your TAM and surface companies when custom triggers fire.",
     "team_size": 4,
@@ -44126,7 +44126,8 @@
       "Sales"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -47161,50 +47162,6 @@
     "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2025/opennote.json"
   },
   {
-    "id": 30754,
-    "name": "Locata",
-    "slug": "locata",
-    "former_names": [
-      "Locata AI"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c0351a7bc0e508af83b9f25fa8db67212e25a78c.png",
-    "website": "https://www.locatahealth.com/",
-    "all_locations": "New York, NY, USA",
-    "long_description": "Locata is an AI referral management platform for Primary Care. We deploy AI agents to automate every step of the referral process that back-office staff face daily, from submitting prior authorizations to broadcasting updates and following up with patients. This frees up staff to focus on patient care.\r\n\r\nPrimary care back-offices are severely understaffed and overburdened by administrative work associated with referrals. Additionally, patients suffer navigating the complex referral process, which can have disastrous health effects if they don’t get the care they need. These factors point to a glaring gap in the system—where out of over 100 million specialist referrals issued annually in the US, only half are actually completed. Locata is tackling this problem head-on, saving administrative staff hours each week and ensuring that the referral process goes as smoothly as possible for patients and their providers.\r\n\r\nAlejandro and Josh met at Stanford where they graduated with BS degrees in Computer Science. Alejandro was a senior software engineer at Meta’s Reality Labs where he led development of several AI features for wearable products and prior to that conducted AI research at Stanford Medicine. Josh graduated with a masters in Computer Science, specializing in AI, before working as a software engineer at Google where he developed AI products that served over 1 billion users.\r\n\r\nWithin two weeks of building our product, we signed a major regional health center and have saved them over 100 hours of work in our first month live.",
-    "one_liner": "AI Referral Automation for Primary Care Clinics",
-    "team_size": 4,
-    "industry": "Healthcare",
-    "subindustry": "Healthcare -> Healthcare IT",
-    "launched_at": 1753486430,
-    "tags": [
-      "Artificial Intelligence",
-      "SaaS",
-      "Health Tech",
-      "B2B"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2025",
-    "status": "Active",
-    "industries": [
-      "Healthcare",
-      "Healthcare IT"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/locata",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2025/locata.json"
-  },
-  {
     "id": 30759,
     "name": "Certus AI",
     "slug": "certus-ai",
@@ -48207,10 +48164,10 @@
     "subindustry": "B2B -> Sales",
     "launched_at": 1777155515,
     "tags": [
-      "Artificial Intelligence",
       "SaaS",
       "B2B",
       "Sales",
+      "AI",
       "AI Assistant"
     ],
     "tags_highlighted": [],

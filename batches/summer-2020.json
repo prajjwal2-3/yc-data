@@ -1257,7 +1257,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ba0036069bd338a4c6188cb137722d8f584d0016.png",
     "website": "https://roboflow.com",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "New York, NY, USA",
     "long_description": "Roboflow enables developers to make the world programmable.\r\n\r\nUse our tools to build better datasets (collect image, video / annotate), models (foundation and fine tuned small models), and deployments (self hosted, edge, APIs, SDKs) for computer vision. Over 250k developers, including those from over half the Fortune 100, build with our open source and hosted tools.\r\n\r\nBuild with us: https://app.roboflow.com\r\nHack with us: https://roboflow.slab.com/public/posts/roboflow-hackathons-external-u478m1iz\r\nWork with us: roboflow.com/careers\r\n",
     "one_liner": "🖼️ Give your software the sense of sight.",
     "team_size": 100,
@@ -1265,11 +1265,11 @@
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1598130074,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "Machine Learning",
       "Computer Vision",
-      "Enterprise"
+      "Enterprise",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -2945,18 +2945,18 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2e709f345af0105b77cf1718bbd11559604606b2.png",
     "website": "https://hypotenuse.ai/",
-    "all_locations": "Singapore, Singapore",
-    "long_description": "Hypotenuse AI is an AI agent platform for managing, creating and optimizing your ecommerce product data and content. Fortune 500 ecommerce brands use us to enrich their product data, edit images, and create high-quality product copy at scale to make their teams 10x faster.",
-    "one_liner": "Manage, create & optimize your ecommerce product content using AI",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Hypotenuse AI is an AI-native platform for managing, creating and optimizing your ecommerce product data and content. Fortune 500 ecommerce brands use us to enrich their product data, edit images, and create high-quality product copy at scale to make their teams 10x faster.",
+    "one_liner": "AI-native Operating System for Enterprise Ecommerce Companies",
     "team_size": 15,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1597658049,
     "tags": [
-      "Artificial Intelligence",
       "Generative AI",
       "Machine Learning",
-      "E-commerce"
+      "E-commerce",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -2968,8 +2968,8 @@
       "B2B"
     ],
     "regions": [
-      "Singapore",
-      "Southeast Asia",
+      "United States of America",
+      "America / Canada",
       "Remote",
       "Partly Remote"
     ],

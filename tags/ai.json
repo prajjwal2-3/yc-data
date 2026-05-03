@@ -4100,6 +4100,51 @@
     "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2020/legionfarm.json"
   },
   {
+    "id": 21769,
+    "name": "Roboflow",
+    "slug": "roboflow",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ba0036069bd338a4c6188cb137722d8f584d0016.png",
+    "website": "https://roboflow.com",
+    "all_locations": "New York, NY, USA",
+    "long_description": "Roboflow enables developers to make the world programmable.\r\n\r\nUse our tools to build better datasets (collect image, video / annotate), models (foundation and fine tuned small models), and deployments (self hosted, edge, APIs, SDKs) for computer vision. Over 250k developers, including those from over half the Fortune 100, build with our open source and hosted tools.\r\n\r\nBuild with us: https://app.roboflow.com\r\nHack with us: https://roboflow.slab.com/public/posts/roboflow-hackathons-external-u478m1iz\r\nWork with us: roboflow.com/careers\r\n",
+    "one_liner": "🖼️ Give your software the sense of sight.",
+    "team_size": 100,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1598130074,
+    "tags": [
+      "Developer Tools",
+      "Machine Learning",
+      "Computer Vision",
+      "Enterprise",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2020",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Growth",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": true,
+    "url": "https://www.ycombinator.com/companies/roboflow",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2020/roboflow.json"
+  },
+  {
     "id": 21772,
     "name": "inFeedo AI",
     "slug": "infeedo-ai",
@@ -4239,6 +4284,51 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/blue-onion",
     "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2020/blue-onion.json"
+  },
+  {
+    "id": 21857,
+    "name": "Hypotenuse AI",
+    "slug": "hypotenuse-ai",
+    "former_names": [
+      "Hypotenuse"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2e709f345af0105b77cf1718bbd11559604606b2.png",
+    "website": "https://hypotenuse.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Hypotenuse AI is an AI-native platform for managing, creating and optimizing your ecommerce product data and content. Fortune 500 ecommerce brands use us to enrich their product data, edit images, and create high-quality product copy at scale to make their teams 10x faster.",
+    "one_liner": "AI-native Operating System for Enterprise Ecommerce Companies",
+    "team_size": 15,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1597658049,
+    "tags": [
+      "Generative AI",
+      "Machine Learning",
+      "E-commerce",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2020",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/hypotenuse-ai",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2020/hypotenuse-ai.json"
   },
   {
     "id": 21882,
@@ -5069,6 +5159,58 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/fathom",
     "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2021/fathom.json"
+  },
+  {
+    "id": 22880,
+    "name": "True3D Labs",
+    "slug": "true3d-labs",
+    "former_names": [
+      "True3D",
+      "Hyperplane",
+      "Hackpack",
+      "LeetDesign",
+      "QuickVid.ai",
+      "TutorAI.me",
+      "QuickVid.ai",
+      "QuickVid",
+      "True3D"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7da2309b02d5990f41bbcc5b3695e3e028b38c7f.png",
+    "website": "https://true3d.com/",
+    "all_locations": "New York, NY, USA",
+    "long_description": "We build AI models that convert any video to fit any screen without reshoots.",
+    "one_liner": "AI that expands any video to fit any screen.",
+    "team_size": 4,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1614739771,
+    "tags": [
+      "Video",
+      "Media",
+      "Infrastructure",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2021",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/true3d-labs",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2021/true3d-labs.json"
   },
   {
     "id": 22906,
@@ -7028,49 +7170,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/bytebot",
     "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2021/bytebot.json"
-  },
-  {
-    "id": 24820,
-    "name": "Medium Biosciences",
-    "slug": "medium-biosciences",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0f30f00dbe44cde67296a43e445c0bb0dc14f9b5.png",
-    "website": "http://medium.bio",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Custom affinity reagents, designed for your target and application! We turn advances in AI and protein design into experimentally validated molecular tools, partnering with research teams and diagnostic developers to deliver high-performance affinity reagents in weeks, not months.",
-    "one_liner": "AI-designed Affinity Reagents",
-    "team_size": 6,
-    "industry": "Healthcare",
-    "subindustry": "Healthcare -> Diagnostics",
-    "launched_at": 1630004252,
-    "tags": [
-      "Machine Learning",
-      "Biotech",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2021",
-    "status": "Active",
-    "industries": [
-      "Healthcare",
-      "Diagnostics"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/medium-biosciences",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2021/medium-biosciences.json"
   },
   {
     "id": 24893,
@@ -10442,54 +10541,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/customeros",
     "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2022/customeros.json"
-  },
-  {
-    "id": 26730,
-    "name": "Mocke",
-    "slug": "mocke",
-    "former_names": [
-      "Paigo",
-      "Champ",
-      "Mocke",
-      "Champ"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e139b92e8bc60907f4d34db4e4a35641c4f569d9.png",
-    "website": "https://mocke.co/",
-    "all_locations": "San Francisco, CA, USA; Remote",
-    "long_description": "Cold Email AI Agent. ",
-    "one_liner": "Cursor for cold email, with lead research and personalization at scale",
-    "team_size": 5,
-    "industry": "B2B",
-    "subindustry": "B2B -> Sales",
-    "launched_at": 1654798414,
-    "tags": [
-      "B2B",
-      "Sales",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2022",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Sales"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Fully Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/mocke",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2022/mocke.json"
   },
   {
     "id": 26741,
@@ -24479,51 +24530,6 @@
     "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2024/merlin-ai.json"
   },
   {
-    "id": 29987,
-    "name": "Syntra",
-    "slug": "syntra",
-    "former_names": [
-      "Lightning Medical"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a6d299272e28e28fc0eef5034541be246b698d0b.png",
-    "website": "https://www.syntra.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Syntra is building the agentic operating layer for private medical practices, starting with insurance claims QA. We help clinics generate more revenue per clinical encounter while reducing up to 60% of administrative overhead. Syntra supports hundreds of specialty practices nationwide and processes $100Ms in medical claim charges annually.\r\n",
-    "one_liner": "Agentic infrastructure for private medical practices.",
-    "team_size": 8,
-    "industry": "Healthcare",
-    "subindustry": "Healthcare -> Healthcare IT",
-    "launched_at": 1723733582,
-    "tags": [
-      "Big Data",
-      "Healthcare IT",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Summer 2024",
-    "status": "Active",
-    "industries": [
-      "Healthcare",
-      "Healthcare IT"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/syntra",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2024/syntra.json"
-  },
-  {
     "id": 29988,
     "name": "Delineate",
     "slug": "delineate",
@@ -24788,7 +24794,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/828abce88fc3773d5c6973ac36dd47b70ebb191e.png",
     "website": "https://openfunnel.dev",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "OpenFunnel is the Search Engine for GTM.\r\n\r\nSearching for \"B2B SaaS, 501-1000 employees, uses Salesforce\" - is just targeted spam.\r\n\r\nEven if you get creative with LLMs to query these databases, everyone has access to the same commoditized databases, these databases lack insights about right timing or pain-points prospects face.\r\n\r\nOpenFunnel is a time-aware search engine for insights and activities in your target segment - that reveal pain.\r\n\r\nYou can search for activities like:\r\n\"Find companies looking to implement usage based billing\"\r\n\"Find companies that moved from OpenAI to self-hosted models in the last 3-6 months\"\r\n\"Find companies who updated their pricing page to introduce an enterprise plan in the last 3 months\"\r\n\r\nOpenFunnel continuously monitors these time-based signals, delivering actionable insights daily - so you have the fastest, unique insights that your competitors miss out on.\r\nOver 1000+ users are already discovering prospects through pain-first search, including some of the fastest-growing companies like Central, Mintlify, and Everest Systems.",
     "one_liner": "We monitor your TAM and surface companies when custom triggers fire.",
     "team_size": 4,
@@ -24812,7 +24818,8 @@
       "Sales"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -31701,50 +31708,6 @@
     "api": "https://prajjwal2-3.github.io/yc-data/batches/fall-2025/sylvian.json"
   },
   {
-    "id": 30857,
-    "name": "Aspect",
-    "slug": "aspect-inc",
-    "former_names": [
-      "Auler"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1463e08657e2fece9135c0c12e1c308c4da97412.png",
-    "website": "https://aspect.inc",
-    "all_locations": "",
-    "long_description": "With our visual understanding engine & platform, Aspect processes dense multimodal datasets, providing tools for segmentation, QC, structured schema extraction. \r\n\r\nCompanies today have access to Glean and Notion Agents for working with vast text corpuses - Aspect is enabling that for multimodal data.",
-    "one_liner": "AI Visual Understanding for Multimodal Data ",
-    "team_size": 3,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1761607655,
-    "tags": [
-      "Computer Vision",
-      "B2B",
-      "Video",
-      "Media",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Fall 2025",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "Unspecified"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/aspect-inc",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/fall-2025/aspect-inc.json"
-  },
-  {
     "id": 30859,
     "name": "Locus",
     "slug": "locus",
@@ -33832,6 +33795,49 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/matforge",
     "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/matforge.json"
+  },
+  {
+    "id": 31364,
+    "name": "Chert",
+    "slug": "chert",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7dbcfda02066d2a118790619245d76bd15d26183.png",
+    "website": "https://www.trychert.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Chert helps companies scale their outbound through iMessage. We integrate into existing GTM stacks, find iMessage-qualified leads, and help book 1-5 meetings per week. ",
+    "one_liner": "AI Agents for Automated iMessage Outbound",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Sales",
+    "launched_at": 1777155515,
+    "tags": [
+      "SaaS",
+      "B2B",
+      "Sales",
+      "AI",
+      "AI Assistant"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Sales"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/chert",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/chert.json"
   },
   {
     "id": 31373,

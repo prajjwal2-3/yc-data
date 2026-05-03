@@ -16,17 +16,17 @@
   "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7da2309b02d5990f41bbcc5b3695e3e028b38c7f.png",
   "website": "https://true3d.com/",
   "all_locations": "New York, NY, USA",
-  "long_description": "We build AI models that convert standard video into immersive 3D for domes, giant screens, and VR headsets without reshoots.",
+  "long_description": "We build AI models that convert any video to fit any screen without reshoots.",
   "one_liner": "AI that expands any video to fit any screen.",
   "team_size": 4,
   "industry": "B2B",
   "subindustry": "B2B -> Infrastructure",
   "launched_at": 1614739771,
   "tags": [
-    "Artificial Intelligence",
     "Video",
     "Media",
-    "Infrastructure"
+    "Infrastructure",
+    "AI"
   ],
   "tags_highlighted": [],
   "top_company": false,

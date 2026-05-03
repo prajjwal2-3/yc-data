@@ -5086,16 +5086,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a6d299272e28e28fc0eef5034541be246b698d0b.png",
     "website": "https://www.syntra.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Syntra is building the agentic operating layer for private medical practices, starting with insurance claims QA. We help clinics generate more revenue per clinical encounter while reducing up to 60% of administrative overhead. Syntra supports hundreds of specialty practices nationwide and processes $100Ms in medical claim charges annually.\r\n",
-    "one_liner": "Agentic infrastructure for private medical practices.",
+    "long_description": "Syntra is building a self-learning agent that replaces a human claim review team at private practices, increasing revenue per encounter while cutting administrative overhead by up to 60%. Our agent learns each practice’s workflows, payer rules, and software stack on its own, enabling us to give every clinic in the country the operating efficiency they need to stay independent.\r\n\r\nSyntra has already processed over 1M patient encounters, supports hundreds of private practices nationwide, and processes $100Ms in medical claim charges annually.\r\n",
+    "one_liner": "Medical chart and claim review ",
     "team_size": 8,
     "industry": "Healthcare",
     "subindustry": "Healthcare -> Healthcare IT",
     "launched_at": 1723733582,
     "tags": [
+      "Artificial Intelligence",
       "Big Data",
-      "Healthcare IT",
-      "AI"
+      "Healthcare IT"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -5738,22 +5738,17 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c0351a7bc0e508af83b9f25fa8db67212e25a78c.png",
     "website": "https://www.locatahealth.com/",
-    "all_locations": "New York, NY, USA",
+    "all_locations": "",
     "long_description": "Locata is an AI referral management platform for Primary Care. We deploy AI agents to automate every step of the referral process that back-office staff face daily, from submitting prior authorizations to broadcasting updates and following up with patients. This frees up staff to focus on patient care.\r\n\r\nPrimary care back-offices are severely understaffed and overburdened by administrative work associated with referrals. Additionally, patients suffer navigating the complex referral process, which can have disastrous health effects if they don’t get the care they need. These factors point to a glaring gap in the system—where out of over 100 million specialist referrals issued annually in the US, only half are actually completed. Locata is tackling this problem head-on, saving administrative staff hours each week and ensuring that the referral process goes as smoothly as possible for patients and their providers.\r\n\r\nAlejandro and Josh met at Stanford where they graduated with BS degrees in Computer Science. Alejandro was a senior software engineer at Meta’s Reality Labs where he led development of several AI features for wearable products and prior to that conducted AI research at Stanford Medicine. Josh graduated with a masters in Computer Science, specializing in AI, before working as a software engineer at Google where he developed AI products that served over 1 billion users.\r\n\r\nWithin two weeks of building our product, we signed a major regional health center and have saved them over 100 hours of work in our first month live.",
     "one_liner": "AI Referral Automation for Primary Care Clinics",
     "team_size": 4,
     "industry": "Healthcare",
     "subindustry": "Healthcare -> Healthcare IT",
     "launched_at": 1753486430,
-    "tags": [
-      "Artificial Intelligence",
-      "SaaS",
-      "Health Tech",
-      "B2B"
-    ],
+    "tags": [],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Summer 2025",
     "status": "Active",
@@ -5762,8 +5757,7 @@
       "Healthcare IT"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "Unspecified"
     ],
     "stage": "Early",
     "app_video_public": false,

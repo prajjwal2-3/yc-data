@@ -3043,27 +3043,28 @@
   },
   {
     "id": 26730,
-    "name": "Mocke",
-    "slug": "mocke",
+    "name": "Champ",
+    "slug": "champ",
     "former_names": [
       "Paigo",
       "Champ",
       "Mocke",
-      "Champ"
+      "Champ",
+      "Mocke"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e139b92e8bc60907f4d34db4e4a35641c4f569d9.png",
-    "website": "https://mocke.co/",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/734214ecc529126708ddc6afc0e551ab2757f65b.png",
+    "website": "https://trychamp.co/",
     "all_locations": "San Francisco, CA, USA; Remote",
-    "long_description": "Cold Email AI Agent. ",
-    "one_liner": "Cursor for cold email, with lead research and personalization at scale",
-    "team_size": 5,
+    "long_description": "",
+    "one_liner": "AI SDR",
+    "team_size": 1,
     "industry": "B2B",
     "subindustry": "B2B -> Sales",
     "launched_at": 1654798414,
     "tags": [
+      "Artificial Intelligence",
       "B2B",
-      "Sales",
-      "AI"
+      "Sales"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -3086,8 +3087,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/mocke",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2022/mocke.json"
+    "url": "https://www.ycombinator.com/companies/champ",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2022/champ.json"
   },
   {
     "id": 26741,
@@ -4879,7 +4880,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/828abce88fc3773d5c6973ac36dd47b70ebb191e.png",
     "website": "https://openfunnel.dev",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "OpenFunnel is the Search Engine for GTM.\r\n\r\nSearching for \"B2B SaaS, 501-1000 employees, uses Salesforce\" - is just targeted spam.\r\n\r\nEven if you get creative with LLMs to query these databases, everyone has access to the same commoditized databases, these databases lack insights about right timing or pain-points prospects face.\r\n\r\nOpenFunnel is a time-aware search engine for insights and activities in your target segment - that reveal pain.\r\n\r\nYou can search for activities like:\r\n\"Find companies looking to implement usage based billing\"\r\n\"Find companies that moved from OpenAI to self-hosted models in the last 3-6 months\"\r\n\"Find companies who updated their pricing page to introduce an enterprise plan in the last 3 months\"\r\n\r\nOpenFunnel continuously monitors these time-based signals, delivering actionable insights daily - so you have the fastest, unique insights that your competitors miss out on.\r\nOver 1000+ users are already discovering prospects through pain-first search, including some of the fastest-growing companies like Central, Mintlify, and Everest Systems.",
     "one_liner": "We monitor your TAM and surface companies when custom triggers fire.",
     "team_size": 4,
@@ -4903,7 +4904,8 @@
       "Sales"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -5728,10 +5730,10 @@
     "subindustry": "B2B -> Sales",
     "launched_at": 1777155515,
     "tags": [
-      "Artificial Intelligence",
       "SaaS",
       "B2B",
       "Sales",
+      "AI",
       "AI Assistant"
     ],
     "tags_highlighted": [],
@@ -5900,7 +5902,7 @@
     "all_locations": "Remote",
     "long_description": "GojiberryAI is a GTM Brain that helps sales teams find and convert high-intent leads by continuously learning what works across their go-to-market. Instead of relying on cold lists, it detects real buying signals like competitor engagement and social signals, job changes, hiring spikes, or funding events, then prioritizes the best prospects based on ICP fit and intent. It analyzes each lead’s context, generates personalized messages, starts conversations, and follows up automatically until a meeting is booked, while constantly optimizing targeting, messaging, and timing so performance compounds over time. \r\n\r\nThe result is simple: 2 to 5x more replies, more qualified conversations, and a predictable pipeline without wasting time on low-intent prospects.",
     "one_liner": "GTM Brain for small sales teams ",
-    "team_size": 0,
+    "team_size": 7,
     "industry": "B2B",
     "subindustry": "B2B -> Sales",
     "launched_at": 1774430148,

@@ -5,7 +5,7 @@
   "former_names": [],
   "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ece043321e153a7271fa8a0ce88ad2f409b18fe3.png",
   "website": "https://oxus-ai.com/",
-  "all_locations": "",
+  "all_locations": "CA, USA",
   "long_description": "Oxus automates internal audits for pre-IPO and public companies using AI. Companies including leading payroll providers and public biotech companies work with us to streamline audit workflows and get audits done 10x faster. \r\n\r\nLearn more at: https://www.oxus-ai.com/",
   "one_liner": "AI-powered automation for internal audit workflows",
   "team_size": 3,
@@ -23,7 +23,8 @@
     "B2B"
   ],
   "regions": [
-    "Unspecified"
+    "United States of America",
+    "America / Canada"
   ],
   "stage": "Early",
   "app_video_public": false,

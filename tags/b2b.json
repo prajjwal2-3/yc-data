@@ -12449,9 +12449,9 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/598668f38816dc5cfd50d0d695fccc6371a93877.png",
     "website": "https://tryperdiem.com",
     "all_locations": "New York, NY, USA; Remote",
-    "long_description": "We deploy AI agents that act as a C-suite for cafés, bakeries, and restaurant franchises. Per Diem’s AI CTO automatically builds, deploys, and maintains branded mobile apps and web ordering, while our AI CMO and AI COO automate loyalty, marketing, and daily operations across first-party ordering and catering. Built on Square, 450+ brands including Oakberry, Think Coffee, and Chip City use Per Diem to own their customers, increase lifetime value, and grow profitably.",
+    "long_description": "We deploy AI agents that act as a C-suite for cafés, bakeries, and restaurant franchises. Per Diem’s AI CTO automatically builds, deploys, and maintains branded mobile apps and web ordering, while our AI CMO and AI COO automate loyalty, marketing, and daily operations across first-party ordering and catering. Built on Square, 500+ brands including Oakberry, Shane's Rib Shack, and Crave Cookies use Per Diem to own their customers, increase lifetime value, and grow profitably.",
     "one_liner": "The AI operating system for restaurants",
-    "team_size": 15,
+    "team_size": 25,
     "industry": "B2B",
     "subindustry": "B2B -> Marketing",
     "launched_at": 1614618932,
@@ -25142,27 +25142,28 @@
   },
   {
     "id": 26730,
-    "name": "Mocke",
-    "slug": "mocke",
+    "name": "Champ",
+    "slug": "champ",
     "former_names": [
       "Paigo",
       "Champ",
       "Mocke",
-      "Champ"
+      "Champ",
+      "Mocke"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e139b92e8bc60907f4d34db4e4a35641c4f569d9.png",
-    "website": "https://mocke.co/",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/734214ecc529126708ddc6afc0e551ab2757f65b.png",
+    "website": "https://trychamp.co/",
     "all_locations": "San Francisco, CA, USA; Remote",
-    "long_description": "Cold Email AI Agent. ",
-    "one_liner": "Cursor for cold email, with lead research and personalization at scale",
-    "team_size": 5,
+    "long_description": "",
+    "one_liner": "AI SDR",
+    "team_size": 1,
     "industry": "B2B",
     "subindustry": "B2B -> Sales",
     "launched_at": 1654798414,
     "tags": [
+      "Artificial Intelligence",
       "B2B",
-      "Sales",
-      "AI"
+      "Sales"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -25185,8 +25186,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/mocke",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2022/mocke.json"
+    "url": "https://www.ycombinator.com/companies/champ",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2022/champ.json"
   },
   {
     "id": 26732,
@@ -40373,7 +40374,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/828abce88fc3773d5c6973ac36dd47b70ebb191e.png",
     "website": "https://openfunnel.dev",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "OpenFunnel is the Search Engine for GTM.\r\n\r\nSearching for \"B2B SaaS, 501-1000 employees, uses Salesforce\" - is just targeted spam.\r\n\r\nEven if you get creative with LLMs to query these databases, everyone has access to the same commoditized databases, these databases lack insights about right timing or pain-points prospects face.\r\n\r\nOpenFunnel is a time-aware search engine for insights and activities in your target segment - that reveal pain.\r\n\r\nYou can search for activities like:\r\n\"Find companies looking to implement usage based billing\"\r\n\"Find companies that moved from OpenAI to self-hosted models in the last 3-6 months\"\r\n\"Find companies who updated their pricing page to introduce an enterprise plan in the last 3 months\"\r\n\r\nOpenFunnel continuously monitors these time-based signals, delivering actionable insights daily - so you have the fastest, unique insights that your competitors miss out on.\r\nOver 1000+ users are already discovering prospects through pain-first search, including some of the fastest-growing companies like Central, Mintlify, and Everest Systems.",
     "one_liner": "We monitor your TAM and surface companies when custom triggers fire.",
     "team_size": 4,
@@ -40397,7 +40398,8 @@
       "Sales"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -45011,50 +45013,6 @@
     "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2025/sigmanticai.json"
   },
   {
-    "id": 30754,
-    "name": "Locata",
-    "slug": "locata",
-    "former_names": [
-      "Locata AI"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c0351a7bc0e508af83b9f25fa8db67212e25a78c.png",
-    "website": "https://www.locatahealth.com/",
-    "all_locations": "New York, NY, USA",
-    "long_description": "Locata is an AI referral management platform for Primary Care. We deploy AI agents to automate every step of the referral process that back-office staff face daily, from submitting prior authorizations to broadcasting updates and following up with patients. This frees up staff to focus on patient care.\r\n\r\nPrimary care back-offices are severely understaffed and overburdened by administrative work associated with referrals. Additionally, patients suffer navigating the complex referral process, which can have disastrous health effects if they don’t get the care they need. These factors point to a glaring gap in the system—where out of over 100 million specialist referrals issued annually in the US, only half are actually completed. Locata is tackling this problem head-on, saving administrative staff hours each week and ensuring that the referral process goes as smoothly as possible for patients and their providers.\r\n\r\nAlejandro and Josh met at Stanford where they graduated with BS degrees in Computer Science. Alejandro was a senior software engineer at Meta’s Reality Labs where he led development of several AI features for wearable products and prior to that conducted AI research at Stanford Medicine. Josh graduated with a masters in Computer Science, specializing in AI, before working as a software engineer at Google where he developed AI products that served over 1 billion users.\r\n\r\nWithin two weeks of building our product, we signed a major regional health center and have saved them over 100 hours of work in our first month live.",
-    "one_liner": "AI Referral Automation for Primary Care Clinics",
-    "team_size": 4,
-    "industry": "Healthcare",
-    "subindustry": "Healthcare -> Healthcare IT",
-    "launched_at": 1753486430,
-    "tags": [
-      "Artificial Intelligence",
-      "SaaS",
-      "Health Tech",
-      "B2B"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2025",
-    "status": "Active",
-    "industries": [
-      "Healthcare",
-      "Healthcare IT"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/locata",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2025/locata.json"
-  },
-  {
     "id": 30755,
     "name": "Pally",
     "slug": "pally",
@@ -45666,9 +45624,9 @@
     "former_names": [
       "Auler"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1463e08657e2fece9135c0c12e1c308c4da97412.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/815d0ff1058841ad5ec2314755cc2f91d92a6472.png",
     "website": "https://aspect.inc",
-    "all_locations": "",
+    "all_locations": "NY, USA",
     "long_description": "With our visual understanding engine & platform, Aspect processes dense multimodal datasets, providing tools for segmentation, QC, structured schema extraction. \r\n\r\nCompanies today have access to Glean and Notion Agents for working with vast text corpuses - Aspect is enabling that for multimodal data.",
     "one_liner": "AI Visual Understanding for Multimodal Data ",
     "team_size": 3,
@@ -45676,11 +45634,11 @@
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1761607655,
     "tags": [
+      "Artificial Intelligence",
       "Computer Vision",
       "B2B",
       "Video",
-      "Media",
-      "AI"
+      "Media"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -45693,7 +45651,8 @@
       "Engineering, Product and Design"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -47307,10 +47266,10 @@
     "subindustry": "B2B -> Sales",
     "launched_at": 1777155515,
     "tags": [
-      "Artificial Intelligence",
       "SaaS",
       "B2B",
       "Sales",
+      "AI",
       "AI Assistant"
     ],
     "tags_highlighted": [],

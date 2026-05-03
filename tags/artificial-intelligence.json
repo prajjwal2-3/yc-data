@@ -6307,51 +6307,6 @@
     "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2020/airbyte.json"
   },
   {
-    "id": 21769,
-    "name": "Roboflow",
-    "slug": "roboflow",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ba0036069bd338a4c6188cb137722d8f584d0016.png",
-    "website": "https://roboflow.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Roboflow enables developers to make the world programmable.\r\n\r\nUse our tools to build better datasets (collect image, video / annotate), models (foundation and fine tuned small models), and deployments (self hosted, edge, APIs, SDKs) for computer vision. Over 250k developers, including those from over half the Fortune 100, build with our open source and hosted tools.\r\n\r\nBuild with us: https://app.roboflow.com\r\nHack with us: https://roboflow.slab.com/public/posts/roboflow-hackathons-external-u478m1iz\r\nWork with us: roboflow.com/careers\r\n",
-    "one_liner": "🖼️ Give your software the sense of sight.",
-    "team_size": 100,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1598130074,
-    "tags": [
-      "Artificial Intelligence",
-      "Developer Tools",
-      "Machine Learning",
-      "Computer Vision",
-      "Enterprise"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Summer 2020",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Growth",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": true,
-    "url": "https://www.ycombinator.com/companies/roboflow",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2020/roboflow.json"
-  },
-  {
     "id": 21794,
     "name": "Shuttle",
     "slug": "shuttle",
@@ -6399,51 +6354,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/shuttle",
     "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2020/shuttle.json"
-  },
-  {
-    "id": 21857,
-    "name": "Hypotenuse AI",
-    "slug": "hypotenuse-ai",
-    "former_names": [
-      "Hypotenuse"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2e709f345af0105b77cf1718bbd11559604606b2.png",
-    "website": "https://hypotenuse.ai/",
-    "all_locations": "Singapore, Singapore",
-    "long_description": "Hypotenuse AI is an AI agent platform for managing, creating and optimizing your ecommerce product data and content. Fortune 500 ecommerce brands use us to enrich their product data, edit images, and create high-quality product copy at scale to make their teams 10x faster.",
-    "one_liner": "Manage, create & optimize your ecommerce product content using AI",
-    "team_size": 15,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1597658049,
-    "tags": [
-      "Artificial Intelligence",
-      "Generative AI",
-      "Machine Learning",
-      "E-commerce"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Summer 2020",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "Singapore",
-      "Southeast Asia",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/hypotenuse-ai",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2020/hypotenuse-ai.json"
   },
   {
     "id": 21881,
@@ -7845,58 +7755,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/popl",
     "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2021/popl.json"
-  },
-  {
-    "id": 22880,
-    "name": "True3D Labs",
-    "slug": "true3d-labs",
-    "former_names": [
-      "True3D",
-      "Hyperplane",
-      "Hackpack",
-      "LeetDesign",
-      "QuickVid.ai",
-      "TutorAI.me",
-      "QuickVid.ai",
-      "QuickVid",
-      "True3D"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7da2309b02d5990f41bbcc5b3695e3e028b38c7f.png",
-    "website": "https://true3d.com/",
-    "all_locations": "New York, NY, USA",
-    "long_description": "We build AI models that convert standard video into immersive 3D for domes, giant screens, and VR headsets without reshoots.",
-    "one_liner": "AI that expands any video to fit any screen.",
-    "team_size": 4,
-    "industry": "B2B",
-    "subindustry": "B2B -> Infrastructure",
-    "launched_at": 1614739771,
-    "tags": [
-      "Artificial Intelligence",
-      "Video",
-      "Media",
-      "Infrastructure"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Winter 2021",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Infrastructure"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/true3d-labs",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2021/true3d-labs.json"
   },
   {
     "id": 22882,
@@ -11019,6 +10877,49 @@
     "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2021/adravision.json"
   },
   {
+    "id": 24820,
+    "name": "Medium Biosciences",
+    "slug": "medium-biosciences",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0f30f00dbe44cde67296a43e445c0bb0dc14f9b5.png",
+    "website": "http://medium.bio",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "We turn advances in AI and protein design into experimentally validated molecular tools, partnering with research teams and diagnostic developers to deliver high-performance affinity reagents in weeks, not months.\r\n",
+    "one_liner": "AI-designed Affinity Reagents",
+    "team_size": 6,
+    "industry": "Healthcare",
+    "subindustry": "Healthcare -> Diagnostics",
+    "launched_at": 1630004252,
+    "tags": [
+      "Artificial Intelligence",
+      "Machine Learning",
+      "Biotech"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2021",
+    "status": "Active",
+    "industries": [
+      "Healthcare",
+      "Diagnostics"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/medium-biosciences",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2021/medium-biosciences.json"
+  },
+  {
     "id": 24892,
     "name": "Safer Management",
     "slug": "safer-management",
@@ -13599,6 +13500,55 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/ecsa",
     "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2022/ecsa.json"
+  },
+  {
+    "id": 26730,
+    "name": "Champ",
+    "slug": "champ",
+    "former_names": [
+      "Paigo",
+      "Champ",
+      "Mocke",
+      "Champ",
+      "Mocke"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/734214ecc529126708ddc6afc0e551ab2757f65b.png",
+    "website": "https://trychamp.co/",
+    "all_locations": "San Francisco, CA, USA; Remote",
+    "long_description": "",
+    "one_liner": "AI SDR",
+    "team_size": 1,
+    "industry": "B2B",
+    "subindustry": "B2B -> Sales",
+    "launched_at": 1654798414,
+    "tags": [
+      "Artificial Intelligence",
+      "B2B",
+      "Sales"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2022",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Sales"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Fully Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/champ",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2022/champ.json"
   },
   {
     "id": 26733,
@@ -21861,7 +21811,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/13bc35dc5fca68051b65f9b77d4198acae677418.png",
     "website": "https://tracecat.com",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "NY, USA",
     "long_description": "Tracecat provides everything busy security teams need to automate work: agents, workflows, cases, and an AI copilot that builds for you. https://github.com/TracecatHQ/tracecat",
     "one_liner": "The open source AI-native security automation platform",
     "team_size": null,
@@ -29046,6 +28996,51 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/pathpilot",
     "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2024/pathpilot.json"
+  },
+  {
+    "id": 29987,
+    "name": "Syntra",
+    "slug": "syntra",
+    "former_names": [
+      "Lightning Medical"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a6d299272e28e28fc0eef5034541be246b698d0b.png",
+    "website": "https://www.syntra.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Syntra is building a self-learning agent that replaces a human claim review team at private practices, increasing revenue per encounter while cutting administrative overhead by up to 60%. Our agent learns each practice’s workflows, payer rules, and software stack on its own, enabling us to give every clinic in the country the operating efficiency they need to stay independent.\r\n\r\nSyntra has already processed over 1M patient encounters, supports hundreds of private practices nationwide, and processes $100Ms in medical claim charges annually.\r\n",
+    "one_liner": "Medical chart and claim review ",
+    "team_size": 8,
+    "industry": "Healthcare",
+    "subindustry": "Healthcare -> Healthcare IT",
+    "launched_at": 1723733582,
+    "tags": [
+      "Artificial Intelligence",
+      "Big Data",
+      "Healthcare IT"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2024",
+    "status": "Active",
+    "industries": [
+      "Healthcare",
+      "Healthcare IT"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/syntra",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2024/syntra.json"
   },
   {
     "id": 29989,
@@ -36325,50 +36320,6 @@
     "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2025/pleom.json"
   },
   {
-    "id": 30754,
-    "name": "Locata",
-    "slug": "locata",
-    "former_names": [
-      "Locata AI"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c0351a7bc0e508af83b9f25fa8db67212e25a78c.png",
-    "website": "https://www.locatahealth.com/",
-    "all_locations": "New York, NY, USA",
-    "long_description": "Locata is an AI referral management platform for Primary Care. We deploy AI agents to automate every step of the referral process that back-office staff face daily, from submitting prior authorizations to broadcasting updates and following up with patients. This frees up staff to focus on patient care.\r\n\r\nPrimary care back-offices are severely understaffed and overburdened by administrative work associated with referrals. Additionally, patients suffer navigating the complex referral process, which can have disastrous health effects if they don’t get the care they need. These factors point to a glaring gap in the system—where out of over 100 million specialist referrals issued annually in the US, only half are actually completed. Locata is tackling this problem head-on, saving administrative staff hours each week and ensuring that the referral process goes as smoothly as possible for patients and their providers.\r\n\r\nAlejandro and Josh met at Stanford where they graduated with BS degrees in Computer Science. Alejandro was a senior software engineer at Meta’s Reality Labs where he led development of several AI features for wearable products and prior to that conducted AI research at Stanford Medicine. Josh graduated with a masters in Computer Science, specializing in AI, before working as a software engineer at Google where he developed AI products that served over 1 billion users.\r\n\r\nWithin two weeks of building our product, we signed a major regional health center and have saved them over 100 hours of work in our first month live.",
-    "one_liner": "AI Referral Automation for Primary Care Clinics",
-    "team_size": 4,
-    "industry": "Healthcare",
-    "subindustry": "Healthcare -> Healthcare IT",
-    "launched_at": 1753486430,
-    "tags": [
-      "Artificial Intelligence",
-      "SaaS",
-      "Health Tech",
-      "B2B"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2025",
-    "status": "Active",
-    "industries": [
-      "Healthcare",
-      "Healthcare IT"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/locata",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2025/locata.json"
-  },
-  {
     "id": 30755,
     "name": "Pally",
     "slug": "pally",
@@ -37096,6 +37047,51 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/scoop",
     "api": "https://prajjwal2-3.github.io/yc-data/batches/fall-2025/scoop.json"
+  },
+  {
+    "id": 30857,
+    "name": "Aspect",
+    "slug": "aspect-inc",
+    "former_names": [
+      "Auler"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/815d0ff1058841ad5ec2314755cc2f91d92a6472.png",
+    "website": "https://aspect.inc",
+    "all_locations": "NY, USA",
+    "long_description": "With our visual understanding engine & platform, Aspect processes dense multimodal datasets, providing tools for segmentation, QC, structured schema extraction. \r\n\r\nCompanies today have access to Glean and Notion Agents for working with vast text corpuses - Aspect is enabling that for multimodal data.",
+    "one_liner": "AI Visual Understanding for Multimodal Data ",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1761607655,
+    "tags": [
+      "Artificial Intelligence",
+      "Computer Vision",
+      "B2B",
+      "Video",
+      "Media"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/aspect-inc",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/fall-2025/aspect-inc.json"
   },
   {
     "id": 30861,
@@ -39273,49 +39269,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/matforge",
     "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/matforge.json"
-  },
-  {
-    "id": 31364,
-    "name": "Chert",
-    "slug": "chert",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7dbcfda02066d2a118790619245d76bd15d26183.png",
-    "website": "https://www.trychert.com/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Chert helps companies scale their outbound through iMessage. We integrate into existing GTM stacks, find iMessage-qualified leads, and help book 1-5 meetings per week. ",
-    "one_liner": "AI Agents for Automated iMessage Outbound",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Sales",
-    "launched_at": 1777155515,
-    "tags": [
-      "Artificial Intelligence",
-      "SaaS",
-      "B2B",
-      "Sales",
-      "AI Assistant"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Spring 2026",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Sales"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/chert",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/chert.json"
   },
   {
     "id": 31369,

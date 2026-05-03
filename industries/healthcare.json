@@ -2893,8 +2893,8 @@
       "America / Canada"
     ],
     "stage": "Early",
-    "app_video_public": true,
-    "demo_day_video_public": true,
+    "app_video_public": false,
+    "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/luminist-labs",
@@ -17132,7 +17132,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/30c7708edb83cf00c907f0e9d282b18823eb25e1.png",
     "website": "https://withpillar.com",
-    "all_locations": "Austin, TX, USA; Remote",
+    "all_locations": "NY, USA; Remote",
     "long_description": "Pillar is designed to solve healthcare’s longitudinal engagement problem through a combination of our SOC 2-certified, HIPAA-compliant platform and health coach workforce. Our white-label infrastructure enables companies to guide patients from outreach and activation through to flexible microsites and automated digital pathways including content, services, vendors and forms. Together with our in-house network of 1,200+ health coaches, Pillar partners drive positive outcomes through scalable digital care programs focused on health education and care navigation to chronic condition management.",
     "one_liner": "A white-label care enablement platform",
     "team_size": 5,
@@ -17746,16 +17746,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0f30f00dbe44cde67296a43e445c0bb0dc14f9b5.png",
     "website": "http://medium.bio",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Custom affinity reagents, designed for your target and application! We turn advances in AI and protein design into experimentally validated molecular tools, partnering with research teams and diagnostic developers to deliver high-performance affinity reagents in weeks, not months.",
+    "long_description": "We turn advances in AI and protein design into experimentally validated molecular tools, partnering with research teams and diagnostic developers to deliver high-performance affinity reagents in weeks, not months.\r\n",
     "one_liner": "AI-designed Affinity Reagents",
     "team_size": 6,
     "industry": "Healthcare",
     "subindustry": "Healthcare -> Diagnostics",
     "launched_at": 1630004252,
     "tags": [
+      "Artificial Intelligence",
       "Machine Learning",
-      "Biotech",
-      "AI"
+      "Biotech"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -18635,9 +18635,9 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e95b5dd7ee1a5f617dc0a83136e30199f883050a.png",
     "website": "http://engagebio.com",
     "all_locations": "Santa Clara, CA, USA",
-    "long_description": "Engage Bio is developing mRNA immunotherapies to defeat cancer. Our founders have deep experience in immunotherapy development, including four drugs in the clinic, and in building mRNA therapeutics platforms. Our approach is to provide cancer cells with instructions to make and gradually release our drugs within solid tumors. This local therapy allows us to eliminate tumors while sparing healthy distant tissues. ",
-    "one_liner": "mRNA Immunotherapies to Eliminate Cancer",
-    "team_size": 5,
+    "long_description": "Engage Bio has developed Tethosomes, a new class of non-viral DNA which finally unleashes potent, durable, redosable, and scalable genetic medicine.\r\n\r\nEngage’s Tethosome platform solves the two key hurdles that have held back the field of non-viral DNA: potency and toxicity. Using proven LNP technology, we deliver a therapeutic DNA and an mRNA encoding our proprietary Tethosome protein. This protein localizes DNA to the nucleus, increasing expression by over 100-fold. Critically, our Tethosome platform is invisible to immune sensors which detect foreign DNA and which can cause lethal immune reactions. This allows us to safely deliver potent DNA, re-dose when needed, and titrate expression to optimal levels.",
+    "one_liner": "Potent, durable, and redosable non-viral genetic medicines",
+    "team_size": 10,
     "industry": "Healthcare",
     "subindustry": "Healthcare -> Therapeutics",
     "launched_at": 1647555290,
@@ -23457,7 +23457,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/422284c71061c1b13b2dea760955ab9a3fa6d01a.png",
     "website": "https://www.argon-ai.com/",
-    "all_locations": "",
+    "all_locations": "NY, USA",
     "long_description": "Argon AI is a platform where biopharma and life sciences professionals can execute complex and data driven workflows using natural language. We help professionals get thorough answers to questions about clinical trials, existing treatments, healthcare landscape, and the competitive market in minutes rather than months. \r\n\r\nPrior to starting Argon, Samy was responsible for Flatiron Health’s (Roche) first data analytics project which eventually led to the start of the Flatiron Services business unit. There, he saw first-hand the heavily manual process that biopharma companies struggle through to get the insights they need to drive forward their drug development programs. He also helped close over $6M+ in ARR and is an expert in enterprise pharma sales.\r\n\r\nCyrus previously led engineering teams and built 0 to 1 across pre-seed and unicorn startups, managed mission-critical trade generation systems at Bridgewater, and held AI advisory roles at various startups. Cyrus has a duel degree in EE and CS from USC.\r\n\r\nBreakthroughs in AI present an opportunity to reinvent biopharma and life science workflows to reduce the time and cost of bringing treatments to patients where delays in bringing a drug to market can cost a pharma company $3M / day.",
     "one_liner": "AI for Pharma Intelligence ",
     "team_size": 2,
@@ -23475,7 +23475,8 @@
       "Healthcare"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -25500,16 +25501,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a6d299272e28e28fc0eef5034541be246b698d0b.png",
     "website": "https://www.syntra.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Syntra is building the agentic operating layer for private medical practices, starting with insurance claims QA. We help clinics generate more revenue per clinical encounter while reducing up to 60% of administrative overhead. Syntra supports hundreds of specialty practices nationwide and processes $100Ms in medical claim charges annually.\r\n",
-    "one_liner": "Agentic infrastructure for private medical practices.",
+    "long_description": "Syntra is building a self-learning agent that replaces a human claim review team at private practices, increasing revenue per encounter while cutting administrative overhead by up to 60%. Our agent learns each practice’s workflows, payer rules, and software stack on its own, enabling us to give every clinic in the country the operating efficiency they need to stay independent.\r\n\r\nSyntra has already processed over 1M patient encounters, supports hundreds of private practices nationwide, and processes $100Ms in medical claim charges annually.\r\n",
+    "one_liner": "Medical chart and claim review ",
     "team_size": 8,
     "industry": "Healthcare",
     "subindustry": "Healthcare -> Healthcare IT",
     "launched_at": 1723733582,
     "tags": [
+      "Artificial Intelligence",
       "Big Data",
-      "Healthcare IT",
-      "AI"
+      "Healthcare IT"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -27229,22 +27230,17 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c0351a7bc0e508af83b9f25fa8db67212e25a78c.png",
     "website": "https://www.locatahealth.com/",
-    "all_locations": "New York, NY, USA",
+    "all_locations": "",
     "long_description": "Locata is an AI referral management platform for Primary Care. We deploy AI agents to automate every step of the referral process that back-office staff face daily, from submitting prior authorizations to broadcasting updates and following up with patients. This frees up staff to focus on patient care.\r\n\r\nPrimary care back-offices are severely understaffed and overburdened by administrative work associated with referrals. Additionally, patients suffer navigating the complex referral process, which can have disastrous health effects if they don’t get the care they need. These factors point to a glaring gap in the system—where out of over 100 million specialist referrals issued annually in the US, only half are actually completed. Locata is tackling this problem head-on, saving administrative staff hours each week and ensuring that the referral process goes as smoothly as possible for patients and their providers.\r\n\r\nAlejandro and Josh met at Stanford where they graduated with BS degrees in Computer Science. Alejandro was a senior software engineer at Meta’s Reality Labs where he led development of several AI features for wearable products and prior to that conducted AI research at Stanford Medicine. Josh graduated with a masters in Computer Science, specializing in AI, before working as a software engineer at Google where he developed AI products that served over 1 billion users.\r\n\r\nWithin two weeks of building our product, we signed a major regional health center and have saved them over 100 hours of work in our first month live.",
     "one_liner": "AI Referral Automation for Primary Care Clinics",
     "team_size": 4,
     "industry": "Healthcare",
     "subindustry": "Healthcare -> Healthcare IT",
     "launched_at": 1753486430,
-    "tags": [
-      "Artificial Intelligence",
-      "SaaS",
-      "Health Tech",
-      "B2B"
-    ],
+    "tags": [],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Summer 2025",
     "status": "Active",
@@ -27253,8 +27249,7 @@
       "Healthcare IT"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "Unspecified"
     ],
     "stage": "Early",
     "app_video_public": false,
