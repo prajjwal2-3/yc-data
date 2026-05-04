@@ -10,7 +10,7 @@
   ],
   "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0978b02398d2e208700132e4080e74a5adc8d662.png",
   "website": "https://taofi.com",
-  "all_locations": "",
+  "all_locations": "CA, USA",
   "long_description": "",
   "one_liner": "The financial layer for decentralized AI",
   "team_size": 11,
@@ -31,7 +31,8 @@
     "Fintech"
   ],
   "regions": [
-    "Unspecified"
+    "United States of America",
+    "America / Canada"
   ],
   "stage": "Early",
   "app_video_public": false,

@@ -2585,7 +2585,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c618208d2cb852eeff16409fb7e787701c395b91.png",
     "website": "https://www.rex.fit",
-    "all_locations": "Zürich, ZH, Switzerland",
+    "all_locations": "CA, USA",
     "long_description": "The DROP by Rex.Fit is an AI wearable camera that automates nutrition tracking using computer vision. It has garnered more than 93k USD in preorders (~450 units) since its launch last month. The nutrition estimation and recommendation tech behind the DROP is already integrated as an API for fitness chains, generating hundreds of thousands of dollars in yearly revenue for them. The DROP is built by brothers, sports nutritionists and computer vision engineers from the Swiss Federal Institute of Technology (ETH Zurich).",
     "one_liner": "Automating nutrition tracking.",
     "team_size": 2,
@@ -2609,8 +2609,8 @@
       "Consumer"
     ],
     "regions": [
-      "Switzerland",
-      "Europe"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -3334,7 +3334,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2af0192d25e843e5333e635fa35115413fbca155.png",
     "website": "https://maritimefusion.com",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "Maritime Fusion is building fusion reactors for ships and off grid energy markets. En route on this endeavor we’re commercializing High Temperature Superconducting (HTS) cable technology for power distribution while advancing the physics basis of our HTS tokamak to decarbonize global shipping. \r\n\r\nBreakeven fusion is coming soon, but the first-of-a-kind (FOAK) reactors will be costly, high maintenance, and have low capacity factors, leading to 5–10x higher electricity cost on the grid. Maritime Fusion is pursuing the most widely accepted approach to fusion, the tokamak, but specifically designed for the marine environment where the challenges that arise between breakeven and a commercially viable energy source are alleviated. The market we're targeting requires 15x less power, lower up-time, and costs the same as alternative fuels but without any emissions. Since fusion does not use highly radioactive fuels or materials – unlike fission – we sidestep the vast majority of regulatory challenges and safety risks associated with nuclear energy. Our team brings over a decade of industry and research experience in plasma physics, nuclear engineering, and electrical engineering with backgrounds at SpaceX, Tesla, Columbia University, and University of Pennsylvania.",
     "one_liner": "Fusion reactors for ships",
     "team_size": 6,
@@ -3357,7 +3357,8 @@
       "Energy"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -3500,7 +3501,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1f9f89a3e11065395408b656b79f12f0fd9868a1.png",
     "website": "https://www.photoniumoptics.com/",
-    "all_locations": "",
+    "all_locations": "NY, USA",
     "long_description": "Photonium is building software to automate optical system design. We supercharge optics experts with intelligent tooling to reduce costs and deliver faster. We handle the full design stack — from optimization, verification, sourcing, to prototyping — for AR/VR, quantum, biotech, metrology/chip fab, LiDAR, and more. ",
     "one_liner": "AI-Powered Optical Consulting & Software",
     "team_size": 3,
@@ -3525,7 +3526,8 @@
       "Engineering, Product and Design"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -3675,7 +3677,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/36e55270dbc5bebe580db836e83f643f2121440a.png",
     "website": "https://cascade.space",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "Cascade Space is building a turn-key communications system for lunar and deep space missions. Our ground station network and integrated software tools work together to maximize uptime and availability, while reducing spacecraft iteration cycles from weeks to hours. \r\n",
     "one_liner": "Deep space communications as a service",
     "team_size": 7,
@@ -3700,7 +3702,8 @@
       "Aviation and Space"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -4053,5 +4056,47 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/lumius",
     "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/lumius.json"
+  },
+  {
+    "id": 31486,
+    "name": "Ornadyne",
+    "slug": "ornadyne",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a1b22be817e9ad2d1f4b3a606e7b94d10bc6a8d6.png",
+    "website": "https://ornadyne.com/",
+    "all_locations": "Los Angeles, CA, USA",
+    "long_description": "Ornadyne builds flapping-wing drones for reconnaissance that look, fly, and sound like birds.\r\n\r\nToday’s drones are easy to detect acoustically, visually, and electronically. As counter-UAS systems improve, traditional quadcopters and fixed-wing UAS systems are becoming increasingly ineffective for close-range surveillance.  \r\n\r\nFlapping-wing aircraft have existed for years, but have lacked the performance, endurance, and control required for real-world deployment. We’re changing that by engineering a high-performance, stealth-optimized system built from first principles for efficiency, autonomy, and reliable field use.\r\n\r\nThe final frontier of surveillance won’t look like machines; it will look like wildlife already in the sky. \r\n\r\nMaybe birds aren't real?",
+    "one_liner": "We're building robot birds for surveillance.",
+    "team_size": 2,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Drones",
+    "launched_at": 1777342640,
+    "tags": [
+      "Hard Tech",
+      "Robotics",
+      "Drones",
+      "Aerospace"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Drones"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/ornadyne",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/ornadyne.json"
   }
 ]

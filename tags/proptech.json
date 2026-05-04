@@ -515,7 +515,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/496d0ff1f20ae199837eebe1bfef35fa059329d0.png",
     "website": "http://culdesac.com",
-    "all_locations": "Tempe, AZ, USA",
+    "all_locations": "CA, USA; Tempe, AZ, USA",
     "long_description": "Culdesac designs, builds, and manages walkable communities. \r\n\r\nCuldesac is a real estate developer and property manager. We build neighborhoods that embrace community, open space, and mobility. We offer residential units at a variety of price points integrated with local retail, commercial uses, and open space for nature and public plazas.\r\n\r\nOur communities prioritize biking, walking, and transit over cars and parking. We partner with leading mobility companies to deliver convenient and affordable transportation services. This creates a vibrant urban lifestyle without the need for a private vehicle.\r\n\r\nRead more here > https://medium.com/culdesac/introducing-culdesac-3fbfe7c4219c",
     "one_liner": "We build cities for people, not cars. ",
     "team_size": 100,
@@ -2371,18 +2371,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a92cafe33d123a85f38886d7af1f5aa33cbfd033.png",
     "website": "https://paces.com",
     "all_locations": "New York, NY, USA",
-    "long_description": "Energy demand is skyrocketing, and renewable energy is the most scalable path forward. But today’s development process can’t move fast enough to meet global goals.\r\n\r\nPaces exists to change that. We are building software and services to accelerate renewable energy deployment and lower costs - unlocking one of the greatest opportunities of our time: transforming how infrastructure gets built and ensuring it’s built with renewable energy.\r\n\r\nPaces automates early-stage due diligence and provides the expertise to accelerate late-stage diligence, fast-tracking projects from siting to construction-ready. Our platform supports renewable energy and data center developers, real estate firms, and more by streamlining siting, interconnection, and permitting. With Paces, teams can de-risk decisions, shorten timelines, and get more renewable energy projects built.",
+    "long_description": "Energy demand is skyrocketing, and renewable energy is the most scalable path forward. But today’s development process can’t move fast enough to meet global goals.\r\n\r\nPaces exists to change that. We are building AI agents, software and services to accelerate power and data center deployment and lower costs - unlocking one of the greatest opportunities of our time: transforming how infrastructure gets built and ensuring it’s built with renewable energy.\r\n\r\nPaces automates early-stage due diligence and provides the expertise to accelerate late-stage diligence, fast-tracking projects from siting to construction-ready. Our platform supports renewable energy and data center developers, real estate firms, and more by streamlining siting, interconnection, and permitting. With Paces, teams can de-risk decisions, shorten timelines, and get more renewable energy projects built.",
     "one_liner": "Agentic AI for Power Projects and AI Infrastructure",
     "team_size": 40,
     "industry": "Industrials",
     "subindustry": "Industrials -> Climate",
     "launched_at": 1654191081,
     "tags": [
+      "Artificial Intelligence",
       "Proptech",
       "Climate",
       "Energy",
-      "Automation",
-      "AI"
+      "Automation"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -2814,7 +2814,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5f51be3e6016c33657688a682b7eb23e8ee1044a.png",
     "website": "https://www.usehaven.ai/",
-    "all_locations": "",
+    "all_locations": "NY, USA",
     "long_description": "Haven is building AI Agents to automate property management operations. Our first Agent is automating the maintenance coordination process. This means answering the phone when tenants have a maintenance issue, diagnosing the issue, dispatching a technician, and then following up with tenants to make sure the issue is resolved.\r\n",
     "one_liner": "AI workforce for property management",
     "team_size": 3,
@@ -2838,7 +2838,8 @@
       "B2B"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -3309,7 +3310,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/088175fa9125ef3885f5ea688b7630e8021bece3.png",
     "website": "https://tandemspace.com/",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "The pandemic reduced office use nationwide by 50%, and tenants have been left to deal with highly inflexible, long term lease agreements that don’t fit today’s office use patterns.\r\n\r\nThe traditional brokerage model works great for big spaces and long terms. But when you want to talk smaller units, short term lengths, shared and common areas, you’re out of luck. \r\n\r\nTandem is an AI-native office leasing platform. We’re using technology to unlock an easier leasing process.   Our AI co-pilot provides a white-glove-quality B2B office search experience, with a fraction of the human labor typically required.\r\n\r\nToday we’re serving three primary markets — NY, SF and BOS.  We’ve helped more than 500 companies find great office space and have seen double-digit month-over-month growth.",
     "one_liner": "AI-native office leasing agent",
     "team_size": 22,
@@ -3332,6 +3333,8 @@
       "Office Management"
     ],
     "regions": [
+      "United States of America",
+      "America / Canada",
       "Remote",
       "Partly Remote"
     ],
@@ -3588,7 +3591,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/dbbb70598f14b005aa7da32e84d2d14fed9e3e3a.png",
     "website": "https://www.pares.ai/",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "CA, USA",
     "long_description": "PARES is the single platform commercial real estate brokers need for their entire workflow, from chasing leads to closing deals and everything in between. \r\n\r\nWith our platform, brokers can:\r\n\r\n1) Automatically update real-time transaction data in our CRM\r\n\r\n2) Create lists of target properties, skip-trace, and easily navigate outbound calls\r\n\r\n3) Underwrite deals with our AI Underwriting Agent\r\n\r\n4) Create OMs/BOVs in minutes with our AI Marketing Agent\r\n\r\nCheck us out at https://www.pares.ai/",
     "one_liner": "Helping commercial real estate brokers find and close more deals.",
     "team_size": 3,

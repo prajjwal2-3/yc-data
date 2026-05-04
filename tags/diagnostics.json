@@ -91,7 +91,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5eedcdf8d152fac7180dc5402647f58cd164448a.png",
     "website": "https://www.onecodex.com",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "MA, USA; San Francisco, CA, USA",
     "long_description": "One Codex is a data platform for applied microbial genomics, enabling new and valuable applications in clinical diagnostics, food safety, and biosecurity. Acquired by Invitae (NVTA) in February 2021. Spun out as an independent company in September 2022.",
     "one_liner": "Data platform for metagenomics and the microbiome.",
     "team_size": 16,
@@ -1218,7 +1218,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7c4e725df0c7bd2ece41618fab3a7e4124841d58.png",
     "website": "http://invisionmedtech.com/",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "At InVision, we use AI to help streamline the interpretation of ultrasounds and identify diseases that may have been missed by human readers. Our models have been tightly integrated into the clinical workflow to allow easy usage by clinicians. Our work has previously been peer-reviewed and published in several top medical venues, including Nature (2020), Nature Medicine (2021), Lancet Digital Health (2021), JAMA Cardiology (2022). Results from our blinded and randomized clinical trial on evaluating cardiac function have also been recently presented as a Late Breaking Clinical Trial at the European Society of Cardiology.",
     "one_liner": "AI Diagnosis of  Heart Disease",
     "team_size": 2,
@@ -1240,6 +1240,8 @@
       "Healthcare"
     ],
     "regions": [
+      "United States of America",
+      "America / Canada",
       "Remote",
       "Partly Remote"
     ],

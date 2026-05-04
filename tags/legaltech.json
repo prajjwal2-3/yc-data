@@ -508,7 +508,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4d5de4c1412998050fa2085e9dbcb8dee8ebd735.png",
     "website": "https://upsolve.org/learn/should-i-file-for-chapter-7-bankruptcy/",
-    "all_locations": "New York, NY, USA",
+    "all_locations": "MA, USA; New York, NY, USA",
     "long_description": "Upsolve is a tech-driven nonprofit that helps low-income Americans overcome debt and rebuild credit at scale. Upsolve was founded in Harvard Law School’s Access to Justice Lab in 2016. Since then, Upsolve has become the nation’s most visited nonprofit financial education site. Upsolve.org educates approximately 2.9 million people a year with 2,000 articles on an array of debt and credit topics. To date, Upsolve’s free DIY bankruptcy filing tool has been used by over 14,000 families to relieve over $600,000,000 in debt. Upsolve users are disproportionately Black and Brown with an average household income of $25,000. Upsolve is now launching a suite of AI tools to help low-income Americans resolve their financial distress earlier. ",
     "one_liner": "Helping low-income Americans overcome debt and rebuild credit at…",
     "team_size": 12,
@@ -1613,20 +1613,20 @@
     "name": "Tower",
     "slug": "tower",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/97d9192686e0278a86ecd8f8e25d07e7d760cfd1.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/71c566f418e6fe3b2b2aa396c65f6feec1bfc40f.png",
     "website": "https://withtower.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Tower accelerates transactional due diligence via an AI-powered, centralized diligence platform. By consolidating disparate diligence workflows, Tower helps deal teams stay organized, spot issues earlier, and close deals faster.",
     "one_liner": "M&A due diligence platform powered by AI",
-    "team_size": 2,
+    "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Legal",
     "launched_at": 1715707959,
     "tags": [
+      "Artificial Intelligence",
       "Workflow Automation",
       "Legal",
       "LegalTech",
-      "AI",
       "AI Assistant"
     ],
     "tags_highlighted": [],
@@ -1702,7 +1702,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/061e173be11210d3cca9f1b51ba89c7c5255750b.png",
     "website": "https://overstandlabs.com",
-    "all_locations": "",
+    "all_locations": "NY, USA",
     "long_description": "Overstand is a data lab that allows our customers to navigate any set of data in just a few minutes.\r\n\r\n*Enterprise*: For enterprises, we we unify Slack, email, calls, and operational data, then surface the signals that matter — customer needs, risks, and revenue opportunities hidden in everyday conversations.\r\n\r\n*Legal Firms*: For legal firms, we help them really quickly understand their entire discovery corpus (either before, or after document review), and quickly build out an initial case assessment and facts.\r\n\r\nInstead of waiting on reports or manual analysis, teams get immediate, evidence-backed answers from the data they already have. Overstand delivers clarity and leverage as your business scales.",
     "one_liner": "Navigate any set of data - no matter how large - in minutes.",
     "team_size": 4,
@@ -1727,7 +1727,8 @@
       "Analytics"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -1832,7 +1833,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4c3ccc32c3cef12a79c45aceb7aa532c954f0602.png",
     "website": "https://www.brighterway.ai/",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "At Brighterway, we use AI to speed up the medical record review process in the Workers' Compensation Industry. Physicians and claims handlers spend hours reviewing thousands of pages of medical documents– our technology highlights the information that is most relevant to a doctor's specialty or a given injury, streamlining their review process and saving them time.\r\n\r\nBrighterway structures and deduplicates disorganized medical records (PDFs) and extracts the content that is medically relevant and related to a given claim, so they can focus on what matters most.",
     "one_liner": "Streamlining the medical record review process in workers comp",
     "team_size": 14,
@@ -1857,7 +1858,8 @@
       "Healthcare IT"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,

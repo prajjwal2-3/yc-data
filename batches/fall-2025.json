@@ -279,7 +279,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6077089b2820cf087e262d7c3ff9da8b9617d791.png",
     "website": "https://parametric.company/",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "Parametric builds autonomous physical businesses.\r\n\r\nWe're starting with a laundromat, designed from the ground up for autonomy. Dirty laundry in, folded clean laundry out.\r\n\r\nRather than retrofit human workflows with robots, we redesign processes with robots as first class citizens.",
     "one_liner": "Physical businesses that run themselves",
     "team_size": 7,
@@ -298,7 +298,8 @@
       "Manufacturing and Robotics"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -408,7 +409,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2529eaf040180126a595ccd660f42824d36e2dae.png",
     "website": "https://www.fernstone.com",
-    "all_locations": "",
+    "all_locations": "NY, USA",
     "long_description": "Fernstone is a full stack insurance brokerage: we combine AI with licensed brokers to obtain complex insurance faster, and at better terms. Today, we manage risk for 100+ businesses in construction, security, and logistics. ",
     "one_liner": "Full-stack insurance brokerage for businesses. ",
     "team_size": 2,
@@ -427,7 +428,8 @@
       "Insurance"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -741,7 +743,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/839111803eb4ccce6e6e411847617a96d8d7d880.png",
     "website": "https://aircaps.com",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "AirCaps is bringing AI assistance to in-person conversations. \r\n\r\nOur AI-copilot provides live captions, translations, AI meeting notes and insights for in-person conversations in real-time. It's deployed as an app for lightweight AR glasses so you can see visual information overlaid onto your field of vision.\r\n\r\nYou can think of it like a Zoom AI meeting assistant or Granola, but for in-person conversations, and with the ability to proactively help you in real-time, not just after the conversation.\r\n\r\nWe’re building the capture and intelligence layer for the 216 billion daily conversations that happen face-to-face.\r\n\r\nWe’ve already processed 16,500 hours of real-world conversations and counting. Today, AirCaps assists with 11% of our users’ in-person conversations.\r\n\r\nWe did $93K in revenue in October and grew 6.5x from September while spending <$3K on marketing (and hit $70K in revenue in the first 2 weeks of November). Our power users average 6h+ daily usage and our day-30 retention is 91%.\r\n\r\nWe previously went viral (75M+ views on TikTok, 150K+ followers) and have been featured by The New Yorker, WIRED, and Forbes.\r\n\r\nMadhav (CEO, Yale CS) has been building in audio and AR since age 13, starting with Google Glass apps and voice assistants for Raspberry Pis. He researched audio AI at the MIT Media Lab. Nirbhay (CTO, Cornell CS) built voice AI on smart glasses in high school and built conversational AI products as the first engineer at 2 YC startups.",
     "one_liner": "The AI copilot for in-person conversations.",
     "team_size": 5,
@@ -759,7 +761,8 @@
       "Consumer"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -861,7 +864,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fd2b15ce8a8e404c0ec54c33a17f938963c26455.png",
     "website": "https://parse.bot",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "Parse lets developers build APIs for any website. Unlike traditional scraping tools that rely on slow, expensive headless browsers, Parse examines websites' underlying network requests and generates API endpoints automatically. This makes Parse 10-100x faster and cheaper than browser automation,. ",
     "one_liner": "Build an API to interact with any website.",
     "team_size": 2,
@@ -883,7 +886,8 @@
       "B2B"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -903,7 +907,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/48c389a46401af22e7cde8396ad1941ad05a7401.png",
     "website": "https://www.brickwiseai.com",
-    "all_locations": "",
+    "all_locations": "London",
     "long_description": "We've built an AI property manager that automates maintenance requests, handling tenant calls and messages 24/7, following up by chasing contractors and resolving issues.\r\n\r\nWe're based in London, but have over 10 customers throughout the world, from San Francisco to Dubai. We have a reliable sales pipeline, including a >$1m cARR enterprise contract. Since our formation 6 months ago, we have raised over $3M in funding.\r\n\r\nIsmail, co-founder & CEO, is an ex-Founder at LiveLink AI, where he raised $3M, growing the platform to editing 150k videos per month. He also built his own prop firm to $500k ARR.\r\n\r\nElias, co-founder & CTO, was an early engineer at a YC backed company, acquired by Google. While a senior engineer at Google for 5 years, he took the product from $50k ARR to >$100m. CS at Bristol, MBA from Imperial.",
     "one_liner": "AI property manager for landlords and estate agents",
     "team_size": 2,
@@ -922,7 +926,8 @@
       "Housing and Real Estate"
     ],
     "regions": [
-      "Unspecified"
+      "United Kingdom",
+      "Europe"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -1025,7 +1030,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9a1286c1ed0f215411585d2faaf1c76a245ee266.png",
     "website": "https://zavopay.com",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "London",
     "long_description": "Zavo is the AI-powered operating system for restaurants.\r\n\r\nWe bring payments, point of sale, and AI agents into one unified platform, so restaurants can run their entire business seamlessly.\r\n\r\nFrom reservations to payments to POS, Zavo replaces fragmented tools with a fully integrated stack built in-house. Our AI agents automate repetitive tasks, streamline operations, and help teams focus on delivering great guest experiences.",
     "one_liner": "AI Operating System for Restaurants ",
     "team_size": 8,
@@ -1050,8 +1055,8 @@
       "Payments"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada",
+      "United Kingdom",
+      "Europe",
       "Remote",
       "Partly Remote"
     ],
@@ -1328,7 +1333,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1ff25b7c4b471648245dcc565a8d35be62b42ef0.png",
     "website": "https://deeptrace.com/",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "At Deeptrace, we’re building AI agents that investigate and resolve production alerts end-to-end. Deeptrace cuts through the noise, pinpoints root causes instantly, and gives engineering teams back what they need most: the freedom to build instead of firefighting.\r\n\r\nIn production, we're already seeing a reduction in time spent triaging, investigating, and resolving alerts with some of the fastest growing companies in the world.",
     "one_liner": "AI agents for on-call",
     "team_size": 4,
@@ -1346,7 +1351,8 @@
       "B2B"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -1402,7 +1408,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b00ba607980bb58773b7bd6c760f042ebe9e31b6.png",
     "website": "https://caddy.app/",
-    "all_locations": "",
+    "all_locations": "NY, USA",
     "long_description": "Caddy is the operating system that works proactively for you. It learns how you work and acts on your behalf, keeping work moving while your context and voice stay intact.\r\n\r\nInstead of producing generic AI output, Caddy creates real work artifacts that sound like you and fit how you actually work. Today, it operates across the tools you use every day, including email, calendar, Slack, Linear, and Notion.\r\n\r\nCaddy is built by the team behind Loom’s AI and core product. We believe the next era of computing is software that understands intent, handles ambiguous work, and quietly gets work done in the background.",
     "one_liner": "Your partner for everyday work, lives in iMessage",
     "team_size": 4,
@@ -1424,7 +1430,8 @@
       "Engineering, Product and Design"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -1912,7 +1919,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b0c983ddfd3fa9bc66481090e877261b8325bea1.png",
     "website": "https://www.trelium.com",
-    "all_locations": "Remote",
+    "all_locations": "CA, USA; Remote",
     "long_description": "",
     "one_liner": "The Agent to Build Your Agents",
     "team_size": 6,
@@ -1934,6 +1941,8 @@
       "B2B"
     ],
     "regions": [
+      "United States of America",
+      "America / Canada",
       "Remote",
       "Fully Remote"
     ],
@@ -1995,7 +2004,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d7c99fca8e4cc5f92f4512cf22a4fef17d90d66d.png",
     "website": "https://www.hypercubic.ai/",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "Hypercubic is an AI-native maintenance and modernization platform for COBOL and mainframes.\r\n\r\nWe help enterprises understand and preserve their mission-critical legacy systems. About 70% of the Fortune 500 companies still rely on them to run their core business applications in banking, insurance, telecom, airlines, retail, and more.\r\n\r\nThese systems, originally built in the 1960s–90s, still power trillions in global infrastructure today but have become increasingly opaque as original developers retire or leave the workforce. \r\n\r\nWe're laying the foundation to autonomously maintain and modernize these legacy systems to future-proof the backbone of the global economy.\r\n\r\n\r\nLearn more at hypercubic.ai",
     "one_liner": "AI to maintain and modernize COBOL.",
     "team_size": 2,
@@ -2013,7 +2022,8 @@
       "B2B"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -2192,7 +2202,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9f96ddb243962497e60383676b01ce3b0cd4cb76.png",
     "website": "https://flick.art",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "\r\nFlick is an AI filmmaking software that lets people create Hollywood-level short films completely using AI end-to-end.\r\n\r\nThere are many AI tools that can give you 8-second casual clips to post on social media, but when it comes to creating truly high-quality films with coherent storylines, consistent characters, and cinematic aesthetics, they don’t come close due to their lack of flexibility, creative control, and fragmented creative flow.\r\n\r\nFounded by an award-winning filmmaker and a founding engineer at Instagram, Flick defines an interface specifically designed for native AI filmmaking that feels natural and enables end-to-end creative flows. Think of Flick as Figma for AI filmmaking.\r\n\r\nThere are 4 complete AI short films created using Flick that got 20+ awards in international film festivals already and our early creator residency community are generating several AI short films every week.\r\n\r\nWe are also building a community where we produce our own AI films as well as collaborating with other well-known filmmakers to share their “behind-the-scenes” workflows as resuable templates to inspire users in our community. We not only build product, we also build world-class content.\r\n\r\nThe whole film industry will be revolutionized by AI and our goal is to be “the product” that defines this category.",
     "one_liner": "Figma + Cursor, for AI Filmmaking",
     "team_size": 2,
@@ -2211,7 +2221,8 @@
       "Content"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -2272,7 +2283,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/942d0cc053faa8bcd3d973b7c4ce50fda2e6defa.png",
     "website": "https://usemod.ai",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "We're building the first fully autonomous accounts payable platform.\r\n\r\nOur AI clerks handle your entire AP workflow: invoice processing, GL coding, PO matching, approvals, responding to vendors, fraud detection and reporting. From the moment an invoice hits your inbox to the moment it's paid, no manual steps required.\r\n\r\nWe integrate with 16+ ERPs including QuickBooks, NetSuite, SAP, Dynamics 365, and Workday.\r\n\r\nFind out why enterprise teams choose Mod AI at usemod.ai.",
     "one_liner": "Touchless AP Automation",
     "team_size": 4,
@@ -2296,7 +2307,8 @@
       "B2B"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -2438,7 +2450,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7447a5f4c087378428be2bea5adcf3daf4a4e9e8.png",
     "website": "https://answerthis.io/",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "AnswerThis is a scientific discovery platform used by over 200,000 researchers that reduces weeks of manual research work to hours. \r\n\r\nInstead of manually searching, reading, and organizing dozens of papers, researchers use AnswerThis to find the most relevant work, see how ideas are connected, and get comprehensive answers to complex scientific questions with line by line answers. \r\n\r\nThis allows them to map research gaps, analyze trends, and draft literature reviews far faster, all while building a searchable library of their own research materials. ",
     "one_liner": "End-to-end workspace to accelerate scientific discovery",
     "team_size": 6,
@@ -2456,6 +2468,8 @@
       "Consumer"
     ],
     "regions": [
+      "United States of America",
+      "America / Canada",
       "Remote",
       "Partly Remote"
     ],
@@ -2598,7 +2612,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b22602dcf84ece0389bd7a801525177573cf75ba.png",
     "website": "https://multifactor.com",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "The agentic era is here, but its foundation is dangerously insecure. A growing number of high-profile \"AI agent gone rogue\" security incidents make headlines each week.\r\n\r\nAs enterprise adoption of agentic software has far outpaced the development of applicable cybersecurity solutions, CISOs have loudly voiced a growing need for verifiable, fine-grained security controls on complex multi-agent systems. That's why we built Multifactor.\r\n\r\nMultifactor offers best-in-class authentication, authorization, and auditing technologies for agentic systems, allowing users to securely and revocably share online accounts with agents while maintaining fine-grained permissions and a detailed event history. We are doing for AI security what Cloudflare did for web security, Okta did for identity security, and Wiz did for cloud security: defining the category.\r\n\r\nA world-class \"account manager\" that allows agents to securely use online accounts on your behalf is just the start—our early enterprise partners include companies using AI agents to manage $7.5+ billion manufacturing supply chains, where the consequences for lapses in security are severe. Our patented AI security technology seamlessly integrates with existing agentic software to thwart attacks like prompt injection, so CISOs and end users alike can breathe a sigh of relief, without slowing the pace of AI adoption.",
     "one_liner": "Zero-trust authentication, authorization, and auditing for AI agents",
     "team_size": 6,
@@ -2617,7 +2631,8 @@
       "Security"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -3919,7 +3934,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Fall 2025",
     "status": "Active",
@@ -3949,7 +3964,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e147d1eb5a08ce6e087e44a2f10d637816c7c5db.png",
     "website": "https://tryscott.ai",
-    "all_locations": "",
+    "all_locations": "NY, USA",
     "long_description": "Coding agents made writing code fast. But 6 engineers in a room will probably still disagree on what needs to be built.\r\n\r\nScott AI is a planning workspace where engineering teams align on what to build before their coding agents start building it.",
     "one_liner": "The planning layer for teams that build with coding agents",
     "team_size": 3,
@@ -3967,7 +3982,8 @@
       "B2B"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -4024,7 +4040,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b1456a0cab6aece2240abb581d153d9212c6dd68.png",
     "website": "https://www.zalos.ai/",
-    "all_locations": "",
+    "all_locations": "London",
     "long_description": "*Eliminate your Finance Operations grunt work!*\r\n⚡Computer Agent logs into existing systems (e.g., ERP, Accounting, other CFO systems)\r\n⚡Automates Finance processes (e.g., pricing, billing, month-end)\r\n⚡Uploads & submits in your system (e.g., create journal entry)\r\n\r\n*The Blockers ➜ Your Finance Systems:*\r\nFinance Operations is buried in repetitive tasks, driving:\r\n❌ Lack finance visibility for decision-making\r\n❌ Wasted time by in-house or outsourced teams\r\n❌ Mistakes and delays from human-driven processes\r\n\r\nBarriers to FinOps automation have included:\r\n🚨 Legacy ERPs with limited AI\r\n🚨 Authentication-protected websites & portals\r\n🚨 Too many Finance Systems that lack full integrations\r\n\r\nIt doesn’t have to be this way.\r\n\r\n⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻\r\n*The Breakthrough ➜ Zalos:*\r\n\r\nZalos Agents run your rule-based processes, using your existing Finance applications:\r\n⭐ Our agents automate processes based on simple instructions (e.g., Screen Recording, PDFs)\r\n⭐ Native handling of ERPs or other applications (e.g., 2FA, Captcha)\r\n⭐ Superior performance from our FinOps libraries (e.g., Data Extraction & Harmonization, Reconciliation, etc.)\r\n\r\nCustomer story:\r\nFROM: In the Bay area, a Finance Manager was wasting 8 days (!) per month:\r\n✖️ Downloads transactions from Corporate Credit Cards & legacy Banks\r\n✖️ Uploads into NetSuite and manually categorizes 100s of transactions\r\n\r\nUSING ZALOS: Finance Manager schedules ‘run process’ weekly:\r\n✔️ Zalos handles 2FA to download & submit required transactions\r\n✔️ Zalos operates NetSuite to categorize >60% outstanding transactions\r\n\r\n*\r\n\r\nNo browser required: Zalos works silently in the background, whilst continuously improving itself. \r\n\r\nGaining 2 days per week was transformational. The Finance Manager could\r\n🟪 Reduce financial risks with closer inspection (e.g., debt covenants) \r\n🟪 Catch cash leakages by spotting suppliers being paid at generous terms\r\n🟪 Be a strategic partner to the CEO & business with better analysis\r\n\r\n⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻\r\nZalos transforms your Finance Operations:\r\n☑️ Scale without headcount - don’t let Operations teams be a bottleneck\r\n☑️ Smarter every day, with evals & RL-finetuning driving a self-performing system\r\n☑️ Built for Enterprise-grade security and screen records every automation for audit\r\n\r\n➡Interested? Request demo here: https://www.zalos.ai/contact-us\r\n",
     "one_liner": "Computer Agents for Finance tasks like reconciliation, in your system!",
     "team_size": 2,
@@ -4043,7 +4059,8 @@
       "Operations"
     ],
     "regions": [
-      "Unspecified"
+      "United Kingdom",
+      "Europe"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -4267,7 +4284,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/dfb9fdd67e9cec23e3f52f42df7e06dd89de9d57.png",
     "website": "https://www.startprimer.com",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "CA, USA",
     "long_description": "Primer is an AI agent that sells, onboards, and supports users automatically through live, personalized walkthroughs.",
     "one_liner": "AI Product Demos",
     "team_size": 2,
@@ -4434,7 +4451,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2a8caed7d0a490086d7e541276710ed25029450f.png",
     "website": "https://absurd.com/",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "Absurd makes AI brand and performance ads at scale. Our last video for Kalshi (\"Election Day\") did 1M+ views, and our videos average 400K+ organic views.\r\n\r\nCompanies like Hims, Kalshi, Replit, and Brex use Absurd to create production-quality videos in 72 hours. We do it with a multi-agent orchestration layer, working closely with your team from concept to final cut.\r\n\r\nTry it at absurd.com",
     "one_liner": "AI Videos",
     "team_size": 6,
@@ -4459,7 +4476,8 @@
       "Marketing"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -4476,7 +4494,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e2ae21e5585fe49cdcbe433b98758f630b57fe40.png",
     "website": "https://kalpalabs.ai/",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "We're building the next frontier of speech models. Generalist speech models that unlock in-context learning & strong instruction following for speech models alongside unifying existing speech capabilities like speech to text, text to speech, voice cloning, etc.",
     "one_liner": "Scaling Generalist Speech models",
     "team_size": 2,
@@ -4494,7 +4512,8 @@
       "B2B"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -4638,7 +4657,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/adc8f9d4d6337ea663afc0947984b8597189cd0a.png",
     "website": "https://www.savahq.com",
-    "all_locations": "",
+    "all_locations": "NY, USA",
     "long_description": "If you are a trusts & estates attorney, RIA, fintech, or family office interested in Sava, reach us at founders@savahq.com",
     "one_liner": "Building the future of trusts",
     "team_size": 3,
@@ -4656,7 +4675,8 @@
       "Fintech"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -4917,7 +4937,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/93b8f2a59336dfc904201981cfcd3455964d5be2.png",
     "website": "https://castari.com",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "Castari lets developers deploy AI agents in secure, autoscaling sandboxes with one command. We handle tool/MCP connectors, snapshots, and observability so teams go from prototype to production in hours instead of weeks.\r\n\r\nDevelopers focus on building agents, Castari provides the autoscaling sandbox infrastructure to ensure your agents and its tools are secure.",
     "one_liner": "Vercel for AI Agents – One click deploy for the Claude Agent SDK",
     "team_size": 3,
@@ -4936,7 +4956,8 @@
       "Infrastructure"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -5127,7 +5148,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/db4f19af21f2acf6ffe0cf95e59e6961ae9e1f89.png",
     "website": "https://www.telemetron.ai/",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "Telemetron is an AI-powered support platform tailored for hardware products (medical devices, consumer electronics, industrial hardware, robotics, and more). \r\n\r\nOur platform unifies ticketing, device diagnostics, order tracking, and product documentation into one intelligent system. Our AI agents connect directly to devices, APIs, and backend systems to deliver faster resolutions, smarter routing, and better support experiences.",
     "one_liner": "Support and Operations Platform for Hardware Companies",
     "team_size": 2,
@@ -5145,7 +5166,8 @@
       "B2B"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -5410,7 +5432,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3c02ad81894db8e1b1d0e71c379c7cae04211613.png",
     "website": "https://velvet-videos.com",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "The platform where frontier research labs buy data to pass the audiovisual Turing test.",
     "one_liner": "Helping AI pass the audiovisual Turing test",
     "team_size": 3,
@@ -5428,7 +5450,8 @@
       "B2B"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -5447,7 +5470,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7466bfa4281b844c618118683dbd69f3e3cec258.png",
     "website": "https://www.nerviom.com",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "Infrastructure projects like data centers, factories, and energy facilities require navigating hundreds of permits and regulatory approvals before construction can begin. \r\n\r\nToday this process is handled through consultants, spreadsheets, and thousands of pages of documentation, adding years to project timelines and millions in consulting costs.\r\n\r\nWe are building an AI autopilot to automate infrastructure permitting and regulatory compliance. \r\n\r\nOur goal is to significantly reduce the time and cost required to get infrastructure projects approved and built.",
     "one_liner": "AI Autopilot for Infrastructure Permitting",
     "team_size": 1,
@@ -5470,7 +5493,8 @@
       "Real Estate and Construction"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -5533,7 +5557,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5f7aeefba483366ce37b43e62ede2e86d091b755.png",
     "website": "https://zag.dev/",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "Zag is an AI review agent platform for teams shipping iOS, iPadOS, and macOS apps. You describe review agents in TypeScript or Swift that actually build, test, and run your app on every PR, catching bugs and security issues before they reach a human reviewer.\r\n\r\nUnder the hood, Zag runs on dedicated Apple Silicon in real macOS environments with Xcode, simulators, and your full toolchain.\r\n\r\nZag offers at-cost macOS compute at $0.015/min - 5× cheaper than any other macOS runner on the market.",
     "one_liner": "AI review agents for iOS, iPadOS, and macOS developers.",
     "team_size": 3,
@@ -5552,7 +5576,8 @@
       "Engineering, Product and Design"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -5569,7 +5594,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/bac15cb365c68f8004b888ffdda5946e5ec65b76.png",
     "website": "https://www.fastshot.ai/",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "Fastshot is a no-code mobile development platform.\r\nOur mission is to \"Democratize mobile app creation with AI\"\r\nAnyone can develop a mobile app from idea to App Stores within minutes just by chatting with AI.\r\n\r\n",
     "one_liner": "Lovable for mobile apps",
     "team_size": 3,
@@ -5593,7 +5618,8 @@
       "Engineering, Product and Design"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,

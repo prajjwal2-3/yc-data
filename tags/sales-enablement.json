@@ -133,7 +133,7 @@
     ],
     "small_logo_thumb_url": "/company/thumb/missing.png",
     "website": "http://www.blitziq.com",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "",
     "one_liner": "Note taking workspace for B2B sales teams",
     "team_size": 0,
@@ -156,7 +156,8 @@
       "Sales"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -641,7 +642,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/30af84e0971fab8e280e8b2aa9d648d3cb85997b.png",
     "website": "https://supersend.io/",
-    "all_locations": "Royal Oak, MI, USA; Remote",
+    "all_locations": "CA, USA; Remote",
     "long_description": "Super Send is a powerful outreach automation platform designed to streamline and scale your prospecting efforts across multiple channels, including email, LinkedIn, and Twitter. With features like dynamic personalization, email warming, inbox rotation, and advanced analytics, Super Send enables businesses to connect with leads efficiently while maintaining a human touch. Whether you’re running A/B tests, managing campaigns, or optimizing deliverability, Super Send provides the tools you need to maximize engagement and grow your business\r\n\r\n",
     "one_liner": "Super Send automates personalized outreach across email, LinkedIn,…",
     "team_size": 8,
@@ -1321,7 +1322,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8d689d59276a36e33100281dbe98a74bcaf59a06.png",
     "website": "https://mail.cedarcopilot.com/",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "Cedar helps the fastest growing GTM teams ramp up new reps faster & spread top rep playbook throughout the team. AE's at Cursor, Corgi, Pylon, and Warp use Cedar to save 75% of admin time on CRM updates, follow-ups, and deal strategy. \r\n\r\nBacked by YC with an ex-Figma, Notion, and Intuit team, Cedar was built by spending hundreds of hours with the best AE's in industry – we've built a playbook for the fastest growing teams and founders ramping up sales, and we'll use it to automate the busy work so you can sell more, better.",
     "one_liner": "Execute the best sales playbook in industry",
     "team_size": 2,
@@ -1345,7 +1346,8 @@
       "Engineering, Product and Design"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,

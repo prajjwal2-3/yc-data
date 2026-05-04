@@ -183,7 +183,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e25ba04ae8686807d958c48f1372502741b4b2e3.png",
     "website": "http://www.focal.systems",
-    "all_locations": "New York, NY, USA; San Francisco, CA, USA; Toronto, ON, Canada; London, England, United Kingdom",
+    "all_locations": "CA, USA; San Francisco, CA, USA; Toronto, ON, Canada; London, England, United Kingdom",
     "long_description": "Focal Systems is on a mission to lower the cost of living for all mankind by automating and optimizing Brick and Mortar Retail with the latest advancements in AI. Focal Systems is the industry leader in retail automation solutions. By digitizing store shelves hourly and unleashing FocalOS, retailers unlock huge operational efficiencies, optimized merchandising, and streamlined supply chains which deliver impactful financial results. Focal is transforming retail by empowering store management to make automated, data-driven decisions. We are the operating system of retail.",
     "one_liner": "Building the Operating System for B&M Retail using Deep Learning",
     "team_size": 170,
@@ -637,7 +637,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5aa6fac6d2489885ce08d4c58cabcc5b5a131c29.png",
     "website": "https://sapling.ai",
-    "all_locations": "San Francisco, CA, USA; Los Angeles, CA, USA",
+    "all_locations": "CA, USA; Los Angeles, CA, USA",
     "long_description": "Sapling offers an API and SDK to help businesses integrate language models into their applications. Its messaging assistant sits on top of CRMs and messaging platforms to help users more efficiently compose responses.",
     "one_liner": "Language models for enterprise applications.",
     "team_size": 2,
@@ -1350,7 +1350,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/62ebbbabf82f9c9badd0bbcb60f8749d391d5a78.png",
     "website": "https://www.preloop.com",
-    "all_locations": "",
+    "all_locations": "WA, USA",
     "long_description": "Only 2 out of 10 ML models make it from experiment to production. Preloop helps automate the process of deployment, helping companies realize more value from their machine learning teams, while focusing teams' attention on science instead of engineering.",
     "one_liner": "Translate your experimental scripts into production ML services",
     "team_size": 2,
@@ -1375,7 +1375,8 @@
       "Engineering, Product and Design"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,

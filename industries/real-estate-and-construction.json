@@ -2024,7 +2024,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/496d0ff1f20ae199837eebe1bfef35fa059329d0.png",
     "website": "http://culdesac.com",
-    "all_locations": "Tempe, AZ, USA",
+    "all_locations": "CA, USA; Tempe, AZ, USA",
     "long_description": "Culdesac designs, builds, and manages walkable communities. \r\n\r\nCuldesac is a real estate developer and property manager. We build neighborhoods that embrace community, open space, and mobility. We offer residential units at a variety of price points integrated with local retail, commercial uses, and open space for nature and public plazas.\r\n\r\nOur communities prioritize biking, walking, and transit over cars and parking. We partner with leading mobility companies to deliver convenient and affordable transportation services. This creates a vibrant urban lifestyle without the need for a private vehicle.\r\n\r\nRead more here > https://medium.com/culdesac/introducing-culdesac-3fbfe7c4219c",
     "one_liner": "We build cities for people, not cars. ",
     "team_size": 100,
@@ -2167,7 +2167,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4d5f984daf01843ad24f9bdb200e128b031fe3cb.png",
     "website": "http://www.hutsy.co",
-    "all_locations": "New York, NY, USA",
+    "all_locations": "CA, USA; New York, NY, USA",
     "long_description": "Hutsy is a new way to buy a home for the modern home buyer.\r\n\r\nFor the first time, we’ve built a hybrid agent-tech process that will help you with your entire home buying process. We are committed to helping you from searching & submitting offers to signing closing documents in the simplest manner possible.\r\n\r\nWe find the best local agents, title officers, lenders, inspectors and streamline the process start-to-finish so that you don't have to worry about dealing with shady folks.\r\n\r\nWe've eliminated redundant back-and-forth so that you can search, schedule and sign easily online.\r\n\r\nWe give you a clean dashboard to keep track of any upcoming closing costs, and the transaction progress at all times, so that you can prepare for what is required of you well ahead of time.\r\n\r\nUltimately, we've retained the humanistic elements of the process, provided by the best agents and third parties, and fused it with the latest tech for your convenience. This means that you consistently get the best home buying experience, every single time. ",
     "one_liner": "Home Buying on Autopilot",
     "team_size": 3,
@@ -2208,7 +2208,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1977d3cc8bce459b7dac1875971bf9b6a14e9fde.png",
     "website": "https://www.doorport.com",
-    "all_locations": "New York, NY, USA",
+    "all_locations": "CA, USA",
     "long_description": "",
     "one_liner": "Acquired by Alarm.com - We make existing apartment access smart.",
     "team_size": 3,
@@ -2649,7 +2649,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d63589ab125b18c4f235fe17ab462bfbde2b02ec.png",
     "website": "https://downtobid.com",
-    "all_locations": "New York, NY, USA; Remote",
+    "all_locations": "CA, USA; Remote",
     "long_description": "Our product helps GCs automatically identify scopes of work, find qualified local subcontractors, and send personalized bid invites.\r\n\r\n",
     "one_liner": "Using AI to understand construction plans faster.",
     "team_size": 5,
@@ -2777,7 +2777,7 @@
     ],
     "small_logo_thumb_url": "/company/thumb/missing.png",
     "website": "https://withlaguna.com",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "NY, USA; San Francisco, CA, USA",
     "long_description": "",
     "one_liner": "",
     "team_size": 2,
@@ -3947,7 +3947,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/cb773861a8ee7d9c8f9ea1ad72eeeb3cc4a2283e.png",
     "website": "http://tigereye.com/",
-    "all_locations": "Remote",
+    "all_locations": "CA, USA; Remote",
     "long_description": "TigerEye eliminates bullsh*t so construction professionals can focus\r\non building the infrastructure that makes our world work\r\n",
     "one_liner": "AI for Construction",
     "team_size": 30,
@@ -3970,6 +3970,8 @@
       "Construction"
     ],
     "regions": [
+      "United States of America",
+      "America / Canada",
       "Remote",
       "Fully Remote"
     ],
@@ -5236,7 +5238,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/de40cdab3b2a59f362314d96298b6bfbfdf6a69b.png",
     "website": "https://www.electricair.io/",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "Electric Air is a tech-enabled contractor for heat pump installations that cuts costs by 60%. Heat pumps are the most efficient way to heat American homes with a $53B annual market opportunity. ",
     "one_liner": "Tech-enabled heat pump contractor that cuts costs by 60%",
     "team_size": 18,
@@ -5255,7 +5257,8 @@
       "Construction"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -5630,7 +5633,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ac4a7beb03a05695b7b9e9e9353c8cb94a4bfa8d.png",
     "website": "https://www.schemeflow.com",
-    "all_locations": "",
+    "all_locations": "London",
     "long_description": "SchemeFlow uses AI to generate technical reports for engineering and environmental review  for construction projects.\r\n\r\nTwo brothers + high school friend, with great combo of skills: Mayor’s Chief of Staff, Arup construction engineer + AI software engineer.\r\n\r\nLLMs allow fast generation of reports & handling local regulatory complexity which wasn’t feasible before.\r\n\r\nWorking across Transportation, Air Quality, Noise, Flood Risk, Environmental review in the US and the UK, with major engineering companies such as Stantec, Buro Happold and Royal Haskoning.\r\n\r\n$9B US opportunity (143k consultants x $64k/yr report-writing work), $23B worldwide.\r\n\r\nwww.schemeflow.com",
     "one_liner": "AI Report Generation for Engineering & Environmental Review",
     "team_size": 5,
@@ -5648,7 +5651,8 @@
       "Real Estate and Construction"
     ],
     "regions": [
-      "Unspecified"
+      "United Kingdom",
+      "Europe"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -5801,7 +5805,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fa668d5cbf2cf7fdadb1d8847e54392cbd356305.png",
     "website": "https://www.karmenai.com",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "Karmen is an AI scheduling assistant for construction. Karmen builds your baseline schedules from project documents, and updates them as your project evolves, saving you time and potential delays.\r\n\r\n",
     "one_liner": "Your AI scheduling assistant for construction",
     "team_size": 2,
@@ -5820,7 +5824,8 @@
       "Construction"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -5877,7 +5882,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b817d9ff432f589aa1f3d4acdce2adb596dc372c.png",
     "website": "https://fresco-ai.com/",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "Fresco is an AI-powered takeoff and estimating for Division 8 construction (doors, frames, and hardware).\r\n\r\nEstimating Division 8 has always been brutally manual: flipping through hundreds of pages of specs, cross-referencing hardware sets, and building out schedules by hand. A single missed door or misread hardware group can kill a bid's margin.\r\n\r\nFresco automates the entire takeoff process with 99% accuracy, cutting the time estimators spend on takeoffs by 70%. We've processed 3,000+ takeoffs for general contractors and Division 8 subs, and we're becoming the system of record for how this trade gets estimated.\r\n\r\nDivision 8 is our beachhead: it's complex enough that AI creates massive value, and siloed enough that the incumbents haven't solved it. We're starting here and expanding across the spec trades.",
     "one_liner": "AI copilot for construction estimators",
     "team_size": 2,
@@ -5896,7 +5901,8 @@
       "Construction"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -6166,7 +6172,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fda446d464914642f213b7da0cd38f3f6fead898.png",
     "website": "https://ironledger.ai",
-    "all_locations": "",
+    "all_locations": "NY, USA",
     "long_description": "IronLedger automates property accounting for property managers, developers and contractors, starting with accounts payable. We eliminate more than $70K of accounting costs annually for over 50K multifamily units.\r\n\r\nhttps://www.ironledger.ai/",
     "one_liner": "AI-enabled Corporate Cards and Invoice Processing for Real Estate",
     "team_size": 2,
@@ -6185,6 +6191,8 @@
       "Housing and Real Estate"
     ],
     "regions": [
+      "United States of America",
+      "America / Canada",
       "Remote",
       "Partly Remote"
     ],
@@ -6205,7 +6213,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/dbbb70598f14b005aa7da32e84d2d14fed9e3e3a.png",
     "website": "https://www.pares.ai/",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "CA, USA",
     "long_description": "PARES is the single platform commercial real estate brokers need for their entire workflow, from chasing leads to closing deals and everything in between. \r\n\r\nWith our platform, brokers can:\r\n\r\n1) Automatically update real-time transaction data in our CRM\r\n\r\n2) Create lists of target properties, skip-trace, and easily navigate outbound calls\r\n\r\n3) Underwrite deals with our AI Underwriting Agent\r\n\r\n4) Create OMs/BOVs in minutes with our AI Marketing Agent\r\n\r\nCheck us out at https://www.pares.ai/",
     "one_liner": "Helping commercial real estate brokers find and close more deals.",
     "team_size": 3,
@@ -6331,7 +6339,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/48c389a46401af22e7cde8396ad1941ad05a7401.png",
     "website": "https://www.brickwiseai.com",
-    "all_locations": "",
+    "all_locations": "London",
     "long_description": "We've built an AI property manager that automates maintenance requests, handling tenant calls and messages 24/7, following up by chasing contractors and resolving issues.\r\n\r\nWe're based in London, but have over 10 customers throughout the world, from San Francisco to Dubai. We have a reliable sales pipeline, including a >$1m cARR enterprise contract. Since our formation 6 months ago, we have raised over $3M in funding.\r\n\r\nIsmail, co-founder & CEO, is an ex-Founder at LiveLink AI, where he raised $3M, growing the platform to editing 150k videos per month. He also built his own prop firm to $500k ARR.\r\n\r\nElias, co-founder & CTO, was an early engineer at a YC backed company, acquired by Google. While a senior engineer at Google for 5 years, he took the product from $50k ARR to >$100m. CS at Bristol, MBA from Imperial.",
     "one_liner": "AI property manager for landlords and estate agents",
     "team_size": 2,
@@ -6350,7 +6358,8 @@
       "Housing and Real Estate"
     ],
     "regions": [
-      "Unspecified"
+      "United Kingdom",
+      "Europe"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -6369,7 +6378,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ba87f08924e71cb7f0f2cc408c3db98e48349bb9.png",
     "website": "https://www.travoai.com/",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "We are building the most accurate and comprehensive real estate data set. Travo is the one stop shop for anyone working in real estate to search any property or parcel of land and instantly access rental comps, ownership, zoning and financials. With our data, we build the best informed AI applications for real estate private equity firms, developers, and brokers.",
     "one_liner": "The data infrastructure for real estate",
     "team_size": 4,
@@ -6387,7 +6396,8 @@
       "Real Estate and Construction"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -6493,7 +6503,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7466bfa4281b844c618118683dbd69f3e3cec258.png",
     "website": "https://www.nerviom.com",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "Infrastructure projects like data centers, factories, and energy facilities require navigating hundreds of permits and regulatory approvals before construction can begin. \r\n\r\nToday this process is handled through consultants, spreadsheets, and thousands of pages of documentation, adding years to project timelines and millions in consulting costs.\r\n\r\nWe are building an AI autopilot to automate infrastructure permitting and regulatory compliance. \r\n\r\nOur goal is to significantly reduce the time and cost required to get infrastructure projects approved and built.",
     "one_liner": "AI Autopilot for Infrastructure Permitting",
     "team_size": 1,
@@ -6516,7 +6526,8 @@
       "Real Estate and Construction"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -6535,7 +6546,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4ea6017f7d414cf92f14434141d6dd12101b14d9.png",
     "website": "https://foreman.co",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "Foreman is the all-in-one AI-powered project management platform built for residential contractors.\r\nToday, contractors run complex businesses on a patchwork of tools that were never designed for construction — estimates in spreadsheets, plans in email, proposals copy-pasted from old Word docs, photos scattered across phones. Nothing talks to anything else, and the admin work never stops.\r\nForeman replaces that patchwork with a single platform that manages the full lifecycle of a construction job, from first estimate to final invoice. Contractors upload plans, photos, or a project description, and Foreman's AI instantly generates structured takeoffs, scoped estimates, and professional proposals — in minutes, not hours. From there, every customer record, document, permit, photo, change order, and conversation lives in one place, organized around the job.\r\nThe result: contractors spend less time buried in admin and more time building. They bid faster, manage jobs with less chaos, and close projects cleanly — without duct-taping five tools together to do it.",
     "one_liner": "Keeping contractors on the job site, not behind a desk.",
     "team_size": 2,
@@ -6553,7 +6564,8 @@
       "Real Estate and Construction"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,

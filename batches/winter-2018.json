@@ -270,7 +270,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2dc377e8276c3eddb8f99613f0b90ed45fea6ee7.png",
     "website": "https://quantstamp.com",
-    "all_locations": "Toronto, ON, Canada; San Francisco, CA, USA; Remote",
+    "all_locations": "CA, USA; San Francisco, CA, USA; Remote",
     "long_description": "Quantstamp has protected billions in digital assets from hackers on our mission to secure web3. As a global team of security professionals, we have honed our technology and expertise through hundreds of audits and gained the trust of our clients to keep their innovative products safe.\r\n\r\nIn addition to providing an array of security services, we facilitate the growth and longevity of the web3 space through strategic investments and acting as a trusted advisor to help projects scale. Quantstamp is honored to have worked with some of the top projects in the industry including Aave, Compound, Maker, OpenSea, Polygon and many more.\r\n\r\nAs the leading blockchain security company in this emerging industry, we are always looking for team members that love taking initiative and solving challenging problems. Join the team and help us secure the future of web3.\r\n",
     "one_liner": "Security auditing for Web3",
     "team_size": 80,
@@ -294,7 +294,6 @@
       "Security"
     ],
     "regions": [
-      "Canada",
       "United States of America",
       "America / Canada",
       "Remote",
@@ -773,7 +772,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fe1dec1da87d011bdd6e9ab33b74b859fda878b0.png",
     "website": "http://joinnecto.com",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "NY, USA; San Francisco, CA, USA",
     "long_description": "Everything one would need to start an ISP",
     "one_liner": "ISP starter kit",
     "team_size": 4,
@@ -1213,7 +1212,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/69b6a37b7adaa6a16d3c4640af935a47c7002a49.png",
     "website": "https://www.keyvalues.com",
-    "all_locations": "",
+    "all_locations": "WA, USA",
     "long_description": "",
     "one_liner": "Helping software developers find teams that share their values. ",
     "team_size": 1,
@@ -1235,7 +1234,8 @@
       "Recruiting and Talent"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -2291,7 +2291,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/275e2a78b8a55a63263d69a44e49471cf75b7b7f.png",
     "website": "http://www.nuvocargo.com",
-    "all_locations": "Mexico City, CDMX, Mexico",
+    "all_locations": "NY, USA; Mexico City, CDMX, Mexico",
     "long_description": "Nuvocargo is a digital-first freight forwarder and licensed US customs broker focused on helping shippers seamlessly move cargo over the road between USA and Mexico. Our goal is to make your life easier by combining exceptional service with beautiful software so that moving your products between USA and Mexico is less painful and more intuitive.\r\n\r\nWe are the **one-stop shop** for shippers for everything they need in their USA/Mexico cross-border supply chain; this includes procuring freight in both Mexico & USA, customs clearance, insurance, trade finance, reporting, and more. We act as an extension of your team so you can outsource to Nuvocargo all the complexities & vendor management associated with your cross border supply chain.",
     "one_liner": "Radically simplifying cross-border logistics between USA & Mexico",
     "team_size": 150,
@@ -2315,7 +2315,9 @@
       "Supply Chain and Logistics"
     ],
     "regions": [
+      "United States of America",
       "Mexico",
+      "America / Canada",
       "Latin America",
       "Remote",
       "Partly Remote"
@@ -3030,7 +3032,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5b960c3cd3323ef642c02e83ce226f1403dfec5e.png",
     "website": "http://www.aalo.co",
-    "all_locations": "Toronto, ON, Canada",
+    "all_locations": "CA, USA; Toronto, ON, Canada",
     "long_description": "",
     "one_liner": "Lego-like furniture for design geeks. We create furniture that's…",
     "team_size": 1,
@@ -3052,6 +3054,7 @@
       "Home and Personal"
     ],
     "regions": [
+      "United States of America",
       "Canada",
       "America / Canada"
     ],
@@ -5361,7 +5364,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/24a1b10ecd88a95d991b58dfef7185c0450e3ce6.png",
     "website": "https://pointapi.com",
-    "all_locations": "Cambridge, MA, USA",
+    "all_locations": "NY, USA; Cambridge, MA, USA",
     "long_description": "Point stores things you send over and over again and helps you re-use them instantly.\r\n\r\nPoint can store ANYTHING, including long email templates, links, images, and emojis! When you want to re-send your pitch, support ticket resolution, or even just a Calendly link, Point makes it easy to find and reuse it so you never have to type it out again.\r\n\r\nNo need to search for your favorite emoticon anymore...¯\\_(ツ)_/¯\r\n\r\nInstall our Chrome Extension to use Point anywhere on the web: https://pointapi.com/chrome.",
     "one_liner": "Point stores things you send over and over again and helps you re-use…",
     "team_size": 5,
@@ -5584,7 +5587,7 @@
     ],
     "small_logo_thumb_url": "/company/thumb/missing.png",
     "website": "https://www.onhexel.com",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "NY, USA; San Francisco, CA, USA",
     "long_description": "Hexel lets you create a cryptocurrency for your community.",
     "one_liner": "Create a cryptocurrency for your community.",
     "team_size": 2,

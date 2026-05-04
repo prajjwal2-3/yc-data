@@ -1661,7 +1661,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Summer 2018",
     "status": "Active",
@@ -4670,7 +4670,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c5062433c0cd2b53219dee1f6f03c41690b9965b.png",
     "website": "https://arintra.com",
-    "all_locations": "Austin, TX, USA",
+    "all_locations": "CA, USA",
     "long_description": "US hospitals and clinics are losing $125B every year due to delayed and inaccurate medical coding. Arintra is solving this problem by automating medical coding using clinical AI. Arintra converts a patient chart instantly into insurance claims with 96% accurate medical codes and zero human intervention.\r\n\r\nArintra has partnered with several provider clients that includes health systems and large physician groups with 100% success. Through automation of these charts, Arintra has reduced undercoding by 11% and coding-related claim denials by 43%. Arintra is headquartered in Austin, Texas. \r\n\r\nArintra is bi-directionally integrated with leading EHRs including Epic, Athena, Cerner, etc. to process patient charts directly from the EHR to create a direct-to-billing claim. This direct-to-billing claim includes precise E/M levels, CPT, ICD-10, HCC, HCPCS codes with appropriate modifiers and units.\r\n\r\nBoth founders have PhDs in AI, significant ML and NLP experience, 60+ patents and publications, and a combined 20+ years of experience working at B2B companies and startups in Silicon Valley.",
     "one_liner": "Medical coding automation",
     "team_size": 50,
@@ -4936,7 +4936,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/00e87778f713ce047a743a9838a85c3b22cc4b8b.png",
     "website": "https://www.revivingmind.com/",
-    "all_locations": "Boston, MA, USA; Remote",
+    "all_locations": "CA, USA; Boston, MA, USA; Remote",
     "long_description": "Navigating chronic illness is an isolating and lonely process which ultimately reduces medical adherence and adversely impacts outcomes. There are over 100 deadly chronic conditions as 1 out of 2 Americans is currently living with at least 1 chronic condition. The US healthcare system has over $1 trillion dollars in direct costs. Medical adherence rates for therapeutic programs and medicine are only 50% because patients feel lonely, isolated, and unsupported in their chronic illness journey.\r\n\r\nReviving Mind is an in-network telehealth provider that improves clinical outcomes and program adherence for the senior medicare and medicare-advantage population that is plagued with loneliness and chronic illness. This is done through a novel and proprietary clinical program and technology platform that integrates virtual, private, curated, and professionally led groups that scale up to 8-patients with individualized and goal oriented lifestyle medicine coaching that is automated but managed by a licensed provider.\r\n\r\nScaling rapidly across the United States.",
     "one_liner": "Addressing Loneliness and Isolation for Seniors",
     "team_size": 3,
@@ -5749,7 +5749,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c88fa9e34c4a724f42d4470f0b3d2c1bd0ae22cd.png",
     "website": "https://gethipposcribe.com",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "Burdensome documentation is the #2 reason causing burnout for physical therapists. More than half of all physical therapists have to write documentation in their free time without pay. up to 2 hours a day. \r\n\r\nOur AI Scribe listens, generate first draft of clinical documentation in minutes, and sync reviewed documentation to EMR in 2 seconds. With us, clinicians can finish documentation 70% faster and become happier. ",
     "one_liner": "AI assisted documentation for PT/OT/SLP",
     "team_size": 2,
@@ -5773,7 +5773,8 @@
       "Healthcare"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -6636,7 +6637,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/174cf352bddd34701bef4a958ce1e21e7d49de3d.png",
     "website": "https://www.cairhealth.com/",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "Cair Health empowers billing companies, care management platforms, EHRs, offshore BPOs, provider groups, and specialty pharmacies with AI-driven RCM solutions.  Our suite of AI Agents helps RCM teams streamline operations, reduce manual costs, and improve consistency—while maintaining full control over core workflows. Cair is trusted by 100+ practices across the country — including iconic VC-backed digital health startups, leading specialty EHRs, and some of the largest billing companies and BPOs\r\n\r\nBacked by Y Combinator, Foundation Capital, Soma Capital, Translink Capital & many others.. ",
     "one_liner": "AI Agents for Healthcare RCM",
     "team_size": 6,
@@ -6661,7 +6662,8 @@
       "Healthcare IT"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -7508,7 +7510,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c195f1e4be073ff23e0e95a7e8dd2dbdc94e086e.png",
     "website": "https://tivara.com",
-    "all_locations": "",
+    "all_locations": "NY, USA",
     "long_description": "",
     "one_liner": "The AI workforce for medical groups",
     "team_size": 2,
@@ -7531,7 +7533,8 @@
       "Healthcare"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -7590,7 +7593,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4c3ccc32c3cef12a79c45aceb7aa532c954f0602.png",
     "website": "https://www.brighterway.ai/",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "At Brighterway, we use AI to speed up the medical record review process in the Workers' Compensation Industry. Physicians and claims handlers spend hours reviewing thousands of pages of medical documents– our technology highlights the information that is most relevant to a doctor's specialty or a given injury, streamlining their review process and saving them time.\r\n\r\nBrighterway structures and deduplicates disorganized medical records (PDFs) and extracts the content that is medically relevant and related to a given claim, so they can focus on what matters most.",
     "one_liner": "Streamlining the medical record review process in workers comp",
     "team_size": 14,
@@ -7615,7 +7618,8 @@
       "Healthcare IT"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -7943,7 +7947,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a8759a02d8be9a9d533e889c8828572da197bc1b.png",
     "website": "https://www.futureclinic.com",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "NY, USA",
     "long_description": "FutureClinic is a platform that makes it easy for any doctor to open their own digital clinic. Our AI assistant takes a comprehensive medical history using an empathic chat or voice-based interface, uses sophisticated medical reasoning to narrow down likely diagnoses, and produces evidence-based treatment suggestions for each patient. Licensed doctors then review the text-based summaries of the cases our AI provides, and choose how to manage the patients. In this fashion, we're able to deliver end-to-end healthcare in a way that makes personalized, expert healthcare scalable to 8 billion people around the world. ",
     "one_liner": "Personal doctors through chat",
     "team_size": 4,
@@ -8034,7 +8038,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/41da0485e955f2070020b3fb65cf8716d346525e.png",
     "website": "https://www.vocalityhealth.com",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "Our app allows doctors to speak any language, eliminating the need for human medical translators in hospitals and clinics. Despite spending billions on in-person and remote translators—mostly through outdated call centers—hospitals still fail to provide adequate care for non-English-speaking patients.\r\n\r\nWe're building the most accurate and compliant medical language translation system across voice and video modalities. ",
     "one_liner": "Voice AI for medical language translation",
     "team_size": 2,
@@ -8057,7 +8061,8 @@
       "Healthcare Services"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -8343,7 +8348,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1e885d9503dffbb01e24f5bd3a78965979764099.png",
     "website": "https://www.frekil.com",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "Bengaluru",
     "long_description": "Today, it takes months to understand how drugs perform in the real world, delaying safety insights, slowing approvals, and costing lives. Frekil turns that months-long process into minutes, with full auditability and scientific rigor.\r\n\r\nFrekil accelerates real world evidence (RWE) generation for life sciences companies from months to minutes. It connects to fragmented clinical data (EHR, Claims, etc.), harmonizes it, and lets teams run end-to-end studies from cohort design to SAP, statistical analysis, and final reports.",
     "one_liner": "Accelerate Real World Evidence (RWE) Generation from months to minutes",
     "team_size": 2,
@@ -8367,8 +8372,8 @@
       "Healthcare"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "India",
+      "South Asia"
     ],
     "stage": "Early",
     "app_video_public": false,

@@ -141,7 +141,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a4148be76dee7d12679686787183910a3a06745b.png",
     "website": "http://www.lovd.com",
-    "all_locations": "New York, NY, USA",
+    "all_locations": "CA, USA; New York, NY, USA",
     "long_description": "Buy and sell previously Lovd goods. We'll pick up and deliver in 24 hours. Only in NYC.",
     "one_liner": "It's not used, it's Lovd.",
     "team_size": 4,
@@ -306,7 +306,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e68aa96ecff99a47faeb6c7c4b3a12f58ed56a8b.png",
     "website": "http://www.enterneverland.com/",
-    "all_locations": "San Francisco, CA, USA; Remote",
+    "all_locations": "NY, USA; San Francisco, CA, USA; Remote",
     "long_description": "Neverland is the first marketplace that connect buyers of everything needed for indoor and outdoor gardening with the 24,000 shops across the US. Neverland is taking this offline category online starting with this $26B market. ",
     "one_liner": "The first online home garden and lawn marketplace ",
     "team_size": 2,
@@ -2682,7 +2682,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5a386fb41df1dea72d053221119a74e5fb6e081b.png",
     "website": "https://www.fountain9.com",
-    "all_locations": "Mumbai, MH, India; San Francisco, CA, USA",
+    "all_locations": "CA, USA; San Francisco, CA, USA",
     "long_description": "Fountain9 is a predictive inventory planning solution. We help food brands and retailers reduce food wastage and improve product availability by predicting their future inventory needs. \r\n\r\nFood wastage is a global problem that has both financial and environmental costs. An estimated $1.3 Bn tonnes of food is wasted every year and 7 - 15% of that is because of mismanaged inventory. \r\n\r\nWe accurately predict future inventory imbalances which lead to out of stock situations or wastage, and also recommends best ways of minimising their impact. Our state of the art demand sensing and pricing engine takes into account several factors like historical sales trends, seasonality, holidays, markdown events and pricing changes to predict future inventory requirements and optimize prices. Predicted inventory demand is also aligned with supply side data to identify ideal suppliers and replenishment quantities that minimize chances of stock outs or inventory wastage.",
     "one_liner": "Helping food brands and retailers reduce food wastage",
     "team_size": 8,
@@ -2707,9 +2707,7 @@
       "Retail"
     ],
     "regions": [
-      "India",
       "United States of America",
-      "South Asia",
       "America / Canada"
     ],
     "stage": "Early",
@@ -3270,7 +3268,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3d799a3b8749ea35b175f67bd64402da202e8445.png",
     "website": "https://cashbook.in",
-    "all_locations": "",
+    "all_locations": "Bengaluru",
     "long_description": "Issue UPI wallets to employees, track and control the spend.",
     "one_liner": "Ramp for Indian Businesses - UPI Wallets for Employee Expenses",
     "team_size": 4,
@@ -3293,6 +3291,8 @@
       "Finance and Accounting"
     ],
     "regions": [
+      "India",
+      "South Asia",
       "Remote",
       "Partly Remote"
     ],
@@ -4720,7 +4720,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/bd28656a2bd5b2cc24a2d0577bedc594f2e0ffe7.png",
     "website": "http://www.promoted.ai",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "WA, USA",
     "long_description": "Promoted.ai unifies search, native ads, and feed ranking for online marketplaces and scaled e-commerce apps to dramatically improve relevance (and revenue) using AI. We are a team of ex-Google, Meta, and Pinterest ads engineers. Our customers are publicly traded and late-stage marketplace companies like Eventbrite, Upwork, and Outschool. Our mission is to connect every buyer and seller.",
     "one_liner": "Dramatically better search and ads for marketplaces",
     "team_size": 12,
@@ -6539,7 +6539,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/855c741a332ef96bfff5cdcb2a2907b57709f104.png",
     "website": "http://verak.in",
-    "all_locations": "MH, India; Navi Mumbai, MH, India",
+    "all_locations": "Bengaluru; Navi Mumbai, MH, India",
     "long_description": "Verak is now part of InsuranceDekho as of April 2023.\r\n\r\nVerak offered next day coverage starting at ₹8 per day for MSMEs in India to insure any facility (shop, warehouse, factory etc) against 15+ natural & man-made perils. (*)\r\n\r\nOur team worked across the entire insurance value-chain: From satellite based underwriting to machine learning based pricing to instant quotation to WhatsApp based claims.\r\n",
     "one_liner": "Better Business Insurance for MSMEs in India",
     "team_size": 45,
@@ -8788,7 +8788,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0978b02398d2e208700132e4080e74a5adc8d662.png",
     "website": "https://taofi.com",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "",
     "one_liner": "The financial layer for decentralized AI",
     "team_size": 11,
@@ -8809,7 +8809,8 @@
       "Fintech"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -11348,7 +11349,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/99290b7945e22f2dcc0d8b0286db8221c37245e7.png",
     "website": "https://inbalanceresearch.com",
-    "all_locations": "Cambridge, MA, USA; Remote",
+    "all_locations": "CA, USA; Cambridge, MA, USA; Remote",
     "long_description": "We use machine learning to accurately forecast electricity prices. Our live customers, including Enel, use our software to improve revenue by millions of dollars per year.",
     "one_liner": "Electricity price forecasts for energy storage, ev charging, etc.",
     "team_size": 10,
@@ -11923,7 +11924,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/79cf1d552a252f2f4a4763f55b112abca89f4cb6.png",
     "website": "https://getprospa.com",
-    "all_locations": "Lagos, LA, Nigeria",
+    "all_locations": "London",
     "long_description": "",
     "one_liner": "Banking for businesses ",
     "team_size": 70,
@@ -11945,8 +11946,8 @@
       "Banking and Exchange"
     ],
     "regions": [
-      "Nigeria",
-      "Africa",
+      "United Kingdom",
+      "Europe",
       "Remote",
       "Partly Remote"
     ],
@@ -12446,7 +12447,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f860b32ddb9b39b9b1ae8c22f0c17f140dc5e9d4.png",
     "website": "https://www.mystic.ai/",
-    "all_locations": "London, England, United Kingdom",
+    "all_locations": "CA, USA",
     "long_description": "Mystic’s platform allows companies to easily and reliably deploy ML models on our serverless cloud or on their own infrastructure without requiring a team of MLOps engineers. With our Python SDK, data-scientists immediately get an endpoint from their own model, or any open-source models.\r\nOnce uploaded, our platform handles routing, multi-cloud scaling, caching, GPU optimization and other features to provide the ultimate ML inference platform.",
     "one_liner": "Low latency API to run and deploy ML models",
     "team_size": 11,
@@ -12470,8 +12471,8 @@
       "Infrastructure"
     ],
     "regions": [
-      "United Kingdom",
-      "Europe"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -13131,7 +13132,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ad0f90e88aab4e1188c3ea4e465f48600f4e3ae4.png",
     "website": "https://buildoutfit.com",
-    "all_locations": "Los Angeles, CA, USA",
+    "all_locations": "NY, USA; Los Angeles, CA, USA",
     "long_description": "We sell DIY home renovations in a box.\r\n\r\nWe format our architect-designed templates to a customer's space. We then buy all the materials needed on their behalf, and ship it to their door for them to build.\r\n\r\nThe experience is accompanied by an app that guides from start-to-completion of the project.",
     "one_liner": "DIY renovations in a box. Materials, tools, and instructions delivered",
     "team_size": 1,
@@ -13738,7 +13739,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2d21128e3a2a6d5f1c0f5db5fede438273586e9e.png",
     "website": "https://bloomapp.com",
-    "all_locations": "New York, NY, USA; San Francisco, CA, USA",
+    "all_locations": "CA, USA; San Francisco, CA, USA",
     "long_description": "Bloom's mission is to improve the financial outcomes of all Americans by giving them the knowledge and tools they need to achieve prosperity. \r\n\r\nOur first product is an investing app that teaches users how to build wealth through interactive financial lessons, a gamified rewards economy as well as an investing account designed for building long-term wealth.\r\n\r\nSince launching in April 2022, over 1 million users have joined Bloom and we have crossed $3MM in annual recurring revenue.",
     "one_liner": "Investing app that teaches you how to invest",
     "team_size": 8,

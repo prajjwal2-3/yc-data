@@ -495,7 +495,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0e0e653e5da051b7c87a56070249ad76479b0594.png",
     "website": "https://osmosis.ai/",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "Osmosis helps companies use reinforcement learning to fine-tune open source models that outperform foundation models. ",
     "one_liner": "Reinforcement Learning (RL) for AI Agents",
     "team_size": 6,
@@ -518,7 +518,8 @@
       "B2B"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -667,7 +668,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/27388bac39ab071f08477907bbcc754dc45c3267.png",
     "website": "https://TypeOS.com",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "Built to advance human taste to the frontier, TypeOS is the best way to write with AI.\r\n",
     "one_liner": "AI that sounds like you, where you work.",
     "team_size": 2,
@@ -691,7 +692,8 @@
       "Consumer"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -926,7 +928,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2b9c845239fb1f16317889a4a843409e109b24f6.png",
     "website": "https://www.topological.com",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "Topological is developing physics-based foundation models for CAD optimization. We help hardware teams iterate at the same speed that software teams do. Our technology is accelerating the engineering workflow with AI and scales design and optimization to identify the ideal designs for complex problems given their physical constraints with enhanced speed and performance. \r\n\r\nOur first model, UToP-v1, is a SOTA topology optimization model that understands physics, geometry, and manufacturability. It can generate the most efficient design given a problem’s physical requirements. It has <5% compliance error and is 1930x faster than current methods. We're reimagining mechanical engineering and computational design with precision spatial AI.",
     "one_liner": "Physics-based foundation models for CAD optimization.",
     "team_size": 2,
@@ -951,7 +953,8 @@
       "Engineering, Product and Design"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -1172,7 +1175,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6b1a47bf16f93d71a3d1f3af6d10a6c736e170b2.png",
     "website": "https://www.haladir.com/",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "Haladir is the operational AI layer for logistics. We unify and structure data across WMS, TMS, OMS, etc., and embed solver-grade optimization, ML models, RL environments for frontier AI labs, and forecasting into the decisions that power supply chains. Today's AI brought intelligence. The next frontier is judgement.\r\n\r\nWe define operational superintelligence as AI that consistently makes maximally-optimal operational decisions in complex environments. The first component is speed: continuous decisions that take operations managers and OR analysts weeks to make, in seconds. The second is reliability: every decision is guaranteed to satisfy operational constraints. The third is scope: optimize across thousands of constraints no human or team could possibly reason about.",
     "one_liner": "Building Operational Superintelligence.",
     "team_size": 4,
@@ -1196,7 +1199,8 @@
       "Operations"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,

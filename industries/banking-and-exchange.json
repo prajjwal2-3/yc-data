@@ -6,7 +6,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1169cb0b69fa7b338b5d51c2d3805f8f988bdfa5.png",
     "website": "https://www.coinbase.com",
-    "all_locations": "San Francisco, CA, USA; Remote",
+    "all_locations": "CA, USA; Remote",
     "long_description": "Founded in June of 2012, Coinbase is a digital currency wallet and platform where merchants and consumers can transact with new digital currencies like bitcoin, ethereum, and litecoin. Our vision is to bring more innovation, efficiency, and equality of opportunity to the world by building an open financial system. Our first step on that journey is making digital currency accessible and approachable for everyone. Two principles guide our efforts. First, be the most trusted company in our domain. Second, create user-focused products that are easier and more intuitive to use.",
     "one_liner": "Buy, sell, and manage cryptocurrencies.",
     "team_size": 6112,
@@ -90,7 +90,7 @@
     "former_names": [],
     "small_logo_thumb_url": "/company/thumb/missing.png",
     "website": "http://buttercoin.com",
-    "all_locations": "Palo Alto, CA, USA",
+    "all_locations": "NY, USA; Palo Alto, CA, USA",
     "long_description": "Buttercoin is an open source, high-volume digital trading engine used to arrange trades in an order book.",
     "one_liner": "Bitcoin Marketplace",
     "team_size": 11,
@@ -592,8 +592,8 @@
     "slug": "lendsnap",
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/26734dd422c43a11f7fc46d4eac4836b94e7fd36.png",
-    "website": "http://url",
-    "all_locations": "Berkeley, CA, USA; Remote",
+    "website": "https://openfpga.ai/",
+    "all_locations": "Berkeley, CA, USA",
     "long_description": "The Digital Mortgage Company\r\n\r\nLenders will write $1.5T of home mortgages in 2017, and will have to evaluate every single borrower's ability to repay. This is expected to cost the industry $15B in human labor. We talked to these humans, and learned that they spend 1/3 of their time just asking other humans for documents and data that are almost universally available online. While the market is slowly moving to transactional data, Lendsnap is the only company helping lenders get ahead of the competition by delivering original electronic documents and data sets. That means portfolios of our lender customers stay completely liquid in the secondary market. No one else can offer that today.\r\n\r\nLendsnap instantly gathers the original borrower documents and data for lenders by linking to consumer financial accounts. We increase loan origination team productivity by 25%+ and save applicants several hours on each application as well. Our intuitive and easy-to-use workflow makes it easy and safe for borrowers to turn in and for loan officers to receive the necessary documents for lenders to make a credit decision.\r\n\r\nAs the only company delivering the right documents and data to originate non-agency loans such as VA, FHA, and subprime, we are able to work with all types of lenders. Furthermore, we are uniquely suited to serve mortgage brokers (12% market share) who have to remain flexible to the credit needs of their diverse borrowers. We are the only post-launch company that delivers actual electronic statements straight from source institutions, such as Bank of America, TurboTax, Chase, and hundreds more.",
     "one_liner": "The Digital Mortgage Company.",
     "team_size": 0,
@@ -615,9 +615,7 @@
     ],
     "regions": [
       "United States of America",
-      "America / Canada",
-      "Remote",
-      "Fully Remote"
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -1125,7 +1123,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/07fc8711d53bff780e8a1a0a0737d04137bffc8d.png",
     "website": "https://globe.exchange",
-    "all_locations": "Seychelles; Remote",
+    "all_locations": "London; Seychelles; Remote",
     "long_description": "The global cryptocurrency derivatives exchange \r\n\r\nInventors of bitcoin VIX, the first low latency perpetual futures exchange and more",
     "one_liner": "coinbase for derivatives",
     "team_size": 20,
@@ -1147,7 +1145,9 @@
       "Banking and Exchange"
     ],
     "regions": [
+      "United Kingdom",
       "Seychelles",
+      "Europe",
       "Africa",
       "Remote",
       "Fully Remote"
@@ -1975,7 +1975,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/79cf1d552a252f2f4a4763f55b112abca89f4cb6.png",
     "website": "https://getprospa.com",
-    "all_locations": "Lagos, LA, Nigeria",
+    "all_locations": "London",
     "long_description": "",
     "one_liner": "Banking for businesses ",
     "team_size": 70,
@@ -1997,8 +1997,8 @@
       "Banking and Exchange"
     ],
     "regions": [
-      "Nigeria",
-      "Africa",
+      "United Kingdom",
+      "Europe",
       "Remote",
       "Partly Remote"
     ],
@@ -2675,7 +2675,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d65130c2135aa6aec31d84ddb306d5aa937ba15b.png",
     "website": "https://givefront.com",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "The world’s most important organizations deserve the world’s best financial infrastructure. We’re here to make sure they do.\r\n\r\nAt Givefront, we've built a modern financial management platform designed specifically for nonprofits. With real-time budgeting, built-in compliance, and easy integrations, we replace the spreadsheets and guesswork with smart, automated systems.\r\n\r\nBy transforming financial operations from reactive to real-time, Givefront empowers nonprofits to control every dollar, protect every grant, and move their missions forward faster — with greater efficiency, transparency, and trust.",
     "one_liner": "Nonprofit Financial Management",
     "team_size": 4,
@@ -2694,7 +2694,8 @@
       "Banking and Exchange"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -2711,7 +2712,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/29ea469fed3c60e9950eccadce6c5b7f8fcd6569.png",
     "website": "https://kontigo.lat/",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "We’re building Kontigo, a USDC Smart Neobank for Latinos in the U.S. and Latin America.\r\n\r\nWe launched our Peer-to-Peer onramp 20 days ago and we’ve already had $540k in deposits, 10k active users and a +300k waitlist. \r\n\r\nThe founding team has built and scaled fintechs in Latam, and it’s ex-Venmo, Nubank, Rappi, MercadoLibre, Ualá, Platzi, and Yuno. \r\n\r\nWe’re already backed by DST Global, Soma Capital, Pioneer Fund, Transpose + 10 YC alums.\r\n\r\nSending money to Latin America is just as painful as holding it due to the region's fragmentation into 33 countries with 39 different currencies. \r\n\r\nOn one hand, cross-border payments to Latam are absurdly expensive (up to 20% per transaction). Conversely, over the past decade, currency depreciation across the region has become unsustainable. (some countries surpassing the trillion percent ). \r\n\r\nKontigo solves this with a USDC global wallet & a BTC savings account. \r\n\r\n- Like Venmo, but on-USDC.\r\n- Like Zelle, but for cross-border payments. No limits.\r\n- Like Nubank & Revolut, but without inflationary currencies. Bitcoin-backed.\r\n\r\nUser wallets are connected to an AI-private banker on WhatsApp to execute international USDC transactions. ",
     "one_liner": "USDC-Smart Neobank for Latinos. ",
     "team_size": 10,
@@ -2730,6 +2731,8 @@
       "Banking and Exchange"
     ],
     "regions": [
+      "United States of America",
+      "America / Canada",
       "Remote",
       "Partly Remote"
     ],
@@ -2884,7 +2887,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/49628c649d0cbcd7910ecb380ad944b7613d8242.png",
     "website": "https://fenrock.ai/",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "We're building the Harvey for traditional financial services, starting with compliance use cases for small- to mid-sized banks in the US.\r\n\r\nSpecialized AI agents for banks to 10x back office functions, which helps them pass regulatory exams and improve their efficiency ratios - the top 2 things every bank board cares about.\r\n\r\n",
     "one_liner": "AI agents for banking back office",
     "team_size": 2,
@@ -2903,7 +2906,8 @@
       "Banking and Exchange"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,

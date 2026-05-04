@@ -316,7 +316,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/94c28dea71127938b04b08e8639750865f5a274e.png",
     "website": "https://www.leena.ai",
-    "all_locations": "Redwood City, CA, USA; New Delhi, DL, India",
+    "all_locations": "NY, USA; New Delhi, DL, India",
     "long_description": "HR/IT/Finance professionals spend 50% of their time answering employees' questions and tickets. It’s even worse on the employee side, they have to wait for a long time for simple answers.\r\n\r\nWe are live with 500 customers like Coca-Cola, Sony, Puma, Vodafone, Nestle, P&G, Airbnb, etc. We have raised over $40M from top VCs like Bessemer, Greycroft, Elad Gil, etc.\r\n\r\nLeena AI consumes company’s enterprise knowledge & starts answering all employee questions just like a human would. It can even answer complex personalized questions like Why is my salary less this month?\r\n\r\nEmployees can access Leena AI from commonly used UIs like MS Teams or Slack.",
     "one_liner": "We at Leena AI build a virtual assistant that answers employee's…",
     "team_size": 500,
@@ -1457,7 +1457,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/98cd71fc795fe80387da92b38a105f7c275db52d.png",
     "website": "https://www.bytebot.ai/",
-    "all_locations": "San Francisco, CA, USA; Remote",
+    "all_locations": "MA, USA; Remote",
     "long_description": "Bytebot simplifies and streamlines the development of computer use agents with a ready made container for desktop automation, including APIs for mouse movements, keyboard input, and screenshot capture. \r\n\r\nThe container enables developers to build robust, dynamic computer use agents that can be configured and run anywhere.",
     "one_liner": "Bytebot is the open source container for AI desktop agents.",
     "team_size": 3,
@@ -2110,7 +2110,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Summer 2022",
     "status": "Active",
@@ -2277,7 +2277,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5142d0a3656cea04017d1b306be0d076b4873877.png",
     "website": "https://alphawatch.ai",
-    "all_locations": "New York, NY, USA; Remote",
+    "all_locations": "CA, USA; Remote",
     "long_description": "Alphawatch AI offers a secure document agent that allows you to manipulate and convert PDF and Word files, along with your internal knowledge in your knowledge base.",
     "one_liner": "Secure Document Agent",
     "team_size": 10,
@@ -2710,7 +2710,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/be25b5e55711ba973cd7f6c514b56a10ab3da20e.png",
     "website": "https://gooseworks.ai/",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "Goose is an AI coworker that can do real GTM work. Goose can find high-signal leads, run your SEO, run outbound campaigns, track competitors, pull marketing reports, manage your CRM and much more.\r\n\r\nGoose has its own filesystem, memories, mailbox and accounts. You can talk to Goose from Slack, Telegram, mail or anywhere just like any other coworker, and ask it to get work done.",
     "one_liner": "OpenClaw-style AI coworkers for GTM teams",
     "team_size": 5,
@@ -2735,6 +2735,8 @@
       "Marketing"
     ],
     "regions": [
+      "United States of America",
+      "America / Canada",
       "Remote",
       "Partly Remote"
     ],
@@ -3041,7 +3043,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c88fa9e34c4a724f42d4470f0b3d2c1bd0ae22cd.png",
     "website": "https://gethipposcribe.com",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "Burdensome documentation is the #2 reason causing burnout for physical therapists. More than half of all physical therapists have to write documentation in their free time without pay. up to 2 hours a day. \r\n\r\nOur AI Scribe listens, generate first draft of clinical documentation in minutes, and sync reviewed documentation to EMR in 2 seconds. With us, clinicians can finish documentation 70% faster and become happier. ",
     "one_liner": "AI assisted documentation for PT/OT/SLP",
     "team_size": 2,
@@ -3065,7 +3067,8 @@
       "Healthcare"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -3349,7 +3352,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b2f7a8dffc7dc8a6fdb4c13dce765cc7d2820b9a.png",
     "website": "https://www.deasylabs.com/",
-    "all_locations": "",
+    "all_locations": "NY, USA",
     "long_description": "Deasy Labs was acquired by Collibra in July 2025 (global leader in enterprise data governance).\r\n\r\nDeasy Labs provides metadata orchestration for AI workflows. Deasie's platform provides the best way for AI teams to create and embed high-quality, customized metadata into their AI workflows (e.g., RAG, Agentic frameworks).\r\n\r\nOur three founders (from Amazon, McKinsey/QuantumBlack & MIT) previously built an ML data governance tool from 0 to 1 within McKinsey, which we deployed with 11 Fortune 500 companies. We saw in early 2023 the ability to create high-quality metadata (without reliance on domain experts) would be a key factor in achieving the accuracy & speed in GenAI applications required for production.  \r\n\r\nOur investors include General Catalyst, Y Combinator, RTP Global and world experts in enterprise data. Website: https://deasylabs.com",
     "one_liner": "Metadata for GenAI workflows",
     "team_size": 8,
@@ -3374,7 +3377,8 @@
       "Analytics"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -4139,7 +4143,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6af70add968020435b7e6619f1daf7399205f64b.png",
     "website": "https://www.inquery.ai/",
-    "all_locations": "",
+    "all_locations": "NY, USA",
     "long_description": "InQuery is a fully-automated medical record review platform that indexes, labels, and summarizes patient medical records so that physicians and attorneys can understand patient journeys at a glance. \r\n\r\nOur proprietary technology reasons about each record to surface key insights that could make or break your medical legal case.",
     "one_liner": "Intelligent Medical Record Reviews",
     "team_size": 4,
@@ -4163,7 +4167,8 @@
       "Healthcare IT"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -4180,7 +4185,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b5e800727a4c7a60598b63b6fc7236d263fae085.png",
     "website": "https://firebender.com",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "Firebender is the most powerful coding agent for Android engineering. \r\n\r\nOne-click install from the IntelliJ plugin marketplace to your IDE. It has context over your codebase and lets you use the best models for asking questions, debugging code, and writing full features.\r\n\r\nUnlike other AI assistants, Firebender has access to the emulator, compose previews, and LSP tools like finding usages, renaming variables/functions. It continuously stays up to date with the latest Android SDKs, libraries, and best practices, providing more accurate and relevant assistance for Android development.",
     "one_liner": "Most powerful coding agent for Android engineers",
     "team_size": 1,
@@ -4202,7 +4207,8 @@
       "Engineering, Product and Design"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -4357,7 +4363,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/020f142d48a9efde3733971776a68c441557dfe7.png",
     "website": "https://getdiana.com/",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "The first business-ready OpenClaw platform. A secure AI assistant embedded directly into Slack.",
     "one_liner": "Give Your Employee An Employee",
     "team_size": 7,
@@ -4381,6 +4387,8 @@
       "B2B"
     ],
     "regions": [
+      "United States of America",
+      "America / Canada",
       "Remote",
       "Partly Remote"
     ],
@@ -4403,7 +4411,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0586276952946e7eb368770c1670669a2ac319d6.png",
     "website": "https://deep24.com",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "Deep24 is a coach that syncs with all your data source, understanding you and then coming up with plans to improve your life. ",
     "one_liner": "AI coach for your entire life",
     "team_size": 2,
@@ -4426,6 +4434,8 @@
       "Education"
     ],
     "regions": [
+      "United States of America",
+      "America / Canada",
       "Remote",
       "Partly Remote"
     ],
@@ -4619,20 +4629,20 @@
     "name": "Tower",
     "slug": "tower",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/97d9192686e0278a86ecd8f8e25d07e7d760cfd1.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/71c566f418e6fe3b2b2aa396c65f6feec1bfc40f.png",
     "website": "https://withtower.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Tower accelerates transactional due diligence via an AI-powered, centralized diligence platform. By consolidating disparate diligence workflows, Tower helps deal teams stay organized, spot issues earlier, and close deals faster.",
     "one_liner": "M&A due diligence platform powered by AI",
-    "team_size": 2,
+    "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Legal",
     "launched_at": 1715707959,
     "tags": [
+      "Artificial Intelligence",
       "Workflow Automation",
       "Legal",
       "LegalTech",
-      "AI",
       "AI Assistant"
     ],
     "tags_highlighted": [],
@@ -4840,7 +4850,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/069321145273b85ba7d87787840c61562c041b8f.png",
     "website": "https://www.prohost.ai/",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "NY, USA",
     "long_description": "ProhostAI is building an AI Property Manager for short-term rental hosts on Airbnb and other platforms. Our team consists of an ex-Airbnb Staff Data Scientist and Dropbox Sr Software Engineer who are also Superhosts with 9 properties worth $15M making $1.5M/yr.",
     "one_liner": "AI Property Manager for Airbnb & Short-Term Rental Hosts",
     "team_size": 5,
@@ -4884,7 +4894,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fc21f071bc440027719fe93cbb326886a0f83528.png",
     "website": "https://randomlabs.ai",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "Random Labs is building Slate. Slate is a coding agent designed to work with you for long hours on hard problems.",
     "one_liner": "Random labs is building long running autonomous coding agents.",
     "team_size": null,
@@ -4908,7 +4918,8 @@
       "Engineering, Product and Design"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -4928,7 +4939,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7a33b212287f4a8ba926edd565f2b9dfec82369e.png",
     "website": "https://zuni.app",
-    "all_locations": "Remote",
+    "all_locations": "London; Remote",
     "long_description": "Zuni is a Chrome extension that gives you AI capabilities in the sidebar of your browser. It can use what it sees on any of your tabs as context, and proactively helps you draft messages and emails.",
     "one_liner": "AI Assistant that works alongside you in your Chrome browser",
     "team_size": 2,
@@ -4952,6 +4963,8 @@
       "Productivity"
     ],
     "regions": [
+      "United Kingdom",
+      "Europe",
       "Remote",
       "Fully Remote"
     ],
@@ -6198,8 +6211,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/aca02a57c5f38896120f1fe6767d1975b6a6b522.png",
     "website": "https://char.com",
     "all_locations": "",
-    "long_description": "Char records your meetings without bots, pulls action items from your emails, and builds a daily note with everything you need to do. You review it, tick what's done, and hand off the rest to AI agents like Claude or Cursor. Open source.",
-    "one_liner": "AI daily notes from your meetings, emails, and tasks",
+    "long_description": "Char is a daily notepad that finishes your todos for you. Type a checkbox, and an agent picks it up — researching, drafting, or scheduling on your behalf. Stay in command. Char does the work.",
+    "one_liner": "The AI notepad that knows and works for you",
     "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B -> Productivity",
@@ -6417,7 +6430,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b00ba607980bb58773b7bd6c760f042ebe9e31b6.png",
     "website": "https://caddy.app/",
-    "all_locations": "",
+    "all_locations": "NY, USA",
     "long_description": "Caddy is the operating system that works proactively for you. It learns how you work and acts on your behalf, keeping work moving while your context and voice stay intact.\r\n\r\nInstead of producing generic AI output, Caddy creates real work artifacts that sound like you and fit how you actually work. Today, it operates across the tools you use every day, including email, calendar, Slack, Linear, and Notion.\r\n\r\nCaddy is built by the team behind Loom’s AI and core product. We believe the next era of computing is software that understands intent, handles ambiguous work, and quietly gets work done in the background.",
     "one_liner": "Your partner for everyday work, lives in iMessage",
     "team_size": 4,
@@ -6439,7 +6452,8 @@
       "Engineering, Product and Design"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -6669,7 +6683,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/bac15cb365c68f8004b888ffdda5946e5ec65b76.png",
     "website": "https://www.fastshot.ai/",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "Fastshot is a no-code mobile development platform.\r\nOur mission is to \"Democratize mobile app creation with AI\"\r\nAnyone can develop a mobile app from idea to App Stores within minutes just by chatting with AI.\r\n\r\n",
     "one_liner": "Lovable for mobile apps",
     "team_size": 3,
@@ -6693,7 +6707,8 @@
       "Engineering, Product and Design"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,

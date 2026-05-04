@@ -91,7 +91,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2ddaee10acb71c657308a3d62234972fbca8392d.png",
     "website": "https://plateiq.com/",
-    "all_locations": "New York, NY, USA; Emeryville, CA, USA",
+    "all_locations": "London; Emeryville, CA, USA",
     "long_description": "Plate IQ makes accounts payable simple.\r\n\r\nAutomated accounts payable software replaces manual data entry by digitizing your invoices down to the line item, automatically assigning them your proper GL codes, syncing the information to your accounting software, and providing analytics around purchasing. Plate IQ also offers one-click bill pay, inventory, and cloud-based data storage that allows businesses to go paperless.",
     "one_liner": "Automated Accounts Payable",
     "team_size": 200,
@@ -113,7 +113,9 @@
       "Payments"
     ],
     "regions": [
+      "United Kingdom",
       "United States of America",
+      "Europe",
       "America / Canada",
       "Remote",
       "Partly Remote"
@@ -1518,7 +1520,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5142d0a3656cea04017d1b306be0d076b4873877.png",
     "website": "https://alphawatch.ai",
-    "all_locations": "New York, NY, USA; Remote",
+    "all_locations": "CA, USA; Remote",
     "long_description": "Alphawatch AI offers a secure document agent that allows you to manipulate and convert PDF and Word files, along with your internal knowledge in your knowledge base.",
     "one_liner": "Secure Document Agent",
     "team_size": 10,
@@ -1877,7 +1879,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/09db813dada056c514e465d4e87a8f422f954e3c.png",
     "website": "https://trychart.com",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "Chart's Unified Tax Record API provides a direct bridge to tax records from the IRS, state tax agencies, and major tax preparation platforms such as TurboTax and H&R Block.",
     "one_liner": "Realtime Access to Verified Tax Records",
     "team_size": 3,
@@ -1899,7 +1901,8 @@
       "Fintech"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -3080,10 +3083,10 @@
     "subindustry": "B2B",
     "launched_at": 1724891975,
     "tags": [
-      "Artificial Intelligence",
       "Finance",
       "B2B",
-      "Lending"
+      "Lending",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -3290,7 +3293,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/79a24ae2dbf8c5f1b06b70c124868d6c9383b535.png",
     "website": "https://finbar.com",
-    "all_locations": "",
+    "all_locations": "London",
     "long_description": "finbar is the AI investment analyst used by several top-20 (AUM) hedge funds. It automates financial modelling, research, and data analysis so multi-million-dollar decisions can be made 100x faster.",
     "one_liner": "The AI investment analyst",
     "team_size": 4,
@@ -3313,7 +3316,8 @@
       "Fintech"
     ],
     "regions": [
-      "Unspecified"
+      "United Kingdom",
+      "Europe"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -3633,7 +3637,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/942d0cc053faa8bcd3d973b7c4ce50fda2e6defa.png",
     "website": "https://usemod.ai",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "We're building the first fully autonomous accounts payable platform.\r\n\r\nOur AI clerks handle your entire AP workflow: invoice processing, GL coding, PO matching, approvals, responding to vendors, fraud detection and reporting. From the moment an invoice hits your inbox to the moment it's paid, no manual steps required.\r\n\r\nWe integrate with 16+ ERPs including QuickBooks, NetSuite, SAP, Dynamics 365, and Workday.\r\n\r\nFind out why enterprise teams choose Mod AI at usemod.ai.",
     "one_liner": "Touchless AP Automation",
     "team_size": 4,
@@ -3657,7 +3661,8 @@
       "B2B"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,

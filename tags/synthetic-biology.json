@@ -313,7 +313,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/15bec4a7b933065121458477f9bf67ed7382b11f.png",
     "website": "https://www.livingcarbon.com",
-    "all_locations": "Charleston, SC, USA",
+    "all_locations": "CA, USA",
     "long_description": "transforming degraded land into high quality environmental assets using end to end operational expertise and precision breeding.",
     "one_liner": "maximizing biomass on low quality land",
     "team_size": 40,
@@ -1142,7 +1142,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f7d5463656052d09bd1bc697531992af867d844c.png",
     "website": "https://www.aminoanalytica.com",
-    "all_locations": "San Francisco, CA, USA; Remote",
+    "all_locations": "London; Remote",
     "long_description": "Design, simulate, and test your proteins 100x faster with the end-to-end no-code platform for protein engineering. Powered by Amina, our AI agent.\r\n\r\nWith Amina, one protein engineer can do the work of 10. Describe what you want to achieve and Amina will handle everything else – from research and design to simulation, folding, docking, and protein characterization. It asks clarifying questions if needed, intelligently understands and performs the task, and analyzes your results within the context of your project.",
     "one_liner": "The AI-Native Operating System for Protein Engineering",
     "team_size": 2,
@@ -1167,8 +1167,8 @@
       "Industrial Bio"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada",
+      "United Kingdom",
+      "Europe",
       "Remote",
       "Fully Remote"
     ],

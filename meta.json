@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-05-03T03:41:20.704Z",
+  "last_updated": "2026-05-04T03:39:26.720Z",
   "readme": "https://github.com/prajjwal2-3/yc-data",
   "companies": {
     "all": {
       "name": "All launched companies",
-      "count": 5868,
+      "count": 5869,
       "api": "https://prajjwal2-3.github.io/yc-data/companies/all.json"
     },
     "top": {
@@ -34,7 +34,7 @@
     },
     "hiring": {
       "name": "Companies currently hiring",
-      "count": 1465,
+      "count": 1467,
       "api": "https://prajjwal2-3.github.io/yc-data/companies/hiring.json"
     }
   },
@@ -91,7 +91,7 @@
     },
     "aiops": {
       "name": "AIOps",
-      "count": 53,
+      "count": 54,
       "api": "https://prajjwal2-3.github.io/yc-data/tags/aiops.json"
     },
     "air-taxis": {
@@ -161,7 +161,7 @@
     },
     "artificial-intelligence": {
       "name": "Artificial Intelligence",
-      "count": 914,
+      "count": 916,
       "api": "https://prajjwal2-3.github.io/yc-data/tags/artificial-intelligence.json"
     },
     "assistive-tech": {
@@ -376,7 +376,7 @@
     },
     "compliance": {
       "name": "Compliance",
-      "count": 71,
+      "count": 72,
       "api": "https://prajjwal2-3.github.io/yc-data/tags/compliance.json"
     },
     "computational-storage": {
@@ -586,7 +586,7 @@
     },
     "developer-tools": {
       "name": "Developer Tools",
-      "count": 530,
+      "count": 531,
       "api": "https://prajjwal2-3.github.io/yc-data/tags/developer-tools.json"
     },
     "devops": {
@@ -706,7 +706,7 @@
     },
     "enterprise-software": {
       "name": "Enterprise Software",
-      "count": 108,
+      "count": 109,
       "api": "https://prajjwal2-3.github.io/yc-data/tags/enterprise-software.json"
     },
     "entertainment": {
@@ -751,7 +751,7 @@
     },
     "fintech": {
       "name": "Fintech",
-      "count": 696,
+      "count": 697,
       "api": "https://prajjwal2-3.github.io/yc-data/tags/fintech.json"
     },
     "fitness": {
@@ -821,7 +821,7 @@
     },
     "generative-ai": {
       "name": "Generative AI",
-      "count": 258,
+      "count": 257,
       "api": "https://prajjwal2-3.github.io/yc-data/tags/generative-ai.json"
     },
     "genetic-engineering": {
@@ -861,7 +861,7 @@
     },
     "hard-tech": {
       "name": "Hard Tech",
-      "count": 93,
+      "count": 94,
       "api": "https://prajjwal2-3.github.io/yc-data/tags/hard-tech.json"
     },
     "hardware": {
@@ -961,12 +961,12 @@
     },
     "infrastructure": {
       "name": "Infrastructure",
-      "count": 113,
+      "count": 114,
       "api": "https://prajjwal2-3.github.io/yc-data/tags/infrastructure.json"
     },
     "insurance": {
       "name": "Insurance",
-      "count": 71,
+      "count": 72,
       "api": "https://prajjwal2-3.github.io/yc-data/tags/insurance.json"
     },
     "international": {
@@ -1231,7 +1231,7 @@
     },
     "open-source": {
       "name": "Open Source",
-      "count": 162,
+      "count": 163,
       "api": "https://prajjwal2-3.github.io/yc-data/tags/open-source.json"
     },
     "operations": {
@@ -1406,7 +1406,7 @@
     },
     "saas": {
       "name": "SaaS",
-      "count": 1104,
+      "count": 1103,
       "api": "https://prajjwal2-3.github.io/yc-data/tags/saas.json"
     },
     "sales": {
@@ -1441,7 +1441,7 @@
     },
     "security-orchestration-automation-and-response-(soar)": {
       "name": "Security Orchestration, Automation and Response (SOAR)",
-      "count": 2,
+      "count": 1,
       "api": "https://prajjwal2-3.github.io/yc-data/tags/security-orchestration-automation-and-response-(soar).json"
     },
     "self-driving-vehicles": {
@@ -1511,7 +1511,7 @@
     },
     "social-network": {
       "name": "Social Network",
-      "count": 23,
+      "count": 22,
       "api": "https://prajjwal2-3.github.io/yc-data/tags/social-network.json"
     },
     "solar-power": {
@@ -1728,7 +1728,7 @@
     },
     "b2b": {
       "name": "B2B",
-      "count": 2997,
+      "count": 2998,
       "api": "https://prajjwal2-3.github.io/yc-data/industries/b2b.json"
     },
     "banking-and-exchange": {
@@ -1808,7 +1808,7 @@
     },
     "engineering-product-and-design": {
       "name": "Engineering, Product and Design",
-      "count": 600,
+      "count": 601,
       "api": "https://prajjwal2-3.github.io/yc-data/industries/engineering-product-and-design.json"
     },
     "finance-and-accounting": {
@@ -1878,7 +1878,7 @@
     },
     "infrastructure": {
       "name": "Infrastructure",
-      "count": 291,
+      "count": 292,
       "api": "https://prajjwal2-3.github.io/yc-data/industries/infrastructure.json"
     },
     "insurance": {
@@ -2220,7 +2220,7 @@
     },
     "spring-2026": {
       "name": "Spring 2026",
-      "count": 116,
+      "count": 117,
       "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026.json"
     },
     "summer-2026": {

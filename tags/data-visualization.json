@@ -1037,7 +1037,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/24db1f3b2c957bd0e1551d1e58afec1ea05426a4.png",
     "website": "https://getaftercare.com",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "NY, USA",
     "long_description": "Aftercare helps you run surveys with AI-powered follow-up questions to dig into responses for deeper insights—it’s like having a skilled interviewer for every survey. ",
     "one_liner": "Conversational AI surveys with intelligent follow-up questions",
     "team_size": 3,
@@ -1215,7 +1215,7 @@
     "former_names": [
       "Realm"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2cd237a1ed9ded0c19b8fecc9c46b0ad45f89c04.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/74d921a27f5f4254a29834c03d8bfeb6cd8b878c.png",
     "website": "https://bitboard.work/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Data analysis with AI agents is great until you realize you want to set up a recurring report or collaborate with your team. We built an agent-first workbook so you don’t have to roll your own dashboards or fumble around in a rigid BI tool.\r\n\r\nConnect your agent of choice to BitBoard and it can generate connected charts, SQL, code, and commentary in a notebook-style UI you can share with your team.",
@@ -1225,10 +1225,10 @@
     "subindustry": "B2B -> Analytics",
     "launched_at": 1746992332,
     "tags": [
+      "Artificial Intelligence",
       "B2B",
       "Analytics",
-      "Data Visualization",
-      "AI"
+      "Data Visualization"
     ],
     "tags_highlighted": [],
     "top_company": false,

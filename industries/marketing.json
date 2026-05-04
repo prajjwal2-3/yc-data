@@ -584,7 +584,7 @@
     "former_names": [],
     "small_logo_thumb_url": "/company/thumb/missing.png",
     "website": "http://tapzilla.com",
-    "all_locations": "",
+    "all_locations": "WA, USA",
     "long_description": "TapZilla is a Y Combinator-backed company that launched October 13, 2010 and is taking the daily deal model and applying it to discounts on paid mobile apps.\n\nThrough TapZilla.com and AppRebates.com, the company has given out more than 25,000 paid applications to its users and has pioneered the method of connecting developers with users by giving away paid applications for free.\n\nTapZilla has been featured by TechCrunch and Forbes.\n\nEach day, TapZilla features a paid iOS app. To get the deal, the user clicks on the â€œget App Nowâ€ button, which will then prompt TapZilla to ask for your email. Users receive an email with a link to the app in the App Store where they can purchase the app and a coupon code.\n\nOnce the app is purchased and downloaded, users are prompted to enter the coupon code once inside the Appâ€™s interface. The app can also be prompted by shaking the phone. Once the code is entered, TapZilla automatically puts the app cost in the buyerâ€™s PayPal account or can issue an iTunes gift card.",
     "one_liner": "Woot for iOS apps.",
     "team_size": 2,
@@ -603,7 +603,8 @@
       "Marketing"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -1451,7 +1452,7 @@
     "former_names": [],
     "small_logo_thumb_url": "/company/thumb/missing.png",
     "website": "http://www.datarank.com",
-    "all_locations": "Fayetteville, AR, USA",
+    "all_locations": "WA, USA; Fayetteville, AR, USA",
     "long_description": "DataRank is a leading social analytics company. We monitor online conversation so that our customers \ncan gather valuable comments and insights about their brand. \n\nWe have demonstrated success with Fortune 100 companies who use DataRank for consumer insights. From increasing distribution and revenue to protecting their brand’s reputation, DataRank has assisted many companies with their marketing strategy. \n\nOur dedicated social analytics platform offers a variety of tools to help businesses perform competitive analysis before releasing a new product, monitor the social media conversation about their brand, track a social media campaign, and much more. \n\nDataRank is constantly looking for ways to be innovative in the industry. Most social media monitoring tools use Boolean-like languages but we have developed our own powerful matching language called Fizzle (Fast Scalable Searching Language), which more easily allows the user to search for phrases without gathering irrelevant data.\n\nWe have a very active blog and social media presence where you can see our social media monitoring at work. Follow this page to see our updates!\n\nCompany details",
     "one_liner": "Making sense of social data. \r\n(Acquired by SimplyMeasured.)",
     "team_size": 11,
@@ -1574,7 +1575,7 @@
     "former_names": [],
     "small_logo_thumb_url": "/company/thumb/missing.png",
     "website": "http://motionlead.com",
-    "all_locations": "Paris, Île-de-France, France",
+    "all_locations": "CA, USA; Paris, Île-de-France, France",
     "long_description": "Motionlead empowers advertisers and publishers to reach their audience through a unique advertising experience thanks to transparent, animated and interactive ads that come on top of native and web apps without stopping user navigation",
     "one_liner": "Animated mobile ads.",
     "team_size": 11,
@@ -1595,7 +1596,9 @@
       "Marketing"
     ],
     "regions": [
+      "United States of America",
       "France",
+      "America / Canada",
       "Europe"
     ],
     "stage": "Early",
@@ -2250,7 +2253,7 @@
     "former_names": [],
     "small_logo_thumb_url": "/company/thumb/missing.png",
     "website": "http://locent.com",
-    "all_locations": "Santa Monica, CA, USA",
+    "all_locations": "CA, USA; Santa Monica, CA, USA",
     "long_description": "",
     "one_liner": "Locent is an automated messaging platform for companies",
     "team_size": 11,
@@ -2589,7 +2592,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b0e1a686e82d7baf1431c13fde889f55c35832d4.png",
     "website": "https://www.rankscience.com",
-    "all_locations": "New York, NY, USA; Remote",
+    "all_locations": "CA, USA; New York, NY, USA; Remote",
     "long_description": "RankScience is the #1 trusted agency to grow SEO traffic for venture-backed Silicon Valley startups to the Fortune 500.",
     "one_liner": "Automated SEO for Startups",
     "team_size": 16,
@@ -3091,7 +3094,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2e798da4f06874bf247c877397c65ac7a95a760c.png",
     "website": "https://www.jupiter.co",
-    "all_locations": "San Francisco, CA, USA; Remote",
+    "all_locations": "NY, USA; Remote",
     "long_description": "",
     "one_liner": "AppLovin for the food community ",
     "team_size": 8,
@@ -4394,7 +4397,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/eb7d6cfef41904da6758d65129b0adeffca2b2e1.png",
     "website": "https://www.laudable.com",
-    "all_locations": "United States; Remote",
+    "all_locations": "CA, USA; United States; Remote",
     "long_description": "Laudable finds happy customers and their success stories hiding in your existing data - like call recordings, NPS, salesforce logs - and auto-generates case study content.",
     "one_liner": "App for B2B companies to find customer stories and advocates",
     "team_size": 5,
@@ -4931,7 +4934,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/30af84e0971fab8e280e8b2aa9d648d3cb85997b.png",
     "website": "https://supersend.io/",
-    "all_locations": "Royal Oak, MI, USA; Remote",
+    "all_locations": "CA, USA; Remote",
     "long_description": "Super Send is a powerful outreach automation platform designed to streamline and scale your prospecting efforts across multiple channels, including email, LinkedIn, and Twitter. With features like dynamic personalization, email warming, inbox rotation, and advanced analytics, Super Send enables businesses to connect with leads efficiently while maintaining a human touch. Whether you’re running A/B tests, managing campaigns, or optimizing deliverability, Super Send provides the tools you need to maximize engagement and grow your business\r\n\r\n",
     "one_liner": "Super Send automates personalized outreach across email, LinkedIn,…",
     "team_size": 8,
@@ -5611,7 +5614,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/be25b5e55711ba973cd7f6c514b56a10ab3da20e.png",
     "website": "https://gooseworks.ai/",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "Goose is an AI coworker that can do real GTM work. Goose can find high-signal leads, run your SEO, run outbound campaigns, track competitors, pull marketing reports, manage your CRM and much more.\r\n\r\nGoose has its own filesystem, memories, mailbox and accounts. You can talk to Goose from Slack, Telegram, mail or anywhere just like any other coworker, and ask it to get work done.",
     "one_liner": "OpenClaw-style AI coworkers for GTM teams",
     "team_size": 5,
@@ -5636,6 +5639,8 @@
       "Marketing"
     ],
     "regions": [
+      "United States of America",
+      "America / Canada",
       "Remote",
       "Partly Remote"
     ],
@@ -6672,7 +6677,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2a8caed7d0a490086d7e541276710ed25029450f.png",
     "website": "https://absurd.com/",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "Absurd makes AI brand and performance ads at scale. Our last video for Kalshi (\"Election Day\") did 1M+ views, and our videos average 400K+ organic views.\r\n\r\nCompanies like Hims, Kalshi, Replit, and Brex use Absurd to create production-quality videos in 72 hours. We do it with a multi-agent orchestration layer, working closely with your team from concept to final cut.\r\n\r\nTry it at absurd.com",
     "one_liner": "AI Videos",
     "team_size": 6,
@@ -6697,7 +6702,8 @@
       "Marketing"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,

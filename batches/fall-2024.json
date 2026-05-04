@@ -231,7 +231,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f9165440cbb8c969d63144d50dbb3c762d777035.png",
     "website": "https://www.getavora.ai",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "Avora helps dental groups (DSOs) boost case acceptance and institutionalize clinical excellence. We deploy agents that listen to appointments, identify coachable moments, and chart notes to save provider time.",
     "one_liner": "Agents for dental operations",
     "team_size": 4,
@@ -249,7 +249,8 @@
       "Healthcare"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -505,7 +506,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a0e73c4d8c73910405ffe3b999578c9cd45ed9dd.png",
     "website": "https://www.moonsethealth.com/",
-    "all_locations": "",
+    "all_locations": "WA, USA",
     "long_description": "",
     "one_liner": "AI for Post-Acute Senior Care (Hospice, Home Health, Skilled Nursing…",
     "team_size": 4,
@@ -524,6 +525,8 @@
       "Sales"
     ],
     "regions": [
+      "United States of America",
+      "America / Canada",
       "Remote",
       "Partly Remote"
     ],
@@ -846,7 +849,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fe703a7786db01d44cd03aafbbbf2dd7b0cc99cf.png",
     "website": "https://lightscreen.ai",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "Lightscreen’s voice + video AI interviewer enables companies to identify and invest in genuinely skilled candidates. It's already being used by high-growth startups and recruiting agencies to screen technical candidates. \r\n\r\nWe provide companies with a voicebot that can run a full-length technical interview, does smart interruptions, and multi-modal cheating detection. The AI provides the company rubric-based, rich candidate evaluation in minutes and can be fully customized to ask questions and evaluate based on the company's needs. ",
     "one_liner": "Voice + video AI interviewer",
     "team_size": 2,
@@ -865,7 +868,8 @@
       "Recruiting and Talent"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -1711,7 +1715,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fe6a1b58847c1e53f0596617c9f63de97d49acc2.png",
     "website": "https://sphinxhq.com/",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "Sphinx automates the manual work of compliance analysts. Our AI agents make AML decisions, helping banks and fintech eliminate onboarding bottlenecks.\r\n",
     "one_liner": "AI Compliance Analysts for Banks & Fintechs",
     "team_size": 14,
@@ -1729,7 +1733,8 @@
       "Fintech"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -1793,7 +1798,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fa668d5cbf2cf7fdadb1d8847e54392cbd356305.png",
     "website": "https://www.karmenai.com",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "Karmen is an AI scheduling assistant for construction. Karmen builds your baseline schedules from project documents, and updates them as your project evolves, saving you time and potential delays.\r\n\r\n",
     "one_liner": "Your AI scheduling assistant for construction",
     "team_size": 2,
@@ -1812,7 +1817,8 @@
       "Construction"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -1831,7 +1837,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7e79d88ee27d8bcba8981ffbb6cfd8dfaee476e3.png",
     "website": "https://codebuff.com",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "Chat with Codebuff to edit your codebase. It's a coding agent that can iterate and run terminal commands, just like a real engineer! We are going up-market from Cursor, starting at a $49/mo price point.\r\n\r\nCodebuff chooses files to read automatically on each message, which improves its awareness of your codebase and saves you time. It has full access to your terminal — Codebuff can run terminal commands to install packages, run tests, check for type errors, etc. It's the most powerful coding agent on the market that also happens to be the easiest to use.\r\n\r\nCodebuff is an engineer working for you. Run `npm install -g codebuff` to get started.",
     "one_liner": "The CLI tool that writes code for you",
     "team_size": 2,
@@ -1850,7 +1856,8 @@
       "Engineering, Product and Design"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": true,
@@ -2499,7 +2506,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b817d9ff432f589aa1f3d4acdce2adb596dc372c.png",
     "website": "https://fresco-ai.com/",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "Fresco is an AI-powered takeoff and estimating for Division 8 construction (doors, frames, and hardware).\r\n\r\nEstimating Division 8 has always been brutally manual: flipping through hundreds of pages of specs, cross-referencing hardware sets, and building out schedules by hand. A single missed door or misread hardware group can kill a bid's margin.\r\n\r\nFresco automates the entire takeoff process with 99% accuracy, cutting the time estimators spend on takeoffs by 70%. We've processed 3,000+ takeoffs for general contractors and Division 8 subs, and we're becoming the system of record for how this trade gets estimated.\r\n\r\nDivision 8 is our beachhead: it's complex enough that AI creates massive value, and siloed enough that the incumbents haven't solved it. We're starting here and expanding across the spec trades.",
     "one_liner": "AI copilot for construction estimators",
     "team_size": 2,
@@ -2518,7 +2525,8 @@
       "Construction"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -2581,7 +2589,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1792694f6083df81f7abeaf84bcea98ecdb14566.png",
     "website": "https://collectwise.com/",
-    "all_locations": "",
+    "all_locations": "NY, USA",
     "long_description": "CollectWise automates consumer debt collection with AI. Our platform allows creditors and agencies to double their recovery rates while reducing collection costs by 75%.",
     "one_liner": "Automating consumer debt collection with AI",
     "team_size": 8,
@@ -2599,7 +2607,8 @@
       "Fintech"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -2616,7 +2625,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/bbe9d08b52107f4ba06be791e9808aa96113cd5f.png",
     "website": "https://www.consus.io",
-    "all_locations": "Remote",
+    "all_locations": "CA, USA; Remote",
     "long_description": "Consus is your single source of truth for government specifications, standards, or handbooks. We verify the active revision of documents, notify you when documents are updated, and make it easy to extract the relevant information. Win new business or execute existing contracts faster with Consus.",
     "one_liner": "Your single source of truth for government documents",
     "team_size": 1,
@@ -2635,6 +2644,8 @@
       "Aviation and Space"
     ],
     "regions": [
+      "United States of America",
+      "America / Canada",
       "Remote",
       "Fully Remote"
     ],
@@ -3165,7 +3176,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a8759a02d8be9a9d533e889c8828572da197bc1b.png",
     "website": "https://www.futureclinic.com",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "NY, USA",
     "long_description": "FutureClinic is a platform that makes it easy for any doctor to open their own digital clinic. Our AI assistant takes a comprehensive medical history using an empathic chat or voice-based interface, uses sophisticated medical reasoning to narrow down likely diagnoses, and produces evidence-based treatment suggestions for each patient. Licensed doctors then review the text-based summaries of the cases our AI provides, and choose how to manage the patients. In this fashion, we're able to deliver end-to-end healthcare in a way that makes personalized, expert healthcare scalable to 8 billion people around the world. ",
     "one_liner": "Personal doctors through chat",
     "team_size": 4,
@@ -3512,7 +3523,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2aa06b2c04632ad68c2151cc3aac66c942a0119b.png",
     "website": "https://www.relvy.ai",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "Relvy provides AI-powered debugging notebooks that help software engineers investigate and resolve incidents faster. It finds the root cause in over 70% of alerts automatically, and when it doesn’t, engineers can easily guide or correct the investigation - saving valuable time across the team.",
     "one_liner": "AI powered debugging notebooks for incident response",
     "team_size": 3,
@@ -3537,7 +3548,8 @@
       "Engineering, Product and Design"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -3594,7 +3606,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/50c65b09c63d4db06dcd89cb26fd6622b6c3934c.png",
     "website": "https://www.canvas.inc/",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "Engineer agents to scale your GTM, all automatically orchestrated by AI across your stack",
     "one_liner": "Claude Code for GTM Engineering",
     "team_size": 3,
@@ -3612,7 +3624,8 @@
       "B2B"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -3717,7 +3730,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4966bb2facc9c59279d1337270fbdb9d4a76bb93.png",
     "website": "https://roundabout.tech",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "Roundabout Technologies makes AI-powered traffic lights, allowing cities to reduce pedestrian deaths, improve traffic, and reduce resident complaints. Our founding team has experience building safety-critical embedded systems and AI at Waymo, Zoox, Google, and Verily.",
     "one_liner": "Software for AI-powered traffic lights",
     "team_size": 4,
@@ -3735,7 +3748,8 @@
       "Government"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,

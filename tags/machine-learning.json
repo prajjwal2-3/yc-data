@@ -1137,7 +1137,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/91f99c3342f7ef67fe23f91952d7102c8d49d799.png",
     "website": "http://getentry.com",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "CA, USA; San Francisco, CA, USA",
     "long_description": "Easily onboard, verify IDs, authenticate and continuously verify credentials and the identities of your users - in one place.",
     "one_liner": "Biometric sign in and identity verification platform",
     "team_size": 7,
@@ -2193,7 +2193,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5aa6fac6d2489885ce08d4c58cabcc5b5a131c29.png",
     "website": "https://sapling.ai",
-    "all_locations": "San Francisco, CA, USA; Los Angeles, CA, USA",
+    "all_locations": "CA, USA; Los Angeles, CA, USA",
     "long_description": "Sapling offers an API and SDK to help businesses integrate language models into their applications. Its messaging assistant sits on top of CRMs and messaging platforms to help users more efficiently compose responses.",
     "one_liner": "Language models for enterprise applications.",
     "team_size": 2,
@@ -2652,7 +2652,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c4d680463f8fee3408726becdad9bccd8e14c8a1.png",
     "website": "http://www.chaosgenius.io",
-    "all_locations": "San Francisco, CA, USA; Remote",
+    "all_locations": "Bengaluru; San Francisco, CA, USA; Remote",
     "long_description": "Chaos Genius is a DataOps Observability platform for Snowflake. Enable Snowflake Observability to reduce Snowflake costs and optimize query performance.",
     "one_liner": "DataOps Observability Platform for Snowflake",
     "team_size": 10,
@@ -2677,7 +2677,9 @@
       "Analytics"
     ],
     "regions": [
+      "India",
       "United States of America",
+      "South Asia",
       "America / Canada",
       "Remote",
       "Fully Remote"
@@ -3779,7 +3781,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b6ed23c59f075554e641d7d208bcb56abf6880d1.png",
     "website": "https://www.intelligent.services/",
-    "all_locations": "Los Altos, CA, USA; Remote",
+    "all_locations": "CA, USA; Los Altos, CA, USA; Remote",
     "long_description": "We help businesses cut operational costs, while still exceeding customer expectations.\r\nMost businesses are consistently under- or over-staffed, which either damages customer experience or leaves money on the table (by unnecessarily increasing staffing costs). Granular, high-accuracy demand forecasting solves this issue by allowing businesses to align resources to exactly meet demand. \r\nOur demand forecasting as a service, brings simplicity & precision to this often complex and error-prone process, and quickly provides business users the right answers to run their operations. ",
     "one_liner": "Demand Forecasting as a Service ",
     "team_size": 4,
@@ -4146,7 +4148,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/bd28656a2bd5b2cc24a2d0577bedc594f2e0ffe7.png",
     "website": "http://www.promoted.ai",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "WA, USA",
     "long_description": "Promoted.ai unifies search, native ads, and feed ranking for online marketplaces and scaled e-commerce apps to dramatically improve relevance (and revenue) using AI. We are a team of ex-Google, Meta, and Pinterest ads engineers. Our customers are publicly traded and late-stage marketplace companies like Eventbrite, Upwork, and Outschool. Our mission is to connect every buyer and seller.",
     "one_liner": "Dramatically better search and ads for marketplaces",
     "team_size": 12,
@@ -4328,7 +4330,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f860b32ddb9b39b9b1ae8c22f0c17f140dc5e9d4.png",
     "website": "https://www.mystic.ai/",
-    "all_locations": "London, England, United Kingdom",
+    "all_locations": "CA, USA",
     "long_description": "Mystic’s platform allows companies to easily and reliably deploy ML models on our serverless cloud or on their own infrastructure without requiring a team of MLOps engineers. With our Python SDK, data-scientists immediately get an endpoint from their own model, or any open-source models.\r\nOnce uploaded, our platform handles routing, multi-cloud scaling, caching, GPU optimization and other features to provide the ultimate ML inference platform.",
     "one_liner": "Low latency API to run and deploy ML models",
     "team_size": 11,
@@ -4352,8 +4354,8 @@
       "Infrastructure"
     ],
     "regions": [
-      "United Kingdom",
-      "Europe"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -4866,7 +4868,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ff0b16931b863f29fd0bd341fe033523a5e16dd6.png",
     "website": "https://evidentlyai.com",
-    "all_locations": "San Francisco, CA, USA; Remote",
+    "all_locations": "London; San Francisco, CA, USA; Remote",
     "long_description": "We are building an open-source standard to monitor ML models in production. The tool is used by enterprise data science teams to operate their models reliably and detect and resolve issues.",
     "one_liner": "Open-source monitoring for machine learning models",
     "team_size": 2,
@@ -4890,7 +4892,9 @@
       "Analytics"
     ],
     "regions": [
+      "United Kingdom",
       "United States of America",
+      "Europe",
       "America / Canada",
       "Remote",
       "Fully Remote"
@@ -7989,13 +7993,13 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Safety from humans in the loop is a mirage. We evaluate, research, and apply AI control in our own real-world deployments of autonomous organizations.\r\n\r\nWe are building the Safe Autonomous Organization. We iteratively launch and scale autonomous organizations, while bridging AI control research with real-world testing.",
     "one_liner": "Autonomous organizations without humans in the loop",
-    "team_size": 9,
+    "team_size": 10,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1699380174,
     "tags": [
-      "Artificial Intelligence",
-      "Machine Learning"
+      "Machine Learning",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -8075,7 +8079,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/825caa6d8502745ed1854595552f4f7f1091bb3e.png",
     "website": "https://ellipsis.dev",
-    "all_locations": "",
+    "all_locations": "NY, USA",
     "long_description": "Ellipsis will help your team merge code 13% faster.\r\n\r\nEllipsis is an AI developer tool that automatically reviews code and fixes bugs on pull requests. It uses LLM agents to catch logical errors, security issues, and can even enforce a team's style guide.\r\n\r\nThe coolest part is that after Ellipsis identifies an issue, developers can tag @ellipsis-dev to have Ellipsis implement the fix. Internally, Ellipsis actually executes the code it generates, just like a human does.\r\n\r\nAs a result, we allow developers to generate working, tested code directly from GitHub/GitLab. ",
     "one_liner": "AI code reviews & bug fixes",
     "team_size": 2,
@@ -8099,7 +8103,8 @@
       "Engineering, Product and Design"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -8116,7 +8121,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/62ebbbabf82f9c9badd0bbcb60f8749d391d5a78.png",
     "website": "https://www.preloop.com",
-    "all_locations": "",
+    "all_locations": "WA, USA",
     "long_description": "Only 2 out of 10 ML models make it from experiment to production. Preloop helps automate the process of deployment, helping companies realize more value from their machine learning teams, while focusing teams' attention on science instead of engineering.",
     "one_liner": "Translate your experimental scripts into production ML services",
     "team_size": 2,
@@ -8141,7 +8146,8 @@
       "Engineering, Product and Design"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -8989,7 +8995,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0e0e653e5da051b7c87a56070249ad76479b0594.png",
     "website": "https://osmosis.ai/",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "Osmosis helps companies use reinforcement learning to fine-tune open source models that outperform foundation models. ",
     "one_liner": "Reinforcement Learning (RL) for AI Agents",
     "team_size": 6,
@@ -9012,7 +9018,8 @@
       "B2B"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -9201,7 +9208,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4911874a37ff01bfa27bb33e5f83f49e6970068e.png",
     "website": "https://plexe.ai",
-    "all_locations": "",
+    "all_locations": "London",
     "long_description": "Plexe builds predictive ML models from a problem description. It connects to data sources, conducts experiments, evaluates and deploys the models to an API endpoint.",
     "one_liner": "Open-source agents to build predictive ML models from a prompt",
     "team_size": 2,
@@ -9224,7 +9231,8 @@
       "Engineering, Product and Design"
     ],
     "regions": [
-      "Unspecified"
+      "United Kingdom",
+      "Europe"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -9328,7 +9336,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1f9f89a3e11065395408b656b79f12f0fd9868a1.png",
     "website": "https://www.photoniumoptics.com/",
-    "all_locations": "",
+    "all_locations": "NY, USA",
     "long_description": "Photonium is building software to automate optical system design. We supercharge optics experts with intelligent tooling to reduce costs and deliver faster. We handle the full design stack — from optimization, verification, sourcing, to prototyping — for AR/VR, quantum, biotech, metrology/chip fab, LiDAR, and more. ",
     "one_liner": "AI-Powered Optical Consulting & Software",
     "team_size": 3,
@@ -9353,7 +9361,8 @@
       "Engineering, Product and Design"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -9370,7 +9379,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3af9294b241ac810c538d00aea0a921d1229099f.png",
     "website": "https://mlop.ai",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "London",
     "long_description": "A fully open-source, performant and actionable Weights & Biases alternative that saves you money. \r\n\r\nCheck out our story here! https://www.reddit.com/r/mlopai/comments/1kkc9jp/mlopai_an_efficient_free_and_opensource/",
     "one_liner": "Experiment tracking for training ML models",
     "team_size": 2,
@@ -9393,8 +9402,8 @@
       "B2B"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "United Kingdom",
+      "Europe"
     ],
     "stage": "Early",
     "app_video_public": false,

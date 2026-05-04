@@ -676,7 +676,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/020f142d48a9efde3733971776a68c441557dfe7.png",
     "website": "https://getdiana.com/",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "The first business-ready OpenClaw platform. A secure AI assistant embedded directly into Slack.",
     "one_liner": "Give Your Employee An Employee",
     "team_size": 7,
@@ -700,6 +700,8 @@
       "B2B"
     ],
     "regions": [
+      "United States of America",
+      "America / Canada",
       "Remote",
       "Partly Remote"
     ],
@@ -1247,7 +1249,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6b1a47bf16f93d71a3d1f3af6d10a6c736e170b2.png",
     "website": "https://www.haladir.com/",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "Haladir is the operational AI layer for logistics. We unify and structure data across WMS, TMS, OMS, etc., and embed solver-grade optimization, ML models, RL environments for frontier AI labs, and forecasting into the decisions that power supply chains. Today's AI brought intelligence. The next frontier is judgement.\r\n\r\nWe define operational superintelligence as AI that consistently makes maximally-optimal operational decisions in complex environments. The first component is speed: continuous decisions that take operations managers and OR analysts weeks to make, in seconds. The second is reliability: every decision is guaranteed to satisfy operational constraints. The third is scope: optimize across thousands of constraints no human or team could possibly reason about.",
     "one_liner": "Building Operational Superintelligence.",
     "team_size": 4,
@@ -1271,7 +1273,8 @@
       "Operations"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -1288,7 +1291,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9fc7f7534f4fb913904f49914952c1daa8086654.png",
     "website": "https://bubblelab.ai/",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "Bubble Lab turns natural language into visual, production-ready workflows — built for modern ops teams, with built-in observability, logs, and execution traces.\r\n\r\nDeploy to Slack in one click so your team can build and run workflows from anywhere.\r\n",
     "one_liner": "Prompt once, automate forever.",
     "team_size": 2,
@@ -1312,7 +1315,8 @@
       "Operations"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,

@@ -2897,7 +2897,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/05b004a38c0a5df5a4e151b258151cd9a38f08c8.png",
     "website": "https://theseus.us",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "Theseus builds visual navigation software for GPS-denied drone operations. Using onboard cameras, inertial sensors, and satellite reference imagery, our system computes position fixes entirely passively. The system is entirely self contained, can't be jammed and has no RF signature.",
     "one_liner": "GPS Denied Navigation for Drones",
     "team_size": 6,
@@ -2919,7 +2919,8 @@
       "Drones"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -3154,7 +3155,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/55cc697d9f14eca5a5d45772ac14d97a83df16ae.png",
     "website": "https://bucket.bot",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "Bucket Robotics builds deployable computer vision systems for manufacturing — without labeling, long pilots, or fragile rules.\r\nWe turn CAD and sample data into production-ready vision models that run on existing cameras and edge hardware. No manual labeling. No cold-start problem. Models deploy in minutes and adapt as parts, defects, and lines change.\r\n\r\nOur roots are in self-driving cars (Argo AI, Uber ATG, Stack AV), where we learned how to ship perception systems that operators trust in messy, real-world environments. We’re applying that playbook to factories: robust sensing, fast iteration, and tooling engineers actually enjoy using.\r\n\r\nManufacturers struggle with inspection because parts are too variable for rules-based vision and too expensive to inspect by hand. Legacy systems are rigid, hardware-locked, and slow to customize. We take the opposite approach: software-first vision that fits into existing automation and scales across SKUs, facilities, and workflows.\r\n\r\nAmerican Manufacturing is in the middle of a $700B automation push — but quality is still a trust problem. Bucket Robotics is building the vision infrastructure that lets factories automate inspection with confidence.",
     "one_liner": "Defect detection for manufacturing built from CAD and synthetic data.",
     "team_size": 5,
@@ -3178,7 +3179,8 @@
       "Manufacturing and Robotics"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -3319,7 +3321,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9bbd5c88222cf5eb971b76232ac40284413785f0.png",
     "website": "https://proception.ai/",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "",
     "one_liner": "Making humanoids dexterous enough to thread a needle",
     "team_size": 10,
@@ -3332,7 +3334,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Winter 2025",
     "status": "Active",
@@ -3341,7 +3343,8 @@
       "Manufacturing and Robotics"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -3358,7 +3361,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/64d433326d1439cca20362b396d9908aa3f426b0.png",
     "website": "http://www.notussystems.com/",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "CA, USA",
     "long_description": "We are making drone swarms of arbitrary size which are strategically immune to RF interference using phased arrays at 60GHz steered by a novel radar algorithm.",
     "one_liner": "Arbitrary size interference resistant drone swarms using EHF radios",
     "team_size": 3,
@@ -3794,7 +3797,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2b9c845239fb1f16317889a4a843409e109b24f6.png",
     "website": "https://www.topological.com",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "Topological is developing physics-based foundation models for CAD optimization. We help hardware teams iterate at the same speed that software teams do. Our technology is accelerating the engineering workflow with AI and scales design and optimization to identify the ideal designs for complex problems given their physical constraints with enhanced speed and performance. \r\n\r\nOur first model, UToP-v1, is a SOTA topology optimization model that understands physics, geometry, and manufacturability. It can generate the most efficient design given a problem’s physical requirements. It has <5% compliance error and is 1930x faster than current methods. We're reimagining mechanical engineering and computational design with precision spatial AI.",
     "one_liner": "Physics-based foundation models for CAD optimization.",
     "team_size": 2,
@@ -3819,7 +3822,8 @@
       "Engineering, Product and Design"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -4443,7 +4447,7 @@
     "subindustry": "Industrials -> Drones",
     "launched_at": 1777342640,
     "tags": [
-      "Security Orchestration, Automation and Response (SOAR)",
+      "Hard Tech",
       "Robotics",
       "Drones",
       "Aerospace"

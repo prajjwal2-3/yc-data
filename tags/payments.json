@@ -139,7 +139,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4113d9f505976529d750df754ce34c986d9cf14a.png",
     "website": "https://www.tremendous.com",
-    "all_locations": "Remote",
+    "all_locations": "NY, USA; Remote",
     "long_description": "Tremendous is a payouts platform for businesses to send money and gift cards to anyone, anywhere. Used by 25k+ companies for one-time payments, including research compensation, marketing incentives, and employee recognition.",
     "one_liner": "How businesses send money to people at scale. Fast, free, global.",
     "team_size": 150,
@@ -161,6 +161,8 @@
       "Payments"
     ],
     "regions": [
+      "United States of America",
+      "America / Canada",
       "Remote",
       "Fully Remote"
     ],
@@ -2118,7 +2120,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/23d8644c277b8738f10d9091c7b0cf18a46e9836.png",
     "website": "https://getswipe.com",
-    "all_locations": "Accra, Greater Accra Region, Ghana",
+    "all_locations": "London; Accra, Greater Accra Region, Ghana",
     "long_description": "Swipe is building modern modern payments, accounting and cashflow management tools for businesses. We own and operate Float, a global b2b payments platform and Accounteer - a cloud accounting and bookkeeping platform for businesses and freelancers.",
     "one_liner": "Building modern payments, accounting and cashflow management tools…",
     "team_size": 20,
@@ -2140,7 +2142,9 @@
       "Fintech"
     ],
     "regions": [
+      "United Kingdom",
       "Ghana",
+      "Europe",
       "Africa",
       "Remote",
       "Partly Remote"
@@ -6391,7 +6395,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9a1286c1ed0f215411585d2faaf1c76a245ee266.png",
     "website": "https://zavopay.com",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "London",
     "long_description": "Zavo is the AI-powered operating system for restaurants.\r\n\r\nWe bring payments, point of sale, and AI agents into one unified platform, so restaurants can run their entire business seamlessly.\r\n\r\nFrom reservations to payments to POS, Zavo replaces fragmented tools with a fully integrated stack built in-house. Our AI agents automate repetitive tasks, streamline operations, and help teams focus on delivering great guest experiences.",
     "one_liner": "AI Operating System for Restaurants ",
     "team_size": 8,
@@ -6416,8 +6420,8 @@
       "Payments"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada",
+      "United Kingdom",
+      "Europe",
       "Remote",
       "Partly Remote"
     ],
@@ -6438,7 +6442,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/97bee8995323297bfa4540365e98ff74a62aa5fd.png",
     "website": "https://usegrade.com",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "Grade is the API for performance-based payroll. Think of us like Deel or Gusto, but our payouts are for work completed, not hours. Companies use Grade to pay AI agents and contractors based on results: tasks completed, targets hit, work delivered. We handle compliance, tax reporting, and global payouts.",
     "one_liner": "API for performance-based payroll",
     "team_size": 2,
@@ -6461,7 +6465,8 @@
       "Fintech"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,

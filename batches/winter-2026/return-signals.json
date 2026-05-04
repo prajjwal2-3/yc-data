@@ -7,7 +7,7 @@
   ],
   "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/487ac0ad9f618f937dd875c80053d719f8a25d07.png",
   "website": "https://www.returnsignals.com",
-  "all_locations": "",
+  "all_locations": "CA, USA",
   "long_description": "Proactive AI customer support that engages high-value users. By using LLM’s to engage customers in an authentic way before they reach out to customer support we minimize support tickets, build relationships and deliver upsells. We are the only AI agent on the market with sufficient engagement to be allowed to send iMessages outbound.",
   "one_liner": "Proactive AI customer support that engages high-value users",
   "team_size": 2,
@@ -25,7 +25,8 @@
     "B2B"
   ],
   "regions": [
-    "Unspecified"
+    "United States of America",
+    "America / Canada"
   ],
   "stage": "Early",
   "app_video_public": false,

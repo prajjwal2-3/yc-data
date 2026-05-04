@@ -5,7 +5,7 @@
   "former_names": [],
   "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9fc7f7534f4fb913904f49914952c1daa8086654.png",
   "website": "https://bubblelab.ai/",
-  "all_locations": "",
+  "all_locations": "CA, USA",
   "long_description": "Bubble Lab turns natural language into visual, production-ready workflows — built for modern ops teams, with built-in observability, logs, and execution traces.\r\n\r\nDeploy to Slack in one click so your team can build and run workflows from anywhere.\r\n",
   "one_liner": "Prompt once, automate forever.",
   "team_size": 2,
@@ -29,7 +29,8 @@
     "Operations"
   ],
   "regions": [
-    "Unspecified"
+    "United States of America",
+    "America / Canada"
   ],
   "stage": "Early",
   "app_video_public": false,

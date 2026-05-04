@@ -7,7 +7,7 @@
   ],
   "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fa3be8044166eb1b542186ec7fb3d58572e16c8f.png",
   "website": "https://mantisbiotech.com/",
-  "all_locations": "",
+  "all_locations": "NY, USA",
   "long_description": "Mantis is a digital twin company that combines LLMs with high-fidelity physics simulations in order to convert rare and difficult-to-access human behavior data into predictive models. ",
   "one_liner": "Digital Twins of humans",
   "team_size": 3,
@@ -26,7 +26,8 @@
     "Infrastructure"
   ],
   "regions": [
-    "Unspecified"
+    "United States of America",
+    "America / Canada"
   ],
   "stage": "Early",
   "app_video_public": false,

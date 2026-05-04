@@ -1006,7 +1006,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/496d0ff1f20ae199837eebe1bfef35fa059329d0.png",
     "website": "http://culdesac.com",
-    "all_locations": "Tempe, AZ, USA",
+    "all_locations": "CA, USA; Tempe, AZ, USA",
     "long_description": "Culdesac designs, builds, and manages walkable communities. \r\n\r\nCuldesac is a real estate developer and property manager. We build neighborhoods that embrace community, open space, and mobility. We offer residential units at a variety of price points integrated with local retail, commercial uses, and open space for nature and public plazas.\r\n\r\nOur communities prioritize biking, walking, and transit over cars and parking. We partner with leading mobility companies to deliver convenient and affordable transportation services. This creates a vibrant urban lifestyle without the need for a private vehicle.\r\n\r\nRead more here > https://medium.com/culdesac/introducing-culdesac-3fbfe7c4219c",
     "one_liner": "We build cities for people, not cars. ",
     "team_size": 100,
@@ -1054,7 +1054,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4d5f984daf01843ad24f9bdb200e128b031fe3cb.png",
     "website": "http://www.hutsy.co",
-    "all_locations": "New York, NY, USA",
+    "all_locations": "CA, USA; New York, NY, USA",
     "long_description": "Hutsy is a new way to buy a home for the modern home buyer.\r\n\r\nFor the first time, we’ve built a hybrid agent-tech process that will help you with your entire home buying process. We are committed to helping you from searching & submitting offers to signing closing documents in the simplest manner possible.\r\n\r\nWe find the best local agents, title officers, lenders, inspectors and streamline the process start-to-finish so that you don't have to worry about dealing with shady folks.\r\n\r\nWe've eliminated redundant back-and-forth so that you can search, schedule and sign easily online.\r\n\r\nWe give you a clean dashboard to keep track of any upcoming closing costs, and the transaction progress at all times, so that you can prepare for what is required of you well ahead of time.\r\n\r\nUltimately, we've retained the humanistic elements of the process, provided by the best agents and third parties, and fused it with the latest tech for your convenience. This means that you consistently get the best home buying experience, every single time. ",
     "one_liner": "Home Buying on Autopilot",
     "team_size": 3,
@@ -1225,7 +1225,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/62a04ef2b7d6dce455bc9febecc0ebda46301613.png",
     "website": "https://www.lofty.ai/",
-    "all_locations": "Miami, FL, USA; Remote",
+    "all_locations": "CA, USA; Miami, FL, USA; Remote",
     "long_description": "Lofty is a marketplace that let's anyone sell a house to investors online. Instead of the typical real estate transaction where one seller sells to one buyer, Lofty is much more flexible.\r\n\r\nSellers fractionalize their equity ownership in the property into smaller units, so that anyone can buy a portion for as little as $50, allowing access to one of the best asset classes for people who have previously been locked out. Sellers can also sell a portion of their equity (starting at just 10%) instead of the entire property or create customized HELOC structures.\r\n\r\nInvestors can browse a variety of individual real estate properties ranging from commercial strip malls, a HELOC in someone's house, Airbnbs, to a single-family rental properties, and directly purchase ownership in these properties in under 5 minutes. There is no lockup period. Users can constantly trade these ownerships with others on the marketplace.\r\n\r\nInvestors truly legally own the properties they invested in and co-manage it with other investors through an online governance program. Owners have so far voted on how to handle various repairs, delinquent tenants, the sale of the underlying property, and much more.\r\n\r\nLofty never custodies or handles user funds or assets. Through smart-contracts on the blockchain, all transactions are directly peer-to-peer.\r\n\r\nIf we succeed, we'll have built the NASDAQ for real estate and transformed how real estate is bought and sold in the USA.",
     "one_liner": "Building the NASDAQ for Real Estate.",
     "team_size": 7,
@@ -2559,7 +2559,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5f51be3e6016c33657688a682b7eb23e8ee1044a.png",
     "website": "https://www.usehaven.ai/",
-    "all_locations": "",
+    "all_locations": "NY, USA",
     "long_description": "Haven is building AI Agents to automate property management operations. Our first Agent is automating the maintenance coordination process. This means answering the phone when tenants have a maintenance issue, diagnosing the issue, dispatching a technician, and then following up with tenants to make sure the issue is resolved.\r\n",
     "one_liner": "AI workforce for property management",
     "team_size": 3,
@@ -2583,7 +2583,8 @@
       "B2B"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -2962,7 +2963,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/088175fa9125ef3885f5ea688b7630e8021bece3.png",
     "website": "https://tandemspace.com/",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "The pandemic reduced office use nationwide by 50%, and tenants have been left to deal with highly inflexible, long term lease agreements that don’t fit today’s office use patterns.\r\n\r\nThe traditional brokerage model works great for big spaces and long terms. But when you want to talk smaller units, short term lengths, shared and common areas, you’re out of luck. \r\n\r\nTandem is an AI-native office leasing platform. We’re using technology to unlock an easier leasing process.   Our AI co-pilot provides a white-glove-quality B2B office search experience, with a fraction of the human labor typically required.\r\n\r\nToday we’re serving three primary markets — NY, SF and BOS.  We’ve helped more than 500 companies find great office space and have seen double-digit month-over-month growth.",
     "one_liner": "AI-native office leasing agent",
     "team_size": 22,
@@ -2985,6 +2986,8 @@
       "Office Management"
     ],
     "regions": [
+      "United States of America",
+      "America / Canada",
       "Remote",
       "Partly Remote"
     ],
@@ -3307,7 +3310,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7466bfa4281b844c618118683dbd69f3e3cec258.png",
     "website": "https://www.nerviom.com",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "Infrastructure projects like data centers, factories, and energy facilities require navigating hundreds of permits and regulatory approvals before construction can begin. \r\n\r\nToday this process is handled through consultants, spreadsheets, and thousands of pages of documentation, adding years to project timelines and millions in consulting costs.\r\n\r\nWe are building an AI autopilot to automate infrastructure permitting and regulatory compliance. \r\n\r\nOur goal is to significantly reduce the time and cost required to get infrastructure projects approved and built.",
     "one_liner": "AI Autopilot for Infrastructure Permitting",
     "team_size": 1,
@@ -3330,7 +3333,8 @@
       "Real Estate and Construction"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,

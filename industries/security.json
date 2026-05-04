@@ -843,7 +843,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2dc377e8276c3eddb8f99613f0b90ed45fea6ee7.png",
     "website": "https://quantstamp.com",
-    "all_locations": "Toronto, ON, Canada; San Francisco, CA, USA; Remote",
+    "all_locations": "CA, USA; San Francisco, CA, USA; Remote",
     "long_description": "Quantstamp has protected billions in digital assets from hackers on our mission to secure web3. As a global team of security professionals, we have honed our technology and expertise through hundreds of audits and gained the trust of our clients to keep their innovative products safe.\r\n\r\nIn addition to providing an array of security services, we facilitate the growth and longevity of the web3 space through strategic investments and acting as a trusted advisor to help projects scale. Quantstamp is honored to have worked with some of the top projects in the industry including Aave, Compound, Maker, OpenSea, Polygon and many more.\r\n\r\nAs the leading blockchain security company in this emerging industry, we are always looking for team members that love taking initiative and solving challenging problems. Join the team and help us secure the future of web3.\r\n",
     "one_liner": "Security auditing for Web3",
     "team_size": 80,
@@ -867,7 +867,6 @@
       "Security"
     ],
     "regions": [
-      "Canada",
       "United States of America",
       "America / Canada",
       "Remote",
@@ -3098,7 +3097,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e836589affa3183241d8a3c3f2914bb8dc44d2a8.png",
     "website": "https://www.compliantllm.com/",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "CompliantLLM detects every data leak into third-party GenAI tools used in your company by monitoring employee interactions.\r\n\r\nSecurity and tech leaders get visibiliity and control over the data flowing into various Gen AI apps used in their organizations.",
     "one_liner": "Detect every data leak into third-party GenAI tools",
     "team_size": 3,
@@ -3117,7 +3116,8 @@
       "Security"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -3541,7 +3541,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f85e50382b3869e84b292235c05317d5db4ab8cd.png",
     "website": "https://promptarmor.com/",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "",
     "one_liner": "LLM Security and Compliance",
     "team_size": null,
@@ -3565,7 +3565,8 @@
       "Security"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -3670,7 +3671,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/cade08a222bcb94b59ffc828273ef1cdf70d6f84.png",
     "website": "https://www.shiboleth.ai/",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "Shiboleth automates consumer lending compliance for financial institutions using AI.\r\nBanks and fintechs use us to save months of manual work by automating audits and drafting reports for the governments. \r\n\r\nLLMs allow whole categories of manual compliance processes to be automated in ways that weren’t possible until recently.\r\n\r\nWe are excited to automate back-office operations and enhance consumer protection in one of the most litigious industries.",
     "one_liner": "Shiboleth automates lending compliance for financial institutions…",
     "team_size": 5,
@@ -3689,7 +3690,8 @@
       "Security"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -3932,7 +3934,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/85fc2e3ee1b407fdf958403fc2fbd25fff6a7cac.png",
     "website": "https://subimage.io",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "SubImage builds maps of your infrastructure to give you visibility on what assets you have and how they relate to each other. This enables any security team to deeply understand their environments and reduce risk.\r\n\r\nSubImage is a managed offering built around the Cartography open-source project, and is founded by members of Cartography's original team.",
     "one_liner": "Software that maps your infrastructure. Open core alternative to Wiz",
     "team_size": 5,
@@ -3951,7 +3953,8 @@
       "Security"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -4185,7 +4188,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/67f8fa73a583138ab0060e99d6a10e8341a0d040.png",
     "website": "https://www.mindfort.ai",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "MindFort is building fully autonomous AI agents powered by their in-house models that can find, exploit, and patch complex vulnerabilities in web applications at massive scale. MindFort agents use the same principles as human penetration testers to understand their target and figure out the best ways to work together to exploit it. We can do fully autonomous AI web pentesting and bring offensive security to teams out numbered. \r\n\r\nWhile security teams were already behind with legacy tools and processes, AI coding is make the problem worse. AI generates code far faster than human teams can secure it; MindFort can match that speed and scale. Our agents will become critical as organizations scale up development with AI.\r\n",
     "one_liner": "Autonomous Security Agents",
     "team_size": 5,
@@ -4204,7 +4207,8 @@
       "Security"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -4560,7 +4564,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b22602dcf84ece0389bd7a801525177573cf75ba.png",
     "website": "https://multifactor.com",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "The agentic era is here, but its foundation is dangerously insecure. A growing number of high-profile \"AI agent gone rogue\" security incidents make headlines each week.\r\n\r\nAs enterprise adoption of agentic software has far outpaced the development of applicable cybersecurity solutions, CISOs have loudly voiced a growing need for verifiable, fine-grained security controls on complex multi-agent systems. That's why we built Multifactor.\r\n\r\nMultifactor offers best-in-class authentication, authorization, and auditing technologies for agentic systems, allowing users to securely and revocably share online accounts with agents while maintaining fine-grained permissions and a detailed event history. We are doing for AI security what Cloudflare did for web security, Okta did for identity security, and Wiz did for cloud security: defining the category.\r\n\r\nA world-class \"account manager\" that allows agents to securely use online accounts on your behalf is just the start—our early enterprise partners include companies using AI agents to manage $7.5+ billion manufacturing supply chains, where the consequences for lapses in security are severe. Our patented AI security technology seamlessly integrates with existing agentic software to thwart attacks like prompt injection, so CISOs and end users alike can breathe a sigh of relief, without slowing the pace of AI adoption.",
     "one_liner": "Zero-trust authentication, authorization, and auditing for AI agents",
     "team_size": 6,
@@ -4579,7 +4583,8 @@
       "Security"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -4639,7 +4644,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9a5cc9740ffbab442e3f13d623875ee650093eac.png",
     "website": "https://www.agenticfabriq.com",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "Agentic Fabriq is the single control plane for data permissioning throughout your entire organization across your AI and employees. Through Fabriq, any employee can tap into AI/agents with exactly the data and tools they're cleared to use by an admin. Fabriq can be used internally with employees or externally for customers while handling the auth + integrations + permissions securely for you.",
     "one_liner": "Okta for Agents.",
     "team_size": 2,
@@ -4658,7 +4663,8 @@
       "Security"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -4712,7 +4718,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3f713f0f123c886d7ce59127e88d9c062f767183.png",
     "website": "https://www.lexius.ai",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "Lexius turns existing security cameras into an AI security guard that detects, documents, and alerts incidents like shoplifting and slip-and-falls.\r\n\r\nMillions of locations already have cameras but no intelligence. Replacing them costs $50K to $100K per site. Lexius upgrades every camera instantly, no rip and replace, no new hardware.\r\n\r\nReal-world camera systems are messy, fragmented, and decades old, and AI breaks on low-quality CCTV. The hard part isn’t the model, it’s making unreliable systems work at scale with accuracy high enough for real decisions.\r\n\r\nLexius starts with security and liability, and becomes the operating system for physical spaces.",
     "one_liner": "AI for Corporate Security Cameras",
     "team_size": 3,
@@ -4731,7 +4737,8 @@
       "Security"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -4748,9 +4755,9 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/08fe208eabd322adf04efcdf91f3bf0f7efc1a4a.png",
     "website": "https://protent.ai",
-    "all_locations": "",
-    "long_description": "We provide real-time video intelligence that identifies escalating incidents as they unfold. Protent detects early escalation patterns and predictive threat signals, giving surveillance staff the immediate context they need to prioritize alerts and intervene before situations spiral out of control.",
-    "one_liner": "Protent turns passive surveillance into proactive intelligence.",
+    "all_locations": "CA, USA",
+    "long_description": "We provide real-time video intelligence that identifies escalating incidents as they unfold. Protent detects early escalation patterns and predictive threat signals, giving security teams the immediate context they need to prioritize alerts and intervene before situations spiral out of control.",
+    "one_liner": "Real time intelligence for law enforcement & security teams.",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Security",
@@ -4767,7 +4774,8 @@
       "Security"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,

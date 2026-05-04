@@ -369,7 +369,7 @@
     "former_names": [],
     "small_logo_thumb_url": "/company/thumb/missing.png",
     "website": "http://workflowy.com",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "NY, USA; San Francisco, CA, USA",
     "long_description": "WorkFlowy is a tool for organizing your brain. It provides a powerful interface for hierarchical lists. People use it as a replacement for text editors and spreadsheets as organizational tools. They leave it open all day and put whatever passes through their brain in it - project plans, to-do's, meeting notes, brainstorms, etc..",
     "one_liner": "WorkFlowy is a better way to manage information. It provides a simple…",
     "team_size": 4,
@@ -688,7 +688,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/074cd05efbc63f7a13cbb794c1df90f03162dc58.png",
     "website": "http://mixerbox.com",
-    "all_locations": "Palo Alto, CA, USA",
+    "all_locations": "CA, USA",
     "long_description": "MixerBox is an AI Super-Apps technology company that helps people live easier through its 24/7 daily-essential mobile apps platform.\r\n\r\nFounded in 2012 by Harvard alumnus John Lai, MixerBox is backed by the Silicon Valley unicorn accelerator Y Combinator. The company’s apps have surpassed 300,000,000 downloads worldwide, and allow MixerBox users to wake up to MixerBox AlarmTunes, read MixerBox NewsDash, browse with MixerBox ChatAI Browser, pay with MixerBox AI Pay, watch MixerBox FreecableTV, and fall asleep with MixerBox Inspire Meditation. App by app, MixerBox strives to become the “Anything, Anytime Super-Apps Platform” to help people live easier.",
     "one_liner": "AI Super-Apps to Live Easier | The anything anytime superapps…",
     "team_size": 30,
@@ -1345,7 +1345,7 @@
     ],
     "small_logo_thumb_url": "/company/thumb/missing.png",
     "website": "http://www.blitziq.com",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "",
     "one_liner": "Note taking workspace for B2B sales teams",
     "team_size": 0,
@@ -1368,7 +1368,8 @@
       "Sales"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -2777,7 +2778,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/dd6e168433a2a413d415304357399855603959a6.png",
     "website": "https://www.sigmaos.com",
-    "all_locations": "London, England, United Kingdom",
+    "all_locations": "CA, USA; London, England, United Kingdom",
     "long_description": "SigmaOS is a new type of browser designed for founders, researchers, and content creators to make you better and faster at working on the web.\r\n\r\nYou work 7+ hours a day on the web. Buried in a sea of 100+ tabs and 10+ web-apps 🤯, you constantly lose context for why you did what you did, and are always one click away from being distracted.\r\n\r\nWe took apart the browser for you, and rebuilt a new experience from the ground-up, for the FASTEST and most PRODUCTIVE work. ⚡",
     "one_liner": "The new home for your internet 🏡",
     "team_size": 5,
@@ -2799,7 +2800,9 @@
       "Consumer"
     ],
     "regions": [
+      "United States of America",
       "United Kingdom",
+      "America / Canada",
       "Europe"
     ],
     "stage": "Early",
@@ -3173,7 +3176,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c392ddb884e3f3f007a8a9e8d8f63e56ca88b47a.png",
     "website": "https://lifeat.com",
-    "all_locations": "Seattle, WA, USA",
+    "all_locations": "CA, USA; Seattle, WA, USA",
     "long_description": "LifeAt is your space to focus and complete tasks. Our mission is to help the 100M+ knowledge workers get into their flow state with video content and task management. Our customers get through their daily tasks twice as fast while feeling great at the end of the day!\r\n\r\nWell funded by Meta (Facebook), Line, Y Combinator, Goodwater, and other top VCs. Loved by over 1M+ users across the world and shared by over 500K+ followers across Tiktok/Instagram/Twitter. Come shape the future of focus and productivity!",
     "one_liner": "One tool to supercharge your productivity.",
     "team_size": 6,
@@ -3803,7 +3806,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1a9593da33f6698a03604df521d2f3110a53ba61.png",
     "website": "https://paragon.ai",
-    "all_locations": "San Francisco, CA, USA; San Juan, San Juan, Puerto Rico; Remote",
+    "all_locations": "NY, USA; San Juan, San Juan, Puerto Rico; Remote",
     "long_description": "Paragon AI is a tool for sales representatives which automatically turns call recordings into structured information that directly updates the CRM. Instead of spending hours going over call recordings to pull out key information to populate the CRM, sales representatives can focus their time doing what they do best and sales leaders can rest assured that pipeline data is up to date.",
     "one_liner": "Turns your sales calls into CRM data, automatically.",
     "team_size": 3,
@@ -5177,7 +5180,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4967676cdc6058f952822347fafe9d59a61218fb.png",
     "website": "https://autotab.com",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "Autotab is a drop-in AI knowledge worker that uses a mouse and keyboard like you—so anything you can do, it can do. Show it how to perform your task, train it to be hallucination-proof by adding examples and providing feedback, and then run it on demand or on a schedule—either locally or in the cloud.\r\n \r\n\r\nIt achieves superhuman reliability, and can scale up on demand so your team doesn’t have to.\r\n \r\n\r\nAutotab is already handling complex tasks thousands of steps long, from messaging customers to triggering payments and updating data across core systems of record like Salesforce, HubSpot, Google Sheets, and Jira.\r\n\r\n \r\nDownload the beta version of the app and get started right away, or sign up for a personalized onboarding: https://www.autotab.com",
     "one_liner": "AI agents reliable enough to do real work",
     "team_size": 2,
@@ -5201,7 +5204,8 @@
       "Productivity"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -5354,7 +5358,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/24db1f3b2c957bd0e1551d1e58afec1ea05426a4.png",
     "website": "https://getaftercare.com",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "NY, USA",
     "long_description": "Aftercare helps you run surveys with AI-powered follow-up questions to dig into responses for deeper insights—it’s like having a skilled interviewer for every survey. ",
     "one_liner": "Conversational AI surveys with intelligent follow-up questions",
     "team_size": 3,
@@ -5397,7 +5401,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/020f142d48a9efde3733971776a68c441557dfe7.png",
     "website": "https://getdiana.com/",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "The first business-ready OpenClaw platform. A secure AI assistant embedded directly into Slack.",
     "one_liner": "Give Your Employee An Employee",
     "team_size": 7,
@@ -5421,6 +5425,8 @@
       "B2B"
     ],
     "regions": [
+      "United States of America",
+      "America / Canada",
       "Remote",
       "Partly Remote"
     ],
@@ -5615,7 +5621,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ac751ae51071034b75af18536b15a7ec51b6c117.png",
     "website": "https://getfluently.app/",
-    "all_locations": "Remote",
+    "all_locations": "CA, USA; Remote",
     "long_description": "Imagine a human-like English tutor, but 20x cheaper and available 24/7 - that's Fluently!\r\n\r\nFluently made for people who already know the basics of English but want to feel truly confident in real conversations: whether that’s in an interview, a business meeting, or chatting with friends.\r\n\r\nMost English learning apps are built for beginners and don’t help you improve speaking skills.\r\n\r\nWith Fluently, you get:\r\n- Unlimited real-world speaking practice\r\n- Personalized learning plan\r\n- Free English level assessment and progress tracking\r\n- Real progress in English speaking skills\r\n\r\nWe’re non-native founders who know the stress of speaking English in important moments. With deep AI expertise, we built Fluently to solve it.",
     "one_liner": "Speaking coach for non-native English professionals",
     "team_size": 2,
@@ -5639,6 +5645,8 @@
       "Consumer"
     ],
     "regions": [
+      "United States of America",
+      "America / Canada",
       "Remote",
       "Fully Remote"
     ],
@@ -5748,7 +5756,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7a33b212287f4a8ba926edd565f2b9dfec82369e.png",
     "website": "https://zuni.app",
-    "all_locations": "Remote",
+    "all_locations": "London; Remote",
     "long_description": "Zuni is a Chrome extension that gives you AI capabilities in the sidebar of your browser. It can use what it sees on any of your tabs as context, and proactively helps you draft messages and emails.",
     "one_liner": "AI Assistant that works alongside you in your Chrome browser",
     "team_size": 2,
@@ -5772,6 +5780,8 @@
       "Productivity"
     ],
     "regions": [
+      "United Kingdom",
+      "Europe",
       "Remote",
       "Fully Remote"
     ],
@@ -6592,7 +6602,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/27388bac39ab071f08477907bbcc754dc45c3267.png",
     "website": "https://TypeOS.com",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "Built to advance human taste to the frontier, TypeOS is the best way to write with AI.\r\n",
     "one_liner": "AI that sounds like you, where you work.",
     "team_size": 2,
@@ -6616,7 +6626,8 @@
       "Consumer"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -6799,7 +6810,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3daf2d29bc3da3d9f526ade87b3daa93b0d6a6cd.png",
     "website": "https://www.frizzle.com",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "NY, USA",
     "long_description": "Frizzle uses AI to grade handwritten math assignments for teachers and transform them into rich analytics and differentiated assessment to help personalize instruction for every student. Teachers spend over 10 hours a week or 25% of all their work grading - Frizzle does it in minutes. Frizzle is the most valuable piece of software for teachers ever, as it eliminates the most time-consuming part of their workflow so they can focus on teaching.\r\n\r\nFrizzle shifts education from waterfall to agile learning. Instead of waiting for end-of-unit tests to discover gaps, teachers get continuous, real-time insight into student thinking from everyday work. Feedback becomes immediate, instruction adapts weekly, and learning iterates (measure, adjust, improve) so every student progresses faster with less teacher burnout.\r\n\r\nFrizzle was named an official White House AI Education Partner alongside OpenAI and Meta: https://www.whitehouse.gov/edai/.\r\n\r\nFrizzle was co-founded by Abhay Gupta and Shyam Sai, who met in high school over 10 years ago.\r\n",
     "one_liner": "AI Grading for Teachers",
     "team_size": 2,
@@ -6885,7 +6896,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4c08d892e148caaaf2ce4e85ef39beddd97353a8.png",
     "website": "https://www.trace.so/",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "London",
     "long_description": "Trace is a workflow orchestration platform that gives agents shared context across systems and lets teams build visual processes combining AI and humans. It automatically identifies which tasks can be AI-automated and which need human input, so non-technical teams build and run workflows without engineering involvement.",
     "one_liner": "Context-aware orchestration between humans and AI.",
     "team_size": 3,
@@ -6910,8 +6921,8 @@
       "Productivity"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "United Kingdom",
+      "Europe"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -6973,8 +6984,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/aca02a57c5f38896120f1fe6767d1975b6a6b522.png",
     "website": "https://char.com",
     "all_locations": "",
-    "long_description": "Char records your meetings without bots, pulls action items from your emails, and builds a daily note with everything you need to do. You review it, tick what's done, and hand off the rest to AI agents like Claude or Cursor. Open source.",
-    "one_liner": "AI daily notes from your meetings, emails, and tasks",
+    "long_description": "Char is a daily notepad that finishes your todos for you. Type a checkbox, and an agent picks it up — researching, drafting, or scheduling on your behalf. Stay in command. Char does the work.",
+    "one_liner": "The AI notepad that knows and works for you",
     "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B -> Productivity",
@@ -7102,7 +7113,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/90acd1189896151e269eca2dc0a6b15c7042d091.png",
     "website": "https://heyblue.com/",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "Everyone pays someone to handle the parts of their life that don't need them personally. The cleaner, the bookkeeper, the lawn service. Nobody could handle what lives in your phone. Until Blue.\r\n\r\nBlue is a small USB-C dongle and iPhone app. Plug it in and say what needs doing. The follow-up you haven't sent, the appointment you haven't booked, the reply you owe. Blue opens the right app, does the work, and tells you when it's done. You don't touch your phone.\r\n\r\nWorks with every app already on your iPhone. \r\n\r\nThe team brings complementary experience at scale: Omar Abdelaziz led Google Assistant’s transition to LLMs and holds one of earliest patents in LLM-based computer control; Peter Krogh spent decades designing voice-first dialog systems and was most recently a design lead at Google DeepMind building actions for Gemini Live; Muhammad Farhan Hossain helped ship Apple Vision Pro, is named on dozens of hardware/systems patents, and has led products from prototype to mass production.\r\n\r\nWe’ve built systems used by billions. Now we’re on to defining the next era of computing.",
     "one_liner": "Your phone finally has someone to run it. Plug in Blue, just ask.",
     "team_size": 6,
@@ -7124,6 +7135,8 @@
       "Consumer"
     ],
     "regions": [
+      "United States of America",
+      "America / Canada",
       "Remote",
       "Partly Remote"
     ],

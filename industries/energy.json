@@ -955,7 +955,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/99290b7945e22f2dcc0d8b0286db8221c37245e7.png",
     "website": "https://inbalanceresearch.com",
-    "all_locations": "Cambridge, MA, USA; Remote",
+    "all_locations": "CA, USA; Cambridge, MA, USA; Remote",
     "long_description": "We use machine learning to accurately forecast electricity prices. Our live customers, including Enel, use our software to improve revenue by millions of dollars per year.",
     "one_liner": "Electricity price forecasts for energy storage, ev charging, etc.",
     "team_size": 10,
@@ -1467,7 +1467,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/988eb2e2b20c2a99fe4d96b54932cdebea0632d4.png",
     "website": "https://www.astroenergy.ai/",
-    "all_locations": "",
+    "all_locations": "NY, USA",
     "long_description": "Astro finds and buys land for new renewable energy projects, secures grid connections at minimal cost, and sells these development-ready projects to larger energy companies. Founded by Alex Fuster, a former Citadel energy trader, Astro's AI models identify profitable grid connections that eliminate the surprise costs causing 80-90% of renewable projects to fail. With the U.S. needing 2,000 gigawatts of new power generation by 2035 for AI data centers and electrification, Astro unlocks development opportunities that traditional methods consistently miss.",
     "one_liner": "The world’s first AI energy developer",
     "team_size": 1,
@@ -1492,7 +1492,8 @@
       "Energy"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -1509,7 +1510,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2af0192d25e843e5333e635fa35115413fbca155.png",
     "website": "https://maritimefusion.com",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "Maritime Fusion is building fusion reactors for ships and off grid energy markets. En route on this endeavor we’re commercializing High Temperature Superconducting (HTS) cable technology for power distribution while advancing the physics basis of our HTS tokamak to decarbonize global shipping. \r\n\r\nBreakeven fusion is coming soon, but the first-of-a-kind (FOAK) reactors will be costly, high maintenance, and have low capacity factors, leading to 5–10x higher electricity cost on the grid. Maritime Fusion is pursuing the most widely accepted approach to fusion, the tokamak, but specifically designed for the marine environment where the challenges that arise between breakeven and a commercially viable energy source are alleviated. The market we're targeting requires 15x less power, lower up-time, and costs the same as alternative fuels but without any emissions. Since fusion does not use highly radioactive fuels or materials – unlike fission – we sidestep the vast majority of regulatory challenges and safety risks associated with nuclear energy. Our team brings over a decade of industry and research experience in plasma physics, nuclear engineering, and electrical engineering with backgrounds at SpaceX, Tesla, Columbia University, and University of Pennsylvania.",
     "one_liner": "Fusion reactors for ships",
     "team_size": 6,
@@ -1532,7 +1533,8 @@
       "Energy"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -1671,7 +1673,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8d6ce96c0e4a1cbd7e0458649e2af7fa551e2bfb.png",
     "website": "https://www.robodock.tech/",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "RoboDock builds robots that automate depot operations, like charging and vehicle checks, for electric and autonomous vehicle fleets. We turn fleet depots from manual sites into self-running systems that lower operational costs and increase vehicle uptime.",
     "one_liner": "Robots that run autonomous depots for autonomous fleets.",
     "team_size": 2,
@@ -1690,7 +1692,8 @@
       "Energy"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -1707,7 +1710,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5f32ec888cb2d0eee4fa5e89a1e14a8af2c2f61f.png",
     "website": "https://terranox.ai",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "Terranox is the first vertically integrated AI-powered uranium exploration company. We find high-grade uranium deposits in North America using AI trained on 70+ years of exploration outcomes. Our mission is to find the fuel we need to power the next century with nuclear energy.",
     "one_liner": "The first AI-powered uranium discovery company",
     "team_size": 2,
@@ -1726,7 +1729,8 @@
       "Energy"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,

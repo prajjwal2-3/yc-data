@@ -2457,7 +2457,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fa1669fc77240d5b136ed7eb12c167327e93c7e8.png",
     "website": "https://www.weaverobots.com",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "Making the world’s first personal robot that's built for the home.  Our robot, Isaac, will autonomously tidy up endless messes, fold laundry, and care for your home while you’re away, and we’re shipping our first 30 in fall of 2025.",
     "one_liner": "Personal robots for the home--that ship in 2025",
     "team_size": 10,
@@ -2476,7 +2476,8 @@
       "Manufacturing and Robotics"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -2715,7 +2716,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/55cc697d9f14eca5a5d45772ac14d97a83df16ae.png",
     "website": "https://bucket.bot",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "Bucket Robotics builds deployable computer vision systems for manufacturing — without labeling, long pilots, or fragile rules.\r\nWe turn CAD and sample data into production-ready vision models that run on existing cameras and edge hardware. No manual labeling. No cold-start problem. Models deploy in minutes and adapt as parts, defects, and lines change.\r\n\r\nOur roots are in self-driving cars (Argo AI, Uber ATG, Stack AV), where we learned how to ship perception systems that operators trust in messy, real-world environments. We’re applying that playbook to factories: robust sensing, fast iteration, and tooling engineers actually enjoy using.\r\n\r\nManufacturers struggle with inspection because parts are too variable for rules-based vision and too expensive to inspect by hand. Legacy systems are rigid, hardware-locked, and slow to customize. We take the opposite approach: software-first vision that fits into existing automation and scales across SKUs, facilities, and workflows.\r\n\r\nAmerican Manufacturing is in the middle of a $700B automation push — but quality is still a trust problem. Bucket Robotics is building the vision infrastructure that lets factories automate inspection with confidence.",
     "one_liner": "Defect detection for manufacturing built from CAD and synthetic data.",
     "team_size": 5,
@@ -2739,7 +2740,8 @@
       "Manufacturing and Robotics"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -2797,7 +2799,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f4e9ac60aa5b0583ce914c6dee2848e5b72c4b4f.png",
     "website": "https://www.reviserobotics.com/",
-    "all_locations": "",
+    "all_locations": "NY, USA",
     "long_description": "E-waste recycling facilities spend most of their time and effort sifting through discarded electronics, searching for valuable devices, refurbishing them, and reselling them in second-hand markets.\r\n\r\nOur first product is an AI-enabled robotic system that integrates with these facilities to assess and refurbish hundreds of laptops a day without any human intervention. The system tests laptops, wipes their hard drives, photographs them, and posts them on online marketplaces for resale, regardless of model, manufacturer, or operating system.",
     "one_liner": "Automating refurbishment of $1T in consumer electronics",
     "team_size": 3,
@@ -2820,7 +2822,8 @@
       "Manufacturing and Robotics"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": true,
@@ -2881,7 +2884,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/928589de1c658eafaba5d1b3f60eee04d58ffa36.png",
     "website": "https://pave-robotics.com",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "Pave Robotics builds robots that seal cracks in asphalt, helping paving companies save time and money. Our robots work 24/7 and deliver higher-quality results than humans.",
     "one_liner": "Robots that repair roads",
     "team_size": 3,
@@ -2900,7 +2903,8 @@
       "Manufacturing and Robotics"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -3000,7 +3004,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9bbd5c88222cf5eb971b76232ac40284413785f0.png",
     "website": "https://proception.ai/",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "",
     "one_liner": "Making humanoids dexterous enough to thread a needle",
     "team_size": 10,
@@ -3013,7 +3017,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Winter 2025",
     "status": "Active",
@@ -3022,7 +3026,8 @@
       "Manufacturing and Robotics"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -3390,7 +3395,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6077089b2820cf087e262d7c3ff9da8b9617d791.png",
     "website": "https://parametric.company/",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "Parametric builds autonomous physical businesses.\r\n\r\nWe're starting with a laundromat, designed from the ground up for autonomy. Dirty laundry in, folded clean laundry out.\r\n\r\nRather than retrofit human workflows with robots, we redesign processes with robots as first class citizens.",
     "one_liner": "Physical businesses that run themselves",
     "team_size": 7,
@@ -3409,7 +3414,8 @@
       "Manufacturing and Robotics"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -3895,7 +3901,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e234115139eb6fced2e2703ae2ba2ee2d691412c.png",
     "website": "https://www.onerobot.io/",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "One Robot builds simulation environments that are realistic to see and realistic to interact with, so robotics teams can train and evaluate robot policies without being bottlenecked by robot time.\r\n\r\nToday, improving a VLA often means more real-world hours: setting up the scene, running trials, resetting, and repeating. This loop is slow, expensive, and hard to scale. For example, material handling and manufacturing assembly tasks, models need far more training and evaluation data than teams can collect in the real world.\r\n\r\nWe use task-specific data to build world model-based simulation environments for hard manipulation tasks (for example, textiles and box folding). These environments help teams run more training and evals, find failure modes faster, and accelerate iteration on action policies with less dependence on real-world data collection and robot availability.\r\n",
     "one_liner": "World models for robot evals and training.",
     "team_size": 2,
@@ -3914,7 +3920,8 @@
       "Manufacturing and Robotics"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,

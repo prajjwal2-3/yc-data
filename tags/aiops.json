@@ -229,7 +229,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f860b32ddb9b39b9b1ae8c22f0c17f140dc5e9d4.png",
     "website": "https://www.mystic.ai/",
-    "all_locations": "London, England, United Kingdom",
+    "all_locations": "CA, USA",
     "long_description": "Mystic’s platform allows companies to easily and reliably deploy ML models on our serverless cloud or on their own infrastructure without requiring a team of MLOps engineers. With our Python SDK, data-scientists immediately get an endpoint from their own model, or any open-source models.\r\nOnce uploaded, our platform handles routing, multi-cloud scaling, caching, GPU optimization and other features to provide the ultimate ML inference platform.",
     "one_liner": "Low latency API to run and deploy ML models",
     "team_size": 11,
@@ -253,8 +253,8 @@
       "Infrastructure"
     ],
     "regions": [
-      "United Kingdom",
-      "Europe"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -550,7 +550,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6ea5429baf87f6ffc90d9204f3b44880844aead6.png",
     "website": "http://www.subscriptionflow.com",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "London; San Francisco, CA, USA",
     "long_description": "SubscriptionFlow is an AI-based customizable revenue management platform that helps SMBs optimize subscription revenue. It monitors user activity to identify customers at risk of churning and automatically alerts the sales team.\r\n\r\nFor example, eLearning/SaaS/Membership businesses require to monitor subscription usage to improve customer retention. Ecommerce/Magazine companies need to see the subscription trends to cross-sell and upsell products/services.\r\n",
     "one_liner": "AI based Customizable Subscription & Revenue Management Platform",
     "team_size": 9,
@@ -573,7 +573,9 @@
       "Sales"
     ],
     "regions": [
+      "United Kingdom",
       "United States of America",
+      "Europe",
       "America / Canada",
       "Remote",
       "Partly Remote"
@@ -1580,7 +1582,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f68c82dc13524e235198c783318ae1b1aa5d7432.png",
     "website": "https://laminar.sh",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "London",
     "long_description": "Laminar is open-source observability for AI agents. Trace complex workflows, replay and debug agent runs, and detect anomalies across trajectories at scale.",
     "one_liner": "Understand why your AI agent breaks. Iterate fast to fix it.",
     "team_size": 6,
@@ -1605,8 +1607,8 @@
       "Engineering, Product and Design"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "United Kingdom",
+      "Europe"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -1798,7 +1800,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/79bd0c6f85962c1282260ab60adb0462fdb87ec8.png",
     "website": "https://tensorpool.dev",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "Our CLI makes ML model training effortless - just describe your job, and we handle GPU orchestration and execution at half the cost of major cloud providers.",
     "one_liner": "Vercel For GPUs",
     "team_size": 3,
@@ -1823,7 +1825,8 @@
       "Infrastructure"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -1966,7 +1969,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3af9294b241ac810c538d00aea0a921d1229099f.png",
     "website": "https://mlop.ai",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "London",
     "long_description": "A fully open-source, performant and actionable Weights & Biases alternative that saves you money. \r\n\r\nCheck out our story here! https://www.reddit.com/r/mlopai/comments/1kkc9jp/mlopai_an_efficient_free_and_opensource/",
     "one_liner": "Experiment tracking for training ML models",
     "team_size": 2,
@@ -1989,8 +1992,8 @@
       "B2B"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "United Kingdom",
+      "Europe"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -2136,7 +2139,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/200fe1fa3e40bd9aed419582490f17ed6cf00c37.png",
     "website": "https://luminal.com",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "Luminal builds an ML framework and compiler that generates GPU code.\r\nOur stack 10x's model speed while simplifying deployment and cutting idle GPU costs\r\n\r\nGithub: https://github.com/luminal-ai/luminal\r\nDiscord: https://discord.gg/APjuwHAbGy",
     "one_liner": "Making AI run fast on any hardware.",
     "team_size": 3,
@@ -2160,7 +2163,8 @@
       "Infrastructure"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -2300,6 +2304,48 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/mount",
     "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/mount.json"
+  },
+  {
+    "id": 31516,
+    "name": "Expanse",
+    "slug": "expanse",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/26ca5cac6157441dd12d0352f7d3fd4a77c4c39a.png",
+    "website": "https://expanse.sh",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Expanse unlocks wasted GPU capacity. We recover idle compute through three capabilities: resource prediction (right-sizing job submissions before they reach the scheduler), optimisation suggestions (code and config changes researchers can apply themselves), and failure prediction (catching jobs that will fail before they consume hours of GPU time).\r\n\r\nWe’re four engineers. We ran HPC and GPU training workloads at the largest quant funds and national supercomputing centres. We faced this problem first hand and the only fix was to over-provision and burn millions. Ismaeel built the first multimodal HPC resource predictor as research at EPCC (Edinburgh’s Parallel Computing Centre), which beat every published baseline. This is the tool we wish we had.",
+    "one_liner": "Unlock wasted GPU capacity.",
+    "team_size": 4,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1777849866,
+    "tags": [
+      "AIOps",
+      "Developer Tools",
+      "Enterprise Software",
+      "Infrastructure"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/expanse",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/expanse.json"
   },
   {
     "id": 31545,

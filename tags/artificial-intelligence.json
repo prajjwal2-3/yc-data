@@ -47,7 +47,7 @@
     "former_names": [],
     "small_logo_thumb_url": "/company/thumb/missing.png",
     "website": "http://justspotted.com",
-    "all_locations": "Copenhagen, Denmark",
+    "all_locations": "CA, USA; Copenhagen, Denmark",
     "long_description": "The artist-formerly-known-as Scoopler is a real-time search engine. It aggregates and organizes content being shared on the Internet as it happens, like eye-witness reports of breaking news, photos and videos from big events, and links to the hottest memes of the day. It does this by constantly indexing live updates from services including Twitter, Flickr, Digg, Delicious and more. When users search for a topic on Scoopler, they get the most relevant results, updated in real-time.\n\nScoopler has now become JustSpotted, a celebrity-tracking tool, meant to give fans an idea of what their favorite celebrities are up to at any given moment. JustSpotted, like Scoopler, is a data-aggregator, yet JustSpotted collects from Twitter, Facebook, and Foursquare -- alongside their own data theyâ€™ll be collecting from users who actual spot celebrities in the wild. All the information we aggregate is publicly available and you can even do a search on Twitter yourself and find sightings of celebrities. We're just the first people to organize it on a map and in such a way that it's easy to consume and ENJOY.â€\n\nJustSpotted is about connecting with celebs. All the sightings on our website are naturally occurring events where an everyday person bumps into a celebrity as a chance occurrence. Back in the day, when you saw a celebrity while you were out and about the first thing you would have done was phone or text a friend. In the new age of social media, the first thing you do is share it on Facebook or Twitter. This phenomena is already happening.\n\nThe service, which launches the week of October 11, 2010, is the latest creation by AJ Asver, Dilan Jarawardane and Benjamin Tauber.",
     "one_liner": "Acquired by Google in 2011",
     "team_size": 2,
@@ -69,7 +69,9 @@
       "Content"
     ],
     "regions": [
+      "United States of America",
       "Denmark",
+      "America / Canada",
       "Europe"
     ],
     "stage": "Early",
@@ -1732,7 +1734,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b0e1a686e82d7baf1431c13fde889f55c35832d4.png",
     "website": "https://www.rankscience.com",
-    "all_locations": "New York, NY, USA; Remote",
+    "all_locations": "CA, USA; New York, NY, USA; Remote",
     "long_description": "RankScience is the #1 trusted agency to grow SEO traffic for venture-backed Silicon Valley startups to the Fortune 500.",
     "one_liner": "Automated SEO for Startups",
     "team_size": 16,
@@ -2085,7 +2087,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2ef928ade4bf8ee9ed7a1a6f031e860f272f0a2b.png",
     "website": "https://www.getscopeai.com",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "CA, USA; San Francisco, CA, USA",
     "long_description": "ScopeAI automates the process of communicating user insights to product and operation teams. The product leverages natural language processing (a form of AI) to extract insights from customer conversations. It integrates with existing support channels such as Zendesk, Intercom, Desk.com (salesforce) to automatically tag and analyze conversations for trends in customer feedback.",
     "one_liner": "Automatically extract valuable insights from customer service…",
     "team_size": 4,
@@ -2571,7 +2573,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/10887edbd9771d54d34bdf7780c6f3cda92e7366.png",
     "website": "https://www.assemblyai.com",
-    "all_locations": "San Francisco, CA, USA; Remote",
+    "all_locations": "NY, USA; Remote",
     "long_description": "Today’s top Voice AI companies rely on AssemblyAI’s speech-to-text and speech understanding models to launch groundbreaking products fast and to scale with ease.",
     "one_liner": "The best way to build Voice AI apps",
     "team_size": 65,
@@ -3283,7 +3285,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/24a1b10ecd88a95d991b58dfef7185c0450e3ce6.png",
     "website": "https://pointapi.com",
-    "all_locations": "Cambridge, MA, USA",
+    "all_locations": "NY, USA; Cambridge, MA, USA",
     "long_description": "Point stores things you send over and over again and helps you re-use them instantly.\r\n\r\nPoint can store ANYTHING, including long email templates, links, images, and emojis! When you want to re-send your pitch, support ticket resolution, or even just a Calendly link, Point makes it easy to find and reuse it so you never have to type it out again.\r\n\r\nNo need to search for your favorite emoticon anymore...¯\\_(ツ)_/¯\r\n\r\nInstall our Chrome Extension to use Point anywhere on the web: https://pointapi.com/chrome.",
     "one_liner": "Point stores things you send over and over again and helps you re-use…",
     "team_size": 5,
@@ -3765,7 +3767,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/94c28dea71127938b04b08e8639750865f5a274e.png",
     "website": "https://www.leena.ai",
-    "all_locations": "Redwood City, CA, USA; New Delhi, DL, India",
+    "all_locations": "NY, USA; New Delhi, DL, India",
     "long_description": "HR/IT/Finance professionals spend 50% of their time answering employees' questions and tickets. It’s even worse on the employee side, they have to wait for a long time for simple answers.\r\n\r\nWe are live with 500 customers like Coca-Cola, Sony, Puma, Vodafone, Nestle, P&G, Airbnb, etc. We have raised over $40M from top VCs like Bessemer, Greycroft, Elad Gil, etc.\r\n\r\nLeena AI consumes company’s enterprise knowledge & starts answering all employee questions just like a human would. It can even answer complex personalized questions like Why is my salary less this month?\r\n\r\nEmployees can access Leena AI from commonly used UIs like MS Teams or Slack.",
     "one_liner": "We at Leena AI build a virtual assistant that answers employee's…",
     "team_size": 500,
@@ -4083,7 +4085,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5aa6fac6d2489885ce08d4c58cabcc5b5a131c29.png",
     "website": "https://sapling.ai",
-    "all_locations": "San Francisco, CA, USA; Los Angeles, CA, USA",
+    "all_locations": "CA, USA; Los Angeles, CA, USA",
     "long_description": "Sapling offers an API and SDK to help businesses integrate language models into their applications. Its messaging assistant sits on top of CRMs and messaging platforms to help users more efficiently compose responses.",
     "one_liner": "Language models for enterprise applications.",
     "team_size": 2,
@@ -4130,7 +4132,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b31f0d2080bde9e9ace9229bae707bd4fc89619a.png",
     "website": "https://www.aiinsurance.io",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "NY, USA; San Francisco, CA, USA",
     "long_description": "AI Insurance is the platform that small-to-midsize insurance companies use to run every part of their business. Before we showed up, they used spreadsheets and filing cabinets – wasting as much as 60% of revenue on administrative expenses. We’re doing what Salesforce did for SMB sales teams, but we’re tapping into the over 10,000 insurance companies that waste $238 Billion dollars annually.",
     "one_liner": "AI Insurance is the platform that runs insurance companies",
     "team_size": 16,
@@ -7176,7 +7178,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5a386fb41df1dea72d053221119a74e5fb6e081b.png",
     "website": "https://www.fountain9.com",
-    "all_locations": "Mumbai, MH, India; San Francisco, CA, USA",
+    "all_locations": "CA, USA; San Francisco, CA, USA",
     "long_description": "Fountain9 is a predictive inventory planning solution. We help food brands and retailers reduce food wastage and improve product availability by predicting their future inventory needs. \r\n\r\nFood wastage is a global problem that has both financial and environmental costs. An estimated $1.3 Bn tonnes of food is wasted every year and 7 - 15% of that is because of mismanaged inventory. \r\n\r\nWe accurately predict future inventory imbalances which lead to out of stock situations or wastage, and also recommends best ways of minimising their impact. Our state of the art demand sensing and pricing engine takes into account several factors like historical sales trends, seasonality, holidays, markdown events and pricing changes to predict future inventory requirements and optimize prices. Predicted inventory demand is also aligned with supply side data to identify ideal suppliers and replenishment quantities that minimize chances of stock outs or inventory wastage.",
     "one_liner": "Helping food brands and retailers reduce food wastage",
     "team_size": 8,
@@ -7201,9 +7203,7 @@
       "Retail"
     ],
     "regions": [
-      "India",
       "United States of America",
-      "South Asia",
       "America / Canada"
     ],
     "stage": "Early",
@@ -8087,7 +8087,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0978b02398d2e208700132e4080e74a5adc8d662.png",
     "website": "https://taofi.com",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "",
     "one_liner": "The financial layer for decentralized AI",
     "team_size": 11,
@@ -8108,7 +8108,8 @@
       "Fintech"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -8587,7 +8588,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f860b32ddb9b39b9b1ae8c22f0c17f140dc5e9d4.png",
     "website": "https://www.mystic.ai/",
-    "all_locations": "London, England, United Kingdom",
+    "all_locations": "CA, USA",
     "long_description": "Mystic’s platform allows companies to easily and reliably deploy ML models on our serverless cloud or on their own infrastructure without requiring a team of MLOps engineers. With our Python SDK, data-scientists immediately get an endpoint from their own model, or any open-source models.\r\nOnce uploaded, our platform handles routing, multi-cloud scaling, caching, GPU optimization and other features to provide the ultimate ML inference platform.",
     "one_liner": "Low latency API to run and deploy ML models",
     "team_size": 11,
@@ -8611,8 +8612,8 @@
       "Infrastructure"
     ],
     "regions": [
-      "United Kingdom",
-      "Europe"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -11062,7 +11063,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/cb773861a8ee7d9c8f9ea1ad72eeeb3cc4a2283e.png",
     "website": "http://tigereye.com/",
-    "all_locations": "Remote",
+    "all_locations": "CA, USA; Remote",
     "long_description": "TigerEye eliminates bullsh*t so construction professionals can focus\r\non building the infrastructure that makes our world work\r\n",
     "one_liner": "AI for Construction",
     "team_size": 30,
@@ -11085,6 +11086,8 @@
       "Construction"
     ],
     "regions": [
+      "United States of America",
+      "America / Canada",
       "Remote",
       "Fully Remote"
     ],
@@ -12327,7 +12330,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0b052c26e0beb63cd2a5aef297f7855da685f8dc.png",
     "website": "http://www.goodfin.com",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "CA, USA",
     "long_description": "GoodFin is reimagining private wealth in the era of AI. Our mission is to empower a new generation to build wealth, starting with their investments in alternative assets. \r\n\r\nOur AI-native platform combines a design-forward experience with a backend powered by a system of intelligent agents. We are building a future where AI unlocks financial hyperpersonalization, automation and optimization for sophisticated financial products, which are typically gated by advisors and reserved for very wealthy clients. This highly fragmented $1.25T global services market will undergo a sea change in the coming years, as trillions pass in the largest intergenerational wealth transfer to date.  \r\n\r\nIn a world where most financial decisions will become automated, we believe the next category-defining wealth company will still be human-driven at its core – powered by a high-value community like our membership base of professionals, founders and investors. The next generation financial giant will be an AI-native platform that makes wealth creation seamless, personalized, and social. That’s what we’re building.",
     "one_liner": "Building the next generation of wealth",
     "team_size": 8,
@@ -13186,6 +13189,51 @@
     "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2022/whitelab-genomics.json"
   },
   {
+    "id": 26662,
+    "name": "Paces",
+    "slug": "paces",
+    "former_names": [
+      "Paces AI"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a92cafe33d123a85f38886d7af1f5aa33cbfd033.png",
+    "website": "https://paces.com",
+    "all_locations": "New York, NY, USA",
+    "long_description": "Energy demand is skyrocketing, and renewable energy is the most scalable path forward. But today’s development process can’t move fast enough to meet global goals.\r\n\r\nPaces exists to change that. We are building AI agents, software and services to accelerate power and data center deployment and lower costs - unlocking one of the greatest opportunities of our time: transforming how infrastructure gets built and ensuring it’s built with renewable energy.\r\n\r\nPaces automates early-stage due diligence and provides the expertise to accelerate late-stage diligence, fast-tracking projects from siting to construction-ready. Our platform supports renewable energy and data center developers, real estate firms, and more by streamlining siting, interconnection, and permitting. With Paces, teams can de-risk decisions, shorten timelines, and get more renewable energy projects built.",
+    "one_liner": "Agentic AI for Power Projects and AI Infrastructure",
+    "team_size": 40,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Climate",
+    "launched_at": 1654191081,
+    "tags": [
+      "Artificial Intelligence",
+      "Proptech",
+      "Climate",
+      "Energy",
+      "Automation"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2022",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Climate"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Growth",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/paces",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2022/paces.json"
+  },
+  {
     "id": 26668,
     "name": "Elessar",
     "slug": "elessar",
@@ -13797,7 +13845,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Summer 2022",
     "status": "Active",
@@ -13914,6 +13962,52 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/unify",
     "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2023/unify.json"
+  },
+  {
+    "id": 26851,
+    "name": "Mistle",
+    "slug": "mistle",
+    "former_names": [
+      "Ajourney",
+      "Zapi"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d57b2b10c7e35a1990c9ac0bf09d58abdb4ff9d5.png",
+    "website": "https://mistle.dev",
+    "all_locations": "Singapore, Singapore; Remote",
+    "long_description": "Mistle is an open-source platform for orchestrating sandboxed coding agents in engineering workflows. It provides credential brokering so agents can access tools without direct access to secrets.",
+    "one_liner": "Open source platform for automating sandboxed coding agents",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1654527668,
+    "tags": [
+      "Artificial Intelligence",
+      "B2B",
+      "Open Source"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2022",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "Singapore",
+      "Southeast Asia",
+      "Remote",
+      "Fully Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/mistle",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2022/mistle.json"
   },
   {
     "id": 26859,
@@ -14879,7 +14973,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7c4e725df0c7bd2ece41618fab3a7e4124841d58.png",
     "website": "http://invisionmedtech.com/",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "At InVision, we use AI to help streamline the interpretation of ultrasounds and identify diseases that may have been missed by human readers. Our models have been tightly integrated into the clinical workflow to allow easy usage by clinicians. Our work has previously been peer-reviewed and published in several top medical venues, including Nature (2020), Nature Medicine (2021), Lancet Digital Health (2021), JAMA Cardiology (2022). Results from our blinded and randomized clinical trial on evaluating cardiac function have also been recently presented as a Late Breaking Clinical Trial at the European Society of Cardiology.",
     "one_liner": "AI Diagnosis of  Heart Disease",
     "team_size": 2,
@@ -14901,6 +14995,8 @@
       "Healthcare"
     ],
     "regions": [
+      "United States of America",
+      "America / Canada",
       "Remote",
       "Partly Remote"
     ],
@@ -15554,7 +15650,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/dcbaa3bb5c44063d7f8556a66262b6a2852f72aa.png",
     "website": "https://www.joinbackdrop.com",
-    "all_locations": "",
+    "all_locations": "WA, USA",
     "long_description": "",
     "one_liner": "Building what’s next with AI.",
     "team_size": 2,
@@ -15577,6 +15673,8 @@
       "B2B"
     ],
     "regions": [
+      "United States of America",
+      "America / Canada",
       "Remote",
       "Partly Remote"
     ],
@@ -15693,7 +15791,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f8a08dbc0e0067d1983b3b85b2e3893f29d7f41f.png",
     "website": "https://www.pairai.com/",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "NY, USA",
     "long_description": "Pair AI is Shopify for knowledge products. We empower creators, educators, and experts to launch addicting mobile-first video courses and provide AI-assisted coaching services at scale. Our platform is a one-stop shop to seamlessly monetize what you know! We make learning as fun and engaging as watching a TikTok.",
     "one_liner": "Reimagining education with short form video and AI",
     "team_size": 2,
@@ -16198,7 +16296,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/be25b5e55711ba973cd7f6c514b56a10ab3da20e.png",
     "website": "https://gooseworks.ai/",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "Goose is an AI coworker that can do real GTM work. Goose can find high-signal leads, run your SEO, run outbound campaigns, track competitors, pull marketing reports, manage your CRM and much more.\r\n\r\nGoose has its own filesystem, memories, mailbox and accounts. You can talk to Goose from Slack, Telegram, mail or anywhere just like any other coworker, and ask it to get work done.",
     "one_liner": "OpenClaw-style AI coworkers for GTM teams",
     "team_size": 5,
@@ -16223,6 +16321,8 @@
       "Marketing"
     ],
     "regions": [
+      "United States of America",
+      "America / Canada",
       "Remote",
       "Partly Remote"
     ],
@@ -16519,7 +16619,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4b3a15112db36cea4190b3079ddeba5278c19f7f.png",
     "website": "https://booth.ai",
-    "all_locations": "Remote",
+    "all_locations": "CA, USA; Remote",
     "long_description": "Booth AI enables companies to supercharge their creative output with a generative-AI powered image production platform. Booth AI replaces complicated, labor intensive, time consuming and expensive commercial product lifestyle photoshoots. Brand managers, merchandisers, and marketers can produce beautiful lifestyle images in a matter of seconds at a fraction of the cost of traditional photoshoots.",
     "one_liner": "Generative AI Photographer for E-Commerce",
     "team_size": 3,
@@ -16544,6 +16644,8 @@
       "Retail"
     ],
     "regions": [
+      "United States of America",
+      "America / Canada",
       "Remote",
       "Fully Remote"
     ],
@@ -16974,7 +17076,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c88fa9e34c4a724f42d4470f0b3d2c1bd0ae22cd.png",
     "website": "https://gethipposcribe.com",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "Burdensome documentation is the #2 reason causing burnout for physical therapists. More than half of all physical therapists have to write documentation in their free time without pay. up to 2 hours a day. \r\n\r\nOur AI Scribe listens, generate first draft of clinical documentation in minutes, and sync reviewed documentation to EMR in 2 seconds. With us, clinicians can finish documentation 70% faster and become happier. ",
     "one_liner": "AI assisted documentation for PT/OT/SLP",
     "team_size": 2,
@@ -16998,7 +17100,8 @@
       "Healthcare"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -17516,7 +17619,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c618208d2cb852eeff16409fb7e787701c395b91.png",
     "website": "https://www.rex.fit",
-    "all_locations": "Zürich, ZH, Switzerland",
+    "all_locations": "CA, USA",
     "long_description": "The DROP by Rex.Fit is an AI wearable camera that automates nutrition tracking using computer vision. It has garnered more than 93k USD in preorders (~450 units) since its launch last month. The nutrition estimation and recommendation tech behind the DROP is already integrated as an API for fitness chains, generating hundreds of thousands of dollars in yearly revenue for them. The DROP is built by brothers, sports nutritionists and computer vision engineers from the Swiss Federal Institute of Technology (ETH Zurich).",
     "one_liner": "Automating nutrition tracking.",
     "team_size": 2,
@@ -17540,8 +17643,8 @@
       "Consumer"
     ],
     "regions": [
-      "Switzerland",
-      "Europe"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -18274,7 +18377,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b2f7a8dffc7dc8a6fdb4c13dce765cc7d2820b9a.png",
     "website": "https://www.deasylabs.com/",
-    "all_locations": "",
+    "all_locations": "NY, USA",
     "long_description": "Deasy Labs was acquired by Collibra in July 2025 (global leader in enterprise data governance).\r\n\r\nDeasy Labs provides metadata orchestration for AI workflows. Deasie's platform provides the best way for AI teams to create and embed high-quality, customized metadata into their AI workflows (e.g., RAG, Agentic frameworks).\r\n\r\nOur three founders (from Amazon, McKinsey/QuantumBlack & MIT) previously built an ML data governance tool from 0 to 1 within McKinsey, which we deployed with 11 Fortune 500 companies. We saw in early 2023 the ability to create high-quality metadata (without reliance on domain experts) would be a key factor in achieving the accuracy & speed in GenAI applications required for production.  \r\n\r\nOur investors include General Catalyst, Y Combinator, RTP Global and world experts in enterprise data. Website: https://deasylabs.com",
     "one_liner": "Metadata for GenAI workflows",
     "team_size": 8,
@@ -18299,7 +18402,8 @@
       "Analytics"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -18586,7 +18690,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9d0fae4f448de789e718cb96878197c7ecc29e2f.png",
     "website": "https://getcore.me",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "Bengaluru",
     "long_description": "CORE is your AI personal assistant that learns who you are, connects to your apps, and does the work before you ask. \r\n\r\nOpen source. Self-hostable. Fully yours.",
     "one_liner": "Your AI butler that understands you really well and proactively acts…",
     "team_size": 3,
@@ -18610,8 +18714,8 @@
       "Productivity"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "India",
+      "South Asia"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -18760,7 +18864,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2e2a3ced5969028060bbaaf152193b5b6a2b3982.png",
     "website": "https://alguna.com",
-    "all_locations": "San Francisco, CA, USA; Remote",
+    "all_locations": "London; Remote",
     "long_description": "We are Alguna, building a modern platform that helps B2B companies price deals, send quotes, bill customers, and collect payments - all in one place.\r\n\r\nOur mission is to create the most efficient revenue engine for B2B SaaS.\r\n\r\nToday, many companies run these processes with spreadsheets and a patchwork of separate tools. That leads to slow approvals, manual work, mistakes, and missed revenue—especially as pricing gets more complex.\r\n\r\nAlguna replaces that mess by connecting the entire flow from **quote to cash**: what sales sells becomes what finance bills, automatically. We help teams automate invoicing, handle usage-based or custom pricing, and reduce back-and-forth between sales, finance, and engineering.\r\n\r\nThe result: growth-stage startups and enterprises can close deals faster, bill accurately, and scale revenue operations without adding headcount or building internal systems.\r\n",
     "one_liner": "AI-Native CPQ & Billing for Modern Pricing Models",
     "team_size": 10,
@@ -18785,8 +18889,8 @@
       "Finance and Accounting"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada",
+      "United Kingdom",
+      "Europe",
       "Remote",
       "Fully Remote"
     ],
@@ -18890,7 +18994,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e638279869f7de4ca5752835249b8d2c8711f432.png",
     "website": "https://www.arcimus.com/",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "NY, USA",
     "long_description": "We send founders and recruiting teams  a steady flow of engineers filtered with real engineering judgment.",
     "one_liner": "A stream of engineering candidates who ship.",
     "team_size": 2,
@@ -20306,7 +20410,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/174cf352bddd34701bef4a958ce1e21e7d49de3d.png",
     "website": "https://www.cairhealth.com/",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "Cair Health empowers billing companies, care management platforms, EHRs, offshore BPOs, provider groups, and specialty pharmacies with AI-driven RCM solutions.  Our suite of AI Agents helps RCM teams streamline operations, reduce manual costs, and improve consistency—while maintaining full control over core workflows. Cair is trusted by 100+ practices across the country — including iconic VC-backed digital health startups, leading specialty EHRs, and some of the largest billing companies and BPOs\r\n\r\nBacked by Y Combinator, Foundation Capital, Soma Capital, Translink Capital & many others.. ",
     "one_liner": "AI Agents for Healthcare RCM",
     "team_size": 6,
@@ -20331,7 +20435,8 @@
       "Healthcare IT"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -21083,7 +21188,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4967676cdc6058f952822347fafe9d59a61218fb.png",
     "website": "https://autotab.com",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "Autotab is a drop-in AI knowledge worker that uses a mouse and keyboard like you—so anything you can do, it can do. Show it how to perform your task, train it to be hallucination-proof by adding examples and providing feedback, and then run it on demand or on a schedule—either locally or in the cloud.\r\n \r\n\r\nIt achieves superhuman reliability, and can scale up on demand so your team doesn’t have to.\r\n \r\n\r\nAutotab is already handling complex tasks thousands of steps long, from messaging customers to triggering payments and updating data across core systems of record like Salesforce, HubSpot, Google Sheets, and Jira.\r\n\r\n \r\nDownload the beta version of the app and get started right away, or sign up for a personalized onboarding: https://www.autotab.com",
     "one_liner": "AI agents reliable enough to do real work",
     "team_size": 2,
@@ -21107,7 +21212,8 @@
       "Productivity"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -21683,7 +21789,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e3b41376c050a81aa43255efe358aa957a6f6369.png",
     "website": "https://happenstance.ai",
-    "all_locations": "Remote",
+    "all_locations": "CA, USA; Remote",
     "long_description": "Happenstance is people search powered by AI.\r\n\r\nFor example, you ask Happenstance \"find people who work on notification systems at big companies\", and it comes back with two who follow you on Twitter and five who are connected to your partners. That kind of thing you just can't do on LinkedIn.",
     "one_liner": "People search powered by AI",
     "team_size": 3,
@@ -21703,6 +21809,8 @@
       "Consumer"
     ],
     "regions": [
+      "United States of America",
+      "America / Canada",
       "Remote",
       "Fully Remote"
     ],
@@ -21932,48 +22040,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/poka-labs",
     "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2024/poka-labs.json"
-  },
-  {
-    "id": 29253,
-    "name": "Andon Labs",
-    "slug": "andon-labs",
-    "former_names": [
-      "Vectorview"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7330cbaf802a2b7ccf2d046a09809940eb0d1050.png",
-    "website": "https://andonlabs.com/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Safety from humans in the loop is a mirage. We evaluate, research, and apply AI control in our own real-world deployments of autonomous organizations.\r\n\r\nWe are building the Safe Autonomous Organization. We iteratively launch and scale autonomous organizations, while bridging AI control research with real-world testing.",
-    "one_liner": "Autonomous organizations without humans in the loop",
-    "team_size": 9,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1699380174,
-    "tags": [
-      "Artificial Intelligence",
-      "Machine Learning"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2024",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/andon-labs",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2024/andon-labs.json"
   },
   {
     "id": 29254,
@@ -23038,7 +23104,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/201884765e11baf051338d72f6f2e7ead2bb1fa1.png",
     "website": "https://www.tamarind.bio",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "Tamarind Bio is a website and API which allows scientists to use computational biology tools at scale using a simple interface. On Tamarind, scientists can use ML models like AlphaFold to design and simulate molecules by simply selecting inputs instead of or setting up a high performance computing environment or dealing with DevOps.\r\n\r\n\r\nTamarind is used by tens of thousands researchers in large pharma companies, top biotechs, and academic institutions.",
     "one_liner": "AI Inference Platform for Drug Discovery",
     "team_size": 15,
@@ -23062,7 +23128,8 @@
       "B2B"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Growth",
     "app_video_public": false,
@@ -23299,7 +23366,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b5e800727a4c7a60598b63b6fc7236d263fae085.png",
     "website": "https://firebender.com",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "Firebender is the most powerful coding agent for Android engineering. \r\n\r\nOne-click install from the IntelliJ plugin marketplace to your IDE. It has context over your codebase and lets you use the best models for asking questions, debugging code, and writing full features.\r\n\r\nUnlike other AI assistants, Firebender has access to the emulator, compose previews, and LSP tools like finding usages, renaming variables/functions. It continuously stays up to date with the latest Android SDKs, libraries, and best practices, providing more accurate and relevant assistance for Android development.",
     "one_liner": "Most powerful coding agent for Android engineers",
     "team_size": 1,
@@ -23321,7 +23388,8 @@
       "Engineering, Product and Design"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -23480,7 +23548,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/825caa6d8502745ed1854595552f4f7f1091bb3e.png",
     "website": "https://ellipsis.dev",
-    "all_locations": "",
+    "all_locations": "NY, USA",
     "long_description": "Ellipsis will help your team merge code 13% faster.\r\n\r\nEllipsis is an AI developer tool that automatically reviews code and fixes bugs on pull requests. It uses LLM agents to catch logical errors, security issues, and can even enforce a team's style guide.\r\n\r\nThe coolest part is that after Ellipsis identifies an issue, developers can tag @ellipsis-dev to have Ellipsis implement the fix. Internally, Ellipsis actually executes the code it generates, just like a human does.\r\n\r\nAs a result, we allow developers to generate working, tested code directly from GitHub/GitLab. ",
     "one_liner": "AI code reviews & bug fixes",
     "team_size": 2,
@@ -23504,7 +23572,8 @@
       "Engineering, Product and Design"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -23617,7 +23686,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/62ebbbabf82f9c9badd0bbcb60f8749d391d5a78.png",
     "website": "https://www.preloop.com",
-    "all_locations": "",
+    "all_locations": "WA, USA",
     "long_description": "Only 2 out of 10 ML models make it from experiment to production. Preloop helps automate the process of deployment, helping companies realize more value from their machine learning teams, while focusing teams' attention on science instead of engineering.",
     "one_liner": "Translate your experimental scripts into production ML services",
     "team_size": 2,
@@ -23642,7 +23711,8 @@
       "Engineering, Product and Design"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -23980,7 +24050,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/020f142d48a9efde3733971776a68c441557dfe7.png",
     "website": "https://getdiana.com/",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "The first business-ready OpenClaw platform. A secure AI assistant embedded directly into Slack.",
     "one_liner": "Give Your Employee An Employee",
     "team_size": 7,
@@ -24004,6 +24074,8 @@
       "B2B"
     ],
     "regions": [
+      "United States of America",
+      "America / Canada",
       "Remote",
       "Partly Remote"
     ],
@@ -25118,6 +25190,49 @@
     "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2024/voxops-ai.json"
   },
   {
+    "id": 29505,
+    "name": "Tower",
+    "slug": "tower",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/71c566f418e6fe3b2b2aa396c65f6feec1bfc40f.png",
+    "website": "https://withtower.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Tower accelerates transactional due diligence via an AI-powered, centralized diligence platform. By consolidating disparate diligence workflows, Tower helps deal teams stay organized, spot issues earlier, and close deals faster.",
+    "one_liner": "M&A due diligence platform powered by AI",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B -> Legal",
+    "launched_at": 1715707959,
+    "tags": [
+      "Artificial Intelligence",
+      "Workflow Automation",
+      "Legal",
+      "LegalTech",
+      "AI Assistant"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2024",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Legal"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": true,
+    "url": "https://www.ycombinator.com/companies/tower",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2024/tower.json"
+  },
+  {
     "id": 29507,
     "name": "kater.ai",
     "slug": "kater-ai",
@@ -25435,7 +25550,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fbd00107f697b5f5493bc13c93f8896ad8eff46b.png",
     "website": "http://superunit.ai",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "CA, USA",
     "long_description": "Superunit deploys AI voice and email agents to complete employment verifications for background check companies—faster, cheaper, and more compliant than internal teams or outsourced call centers.\r\n\r\nOur agents call and email employers, collect verification data, and log every interaction for audit and compliance. Customers are replacing manual workflows with Superunit to scale without adding headcount or compromising quality.\r\n\r\nWe work with background screeners and banks to process thousands of verifications per month.",
     "one_liner": "Faster, more profitable background checks with AI",
     "team_size": 2,
@@ -25617,7 +25732,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/069321145273b85ba7d87787840c61562c041b8f.png",
     "website": "https://www.prohost.ai/",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "NY, USA",
     "long_description": "ProhostAI is building an AI Property Manager for short-term rental hosts on Airbnb and other platforms. Our team consists of an ex-Airbnb Staff Data Scientist and Dropbox Sr Software Engineer who are also Superhosts with 9 properties worth $15M making $1.5M/yr.",
     "one_liner": "AI Property Manager for Airbnb & Short-Term Rental Hosts",
     "team_size": 5,
@@ -26499,7 +26614,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c195f1e4be073ff23e0e95a7e8dd2dbdc94e086e.png",
     "website": "https://tivara.com",
-    "all_locations": "",
+    "all_locations": "NY, USA",
     "long_description": "",
     "one_liner": "The AI workforce for medical groups",
     "team_size": 2,
@@ -26522,7 +26637,8 @@
       "Healthcare"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -27029,7 +27145,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/061e173be11210d3cca9f1b51ba89c7c5255750b.png",
     "website": "https://overstandlabs.com",
-    "all_locations": "",
+    "all_locations": "NY, USA",
     "long_description": "Overstand is a data lab that allows our customers to navigate any set of data in just a few minutes.\r\n\r\n*Enterprise*: For enterprises, we we unify Slack, email, calls, and operational data, then surface the signals that matter — customer needs, risks, and revenue opportunities hidden in everyday conversations.\r\n\r\n*Legal Firms*: For legal firms, we help them really quickly understand their entire discovery corpus (either before, or after document review), and quickly build out an initial case assessment and facts.\r\n\r\nInstead of waiting on reports or manual analysis, teams get immediate, evidence-backed answers from the data they already have. Overstand delivers clarity and leverage as your business scales.",
     "one_liner": "Navigate any set of data - no matter how large - in minutes.",
     "team_size": 4,
@@ -27054,7 +27170,8 @@
       "Analytics"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -27649,7 +27766,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4c3ccc32c3cef12a79c45aceb7aa532c954f0602.png",
     "website": "https://www.brighterway.ai/",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "At Brighterway, we use AI to speed up the medical record review process in the Workers' Compensation Industry. Physicians and claims handlers spend hours reviewing thousands of pages of medical documents– our technology highlights the information that is most relevant to a doctor's specialty or a given injury, streamlining their review process and saving them time.\r\n\r\nBrighterway structures and deduplicates disorganized medical records (PDFs) and extracts the content that is medically relevant and related to a given claim, so they can focus on what matters most.",
     "one_liner": "Streamlining the medical record review process in workers comp",
     "team_size": 14,
@@ -27674,7 +27791,8 @@
       "Healthcare IT"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -28488,7 +28606,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/447ef3f5bdd55f339b07fe098ff620ccfd86af36.png",
     "website": "https://rastro.ai",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "London",
     "long_description": "We help distributors and manufacturers turn catalog chaos into launch-ready products. Share vendor data, pull online specs and pricing, fuzzy match to your database, generate images, and output products in your exact schema.",
     "one_liner": "The fastest way to launch product catalogs.",
     "team_size": 3,
@@ -28512,8 +28630,8 @@
       "Retail"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "United Kingdom",
+      "Europe"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -28658,7 +28776,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8e0caa2cad35d6f34cdbfbf4ac96d85d2f1a09ca.png",
     "website": "https://trykeet.com",
-    "all_locations": "",
+    "all_locations": "NY, USA",
     "long_description": "Keet provides authentication for AI agents. Developers use us to connect their customers accounts and perform actions on their behalf. \r\n\r\nWhether it be legacy software or consumer sites, Keet manages your users authenticated sessions and provides stable integrations on any web platform. Now your AI Agent can access healthcare data or send automated messages on LinkedIn via Keet’s API or SDK.",
     "one_liner": "Authentication for AI Agents",
     "team_size": 2,
@@ -28680,7 +28798,8 @@
       "B2B"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -28957,47 +29076,6 @@
     "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2024/affil-ai.json"
   },
   {
-    "id": 29983,
-    "name": "PathPilot",
-    "slug": "pathpilot",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e75c7444d35c6b426ac80829e6ed40b07d33577d.png",
-    "website": "https://www.getpathpilot.com/",
-    "all_locations": "San Jose, CA, USA",
-    "long_description": "Today, onboarding, servicing, and collections still depend on large human teams — which means operations scale linearly with loan volume. PathPilot deploys specialized AI agents that handle 60–80% of high-volume operational workflows, turning human-heavy processes into scalable software. These agents operate alongside internal teams — embedded directly into existing systems. This allows lenders to grow loan volume and revenue without proportional headcount growth. ",
-    "one_liner": "AI Agents for Lending Operations",
-    "team_size": 3,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1724891975,
-    "tags": [
-      "Artificial Intelligence",
-      "Finance",
-      "B2B",
-      "Lending"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Summer 2024",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/pathpilot",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2024/pathpilot.json"
-  },
-  {
     "id": 29987,
     "name": "Syntra",
     "slug": "syntra",
@@ -29041,50 +29119,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/syntra",
     "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2024/syntra.json"
-  },
-  {
-    "id": 29989,
-    "name": "Conductor",
-    "slug": "conductor",
-    "former_names": [
-      "BookMe",
-      "Melty",
-      "Chorus"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2cd38e31ad4112f27dcddd9c52ef2f8fc0e2fbab.png",
-    "website": "https://conductor.build",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Run parallel agents in isolated workspaces. See at a glance what they’re working on, then review and merge their changes. ",
-    "one_liner": "Run a team of coding agents on your Mac",
-    "team_size": 4,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1725301012,
-    "tags": [
-      "Artificial Intelligence",
-      "Developer Tools"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Summer 2024",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Growth",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/conductor",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2024/conductor.json"
   },
   {
     "id": 29990,
@@ -30580,7 +30614,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/41da0485e955f2070020b3fb65cf8716d346525e.png",
     "website": "https://www.vocalityhealth.com",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "Our app allows doctors to speak any language, eliminating the need for human medical translators in hospitals and clinics. Despite spending billions on in-person and remote translators—mostly through outdated call centers—hospitals still fail to provide adequate care for non-English-speaking patients.\r\n\r\nWe're building the most accurate and compliant medical language translation system across voice and video modalities. ",
     "one_liner": "Voice AI for medical language translation",
     "team_size": 2,
@@ -30603,7 +30637,8 @@
       "Healthcare Services"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -31093,7 +31128,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a3e4d26d964f7e9e8a081b6c3ec2ddad6bb65119.png",
     "website": "https://cardamon.ai/",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "London",
     "long_description": "Cardamon is an AI powered platform that ingests relevant regulation, understands what applies to each regulated financial firm, and gets compliance officers from regulation, to obligations, to product requirements in minutes - not weeks.\r\n\r\nFinancial firms face a host of complex regulations that make it incredibly painful to launch and maintain products in a compliant way. As a Product team at Revolut, we felt this pain deeply ourselves - we had products ready to launch but stuck in compliance limbo, often for weeks. Turns out, getting compliant took as long as building the product itself. \r\n\r\nFrustrated, we dug in and were shocked by how manual and inefficient the processes were. That’s when it clicked: there’s a huge opportunity to automate the boring stuff (and solve our own problem!). Compliance teams win because they ditch the tedious tasks. Product teams win because they ship faster. Everyone’s happy.",
     "one_liner": "AI compliance co-pilot for regulated financial businesses",
     "team_size": 2,
@@ -31117,8 +31152,8 @@
       "Finance and Accounting"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "United Kingdom",
+      "Europe"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -31223,7 +31258,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0e0e653e5da051b7c87a56070249ad76479b0594.png",
     "website": "https://osmosis.ai/",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "Osmosis helps companies use reinforcement learning to fine-tune open source models that outperform foundation models. ",
     "one_liner": "Reinforcement Learning (RL) for AI Agents",
     "team_size": 6,
@@ -31246,7 +31281,8 @@
       "B2B"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -31959,7 +31995,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/94cd00784e37842fc455ee2fd7b22d487b0693cf.png",
     "website": "https://exla.ai/",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "Exla aggressively quantizes AI models to minimize memory usage and maximize inference speed. Whether you're deploying LLMs, VLMs, VLAs, or custom models, Exla reduces memory footprint by up to 80% and accelerates inference by 3–20x - all with just a few lines of code.\r\n\r\nhttps://cal.com/exla-ai/schedule",
     "one_liner": "An SDK to run transformer models anywhere",
     "team_size": 2,
@@ -31982,7 +32018,8 @@
       "Engineering, Product and Design"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -32299,7 +32336,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9bbd5c88222cf5eb971b76232ac40284413785f0.png",
     "website": "https://proception.ai/",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "",
     "one_liner": "Making humanoids dexterous enough to thread a needle",
     "team_size": 10,
@@ -32312,7 +32349,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Winter 2025",
     "status": "Active",
@@ -32321,7 +32358,8 @@
       "Manufacturing and Robotics"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -32680,6 +32718,50 @@
     "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2025/blaxel.json"
   },
   {
+    "id": 30406,
+    "name": "BitBoard",
+    "slug": "bitboard",
+    "former_names": [
+      "Realm"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/74d921a27f5f4254a29834c03d8bfeb6cd8b878c.png",
+    "website": "https://bitboard.work/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Data analysis with AI agents is great until you realize you want to set up a recurring report or collaborate with your team. We built an agent-first workbook so you don’t have to roll your own dashboards or fumble around in a rigid BI tool.\r\n\r\nConnect your agent of choice to BitBoard and it can generate connected charts, SQL, code, and commentary in a notebook-style UI you can share with your team.",
+    "one_liner": "Let your agent build dashboards and reporting.",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Analytics",
+    "launched_at": 1746992332,
+    "tags": [
+      "Artificial Intelligence",
+      "B2B",
+      "Analytics",
+      "Data Visualization"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Analytics"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/bitboard",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2025/bitboard.json"
+  },
+  {
     "id": 30407,
     "name": "Golf",
     "slug": "golf",
@@ -32862,7 +32944,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ec7731d8a7139472d0383a52014ff67683cdac5c.png",
     "website": "https://www.chonkie.ai",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "Chonkie builds deep research agents that surface non-obvious signals from scattered data. Our agents combine public and private sources to deliver detailed, continuously updated research that stays current as underlying facts change.\r\n\r\nWe open source most of the libraries and infrastructure we build. Our most popular library, Chonkie, handles chunking and embedding for AI applications with 100K downloads/day and adoption by OpenAI, Microsoft, and LlamaIndex.",
     "one_liner": "Deep research on autopilot",
     "team_size": 2,
@@ -32885,7 +32967,8 @@
       "Engineering, Product and Design"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -33034,46 +33117,6 @@
     "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2025/clarm.json"
   },
   {
-    "id": 30440,
-    "name": "Sim",
-    "slug": "sim",
-    "former_names": [
-      "Sim Studio"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d30a05126efbe52d99aaa0a58ec1be0f2e4ae855.png",
-    "website": "https://sim.ai",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Sim enables fast-growing technical teams to build and deploy AI agent workflows. \r\n\r\n70,000+ developers are already using Sim, integrating with 1000+ apps and LLMs to streamline workflows with AI agents.",
-    "one_liner": "Open source platform to build AI agent workflows",
-    "team_size": 5,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1746478234,
-    "tags": [
-      "Artificial Intelligence"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Spring 2025",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/sim",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2025/sim.json"
-  },
-  {
     "id": 30444,
     "name": "Percival",
     "slug": "percival",
@@ -33164,7 +33207,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1da0f5ca2648eccf749e97a890ad3887f0dc7eb7.png",
     "website": "https://getbluejay.ai/",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "Bluejay’s mission is to engineer trust into every AI interaction, becoming the trust layer between businesses and their customers.",
     "one_liner": "Test, monitor, and improve your voice and chat AI agents",
     "team_size": 7,
@@ -33184,7 +33227,8 @@
       "B2B"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -33880,6 +33924,51 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/orchid-ai",
     "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2025/orchid-ai.json"
+  },
+  {
+    "id": 30522,
+    "name": "Naïve",
+    "slug": "naive",
+    "former_names": [
+      "Relixir.ai",
+      "Relixir",
+      "Naive",
+      "Naïve",
+      "naïve"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d9f36771516883d109fe1d640d056334a197d1d8.png",
+    "website": "https://usenaive.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Naïve is an autonomous company builder. \r\n\r\nYou describe what your business does, and Naïve deploys AI employees that actually execute — building your app, closing deals, running campaigns, serving customers. \r\n\r\nIt works for creating new companies and automate existing companies by connecting Naive to their entire stack. ",
+    "one_liner": "Autonomous Company Infrastructure",
+    "team_size": 8,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1747424808,
+    "tags": [
+      "Artificial Intelligence",
+      "Infrastructure"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Spring 2025",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/naive",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2025/naive.json"
   },
   {
     "id": 30523,
@@ -35181,7 +35270,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3daf2d29bc3da3d9f526ade87b3daa93b0d6a6cd.png",
     "website": "https://www.frizzle.com",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "NY, USA",
     "long_description": "Frizzle uses AI to grade handwritten math assignments for teachers and transform them into rich analytics and differentiated assessment to help personalize instruction for every student. Teachers spend over 10 hours a week or 25% of all their work grading - Frizzle does it in minutes. Frizzle is the most valuable piece of software for teachers ever, as it eliminates the most time-consuming part of their workflow so they can focus on teaching.\r\n\r\nFrizzle shifts education from waterfall to agile learning. Instead of waiting for end-of-unit tests to discover gaps, teachers get continuous, real-time insight into student thinking from everyday work. Feedback becomes immediate, instruction adapts weekly, and learning iterates (measure, adjust, improve) so every student progresses faster with less teacher burnout.\r\n\r\nFrizzle was named an official White House AI Education Partner alongside OpenAI and Meta: https://www.whitehouse.gov/edai/.\r\n\r\nFrizzle was co-founded by Abhay Gupta and Shyam Sai, who met in high school over 10 years ago.\r\n",
     "one_liner": "AI Grading for Teachers",
     "team_size": 2,
@@ -35487,7 +35576,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f773fb4653e4928ec6dbd27c0a049a20a2e22d7a.png",
     "website": "https://www.panoptive.com",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "We turn unstructured monitoring data - monitoring visit reports, EDC data - into structured deviation, safety, and quality findings for human review. Panoptive generates an audit-ready oversight trail as a natural byproduct. \r\n\r\nThe platform aggregates findings and identifies systemic patterns across sites and subjects before they compound, and tracks every finding through decision, follow-up, and resolution.",
     "one_liner": "The oversight engine for clinical trials",
     "team_size": 2,
@@ -35510,7 +35599,8 @@
       "B2B"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -35571,7 +35661,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/907a43235986d6f57ceffcf97d5210b7d662533b.png",
     "website": "https://www.riverbank.sh/",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "MA, USA",
     "long_description": "Riverbank is an ex-NSA and DoD team creating the first AI native offensive red team, starting with the $3B pentesting market. We blend AI agents with experienced human operators to find what traditional vulnerability scanners miss and break through organizational cyber defenses with swarms of AI agents. ",
     "one_liner": "AI-native Red Teaming and Offensive Security ",
     "team_size": 1,
@@ -35822,7 +35912,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9f836a0c8c51e91ad3364666cbc06dd260a0a3c1.png",
     "website": "https://www.trymimos.com/",
-    "all_locations": "",
+    "all_locations": "NY, USA",
     "long_description": "Mimos helps companies rank in AI search.\r\n\r\n800 million people use ChatGPT every week. Today, customers don’t see 10 blue links, they see an answer. And if your brand isn’t cited, you basically don’t exist. \r\n\r\nOur agents automate the playbook for becoming the answer:\r\n 1. Pinpoint Visibility Gaps: Analyzes your site, competitors, and customer data to find precise ranking opportunities.\r\n 2. Craft the Solution: Automatically stages technical fixes and generates policy-aligned content in your brand's voice. \r\n 3. Integrate with CMS: Instantly deploy fixes and content to your site, driving new leads in days, not months.\r\n\r\nLearn more at trymimos.com\r\n\r\n===\r\n\r\nRohit & Michael have been working together on various technical project since 6th grade (14 years!) - and Mimos came about as one of those projects.",
     "one_liner": "Helping companies rank in AI search",
     "team_size": 2,
@@ -35843,7 +35933,8 @@
       "B2B"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -36120,7 +36211,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1f34cf0cf02c3e2059e48082daf0ddc693722515.png",
     "website": "https://floot.com",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "Floot lets non-coders & entrepreneurs build real web apps that actually work. We’re taking a new approach by building everything from the ground up for AI.\r\n\r\n✨ Try building an app at floot.com\r\n\r\nExisting AI app builders fall short of enabling non-coders to build real, serious apps. They often:\r\n- Break down when building anything more than a prototype or toy app\r\n- Have non-coders stuck with errors they don’t understand\r\n- Require non-coders to handle multiple services designed for developers (e.g. for backend, database, hosting, etc)\r\n\r\nThe fundamental problem: these AI app builders just cobble together existing developer tools and slap AI on top, but these tools were designed for humans and not for AI.\r\n\r\nThe result? Non-coders get excited, start building, hit a wall, and then abandon their projects.\r\n\r\nFloot is purpose-built for AI. Our secret sauce:\r\n\r\n1) Instead of reusing a coding framework designed for humans, we created a specialized framework that dictates how AI should write code and how the code runs on our infrastructure. This allows us to enforce best practices, detect errors earlier, and give the best feedback to the AI. As a result, Floot can write better code and fix issues more effectively.\r\n\r\n2) Floot has the entire tech stack built-in (backend, database, hosting, etc) so building and managing an app feels seamless, especially for non-coders. And because we control every layer of the stack, we can optimize each layer for AI-first coding.\r\n\r\nBecause of this, non-coders can get more done with less time and prompting. They can finally build serious apps that work, instead of getting stuck in frustrating error loops and then abandoning their projects.\r\n\r\nWe also built a highly scalable hosting system directly on AWS so Floot apps can handle real traffic and business demands. This means non-coders can build, deploy, and scale their apps on a single platform seamlessly.\r\n\r\nPlus, Floot is really fun to use! Try building an app at floot.com",
     "one_liner": "The easiest way for non-coders to build apps with AI.",
     "team_size": 2,
@@ -36144,7 +36235,8 @@
       "Engineering, Product and Design"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -36630,7 +36722,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/65242d9e142c66d4afe70eb47ebf05c1dcff789c.png",
     "website": "https://noso.so",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "In the home services industry, field technicians are expected to handle three key tasks: diagnosing issues, making sales, and completing paperwork. It's rare to find individuals who excel at all three. We build AI agents to support technicians by improving diagnostic accuracy and helping them capture sales opportunities.",
     "one_liner": "Build AI agents for field technicians to diagnose and sell 10x better",
     "team_size": 3,
@@ -36650,7 +36742,8 @@
       "Industrials"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -36839,7 +36932,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9a1286c1ed0f215411585d2faaf1c76a245ee266.png",
     "website": "https://zavopay.com",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "London",
     "long_description": "Zavo is the AI-powered operating system for restaurants.\r\n\r\nWe bring payments, point of sale, and AI agents into one unified platform, so restaurants can run their entire business seamlessly.\r\n\r\nFrom reservations to payments to POS, Zavo replaces fragmented tools with a fully integrated stack built in-house. Our AI agents automate repetitive tasks, streamline operations, and help teams focus on delivering great guest experiences.",
     "one_liner": "AI Operating System for Restaurants ",
     "team_size": 8,
@@ -36864,8 +36957,8 @@
       "Payments"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada",
+      "United Kingdom",
+      "Europe",
       "Remote",
       "Partly Remote"
     ],
@@ -37100,7 +37193,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b00ba607980bb58773b7bd6c760f042ebe9e31b6.png",
     "website": "https://caddy.app/",
-    "all_locations": "",
+    "all_locations": "NY, USA",
     "long_description": "Caddy is the operating system that works proactively for you. It learns how you work and acts on your behalf, keeping work moving while your context and voice stay intact.\r\n\r\nInstead of producing generic AI output, Caddy creates real work artifacts that sound like you and fit how you actually work. Today, it operates across the tools you use every day, including email, calendar, Slack, Linear, and Notion.\r\n\r\nCaddy is built by the team behind Loom’s AI and core product. We believe the next era of computing is software that understands intent, handles ambiguous work, and quietly gets work done in the background.",
     "one_liner": "Your partner for everyday work, lives in iMessage",
     "team_size": 4,
@@ -37122,7 +37215,8 @@
       "Engineering, Product and Design"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -37310,7 +37404,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/942d0cc053faa8bcd3d973b7c4ce50fda2e6defa.png",
     "website": "https://usemod.ai",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "We're building the first fully autonomous accounts payable platform.\r\n\r\nOur AI clerks handle your entire AP workflow: invoice processing, GL coding, PO matching, approvals, responding to vendors, fraud detection and reporting. From the moment an invoice hits your inbox to the moment it's paid, no manual steps required.\r\n\r\nWe integrate with 16+ ERPs including QuickBooks, NetSuite, SAP, Dynamics 365, and Workday.\r\n\r\nFind out why enterprise teams choose Mod AI at usemod.ai.",
     "one_liner": "Touchless AP Automation",
     "team_size": 4,
@@ -37334,7 +37428,8 @@
       "B2B"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -38080,7 +38175,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/dfb9fdd67e9cec23e3f52f42df7e06dd89de9d57.png",
     "website": "https://www.startprimer.com",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "CA, USA",
     "long_description": "Primer is an AI agent that sells, onboards, and supports users automatically through live, personalized walkthroughs.",
     "one_liner": "AI Product Demos",
     "team_size": 2,
@@ -38768,7 +38863,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9fc7f7534f4fb913904f49914952c1daa8086654.png",
     "website": "https://bubblelab.ai/",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "Bubble Lab turns natural language into visual, production-ready workflows — built for modern ops teams, with built-in observability, logs, and execution traces.\r\n\r\nDeploy to Slack in one click so your team can build and run workflows from anywhere.\r\n",
     "one_liner": "Prompt once, automate forever.",
     "team_size": 2,
@@ -38792,7 +38887,8 @@
       "Operations"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -38898,7 +38994,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fa894803120df3a3a9250c66e4232e33e2a223d0.png",
     "website": "https://www.datoric.com",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "",
     "one_liner": "Responsibly sourced data for multimodal AI",
     "team_size": 2,
@@ -38920,7 +39016,8 @@
       "B2B"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -38939,7 +39036,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/97bee8995323297bfa4540365e98ff74a62aa5fd.png",
     "website": "https://usegrade.com",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "Grade is the API for performance-based payroll. Think of us like Deel or Gusto, but our payouts are for work completed, not hours. Companies use Grade to pay AI agents and contractors based on results: tasks completed, targets hit, work delivered. We handle compliance, tax reporting, and global payouts.",
     "one_liner": "API for performance-based payroll",
     "team_size": 2,
@@ -38962,7 +39059,8 @@
       "Fintech"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -39062,7 +39160,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/cdc8fbfe28cb5c8e4405b92f33ce7b6536b88c17.png",
     "website": "https://shofo.ai/",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "We are building the world’s largest video library. We've aggregated billions of videos into a searchable index and use agents to find and label the exact datasets a lab needs on demand.\r\n\r\nIf a lab needs 100K hours of cooking videos where someone is holding a pan, with reasoning annotations on top, our agents search the index, extract the matching subset, route it through our labeling pipeline, and deliver a custom dataset in days, not months.",
     "one_liner": "The World's Largest Video Library",
     "team_size": 4,
@@ -39085,7 +39183,8 @@
       "Infrastructure"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -40093,7 +40192,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2f60ad803d2e9b0079d1a0e2e9afd248df7aafcd.png",
     "website": "https://www.projectx.cloud/",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "Every computer ever made forces you to do one thing at a time. One cursor. One keyboard. One Hardware. One app in focus. Fifty years. Nobody questioned it.\r\n\r\nWe did. We started over.\r\n\r\nWe built InfinityOS, a fundamentally new computer OS on the cloud from ground up.\r\n\r\nInfinity runs every app in its own independent computer -- own GPU, own input, own environment. Windows and Linux in the same session. Humans and agents working side by side. No concurrency ceiling. Cold start in seconds. One URL.",
     "one_liner": "Infinity: the first OS where humans and agents work with no limits.",
     "team_size": 6,
@@ -40118,6 +40217,8 @@
       "Infrastructure"
     ],
     "regions": [
+      "United States of America",
+      "America / Canada",
       "Remote",
       "Partly Remote"
     ],
@@ -40257,6 +40358,48 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/gigacatalyst",
     "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/gigacatalyst.json"
+  },
+  {
+    "id": 31539,
+    "name": "Klaimee",
+    "slug": "klaimee",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7b072cf10e5d03192359bbf4a4f1e59c2bed6476.png",
+    "website": "https://www.klaimee.ai",
+    "all_locations": "",
+    "long_description": "Klaimee is the first insurance for your AI agents. It covers what traditional E&O and cyber explicitly carve out, so you can deploy agentic AI at scale with real peace of mind.\r\nBuilt for companies deploying agentic AI, self-serve from day one.\r\n\r\nThe problem: AI agents are taking actions autonomously buying, emailing, modifying sensitive data. AB 316 already holds deployers liable. EU AI Act enforces in August. Cyber and E&O insurance are excluding AI claims. Companies shipping agents have zero coverage and no third-party proof their agent is safe. Enterprise legal asks \"who pays if your agent breaks something?\" and there's no good answer.\r\n                                                                                                                                                                                                                                        \r\nWe built the answer. Critical-category risk evaluation, certification, financial guarantee, liability insurance and the documentation enterprise procurement needs to sign off.\r\n\r\nTeam: Ines (ex-General Manager at SafetyWing, grew insurance product from $5M to $60M revenue, 5 years launching insurance products from scratch and structuring a TokioMarine MGA into its own carrier) + Julien (AI software engineer + corporate strategy, enterprise compliance).\r\n\r\nWe understand how insurance works, what enterprises require, and why startups can't wait 6 months for either.",
+    "one_liner": "Insurance for the agentic world. You deploy agents, we cover you.",
+    "team_size": 2,
+    "industry": "Fintech",
+    "subindustry": "Fintech -> Insurance",
+    "launched_at": 1775456412,
+    "tags": [
+      "Artificial Intelligence",
+      "Fintech",
+      "Compliance",
+      "Insurance",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "Fintech",
+      "Insurance"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": true,
+    "url": "https://www.ycombinator.com/companies/klaimee",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/klaimee.json"
   },
   {
     "id": 31545,

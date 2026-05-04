@@ -916,7 +916,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Summer 2022",
     "status": "Active",
@@ -949,7 +949,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f8a08dbc0e0067d1983b3b85b2e3893f29d7f41f.png",
     "website": "https://www.pairai.com/",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "NY, USA",
     "long_description": "Pair AI is Shopify for knowledge products. We empower creators, educators, and experts to launch addicting mobile-first video courses and provide AI-assisted coaching services at scale. Our platform is a one-stop shop to seamlessly monetize what you know! We make learning as fun and engaging as watching a TikTok.",
     "one_liner": "Reimagining education with short form video and AI",
     "team_size": 2,
@@ -1324,7 +1324,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2edb78c6c7dfbdc3b8cbd1632fcf94f82d5bf32d.png",
     "website": "https://readbean.app/",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "NY, USA",
     "long_description": "Read Bean helps intermediate-advanced language learners and heritage speakers improve their literacy using real-world content. The app measures your initial reading level and automatically transforms texts into bite-sized lessons at your level. It adapts to your progress, reinforcing vocabulary and tailoring content to ensure continuous improvement.",
     "one_liner": "Learn language with real-world content, at your level",
     "team_size": 3,
@@ -1761,7 +1761,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6853a397a8c949c1f81a95e63684f2b530461ce0.png",
     "website": "https://www.youlearn.ai/",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "YouLearn is an AI tutor for college students. It turns your learning materials into concise notes, an AI tutor you can talk to, and personalized tests.",
     "one_liner": "AI tutor for each student. ",
     "team_size": 3,
@@ -1783,7 +1783,8 @@
       "Education"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,

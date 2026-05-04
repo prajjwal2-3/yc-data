@@ -57,7 +57,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6a032c69ab86b17f432855010110e329002ec9e2.png",
     "website": "https://useautumn.com",
-    "all_locations": "",
+    "all_locations": "London",
     "long_description": "Autumn is open-source infrastructure over Stripe that allows AI startups to build their pricing plans quickly, and flexibly. We act as your app's DB and manage who's paying for what, track usage and manage customer feature access.\r\n\r\nYC companies use us because we make it easy to handle common pricing models like usage-based, credits, subscriptions, rollovers and more in 3 functions and no webhooks. \r\n\r\nAs you scale, you get reliable billing, that you can change however you want without wrangling code (we handle versioning, migrations etc), and manage custom pricing too. Everything you could down the line (credits, multiple subscription groups, rollovers, referral program, usage analytics, centralized team billing etc), you can drop in at any point. ",
     "one_liner": "Billing infrastructure for AI",
     "team_size": 2,
@@ -75,7 +75,8 @@
       "B2B"
     ],
     "regions": [
-      "Unspecified"
+      "United Kingdom",
+      "Europe"
     ],
     "stage": "Early",
     "app_video_public": true,
@@ -142,10 +143,10 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c1261383b7f5f7d5fcba63a49453bf6d9148fcfc.png",
     "website": "https://www.ambral.com/",
-    "all_locations": "",
+    "all_locations": "San Francisco, CA, USA",
     "long_description": "AI agents for enterprise account management and customer success. Ambral has already been used to drive $XXXm in expansion revenue and preventable churn at multi-billion dollar enterprises and top scale-ups.\r\n\r\nAmbral synthesizes signals from all customer activity and interactions into AI-powered models of every account. It pinpoints who needs attention and why, and autonomously takes the best next action to drive expansions, prevent churn, and ensure no customer slips through the cracks. \r\n\r\nTeam: \r\nSam (CEO): 2x founder. Led AI at Everlywell and early PM at Wonder (now valued at $7bn). Lived the pain of losing customer intimacy at scale and is obsessed with solving it. \r\n\r\nJack (CTO): Ex-SpaceX Flight Software Special Projects, where he developed telemetry routing and analysis systems for the most complex machines ever created. He’s now doing the same for the complexities of customer relationships. ",
     "one_liner": "AI for account management and customer success",
-    "team_size": 2,
+    "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Sales",
     "launched_at": 1753910833,
@@ -161,7 +162,8 @@
       "Sales"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -261,7 +263,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3442ddefa8f2ffb38f683757efc6de9a1e78890b.png",
     "website": "https://withnixo.com/",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "​Nixo is the platform FDE teams use to unlock SaaS-level margins from services work. Connect customer conversations, engineering todos, and project delivery in one place to turn your custom work into repeatable leverage.",
     "one_liner": "The first ops platform for forward deployed engineers",
     "team_size": 4,
@@ -279,7 +281,8 @@
       "B2B"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -384,7 +387,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b50eeaec6516885328ae6b094795e471d93069f5.png",
     "website": "https://chestnutforty.com",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "We build forecasting agents for global macro events. ",
     "one_liner": "The AI forecasting company for global macro events. ",
     "team_size": 1,
@@ -402,7 +405,8 @@
       "Consumer"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -815,7 +819,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fc86727a443ac448343eba0a5ce27b88d63b2f8f.png",
     "website": "https://traceroot.ai",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "TraceRoot is an open-source observability and self-healing layer for AI agents. It captures traces, debug with AI that sees your source code and GitHub history.",
     "one_liner": "Open source self-healing layer for AI agents",
     "team_size": 1,
@@ -834,7 +838,8 @@
       "Engineering, Product and Design"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -1067,7 +1072,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2d07ddb576ac56313f5c987b3bb7c2ff770b583a.png",
     "website": "https://www.gitdot.io/",
-    "all_locations": "",
+    "all_locations": "NY, USA",
     "long_description": "",
     "one_liner": "A better GItHub",
     "team_size": 2,
@@ -1089,7 +1094,8 @@
       "Productivity"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -1458,7 +1464,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2b9c845239fb1f16317889a4a843409e109b24f6.png",
     "website": "https://www.topological.com",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "Topological is developing physics-based foundation models for CAD optimization. We help hardware teams iterate at the same speed that software teams do. Our technology is accelerating the engineering workflow with AI and scales design and optimization to identify the ideal designs for complex problems given their physical constraints with enhanced speed and performance. \r\n\r\nOur first model, UToP-v1, is a SOTA topology optimization model that understands physics, geometry, and manufacturability. It can generate the most efficient design given a problem’s physical requirements. It has <5% compliance error and is 1930x faster than current methods. We're reimagining mechanical engineering and computational design with precision spatial AI.",
     "one_liner": "Physics-based foundation models for CAD optimization.",
     "team_size": 2,
@@ -1483,7 +1489,8 @@
       "Engineering, Product and Design"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -1546,7 +1553,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/cab11cbab7740801b864a1576c8a78d2f69fa8e6.png",
     "website": "https://bitrig.com",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "Bitrig is the only vibe coder that writes native Swift, which is how the top mobile apps are coded. It's like Lovable for iPhone apps.\r\n\r\nKyle and Jacob are creators of SwiftUI, Apple's UI framework for building modern iOS apps, and led its development for the past 10 years. Tim was co-founder and designer of Storehouse, where he won an Apple Design Award and was later acquired by Square. \r\n\r\nDownload bitrig from the App Store:\r\nhttps://apps.apple.com/us/app/bitrig/id6747835910",
     "one_liner": "Vibe code, test, and deploy Swift apps. All from your iPhone.",
     "team_size": 3,
@@ -1565,7 +1572,8 @@
       "Engineering, Product and Design"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -1744,7 +1752,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9a35549672464ddd96cd4caea3ef725e10f03c19.png",
     "website": "https://orangeslice.ai",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "Orange Slice is a spreadsheet where every column is TypeScript—and AI writes it for you. Describe what you want in chat (\"find the CEO's LinkedIn and get their email\"), and we generate the code, create the columns, and run it across thousands of rows. Our fully-typed SDK has 100+ enrichments built in: LinkedIn, contact info, company data, web scraping, AI research. Columns automatically execute in dependency order. No workflow builders—just describe it or code it.",
     "one_liner": "Agentic sales enrichment spreadsheet",
     "team_size": 2,
@@ -1763,7 +1771,8 @@
       "Sales"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -2029,7 +2038,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/dcf816765d47aaccb81f4306b7dcf298ccb8337e.png",
     "website": "https://imprezia.ai",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "The first advertising infrastructure designed specifically for AI apps. Seamlessly integrate contextual brands & products that enhance user experience while generating revenue to pay the inference bills.",
     "one_liner": "The World's First AI Ad Network.",
     "team_size": 3,
@@ -2048,7 +2057,8 @@
       "Infrastructure"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -2193,7 +2203,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3daf2d29bc3da3d9f526ade87b3daa93b0d6a6cd.png",
     "website": "https://www.frizzle.com",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "NY, USA",
     "long_description": "Frizzle uses AI to grade handwritten math assignments for teachers and transform them into rich analytics and differentiated assessment to help personalize instruction for every student. Teachers spend over 10 hours a week or 25% of all their work grading - Frizzle does it in minutes. Frizzle is the most valuable piece of software for teachers ever, as it eliminates the most time-consuming part of their workflow so they can focus on teaching.\r\n\r\nFrizzle shifts education from waterfall to agile learning. Instead of waiting for end-of-unit tests to discover gaps, teachers get continuous, real-time insight into student thinking from everyday work. Feedback becomes immediate, instruction adapts weekly, and learning iterates (measure, adjust, improve) so every student progresses faster with less teacher burnout.\r\n\r\nFrizzle was named an official White House AI Education Partner alongside OpenAI and Meta: https://www.whitehouse.gov/edai/.\r\n\r\nFrizzle was co-founded by Abhay Gupta and Shyam Sai, who met in high school over 10 years ago.\r\n",
     "one_liner": "AI Grading for Teachers",
     "team_size": 2,
@@ -2237,7 +2247,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/59526ba018b33a62299943322dc03eae29a298f4.png",
     "website": "https://deepgrove.ai",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "",
     "one_liner": "Frontier Intelligence. On Any Device.",
     "team_size": 3,
@@ -2255,7 +2265,8 @@
       "B2B"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -2615,7 +2626,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f77131cbecf4a204722622db553ac42245dbff78.png",
     "website": "https://www.wedge.health",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "The Operating System for Health AI: we deploy, govern, and scale AI agents across healthcare organizations.",
     "one_liner": "Palantir for Healthcare AI Agents",
     "team_size": 2,
@@ -2633,7 +2644,8 @@
       "Healthcare"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -2736,7 +2748,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f773fb4653e4928ec6dbd27c0a049a20a2e22d7a.png",
     "website": "https://www.panoptive.com",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "We turn unstructured monitoring data - monitoring visit reports, EDC data - into structured deviation, safety, and quality findings for human review. Panoptive generates an audit-ready oversight trail as a natural byproduct. \r\n\r\nThe platform aggregates findings and identifies systemic patterns across sites and subjects before they compound, and tracks every finding through decision, follow-up, and resolution.",
     "one_liner": "The oversight engine for clinical trials",
     "team_size": 2,
@@ -2759,7 +2771,8 @@
       "B2B"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -2899,7 +2912,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/dc717d7521c4543043c20540b7ff90d62356bd8e.png",
     "website": "https://www.kalinda.ai/",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "Kalinda helps class action law firms qualify potential cases in minutes with AI.\r\n\r\nThe nature of class action/mass torts involves thousands of cases for a single lawsuit. For every plaintiff (injured person), law firms involved in these cases compile everything from the products they used to the injuries they have. This data is extensive, granular, and buried deep in thousands of pages of medical, financial, and employment records and others.\r\n\r\nKalinda extracts, summarizes, and aggregates data from these records for attorneys with AI.\r\n\r\nWhen scaled across an entire litigation, Kalinda works tirelessly and in parallel—turning a process that once took months into just a few hours. \r\n\r\nKalinda provides firms with the equivalent manpower of hundreds of paralegals and legal nurses, allowing them to quickly determine which claimants are eligible and helping them file faster and in greater volume.\r\n\r\nTo date, we’ve processed 600k pages of records and are live with 2 of the largest plaintiff law firms in the U.S!",
     "one_liner": "Deep research for class action law firms",
     "team_size": 2,
@@ -2918,7 +2931,8 @@
       "Legal"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -2939,7 +2953,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/907a43235986d6f57ceffcf97d5210b7d662533b.png",
     "website": "https://www.riverbank.sh/",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "MA, USA",
     "long_description": "Riverbank is an ex-NSA and DoD team creating the first AI native offensive red team, starting with the $3B pentesting market. We blend AI agents with experienced human operators to find what traditional vulnerability scanners miss and break through organizational cyber defenses with swarms of AI agents. ",
     "one_liner": "AI-native Red Teaming and Offensive Security ",
     "team_size": 1,
@@ -2985,7 +2999,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ffdb102f014e8ce8401417ee051d9fbec55550e0.png",
     "website": "https://parachute-ai.com",
-    "all_locations": "",
+    "all_locations": "NY, USA",
     "long_description": "Parachute helps hospitals adopt AI safely and at scale. We vet AI tools that fill clinical gaps, run state-of-the-art evaluations, monitor every model for drift and compliance, and lock every decision in an immutable audit trail.",
     "one_liner": "Infrastructure for hospitals to monitor and deploy clinical AI ",
     "team_size": 2,
@@ -3010,7 +3024,8 @@
       "Healthcare IT"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -3114,7 +3129,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fda446d464914642f213b7da0cd38f3f6fead898.png",
     "website": "https://ironledger.ai",
-    "all_locations": "",
+    "all_locations": "NY, USA",
     "long_description": "IronLedger automates property accounting for property managers, developers and contractors, starting with accounts payable. We eliminate more than $70K of accounting costs annually for over 50K multifamily units.\r\n\r\nhttps://www.ironledger.ai/",
     "one_liner": "AI-enabled Corporate Cards and Invoice Processing for Real Estate",
     "team_size": 2,
@@ -3133,6 +3148,8 @@
       "Housing and Real Estate"
     ],
     "regions": [
+      "United States of America",
+      "America / Canada",
       "Remote",
       "Partly Remote"
     ],
@@ -3197,7 +3214,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4c08d892e148caaaf2ce4e85ef39beddd97353a8.png",
     "website": "https://www.trace.so/",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "London",
     "long_description": "Trace is a workflow orchestration platform that gives agents shared context across systems and lets teams build visual processes combining AI and humans. It automatically identifies which tasks can be AI-automated and which need human input, so non-technical teams build and run workflows without engineering involvement.",
     "one_liner": "Context-aware orchestration between humans and AI.",
     "team_size": 3,
@@ -3222,8 +3239,8 @@
       "Productivity"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "United Kingdom",
+      "Europe"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -3321,7 +3338,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6b90c0f9fa101c9a96455820ea0a553837b94f49.png",
     "website": "https://www.useflai.com/",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "The problem we solve: 56% of dealership leads arrive after business hours, and most dealers lose these potential customers to competitors who happen to be available 24/7. Missing after-hours calls alone costs the average dealership $1M annually in lost revenue.\r\n\r\nWe built Flai to fix this - AI assistants that answer dealership calls 24/7, scheduling test drives, oil changes, or running outbound recall campaigns so no opportunity slips away.\r\n\r\nThe result: No more missed opportunities, no more losing customers to competitors.\r\n\r\nOur founding team has built voice AI products at HappyRobot, scaled infrastructure at Uber for millions of users, and applied data science at Netflix to solve operational challenges.\r\n\r\nWe're not just answering phones, we're helping dealerships win in an AI-first world where availability determine who gets the sale.",
     "one_liner": "We Bring Customers to Your Dealership",
     "team_size": 15,
@@ -3340,7 +3357,8 @@
       "Automotive"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -3722,7 +3740,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9f836a0c8c51e91ad3364666cbc06dd260a0a3c1.png",
     "website": "https://www.trymimos.com/",
-    "all_locations": "",
+    "all_locations": "NY, USA",
     "long_description": "Mimos helps companies rank in AI search.\r\n\r\n800 million people use ChatGPT every week. Today, customers don’t see 10 blue links, they see an answer. And if your brand isn’t cited, you basically don’t exist. \r\n\r\nOur agents automate the playbook for becoming the answer:\r\n 1. Pinpoint Visibility Gaps: Analyzes your site, competitors, and customer data to find precise ranking opportunities.\r\n 2. Craft the Solution: Automatically stages technical fixes and generates policy-aligned content in your brand's voice. \r\n 3. Integrate with CMS: Instantly deploy fixes and content to your site, driving new leads in days, not months.\r\n\r\nLearn more at trymimos.com\r\n\r\n===\r\n\r\nRohit & Michael have been working together on various technical project since 6th grade (14 years!) - and Mimos came about as one of those projects.",
     "one_liner": "Helping companies rank in AI search",
     "team_size": 2,
@@ -3743,7 +3761,8 @@
       "B2B"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -4043,8 +4062,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/aca02a57c5f38896120f1fe6767d1975b6a6b522.png",
     "website": "https://char.com",
     "all_locations": "",
-    "long_description": "Char records your meetings without bots, pulls action items from your emails, and builds a daily note with everything you need to do. You review it, tick what's done, and hand off the rest to AI agents like Claude or Cursor. Open source.",
-    "one_liner": "AI daily notes from your meetings, emails, and tasks",
+    "long_description": "Char is a daily notepad that finishes your todos for you. Type a checkbox, and an agent picks it up — researching, drafting, or scheduling on your behalf. Stay in command. Char does the work.",
+    "one_liner": "The AI notepad that knows and works for you",
     "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B -> Productivity",
@@ -4210,7 +4229,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/74e6bdb4c255f21276dac2d593eebde20bf29b57.png",
     "website": "https://getirongrid.com/",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "",
     "one_liner": "AI Insurance for hardware.",
     "team_size": 2,
@@ -4229,7 +4248,8 @@
       "Insurance"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -4421,7 +4441,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4680fe6ec9d7629b24dfdc3825d767092e53950d.png",
     "website": "https://www.risely.ai/",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "Risely’s AI agents will form the new operating system for universities, improving retention, staff productivity, and efficiency. Our platform integrates directly into existing university systems (SIS, LMS, CRM), learns each institution’s unique workflows, and deploys specialized AI agents. This dramatically reduces the $735 billion universities spend annually on administrative labor, expands staff capacity without increasing headcount, and improves the student experience.\r\n\r\nThis hasn't been done before because university workflows require nuanced, autonomous judgment, exactly what agentic AI was designed to solve. Our team uniquely combines deep expertise in higher education, enterprise-scale AI, and regulated enterprise sales.\r\n\r\nSadia previously built Salesforce’s Education Cloud from scratch, creating the core Student Information System widely used across higher education. She deeply understands university operations and maintains trusted relationships with hundreds of higher-ed CIOs and Provosts.\r\n\r\nDanial was one of DoorDash’s earliest engineers, where he architected and scaled complex systems from zero to billions of transactions, including their search, recommendation, and Voice AI platforms. He knows how to build robust AI solutions that reliably perform at enterprise scale. \r\n\r\nShahryar was a GM at Airwallex, where he built the entire Americas business from 0 to 1 and drove 11x revenue growth.  He’s also a master closer, single-handedly securing over $17M in enterprise deals at NerdWallet.  He’s a relentless startup executor with deep expertise launching and scaling go-to-market machines in highly regulated industries.\r\n\r\nWe launched six weeks ago and are already at $8k MRR, growing 55% week-over-week -- one of the fastest ramps ever in higher ed. Universities urgently need solutions that expand labor capacity and efficiency, especially as they face unprecedented budget pressure and staffing shortages.\r\n\r\nWith unmatched buyer access, deep technical expertise, and rapid early traction, we are perfectly positioned to own this enormous market.",
     "one_liner": "AI agents that automate administrative work across college campuses. ",
     "team_size": 9,
@@ -4439,7 +4459,8 @@
       "Education"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -4497,7 +4518,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8e2ca9bf4442a297067557ded4df426f78a01f37.png",
     "website": "https://getsocratix.ai",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "Socratix builds AI coworkers for fraud and risk teams so that humans don't have to spend their days drowning in alerts and spreadsheets.\r\n\r\nToday, fraud and risk teams at fintechs and banks are overwhelmed. Analysts jump between tools, manually stitch together context, and make judgment calls under pressure, often for hundreds of alerts a week. Too much of their work is slow, repetitive, and error-prone. We're here to change that. \r\n\r\nSocratix gives fraud and risk teams AI coworkers that investigate alerts in real time, replacing manual reviews with fast, explainable decisions. Socratix agents plug into existing workflows and reason across signals just like human analysts to help teams reduce fraud losses, minimize false positives, and scale operations without scaling headcount.\r\n\r\nWe've seen this problem firsthand. At DoorDash, Riya helped save $30M+ a year by building smarter fraud detection and investigation tooling, and at Unit21, she built products for analysts that made them 3X faster. We're able to build and sell enterprise-grade software. At Cruise, Satya built scalable AI systems powering petabyte-scale data, and at LinkedIn, he built enterprise products from 0 to 1 generating $50M+ in incremental revenue. Now, the two of us are teaming up to eliminate the manual toil in fraud and risk.\r\n\r\nWe're obsessed with fraud, LLMs, real-world automation, and the messy edge cases traditional ML has trouble handling. We believe that every fraud analyst should have an AI coworker - and the future of fraud will involve combining human-level reasoning with machine-speed execution. ",
     "one_liner": "AI coworkers for fraud and risk teams.",
     "team_size": 3,
@@ -4516,7 +4537,8 @@
       "Operations"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -4576,7 +4598,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1f34cf0cf02c3e2059e48082daf0ddc693722515.png",
     "website": "https://floot.com",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "Floot lets non-coders & entrepreneurs build real web apps that actually work. We’re taking a new approach by building everything from the ground up for AI.\r\n\r\n✨ Try building an app at floot.com\r\n\r\nExisting AI app builders fall short of enabling non-coders to build real, serious apps. They often:\r\n- Break down when building anything more than a prototype or toy app\r\n- Have non-coders stuck with errors they don’t understand\r\n- Require non-coders to handle multiple services designed for developers (e.g. for backend, database, hosting, etc)\r\n\r\nThe fundamental problem: these AI app builders just cobble together existing developer tools and slap AI on top, but these tools were designed for humans and not for AI.\r\n\r\nThe result? Non-coders get excited, start building, hit a wall, and then abandon their projects.\r\n\r\nFloot is purpose-built for AI. Our secret sauce:\r\n\r\n1) Instead of reusing a coding framework designed for humans, we created a specialized framework that dictates how AI should write code and how the code runs on our infrastructure. This allows us to enforce best practices, detect errors earlier, and give the best feedback to the AI. As a result, Floot can write better code and fix issues more effectively.\r\n\r\n2) Floot has the entire tech stack built-in (backend, database, hosting, etc) so building and managing an app feels seamless, especially for non-coders. And because we control every layer of the stack, we can optimize each layer for AI-first coding.\r\n\r\nBecause of this, non-coders can get more done with less time and prompting. They can finally build serious apps that work, instead of getting stuck in frustrating error loops and then abandoning their projects.\r\n\r\nWe also built a highly scalable hosting system directly on AWS so Floot apps can handle real traffic and business demands. This means non-coders can build, deploy, and scale their apps on a single platform seamlessly.\r\n\r\nPlus, Floot is really fun to use! Try building an app at floot.com",
     "one_liner": "The easiest way for non-coders to build apps with AI.",
     "team_size": 2,
@@ -4600,7 +4622,8 @@
       "Engineering, Product and Design"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -4815,7 +4838,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/dbbb70598f14b005aa7da32e84d2d14fed9e3e3a.png",
     "website": "https://www.pares.ai/",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "CA, USA",
     "long_description": "PARES is the single platform commercial real estate brokers need for their entire workflow, from chasing leads to closing deals and everything in between. \r\n\r\nWith our platform, brokers can:\r\n\r\n1) Automatically update real-time transaction data in our CRM\r\n\r\n2) Create lists of target properties, skip-trace, and easily navigate outbound calls\r\n\r\n3) Underwrite deals with our AI Underwriting Agent\r\n\r\n4) Create OMs/BOVs in minutes with our AI Marketing Agent\r\n\r\nCheck us out at https://www.pares.ai/",
     "one_liner": "Helping commercial real estate brokers find and close more deals.",
     "team_size": 3,
@@ -5023,7 +5046,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/76b581290f19eb08a9fc677f74b5ecc46cfd20a1.png",
     "website": "https://sira.team",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "Sira is the AI-powered platform for managing time tracking, scheduling, payroll, and HR — purpose-built for hourly teams.\r\n\r\nOur intelligent agents handle the manual, time-consuming tasks for you — like calling workers to fill open shifts, detecting timesheet anomalies, and streamlining payroll processing.\r\n\r\nWith Sira, businesses stay organized, compliant, and focused on what really matters — while we take care of the team.",
     "one_liner": "AI Native Rippling for Deskless Workers",
     "team_size": 0,
@@ -5042,7 +5065,8 @@
       "Human Resources"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -5146,7 +5170,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c68bf871c0fe363c6048343df283d9282ab990f4.png",
     "website": "https://convexia.bio",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "An AI-maximalist pharma platform. We use agents to buy drugs, run clinical trials, and sell for a profit. 10x faster and 20x leaner than incumbents.\r\n\r\nSourcing Agent: Mines public/private databases and unstructured global data to surface overlooked preclinical candidates.\r\nScientific Agent: Runs comp bio models (ESM-3, RFdiffusion, Boltz-2, AlphaFold) to assess safety and efficacy in silico.\r\nCommercial Agent: Analyzes FDA incentives, pricing dynamics, TAM, competitive landscape, and payer alignment.\r\nClinical Agent: Runs digital twin simulations, evaluates CRO/CMC risk, and builds trial plans to Phase 1.\r\nPoS Agent: Evaluates the most critical factors that impact the likelihood of clinical trial success. \r\n\r\nBuilt by 2 Stanford CS students who have built 3 startups together before. ",
     "one_liner": "The world's first AI-maximalist pharma company",
     "team_size": 4,
@@ -5169,7 +5193,8 @@
       "Drug Discovery and Delivery"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -5606,7 +5631,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0e2406b819c520b6b5c6f58e45423c720bf0661d.png",
     "website": "https://juxta.com",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "Juxta is creating the first Universal Positioning System (UPS) — a GPS alternative that can monitor movement anywhere on earth with no new hardware, minimal internet connection, and remote deployment. Using custom machine learning models and a first-of-its-kind synthetic fingerprinting technology, Juxta can make any indoor, outdoor, or underground space location-aware in minutes for a fraction of the cost of any other geospatial technology.\r\n\r\nJuxta's UPS can be leveraged across industries — from securely tracking soldiers in combat zones to providing offline positioning for robots to offering asset tracking in warehouses and ports around the globe.",
     "one_liner": "Building a GPS alternative 100x more powerful with no hardware needed.",
     "team_size": null,
@@ -5624,6 +5649,8 @@
       "B2B"
     ],
     "regions": [
+      "United States of America",
+      "America / Canada",
       "Remote",
       "Partly Remote"
     ],
@@ -5813,7 +5840,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9c6be0818283f49c20fc921c3bc7db67bfb60bf5.png",
     "website": "https://www.magnetictax.com",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "Magnetic scans client documents - from handwritten charity notes to excel spreadsheet Schedule Cs to multi-state K-1s - and enters them into tax software automatically, saving hours of tedious data entry. \r\n\r\nThe accounting profession is facing a massive talent shortage, as graduates choose different professions and the old guard begins to retire. As a result, CPA and tax preparation firms are awash in clientele, but unable to keep up. At many firms, phones go unanswered, clients are \"fired\", and websites are taken down, as the existing workforce tries to handle the grueling 80 hour+ weeks necessary to push through tax season to the April 15th deadline.\r\n\r\nWe built this because a former colleague who owns her own tax firm asked us to automate her workload, and we quickly realized the massive opportunity. Thomas brings deep domain expertise as the former Head of Product at Keeper (YC W19), where he built tax engine automation systems and an OCR form scanning system that outperformed everything else on the market. At Keeper, he leveraged early access to OpenAI's LLMs (well before ChatGPT) to build systems that automated the entire tax filing process, allowing a tiny team of CPAs to process thousands of returns with near zero busy work. Patrick was the first engineer at FunCraft, shipping multiple mobile games with 1M+ downloads and building scalable shared codebases. We've worked together since 2017, including co-leading multiple teams at Zynga as PM & Tech Lead respectively.\r\n\r\nThe opportunity is massive - there are 80M US personal tax returns filed via professionals annually, in a $2B outsourcing market where individual CPA firms currently pay $100k-$1M per year for inferior services. We're positioned to capture significant market share by offering better accuracy & document coverage, instant processing, and superior user experience.\r\n\r\nWe've built this kind of software before, we've worked together for years (and even lived together), we've built products to $10M ARR before, and we have the grit to outwork anyone in this space.",
     "one_liner": "AI Tax Preparer for CPA firms",
     "team_size": 2,
@@ -5832,7 +5859,8 @@
       "Productivity"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -6271,7 +6299,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/65242d9e142c66d4afe70eb47ebf05c1dcff789c.png",
     "website": "https://noso.so",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "In the home services industry, field technicians are expected to handle three key tasks: diagnosing issues, making sales, and completing paperwork. It's rare to find individuals who excel at all three. We build AI agents to support technicians by improving diagnostic accuracy and helping them capture sales opportunities.",
     "one_liner": "Build AI agents for field technicians to diagnose and sell 10x better",
     "team_size": 3,
@@ -6291,7 +6319,8 @@
       "Industrials"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -6439,7 +6468,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1db65d6a1bb5d7e7c777ac05121880f5ead05061.png",
     "website": "https://www.aventindustrial.com",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "Avent helps manufacturers and industrial distributors run quoting and order entry on autopilot. \r\n\r\nOur AI agents manage sales inboxes, build quotes from past pricing and tribal knowledge, and keep records up to date in existing ERPs.",
     "one_liner": "AI agents for industrial commerce",
     "team_size": 3,
@@ -6457,6 +6486,8 @@
       "B2B"
     ],
     "regions": [
+      "United States of America",
+      "America / Canada",
       "Remote",
       "Partly Remote"
     ],
@@ -6555,7 +6586,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/200fe1fa3e40bd9aed419582490f17ed6cf00c37.png",
     "website": "https://luminal.com",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "Luminal builds an ML framework and compiler that generates GPU code.\r\nOur stack 10x's model speed while simplifying deployment and cutting idle GPU costs\r\n\r\nGithub: https://github.com/luminal-ai/luminal\r\nDiscord: https://discord.gg/APjuwHAbGy",
     "one_liner": "Making AI run fast on any hardware.",
     "team_size": 3,
@@ -6579,7 +6610,8 @@
       "Infrastructure"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -6725,7 +6757,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/90acd1189896151e269eca2dc0a6b15c7042d091.png",
     "website": "https://heyblue.com/",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "Everyone pays someone to handle the parts of their life that don't need them personally. The cleaner, the bookkeeper, the lawn service. Nobody could handle what lives in your phone. Until Blue.\r\n\r\nBlue is a small USB-C dongle and iPhone app. Plug it in and say what needs doing. The follow-up you haven't sent, the appointment you haven't booked, the reply you owe. Blue opens the right app, does the work, and tells you when it's done. You don't touch your phone.\r\n\r\nWorks with every app already on your iPhone. \r\n\r\nThe team brings complementary experience at scale: Omar Abdelaziz led Google Assistant’s transition to LLMs and holds one of earliest patents in LLM-based computer control; Peter Krogh spent decades designing voice-first dialog systems and was most recently a design lead at Google DeepMind building actions for Gemini Live; Muhammad Farhan Hossain helped ship Apple Vision Pro, is named on dozens of hardware/systems patents, and has led products from prototype to mass production.\r\n\r\nWe’ve built systems used by billions. Now we’re on to defining the next era of computing.",
     "one_liner": "Your phone finally has someone to run it. Plug in Blue, just ask.",
     "team_size": 6,
@@ -6747,6 +6779,8 @@
       "Consumer"
     ],
     "regions": [
+      "United States of America",
+      "America / Canada",
       "Remote",
       "Partly Remote"
     ],

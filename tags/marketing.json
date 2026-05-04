@@ -2029,7 +2029,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/30af84e0971fab8e280e8b2aa9d648d3cb85997b.png",
     "website": "https://supersend.io/",
-    "all_locations": "Royal Oak, MI, USA; Remote",
+    "all_locations": "CA, USA; Remote",
     "long_description": "Super Send is a powerful outreach automation platform designed to streamline and scale your prospecting efforts across multiple channels, including email, LinkedIn, and Twitter. With features like dynamic personalization, email warming, inbox rotation, and advanced analytics, Super Send enables businesses to connect with leads efficiently while maintaining a human touch. Whether you’re running A/B tests, managing campaigns, or optimizing deliverability, Super Send provides the tools you need to maximize engagement and grow your business\r\n\r\n",
     "one_liner": "Super Send automates personalized outreach across email, LinkedIn,…",
     "team_size": 8,
@@ -2633,7 +2633,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/be25b5e55711ba973cd7f6c514b56a10ab3da20e.png",
     "website": "https://gooseworks.ai/",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "Goose is an AI coworker that can do real GTM work. Goose can find high-signal leads, run your SEO, run outbound campaigns, track competitors, pull marketing reports, manage your CRM and much more.\r\n\r\nGoose has its own filesystem, memories, mailbox and accounts. You can talk to Goose from Slack, Telegram, mail or anywhere just like any other coworker, and ask it to get work done.",
     "one_liner": "OpenClaw-style AI coworkers for GTM teams",
     "team_size": 5,
@@ -2658,6 +2658,8 @@
       "Marketing"
     ],
     "regions": [
+      "United States of America",
+      "America / Canada",
       "Remote",
       "Partly Remote"
     ],
@@ -2676,7 +2678,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4b3a15112db36cea4190b3079ddeba5278c19f7f.png",
     "website": "https://booth.ai",
-    "all_locations": "Remote",
+    "all_locations": "CA, USA; Remote",
     "long_description": "Booth AI enables companies to supercharge their creative output with a generative-AI powered image production platform. Booth AI replaces complicated, labor intensive, time consuming and expensive commercial product lifestyle photoshoots. Brand managers, merchandisers, and marketers can produce beautiful lifestyle images in a matter of seconds at a fraction of the cost of traditional photoshoots.",
     "one_liner": "Generative AI Photographer for E-Commerce",
     "team_size": 3,
@@ -2701,6 +2703,8 @@
       "Retail"
     ],
     "regions": [
+      "United States of America",
+      "America / Canada",
       "Remote",
       "Fully Remote"
     ],
@@ -3957,7 +3961,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f6dd000652c5e77966ee483897c0ffed9dac2d80.png",
     "website": "https://wild-card.ai",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "Wildcard is the AEO and GEO platform designed specifically for e-commerce and retail brands. We help merchants improve visibility across AI search and AI shopping platforms like ChatGPT, Google AI Overviews, Gemini, and Amazon Rufus.\r\n\r\nWildcard tracks how brands, categories, collections, and SKUs appear across AI search results, identifies visibility gaps, and turns those insights into actions. We use AI agents to enrich product data, generate SEO, AEO, and GEO content, create collection and comparison pages, build FAQs, and improve off-site discoverability across Reddit, YouTube, blogs, and other sources.\r\n\r\nAs AI shopping evolves, Wildcard is building the infrastructure brands need to win in agentic commerce, including support for emerging standards like the Agentic Commerce Protocol (ACP) and Universal Commerce Protocol (UCP).",
     "one_liner": "AEO/GEO for E-Commerce and Retail",
     "team_size": 1,
@@ -3982,7 +3986,8 @@
       "Engineering, Product and Design"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -4355,7 +4360,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2a8caed7d0a490086d7e541276710ed25029450f.png",
     "website": "https://absurd.com/",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "Absurd makes AI brand and performance ads at scale. Our last video for Kalshi (\"Election Day\") did 1M+ views, and our videos average 400K+ organic views.\r\n\r\nCompanies like Hims, Kalshi, Replit, and Brex use Absurd to create production-quality videos in 72 hours. We do it with a multi-agent orchestration layer, working closely with your team from concept to final cut.\r\n\r\nTry it at absurd.com",
     "one_liner": "AI Videos",
     "team_size": 6,
@@ -4380,7 +4385,8 @@
       "Marketing"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,

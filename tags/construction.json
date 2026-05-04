@@ -668,7 +668,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d63589ab125b18c4f235fe17ab462bfbde2b02ec.png",
     "website": "https://downtobid.com",
-    "all_locations": "New York, NY, USA; Remote",
+    "all_locations": "CA, USA; Remote",
     "long_description": "Our product helps GCs automatically identify scopes of work, find qualified local subcontractors, and send personalized bid invites.\r\n\r\n",
     "one_liner": "Using AI to understand construction plans faster.",
     "team_size": 5,
@@ -1116,7 +1116,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ad0f90e88aab4e1188c3ea4e465f48600f4e3ae4.png",
     "website": "https://buildoutfit.com",
-    "all_locations": "Los Angeles, CA, USA",
+    "all_locations": "NY, USA; Los Angeles, CA, USA",
     "long_description": "We sell DIY home renovations in a box.\r\n\r\nWe format our architect-designed templates to a customer's space. We then buy all the materials needed on their behalf, and ship it to their door for them to build.\r\n\r\nThe experience is accompanied by an app that guides from start-to-completion of the project.",
     "one_liner": "DIY renovations in a box. Materials, tools, and instructions delivered",
     "team_size": 1,
@@ -1376,7 +1376,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/cb773861a8ee7d9c8f9ea1ad72eeeb3cc4a2283e.png",
     "website": "http://tigereye.com/",
-    "all_locations": "Remote",
+    "all_locations": "CA, USA; Remote",
     "long_description": "TigerEye eliminates bullsh*t so construction professionals can focus\r\non building the infrastructure that makes our world work\r\n",
     "one_liner": "AI for Construction",
     "team_size": 30,
@@ -1399,6 +1399,8 @@
       "Construction"
     ],
     "regions": [
+      "United States of America",
+      "America / Canada",
       "Remote",
       "Fully Remote"
     ],

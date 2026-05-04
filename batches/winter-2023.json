@@ -60,7 +60,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5142d0a3656cea04017d1b306be0d076b4873877.png",
     "website": "https://alphawatch.ai",
-    "all_locations": "New York, NY, USA; Remote",
+    "all_locations": "CA, USA; Remote",
     "long_description": "Alphawatch AI offers a secure document agent that allows you to manipulate and convert PDF and Word files, along with your internal knowledge in your knowledge base.",
     "one_liner": "Secure Document Agent",
     "team_size": 10,
@@ -320,7 +320,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b18880e05c9eef448b41e2f69a59b103c451224d.png",
     "website": "https://rubbrband.com",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "Rubbrband creates world-class video ads and stories with AI and human creativity.\r\n\r\nWe work with companies from seed to growth, see our work at rubbrband.com.",
     "one_liner": "The AI content studio",
     "team_size": 3,
@@ -343,7 +343,8 @@
       "Content"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -362,7 +363,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/41e4a3c8483aa9a861c7be4030f6eabf0407ad5e.png",
     "website": "https://www.avoca.ai/",
-    "all_locations": "",
+    "all_locations": "NY, USA",
     "long_description": "We specialize in voice and can close customers across every channel 24/7. ",
     "one_liner": "AI-powered Sales Agent for Service-Based Industries",
     "team_size": 85,
@@ -380,7 +381,8 @@
       "B2B"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Growth",
     "app_video_public": false,
@@ -574,7 +576,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9a8e80c0706c21a5dbb22cbba1cbd67df40314d5.png",
     "website": "https://www.uselaminate.com",
-    "all_locations": "",
+    "all_locations": "NY, USA",
     "long_description": "",
     "one_liner": "",
     "team_size": null,
@@ -596,7 +598,8 @@
       "Fintech"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -1540,7 +1543,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1ba5c80823fd550126b6ccf61259b290923bb56a.png",
     "website": "https://www.pigeondocuments.com/",
-    "all_locations": "",
+    "all_locations": "NY, USA",
     "long_description": "Pigeon automates the entire document lifecycle: collecting documents from clients, reviewing and extracting data with AI, and syncing with CRMs or storage systems. Pigeon eliminates the manual back-and-forth of document handling and eliminates thousands of hours of manual tasks.",
     "one_liner": "AI-powered document automation: collect, review, extract, and sync.",
     "team_size": 5,
@@ -1560,7 +1563,8 @@
       "B2B"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -1812,7 +1816,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/dcbaa3bb5c44063d7f8556a66262b6a2852f72aa.png",
     "website": "https://www.joinbackdrop.com",
-    "all_locations": "",
+    "all_locations": "WA, USA",
     "long_description": "",
     "one_liner": "Building what’s next with AI.",
     "team_size": 2,
@@ -1835,6 +1839,8 @@
       "B2B"
     ],
     "regions": [
+      "United States of America",
+      "America / Canada",
       "Remote",
       "Partly Remote"
     ],
@@ -2528,7 +2534,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f8a08dbc0e0067d1983b3b85b2e3893f29d7f41f.png",
     "website": "https://www.pairai.com/",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "NY, USA",
     "long_description": "Pair AI is Shopify for knowledge products. We empower creators, educators, and experts to launch addicting mobile-first video courses and provide AI-assisted coaching services at scale. Our platform is a one-stop shop to seamlessly monetize what you know! We make learning as fun and engaging as watching a TikTok.",
     "one_liner": "Reimagining education with short form video and AI",
     "team_size": 2,
@@ -2746,7 +2752,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/dce31c6ca3dabf16bfd5ee207762b419f47372bd.png",
     "website": "https://www.pledge.health/",
-    "all_locations": "",
+    "all_locations": "NY, USA",
     "long_description": "Our AI browser assistant automates insurance tasks like verifying benefits, submitting prior auths, checking claim statuses, and more across all payer portals, directly from the clinic's EHR. It does exactly what the admin team is doing today, just helps them do it 10x faster and as thoroughly as a seasoned teammate.",
     "one_liner": "AI RCM assistant that handles any insurance task on payer portals for…",
     "team_size": 2,
@@ -2770,6 +2776,8 @@
       "Healthcare IT"
     ],
     "regions": [
+      "United States of America",
+      "America / Canada",
       "Remote",
       "Partly Remote"
     ],
@@ -2790,7 +2798,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6cbe3ea3f22fe3582cf726551f2d874c197a6aa0.png",
     "website": "https://www.spendruby.com",
-    "all_locations": "Remote",
+    "all_locations": "NY, USA; Remote",
     "long_description": "Ruby is a neobank that offers e-commerce businesses a flexible spend management solution and direct integrations with commerce platforms. \r\n\r\nBy combining banking and commerce data, Ruby provides businesses with a real-time, unified view of their financial health and money movement, empowering them to make better financial decisions and scale their operations.",
     "one_liner": "Neobank for e-commerce businesses",
     "team_size": 3,
@@ -2808,6 +2816,8 @@
       "Fintech"
     ],
     "regions": [
+      "United States of America",
+      "America / Canada",
       "Remote",
       "Fully Remote"
     ],
@@ -2826,7 +2836,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a30005e91ad35585a4b56bcea0746fd934004f30.png",
     "website": "https://zerodev.app/",
-    "all_locations": "New York, NY, USA",
+    "all_locations": "CA, USA",
     "long_description": "Use ZeroDev to create self-custody wallets for your users, powered by account abstraction.  These wallets are truly non-custodial, while being easier to use and way more powerful than even custodial wallets, enabling features such as:\r\n\r\n- Gas-free transactions\r\n- Transaction bundling\r\n- Programmable security policies\r\n\r\nZeroDev is perfect for anyone who wants to create wallets for users, including Web 2.5 apps, wallet apps, onramps, marketplaces, and more!",
     "one_liner": "Account abstraction wallets as a service",
     "team_size": 5,
@@ -4139,7 +4149,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/09db813dada056c514e465d4e87a8f422f954e3c.png",
     "website": "https://trychart.com",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "Chart's Unified Tax Record API provides a direct bridge to tax records from the IRS, state tax agencies, and major tax preparation platforms such as TurboTax and H&R Block.",
     "one_liner": "Realtime Access to Verified Tax Records",
     "team_size": 3,
@@ -4161,7 +4171,8 @@
       "Fintech"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -4185,7 +4196,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/be25b5e55711ba973cd7f6c514b56a10ab3da20e.png",
     "website": "https://gooseworks.ai/",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "Goose is an AI coworker that can do real GTM work. Goose can find high-signal leads, run your SEO, run outbound campaigns, track competitors, pull marketing reports, manage your CRM and much more.\r\n\r\nGoose has its own filesystem, memories, mailbox and accounts. You can talk to Goose from Slack, Telegram, mail or anywhere just like any other coworker, and ask it to get work done.",
     "one_liner": "OpenClaw-style AI coworkers for GTM teams",
     "team_size": 5,
@@ -4210,6 +4221,8 @@
       "Marketing"
     ],
     "regions": [
+      "United States of America",
+      "America / Canada",
       "Remote",
       "Partly Remote"
     ],
@@ -4497,7 +4510,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5f51be3e6016c33657688a682b7eb23e8ee1044a.png",
     "website": "https://www.usehaven.ai/",
-    "all_locations": "",
+    "all_locations": "NY, USA",
     "long_description": "Haven is building AI Agents to automate property management operations. Our first Agent is automating the maintenance coordination process. This means answering the phone when tenants have a maintenance issue, diagnosing the issue, dispatching a technician, and then following up with tenants to make sure the issue is resolved.\r\n",
     "one_liner": "AI workforce for property management",
     "team_size": 3,
@@ -4521,7 +4534,8 @@
       "B2B"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -5041,7 +5055,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ae6bb6ef21e1f714caced7765c4401aa4e4ee438.png",
     "website": "https://relace.ai",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "Relace makes it easy to deploy production-ready coding agents. Our models are co-optimized with infrastructure to achieve SoTA performance: 10k+ token/s code merging and retrieval across million-line repositories in seconds.",
     "one_liner": "Models and infra for coding agents",
     "team_size": 7,
@@ -5060,7 +5074,8 @@
       "Engineering, Product and Design"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -5597,7 +5612,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4b3a15112db36cea4190b3079ddeba5278c19f7f.png",
     "website": "https://booth.ai",
-    "all_locations": "Remote",
+    "all_locations": "CA, USA; Remote",
     "long_description": "Booth AI enables companies to supercharge their creative output with a generative-AI powered image production platform. Booth AI replaces complicated, labor intensive, time consuming and expensive commercial product lifestyle photoshoots. Brand managers, merchandisers, and marketers can produce beautiful lifestyle images in a matter of seconds at a fraction of the cost of traditional photoshoots.",
     "one_liner": "Generative AI Photographer for E-Commerce",
     "team_size": 3,
@@ -5622,6 +5637,8 @@
       "Retail"
     ],
     "regions": [
+      "United States of America",
+      "America / Canada",
       "Remote",
       "Fully Remote"
     ],
@@ -5865,7 +5882,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5b5e56a9b5e26e2dce5d150c6db8702733501105.png",
     "website": "https://kv.cash",
-    "all_locations": "Sunnyvale, CA, USA",
+    "all_locations": "CA, USA",
     "long_description": "Contracts shouldn't just execute. They should reason.\r\n\r\nBitcoin introduced decentralized money.\r\nEthereum introduced programmable contracts.\r\nKV Cash introduces intelligent contracts.\r\n\r\nDeterministic AI + TypeScript makes it simple, explainable, and composable. Once seen, it's obvious.\r\n\r\nKV Cash is what contracts were always trying to become.",
     "one_liner": "KV Cash, a blockchain where contracts can finally think",
     "team_size": null,
@@ -6512,7 +6529,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e836589affa3183241d8a3c3f2914bb8dc44d2a8.png",
     "website": "https://www.compliantllm.com/",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "CompliantLLM detects every data leak into third-party GenAI tools used in your company by monitoring employee interactions.\r\n\r\nSecurity and tech leaders get visibiliity and control over the data flowing into various Gen AI apps used in their organizations.",
     "one_liner": "Detect every data leak into third-party GenAI tools",
     "team_size": 3,
@@ -6531,7 +6548,8 @@
       "Security"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -6875,7 +6893,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d52af547a6cb9e66ba98727d83383b9770d82da1.png",
     "website": "http://www.getpointwise.com",
-    "all_locations": "",
+    "all_locations": "NY, USA",
     "long_description": "People spend hours on blogs and YouTube searching for the best credit card. \r\n\r\nPointwise makes it easy to know which credit cards to get over time by analyzing your spending patterns and long term goals\r\n",
     "one_liner": "App that tells you which credit cards to get and when",
     "team_size": 3,
@@ -6893,7 +6911,8 @@
       "Consumer"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -7188,7 +7207,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c88fa9e34c4a724f42d4470f0b3d2c1bd0ae22cd.png",
     "website": "https://gethipposcribe.com",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "Burdensome documentation is the #2 reason causing burnout for physical therapists. More than half of all physical therapists have to write documentation in their free time without pay. up to 2 hours a day. \r\n\r\nOur AI Scribe listens, generate first draft of clinical documentation in minutes, and sync reviewed documentation to EMR in 2 seconds. With us, clinicians can finish documentation 70% faster and become happier. ",
     "one_liner": "AI assisted documentation for PT/OT/SLP",
     "team_size": 2,
@@ -7212,7 +7231,8 @@
       "Healthcare"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -9454,7 +9474,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6354365dd8a078eedfebf117d50c6ac01a2401b6.png",
     "website": "https://usedill.com/",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "Dill helps construction suppliers automate accounts receivable, online payments, and credit applications.",
     "one_liner": "Dill helps construction suppliers automate accounts receivable,…",
     "team_size": null,
@@ -9473,6 +9493,8 @@
       "Finance and Accounting"
     ],
     "regions": [
+      "United States of America",
+      "America / Canada",
       "Remote",
       "Partly Remote"
     ],
@@ -9538,7 +9560,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b0f3c94a7859923f3ba272902a34a8093dda07dd.png",
     "website": "https://useconstant.com",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "Institutional-grade AI, replicating a team of top analysts.",
     "one_liner": "AI Analysts for the Buy-Side",
     "team_size": 2,
@@ -9557,6 +9579,8 @@
       "Asset Management"
     ],
     "regions": [
+      "United States of America",
+      "America / Canada",
       "Remote",
       "Partly Remote"
     ],
@@ -10069,7 +10093,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c618208d2cb852eeff16409fb7e787701c395b91.png",
     "website": "https://www.rex.fit",
-    "all_locations": "Zürich, ZH, Switzerland",
+    "all_locations": "CA, USA",
     "long_description": "The DROP by Rex.Fit is an AI wearable camera that automates nutrition tracking using computer vision. It has garnered more than 93k USD in preorders (~450 units) since its launch last month. The nutrition estimation and recommendation tech behind the DROP is already integrated as an API for fitness chains, generating hundreds of thousands of dollars in yearly revenue for them. The DROP is built by brothers, sports nutritionists and computer vision engineers from the Swiss Federal Institute of Technology (ETH Zurich).",
     "one_liner": "Automating nutrition tracking.",
     "team_size": 2,
@@ -10093,8 +10117,8 @@
       "Consumer"
     ],
     "regions": [
-      "Switzerland",
-      "Europe"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -10339,7 +10363,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/eaf8f081136d0802d1263079f90289e27869565f.png",
     "website": "https://withedge.com",
-    "all_locations": "Remote",
+    "all_locations": "CA, USA; Remote",
     "long_description": "Edge uses AI to help IP professionals get their jobs done. We help trademark attorneys do clearance searches, patent attorneys draft patents, and more.",
     "one_liner": "The ultimate IP assistant.",
     "team_size": 2,
@@ -10358,6 +10382,8 @@
       "Legal"
     ],
     "regions": [
+      "United States of America",
+      "America / Canada",
       "Remote",
       "Fully Remote"
     ],
@@ -10419,7 +10445,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/89a118853f7ef1ffaf38dcc3929f98219859af74.png",
     "website": "https://untetherlabs.com",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "Digital Clinics are facing an existential problem - fix margins, or die. We’ve built a clinic, and seen the tech they need to fix their margins. Now we’re bringing this tech back to other clinics. For our first customer, we’re projected to generate $2.5M in revenue.",
     "one_liner": "Scheduling software for digital health clinics to do more with less.",
     "team_size": 6,
@@ -10437,7 +10463,8 @@
       "Healthcare"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,

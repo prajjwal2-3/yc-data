@@ -1059,7 +1059,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ae263ffeaaa9e3f73bd0e59ce02f82d425311d45.png",
     "website": "http://abelpolice.com",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "Abel takes police body camera footage and turns it into completed police reports. Currently American patrol officers spend one third of their shift writing reports - turning that to zero would increase the effective police force by 50%, radically changing US cities.",
     "one_liner": "Automating police paperwork",
     "team_size": 5,
@@ -1077,7 +1077,8 @@
       "Government"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -1258,7 +1259,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4966bb2facc9c59279d1337270fbdb9d4a76bb93.png",
     "website": "https://roundabout.tech",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "Roundabout Technologies makes AI-powered traffic lights, allowing cities to reduce pedestrian deaths, improve traffic, and reduce resident complaints. Our founding team has experience building safety-critical embedded systems and AI at Waymo, Zoox, Google, and Verily.",
     "one_liner": "Software for AI-powered traffic lights",
     "team_size": 4,
@@ -1276,7 +1277,8 @@
       "Government"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,

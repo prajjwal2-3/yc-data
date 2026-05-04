@@ -950,7 +950,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5142d0a3656cea04017d1b306be0d076b4873877.png",
     "website": "https://alphawatch.ai",
-    "all_locations": "New York, NY, USA; Remote",
+    "all_locations": "CA, USA; Remote",
     "long_description": "Alphawatch AI offers a secure document agent that allows you to manipulate and convert PDF and Word files, along with your internal knowledge in your knowledge base.",
     "one_liner": "Secure Document Agent",
     "team_size": 10,
@@ -1132,7 +1132,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/dce31c6ca3dabf16bfd5ee207762b419f47372bd.png",
     "website": "https://www.pledge.health/",
-    "all_locations": "",
+    "all_locations": "NY, USA",
     "long_description": "Our AI browser assistant automates insurance tasks like verifying benefits, submitting prior auths, checking claim statuses, and more across all payer portals, directly from the clinic's EHR. It does exactly what the admin team is doing today, just helps them do it 10x faster and as thoroughly as a seasoned teammate.",
     "one_liner": "AI RCM assistant that handles any insurance task on payer portals for…",
     "team_size": 2,
@@ -1156,6 +1156,8 @@
       "Healthcare IT"
     ],
     "regions": [
+      "United States of America",
+      "America / Canada",
       "Remote",
       "Partly Remote"
     ],
@@ -1755,20 +1757,20 @@
     "name": "Tower",
     "slug": "tower",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/97d9192686e0278a86ecd8f8e25d07e7d760cfd1.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/71c566f418e6fe3b2b2aa396c65f6feec1bfc40f.png",
     "website": "https://withtower.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Tower accelerates transactional due diligence via an AI-powered, centralized diligence platform. By consolidating disparate diligence workflows, Tower helps deal teams stay organized, spot issues earlier, and close deals faster.",
     "one_liner": "M&A due diligence platform powered by AI",
-    "team_size": 2,
+    "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Legal",
     "launched_at": 1715707959,
     "tags": [
+      "Artificial Intelligence",
       "Workflow Automation",
       "Legal",
       "LegalTech",
-      "AI",
       "AI Assistant"
     ],
     "tags_highlighted": [],
@@ -2294,7 +2296,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/79a24ae2dbf8c5f1b06b70c124868d6c9383b535.png",
     "website": "https://finbar.com",
-    "all_locations": "",
+    "all_locations": "London",
     "long_description": "finbar is the AI investment analyst used by several top-20 (AUM) hedge funds. It automates financial modelling, research, and data analysis so multi-million-dollar decisions can be made 100x faster.",
     "one_liner": "The AI investment analyst",
     "team_size": 4,
@@ -2317,7 +2319,8 @@
       "Fintech"
     ],
     "regions": [
-      "Unspecified"
+      "United Kingdom",
+      "Europe"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -2730,7 +2733,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b0c983ddfd3fa9bc66481090e877261b8325bea1.png",
     "website": "https://www.trelium.com",
-    "all_locations": "Remote",
+    "all_locations": "CA, USA; Remote",
     "long_description": "",
     "one_liner": "The Agent to Build Your Agents",
     "team_size": 6,
@@ -2752,6 +2755,8 @@
       "B2B"
     ],
     "regions": [
+      "United States of America",
+      "America / Canada",
       "Remote",
       "Fully Remote"
     ],
@@ -2859,7 +2864,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9fc7f7534f4fb913904f49914952c1daa8086654.png",
     "website": "https://bubblelab.ai/",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "Bubble Lab turns natural language into visual, production-ready workflows — built for modern ops teams, with built-in observability, logs, and execution traces.\r\n\r\nDeploy to Slack in one click so your team can build and run workflows from anywhere.\r\n",
     "one_liner": "Prompt once, automate forever.",
     "team_size": 2,
@@ -2883,7 +2888,8 @@
       "Operations"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,

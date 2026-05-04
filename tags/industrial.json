@@ -363,7 +363,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c1bb6e6d5b88de1027f26cd87fddd83304d2d58e.png",
     "website": "https://aresindustries.com",
-    "all_locations": "El Segundo, CA, USA",
+    "all_locations": "CA, USA",
     "long_description": "",
     "one_liner": "Building low-cost cruise missiles ",
     "team_size": 2,
@@ -581,7 +581,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/36e55270dbc5bebe580db836e83f643f2121440a.png",
     "website": "https://cascade.space",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "Cascade Space is building a turn-key communications system for lunar and deep space missions. Our ground station network and integrated software tools work together to maximize uptime and availability, while reducing spacecraft iteration cycles from weeks to hours. \r\n",
     "one_liner": "Deep space communications as a service",
     "team_size": 7,
@@ -606,7 +606,8 @@
       "Aviation and Space"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -627,7 +628,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c9c4d6c7b4eeb36609b87bd95a70ffca51164330.png",
     "website": "https://www.foundation-industries.com/",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "For the first time in decades, fast, flexible domestic production can be economically superior. We’re rebuilding America’s productive edge through low-volume, high-mix manufacturing, helping hard-tech teams prototype faster, launch sooner, and build more here.\r\n\r\nIf you want to restore American productive power and ship real hardware, reach out.\r\n\r\njakob@foundation-industries.com",
     "one_liner": "We supply hard tech companies with critical components.",
     "team_size": 4,
@@ -648,7 +649,8 @@
       "Industrials"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -930,7 +932,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7466bfa4281b844c618118683dbd69f3e3cec258.png",
     "website": "https://www.nerviom.com",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "Infrastructure projects like data centers, factories, and energy facilities require navigating hundreds of permits and regulatory approvals before construction can begin. \r\n\r\nToday this process is handled through consultants, spreadsheets, and thousands of pages of documentation, adding years to project timelines and millions in consulting costs.\r\n\r\nWe are building an AI autopilot to automate infrastructure permitting and regulatory compliance. \r\n\r\nOur goal is to significantly reduce the time and cost required to get infrastructure projects approved and built.",
     "one_liner": "AI Autopilot for Infrastructure Permitting",
     "team_size": 1,
@@ -953,7 +955,8 @@
       "Real Estate and Construction"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,

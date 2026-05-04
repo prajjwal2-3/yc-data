@@ -1610,7 +1610,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c4cfdad3584cced8a30fec859292e2380372a30d.png",
     "website": "http://vergegenomics.com",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "Verge uses artificial intelligence and human data to develop better drugs faster. Verge has an end-to-end technology-driven drug discovery and development platform, featuring one of the field’s largest and most comprehensive proprietary patient genomics datasets from human tissue. Verge uses machine learning to mine this data and develops these insights into new drugs using it’s human-centric biology and chemistry platforms. ",
     "one_liner": "We use human data and AI to develop better drugs faster.",
     "team_size": 50,
@@ -1629,6 +1629,8 @@
       "Drug Discovery and Delivery"
     ],
     "regions": [
+      "United States of America",
+      "America / Canada",
       "Remote",
       "Partly Remote"
     ],
@@ -2251,7 +2253,7 @@
     "former_names": [],
     "small_logo_thumb_url": "/company/thumb/missing.png",
     "website": "http://www.teamleada.com",
-    "all_locations": "Berkeley, CA, USA",
+    "all_locations": "CA, USA; Berkeley, CA, USA",
     "long_description": "Leada offers a data training program that companies utilize to on-board their employees in the company's data.\n\nThe data training program enables professionals to understand how to answer the common business questions they face in their role using their BI tool, SQL, R, or Python.",
     "one_liner": "Online enterprise training in data science and analytics.…",
     "team_size": 1,
@@ -2290,7 +2292,7 @@
     "former_names": [],
     "small_logo_thumb_url": "/company/thumb/missing.png",
     "website": "http://locent.com",
-    "all_locations": "Santa Monica, CA, USA",
+    "all_locations": "CA, USA; Santa Monica, CA, USA",
     "long_description": "",
     "one_liner": "Locent is an automated messaging platform for companies",
     "team_size": 11,
@@ -2764,7 +2766,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2ddaee10acb71c657308a3d62234972fbca8392d.png",
     "website": "https://plateiq.com/",
-    "all_locations": "New York, NY, USA; Emeryville, CA, USA",
+    "all_locations": "London; Emeryville, CA, USA",
     "long_description": "Plate IQ makes accounts payable simple.\r\n\r\nAutomated accounts payable software replaces manual data entry by digitizing your invoices down to the line item, automatically assigning them your proper GL codes, syncing the information to your accounting software, and providing analytics around purchasing. Plate IQ also offers one-click bill pay, inventory, and cloud-based data storage that allows businesses to go paperless.",
     "one_liner": "Automated Accounts Payable",
     "team_size": 200,
@@ -2786,7 +2788,9 @@
       "Payments"
     ],
     "regions": [
+      "United Kingdom",
       "United States of America",
+      "Europe",
       "America / Canada",
       "Remote",
       "Partly Remote"

@@ -319,7 +319,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5b63801706e3874e4f1017433f3c6a3ce0dddbca.png",
     "website": "https://www.spurtest.com/",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "NY, USA",
     "long_description": "Never code up another test or hire an external QA team. We handle and automate all functional and E2E testing. ",
     "one_liner": "Spur is your AI QA Engineer. Test your websites with natural language.",
     "team_size": 8,
@@ -541,7 +541,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ae263ffeaaa9e3f73bd0e59ce02f82d425311d45.png",
     "website": "http://abelpolice.com",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "Abel takes police body camera footage and turns it into completed police reports. Currently American patrol officers spend one third of their shift writing reports - turning that to zero would increase the effective police force by 50%, radically changing US cities.",
     "one_liner": "Automating police paperwork",
     "team_size": 5,
@@ -559,7 +559,8 @@
       "Government"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -662,7 +663,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2a43915880e9457258d58ab7ad09815c195bf21a.png",
     "website": "https://www.spherecast.ai/",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "Spherecast is building Agnes, the AI Supply Chain Manager for Consumer Goods. \r\n\r\nAgnes decides what to produce, where to make it, and how to move it through factories, warehouses, and channels – simulating thousands of options in seconds and executing the best plan.\r\n\r\nWe are building Agnes to shape the physical flow of goods in the world, turning it into something as programmable as code.\r\n\r\nWhen we succeed, every consumer product you touch will run on the Spherecast stack – planned in the Spherecast OS, executed over Spherecast Rails, and optimized by the shared Spherecast Network.\r\n\r\nOracle turned atoms into bits.\r\nSpherecast turns bits back to atoms, but globally optimized.\r\n\r\nBe part of the next $T company.",
     "one_liner": "AI Supply Chain Manager for CPG",
     "team_size": 7,
@@ -681,7 +682,8 @@
       "Supply Chain and Logistics"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -827,7 +829,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fbd00107f697b5f5493bc13c93f8896ad8eff46b.png",
     "website": "http://superunit.ai",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "CA, USA",
     "long_description": "Superunit deploys AI voice and email agents to complete employment verifications for background check companies—faster, cheaper, and more compliant than internal teams or outsourced call centers.\r\n\r\nOur agents call and email employers, collect verification data, and log every interaction for audit and compliance. Customers are replacing manual workflows with Superunit to scale without adding headcount or compromising quality.\r\n\r\nWe work with background screeners and banks to process thousands of verifications per month.",
     "one_liner": "Faster, more profitable background checks with AI",
     "team_size": 2,
@@ -1135,7 +1137,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/05b004a38c0a5df5a4e151b258151cd9a38f08c8.png",
     "website": "https://theseus.us",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "Theseus builds visual navigation software for GPS-denied drone operations. Using onboard cameras, inertial sensors, and satellite reference imagery, our system computes position fixes entirely passively. The system is entirely self contained, can't be jammed and has no RF signature.",
     "one_liner": "GPS Denied Navigation for Drones",
     "team_size": 6,
@@ -1157,7 +1159,8 @@
       "Drones"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -1339,7 +1342,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/069321145273b85ba7d87787840c61562c041b8f.png",
     "website": "https://www.prohost.ai/",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "NY, USA",
     "long_description": "ProhostAI is building an AI Property Manager for short-term rental hosts on Airbnb and other platforms. Our team consists of an ex-Airbnb Staff Data Scientist and Dropbox Sr Software Engineer who are also Superhosts with 9 properties worth $15M making $1.5M/yr.",
     "one_liner": "AI Property Manager for Airbnb & Short-Term Rental Hosts",
     "team_size": 5,
@@ -1470,7 +1473,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/dd82f4e0241c51007ca4b9aef139a8ebeb515e7f.png",
     "website": "https://www.mdhub.ai/",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "mdhub is the AI-native operating system for behavioral health. \r\n\r\nWe combine AI workers with a purpose-built EHR, CRM, and RCM into one platform where clinical teams and AI collaborate across every workflow.\r\n\r\nMid to large-sized behavioral health clinics run on disconnected legacy systems that weren't designed for today's demand. The result: clinician burnout, admin bloat, and patients waiting weeks for care. mdhub replaces the entire fragmented stack with a single AI-first platform.\r\n\r\nOur AI workers:\r\n\r\nEmma, AI Clinical Assistant: automates documentation and gives clinicians back hours every day.\r\nSarah, AI Admissions Coordinator: handles 100% of inbound calls, verifies insurance, and books patients 24/7.\r\nEric, AI Billing Agent: manages coding, claims submission, and denial management same-day.\r\n\r\nOur platform:\r\n\r\nmdhub EHR: the first clinical workspace built for AI from day one. Documentation, intake, treatment planning, e-prescribing, and billing in one place.\r\nmdhub CRM: every lead captured, every follow-up automated, nothing falls through the cracks.\r\nmdhub RCM: end-to-end revenue cycle management. From claim submission to collections, AI-powered and fully integrated.\r\n\r\nWe're not another EHR with AI bolted on. We're not a point solution. We're the full operating system where AI workers and human teams run a clinic together. Hundreds of mid to large-sized behavioral health clinics use mdhub today, including some of the largest organizations in the country. One platform, less overhead, more patients seen.",
     "one_liner": "AI-native operating system for behavioral health clinics.",
     "team_size": 11,
@@ -1488,6 +1491,8 @@
       "Healthcare"
     ],
     "regions": [
+      "United States of America",
+      "America / Canada",
       "Remote",
       "Partly Remote"
     ],
@@ -1670,7 +1675,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fc21f071bc440027719fe93cbb326886a0f83528.png",
     "website": "https://randomlabs.ai",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "Random Labs is building Slate. Slate is a coding agent designed to work with you for long hours on hard problems.",
     "one_liner": "Random labs is building long running autonomous coding agents.",
     "team_size": null,
@@ -1694,7 +1699,8 @@
       "Engineering, Product and Design"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -1963,7 +1969,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7c58aadee870eec1472167cb5194bd295f5285f8.png",
     "website": "https://stack-auth.com",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "Stack is the open-source authN, authZ, and user management platform.\r\n\r\nWe build for devs who want to iterate quickly, offering both managed auth and self-hosting. You can set it up in one minute and scale with the project as it grows.\r\n\r\nStack was built by repeat founders with strong technical backgrounds. Check out our GitHub: https://github.com/stack-auth/stack",
     "one_liner": "The open-source Auth0 alternative",
     "team_size": 6,
@@ -1982,7 +1988,8 @@
       "Engineering, Product and Design"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -2045,7 +2052,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/67133b6c1025c9a5557fc657b87ed61ad2b540c5.png",
     "website": "https://videogen.io",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "VideoGen makes it easy for anyone to create professional, copyright-free videos in seconds. Today, we serve thousands of customers, from individuals and small businesses to teams at Google and ByteDance.\r\n\r\nMaking videos is hard, time-consuming, and expensive if you hire someone to do it for you. With VideoGen, it only takes a few clicks!",
     "one_liner": "AI that can create and edit professional videos",
     "team_size": 5,
@@ -2063,6 +2070,8 @@
       "B2B"
     ],
     "regions": [
+      "United States of America",
+      "America / Canada",
       "Remote",
       "Partly Remote"
     ],
@@ -2341,7 +2350,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ddd71ba982d476aedba701cf20c9d17a3c9193de.png",
     "website": "https://ideate.xyz",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "London",
     "long_description": "Generate. Paint. Refine.\r\n\r\nideate.xyz is an AI-powered 3D art suite on the web, taking your ideas from concept to production ready assets in record time.\r\n\r\nOur powerful text to image to 3D pipeline rapidly generates model assets using the latest AI tech.\r\n\r\nRapidly generate and edit 3D model textures in your browser using our texture projection and inpainting editor.\r\n\r\nGet your 3D assets production ready using our texture processing, upscaling and compression algorithms.",
     "one_liner": "ideate.xyz is an AI-powered 3D art suite on the web",
     "team_size": 2,
@@ -2365,8 +2374,8 @@
       "Engineering, Product and Design"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "United Kingdom",
+      "Europe"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -2511,7 +2520,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/75a43a4feea8b7e9b9068056b060eea8ca21a51a.png",
     "website": "https://www.retrofix.ai/",
-    "all_locations": "",
+    "all_locations": "NY, USA",
     "long_description": "RetroFix is an automation platform designed to be extremely intuitive to use, making it much easier and faster to automate manual work. \r\n\r\nTo create or modify workflows you can describe them in natural language and our agent will create them end-to-end for you. We allow you to connect with 2000+ applications and use our pre-built actions for your workflows. In the case we don't have a pre-built step, our agent can instead write code to access the full APIs of all the apps we integrate with.",
     "one_liner": "Automate any workflow using plain english",
     "team_size": 2,
@@ -2529,7 +2538,8 @@
       "B2B"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -2861,7 +2871,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7a33b212287f4a8ba926edd565f2b9dfec82369e.png",
     "website": "https://zuni.app",
-    "all_locations": "Remote",
+    "all_locations": "London; Remote",
     "long_description": "Zuni is a Chrome extension that gives you AI capabilities in the sidebar of your browser. It can use what it sees on any of your tabs as context, and proactively helps you draft messages and emails.",
     "one_liner": "AI Assistant that works alongside you in your Chrome browser",
     "team_size": 2,
@@ -2885,6 +2895,8 @@
       "Productivity"
     ],
     "regions": [
+      "United Kingdom",
+      "Europe",
       "Remote",
       "Fully Remote"
     ],
@@ -3201,7 +3213,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c1bb6e6d5b88de1027f26cd87fddd83304d2d58e.png",
     "website": "https://aresindustries.com",
-    "all_locations": "El Segundo, CA, USA",
+    "all_locations": "CA, USA",
     "long_description": "",
     "one_liner": "Building low-cost cruise missiles ",
     "team_size": 2,
@@ -3508,7 +3520,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c195f1e4be073ff23e0e95a7e8dd2dbdc94e086e.png",
     "website": "https://tivara.com",
-    "all_locations": "",
+    "all_locations": "NY, USA",
     "long_description": "",
     "one_liner": "The AI workforce for medical groups",
     "team_size": 2,
@@ -3531,7 +3543,8 @@
       "Healthcare"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -3596,7 +3609,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/088175fa9125ef3885f5ea688b7630e8021bece3.png",
     "website": "https://tandemspace.com/",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "The pandemic reduced office use nationwide by 50%, and tenants have been left to deal with highly inflexible, long term lease agreements that don’t fit today’s office use patterns.\r\n\r\nThe traditional brokerage model works great for big spaces and long terms. But when you want to talk smaller units, short term lengths, shared and common areas, you’re out of luck. \r\n\r\nTandem is an AI-native office leasing platform. We’re using technology to unlock an easier leasing process.   Our AI co-pilot provides a white-glove-quality B2B office search experience, with a fraction of the human labor typically required.\r\n\r\nToday we’re serving three primary markets — NY, SF and BOS.  We’ve helped more than 500 companies find great office space and have seen double-digit month-over-month growth.",
     "one_liner": "AI-native office leasing agent",
     "team_size": 22,
@@ -3619,6 +3632,8 @@
       "Office Management"
     ],
     "regions": [
+      "United States of America",
+      "America / Canada",
       "Remote",
       "Partly Remote"
     ],
@@ -3637,7 +3652,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fa1669fc77240d5b136ed7eb12c167327e93c7e8.png",
     "website": "https://www.weaverobots.com",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "Making the world’s first personal robot that's built for the home.  Our robot, Isaac, will autonomously tidy up endless messes, fold laundry, and care for your home while you’re away, and we’re shipping our first 30 in fall of 2025.",
     "one_liner": "Personal robots for the home--that ship in 2025",
     "team_size": 10,
@@ -3656,7 +3671,8 @@
       "Manufacturing and Robotics"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -3718,7 +3734,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f7d5463656052d09bd1bc697531992af867d844c.png",
     "website": "https://www.aminoanalytica.com",
-    "all_locations": "San Francisco, CA, USA; Remote",
+    "all_locations": "London; Remote",
     "long_description": "Design, simulate, and test your proteins 100x faster with the end-to-end no-code platform for protein engineering. Powered by Amina, our AI agent.\r\n\r\nWith Amina, one protein engineer can do the work of 10. Describe what you want to achieve and Amina will handle everything else – from research and design to simulation, folding, docking, and protein characterization. It asks clarifying questions if needed, intelligently understands and performs the task, and analyzes your results within the context of your project.",
     "one_liner": "The AI-Native Operating System for Protein Engineering",
     "team_size": 2,
@@ -3743,8 +3759,8 @@
       "Industrial Bio"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada",
+      "United Kingdom",
+      "Europe",
       "Remote",
       "Fully Remote"
     ],
@@ -3990,7 +4006,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3696c9745e142e57106326ecee11170df0cc6971.png",
     "website": "https://www.dmodel.ai",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "rl. interp. alignment. data.",
     "one_liner": "Look inside the model",
     "team_size": 12,
@@ -4009,7 +4025,8 @@
       "Engineering, Product and Design"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -4446,7 +4463,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5599d6ea2250a3e737886dc9c0347fc88fcd2abb.png",
     "website": "https://kastle.ai/",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "Kastle is an AI voice agent for mortgage servicing. We help servicers collect payments, verify new borrowers, and qualify new loan inquiries over the phone. \r\n\r\nRishi and Nitish met at UIUC where they graduated with degrees in systems engineering and computer science.  Rishi was the founding Product Manager for Redfin’s Mortgage Marketplace at 22 and grew the business from $3M to $6M in revenue in 9 months. Nitish patented Verkada’s motion search system and was the youngest tech lead at the company at 23.\r\n\r\nWhile building Redfin's Mortgage Marketplace Rishi realized traditional lenders didn't have the infrastructure to service online inquiries and were losing customers. Nitish and Rishi are building Kastle to help traditional financial services companies better interface with their customers. ",
     "one_liner": "AI agents for mortgage servicing",
     "team_size": 10,
@@ -4464,7 +4481,8 @@
       "B2B"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -4744,7 +4762,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/09f637750b9552f2816bb15f6e4323e0af65bc7d.png",
     "website": "https://www.usepromi.com/",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "Promi is an AI-powered price and discount optimization platform. We help eCommerce merchants personalize their sales to generate additional revenue and profit.\r\n\r\nEcommerce merchants and marketers typically use discounts to drive customer acquisition, boost sales during holidays, or liquidate inventory. But deciding on a discount to offer is typically guesswork. Who to send the discount to, how much to offer, and which products it applies to are, in the most advanced cases, determined manually by looking at past sales and seeing what worked well. In the majority of cases, it's what feels and sounds good.\r\n\r\nPromi leverages store data to optimize discounts at a more granular level than possible manually. We dynamically determine the best value across each product, for different users, at different times in order to maximize sales and profit.",
     "one_liner": "Optimizing ecommerce pricing with dynamic, personalized discounts",
     "team_size": 2,
@@ -4763,6 +4781,8 @@
       "Retail"
     ],
     "regions": [
+      "United States of America",
+      "America / Canada",
       "Remote",
       "Partly Remote"
     ],
@@ -4952,7 +4972,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/426a30b70fda99424c435ff497b3865e72ad8b18.png",
     "website": "https://www.reactwise.com/",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "London",
     "long_description": "Our Mission: \r\nWe aim to accelerate and automate chemical process development by equipping wet-lab chemists with the power of data-driven optimization and robotic execution of experiments.\r\n\r\n\r\nThe Problem: \r\nThe discovery of novel pharmaceuticals is one of our most important weapons in fighting disease. However, the drug development pipeline is often held up for many months during the design of chemical processes to manufacture these drugs at scale, delaying FDA trials and lengthening the time until drug launch. Designing chemical processes involves the identification of suitable parameters such as catalyst/temperature/solvent. Currently process development is often done via tedious trial-and-error experimentation (slow) or exhaustive screening (expensive and wasteful).\r\n\r\n\r\nOur Approach: \r\nIn our research, we have developed algorithms for chemical process optimization, which leverage transfer learning and Bayesian optimization. We validated the algorithms in the wet lab, showing an up to 95% reduction in required experiments and cost compared to exhaustive screening. We have made our approaches accessible to chemists through our user-friendly no-code software platform and to automated laboratory equipment with our API.",
     "one_liner": "AI Co-Pilot for Chemical Process Optimization",
     "team_size": 2,
@@ -4971,8 +4991,8 @@
       "Engineering, Product and Design"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "United Kingdom",
+      "Europe"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -5165,7 +5185,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f2dcfde1bafa60796981ae7624ad15e71586a290.png",
     "website": "https://www.hestus.co",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "Hestus is AI-powered CAD software that speeds up hardware development. While engineers are typically quick at coming up with initial design concepts, they are bogged down getting from idea to the final design due to countless tedious and repetitive tasks. We are building CAD software that automates these mundane tasks and speeds up the design execution process, while letting engineers spend more time on the creative part of the design process.\r\n",
     "one_liner": "An AI-powered CAD software",
     "team_size": 3,
@@ -5184,6 +5204,8 @@
       "Engineering, Product and Design"
     ],
     "regions": [
+      "United States of America",
+      "America / Canada",
       "Remote",
       "Partly Remote"
     ],
@@ -5336,7 +5358,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a3c0ebb7e9cc188d3721bc8e308ed808091559dc.png",
     "website": "https://dimely.com/",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "Dimely helps accounting teams scale their order management & contract review workflows. Today fast-growing tech unicorns like Checkr and Airbyte get more coverage with less manual work by using Dimely’s AI agents to intelligently extract relevant details from core files like Order Forms, MSAs & POs, flag discrepancies, and then sync this information to core finance systems like NetSuite and Stripe.\r\n\r\nDimely leverages what finance and accounting teams love most, spreadsheets, for all its workflows so teams never feel out of place. Teams just replace their existing, siloed Excel spreadsheet with one that's connected and powered by AI. Teams love Dimely for its ease of use and intuitive user experience that saves them hundreds if not thousands of hours a month. ",
     "one_liner": "AI-Powered Spreadsheet for Billing Automation",
     "team_size": 3,
@@ -5355,7 +5377,8 @@
       "Finance and Accounting"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -5889,7 +5912,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c1f6e5b372dfeaf0a22413750be22b1fb18c525b.png",
     "website": "https://www.withdavid.ai/",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "",
     "one_liner": "Data for audio AI",
     "team_size": 10,
@@ -5907,7 +5930,8 @@
       "B2B"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Growth",
     "app_video_public": false,
@@ -6447,7 +6471,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ed607e65537f111a39e5fd0ab221ec114e01bb3e.png",
     "website": "http://mineflow.ai/",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "Mineflow is an AI platform for mineral exploration. We generate predictions for mineral deposit shapes and locations, empowering mining companies from initial exploration to advanced feasibility studies.\r\n\r\nGeologists need to know precisely where their deposits are because drilling is expensive. In early trials with a lithium mining company, we found that Mineflow predicts the shape of hard rock lithium deposits more than an order of magnitude more accurately than our competitors.\r\n\r\nRyan received a BS in Artificial Intelligence from Carnegie Mellon's School of Computer Science where he helped teach both the grad-level Deep Learning course and the grad-level Search Engines course. He built ML models at Google in the Display Ads optimization org for 2 years and launched products that generated ~125m USD in ARR.",
     "one_liner": "Mineflow predicts the shape and location of mineral deposits",
     "team_size": 2,
@@ -6465,7 +6489,8 @@
       "Industrials"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -6482,7 +6507,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4c3ccc32c3cef12a79c45aceb7aa532c954f0602.png",
     "website": "https://www.brighterway.ai/",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "At Brighterway, we use AI to speed up the medical record review process in the Workers' Compensation Industry. Physicians and claims handlers spend hours reviewing thousands of pages of medical documents– our technology highlights the information that is most relevant to a doctor's specialty or a given injury, streamlining their review process and saving them time.\r\n\r\nBrighterway structures and deduplicates disorganized medical records (PDFs) and extracts the content that is medically relevant and related to a given claim, so they can focus on what matters most.",
     "one_liner": "Streamlining the medical record review process in workers comp",
     "team_size": 14,
@@ -6507,7 +6532,8 @@
       "Healthcare IT"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -6524,7 +6550,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ac4a7beb03a05695b7b9e9e9353c8cb94a4bfa8d.png",
     "website": "https://www.schemeflow.com",
-    "all_locations": "",
+    "all_locations": "London",
     "long_description": "SchemeFlow uses AI to generate technical reports for engineering and environmental review  for construction projects.\r\n\r\nTwo brothers + high school friend, with great combo of skills: Mayor’s Chief of Staff, Arup construction engineer + AI software engineer.\r\n\r\nLLMs allow fast generation of reports & handling local regulatory complexity which wasn’t feasible before.\r\n\r\nWorking across Transportation, Air Quality, Noise, Flood Risk, Environmental review in the US and the UK, with major engineering companies such as Stantec, Buro Happold and Royal Haskoning.\r\n\r\n$9B US opportunity (143k consultants x $64k/yr report-writing work), $23B worldwide.\r\n\r\nwww.schemeflow.com",
     "one_liner": "AI Report Generation for Engineering & Environmental Review",
     "team_size": 5,
@@ -6542,7 +6568,8 @@
       "Real Estate and Construction"
     ],
     "regions": [
-      "Unspecified"
+      "United Kingdom",
+      "Europe"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -6734,7 +6761,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/336383ad58869871ce591b4e1b31dd374319435c.png",
     "website": "https://www.cerulion.com",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "Cerulion is an open source operating system for robots built by 2 MIT robotics PhDs. Companies like Amazon Robotics and Boston Dynamics AI Institute are using us to develop faster and ship more reliable robots than with ROS. With up to 1000x improvements in communications performance over state of the art, Cerulion is enabling the next generation of embodied AI.",
     "one_liner": "Open source operating system for robots",
     "team_size": 2,
@@ -6753,7 +6780,8 @@
       "Engineering, Product and Design"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -6772,7 +6800,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f68c82dc13524e235198c783318ae1b1aa5d7432.png",
     "website": "https://laminar.sh",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "London",
     "long_description": "Laminar is open-source observability for AI agents. Trace complex workflows, replay and debug agent runs, and detect anomalies across trajectories at scale.",
     "one_liner": "Understand why your AI agent breaks. Iterate fast to fix it.",
     "team_size": 6,
@@ -6797,8 +6825,8 @@
       "Engineering, Product and Design"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "United Kingdom",
+      "Europe"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -6987,7 +7015,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/cf6d969f27356db2fc06ab6ccaa28ee3d3ec43ef.png",
     "website": "https://www.drive-thru.ai/",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "At Lilac, we automate the person taking order at the drive thru with a voice AI. We're building this for Quick Service Restaurants (QSRs) dealing with an historical labor shortage and rising wages.\r\n\r\nPrevious attempts at drive-thru voice ordering are costly to implement and have failed to deliver the accuracy and latency needed. It's now possible to build a voice interface that passes the threshold for a great customer experience.\r\n\r\nIn the United States, there are 200,000 Drive-Thrus handling 6 Billion visits a year. At 3 minutes per order, that's 34,000 human years spent on taking orders annually. Per location, on average we can deliver around $100,000 of value in terms of labor savings, upsell revenue lift, and training costs.",
     "one_liner": "We automate the person taking orders at drive-thrus with a voice AI",
     "team_size": 4,
@@ -7005,7 +7033,8 @@
       "B2B"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -7025,7 +7054,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/45a371e602b123c726fb74d27c73504797f68a62.png",
     "website": "https://refactor.co",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "Refactor works closely with large organizations across healthcare, retail, and logistics to safely tackle their most ambitious AI use-cases in record time. We focus on building autonomous systems that call, click, and navigate legacy software systems. We have worked with companies serving tens of millions of customers and with $50B+ annual revenue. ",
     "one_liner": "Deploying secure and reliable AI agents across healthcare, retail,…",
     "team_size": 3,
@@ -7043,7 +7072,8 @@
       "B2B"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -7328,7 +7358,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3dd16f59d0364681bf3111ec38321f6ece68ed50.png",
     "website": "https://www.finosu.com",
-    "all_locations": "",
+    "all_locations": "NY, USA",
     "long_description": "Hi - Mark and Gab here!\r\n\r\nWe met while working at Alt, a marketplace for collectibles, where we built a $200 million specialty finance business line. At Alt, we faced the complex challenges that come with servicing consumer loans. We spent countless hours and resources developing internal tools to manage loan payments, communicate with borrowers, and keep track of loan performance—all while ensuring a positive experience for our customers.\r\n\r\nHowever, after dealing with the headaches of manual data entry, fragmented systems, delayed payments, lack of personalized borrower engagement, and the stress of maintaining accurate records, we knew there had to be a better way to service consumer loans.\r\n\r\nSo, we started Finosu to build the servicer we wish we had—an AI-powered consumer loan servicer designed to streamline and enhance every aspect of the loan servicing process. \r\n\r\nOur mission is to transform loan servicing into a seamless, efficient, and customer-centric experience.\r\n\r\nThe operational cost of servicing loans reaches into the tens of billions a year and that is money out of the pocket of lenders, borrowers, investors, and ultimately the consumers as a cost of doing business – we are changing that.",
     "one_liner": "AI Native Consumer Loan Servicer",
     "team_size": 7,
@@ -7352,7 +7382,8 @@
       "Credit and Lending"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -8110,7 +8141,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/29ea469fed3c60e9950eccadce6c5b7f8fcd6569.png",
     "website": "https://kontigo.lat/",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "We’re building Kontigo, a USDC Smart Neobank for Latinos in the U.S. and Latin America.\r\n\r\nWe launched our Peer-to-Peer onramp 20 days ago and we’ve already had $540k in deposits, 10k active users and a +300k waitlist. \r\n\r\nThe founding team has built and scaled fintechs in Latam, and it’s ex-Venmo, Nubank, Rappi, MercadoLibre, Ualá, Platzi, and Yuno. \r\n\r\nWe’re already backed by DST Global, Soma Capital, Pioneer Fund, Transpose + 10 YC alums.\r\n\r\nSending money to Latin America is just as painful as holding it due to the region's fragmentation into 33 countries with 39 different currencies. \r\n\r\nOn one hand, cross-border payments to Latam are absurdly expensive (up to 20% per transaction). Conversely, over the past decade, currency depreciation across the region has become unsustainable. (some countries surpassing the trillion percent ). \r\n\r\nKontigo solves this with a USDC global wallet & a BTC savings account. \r\n\r\n- Like Venmo, but on-USDC.\r\n- Like Zelle, but for cross-border payments. No limits.\r\n- Like Nubank & Revolut, but without inflationary currencies. Bitcoin-backed.\r\n\r\nUser wallets are connected to an AI-private banker on WhatsApp to execute international USDC transactions. ",
     "one_liner": "USDC-Smart Neobank for Latinos. ",
     "team_size": 10,
@@ -8129,6 +8160,8 @@
       "Banking and Exchange"
     ],
     "regions": [
+      "United States of America",
+      "America / Canada",
       "Remote",
       "Partly Remote"
     ],
@@ -8582,7 +8615,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/447ef3f5bdd55f339b07fe098ff620ccfd86af36.png",
     "website": "https://rastro.ai",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "London",
     "long_description": "We help distributors and manufacturers turn catalog chaos into launch-ready products. Share vendor data, pull online specs and pricing, fuzzy match to your database, generate images, and output products in your exact schema.",
     "one_liner": "The fastest way to launch product catalogs.",
     "team_size": 3,
@@ -8606,8 +8639,8 @@
       "Retail"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "United Kingdom",
+      "Europe"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -8940,7 +8973,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/55cc697d9f14eca5a5d45772ac14d97a83df16ae.png",
     "website": "https://bucket.bot",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "Bucket Robotics builds deployable computer vision systems for manufacturing — without labeling, long pilots, or fragile rules.\r\nWe turn CAD and sample data into production-ready vision models that run on existing cameras and edge hardware. No manual labeling. No cold-start problem. Models deploy in minutes and adapt as parts, defects, and lines change.\r\n\r\nOur roots are in self-driving cars (Argo AI, Uber ATG, Stack AV), where we learned how to ship perception systems that operators trust in messy, real-world environments. We’re applying that playbook to factories: robust sensing, fast iteration, and tooling engineers actually enjoy using.\r\n\r\nManufacturers struggle with inspection because parts are too variable for rules-based vision and too expensive to inspect by hand. Legacy systems are rigid, hardware-locked, and slow to customize. We take the opposite approach: software-first vision that fits into existing automation and scales across SKUs, facilities, and workflows.\r\n\r\nAmerican Manufacturing is in the middle of a $700B automation push — but quality is still a trust problem. Bucket Robotics is building the vision infrastructure that lets factories automate inspection with confidence.",
     "one_liner": "Defect detection for manufacturing built from CAD and synthetic data.",
     "team_size": 5,
@@ -8964,7 +8997,8 @@
       "Manufacturing and Robotics"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -9227,7 +9261,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8e0caa2cad35d6f34cdbfbf4ac96d85d2f1a09ca.png",
     "website": "https://trykeet.com",
-    "all_locations": "",
+    "all_locations": "NY, USA",
     "long_description": "Keet provides authentication for AI agents. Developers use us to connect their customers accounts and perform actions on their behalf. \r\n\r\nWhether it be legacy software or consumer sites, Keet manages your users authenticated sessions and provides stable integrations on any web platform. Now your AI Agent can access healthcare data or send automated messages on LinkedIn via Keet’s API or SDK.",
     "one_liner": "Authentication for AI Agents",
     "team_size": 2,
@@ -9249,7 +9283,8 @@
       "B2B"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -9530,7 +9565,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9f4ffb580e2b7f9d32ad41f2bca07eed911ae32b.png",
     "website": "https://heyrevia.ai",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "Hey Revia is a voice AI that handles complex phone calls for healthcare providers. Our software automates complex menus, reduces hold times, and handles tedious phone calls—verifying provider details, updating insurance info, and securing approvals. We offer Revia as web app, mobile app and API.",
     "one_liner": "Voice AI to automate complex phone calls for healthcare providers",
     "team_size": 4,
@@ -9548,6 +9583,8 @@
       "B2B"
     ],
     "regions": [
+      "United States of America",
+      "America / Canada",
       "Remote",
       "Partly Remote"
     ],
@@ -10118,7 +10155,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/637fd6f0b41173fce58a7cc13944c42be5d808ec.png",
     "website": "https://www.arva.ai",
-    "all_locations": "",
+    "all_locations": "London",
     "long_description": "Banks and fintechs have large teams of human analysts who conduct manual checks and reviews. We replace those human compliance analysts with AI agents that automate 80% of the manual work for faster and more compliant financial crime (AML) reviews.\r\n\r\nOur first three products are: Screening AI (discount 91% of screening alerts), KYB/C AI (speed up onboarding), Transaction Monitoring AI (handle AML transaction monitoring alerts)\r\n\r\nOur end goal is to have a whole suite of AI workers that can handle manual compliance work for banks and fintechs. A $24B opportunity in the US alone.",
     "one_liner": "AI Agents to scale AML, KYB and KYC operations",
     "team_size": 14,
@@ -10142,7 +10179,8 @@
       "B2B"
     ],
     "regions": [
-      "Unspecified"
+      "United Kingdom",
+      "Europe"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -10291,7 +10329,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2f189a43d87020ce1dd302bdc0c90f0f5ee76fc9.png",
     "website": "https://midship.ai/",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "Midship is rebuilding internal audit from the ground up. We're starting with SOX testing by building AI agents that perform audit work end to end, giving auditors leverage to focus on higher-value risk and advisory work.",
     "one_liner": "AI for SOX testing",
     "team_size": 3,
@@ -10310,7 +10348,8 @@
       "Finance and Accounting"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -10373,10 +10412,10 @@
     "subindustry": "B2B",
     "launched_at": 1724891975,
     "tags": [
-      "Artificial Intelligence",
       "Finance",
       "B2B",
-      "Lending"
+      "Lending",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -10458,13 +10497,13 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Run parallel agents in isolated workspaces. See at a glance what they’re working on, then review and merge their changes. ",
     "one_liner": "Run a team of coding agents on your Mac",
-    "team_size": 4,
+    "team_size": 6,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1725301012,
     "tags": [
-      "Artificial Intelligence",
-      "Developer Tools"
+      "Developer Tools",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -10480,7 +10519,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,

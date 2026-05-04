@@ -1377,7 +1377,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/52f8bfabfa73534a4e180ab67b04914310f2a95e.png",
     "website": "https://influxdata.com",
-    "all_locations": "San Francisco, CA, USA; Remote",
+    "all_locations": "NY, USA; San Francisco, CA, USA; Remote",
     "long_description": "InfluxData, the creators of InfluxDB, delivers a modern Open Source Platform built from the ground up for analyzing metrics and events (time series data) for DevOps and IoT applications. Whether the data comes from humans, sensors, or machines, InfluxData empowers developers to build next-generation monitoring, analytics, and IoT applications faster, easier, and to scale delivering real business value quickly. Based in San Francisco, InfluxData customers include Autodesk, Cisco, eBay, and Coupa. Visit https://www.influxdata.com.",
     "one_liner": "The platform for building and operating time series applications.",
     "team_size": 210,
@@ -1586,7 +1586,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d29bf58956a62cac907d5bfab6e8858458173060.png",
     "website": "http://facebook.com/live/producer",
-    "all_locations": "Ogden, UT, USA; Remote",
+    "all_locations": "NY, USA; Remote",
     "long_description": "Media companies, brands and celebrities used Vidpresso to create the best quality live videos, typically for Facebook Live and Twitter. Vidpresso was acquired in 2018 by Facebook.",
     "one_liner": "Help media companies make quality live video. [Acquired by Facebook]",
     "team_size": 7,
@@ -1628,7 +1628,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/17547ff6e0fe5d75c99f92fdc3b9c13fa6712bd5.png",
     "website": "https://www.aptible.com",
-    "all_locations": "San Francisco, CA, USA; Toronto, ON, Canada; New York, NY, USA; Philadelphia, PA, USA; Boston, MA, USA; Indianapolis, IN, USA; Remote",
+    "all_locations": "NY, USA; Toronto, ON, Canada; New York, NY, USA; Philadelphia, PA, USA; Boston, MA, USA; Indianapolis, IN, USA; Remote",
     "long_description": "At Aptible, we envision a world where developers achieve more with less infrastructure. We’re building the platform that empowers developers at companies of all stages of development to move beyond the traditional method of managing infrastructure—DIY with expert infrastructure and platform engineers on AWS, GCP, or Azure. We’ve done this through our secure, compliant, reliable, and scalable Platform as a Service that’s been used by thousand of developers, hundreds of companies, and dozens of publicly traded and unicorn companies since 2013.",
     "one_liner": "The No Infrastructure Platform as a Service",
     "team_size": 25,
@@ -1676,7 +1676,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/54adc77913df8208ff5542365ce1fa003567f7c8.png",
     "website": "http://blockspring.com",
-    "all_locations": "San Francisco, CA, USA; Remote",
+    "all_locations": "CA, USA; San Francisco, CA, USA; Remote",
     "long_description": "Blockspring helps small businesses and merchants integrate APIs into their productivity tools without any code - useful for report automation, lead generation, and building dynamic landing pages. It is recognized by Gartner, wired, BI, and Techcrunch for API data management.",
     "one_liner": "Automate data collection for spreadsheets and productivity tools.",
     "team_size": 3,
@@ -2473,7 +2473,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/10887edbd9771d54d34bdf7780c6f3cda92e7366.png",
     "website": "https://www.assemblyai.com",
-    "all_locations": "San Francisco, CA, USA; Remote",
+    "all_locations": "NY, USA; Remote",
     "long_description": "Today’s top Voice AI companies rely on AssemblyAI’s speech-to-text and speech understanding models to launch groundbreaking products fast and to scale with ease.",
     "one_liner": "The best way to build Voice AI apps",
     "team_size": 65,
@@ -2999,7 +2999,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/115e9bc9f54e89ef6b7151c81d7b8dbca815879f.png",
     "website": "https://www.openreplay.com/",
-    "all_locations": "Paris, Île-de-France, France",
+    "all_locations": "NY, USA; Paris, Île-de-France, France",
     "long_description": "Open-source alternative to FullStory and LogRocket. Self-hosted for a complete control over your data and costs.",
     "one_liner": "Open-source, self-hosted, session replay tool for developers.",
     "team_size": 11,
@@ -3022,7 +3022,9 @@
       "Infrastructure"
     ],
     "regions": [
+      "United States of America",
       "France",
+      "America / Canada",
       "Europe",
       "Remote",
       "Partly Remote"
@@ -4851,7 +4853,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f860b32ddb9b39b9b1ae8c22f0c17f140dc5e9d4.png",
     "website": "https://www.mystic.ai/",
-    "all_locations": "London, England, United Kingdom",
+    "all_locations": "CA, USA",
     "long_description": "Mystic’s platform allows companies to easily and reliably deploy ML models on our serverless cloud or on their own infrastructure without requiring a team of MLOps engineers. With our Python SDK, data-scientists immediately get an endpoint from their own model, or any open-source models.\r\nOnce uploaded, our platform handles routing, multi-cloud scaling, caching, GPU optimization and other features to provide the ultimate ML inference platform.",
     "one_liner": "Low latency API to run and deploy ML models",
     "team_size": 11,
@@ -4875,8 +4877,8 @@
       "Infrastructure"
     ],
     "regions": [
-      "United Kingdom",
-      "Europe"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -7049,7 +7051,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a30005e91ad35585a4b56bcea0746fd934004f30.png",
     "website": "https://zerodev.app/",
-    "all_locations": "New York, NY, USA",
+    "all_locations": "CA, USA",
     "long_description": "Use ZeroDev to create self-custody wallets for your users, powered by account abstraction.  These wallets are truly non-custodial, while being easier to use and way more powerful than even custodial wallets, enabling features such as:\r\n\r\n- Gas-free transactions\r\n- Transaction bundling\r\n- Programmable security policies\r\n\r\nZeroDev is perfect for anyone who wants to create wallets for users, including Web 2.5 apps, wallet apps, onramps, marketplaces, and more!",
     "one_liner": "Account abstraction wallets as a service",
     "team_size": 5,
@@ -7231,7 +7233,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5b5e56a9b5e26e2dce5d150c6db8702733501105.png",
     "website": "https://kv.cash",
-    "all_locations": "Sunnyvale, CA, USA",
+    "all_locations": "CA, USA",
     "long_description": "Contracts shouldn't just execute. They should reason.\r\n\r\nBitcoin introduced decentralized money.\r\nEthereum introduced programmable contracts.\r\nKV Cash introduces intelligent contracts.\r\n\r\nDeterministic AI + TypeScript makes it simple, explainable, and composable. Once seen, it's obvious.\r\n\r\nKV Cash is what contracts were always trying to become.",
     "one_liner": "KV Cash, a blockchain where contracts can finally think",
     "team_size": null,
@@ -7701,7 +7703,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d4c1505ac12ec772ffd315c1efa3139c51ae9e35.png",
     "website": "https://hegel-ai.com",
-    "all_locations": "",
+    "all_locations": "NY, USA",
     "long_description": "We build tools for developing applications with generative AI models. Whether you are using LLMs, vector databases, and text-to-image models like Stable Diffusion, our tools help you find the right model, prompt, configuration and consistently monitor their behaviors in production.\r\n\r\n---\r\n\r\n**PromptTools**: the first open-source, developer-focused SDK for experimenting with and evaluating prompts, models, and vector databases. You can try the repo here: https://github.com/hegelai/prompttools. If you're building with LLMs and struggling with evaluation, reach out and we can help.",
     "one_liner": "Open source tools for developing generative AI applications",
     "team_size": 2,
@@ -7720,7 +7722,8 @@
       "Infrastructure"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -9447,7 +9450,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6b2774c0442b4c923fff05f20dbced23d34ad02f.png",
     "website": "https://www.zeroentropy.dev",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "We are on a mission to build the world’s most accurate search engine over complex and unstructured documents.\r\n\r\nMost AI products - whether Q&A bots or AI agents - depend on retrieval systems to provide relevant context from knowledge bases.\r\n\r\nYet, the vast majority of these systems rely on basic semantic or hybrid search methods, which still frequently fail. \r\n\r\nThese mistakes lead to inaccurate responses and hallucinations by LLMs, frustrating developers and end users alike. \r\n\r\nThat is why we’re building ZeroEntropy: to add intelligence to retrieval and empower developers to create AI products that are more reliable and accurate. ",
     "one_liner": "High accuracy search API over unstructured data.",
     "team_size": 2,
@@ -9466,7 +9469,8 @@
       "Infrastructure"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -9613,7 +9617,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/79bd0c6f85962c1282260ab60adb0462fdb87ec8.png",
     "website": "https://tensorpool.dev",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "Our CLI makes ML model training effortless - just describe your job, and we handle GPU orchestration and execution at half the cost of major cloud providers.",
     "one_liner": "Vercel For GPUs",
     "team_size": 3,
@@ -9638,7 +9642,8 @@
       "Infrastructure"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -9657,7 +9662,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/616354db5e38ecd097137217ccbf16454422e9de.png",
     "website": "https://butter.dev",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "Butter is building bVisor, an incredibly lightweight sandbox runtime for AI agents.\r\nIt embeds directly into your local process, providing a safe bash environment without the overhead of VMs or remote infra.",
     "one_liner": "Embedded Sandboxes for Agents",
     "team_size": 2,
@@ -9676,7 +9681,8 @@
       "Infrastructure"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -9779,7 +9785,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e611bab66e36c7b14163abfaf0665e260a2ac3e2.png",
     "website": "https://pgdog.dev",
-    "all_locations": "Remote",
+    "all_locations": "CA, USA; Remote",
     "long_description": "PgDog is an application for sharding PostgreSQL. It understands SQL and can distribute queries automatically between databases. It's built for managed databases, like AWS RDS, and doesn't require any changes to application code or schema.\r\n\r\nIn addition to sharding, PgDog is a load balancer and pooler, so it can act as a replacement for PgBouncer, RDS Proxy, and other Postgres scaling products. It brings the simplicity and performance of HTTP load balancing to the database.\r\n\r\nBuilt from the experience of sharding Postgres at Instacart during peak growth in 2020, PgDog is the answer to the old question: does Postgres scale? It does now.",
     "one_liner": "Scaling engine for PostgreSQL",
     "team_size": 2,
@@ -9800,6 +9806,8 @@
       "Infrastructure"
     ],
     "regions": [
+      "United States of America",
+      "America / Canada",
       "Remote",
       "Fully Remote"
     ],
@@ -10283,7 +10291,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/dcf816765d47aaccb81f4306b7dcf298ccb8337e.png",
     "website": "https://imprezia.ai",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "The first advertising infrastructure designed specifically for AI apps. Seamlessly integrate contextual brands & products that enhance user experience while generating revenue to pay the inference bills.",
     "one_liner": "The World's First AI Ad Network.",
     "team_size": 3,
@@ -10302,7 +10310,8 @@
       "Infrastructure"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -10450,7 +10459,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c561ac3ff3132e3dda05b6de7836b2d1b55ed1aa.png",
     "website": "https://autumnai.com",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "Autumn is building the first real-time signal intelligence platform for GTM teams. We monitor posts, commits, blogs, and announcements, surfacing buying signals the moment they appear. Define your ICP and the signals that matter, and we deliver a condensed, real-time feed filtered by intents.",
     "one_liner": "Stalk your prospects at scale.",
     "team_size": 2,
@@ -10469,7 +10478,8 @@
       "Infrastructure"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -10613,7 +10623,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/200fe1fa3e40bd9aed419582490f17ed6cf00c37.png",
     "website": "https://luminal.com",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "Luminal builds an ML framework and compiler that generates GPU code.\r\nOur stack 10x's model speed while simplifying deployment and cutting idle GPU costs\r\n\r\nGithub: https://github.com/luminal-ai/luminal\r\nDiscord: https://discord.gg/APjuwHAbGy",
     "one_liner": "Making AI run fast on any hardware.",
     "team_size": 3,
@@ -10637,7 +10647,8 @@
       "Infrastructure"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -10824,7 +10835,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0c5e5da360891b80b4a1d6d511de963d613bbf08.png",
     "website": "https://runcaptain.com",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "Captain delivers the most accurate file search engine built for AI agents. We’ll index data from the sources folks already use like S3, SharePoint, and Google Drive, and easily scale multimodal, petabyte-level content search. We’re the Snowflake for Unstructured Data.\r\n\r\nCaptain tops the Open-RAG-Benchmark with over 20% higher accuracy than standard RAG pipelines. We achieve this through robust data processing techniques like embedding normalization across modalities, ensuring that representations cluster by semantic content rather than data type.",
     "one_liner": "Give AI agents accurate knowledge search that scales",
     "team_size": 2,
@@ -10848,7 +10859,8 @@
       "Infrastructure"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -10911,7 +10923,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/93b8f2a59336dfc904201981cfcd3455964d5be2.png",
     "website": "https://castari.com",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "Castari lets developers deploy AI agents in secure, autoscaling sandboxes with one command. We handle tool/MCP connectors, snapshots, and observability so teams go from prototype to production in hours instead of weeks.\r\n\r\nDevelopers focus on building agents, Castari provides the autoscaling sandbox infrastructure to ensure your agents and its tools are secure.",
     "one_liner": "Vercel for AI Agents – One click deploy for the Claude Agent SDK",
     "team_size": 3,
@@ -10930,7 +10942,8 @@
       "Infrastructure"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -11029,7 +11042,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fa3be8044166eb1b542186ec7fb3d58572e16c8f.png",
     "website": "https://mantisbiotech.com/",
-    "all_locations": "",
+    "all_locations": "NY, USA",
     "long_description": "Mantis is a digital twin company that combines LLMs with high-fidelity physics simulations in order to convert rare and difficult-to-access human behavior data into predictive models. ",
     "one_liner": "Digital Twins of humans",
     "team_size": 3,
@@ -11048,7 +11061,8 @@
       "Infrastructure"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -11065,7 +11079,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/202e6cd94d0ec2c8de835c56ce6b880f99f033d5.png",
     "website": "https://didit.me/",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "Didit is an all-in-one identity platform that lets humans prove who they are starting with a face scan. It powers the fastest identity verification in the market, fights fraud by default, and unifies all identity checks with simple pay-per-use pricing.",
     "one_liner": "Identity platform for fast human verification.",
     "team_size": 12,
@@ -11084,6 +11098,8 @@
       "Infrastructure"
     ],
     "regions": [
+      "United States of America",
+      "America / Canada",
       "Remote",
       "Partly Remote"
     ],
@@ -11104,7 +11120,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6ad7cbe9bb51e9d5c0dea0e9dc6f1d62f8da6903.png",
     "website": "https://klausai.com",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "Get your personal OpenClaw instance on the cloud and connected to your Slack or other messaging app in 3 minutes. Pre-installed security features and common skills. ",
     "one_liner": "Fast and Safe OpenClaw on the cloud",
     "team_size": 2,
@@ -11123,7 +11139,8 @@
       "Infrastructure"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -11140,7 +11157,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/361f4cc73d27e788a8d1f92355ba04c3d71218ee.png",
     "website": "https://www.runanywhere.ai/",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "Edge AI is inevitable, but shipping it is painful: every device class behaves differently, runtimes vary, models are huge, and performance collapses under memory/power constraints. RunAnywhere turns that into an enterprise-ready workflow: one SDK to run models on-device, plus a control plane to manage models, enforce policies, and measure outcomes across thousands of devices.",
     "one_liner": "The default way of running on-device AI at Scale",
     "team_size": 2,
@@ -11159,7 +11176,8 @@
       "Infrastructure"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -11176,7 +11194,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3cc110e9433eb8ebeb8edd42c08cec81dca5f15c.png",
     "website": "https://runcascade.com/",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "Cascade helps companies take their proprietary data and workflows to align models for their use cases, resulting in higher throughput intelligence that works better, faster, and cheaper.",
     "one_liner": "Distilling Proprietary Intelligence",
     "team_size": 2,
@@ -11195,7 +11213,8 @@
       "Infrastructure"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -11254,7 +11273,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a985c19aae7a6332fcfc82b7724dd2f4276053d2.png",
     "website": "https://cumuluslabs.io",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "Cumulus Labs is a fast multimodal inference provider, purpose-built for AI teams who want faster performance, lower costs, and zero infrastructure work on fine-tuned & open source models.\r\n\r\nMost teams today are stuck choosing between bad options. Self-hosting inference means wrestling with configurations and babysitting infrastructure that slows/breaks at scale. Big providers like Fireworks are convenient but extremely expensive and idle GPUs.\r\n\r\nCumulus ships Ion, a proprietary inference engine that run LLMs, VLMs, and audio/video gen with high performance and lower cost.",
     "one_liner": "The Fastest Multimodal Inference OS",
     "team_size": 2,
@@ -11273,6 +11292,8 @@
       "Infrastructure"
     ],
     "regions": [
+      "United States of America",
+      "America / Canada",
       "Remote",
       "Partly Remote"
     ],
@@ -11293,7 +11314,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b08b4ca96925b2e8c409dfbed108a0b4f3808348.png",
     "website": "https://luel.ai",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "Luel is a sourcing and licensing platform for rights-cleared multimodal training data at scale. We work with frontier AI teams to provide high-quality bespoke data collections and off-the-shelf datasets.",
     "one_liner": "Turning everyday words and actions into usable training data.",
     "team_size": 2,
@@ -11312,7 +11333,8 @@
       "Infrastructure"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -11415,7 +11437,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ec4d813cd81be3598547a305102414461123fea9.png",
     "website": "https://orthogonal.com",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "APIs weren't built for agents. Orthogonal fixes that. We enable agentic payments so any agent can instantly discover, access, and pay for hundreds of APIs. No subscriptions, no sales calls, just pay per use. API providers list once and get paid every time an agent calls their API.",
     "one_liner": "Agentic Payments for APIs",
     "team_size": 2,
@@ -11434,7 +11456,8 @@
       "Infrastructure"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -11607,7 +11630,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0f253ec2ac4c62d3fd349aefdf584c9074cae87d.png",
     "website": "https://oximy.com",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "Oximy helps enterprises understand and manage AI usage across their workforce.\r\n\r\nUsed by security, finance, and transformation teams to track adoption, control spend, and manage governance as AI scales.",
     "one_liner": "See and control all AI activity across your enterprise",
     "team_size": 4,
@@ -11626,7 +11649,8 @@
       "Infrastructure"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -11773,7 +11797,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4b6d23e94e331354b9f326725df83ff557b97c1a.png",
     "website": "https://thetokencompany.com",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "Compression middleware that removes context bloat in milliseconds, lowering costs and improving end-to-end latency.\r\n\r\nCompression is especially effective across natural language workloads. In a blind LLM arena case study with one of our customers, compressed requests increased user preference, lowered costs, and lifted purchase volume by 5%.",
     "one_liner": "Compression middleware that improves LLM outputs",
     "team_size": 2,
@@ -11792,6 +11816,8 @@
       "Infrastructure"
     ],
     "regions": [
+      "United States of America",
+      "America / Canada",
       "Remote",
       "Partly Remote"
     ],
@@ -11810,7 +11836,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c76a18751e4b95b7b3cf621f7752449405d71aa5.png",
     "website": "https://moda.dev",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "Moda is the reliability & monitoring layer for agents. It surfaces patterns across agent hallucinations, laziness, forgetfulness, and tool call failures. While also providing analytics on user frustration, net promoter score, retention, and churn rates.\r\n\r\nIn the next 10 years, with more AI agents spawning and trying to get PMF, developing an agent that actually works for users is critical. Everyone has access to the same models, thus the ones that win on a product level will be the ones who learn fastest from real usage. Moda is that learning layer.",
     "one_liner": "The monitoring layer your AI agents need.",
     "team_size": 2,
@@ -11829,7 +11855,8 @@
       "Infrastructure"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -11848,7 +11875,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1f91b1d1421f28de22ae9bbafcb6d5c03dc6cef5.png",
     "website": "https://trymaven.com",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "We enable AI voice agents to collect payments over the phone through a single API call, handling card processing and PCI compliance across all payment gateways",
     "one_liner": "Payments Infrastructure for Voice Agents",
     "team_size": 2,
@@ -11867,7 +11894,8 @@
       "Infrastructure"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -11964,7 +11992,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/cdc8fbfe28cb5c8e4405b92f33ce7b6536b88c17.png",
     "website": "https://shofo.ai/",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "We are building the world’s largest video library. We've aggregated billions of videos into a searchable index and use agents to find and label the exact datasets a lab needs on demand.\r\n\r\nIf a lab needs 100K hours of cooking videos where someone is holding a pan, with reasoning annotations on top, our agents search the index, extract the matching subset, route it through our labeling pipeline, and deliver a custom dataset in days, not months.",
     "one_liner": "The World's Largest Video Library",
     "team_size": 4,
@@ -11987,7 +12015,8 @@
       "Infrastructure"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -12341,7 +12370,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2f60ad803d2e9b0079d1a0e2e9afd248df7aafcd.png",
     "website": "https://www.projectx.cloud/",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "Every computer ever made forces you to do one thing at a time. One cursor. One keyboard. One Hardware. One app in focus. Fifty years. Nobody questioned it.\r\n\r\nWe did. We started over.\r\n\r\nWe built InfinityOS, a fundamentally new computer OS on the cloud from ground up.\r\n\r\nInfinity runs every app in its own independent computer -- own GPU, own input, own environment. Windows and Linux in the same session. Humans and agents working side by side. No concurrency ceiling. Cold start in seconds. One URL.",
     "one_liner": "Infinity: the first OS where humans and agents work with no limits.",
     "team_size": 6,
@@ -12366,6 +12395,8 @@
       "Infrastructure"
     ],
     "regions": [
+      "United States of America",
+      "America / Canada",
       "Remote",
       "Partly Remote"
     ],
@@ -12376,6 +12407,48 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/projectx",
     "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/projectx.json"
+  },
+  {
+    "id": 31516,
+    "name": "Expanse",
+    "slug": "expanse",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/26ca5cac6157441dd12d0352f7d3fd4a77c4c39a.png",
+    "website": "https://expanse.sh",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Expanse unlocks wasted GPU capacity. We recover idle compute through three capabilities: resource prediction (right-sizing job submissions before they reach the scheduler), optimisation suggestions (code and config changes researchers can apply themselves), and failure prediction (catching jobs that will fail before they consume hours of GPU time).\r\n\r\nWe’re four engineers. We ran HPC and GPU training workloads at the largest quant funds and national supercomputing centres. We faced this problem first hand and the only fix was to over-provision and burn millions. Ismaeel built the first multimodal HPC resource predictor as research at EPCC (Edinburgh’s Parallel Computing Centre), which beat every published baseline. This is the tool we wish we had.",
+    "one_liner": "Unlock wasted GPU capacity.",
+    "team_size": 4,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1777849866,
+    "tags": [
+      "AIOps",
+      "Developer Tools",
+      "Enterprise Software",
+      "Infrastructure"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/expanse",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/expanse.json"
   },
   {
     "id": 31523,

@@ -96,7 +96,7 @@
     "former_names": [],
     "small_logo_thumb_url": "/company/thumb/missing.png",
     "website": "http://robohr.com",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": null,
     "one_liner": "",
     "team_size": 0,
@@ -115,7 +115,8 @@
       "Human Resources"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -1251,7 +1252,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/473e5b973df006090e0a1b0fc932822a4b62f97f.png",
     "website": "https://www.goodlyapp.com/",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "MA, USA; San Francisco, CA, USA",
     "long_description": "",
     "one_liner": "Student loan repayment as an employee benefit. ",
     "team_size": 5,
@@ -1684,7 +1685,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5b50416a3c9266b978c7bb1e375a92eeb2782b8f.png",
     "website": "https://www.teamgather.co/",
-    "all_locations": "Cleveland, OH, USA; New York, NY, USA",
+    "all_locations": "NY, USA; New York, NY, USA",
     "long_description": "Gather is software that helps high-growth teams build and execute their onboarding, offboarding, and other People Operations programs. Gather replaces manual coordination with smart, automated communication powered by a deep integration with Slack.",
     "one_liner": "Project management software for People Operations",
     "team_size": 6,
@@ -3499,7 +3500,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/76b581290f19eb08a9fc677f74b5ecc46cfd20a1.png",
     "website": "https://sira.team",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "Sira is the AI-powered platform for managing time tracking, scheduling, payroll, and HR — purpose-built for hourly teams.\r\n\r\nOur intelligent agents handle the manual, time-consuming tasks for you — like calling workers to fill open shifts, detecting timesheet anomalies, and streamlining payroll processing.\r\n\r\nWith Sira, businesses stay organized, compliant, and focused on what really matters — while we take care of the team.",
     "one_liner": "AI Native Rippling for Deskless Workers",
     "team_size": 0,
@@ -3518,7 +3519,8 @@
       "Human Resources"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,

@@ -6,7 +6,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/34b83cec1f2ebdc9cb570890712a93e354509aec.png",
     "website": "http://streak.com",
-    "all_locations": "Remote",
+    "all_locations": "CA, USA; Remote",
     "long_description": "Streak is the only CRM integrated entirely within your Gmail inbox, and works alongside all your other G Suite applications. It can be used to track any business process including sales, partnerships, support, hiring, deal flow, and much more. Streak also includes a powerful set of email tools including email tracking, send later, snoozing, mail merge, and more.",
     "one_liner": "Streak transforms Gmail into a powerful CRM",
     "team_size": 35,
@@ -27,6 +27,8 @@
       "Sales"
     ],
     "regions": [
+      "United States of America",
+      "America / Canada",
       "Remote",
       "Fully Remote"
     ],
@@ -1313,7 +1315,7 @@
     ],
     "small_logo_thumb_url": "/company/thumb/missing.png",
     "website": "http://www.blitziq.com",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "",
     "one_liner": "Note taking workspace for B2B sales teams",
     "team_size": 0,
@@ -1336,7 +1338,8 @@
       "Sales"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -1753,7 +1756,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b6ed23c59f075554e641d7d208bcb56abf6880d1.png",
     "website": "https://www.intelligent.services/",
-    "all_locations": "Los Altos, CA, USA; Remote",
+    "all_locations": "CA, USA; Los Altos, CA, USA; Remote",
     "long_description": "We help businesses cut operational costs, while still exceeding customer expectations.\r\nMost businesses are consistently under- or over-staffed, which either damages customer experience or leaves money on the table (by unnecessarily increasing staffing costs). Granular, high-accuracy demand forecasting solves this issue by allowing businesses to align resources to exactly meet demand. \r\nOur demand forecasting as a service, brings simplicity & precision to this often complex and error-prone process, and quickly provides business users the right answers to run their operations. ",
     "one_liner": "Demand Forecasting as a Service ",
     "team_size": 4,
@@ -2694,7 +2697,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6ea5429baf87f6ffc90d9204f3b44880844aead6.png",
     "website": "http://www.subscriptionflow.com",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "London; San Francisco, CA, USA",
     "long_description": "SubscriptionFlow is an AI-based customizable revenue management platform that helps SMBs optimize subscription revenue. It monitors user activity to identify customers at risk of churning and automatically alerts the sales team.\r\n\r\nFor example, eLearning/SaaS/Membership businesses require to monitor subscription usage to improve customer retention. Ecommerce/Magazine companies need to see the subscription trends to cross-sell and upsell products/services.\r\n",
     "one_liner": "AI based Customizable Subscription & Revenue Management Platform",
     "team_size": 9,
@@ -2717,7 +2720,9 @@
       "Sales"
     ],
     "regions": [
+      "United Kingdom",
       "United States of America",
+      "Europe",
       "America / Canada",
       "Remote",
       "Partly Remote"
@@ -3101,7 +3106,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1a9593da33f6698a03604df521d2f3110a53ba61.png",
     "website": "https://paragon.ai",
-    "all_locations": "San Francisco, CA, USA; San Juan, San Juan, Puerto Rico; Remote",
+    "all_locations": "NY, USA; San Juan, San Juan, Puerto Rico; Remote",
     "long_description": "Paragon AI is a tool for sales representatives which automatically turns call recordings into structured information that directly updates the CRM. Instead of spending hours going over call recordings to pull out key information to populate the CRM, sales representatives can focus their time doing what they do best and sales leaders can rest assured that pipeline data is up to date.",
     "one_liner": "Turns your sales calls into CRM data, automatically.",
     "team_size": 3,
@@ -4494,7 +4499,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8fa4225772054e6d88d676144c9acc94a7bf4803.png",
     "website": "https://trypartnerhq.com",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "PartnerHQ is building the next generation LinkedIn. We are creating the world’s most valuable and accurate professional network graph by capturing and indexing vast quantities of relationship signals. \r\n\r\nIndividuals use PartnerHQ to grow and monetize their networks. B2B companies use PartnerHQ to buy warm intros and drive high-value sales. \r\n\r\nPartnerHQ was created during Y Combinator’s W24 cohort and launched in February of 2024. Since launch we have signed on hundreds of paying companies, domestic and international. 97% of all users have come inbound or word-of-mouth. ",
     "one_liner": "A marketplace for B2B businesses to buy warm intros. ",
     "team_size": 4,
@@ -4513,7 +4518,8 @@
       "Sales"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -4843,7 +4849,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a0e73c4d8c73910405ffe3b999578c9cd45ed9dd.png",
     "website": "https://www.moonsethealth.com/",
-    "all_locations": "",
+    "all_locations": "WA, USA",
     "long_description": "",
     "one_liner": "AI for Post-Acute Senior Care (Hospice, Home Health, Skilled Nursing…",
     "team_size": 4,
@@ -4862,6 +4868,8 @@
       "Sales"
     ],
     "regions": [
+      "United States of America",
+      "America / Canada",
       "Remote",
       "Partly Remote"
     ],
@@ -5165,10 +5173,10 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c1261383b7f5f7d5fcba63a49453bf6d9148fcfc.png",
     "website": "https://www.ambral.com/",
-    "all_locations": "",
+    "all_locations": "San Francisco, CA, USA",
     "long_description": "AI agents for enterprise account management and customer success. Ambral has already been used to drive $XXXm in expansion revenue and preventable churn at multi-billion dollar enterprises and top scale-ups.\r\n\r\nAmbral synthesizes signals from all customer activity and interactions into AI-powered models of every account. It pinpoints who needs attention and why, and autonomously takes the best next action to drive expansions, prevent churn, and ensure no customer slips through the cracks. \r\n\r\nTeam: \r\nSam (CEO): 2x founder. Led AI at Everlywell and early PM at Wonder (now valued at $7bn). Lived the pain of losing customer intimacy at scale and is obsessed with solving it. \r\n\r\nJack (CTO): Ex-SpaceX Flight Software Special Projects, where he developed telemetry routing and analysis systems for the most complex machines ever created. He’s now doing the same for the complexities of customer relationships. ",
     "one_liner": "AI for account management and customer success",
-    "team_size": 2,
+    "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Sales",
     "launched_at": 1753910833,
@@ -5184,7 +5192,8 @@
       "Sales"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -5244,7 +5253,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5384c6c535d7bcbaf2c4cee7af212ec06f70e79d.png",
     "website": "https://throxy.com/",
-    "all_locations": "",
+    "all_locations": "London",
     "long_description": "throxy builds vertical AI agents that book meetings for software companies selling into traditional industries: manufacturing, logistics, education, and finance.\r\n\r\nOutbound is broken. Generic automation gets ignored, and decision-makers in legacy sectors are hard to reach. Most of your TAM isn't even on LinkedIn, and tools like Clay, Apollo, and ZoomInfo only cover about 65% of the market. throxy fixes this by running bespoke, fully managed outbound systems for software sales teams trying to crack these industries. We use proprietary scraping tools to map your entire addressable market, then combine AI agents with human experts to deliver hyper-personalised email campaigns and human cold calling that is consistently generating six-figure qualified pipelines.\r\n\r\nSince 2023, throxy has powered outbound for B2B software companies, from industrial SaaS to fintech providers, replacing the need for internal SDR teams or stacks of tools with a solution that outperforms on both speed and quality. Today, we have a team of 55 across London and Cape Town, booking on average 8 to 12 qualified meetings per month per client, with some clients seeing 20+ in their first weeks after we doubled down on human-led cold calling.\r\n\r\nAI handles the data: building custom databases, scoring leads against your ICP, and personalising outreach at scale. Humans handle the conversations: real cold calls, real emails, real relationships. That's the difference between us and every AI SDR on the market.\r\n\r\nOur founding team has built AI at JP Morgan, scaled businesses from age 14, and led enterprise sales from Seed to Series D. We're not just automating outbound, we're redefining what sales execution looks like for software companies selling into traditional industries.\r\n\r\nthroxy is the AI SDR purpose-built for the sectors software forgot.",
     "one_liner": "Vertical AI agents that run the sales funnel on autopilot",
     "team_size": 15,
@@ -5268,7 +5277,8 @@
       "Sales"
     ],
     "regions": [
-      "Unspecified"
+      "United Kingdom",
+      "Europe"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -5328,7 +5338,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9a35549672464ddd96cd4caea3ef725e10f03c19.png",
     "website": "https://orangeslice.ai",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "Orange Slice is a spreadsheet where every column is TypeScript—and AI writes it for you. Describe what you want in chat (\"find the CEO's LinkedIn and get their email\"), and we generate the code, create the columns, and run it across thousands of rows. Our fully-typed SDK has 100+ enrichments built in: LinkedIn, contact info, company data, web scraping, AI research. Columns automatically execute in dependency order. No workflow builders—just describe it or code it.",
     "one_liner": "Agentic sales enrichment spreadsheet",
     "team_size": 2,
@@ -5347,7 +5357,8 @@
       "Sales"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -5820,7 +5831,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/76df6473c36e2adfda2b2ab7e987413907cd9c97.png",
     "website": "https://www.kinro.ai/",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "Kinro helps companies sell insurance through AI assistants such as ChatGPT. We build AI sales agents that manage the end-to-end insurance sales process, from answering questions, personalized coverage explanations and quoting. These agents are continuously evaluated and improved through our proprietary platform, optimizing sales performance while remaining 100% compliant.\r\n\r\nSelling insurance requires strict regulatory compliance, deep carrier integrations, and extremely reliable answers. Platforms like OpenAI and Google remain general-purpose and are less likely to build the vertical infrastructure required for regulated industries.\r\n\r\nToday, Kinro serves brokers and direct-to-consumer carriers across the US and Europe. Insurance distribution is huge: insurers pay roughly $100B+ in commissions annually, and distributors spend $10B+ every year on advertising to acquire customers.\r\n\r\nPierre-Alexandre led research improving Gemini for financial services at DeepMind. Parth led infrastructure for training and inference at Zoox. Corentin was the first employee in an insurance startup and worked closely with many insurance leaders.",
     "one_liner": "AI sales agents for insurance. Sell everywhere your buyers are.",
     "team_size": 3,
@@ -5839,7 +5850,8 @@
       "Sales"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,

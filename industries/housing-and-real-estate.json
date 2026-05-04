@@ -1467,7 +1467,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/496d0ff1f20ae199837eebe1bfef35fa059329d0.png",
     "website": "http://culdesac.com",
-    "all_locations": "Tempe, AZ, USA",
+    "all_locations": "CA, USA; Tempe, AZ, USA",
     "long_description": "Culdesac designs, builds, and manages walkable communities. \r\n\r\nCuldesac is a real estate developer and property manager. We build neighborhoods that embrace community, open space, and mobility. We offer residential units at a variety of price points integrated with local retail, commercial uses, and open space for nature and public plazas.\r\n\r\nOur communities prioritize biking, walking, and transit over cars and parking. We partner with leading mobility companies to deliver convenient and affordable transportation services. This creates a vibrant urban lifestyle without the need for a private vehicle.\r\n\r\nRead more here > https://medium.com/culdesac/introducing-culdesac-3fbfe7c4219c",
     "one_liner": "We build cities for people, not cars. ",
     "team_size": 100,
@@ -1610,7 +1610,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4d5f984daf01843ad24f9bdb200e128b031fe3cb.png",
     "website": "http://www.hutsy.co",
-    "all_locations": "New York, NY, USA",
+    "all_locations": "CA, USA; New York, NY, USA",
     "long_description": "Hutsy is a new way to buy a home for the modern home buyer.\r\n\r\nFor the first time, we’ve built a hybrid agent-tech process that will help you with your entire home buying process. We are committed to helping you from searching & submitting offers to signing closing documents in the simplest manner possible.\r\n\r\nWe find the best local agents, title officers, lenders, inspectors and streamline the process start-to-finish so that you don't have to worry about dealing with shady folks.\r\n\r\nWe've eliminated redundant back-and-forth so that you can search, schedule and sign easily online.\r\n\r\nWe give you a clean dashboard to keep track of any upcoming closing costs, and the transaction progress at all times, so that you can prepare for what is required of you well ahead of time.\r\n\r\nUltimately, we've retained the humanistic elements of the process, provided by the best agents and third parties, and fused it with the latest tech for your convenience. This means that you consistently get the best home buying experience, every single time. ",
     "one_liner": "Home Buying on Autopilot",
     "team_size": 3,
@@ -1651,7 +1651,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1977d3cc8bce459b7dac1875971bf9b6a14e9fde.png",
     "website": "https://www.doorport.com",
-    "all_locations": "New York, NY, USA",
+    "all_locations": "CA, USA",
     "long_description": "",
     "one_liner": "Acquired by Alarm.com - We make existing apartment access smart.",
     "team_size": 3,
@@ -1950,7 +1950,7 @@
     ],
     "small_logo_thumb_url": "/company/thumb/missing.png",
     "website": "https://withlaguna.com",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "NY, USA; San Francisco, CA, USA",
     "long_description": "",
     "one_liner": "",
     "team_size": 2,
@@ -3396,7 +3396,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fda446d464914642f213b7da0cd38f3f6fead898.png",
     "website": "https://ironledger.ai",
-    "all_locations": "",
+    "all_locations": "NY, USA",
     "long_description": "IronLedger automates property accounting for property managers, developers and contractors, starting with accounts payable. We eliminate more than $70K of accounting costs annually for over 50K multifamily units.\r\n\r\nhttps://www.ironledger.ai/",
     "one_liner": "AI-enabled Corporate Cards and Invoice Processing for Real Estate",
     "team_size": 2,
@@ -3415,6 +3415,8 @@
       "Housing and Real Estate"
     ],
     "regions": [
+      "United States of America",
+      "America / Canada",
       "Remote",
       "Partly Remote"
     ],
@@ -3436,7 +3438,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/48c389a46401af22e7cde8396ad1941ad05a7401.png",
     "website": "https://www.brickwiseai.com",
-    "all_locations": "",
+    "all_locations": "London",
     "long_description": "We've built an AI property manager that automates maintenance requests, handling tenant calls and messages 24/7, following up by chasing contractors and resolving issues.\r\n\r\nWe're based in London, but have over 10 customers throughout the world, from San Francisco to Dubai. We have a reliable sales pipeline, including a >$1m cARR enterprise contract. Since our formation 6 months ago, we have raised over $3M in funding.\r\n\r\nIsmail, co-founder & CEO, is an ex-Founder at LiveLink AI, where he raised $3M, growing the platform to editing 150k videos per month. He also built his own prop firm to $500k ARR.\r\n\r\nElias, co-founder & CTO, was an early engineer at a YC backed company, acquired by Google. While a senior engineer at Google for 5 years, he took the product from $50k ARR to >$100m. CS at Bristol, MBA from Imperial.",
     "one_liner": "AI property manager for landlords and estate agents",
     "team_size": 2,
@@ -3455,7 +3457,8 @@
       "Housing and Real Estate"
     ],
     "regions": [
-      "Unspecified"
+      "United Kingdom",
+      "Europe"
     ],
     "stage": "Early",
     "app_video_public": false,

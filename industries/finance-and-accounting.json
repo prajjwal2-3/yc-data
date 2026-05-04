@@ -6,7 +6,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/316e1b19521c485db18954b0143a0defb3c67d5d.png",
     "website": "http://indinero.com",
-    "all_locations": "Los Angeles, CA, USA; Remote",
+    "all_locations": "CA, USA; Los Angeles, CA, USA; Remote",
     "long_description": "inDinero is on a mission to reinvent small business operations, helping our clients understand their finances like never before.\r\n\r\nBy combining a full finance team of bookkeepers, accountants, and CPA’s, with real time accounting software, we provide startups and small businesses the knowledge they need to understand their company's financial health and make better decisions with their money. Tax experts work with accountants under one roof to prepare and file our clients'​ taxes and maximize tax savings.\r\n\r\nWe're a growing company with big ambitions and big opportunities for internal mobility. If you’re interested in one of our open positions and looking for your next big professional adventure, drop us a line at jobs@indinero.com.",
     "one_liner": "Financial dashboard for businesses.",
     "team_size": 250,
@@ -795,7 +795,7 @@
     ],
     "small_logo_thumb_url": "/company/thumb/missing.png",
     "website": "https://joinfellow.com",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "",
     "one_liner": "API for Invoice Financing",
     "team_size": 2,
@@ -816,7 +816,8 @@
       "Finance and Accounting"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Growth",
     "app_video_public": false,
@@ -1549,7 +1550,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3d799a3b8749ea35b175f67bd64402da202e8445.png",
     "website": "https://cashbook.in",
-    "all_locations": "",
+    "all_locations": "Bengaluru",
     "long_description": "Issue UPI wallets to employees, track and control the spend.",
     "one_liner": "Ramp for Indian Businesses - UPI Wallets for Employee Expenses",
     "team_size": 4,
@@ -1572,6 +1573,8 @@
       "Finance and Accounting"
     ],
     "regions": [
+      "India",
+      "South Asia",
       "Remote",
       "Partly Remote"
     ],
@@ -3790,7 +3793,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6354365dd8a078eedfebf117d50c6ac01a2401b6.png",
     "website": "https://usedill.com/",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "Dill helps construction suppliers automate accounts receivable, online payments, and credit applications.",
     "one_liner": "Dill helps construction suppliers automate accounts receivable,…",
     "team_size": null,
@@ -3809,6 +3812,8 @@
       "Finance and Accounting"
     ],
     "regions": [
+      "United States of America",
+      "America / Canada",
       "Remote",
       "Partly Remote"
     ],
@@ -3996,7 +4001,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2e2a3ced5969028060bbaaf152193b5b6a2b3982.png",
     "website": "https://alguna.com",
-    "all_locations": "San Francisco, CA, USA; Remote",
+    "all_locations": "London; Remote",
     "long_description": "We are Alguna, building a modern platform that helps B2B companies price deals, send quotes, bill customers, and collect payments - all in one place.\r\n\r\nOur mission is to create the most efficient revenue engine for B2B SaaS.\r\n\r\nToday, many companies run these processes with spreadsheets and a patchwork of separate tools. That leads to slow approvals, manual work, mistakes, and missed revenue—especially as pricing gets more complex.\r\n\r\nAlguna replaces that mess by connecting the entire flow from **quote to cash**: what sales sells becomes what finance bills, automatically. We help teams automate invoicing, handle usage-based or custom pricing, and reduce back-and-forth between sales, finance, and engineering.\r\n\r\nThe result: growth-stage startups and enterprises can close deals faster, bill accurately, and scale revenue operations without adding headcount or building internal systems.\r\n",
     "one_liner": "AI-Native CPQ & Billing for Modern Pricing Models",
     "team_size": 10,
@@ -4021,8 +4026,8 @@
       "Finance and Accounting"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada",
+      "United Kingdom",
+      "Europe",
       "Remote",
       "Fully Remote"
     ],
@@ -4518,7 +4523,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a3c0ebb7e9cc188d3721bc8e308ed808091559dc.png",
     "website": "https://dimely.com/",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "Dimely helps accounting teams scale their order management & contract review workflows. Today fast-growing tech unicorns like Checkr and Airbyte get more coverage with less manual work by using Dimely’s AI agents to intelligently extract relevant details from core files like Order Forms, MSAs & POs, flag discrepancies, and then sync this information to core finance systems like NetSuite and Stripe.\r\n\r\nDimely leverages what finance and accounting teams love most, spreadsheets, for all its workflows so teams never feel out of place. Teams just replace their existing, siloed Excel spreadsheet with one that's connected and powered by AI. Teams love Dimely for its ease of use and intuitive user experience that saves them hundreds if not thousands of hours a month. ",
     "one_liner": "AI-Powered Spreadsheet for Billing Automation",
     "team_size": 3,
@@ -4537,7 +4542,8 @@
       "Finance and Accounting"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -4597,7 +4603,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2f189a43d87020ce1dd302bdc0c90f0f5ee76fc9.png",
     "website": "https://midship.ai/",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "Midship is rebuilding internal audit from the ground up. We're starting with SOX testing by building AI agents that perform audit work end to end, giving auditors leverage to focus on higher-value risk and advisory work.",
     "one_liner": "AI for SOX testing",
     "team_size": 3,
@@ -4616,7 +4622,8 @@
       "Finance and Accounting"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -4677,7 +4684,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a3e4d26d964f7e9e8a081b6c3ec2ddad6bb65119.png",
     "website": "https://cardamon.ai/",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "London",
     "long_description": "Cardamon is an AI powered platform that ingests relevant regulation, understands what applies to each regulated financial firm, and gets compliance officers from regulation, to obligations, to product requirements in minutes - not weeks.\r\n\r\nFinancial firms face a host of complex regulations that make it incredibly painful to launch and maintain products in a compliant way. As a Product team at Revolut, we felt this pain deeply ourselves - we had products ready to launch but stuck in compliance limbo, often for weeks. Turns out, getting compliant took as long as building the product itself. \r\n\r\nFrustrated, we dug in and were shocked by how manual and inefficient the processes were. That’s when it clicked: there’s a huge opportunity to automate the boring stuff (and solve our own problem!). Compliance teams win because they ditch the tedious tasks. Product teams win because they ship faster. Everyone’s happy.",
     "one_liner": "AI compliance co-pilot for regulated financial businesses",
     "team_size": 2,
@@ -4701,8 +4708,8 @@
       "Finance and Accounting"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "United Kingdom",
+      "Europe"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -4887,7 +4894,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a72893a8ced2fe36f593edecbdfff8190562fd6c.png",
     "website": "https://www.tryminerva.ai",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "We’re building an AI-native accounting firm where accountants collaborate with intelligent agents to deliver superior financial advisory services. Together, they close the books in a fraction of the time traditional firms require.",
     "one_liner": "AI native accounting firm",
     "team_size": 5,
@@ -4906,6 +4913,8 @@
       "Finance and Accounting"
     ],
     "regions": [
+      "United States of America",
+      "America / Canada",
       "Remote",
       "Partly Remote"
     ],
@@ -5337,7 +5346,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b3a28cf26f93d8a445e3e43a81921c8ba0399547.png",
     "website": "https://payna.com/",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "Payna is building the AI licensing agent for regulated companies. We automate the filings, renewals, amendments, and regulator follow ups required to get licensed and stay licensed across jurisdictions, so teams no longer have to manage compliance through spreadsheets, email threads, and expensive outside firms. Starting with financial services categories like lending, debt collection, and money transmission, Payna helps companies move faster, stay compliant, and scale without adding compliance headcount linearly.",
     "one_liner": " AI Licensing Agent for Regulated Industries",
     "team_size": 2,
@@ -5356,7 +5365,8 @@
       "Finance and Accounting"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -5451,7 +5461,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b91d12799d3c1083cf13c1c333bde8b754cfd8dd.png",
     "website": "https://o11.ai",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "o11 integrates directly inside of Microsoft PowerPoint, Excel, and Word, along with Google Slides, Sheets, and Docs. We enable you to automate any workflow directly within these apps from crafting templated presentations to building full financial models. Hundreds of companies across the globe use o11 currently.\r\n\r\nOur vision doesn't stop there though. We're building the AI plugin inside of every app. Every platform deserves to be automated through chat. o11 brings enterprises and users this potential.\r\n\r\n\r\n\r\n\r\n\r\n\r\n",
     "one_liner": "The AI Agent Inside Every Enterprise App",
     "team_size": 2,
@@ -5470,7 +5480,8 @@
       "Finance and Accounting"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -5530,7 +5541,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f6c74fb63a006045b5124e1949931ca658a4aafd.png",
     "website": "https://www.copperlane.ai",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "Copperlane helps mortgage lenders accelerate the loan process and reduce mistakes in an application. We use AI agents to understand an applicant's profile, verify their documents, and complete initial underwriting tasks.",
     "one_liner": "Agentic Mortgage Origination",
     "team_size": 2,
@@ -5549,7 +5560,8 @@
       "Finance and Accounting"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,

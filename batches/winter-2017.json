@@ -608,7 +608,7 @@
     "former_names": [],
     "small_logo_thumb_url": "/company/thumb/missing.png",
     "website": "http://www.lvl5.ai",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "",
     "one_liner": "HD maps for self-driving cars.",
     "team_size": 6,
@@ -630,7 +630,8 @@
       "Automotive"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -1840,7 +1841,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/91f99c3342f7ef67fe23f91952d7102c8d49d799.png",
     "website": "http://getentry.com",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "CA, USA; San Francisco, CA, USA",
     "long_description": "Easily onboard, verify IDs, authenticate and continuously verify credentials and the identities of your users - in one place.",
     "one_liner": "Biometric sign in and identity verification platform",
     "team_size": 7,
@@ -1883,7 +1884,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b0e1a686e82d7baf1431c13fde889f55c35832d4.png",
     "website": "https://www.rankscience.com",
-    "all_locations": "New York, NY, USA; Remote",
+    "all_locations": "CA, USA; New York, NY, USA; Remote",
     "long_description": "RankScience is the #1 trusted agency to grow SEO traffic for venture-backed Silicon Valley startups to the Fortune 500.",
     "one_liner": "Automated SEO for Startups",
     "team_size": 16,
@@ -2174,7 +2175,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5a5f04ad2b7ba3169c85be1ac62f4a434b27d75d.png",
     "website": "http://www.InnaMed.com",
-    "all_locations": "Philadelphia, PA, USA",
+    "all_locations": "CA, USA; Philadelphia, PA, USA",
     "long_description": "InnaMed's HomeLab device and software take the hassle out of blood testing and let you access precision medical care from the comfort and privacy of your home. Healthcare providers and researchers can now receive timely clinical reports that they are accustomed to interpreting directly to their EMR, LIMS or EDC system. Trend identification and pattern matching software can guide decision making in the prescription and dosing of therapy and deep integration with the healthcare system and telehealth services allows for data driven care while also ensuring human connection.\r\n\r\n\r\n",
     "one_liner": "At-home blood testing: measure + analyze + enhance.",
     "team_size": 7,
@@ -2651,7 +2652,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9ac80c2fbef11d5fbf4a6cb2ab737b0446b9a57c.png",
     "website": "https://hivyapp.com",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "NY, USA; San Francisco, CA, USA",
     "long_description": "Hivy is a task management tool for office operations teams and helpdesk system for employees. The platform enables office managers to collect employee requests, manage projects, assign tasks and notify employees when their requests have been completed.\r\n\r\nHivy was acquired by Managed by Q in 2017. ",
     "one_liner": "An end-to-end platform for office management. We enable office…",
     "team_size": 0,
@@ -3706,7 +3707,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ac1a9b419c6e0296d9979a3dfcc7b192613d95ea.png",
     "website": "https://zipx.com/",
-    "all_locations": "Hong Kong Island, Hong Kong",
+    "all_locations": "NY, USA; Hong Kong Island, Hong Kong",
     "long_description": "We are a group of expats in Hong Kong that want easy and affordable access to buy the products we love from back home. Snacks, foods, health products, and other daily essentials that we miss are either not found in Hong Kong, or are too expensive to buy. We were faced with bad alternatives such as overpriced grocery stores, or expensive package forwarding companies.\r\n\r\nWe believe that with the help of technology, anyone should be able to buy anything from around the world at an affordable price. We are on a mission to make international commerce seamless.",
     "one_liner": "We allow anyone in South East Asia to instantly order any product…",
     "team_size": 1,
@@ -3728,7 +3729,9 @@
       "Food and Beverage"
     ],
     "regions": [
+      "United States of America",
       "Hong Kong",
+      "America / Canada",
       "East Asia"
     ],
     "stage": "Early",
@@ -4768,7 +4771,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2ef928ade4bf8ee9ed7a1a6f031e860f272f0a2b.png",
     "website": "https://www.getscopeai.com",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "CA, USA; San Francisco, CA, USA",
     "long_description": "ScopeAI automates the process of communicating user insights to product and operation teams. The product leverages natural language processing (a form of AI) to extract insights from customer conversations. It integrates with existing support channels such as Zendesk, Intercom, Desk.com (salesforce) to automatically tag and analyze conversations for trends in customer feedback.",
     "one_liner": "Automatically extract valuable insights from customer service…",
     "team_size": 4,

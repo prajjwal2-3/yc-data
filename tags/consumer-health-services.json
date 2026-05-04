@@ -1545,7 +1545,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6e0eca2d7e7f67093e6606b0eacc66af5d2937bf.png",
     "website": "https://www.medicarevox.com",
-    "all_locations": "New York, NY, USA",
+    "all_locations": "CA, USA",
     "long_description": "Building and AI Health insurance agent.",
     "one_liner": "Building an AI Health Insurance Agent.",
     "team_size": 20,
@@ -3876,7 +3876,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/00e87778f713ce047a743a9838a85c3b22cc4b8b.png",
     "website": "https://www.revivingmind.com/",
-    "all_locations": "Boston, MA, USA; Remote",
+    "all_locations": "CA, USA; Boston, MA, USA; Remote",
     "long_description": "Navigating chronic illness is an isolating and lonely process which ultimately reduces medical adherence and adversely impacts outcomes. There are over 100 deadly chronic conditions as 1 out of 2 Americans is currently living with at least 1 chronic condition. The US healthcare system has over $1 trillion dollars in direct costs. Medical adherence rates for therapeutic programs and medicine are only 50% because patients feel lonely, isolated, and unsupported in their chronic illness journey.\r\n\r\nReviving Mind is an in-network telehealth provider that improves clinical outcomes and program adherence for the senior medicare and medicare-advantage population that is plagued with loneliness and chronic illness. This is done through a novel and proprietary clinical program and technology platform that integrates virtual, private, curated, and professionally led groups that scale up to 8-patients with individualized and goal oriented lifestyle medicine coaching that is automated but managed by a licensed provider.\r\n\r\nScaling rapidly across the United States.",
     "one_liner": "Addressing Loneliness and Isolation for Seniors",
     "team_size": 3,
@@ -4108,7 +4108,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c618208d2cb852eeff16409fb7e787701c395b91.png",
     "website": "https://www.rex.fit",
-    "all_locations": "Zürich, ZH, Switzerland",
+    "all_locations": "CA, USA",
     "long_description": "The DROP by Rex.Fit is an AI wearable camera that automates nutrition tracking using computer vision. It has garnered more than 93k USD in preorders (~450 units) since its launch last month. The nutrition estimation and recommendation tech behind the DROP is already integrated as an API for fitness chains, generating hundreds of thousands of dollars in yearly revenue for them. The DROP is built by brothers, sports nutritionists and computer vision engineers from the Swiss Federal Institute of Technology (ETH Zurich).",
     "one_liner": "Automating nutrition tracking.",
     "team_size": 2,
@@ -4132,8 +4132,8 @@
       "Consumer"
     ],
     "regions": [
-      "Switzerland",
-      "Europe"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,

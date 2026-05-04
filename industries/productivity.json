@@ -729,7 +729,7 @@
     "former_names": [],
     "small_logo_thumb_url": "/company/thumb/missing.png",
     "website": "http://workflowy.com",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "NY, USA; San Francisco, CA, USA",
     "long_description": "WorkFlowy is a tool for organizing your brain. It provides a powerful interface for hierarchical lists. People use it as a replacement for text editors and spreadsheets as organizational tools. They leave it open all day and put whatever passes through their brain in it - project plans, to-do's, meeting notes, brainstorms, etc..",
     "one_liner": "WorkFlowy is a better way to manage information. It provides a simple…",
     "team_size": 4,
@@ -2562,7 +2562,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/91f99c3342f7ef67fe23f91952d7102c8d49d799.png",
     "website": "http://getentry.com",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "CA, USA; San Francisco, CA, USA",
     "long_description": "Easily onboard, verify IDs, authenticate and continuously verify credentials and the identities of your users - in one place.",
     "one_liner": "Biometric sign in and identity verification platform",
     "team_size": 7,
@@ -3114,7 +3114,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/24a1b10ecd88a95d991b58dfef7185c0450e3ce6.png",
     "website": "https://pointapi.com",
-    "all_locations": "Cambridge, MA, USA",
+    "all_locations": "NY, USA; Cambridge, MA, USA",
     "long_description": "Point stores things you send over and over again and helps you re-use them instantly.\r\n\r\nPoint can store ANYTHING, including long email templates, links, images, and emojis! When you want to re-send your pitch, support ticket resolution, or even just a Calendly link, Point makes it easy to find and reuse it so you never have to type it out again.\r\n\r\nNo need to search for your favorite emoticon anymore...¯\\_(ツ)_/¯\r\n\r\nInstall our Chrome Extension to use Point anywhere on the web: https://pointapi.com/chrome.",
     "one_liner": "Point stores things you send over and over again and helps you re-use…",
     "team_size": 5,
@@ -3563,7 +3563,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5aa6fac6d2489885ce08d4c58cabcc5b5a131c29.png",
     "website": "https://sapling.ai",
-    "all_locations": "San Francisco, CA, USA; Los Angeles, CA, USA",
+    "all_locations": "CA, USA; Los Angeles, CA, USA",
     "long_description": "Sapling offers an API and SDK to help businesses integrate language models into their applications. Its messaging assistant sits on top of CRMs and messaging platforms to help users more efficiently compose responses.",
     "one_liner": "Language models for enterprise applications.",
     "team_size": 2,
@@ -6386,7 +6386,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c0fd1e303870cee8f54e36ccbd538d8f026ea4e6.png",
     "website": "https://slidely.ai/",
-    "all_locations": "",
+    "all_locations": "Bengaluru",
     "long_description": "Create new slides or upgrade existing ones with AI that works natively inside PowerPoint and stays true to your company’s branding, templates, and standards.\r\n\r\nHow Slidely AI is different -\r\n\r\n1. Works directly in PowerPoint\r\nNative PPTX support — no HTML-to-PPT hacks, exports, or broken layouts.\r\n\r\n2. Improves slides you already have\r\nBecause it understands real PowerPoint files, Slidely AI can rewrite, redesign, and tighten existing decks — not just generate new ones.\r\n\r\n3. Agentic, consulting-grade output\r\nUnlike other tools which can only use simple templates, Slidely AI agent puts each shape individually on slides to express your complex data.\r\n\r\n4. Truly on-brand, every time\r\nLearns from your past decks to follow your colors, fonts, layouts, and slide patterns — so every slide looks like it came from you, not a generic AI tool.",
     "one_liner": "AI for professional PowerPoint presentations, available in PowerPoint",
     "team_size": 5,
@@ -6405,7 +6405,8 @@
       "Productivity"
     ],
     "regions": [
-      "Unspecified"
+      "India",
+      "South Asia"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -6993,7 +6994,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9d0fae4f448de789e718cb96878197c7ecc29e2f.png",
     "website": "https://getcore.me",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "Bengaluru",
     "long_description": "CORE is your AI personal assistant that learns who you are, connects to your apps, and does the work before you ask. \r\n\r\nOpen source. Self-hostable. Fully yours.",
     "one_liner": "Your AI butler that understands you really well and proactively acts…",
     "team_size": 3,
@@ -7017,8 +7018,8 @@
       "Productivity"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "India",
+      "South Asia"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -7242,7 +7243,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4967676cdc6058f952822347fafe9d59a61218fb.png",
     "website": "https://autotab.com",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "Autotab is a drop-in AI knowledge worker that uses a mouse and keyboard like you—so anything you can do, it can do. Show it how to perform your task, train it to be hallucination-proof by adding examples and providing feedback, and then run it on demand or on a schedule—either locally or in the cloud.\r\n \r\n\r\nIt achieves superhuman reliability, and can scale up on demand so your team doesn’t have to.\r\n \r\n\r\nAutotab is already handling complex tasks thousands of steps long, from messaging customers to triggering payments and updating data across core systems of record like Salesforce, HubSpot, Google Sheets, and Jira.\r\n\r\n \r\nDownload the beta version of the app and get started right away, or sign up for a personalized onboarding: https://www.autotab.com",
     "one_liner": "AI agents reliable enough to do real work",
     "team_size": 2,
@@ -7266,7 +7267,8 @@
       "Productivity"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -7466,7 +7468,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b71724cc191332ce5f9a9e67de24272d0329c59c.png",
     "website": "https://circleback.ai",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "Circleback helps teams get the most out of every conversation with best-in-class AI-powered meeting notes, action items, automations, and search.\r\n\r\nFor example, Circleback can automatically identify feature requests that come up in product demo calls and create Linear tasks for each of them, or update your CRM with customer details after a sales call.\r\n\r\nBefore Circleback, Ali led the first integration of LLMs into the Stripe support product and Kevin worked on predictive analytics at Tableau as a senior software engineer.",
     "one_liner": "AI-powered meeting notes and automations",
     "team_size": 8,
@@ -7485,7 +7487,8 @@
       "Productivity"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -7636,7 +7639,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7a33b212287f4a8ba926edd565f2b9dfec82369e.png",
     "website": "https://zuni.app",
-    "all_locations": "Remote",
+    "all_locations": "London; Remote",
     "long_description": "Zuni is a Chrome extension that gives you AI capabilities in the sidebar of your browser. It can use what it sees on any of your tabs as context, and proactively helps you draft messages and emails.",
     "one_liner": "AI Assistant that works alongside you in your Chrome browser",
     "team_size": 2,
@@ -7660,6 +7663,8 @@
       "Productivity"
     ],
     "regions": [
+      "United Kingdom",
+      "Europe",
       "Remote",
       "Fully Remote"
     ],
@@ -8287,7 +8292,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ec77fe8f30c765884c0359fdaafcf0412168dd15.png",
     "website": "https://www.stampmail.ai/",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "Stamp is the first AI Native inbox. It's more than an email client, though -- it's like your second brain.\r\n\r\nStamp can respond to emails in your voice, organize your inbox to filter out the noise, keep track of action items, and automate essentially every task you're doing manually in your inbox today.",
     "one_liner": "The AI Secretary for Email and Calendar.",
     "team_size": 1,
@@ -8306,7 +8311,8 @@
       "Productivity"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -8327,7 +8333,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/23ee7aa773e16f7887979b0dcfa61db69ba9fd25.png",
     "website": "https://altrina.com",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "Altrina automates SOPs to give humans back their time to do what matters.\r\n\r\nWe have already significantly improved organizational efficiency for local governments, law offices, insurance brokers, consulting firms, and hedge funds.\r\n\r\nFormerly General Agency/Tessa AI",
     "one_liner": "The SOP Automation Platform",
     "team_size": 4,
@@ -8346,6 +8352,8 @@
       "Productivity"
     ],
     "regions": [
+      "United States of America",
+      "America / Canada",
       "Remote",
       "Partly Remote"
     ],
@@ -8593,7 +8601,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b76569fbe505e2260c81baabe36a7512daf19506.png",
     "website": "https://getden.io",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "We help humankind build better goods and services.",
     "one_liner": "Cursor for knowledge workers",
     "team_size": 2,
@@ -8612,7 +8620,8 @@
       "Productivity"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -8673,7 +8682,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2d07ddb576ac56313f5c987b3bb7c2ff770b583a.png",
     "website": "https://www.gitdot.io/",
-    "all_locations": "",
+    "all_locations": "NY, USA",
     "long_description": "",
     "one_liner": "A better GItHub",
     "team_size": 2,
@@ -8695,7 +8704,8 @@
       "Productivity"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -8799,7 +8809,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4c08d892e148caaaf2ce4e85ef39beddd97353a8.png",
     "website": "https://www.trace.so/",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "London",
     "long_description": "Trace is a workflow orchestration platform that gives agents shared context across systems and lets teams build visual processes combining AI and humans. It automatically identifies which tasks can be AI-automated and which need human input, so non-technical teams build and run workflows without engineering involvement.",
     "one_liner": "Context-aware orchestration between humans and AI.",
     "team_size": 3,
@@ -8824,8 +8834,8 @@
       "Productivity"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "United Kingdom",
+      "Europe"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -8845,8 +8855,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/aca02a57c5f38896120f1fe6767d1975b6a6b522.png",
     "website": "https://char.com",
     "all_locations": "",
-    "long_description": "Char records your meetings without bots, pulls action items from your emails, and builds a daily note with everything you need to do. You review it, tick what's done, and hand off the rest to AI agents like Claude or Cursor. Open source.",
-    "one_liner": "AI daily notes from your meetings, emails, and tasks",
+    "long_description": "Char is a daily notepad that finishes your todos for you. Type a checkbox, and an agent picks it up — researching, drafting, or scheduling on your behalf. Stay in command. Char does the work.",
+    "one_liner": "The AI notepad that knows and works for you",
     "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B -> Productivity",
@@ -8930,7 +8940,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9c6be0818283f49c20fc921c3bc7db67bfb60bf5.png",
     "website": "https://www.magnetictax.com",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "Magnetic scans client documents - from handwritten charity notes to excel spreadsheet Schedule Cs to multi-state K-1s - and enters them into tax software automatically, saving hours of tedious data entry. \r\n\r\nThe accounting profession is facing a massive talent shortage, as graduates choose different professions and the old guard begins to retire. As a result, CPA and tax preparation firms are awash in clientele, but unable to keep up. At many firms, phones go unanswered, clients are \"fired\", and websites are taken down, as the existing workforce tries to handle the grueling 80 hour+ weeks necessary to push through tax season to the April 15th deadline.\r\n\r\nWe built this because a former colleague who owns her own tax firm asked us to automate her workload, and we quickly realized the massive opportunity. Thomas brings deep domain expertise as the former Head of Product at Keeper (YC W19), where he built tax engine automation systems and an OCR form scanning system that outperformed everything else on the market. At Keeper, he leveraged early access to OpenAI's LLMs (well before ChatGPT) to build systems that automated the entire tax filing process, allowing a tiny team of CPAs to process thousands of returns with near zero busy work. Patrick was the first engineer at FunCraft, shipping multiple mobile games with 1M+ downloads and building scalable shared codebases. We've worked together since 2017, including co-leading multiple teams at Zynga as PM & Tech Lead respectively.\r\n\r\nThe opportunity is massive - there are 80M US personal tax returns filed via professionals annually, in a $2B outsourcing market where individual CPA firms currently pay $100k-$1M per year for inferior services. We're positioned to capture significant market share by offering better accuracy & document coverage, instant processing, and superior user experience.\r\n\r\nWe've built this kind of software before, we've worked together for years (and even lived together), we've built products to $10M ARR before, and we have the grit to outwork anyone in this space.",
     "one_liner": "AI Tax Preparer for CPA firms",
     "team_size": 2,
@@ -8949,7 +8959,8 @@
       "Productivity"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -9050,7 +9061,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e19b35070e7d07faf76c0c63ed399bd1286b5daf.png",
     "website": "https://syntropy.io",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "Syntropy is an autonomous coding agent built for complex long-horizon tasks, that turns a feature description into a fully tested implementation. Instead of babysitting a terminal for hours writing prompts and managing context, just describe what you want, go out for lunch, and come back to a production-ready PR. Syntropy joins your Slack to send you updates, and also supports custom MCP integrations.",
     "one_liner": "The agentic coding app for complex tasks.",
     "team_size": 2,
@@ -9069,7 +9080,8 @@
       "Productivity"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -9086,7 +9098,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/dd8ddb84748f0bee7a74404c7075fd31e9681917.png",
     "website": "https://cofia.ai",
-    "all_locations": "",
+    "all_locations": "NY, USA",
     "long_description": "Cofia learns how your team runs internal operations and automates the highest-ROI workflows, automatically.",
     "one_liner": "AI automations that implement themselves",
     "team_size": 2,
@@ -9105,7 +9117,8 @@
       "Productivity"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -9126,7 +9139,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/dd03bcedbbd9356a9f36c34083e541508201f3c6.png",
     "website": "https://www.unisson.ai",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "Unisson is building trusted AI subject-matter experts for teams that are responsible for customer deployments (technical customer success, implementation, sales engineering). Within 20 minutes, our agents learn to use any product and can be used by teams in Slack, text, or email. Our agents gather requirements and context from existing tools enabling them to handle complex tasks like customer health audits, onboarding, product administration, and custom integrations. \r\n\r\nWith Unisson, customer-facing teams have 24/7 access to an AI SME, allowing them to scale and save thousands of hours. ",
     "one_liner": "AI agents that automate B2B software implementation",
     "team_size": 2,
@@ -9145,7 +9158,8 @@
       "Productivity"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -9393,7 +9407,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/79f117b2c0a8e5660f929ae9a8070ce8dd61d0ff.png",
     "website": "https://openworklabs.com",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "OpenWork is a desktop app that lets people connect to their existing skills, MCPs, and agents. Users can download the app for free, try it with over 50+ model providers, and easily share their setup with their team.",
     "one_liner": "The open source alternative to Claude Cowork",
     "team_size": 4,
@@ -9412,7 +9426,8 @@
       "Productivity"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,

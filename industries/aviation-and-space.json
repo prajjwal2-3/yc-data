@@ -427,7 +427,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/cb2c60afe00a006c41276fc69a7c49f830e81b65.png",
     "website": "http://www.spaceryde.com",
-    "all_locations": "Toronto, ON, Canada",
+    "all_locations": "CA, USA; Toronto, ON, Canada",
     "long_description": "SpaceRyde is building the future of space cargo transportation to facilitate and encourage necessary in-space developments, innovations and economy. SpaceRyde is the only sustainable mode of space transportation. Its innovative system utilizes a stratospheric balloon to bypass the atmosphere without emissions nor depositing black particles into the ozone layer and is the world’s first and only multi-functional rocket. After completing its initial mission, the vehicle will remain powered in orbit and joins its rocket network until assigned its next in-space mission, including tasks such as; refuelling, deep space missions, space junk removal and de-orbiting. \r\n\r\nSpaceRyde’s story began in 2018 with husband-wife founders Saharnaz Safari and Sohrab Haghighat and the dream of eliminating the barriers to innovation in space. The company is now a rapidly growing team of over 30 employees with a 25,000-square-foot rocket factory and state-of-the-art engine groundworks facility.",
     "one_liner": "The Rocket Network: Sustainable & On-Demand Delivery Anywhere in Space",
     "team_size": 33,
@@ -452,6 +452,7 @@
       "Aviation and Space"
     ],
     "regions": [
+      "United States of America",
       "Canada",
       "America / Canada"
     ],
@@ -1808,7 +1809,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c1bb6e6d5b88de1027f26cd87fddd83304d2d58e.png",
     "website": "https://aresindustries.com",
-    "all_locations": "El Segundo, CA, USA",
+    "all_locations": "CA, USA",
     "long_description": "",
     "one_liner": "Building low-cost cruise missiles ",
     "team_size": 2,
@@ -1897,7 +1898,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/bbe9d08b52107f4ba06be791e9808aa96113cd5f.png",
     "website": "https://www.consus.io",
-    "all_locations": "Remote",
+    "all_locations": "CA, USA; Remote",
     "long_description": "Consus is your single source of truth for government specifications, standards, or handbooks. We verify the active revision of documents, notify you when documents are updated, and make it easy to extract the relevant information. Win new business or execute existing contracts faster with Consus.",
     "one_liner": "Your single source of truth for government documents",
     "team_size": 1,
@@ -1916,6 +1917,8 @@
       "Aviation and Space"
     ],
     "regions": [
+      "United States of America",
+      "America / Canada",
       "Remote",
       "Fully Remote"
     ],
@@ -2051,7 +2054,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/492921aa241caf7471287ab906f14d641f8eeab7.png",
     "website": "https://www.orbitalops.tech/",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "Orbital Operations is developing a high thrust, reusable space vehicle for satellite defense. We protect critical satellites, like GPS and Military communication satellites, from adversarial threats, like China and Russia.\r\n\r\nOur vehicle will use the exact same propulsion systems that launch vehicles have used for decades by implementing a cryogenic management system. This will give us over 100x the thrust or current in-space propulsion.\r\n\r\nRoss and I have over 15 years of combined aerospace experience across NASA, Aerojet Rocketdyne, SpaceX, Blue Origin, and Relativity Space. We’ve worked side by side for more than 3.5 years developing propulsion systems, turbomachinery, and building our own respective engineering teams.\r\n\r\nWe are currently working on the first demo of our unique cryo management system and intend to launch an operational vehicle by 2027. ",
     "one_liner": "High Thrust Space Vehicles for Satellite Defense",
     "team_size": 2,
@@ -2070,7 +2073,8 @@
       "Aviation and Space"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": true,
@@ -2128,7 +2132,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/755313167313a2de3bd2cc31183948d26996bb07.png",
     "website": "https://www.instinct-space.com/",
-    "all_locations": "",
+    "all_locations": "London",
     "long_description": "Instinct is making the Moon the new LEO. Our small lunar lander is designed to be launched as a regular LEO rideshare, enabling higher mission cadence at a lower cost.",
     "one_liner": "Building lunar landers",
     "team_size": 4,
@@ -2147,7 +2151,8 @@
       "Aviation and Space"
     ],
     "regions": [
-      "Unspecified"
+      "United Kingdom",
+      "Europe"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -2164,7 +2169,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/64d433326d1439cca20362b396d9908aa3f426b0.png",
     "website": "http://www.notussystems.com/",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "CA, USA",
     "long_description": "We are making drone swarms of arbitrary size which are strategically immune to RF interference using phased arrays at 60GHz steered by a novel radar algorithm.",
     "one_liner": "Arbitrary size interference resistant drone swarms using EHF radios",
     "team_size": 3,
@@ -2251,7 +2256,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/36e55270dbc5bebe580db836e83f643f2121440a.png",
     "website": "https://cascade.space",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "Cascade Space is building a turn-key communications system for lunar and deep space missions. Our ground station network and integrated software tools work together to maximize uptime and availability, while reducing spacecraft iteration cycles from weeks to hours. \r\n",
     "one_liner": "Deep space communications as a service",
     "team_size": 7,
@@ -2276,7 +2281,8 @@
       "Aviation and Space"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -2295,7 +2301,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ee5f921620382e78c7f4ce4082b655aed675702d.png",
     "website": "https://gru.space",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "GRU Space is building permanent lunar infrastructure to make humanity interplanetary within our lifetime, starting with the first hotel on the Moon. In just 6 weeks, we built the world's first Moon factory: patent-pending hardware that turns lunar regolith into bricks and inflates modular pressurized habitats designed to withstand lunar temperature and pressure extremes. \r\n\r\nOur first mission lands on the Moon in 2027 to demonstrate in-situ brick manufacturing and habitat deployment. A second mission lays the hotel's foundation inside a lunar cave, and a third opens the first lunar hotel, targeted for 2032. \r\n\r\nWe don’t stop at Moon hotels. GRU’s long-term plan:\r\n\r\n1. Build the first hotel on the Moon. GRU solves off‑world surface habitation.\r\n2. Become the Moon Base Company of America: build roads, mass drivers, warehouses, and physical infrastructure.\r\n3. Repeat on Mars and build the first cities there.\r\n4. Own property on the Moon and Mars as these economies grow.\r\n5. Reinvest profits into resource utilization systems on the Moon, Mars, asteroids, and beyond—reaching our final form: Galactic Resource Utilization.\r\n\r\nGRU Space is backed by investors in SpaceX and Anduril, is part of Nvidia's Inception program, and our launch generated 1B+ views across 60+ countries, earning invitations to the White House, Senate, and Pentagon. ",
     "one_liner": "Moon Hotel -> The Intergalactic Construction Company of Earth",
     "team_size": 1,
@@ -2314,7 +2320,8 @@
       "Aviation and Space"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -2368,7 +2375,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3d7cf823c4893a350166b41685cc7e72de36fe4d.png",
     "website": "https://generalastro.com/",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "Robots for microgravity research and manufacturing.",
     "one_liner": "Robotics for Space R&D",
     "team_size": 2,
@@ -2387,7 +2394,8 @@
       "Aviation and Space"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -2476,7 +2484,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d93a4cb68bc153f52d09c71b45093cc62ba91a62.png",
     "website": "https://dispatch.space/",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "Dispatch is building refurbishable reentry vehicles that host and return payloads for companies making ultra-high-value materials (semiconductors, biotech, and pharma) that can only be manufactured in space. Right now, these companies have no practical way to manufacture and get their products back to Earth. We solve this bottleneck.\r\n\r\nWe just returned from the Mojave Desert testing our first full-scale reentry heat shield designed to protect the satellite as it returns from space at Mach 20+, built in an apartment for 100x cheaper than competitors. To test, we held it behind a rocket engine to simulate the forces of atmospheric reentry. IT WORKED! Watch here - https://youtu.be/dhlQmnIoptg\r\n\r\nTo scale, we anchor permanent infrastructure in orbit - building high power Autonomous Space Stations designed from day one for \"lights-out\" manufacturing serviced by the reentry vehicles.",
     "one_liner": "Satellites for manufacturing in space",
     "team_size": 2,
@@ -2499,7 +2507,8 @@
       "Aviation and Space"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,

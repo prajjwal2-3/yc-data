@@ -893,7 +893,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/275e2a78b8a55a63263d69a44e49471cf75b7b7f.png",
     "website": "http://www.nuvocargo.com",
-    "all_locations": "Mexico City, CDMX, Mexico",
+    "all_locations": "NY, USA; Mexico City, CDMX, Mexico",
     "long_description": "Nuvocargo is a digital-first freight forwarder and licensed US customs broker focused on helping shippers seamlessly move cargo over the road between USA and Mexico. Our goal is to make your life easier by combining exceptional service with beautiful software so that moving your products between USA and Mexico is less painful and more intuitive.\r\n\r\nWe are the **one-stop shop** for shippers for everything they need in their USA/Mexico cross-border supply chain; this includes procuring freight in both Mexico & USA, customs clearance, insurance, trade finance, reporting, and more. We act as an extension of your team so you can outsource to Nuvocargo all the complexities & vendor management associated with your cross border supply chain.",
     "one_liner": "Radically simplifying cross-border logistics between USA & Mexico",
     "team_size": 150,
@@ -917,7 +917,9 @@
       "Supply Chain and Logistics"
     ],
     "regions": [
+      "United States of America",
       "Mexico",
+      "America / Canada",
       "Latin America",
       "Remote",
       "Partly Remote"
@@ -1297,7 +1299,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f6bc994bad1d5485c5b58121b98f10083b2f9074.png",
     "website": "http://reelables.com",
-    "all_locations": "",
+    "all_locations": "London",
     "long_description": "",
     "one_liner": "The Future of Supply Chain Data Tracking and Visibility",
     "team_size": 0,
@@ -1316,7 +1318,8 @@
       "Supply Chain and Logistics"
     ],
     "regions": [
-      "Unspecified"
+      "United Kingdom",
+      "Europe"
     ],
     "stage": "Growth",
     "app_video_public": false,
@@ -4442,7 +4445,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/199d48c929434ddb64281cd83b9621eb37c3ed62.png",
     "website": "https://www.retailreadyai.com/",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "Every time workers in a warehouse box an order, they reference a 100 page manual with instructions like where to put the shipping label. RetailReady replaces the instruction manual with a tablet application.",
     "one_liner": "An AI-powered supply chain compliance engine",
     "team_size": 12,
@@ -4467,7 +4470,8 @@
       "Supply Chain and Logistics"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": true,
@@ -4531,7 +4535,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2a43915880e9457258d58ab7ad09815c195bf21a.png",
     "website": "https://www.spherecast.ai/",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "Spherecast is building Agnes, the AI Supply Chain Manager for Consumer Goods. \r\n\r\nAgnes decides what to produce, where to make it, and how to move it through factories, warehouses, and channels – simulating thousands of options in seconds and executing the best plan.\r\n\r\nWe are building Agnes to shape the physical flow of goods in the world, turning it into something as programmable as code.\r\n\r\nWhen we succeed, every consumer product you touch will run on the Spherecast stack – planned in the Spherecast OS, executed over Spherecast Rails, and optimized by the shared Spherecast Network.\r\n\r\nOracle turned atoms into bits.\r\nSpherecast turns bits back to atoms, but globally optimized.\r\n\r\nBe part of the next $T company.",
     "one_liner": "AI Supply Chain Manager for CPG",
     "team_size": 7,
@@ -4550,7 +4554,8 @@
       "Supply Chain and Logistics"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -5042,7 +5047,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e0bd87983ace16e9a440ec6fe901ff569c1bb997.png",
     "website": "https://chrt.com",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "chrt is a logistics platform for time-critical shipping. We enable businesses to deliver their most critical items same-day.\r\n\r\nTime-Critical Logistics is a $30B market growing at a 20% CAGR driven by growth in American healthcare and manufacturing.\r\n\r\nBusinesses that place time-critical orders are enterprises who have urgent items they need to deliver ASAP. These orders are critical in nature and often require white glove service -- think therapeutic treatments for healthcare providers or specialized equipment for manufacturers. \r\n\r\nchrt builds the software for forwarders and professional couriers who pick up and deliver these orders. Couriers use chrt to coordinate and track their shipments, including a driver app and fleet management tools. Forwarders use chrt to dispatch couriers, book flights, and track time-critical orders from start to finish. Shippers use chrt to place these orders with their providers and to monitor everything. \r\n\r\nIn addition, we also sell physical tracking devices that can be used to track valuable cargo or assets.\r\n\r\nThis gives us full control of the shipment and allows us to provide shippers with end-to-end tracking. It also allows us to intervene early if we notice something is going wrong.\r\n\r\nWe’re software engineers that became friends years ago at McKinsey. Kyle is an expert in Time-Critical Logistics, having led strategy at a leader in the space. Aaron is an expert at designing and implementing AI systems to handle complex coordination. We were shipping code together on nights and weekends for years before chrt; now we’re also shipping freight.",
     "one_liner": "chrt is a logistics platform for time-critical shipping",
     "team_size": 5,
@@ -5061,7 +5066,8 @@
       "Supply Chain and Logistics"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -5463,7 +5469,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6a11400ce1b300bf129e9c9b8227340f5de10efd.png",
     "website": "https://www.burthq.com/",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "We're building for the people that keep the world moving. \r\n\r\nFreight brokers and forwarders operate on razor-thin margins in a relationship-driven business — yet most of their teams spend the majority of their day on manual, repetitive work.\r\n\r\nWe help freight brokers and forwarders build AI teammates that handle their repetitive, manual tasks so teams have time to focus on customers, carriers, and growing the business.",
     "one_liner": "AI teammates for logistics",
     "team_size": 2,
@@ -5482,7 +5488,8 @@
       "Supply Chain and Logistics"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,

@@ -328,7 +328,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/17547ff6e0fe5d75c99f92fdc3b9c13fa6712bd5.png",
     "website": "https://www.aptible.com",
-    "all_locations": "San Francisco, CA, USA; Toronto, ON, Canada; New York, NY, USA; Philadelphia, PA, USA; Boston, MA, USA; Indianapolis, IN, USA; Remote",
+    "all_locations": "NY, USA; Toronto, ON, Canada; New York, NY, USA; Philadelphia, PA, USA; Boston, MA, USA; Indianapolis, IN, USA; Remote",
     "long_description": "At Aptible, we envision a world where developers achieve more with less infrastructure. We’re building the platform that empowers developers at companies of all stages of development to move beyond the traditional method of managing infrastructure—DIY with expert infrastructure and platform engineers on AWS, GCP, or Azure. We’ve done this through our secure, compliant, reliable, and scalable Platform as a Service that’s been used by thousand of developers, hundreds of companies, and dozens of publicly traded and unicorn companies since 2013.",
     "one_liner": "The No Infrastructure Platform as a Service",
     "team_size": 25,
@@ -588,7 +588,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7bbbc0b138970d664365f112bc20022470751139.png",
     "website": "https://getdockup.com/",
-    "all_locations": "Mountain View, CA, USA",
+    "all_locations": "Bengaluru; Mountain View, CA, USA",
     "long_description": "Dockup gives on-demand environments for engineering teams so they can merge pull requests with confidence. It works like CircleCI, but allows you to manually test and see each code changes in action with your entire tech stack without having to mock any of your services.",
     "one_liner": "On demand ephemeral environments to run manual and automated tests.",
     "team_size": 4,
@@ -609,7 +609,9 @@
       "Engineering, Product and Design"
     ],
     "regions": [
+      "India",
       "United States of America",
+      "South Asia",
       "America / Canada"
     ],
     "stage": "Early",
@@ -1901,7 +1903,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2aa06b2c04632ad68c2151cc3aac66c942a0119b.png",
     "website": "https://www.relvy.ai",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "Relvy provides AI-powered debugging notebooks that help software engineers investigate and resolve incidents faster. It finds the root cause in over 70% of alerts automatically, and when it doesn’t, engineers can easily guide or correct the investigation - saving valuable time across the team.",
     "one_liner": "AI powered debugging notebooks for incident response",
     "team_size": 3,
@@ -1926,7 +1928,8 @@
       "Engineering, Product and Design"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -1943,7 +1946,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/79bd0c6f85962c1282260ab60adb0462fdb87ec8.png",
     "website": "https://tensorpool.dev",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "Our CLI makes ML model training effortless - just describe your job, and we handle GPU orchestration and execution at half the cost of major cloud providers.",
     "one_liner": "Vercel For GPUs",
     "team_size": 3,
@@ -1968,7 +1971,8 @@
       "Infrastructure"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -2155,7 +2159,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2f60ad803d2e9b0079d1a0e2e9afd248df7aafcd.png",
     "website": "https://www.projectx.cloud/",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "Every computer ever made forces you to do one thing at a time. One cursor. One keyboard. One Hardware. One app in focus. Fifty years. Nobody questioned it.\r\n\r\nWe did. We started over.\r\n\r\nWe built InfinityOS, a fundamentally new computer OS on the cloud from ground up.\r\n\r\nInfinity runs every app in its own independent computer -- own GPU, own input, own environment. Windows and Linux in the same session. Humans and agents working side by side. No concurrency ceiling. Cold start in seconds. One URL.",
     "one_liner": "Infinity: the first OS where humans and agents work with no limits.",
     "team_size": 6,
@@ -2180,6 +2184,8 @@
       "Infrastructure"
     ],
     "regions": [
+      "United States of America",
+      "America / Canada",
       "Remote",
       "Partly Remote"
     ],

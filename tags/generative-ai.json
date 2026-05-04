@@ -6,7 +6,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/074cd05efbc63f7a13cbb794c1df90f03162dc58.png",
     "website": "http://mixerbox.com",
-    "all_locations": "Palo Alto, CA, USA",
+    "all_locations": "CA, USA",
     "long_description": "MixerBox is an AI Super-Apps technology company that helps people live easier through its 24/7 daily-essential mobile apps platform.\r\n\r\nFounded in 2012 by Harvard alumnus John Lai, MixerBox is backed by the Silicon Valley unicorn accelerator Y Combinator. The company’s apps have surpassed 300,000,000 downloads worldwide, and allow MixerBox users to wake up to MixerBox AlarmTunes, read MixerBox NewsDash, browse with MixerBox ChatAI Browser, pay with MixerBox AI Pay, watch MixerBox FreecableTV, and fall asleep with MixerBox Inspire Meditation. App by app, MixerBox strives to become the “Anything, Anytime Super-Apps Platform” to help people live easier.",
     "one_liner": "AI Super-Apps to Live Easier | The anything anytime superapps…",
     "team_size": 30,
@@ -95,7 +95,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b0e1a686e82d7baf1431c13fde889f55c35832d4.png",
     "website": "https://www.rankscience.com",
-    "all_locations": "New York, NY, USA; Remote",
+    "all_locations": "CA, USA; New York, NY, USA; Remote",
     "long_description": "RankScience is the #1 trusted agency to grow SEO traffic for venture-backed Silicon Valley startups to the Fortune 500.",
     "one_liner": "Automated SEO for Startups",
     "team_size": 16,
@@ -413,7 +413,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/94c28dea71127938b04b08e8639750865f5a274e.png",
     "website": "https://www.leena.ai",
-    "all_locations": "Redwood City, CA, USA; New Delhi, DL, India",
+    "all_locations": "NY, USA; New Delhi, DL, India",
     "long_description": "HR/IT/Finance professionals spend 50% of their time answering employees' questions and tickets. It’s even worse on the employee side, they have to wait for a long time for simple answers.\r\n\r\nWe are live with 500 customers like Coca-Cola, Sony, Puma, Vodafone, Nestle, P&G, Airbnb, etc. We have raised over $40M from top VCs like Bessemer, Greycroft, Elad Gil, etc.\r\n\r\nLeena AI consumes company’s enterprise knowledge & starts answering all employee questions just like a human would. It can even answer complex personalized questions like Why is my salary less this month?\r\n\r\nEmployees can access Leena AI from commonly used UIs like MS Teams or Slack.",
     "one_liner": "We at Leena AI build a virtual assistant that answers employee's…",
     "team_size": 500,
@@ -462,7 +462,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a8e0f926603810ff5a714566d5b989b02b6c7398.png",
     "website": "http://www.lemonbox.com/",
-    "all_locations": "Hong Kong, Hong Kong",
+    "all_locations": "CA, USA",
     "long_description": "LemonBox is an AI-driven personalized nutrition company. Using generative AI nutrition（AI 生成式定制营养）, LemonBox analyzes each user's dietary habits, health goals, and biometric data to generate a custom daily supplement formula — then produces and delivers it as a personalized day pack via monthly subscription. Founded in Silicon Valley in 2016 and backed by Y Combinator, Bessemer Venture Partners, and Partech Ventures, LemonBox has served over 10 million users globally.",
     "one_liner": "AI-generated personalized nutrition solutions, built for you daily.",
     "team_size": 20,
@@ -487,8 +487,8 @@
       "Consumer Health and Wellness"
     ],
     "regions": [
-      "Hong Kong",
-      "East Asia"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Growth",
     "app_video_public": false,
@@ -507,7 +507,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5aa6fac6d2489885ce08d4c58cabcc5b5a131c29.png",
     "website": "https://sapling.ai",
-    "all_locations": "San Francisco, CA, USA; Los Angeles, CA, USA",
+    "all_locations": "CA, USA; Los Angeles, CA, USA",
     "long_description": "Sapling offers an API and SDK to help businesses integrate language models into their applications. Its messaging assistant sits on top of CRMs and messaging platforms to help users more efficiently compose responses.",
     "one_liner": "Language models for enterprise applications.",
     "team_size": 2,
@@ -2159,7 +2159,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/98cd71fc795fe80387da92b38a105f7c275db52d.png",
     "website": "https://www.bytebot.ai/",
-    "all_locations": "San Francisco, CA, USA; Remote",
+    "all_locations": "MA, USA; Remote",
     "long_description": "Bytebot simplifies and streamlines the development of computer use agents with a ready made container for desktop automation, including APIs for mouse movements, keyboard input, and screenshot capture. \r\n\r\nThe container enables developers to build robust, dynamic computer use agents that can be configured and run anywhere.",
     "one_liner": "Bytebot is the open source container for AI desktop agents.",
     "team_size": 3,
@@ -3481,52 +3481,6 @@
     "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2023/unify.json"
   },
   {
-    "id": 26851,
-    "name": "Mistle",
-    "slug": "mistle",
-    "former_names": [
-      "Ajourney",
-      "Zapi"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d57b2b10c7e35a1990c9ac0bf09d58abdb4ff9d5.png",
-    "website": "https://mistle.dev",
-    "all_locations": "Singapore, Singapore; Remote",
-    "long_description": "Mistle helps engineering teams run reliable background agents that take care of routine, well-scoped work. The agents verify their own output, enabling teams to rely on results with minimal supervision.",
-    "one_liner": "Platform for running autonomous coding agents",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1654527668,
-    "tags": [
-      "Generative AI",
-      "SaaS",
-      "B2B",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2022",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "Singapore",
-      "Southeast Asia",
-      "Remote",
-      "Fully Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/mistle",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2022/mistle.json"
-  },
-  {
     "id": 26884,
     "name": "Alphawatch AI",
     "slug": "alphawatch-ai",
@@ -3537,7 +3491,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5142d0a3656cea04017d1b306be0d076b4873877.png",
     "website": "https://alphawatch.ai",
-    "all_locations": "New York, NY, USA; Remote",
+    "all_locations": "CA, USA; Remote",
     "long_description": "Alphawatch AI offers a secure document agent that allows you to manipulate and convert PDF and Word files, along with your internal knowledge in your knowledge base.",
     "one_liner": "Secure Document Agent",
     "team_size": 10,
@@ -5114,7 +5068,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4b3a15112db36cea4190b3079ddeba5278c19f7f.png",
     "website": "https://booth.ai",
-    "all_locations": "Remote",
+    "all_locations": "CA, USA; Remote",
     "long_description": "Booth AI enables companies to supercharge their creative output with a generative-AI powered image production platform. Booth AI replaces complicated, labor intensive, time consuming and expensive commercial product lifestyle photoshoots. Brand managers, merchandisers, and marketers can produce beautiful lifestyle images in a matter of seconds at a fraction of the cost of traditional photoshoots.",
     "one_liner": "Generative AI Photographer for E-Commerce",
     "team_size": 3,
@@ -5139,6 +5093,8 @@
       "Retail"
     ],
     "regions": [
+      "United States of America",
+      "America / Canada",
       "Remote",
       "Fully Remote"
     ],
@@ -6498,7 +6454,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9d0fae4f448de789e718cb96878197c7ecc29e2f.png",
     "website": "https://getcore.me",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "Bengaluru",
     "long_description": "CORE is your AI personal assistant that learns who you are, connects to your apps, and does the work before you ask. \r\n\r\nOpen source. Self-hostable. Fully yours.",
     "one_liner": "Your AI butler that understands you really well and proactively acts…",
     "team_size": 3,
@@ -6522,8 +6478,8 @@
       "Productivity"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "India",
+      "South Asia"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -6679,7 +6635,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e638279869f7de4ca5752835249b8d2c8711f432.png",
     "website": "https://www.arcimus.com/",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "NY, USA",
     "long_description": "We send founders and recruiting teams  a steady flow of engineers filtered with real engineering judgment.",
     "one_liner": "A stream of engineering candidates who ship.",
     "team_size": 2,
@@ -7297,7 +7253,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e7118ffc006ccecf44fec5c8d5c5268024216181.png",
     "website": "https://www.fiber.ai/apis",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "NY, USA",
     "long_description": "Fiber AI is the freshest data APIs for AI sales, recruiting, & growth products, with the freshest data on 40M+ companies, 850M+ people, and 30M+ jobs.\r\n\r\nYou can search live company, people, and jobs data via APIs and webhooks for 10x cheaper than People Data Labs, Explorium, Cognism, CoreSignal, and others. We have verified emails and phone numbers for 4x cheaper than Clay, Apollo, and ZoomInfo.\r\n\r\nWe've helped enterprises like HubSpot, Agent AI, Ramp, and Docusign, as well as fast-growing startups like Flatfile, Karat, Centralize, and Fonzi, get the data they need to build novel AI sales, marketing, and recruiting products with differentiated features – for a fraction of the cost of other data vendors.\r\n\r\nOur Bulk API Search lets builders integrate uncapped, advanced API searches deeply into their product. Search through 40M+ companies, 850M+ people, and 30M+ jobs with advanced filtering for 10x cheaper than People Data Labs, Crustdata, Cognism, and others.\r\n\r\nAPI endpoints nobody else has. We have novel API endpoints that you won't find on People Data Labs, Cognism, Crustdata, Explorium, or anywhere else, to:\r\n\r\n- Reverse lookup a work/personal email to a person\r\n- Search for a person/company using partial or incomplete information\r\n- Let AI agents build comprehensive prospect lists from 100+ data sources\r\n- Fetch real-time LinkedIn company and people information\r\n\r\nFiber AI's APIs have been live for 3+ years, and we've helped 100s of enterprises and startups rip and replace their data providers.\r\n\r\n\r\n\r\n\r\n\r\n----------------------------------------------------------------------------------------------------------------------\r\nFor more details:\r\n\r\nFiber AI is a B2B data API provider and data broker for AI sales tools, AI recruiting platforms, AI marketing products, and growth teams.\r\n\r\nWe offer data APIs, data feeds, bulk API search, REST API, and webhooks across 40M+ companies, 850M+ people, and 30M+ jobs – for 10x cheaper than People Data Labs, Crustdata, CoreSignal, Cognism, Bright Data (BrightData), Live Data (LiveData), Explorium, Seamless.ai, Seamless AI, RocketReach, Kaspr, Snov.io, Snov, Uplead, Lead411, and SalesIntel. We also provide verified emails, verified phones, email data, and phone data for 4x cheaper than Clay, Apollo, ZoomInfo, Hunter, Hunter.io, Lusha, ContactOut, Wiza, LeadMagic, Prospeo, FindyMail, Icypeas, FullEnrich, Datagma, Dropcontact, and LeadIQ.\r\n\r\n- Bulk API search for companies, people, and jobs data (uncapped API searches, search API, company search API, people search API, person API, jobs search API, contact search)\r\n- Email API and emails API (email finder, email lookup, bulk email finder, email address finder, email addresses, work email, work emails, business email, business emails, email list, email database)\r\n- Phone API (phone finder, phone lookup, phone number finder, phone numbers, mobile number, mobile numbers, mobile phone, direct dial, direct dials)\r\n- Reverse email lookup API (email to person, reverse lookup, email enrichment, contact enrichment, lead enrichment, CRM enrichment, enrich)\r\n- Email verification API (email validation, email verification, email deliverability, bounce detection, email bounce)\r\n- Phone verification API (phone validation, phone verification, verified phone, verified phones)\r\n- Contact API and contacts API (contact data, contact lookup, contact finder, contact information, B2B contacts, B2B contact, verified contact, verified contacts)\r\n- Real-time LinkedIn data API (LinkedIn company data, LinkedIn profile data, LinkedIn profiles, LinkedIn scraper, LinkedIn scraping, LinkedIn export, Sales Navigator, Sales Navigator export)\r\n- Company data API (B2B company data, company database, company lookup, company information, firmographic data, firmographics, headcount data, funding data, technographic data, revenue data, intent data)\r\n- People data API (B2B contacts, B2B database, contact database, people database, people lookup, people finder)\r\n- Lead data API (lead, leads, B2B leads, prospect, prospects, lead database, prospect data, lead list, prospect list, contact list)\r\n- Jobs data API (open jobs, hiring signals, job listings data, job postings)\r\n\r\nUse cases:\r\nProduct builders integrate our data APIs to build AI SDR tools, AI SDR, AI BDR, AI BDR tools, SDR tools, BDR tools, SDR software, BDR software, SDRs, BDRs, AI recruiting tools, recruiter tools, recruiters, recruitment software, talent acquisition, talent sourcing, candidate sourcing, candidate data, candidates, hiring tool, sales intelligence products, sales intelligence platform, sales data, sales leads, GTM tools, go-to-market platforms, recruiting pipelines, centralized data platforms, TAM builders, ICP list builders, lead generation software, lead gen, leadgen, demand generation, demand gen, prospecting tools, sales prospecting, outbound sales tools, outbound sales, outreach tool, cold outbound, cold outreach, cold email, cold emails, cold calling, email outbound, email outreach, and account-based marketing (ABM) products.\r\n\r\nWhy teams choose Fiber AI over other data providers and data vendors:\r\n\r\n- 10x cheaper than bulk data providers and data brokers (People Data Labs, Crustdata, CoreSignal, Cognism, Explorium, Clearbit, 6sense, Demandbase, ZoomInfo data, Seamless.ai, RocketReach, Kaspr, Snov.io, Uplead, Lead411, SalesIntel, business data, B2B data, live data, real-time data, fresh data)\r\n- 4x cheaper than contact enrichment tools and email enrichment tools (Clay, Apollo, Hunter.io, Lusha, ContactOut, Wiza, LeadMagic, Prospeo, FindyMail, Icypeas, FullEnrich, Datagma, Dropcontact, LeadIQ, data enrichment, phone enrichment)\r\n- 0% email bounce guarantee – if an email bounces, we refund instantly (no other data vendor or data provider offers this)\r\n- Freshest data and live data feeds: company data updated every 2-3 weeks, jobs data every 2-3 days, people data every 1-2 months\r\n- Novel API endpoints nobody else has: reverse email lookup, email to person lookup, partial/incomplete search, real-time LinkedIn fetching, LinkedIn scraper, AI agent prospect list building\r\n\r\nData coverage:\r\n40M+ B2B companies, 850M+ B2B contacts, 30M+ job listings. B2B database with emails, email addresses, phone numbers, mobile numbers, direct dials, and contact information sourced from 100+ providers including LinkedIn, Crunchbase, BuiltWith, and more.\r\n\r\nWe help AI sales tools, AI recruiting platforms, AI recruiting tools, recruiters, recruitment platforms, sales automation tools, recruiting automation, lead enrichment products, email enrichment tools, phone enrichment services, data enrichment platforms, lead scoring tools, and GTM teams get the B2B data, contact data, email data, phone data, lead data, and prospect data they need via simple, affordable data APIs, data feeds, and webhooks.\r\nWe have B2B company data on 40 million B2B companies and 850 million B2B contacts (i.e. B2B database), sourced from dozens of data providers (i.e. think sources like BuiltWith, Crunchbase, LinkedIn, ZoomInfo, SemRush, Apollo data, and more). This allows you to precisely segment your audience by the companies you care about and exclude everyone else. Our audiences are dynamic (i.e., account based marketing, account based sales, ABM like Clearbit, 6sense, Demandbase), meaning we continuously look for prospects matching your targeting criteria and add them to your audience to run automated outbound sales sequences. This automates manual workflows you might be running on platforms like Clay or Persana. You can also create an audience once based on intent signals (i.e., GTM or go-to-market signals, sales intelligence) and put your outreach on autopilot.\r\n\r\nThis is why RevOps, sales, growth, recruiting, and outbound teams choose us to power their AI SDR platforms (examples of these platforms that could use Fiber AI include artisan ai, 11x, amplemarket, reply.io, unify gtm, penguin ai, regie ai, aisdr, artisan sdr, outreach io, and warmly ai - many of these have used or currently use us), existing lead databases (email enrichment, bulk email finder, or phone enrichment tools like apollo, zoominfo, leadIQ), and contact enrichment tools (clay, persana ai) that promise automation and enrichment but deliver poor results.",
     "one_liner": "The freshest data APIs for AI sales, recruiting, & growth products",
     "team_size": 8,
@@ -7786,7 +7742,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f85e50382b3869e84b292235c05317d5db4ab8cd.png",
     "website": "https://promptarmor.com/",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "",
     "one_liner": "LLM Security and Compliance",
     "team_size": null,
@@ -7810,7 +7766,8 @@
       "Security"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -8461,7 +8418,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ddd71ba982d476aedba701cf20c9d17a3c9193de.png",
     "website": "https://ideate.xyz",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "London",
     "long_description": "Generate. Paint. Refine.\r\n\r\nideate.xyz is an AI-powered 3D art suite on the web, taking your ideas from concept to production ready assets in record time.\r\n\r\nOur powerful text to image to 3D pipeline rapidly generates model assets using the latest AI tech.\r\n\r\nRapidly generate and edit 3D model textures in your browser using our texture projection and inpainting editor.\r\n\r\nGet your 3D assets production ready using our texture processing, upscaling and compression algorithms.",
     "one_liner": "ideate.xyz is an AI-powered 3D art suite on the web",
     "team_size": 2,
@@ -8485,8 +8442,8 @@
       "Engineering, Product and Design"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "United Kingdom",
+      "Europe"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -8506,7 +8463,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7a33b212287f4a8ba926edd565f2b9dfec82369e.png",
     "website": "https://zuni.app",
-    "all_locations": "Remote",
+    "all_locations": "London; Remote",
     "long_description": "Zuni is a Chrome extension that gives you AI capabilities in the sidebar of your browser. It can use what it sees on any of your tabs as context, and proactively helps you draft messages and emails.",
     "one_liner": "AI Assistant that works alongside you in your Chrome browser",
     "team_size": 2,
@@ -8530,6 +8487,8 @@
       "Productivity"
     ],
     "regions": [
+      "United Kingdom",
+      "Europe",
       "Remote",
       "Fully Remote"
     ],
@@ -10240,7 +10199,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f6dd000652c5e77966ee483897c0ffed9dac2d80.png",
     "website": "https://wild-card.ai",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "Wildcard is the AEO and GEO platform designed specifically for e-commerce and retail brands. We help merchants improve visibility across AI search and AI shopping platforms like ChatGPT, Google AI Overviews, Gemini, and Amazon Rufus.\r\n\r\nWildcard tracks how brands, categories, collections, and SKUs appear across AI search results, identifies visibility gaps, and turns those insights into actions. We use AI agents to enrich product data, generate SEO, AEO, and GEO content, create collection and comparison pages, build FAQs, and improve off-site discoverability across Reddit, YouTube, blogs, and other sources.\r\n\r\nAs AI shopping evolves, Wildcard is building the infrastructure brands need to win in agentic commerce, including support for emerging standards like the Agentic Commerce Protocol (ACP) and Universal Commerce Protocol (UCP).",
     "one_liner": "AEO/GEO for E-Commerce and Retail",
     "team_size": 1,
@@ -10265,7 +10224,8 @@
       "Engineering, Product and Design"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -10750,7 +10710,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/dbbb70598f14b005aa7da32e84d2d14fed9e3e3a.png",
     "website": "https://www.pares.ai/",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "CA, USA",
     "long_description": "PARES is the single platform commercial real estate brokers need for their entire workflow, from chasing leads to closing deals and everything in between. \r\n\r\nWith our platform, brokers can:\r\n\r\n1) Automatically update real-time transaction data in our CRM\r\n\r\n2) Create lists of target properties, skip-trace, and easily navigate outbound calls\r\n\r\n3) Underwrite deals with our AI Underwriting Agent\r\n\r\n4) Create OMs/BOVs in minutes with our AI Marketing Agent\r\n\r\nCheck us out at https://www.pares.ai/",
     "one_liner": "Helping commercial real estate brokers find and close more deals.",
     "team_size": 3,
@@ -11021,7 +10981,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Fall 2025",
     "status": "Active",
@@ -11049,7 +11009,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2a8caed7d0a490086d7e541276710ed25029450f.png",
     "website": "https://absurd.com/",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "Absurd makes AI brand and performance ads at scale. Our last video for Kalshi (\"Election Day\") did 1M+ views, and our videos average 400K+ organic views.\r\n\r\nCompanies like Hims, Kalshi, Replit, and Brex use Absurd to create production-quality videos in 72 hours. We do it with a multi-agent orchestration layer, working closely with your team from concept to final cut.\r\n\r\nTry it at absurd.com",
     "one_liner": "AI Videos",
     "team_size": 6,
@@ -11074,7 +11034,8 @@
       "Marketing"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,

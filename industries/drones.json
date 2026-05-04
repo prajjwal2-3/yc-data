@@ -652,7 +652,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/05b004a38c0a5df5a4e151b258151cd9a38f08c8.png",
     "website": "https://theseus.us",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "Theseus builds visual navigation software for GPS-denied drone operations. Using onboard cameras, inertial sensors, and satellite reference imagery, our system computes position fixes entirely passively. The system is entirely self contained, can't be jammed and has no RF signature.",
     "one_liner": "GPS Denied Navigation for Drones",
     "team_size": 6,
@@ -674,7 +674,8 @@
       "Drones"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -768,7 +769,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a981c3ee0de6ecf9a915e188b211780fce335e44.png",
     "website": "https://voltairlabs.com/",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "Voltair is building the world's first globally distributed network of autonomous drones for Earth observation.\r\n\r\nPower utilities are the perfect first customer. Aging infrastructure and extreme weather drive the need for millimeter-scale inspection data on the power grid. Utilities spend tens of billions of dollars every year just looking at their own equipment. Autonomous drone fleets will enable utilities to inspect 7 million miles of infrastructure more frequently, quickly, and accurately. Our long-range, weatherized flying robots work with charging pads installed directly on utility poles. Each new pad unlocks 1000 square miles of coverage.\r\n\r\nWith a charging network deployed on the power grid, we can serve existing multi-billion dollar data markets in road, rail and telecom inspection at 10x lower prices while enabling entirely new applications in hyperlocal weather monitoring, forestry, construction, search & rescue, and insurance.\r\n\r\nWe envision a future in which drone \"instances\" are requested on-demand through our platform, enabling any application builder to serve these critical markets without ever operating their own hardware.",
     "one_liner": "Autonomous Drones for Earth Observation",
     "team_size": 5,
@@ -787,7 +788,8 @@
       "Drones"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -852,7 +854,7 @@
     "subindustry": "Industrials -> Drones",
     "launched_at": 1777342640,
     "tags": [
-      "Security Orchestration, Automation and Response (SOAR)",
+      "Hard Tech",
       "Robotics",
       "Drones",
       "Aerospace"

@@ -6,7 +6,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5e24001397e161383bce325dfd9f3d37a2156f8a.png",
     "website": "https://www.leeroo.com/",
-    "all_locations": "",
+    "all_locations": "London",
     "long_description": "An AI that continuously learns your organization’s knowledge and expert playbooks, uses experimentation, and with human approval ships data & AI programs and their operational UIs on your existing stack.",
     "one_liner": "Organizational Superintelligence",
     "team_size": 3,
@@ -24,7 +24,8 @@
       "B2B"
     ],
     "regions": [
-      "Unspecified"
+      "United Kingdom",
+      "Europe"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -172,7 +173,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3854a114899cbd01548be14b47a9169f22c776a0.png",
     "website": "https://partcl.com/",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "Partcl modernizes chip design automation with physics-informed models powered by GPU acceleration. \r\nOur tools run up to 700× faster than legacy solutions, cutting weeks off development and unlocking AI-driven optimization.",
     "one_liner": "Design a chip in minutes",
     "team_size": null,
@@ -191,7 +192,8 @@
       "Engineering, Product and Design"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -424,7 +426,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1e885d9503dffbb01e24f5bd3a78965979764099.png",
     "website": "https://www.frekil.com",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "Bengaluru",
     "long_description": "Today, it takes months to understand how drugs perform in the real world, delaying safety insights, slowing approvals, and costing lives. Frekil turns that months-long process into minutes, with full auditability and scientific rigor.\r\n\r\nFrekil accelerates real world evidence (RWE) generation for life sciences companies from months to minutes. It connects to fragmented clinical data (EHR, Claims, etc.), harmonizes it, and lets teams run end-to-end studies from cohort design to SAP, statistical analysis, and final reports.",
     "one_liner": "Accelerate Real World Evidence (RWE) Generation from months to minutes",
     "team_size": 2,
@@ -448,8 +450,8 @@
       "Healthcare"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "India",
+      "South Asia"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -466,7 +468,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4911874a37ff01bfa27bb33e5f83f49e6970068e.png",
     "website": "https://plexe.ai",
-    "all_locations": "",
+    "all_locations": "London",
     "long_description": "Plexe builds predictive ML models from a problem description. It connects to data sources, conducts experiments, evaluates and deploys the models to an API endpoint.",
     "one_liner": "Open-source agents to build predictive ML models from a prompt",
     "team_size": 2,
@@ -489,7 +491,8 @@
       "Engineering, Product and Design"
     ],
     "regions": [
-      "Unspecified"
+      "United Kingdom",
+      "Europe"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -672,7 +675,7 @@
     "former_names": [
       "Realm"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2cd237a1ed9ded0c19b8fecc9c46b0ad45f89c04.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/74d921a27f5f4254a29834c03d8bfeb6cd8b878c.png",
     "website": "https://bitboard.work/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Data analysis with AI agents is great until you realize you want to set up a recurring report or collaborate with your team. We built an agent-first workbook so you don’t have to roll your own dashboards or fumble around in a rigid BI tool.\r\n\r\nConnect your agent of choice to BitBoard and it can generate connected charts, SQL, code, and commentary in a notebook-style UI you can share with your team.",
@@ -682,10 +685,10 @@
     "subindustry": "B2B -> Analytics",
     "launched_at": 1746992332,
     "tags": [
+      "Artificial Intelligence",
       "B2B",
       "Analytics",
-      "Data Visualization",
-      "AI"
+      "Data Visualization"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -764,7 +767,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a64ea75986bdbe206a8fe20ee9fdaaa44ad95e9e.png",
     "website": "https://autostep.ai/",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "Autostep is a desktop app installed across your organization to surface repetitive, high-cost tasks that fly under the radar. We rank them by cost and impact so you know what's worth automating, then build or find the right fix - whether that's an AI agent, a process change, or an existing tool.",
     "one_liner": "Uncover repetitive tasks and automate them",
     "team_size": 1,
@@ -783,7 +786,8 @@
       "Operations"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -800,7 +804,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/64d433326d1439cca20362b396d9908aa3f426b0.png",
     "website": "http://www.notussystems.com/",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "CA, USA",
     "long_description": "We are making drone swarms of arbitrary size which are strategically immune to RF interference using phased arrays at 60GHz steered by a novel radar algorithm.",
     "one_liner": "Arbitrary size interference resistant drone swarms using EHF radios",
     "team_size": 3,
@@ -920,7 +924,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ac85a0bca77fe890f3dc1aadd1f0f8a554481659.png",
     "website": "https://www.avallon.ai/",
-    "all_locations": "",
+    "all_locations": "NY, USA",
     "long_description": "Avallon automates insurance claims operations with AI agents that handle routine calls and documents processing. ",
     "one_liner": "AI agents for insurance claims operations",
     "team_size": 7,
@@ -939,7 +943,8 @@
       "Insurance"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -1042,7 +1047,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a72893a8ced2fe36f593edecbdfff8190562fd6c.png",
     "website": "https://www.tryminerva.ai",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "We’re building an AI-native accounting firm where accountants collaborate with intelligent agents to deliver superior financial advisory services. Together, they close the books in a fraction of the time traditional firms require.",
     "one_liner": "AI native accounting firm",
     "team_size": 5,
@@ -1061,6 +1066,8 @@
       "Finance and Accounting"
     ],
     "regions": [
+      "United States of America",
+      "America / Canada",
       "Remote",
       "Partly Remote"
     ],
@@ -1167,7 +1174,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9b24d3137bf7c62299e8f3d9d810e612a82db0b1.png",
     "website": "https://www.galenai.com/",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "Galen is an AI-powered personal healthcare companion. We enable patients to securely connect their medical records from over 800 healthcare institutions across more than 12,000 locations in the United States, United Kingdom, and Canada. We also connect with over 20 popular wearable devices including Apple Watch, Fitbit, and Dexcom, bringing all your medical records and health data into one unified space. \r\n\r\nWe founded Galen because for over four years, Viraj struggled to navigate several conditions related to chronic low back pain. He often found himself waiting weeks for responses from his care team, received little guidance or education about new diagnoses, and was overwhelmed trying to manage overlapping conditions and medications.\r\n\r\nHis experiences are not unique. Our healthcare system is overloaded and fragmented, and often, patients are left to navigate their care on their own. Everyday there are nearly 1 billion health-related Google searches, but the responses to such queries are generic and impersonalized, because the searches lack any insight into a users personal health background.\r\n\r\nBy leveraging your own data and state-of-the art LLM memory capabilities, Galen delivers personalized insights, proactive health recommendations, and 24/7 on-demand medical support — empowering patients to be an active part of their health team. We are a consumer app in beta testing and will be available on the App Store soon!",
     "one_liner": "Personal AI healthcare agent, powered by clinical and wearable data.",
     "team_size": 2,
@@ -1186,7 +1193,8 @@
       "Consumer Health and Wellness"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -1205,7 +1213,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/36f438e6b8799c126e63ad2bfeefaf55ae7bf179.png",
     "website": "http://neoncoral.inc",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "",
     "one_liner": "🪸 AI consumer social ",
     "team_size": 1,
@@ -1228,7 +1236,8 @@
       "Consumer"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -1496,7 +1505,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ec7731d8a7139472d0383a52014ff67683cdac5c.png",
     "website": "https://www.chonkie.ai",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "Chonkie builds deep research agents that surface non-obvious signals from scattered data. Our agents combine public and private sources to deliver detailed, continuously updated research that stays current as underlying facts change.\r\n\r\nWe open source most of the libraries and infrastructure we build. Our most popular library, Chonkie, handles chunking and embedding for AI applications with 100K downloads/day and adoption by OpenAI, Microsoft, and LlamaIndex.",
     "one_liner": "Deep research on autopilot",
     "team_size": 2,
@@ -1519,7 +1528,8 @@
       "Engineering, Product and Design"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -1845,12 +1855,12 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Sim enables fast-growing technical teams to build and deploy AI agent workflows. \r\n\r\n70,000+ developers are already using Sim, integrating with 1000+ apps and LLMs to streamline workflows with AI agents.",
     "one_liner": "Open source platform to build AI agent workflows",
-    "team_size": 5,
+    "team_size": 6,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1746478234,
     "tags": [
-      "Artificial Intelligence"
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -1925,7 +1935,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6853a397a8c949c1f81a95e63684f2b530461ce0.png",
     "website": "https://www.youlearn.ai/",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "YouLearn is an AI tutor for college students. It turns your learning materials into concise notes, an AI tutor you can talk to, and personalized tests.",
     "one_liner": "AI tutor for each student. ",
     "team_size": 3,
@@ -1947,7 +1957,8 @@
       "Education"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -1967,7 +1978,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/27388bac39ab071f08477907bbcc754dc45c3267.png",
     "website": "https://TypeOS.com",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "Built to advance human taste to the frontier, TypeOS is the best way to write with AI.\r\n",
     "one_liner": "AI that sounds like you, where you work.",
     "team_size": 2,
@@ -1991,7 +2002,8 @@
       "Consumer"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -2174,7 +2186,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e611bab66e36c7b14163abfaf0665e260a2ac3e2.png",
     "website": "https://pgdog.dev",
-    "all_locations": "Remote",
+    "all_locations": "CA, USA; Remote",
     "long_description": "PgDog is an application for sharding PostgreSQL. It understands SQL and can distribute queries automatically between databases. It's built for managed databases, like AWS RDS, and doesn't require any changes to application code or schema.\r\n\r\nIn addition to sharding, PgDog is a load balancer and pooler, so it can act as a replacement for PgBouncer, RDS Proxy, and other Postgres scaling products. It brings the simplicity and performance of HTTP load balancing to the database.\r\n\r\nBuilt from the experience of sharding Postgres at Instacart during peak growth in 2020, PgDog is the answer to the old question: does Postgres scale? It does now.",
     "one_liner": "Scaling engine for PostgreSQL",
     "team_size": 2,
@@ -2195,6 +2207,8 @@
       "Infrastructure"
     ],
     "regions": [
+      "United States of America",
+      "America / Canada",
       "Remote",
       "Fully Remote"
     ],
@@ -2293,7 +2307,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1da0f5ca2648eccf749e97a890ad3887f0dc7eb7.png",
     "website": "https://getbluejay.ai/",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "Bluejay’s mission is to engineer trust into every AI interaction, becoming the trust layer between businesses and their customers.",
     "one_liner": "Test, monitor, and improve your voice and chat AI agents",
     "team_size": 7,
@@ -2313,7 +2327,8 @@
       "B2B"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -2417,7 +2432,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ccf0b2ab481c2f80ab1cae885c909b33ef41f986.png",
     "website": "https://www.refresh.dev",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "Building RL environments for coding and computer use. ",
     "one_liner": "Training gyms for computer use and software engineering work",
     "team_size": 8,
@@ -2436,7 +2451,8 @@
       "Engineering, Product and Design"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -2536,7 +2552,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/899619e92df1f3c424bc3715e6b996ecc554d4a1.png",
     "website": "https://www.trapezehealth.com",
-    "all_locations": "",
+    "all_locations": "NY, USA",
     "long_description": "Trapeze empowers doctors to answer patient calls 24/7 with our voice agents clones of their best call center reps and receptionists. In the past 3 months, we’ve onboarded 140+ doctors nationwide serving 1,000,000+ patients.\r\n\r\nWe're building the AI-native Zocdoc to create the standard for how patients and providers find each other.\r\n\r\nFollow along on the BTS of our journey: https://www.tiktok.com/t/ZTjQyxEQx/",
     "one_liner": "AI-native Zocdoc",
     "team_size": 2,
@@ -2555,7 +2571,8 @@
       "Healthcare IT"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -2862,7 +2879,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1f9f89a3e11065395408b656b79f12f0fd9868a1.png",
     "website": "https://www.photoniumoptics.com/",
-    "all_locations": "",
+    "all_locations": "NY, USA",
     "long_description": "Photonium is building software to automate optical system design. We supercharge optics experts with intelligent tooling to reduce costs and deliver faster. We handle the full design stack — from optimization, verification, sourcing, to prototyping — for AR/VR, quantum, biotech, metrology/chip fab, LiDAR, and more. ",
     "one_liner": "AI-Powered Optical Consulting & Software",
     "team_size": 3,
@@ -2887,7 +2904,8 @@
       "Engineering, Product and Design"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -2904,7 +2922,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2d2328f04b2a69a293a3f3a79d7e648159242574.png",
     "website": "https://labric.co",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "Labric is building the data layer that makes AI work for science. We capture messy lab data from instruments and tools, clean it, and connect it—so researchers can actually use AI to accelerate discovery.",
     "one_liner": "The data layer for scientific research",
     "team_size": 2,
@@ -2923,7 +2941,8 @@
       "Analytics"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -3071,7 +3090,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ffc8188b9194b518de8d9010fba82b955eedab6f.png",
     "website": "https://kaizenautomation.com",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "Kaizen uses browser agents to automate operational work across legacy web portals. We’re tackling the $300B business process outsourcing market by replacing the manual portal work that powers industries like healthcare, logistics, and financial services.",
     "one_liner": "Automate anything on the web.",
     "team_size": 6,
@@ -3089,7 +3108,8 @@
       "B2B"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -3106,7 +3126,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/be0803fb251795884ec20acb31fdcd0062d64afb.png",
     "website": "https://www.ticketwallet.com",
-    "all_locations": "",
+    "all_locations": "NY, USA",
     "long_description": "Ticket Wallet is an AI-powered resale platform for season ticket holders and brokers.\r\nWe automate pricing, listing, and distribution across all major marketplaces.\r\n\r\nToday, most tickets are still sold manually: spreadsheets, guessing prices, and listing on one site at a time. The biggest brokers outsource pricing to teams in the Philippines… \r\n\r\nWe built Ticket Wallet because we lived this. Truman has been flipping tickets for the last 5 years. Ryan built pricing software after seeing the mess first-hand. We’ve turned that pain into a product.\r\n\r\nSince launch, we’ve onboarded $3M+ in ticket inventory, signed up 100+ paying sellers, and started working with pro teams. We charge 10% per ticket sold. This is our wedge into the $26B resale market.\r\n\r\nOther platforms cost you money. We make you more of it.",
     "one_liner": "AI-optimized ticket resale",
     "team_size": 2,
@@ -3124,6 +3144,8 @@
       "B2B"
     ],
     "regions": [
+      "United States of America",
+      "America / Canada",
       "Remote",
       "Partly Remote"
     ],
@@ -3434,7 +3456,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5384c6c535d7bcbaf2c4cee7af212ec06f70e79d.png",
     "website": "https://throxy.com/",
-    "all_locations": "",
+    "all_locations": "London",
     "long_description": "throxy builds vertical AI agents that book meetings for software companies selling into traditional industries: manufacturing, logistics, education, and finance.\r\n\r\nOutbound is broken. Generic automation gets ignored, and decision-makers in legacy sectors are hard to reach. Most of your TAM isn't even on LinkedIn, and tools like Clay, Apollo, and ZoomInfo only cover about 65% of the market. throxy fixes this by running bespoke, fully managed outbound systems for software sales teams trying to crack these industries. We use proprietary scraping tools to map your entire addressable market, then combine AI agents with human experts to deliver hyper-personalised email campaigns and human cold calling that is consistently generating six-figure qualified pipelines.\r\n\r\nSince 2023, throxy has powered outbound for B2B software companies, from industrial SaaS to fintech providers, replacing the need for internal SDR teams or stacks of tools with a solution that outperforms on both speed and quality. Today, we have a team of 55 across London and Cape Town, booking on average 8 to 12 qualified meetings per month per client, with some clients seeing 20+ in their first weeks after we doubled down on human-led cold calling.\r\n\r\nAI handles the data: building custom databases, scoring leads against your ICP, and personalising outreach at scale. Humans handle the conversations: real cold calls, real emails, real relationships. That's the difference between us and every AI SDR on the market.\r\n\r\nOur founding team has built AI at JP Morgan, scaled businesses from age 14, and led enterprise sales from Seed to Series D. We're not just automating outbound, we're redefining what sales execution looks like for software companies selling into traditional industries.\r\n\r\nthroxy is the AI SDR purpose-built for the sectors software forgot.",
     "one_liner": "Vertical AI agents that run the sales funnel on autopilot",
     "team_size": 15,
@@ -3458,7 +3480,8 @@
       "Sales"
     ],
     "regions": [
-      "Unspecified"
+      "United Kingdom",
+      "Europe"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -3604,7 +3627,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5dc1e2e5cc8a224ba29a91be64f14ab1fbc9cde3.png",
     "website": "https://www.novoflow.io/",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "Novoflow is building AI employees that automate medical operations for clinics. Novoflow built the universal bridge into EHR systems—so every workflow, from scheduling to billing, can finally run on AI. The first product is an AI employee that talks to patients and uses computer agents to book, reschedule, and recover cancelled appointments. Built for healthcare providers and hospitals.",
     "one_liner": "AI employees that automate medical operations for clinics. ",
     "team_size": 6,
@@ -3623,7 +3646,8 @@
       "Healthcare Services"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -4188,7 +4212,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/298de1df0e98ea832138177668c9cea22705e3fb.png",
     "website": "https://www.vassarrobotics.com",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "CA, USA",
     "long_description": "We build home humanoids the practical way—an open, mass-produced developer kit powering a real-home teleop data flywheel to autonomy, giving families back 20 hours/week.",
     "one_liner": "Open-source semi-humanoid dev kit → home data → autonomy → 20h/wk",
     "team_size": 3,
@@ -4602,7 +4626,7 @@
       "Naïve",
       "naïve"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/06af5d16e9099ea20940c7e2eeb917bb2f11454a.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d9f36771516883d109fe1d640d056334a197d1d8.png",
     "website": "https://usenaive.ai",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Naïve is an autonomous company builder. \r\n\r\nYou describe what your business does, and Naïve deploys AI employees that actually execute — building your app, closing deals, running campaigns, serving customers. \r\n\r\nIt works for creating new companies and automate existing companies by connecting Naive to their entire stack. ",
@@ -4612,8 +4636,8 @@
     "subindustry": "B2B",
     "launched_at": 1747424808,
     "tags": [
-      "Infrastructure",
-      "AI"
+      "Artificial Intelligence",
+      "Infrastructure"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -4688,7 +4712,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e0bd87983ace16e9a440ec6fe901ff569c1bb997.png",
     "website": "https://chrt.com",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "chrt is a logistics platform for time-critical shipping. We enable businesses to deliver their most critical items same-day.\r\n\r\nTime-Critical Logistics is a $30B market growing at a 20% CAGR driven by growth in American healthcare and manufacturing.\r\n\r\nBusinesses that place time-critical orders are enterprises who have urgent items they need to deliver ASAP. These orders are critical in nature and often require white glove service -- think therapeutic treatments for healthcare providers or specialized equipment for manufacturers. \r\n\r\nchrt builds the software for forwarders and professional couriers who pick up and deliver these orders. Couriers use chrt to coordinate and track their shipments, including a driver app and fleet management tools. Forwarders use chrt to dispatch couriers, book flights, and track time-critical orders from start to finish. Shippers use chrt to place these orders with their providers and to monitor everything. \r\n\r\nIn addition, we also sell physical tracking devices that can be used to track valuable cargo or assets.\r\n\r\nThis gives us full control of the shipment and allows us to provide shippers with end-to-end tracking. It also allows us to intervene early if we notice something is going wrong.\r\n\r\nWe’re software engineers that became friends years ago at McKinsey. Kyle is an expert in Time-Critical Logistics, having led strategy at a leader in the space. Aaron is an expert at designing and implementing AI systems to handle complex coordination. We were shipping code together on nights and weekends for years before chrt; now we’re also shipping freight.",
     "one_liner": "chrt is a logistics platform for time-critical shipping",
     "team_size": 5,
@@ -4707,7 +4731,8 @@
       "Supply Chain and Logistics"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -4724,7 +4749,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/67f8fa73a583138ab0060e99d6a10e8341a0d040.png",
     "website": "https://www.mindfort.ai",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "MindFort is building fully autonomous AI agents powered by their in-house models that can find, exploit, and patch complex vulnerabilities in web applications at massive scale. MindFort agents use the same principles as human penetration testers to understand their target and figure out the best ways to work together to exploit it. We can do fully autonomous AI web pentesting and bring offensive security to teams out numbered. \r\n\r\nWhile security teams were already behind with legacy tools and processes, AI coding is make the problem worse. AI generates code far faster than human teams can secure it; MindFort can match that speed and scale. Our agents will become critical as organizations scale up development with AI.\r\n",
     "one_liner": "Autonomous Security Agents",
     "team_size": 5,
@@ -4743,7 +4768,8 @@
       "Security"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -4936,7 +4962,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e2f73769cf099429cf35b159e89f9f7c89a94c78.png",
     "website": "https://nimbic-ai.com",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "",
     "one_liner": "Automatically write and update internal docs with every code commit.",
     "team_size": 3,
@@ -4958,7 +4984,8 @@
       "Engineering, Product and Design"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -5019,7 +5046,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/de349c84edec8a91fa36f8307a0a2b1fa56b010f.png",
     "website": "https://propolis.tech/",
-    "all_locations": "",
+    "all_locations": "NY, USA",
     "long_description": "Propolis simulates real users via swarms of autonomous browser agents that test for you.",
     "one_liner": "Hands off QA via intelligent browser agents. ",
     "team_size": 2,
@@ -5037,7 +5064,8 @@
       "B2B"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -5056,7 +5084,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b76569fbe505e2260c81baabe36a7512daf19506.png",
     "website": "https://getden.io",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "We help humankind build better goods and services.",
     "one_liner": "Cursor for knowledge workers",
     "team_size": 2,
@@ -5075,7 +5103,8 @@
       "Productivity"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -5092,7 +5121,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3af9294b241ac810c538d00aea0a921d1229099f.png",
     "website": "https://mlop.ai",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "London",
     "long_description": "A fully open-source, performant and actionable Weights & Biases alternative that saves you money. \r\n\r\nCheck out our story here! https://www.reddit.com/r/mlopai/comments/1kkc9jp/mlopai_an_efficient_free_and_opensource/",
     "one_liner": "Experiment tracking for training ML models",
     "team_size": 2,
@@ -5115,8 +5144,8 @@
       "B2B"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "United Kingdom",
+      "Europe"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -5647,7 +5676,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/36e55270dbc5bebe580db836e83f643f2121440a.png",
     "website": "https://cascade.space",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "Cascade Space is building a turn-key communications system for lunar and deep space missions. Our ground station network and integrated software tools work together to maximize uptime and availability, while reducing spacecraft iteration cycles from weeks to hours. \r\n",
     "one_liner": "Deep space communications as a service",
     "team_size": 7,
@@ -5672,7 +5701,8 @@
       "Aviation and Space"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -5820,7 +5850,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c9c4d6c7b4eeb36609b87bd95a70ffca51164330.png",
     "website": "https://www.foundation-industries.com/",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "For the first time in decades, fast, flexible domestic production can be economically superior. We’re rebuilding America’s productive edge through low-volume, high-mix manufacturing, helping hard-tech teams prototype faster, launch sooner, and build more here.\r\n\r\nIf you want to restore American productive power and ship real hardware, reach out.\r\n\r\njakob@foundation-industries.com",
     "one_liner": "We supply hard tech companies with critical components.",
     "team_size": 4,
@@ -5841,7 +5871,8 @@
       "Industrials"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,

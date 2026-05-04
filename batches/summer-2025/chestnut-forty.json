@@ -10,7 +10,7 @@
   ],
   "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b50eeaec6516885328ae6b094795e471d93069f5.png",
   "website": "https://chestnutforty.com",
-  "all_locations": "",
+  "all_locations": "CA, USA",
   "long_description": "We build forecasting agents for global macro events. ",
   "one_liner": "The AI forecasting company for global macro events. ",
   "team_size": 1,
@@ -28,7 +28,8 @@
     "Consumer"
   ],
   "regions": [
-    "Unspecified"
+    "United States of America",
+    "America / Canada"
   ],
   "stage": "Early",
   "app_video_public": false,

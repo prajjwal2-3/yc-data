@@ -621,7 +621,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9ac80c2fbef11d5fbf4a6cb2ab737b0446b9a57c.png",
     "website": "https://hivyapp.com",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "NY, USA; San Francisco, CA, USA",
     "long_description": "Hivy is a task management tool for office operations teams and helpdesk system for employees. The platform enables office managers to collect employee requests, manage projects, assign tasks and notify employees when their requests have been completed.\r\n\r\nHivy was acquired by Managed by Q in 2017. ",
     "one_liner": "An end-to-end platform for office management. We enable office…",
     "team_size": 0,
@@ -837,7 +837,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4ba6201de53f04a0e9d1bccc92712c4a886355dc.png",
     "website": "https://useStable.com",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "NY, USA",
     "long_description": "📬 Stable is a virtual address & mailroom for startups, and the only solution on the market that guides you through switching your business address compliantly\r\n\r\n- 🏢 1 permanent business address for all of your company documents and mail\r\n- 👩‍🏫 Guidance on compliantly switching your address with the IRS, state, banks, payroll, etc\r\n- 📨 Open, view, forward, and shred your mail securely without physically entering a mailroom\r\n- ⚡ Integrations with the tools you love to use (Slack, Dropbox, Drive, etc)\r\n- 💻 Modern platform with encrypted file storage, optical character recognition, and more\r\n",
     "one_liner": "A virtual address + mailbox for business",
     "team_size": 30,
@@ -969,7 +969,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/088175fa9125ef3885f5ea688b7630e8021bece3.png",
     "website": "https://tandemspace.com/",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "The pandemic reduced office use nationwide by 50%, and tenants have been left to deal with highly inflexible, long term lease agreements that don’t fit today’s office use patterns.\r\n\r\nThe traditional brokerage model works great for big spaces and long terms. But when you want to talk smaller units, short term lengths, shared and common areas, you’re out of luck. \r\n\r\nTandem is an AI-native office leasing platform. We’re using technology to unlock an easier leasing process.   Our AI co-pilot provides a white-glove-quality B2B office search experience, with a fraction of the human labor typically required.\r\n\r\nToday we’re serving three primary markets — NY, SF and BOS.  We’ve helped more than 500 companies find great office space and have seen double-digit month-over-month growth.",
     "one_liner": "AI-native office leasing agent",
     "team_size": 22,
@@ -992,6 +992,8 @@
       "Office Management"
     ],
     "regions": [
+      "United States of America",
+      "America / Canada",
       "Remote",
       "Partly Remote"
     ],

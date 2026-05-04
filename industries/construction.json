@@ -568,7 +568,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d63589ab125b18c4f235fe17ab462bfbde2b02ec.png",
     "website": "https://downtobid.com",
-    "all_locations": "New York, NY, USA; Remote",
+    "all_locations": "CA, USA; Remote",
     "long_description": "Our product helps GCs automatically identify scopes of work, find qualified local subcontractors, and send personalized bid invites.\r\n\r\n",
     "one_liner": "Using AI to understand construction plans faster.",
     "team_size": 5,
@@ -1105,7 +1105,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/cb773861a8ee7d9c8f9ea1ad72eeeb3cc4a2283e.png",
     "website": "http://tigereye.com/",
-    "all_locations": "Remote",
+    "all_locations": "CA, USA; Remote",
     "long_description": "TigerEye eliminates bullsh*t so construction professionals can focus\r\non building the infrastructure that makes our world work\r\n",
     "one_liner": "AI for Construction",
     "team_size": 30,
@@ -1128,6 +1128,8 @@
       "Construction"
     ],
     "regions": [
+      "United States of America",
+      "America / Canada",
       "Remote",
       "Fully Remote"
     ],
@@ -1466,7 +1468,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/de40cdab3b2a59f362314d96298b6bfbfdf6a69b.png",
     "website": "https://www.electricair.io/",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "Electric Air is a tech-enabled contractor for heat pump installations that cuts costs by 60%. Heat pumps are the most efficient way to heat American homes with a $53B annual market opportunity. ",
     "one_liner": "Tech-enabled heat pump contractor that cuts costs by 60%",
     "team_size": 18,
@@ -1485,7 +1487,8 @@
       "Construction"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -1677,7 +1680,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fa668d5cbf2cf7fdadb1d8847e54392cbd356305.png",
     "website": "https://www.karmenai.com",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "Karmen is an AI scheduling assistant for construction. Karmen builds your baseline schedules from project documents, and updates them as your project evolves, saving you time and potential delays.\r\n\r\n",
     "one_liner": "Your AI scheduling assistant for construction",
     "team_size": 2,
@@ -1696,7 +1699,8 @@
       "Construction"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -1713,7 +1717,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b817d9ff432f589aa1f3d4acdce2adb596dc372c.png",
     "website": "https://fresco-ai.com/",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "Fresco is an AI-powered takeoff and estimating for Division 8 construction (doors, frames, and hardware).\r\n\r\nEstimating Division 8 has always been brutally manual: flipping through hundreds of pages of specs, cross-referencing hardware sets, and building out schedules by hand. A single missed door or misread hardware group can kill a bid's margin.\r\n\r\nFresco automates the entire takeoff process with 99% accuracy, cutting the time estimators spend on takeoffs by 70%. We've processed 3,000+ takeoffs for general contractors and Division 8 subs, and we're becoming the system of record for how this trade gets estimated.\r\n\r\nDivision 8 is our beachhead: it's complex enough that AI creates massive value, and siloed enough that the incumbents haven't solved it. We're starting here and expanding across the spec trades.",
     "one_liner": "AI copilot for construction estimators",
     "team_size": 2,
@@ -1732,7 +1736,8 @@
       "Construction"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,

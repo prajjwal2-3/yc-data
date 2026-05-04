@@ -286,7 +286,7 @@
     "former_names": [],
     "small_logo_thumb_url": "/company/thumb/missing.png",
     "website": "https://www.physioh.com",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "PhysioHealth is an enterprise health and wellness management platform that rewards your employees for living healthy and decreases your healthcare costs.\n\nTheir customized platform delivers 5x engagement vs. other corporate wellness programs.",
     "one_liner": "An enterprise health benefits platform that rewards employees for…",
     "team_size": 2,
@@ -309,7 +309,8 @@
       "Healthcare Services"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -372,7 +373,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a8e0f926603810ff5a714566d5b989b02b6c7398.png",
     "website": "http://www.lemonbox.com/",
-    "all_locations": "Hong Kong, Hong Kong",
+    "all_locations": "CA, USA",
     "long_description": "LemonBox is an AI-driven personalized nutrition company. Using generative AI nutrition（AI 生成式定制营养）, LemonBox analyzes each user's dietary habits, health goals, and biometric data to generate a custom daily supplement formula — then produces and delivers it as a personalized day pack via monthly subscription. Founded in Silicon Valley in 2016 and backed by Y Combinator, Bessemer Venture Partners, and Partech Ventures, LemonBox has served over 10 million users globally.",
     "one_liner": "AI-generated personalized nutrition solutions, built for you daily.",
     "team_size": 20,
@@ -397,8 +398,8 @@
       "Consumer Health and Wellness"
     ],
     "regions": [
-      "Hong Kong",
-      "East Asia"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Growth",
     "app_video_public": false,
@@ -1587,7 +1588,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0586276952946e7eb368770c1670669a2ac319d6.png",
     "website": "https://deep24.com",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "Deep24 is a coach that syncs with all your data source, understanding you and then coming up with plans to improve your life. ",
     "one_liner": "AI coach for your entire life",
     "team_size": 2,
@@ -1610,6 +1611,8 @@
       "Education"
     ],
     "regions": [
+      "United States of America",
+      "America / Canada",
       "Remote",
       "Partly Remote"
     ],
@@ -1680,7 +1683,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/41da0485e955f2070020b3fb65cf8716d346525e.png",
     "website": "https://www.vocalityhealth.com",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "Our app allows doctors to speak any language, eliminating the need for human medical translators in hospitals and clinics. Despite spending billions on in-person and remote translators—mostly through outdated call centers—hospitals still fail to provide adequate care for non-English-speaking patients.\r\n\r\nWe're building the most accurate and compliant medical language translation system across voice and video modalities. ",
     "one_liner": "Voice AI for medical language translation",
     "team_size": 2,
@@ -1703,7 +1706,8 @@
       "Healthcare Services"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,

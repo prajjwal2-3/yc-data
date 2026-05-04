@@ -49,7 +49,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/eb7ce56fc4d7716b3ceae151008b7dd130aca547.png",
     "website": "http://simplelegal.com",
-    "all_locations": "Mountain View, CA, USA",
+    "all_locations": "CA, USA; Mountain View, CA, USA",
     "long_description": "Legal spend, matter, accrual and IP management software for in-house counsel.",
     "one_liner": "Legal Operations for corporate legal teams.",
     "team_size": 60,
@@ -931,7 +931,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/eaf8f081136d0802d1263079f90289e27869565f.png",
     "website": "https://withedge.com",
-    "all_locations": "Remote",
+    "all_locations": "CA, USA; Remote",
     "long_description": "Edge uses AI to help IP professionals get their jobs done. We help trademark attorneys do clearance searches, patent attorneys draft patents, and more.",
     "one_liner": "The ultimate IP assistant.",
     "team_size": 2,
@@ -950,6 +950,8 @@
       "Legal"
     ],
     "regions": [
+      "United States of America",
+      "America / Canada",
       "Remote",
       "Fully Remote"
     ],
@@ -968,7 +970,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/cdb4c71ccbddd0ad292fc773c3cfb169d2a4a5ba.png",
     "website": "https://www.solveintelligence.com/",
-    "all_locations": "",
+    "all_locations": "London",
     "long_description": "Solve Intelligence is the AI platform for helping legal professionals with every part of the patent process.\r\n\r\nWith $55M backing from Y Combinator, Microsoft, Thomson Reuters, 20VC, Operator Collective, Visionaries, and others, they have assembled a world-leading team of patent attorneys, AI PhDs, and software developers to build products for patent application drafting, office action responses, invention harvesting, claim charting, infringement analysis, FTO, validity challenges, patent litigation, and more.\r\n\r\nThey are now selling their 100% secure and confidential software to 500+ IP firms and in-house teams across the US, Europe, and Asia (e.g. DLA Piper, Siemens, Perkins Coie, Amgen - see customers https://www.solveintelligence.com/#customers).\r\n\r\nSolve customers are reporting 60-90% efficiency and quality improvements (see testimonials https://www.solveintelligence.com/#testimonials).\r\n\r\nSee a demo today: https://www.solveintelligence.com/contact-us",
     "one_liner": "AI patent drafting, prosecution, litigation and more for legal teams.",
     "team_size": 43,
@@ -987,7 +989,8 @@
       "Legal"
     ],
     "regions": [
-      "Unspecified"
+      "United Kingdom",
+      "Europe"
     ],
     "stage": "Growth",
     "app_video_public": false,
@@ -1273,20 +1276,20 @@
     "name": "Tower",
     "slug": "tower",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/97d9192686e0278a86ecd8f8e25d07e7d760cfd1.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/71c566f418e6fe3b2b2aa396c65f6feec1bfc40f.png",
     "website": "https://withtower.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Tower accelerates transactional due diligence via an AI-powered, centralized diligence platform. By consolidating disparate diligence workflows, Tower helps deal teams stay organized, spot issues earlier, and close deals faster.",
     "one_liner": "M&A due diligence platform powered by AI",
-    "team_size": 2,
+    "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Legal",
     "launched_at": 1715707959,
     "tags": [
+      "Artificial Intelligence",
       "Workflow Automation",
       "Legal",
       "LegalTech",
-      "AI",
       "AI Assistant"
     ],
     "tags_highlighted": [],
@@ -1909,7 +1912,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/dc717d7521c4543043c20540b7ff90d62356bd8e.png",
     "website": "https://www.kalinda.ai/",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "Kalinda helps class action law firms qualify potential cases in minutes with AI.\r\n\r\nThe nature of class action/mass torts involves thousands of cases for a single lawsuit. For every plaintiff (injured person), law firms involved in these cases compile everything from the products they used to the injuries they have. This data is extensive, granular, and buried deep in thousands of pages of medical, financial, and employment records and others.\r\n\r\nKalinda extracts, summarizes, and aggregates data from these records for attorneys with AI.\r\n\r\nWhen scaled across an entire litigation, Kalinda works tirelessly and in parallel—turning a process that once took months into just a few hours. \r\n\r\nKalinda provides firms with the equivalent manpower of hundreds of paralegals and legal nurses, allowing them to quickly determine which claimants are eligible and helping them file faster and in greater volume.\r\n\r\nTo date, we’ve processed 600k pages of records and are live with 2 of the largest plaintiff law firms in the U.S!",
     "one_liner": "Deep research for class action law firms",
     "team_size": 2,
@@ -1928,7 +1931,8 @@
       "Legal"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -2073,7 +2077,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/24fe2cfdacb0c9b085052b0bee9ce77035a7373e.png",
     "website": "https://vectorlegal.com",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "A modern solution for Startup legal: we are a premier, full service, hybrid AI law firm & legal tech platform. \r\n\r\nCustomers get software + white glove lawyer support for maximum value on each legal matter.\r\n\r\nServices: fundraise & priced rounds | customer contracts | complex formations | grow your team | agentic data rooms | e-signatures | cap table management | legal health checks | mergers & acquisitions | co-founder separations | dissolutions.",
     "one_liner": "Full service ai law firm & software solution, for startups",
     "team_size": 4,
@@ -2092,7 +2096,8 @@
       "Legal"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -2266,7 +2271,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ed78fd7caa59335d26e6924d7cd9e597c6f6f2a8.png",
     "website": "https://www.fed10.ai",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "Fed10 is a legislative consulting firm staffed by AI agents. \r\n\r\nWe monitor every bill across the U.S., flag threats to your business, and deliver actionable insights — the same work a $500/hr policy consultant does, but in seconds instead of days.\r\n\r\nBuilt by three ex-lobbyists who passed legislation together.",
     "one_liner": "AI agents that replace your policy consultants",
     "team_size": 3,
@@ -2285,7 +2290,8 @@
       "Legal"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,

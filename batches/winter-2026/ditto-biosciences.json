@@ -5,7 +5,7 @@
   "former_names": [],
   "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0d5b227bb99dde80a75d7008740db6747b12af69.png",
   "website": "https://www.dittobio.com/",
-  "all_locations": "",
+  "all_locations": "CA, USA",
   "long_description": "Ditto Bio discovers drugs for autoimmune diseases by harnessing parasite biology. Viruses, ticks, and worms have experimented over millions of years to create proteins that control the human immune system. We use AI to identify these proteins and engineer them into next-generation autoimmune therapies.\r\n\r\nOur team is three PhD scientists from UCSF, UCSD, and UC Berkeley who have worked together for 3+ years in biotech. We have deep expertise in parasite biology, computational biology, and software for AI-based protein structure prediction",
   "one_liner": "Evolutionary intelligence for autoimmune disease",
   "team_size": 3,
@@ -24,7 +24,8 @@
     "Drug Discovery and Delivery"
   ],
   "regions": [
-    "Unspecified"
+    "United States of America",
+    "America / Canada"
   ],
   "stage": "Early",
   "app_video_public": false,
