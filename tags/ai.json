@@ -4044,6 +4044,51 @@
     "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2020/atmo.json"
   },
   {
+    "id": 13549,
+    "name": "Airbyte",
+    "slug": "airbyte",
+    "former_names": [
+      "Daxtarity",
+      "Dataline"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fc4c9a8bb7a853c14be4dac967fb9717f36fca1c.png",
+    "website": "https://airbyte.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Airbyte Agents is the context layer your AI agents query before they act. Features the Context Store, which unifies entities across Salesforce, Stripe, Zendesk and more. Use it from the UI, your LLM via MCP, or our SDK. 40% fewer tool calls, up to 80% fewer tokens.\r\n\r\nAirbyte Data Replication is the leading open data movement platform that empowers data teams in the AI era by transforming raw data into actionable intelligence. \r\n\r\nhttps://github.com/airbytehq/",
+    "one_liner": "Context layer for production-grade AI agents",
+    "team_size": 90,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1584288236,
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "Open Source",
+      "Data Engineering",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2020",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/airbyte",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2020/airbyte.json"
+  },
+  {
     "id": 13620,
     "name": "Legionfarm",
     "slug": "legionfarm",
@@ -11276,50 +11321,6 @@
     "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2022/unthread.json"
   },
   {
-    "id": 27108,
-    "name": "Patika",
-    "slug": "patika",
-    "former_names": [
-      "Patika Technology Limited"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0759b46550e74b852273c768ee9c77b38e9e95be.png",
-    "website": "https://www.sanifu.ai",
-    "all_locations": "Nairobi, Nairobi County, Kenya; Remote",
-    "long_description": "Our Product: Sanifu\r\n\r\nSanifu enables manufacturers and distributors to automate the entry of sales orders from emails and WhatsApp into their ERP systems. By extracting customer order details from various formats—including emails, PDFs, and handwritten notes—and accurately entering the data into ERP systems, Sanifu significantly reduces manual data entry time and errors. This automation enhances overall efficiency for businesses, allowing them to scale more effectively and focus on core operations. We are targeting a market of 180,000 manufacturers and distributors across Africa, representing a $2.5B+ opportunity.\r\n\r\nSidney and Phelix, who met 10 years ago at a leadership program by Mastercard and Equity Bank, are technical founders with 5+ years experience working together to build payments platforms that processed $10M monthly GTV across Kenya, Uganda & Nigeria.",
-    "one_liner": "Automating entry of sales orders from emails/Whatsapp into ERP…",
-    "team_size": 5,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1655225496,
-    "tags": [
-      "SaaS",
-      "B2B",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2022",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "Kenya",
-      "Africa",
-      "Remote",
-      "Fully Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/patika",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2022/patika.json"
-  },
-  {
     "id": 27109,
     "name": "HOMLI",
     "slug": "homli",
@@ -17413,7 +17414,7 @@
     "top_company": false,
     "isHiring": false,
     "nonprofit": false,
-    "batch": "Winter 2024",
+    "batch": "Spring 2026",
     "status": "Active",
     "industries": [
       "Consumer"
@@ -17430,7 +17431,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/jo",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2024/jo.json"
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/jo.json"
   },
   {
     "id": 29156,
@@ -23474,50 +23475,6 @@
     "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2024/odo.json"
   },
   {
-    "id": 29797,
-    "name": "Haystack",
-    "slug": "haystackeditor",
-    "former_names": [
-      "Haystack Software"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/bd48721d6c682c48e30cb675f7793656d5a02a9f.png",
-    "website": "https://haystackeditor.com/",
-    "all_locations": "New York, NY, USA",
-    "long_description": "Haystack helps teams review and merge more code without lowering quality.\r\n\r\nAs AI-generated pull requests become more common, code review shifts from reading every line to deciding what actually deserves human attention.\r\n\r\nHaystack uses full codebase context and agent traces to recover author intent, verify changes, and route only the risky or ambiguous work to reviewers.\r\n\r\nTeams use it to keep standards high while moving faster through a growing volume of changes.",
-    "one_liner": "AI review layer that decides which code changes need human attention",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1722315932,
-    "tags": [
-      "Developer Tools",
-      "B2B",
-      "Productivity",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2024",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/haystackeditor",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2024/haystackeditor.json"
-  },
-  {
     "id": 29800,
     "name": "HeroUI",
     "slug": "heroui",
@@ -24572,7 +24529,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -24817,7 +24774,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Fall 2024",
     "status": "Active",
@@ -28642,7 +28599,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Spring 2025",
     "status": "Active",
@@ -31806,52 +31763,6 @@
     "api": "https://prajjwal2-3.github.io/yc-data/batches/fall-2025/soren.json"
   },
   {
-    "id": 30871,
-    "name": "PlayVision",
-    "slug": "playvision",
-    "former_names": [
-      "PlayVision AI",
-      "PlayVision",
-      "PlayVision AI"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6f6f00ebc0225a4cbce95222a692d004481c7b1f.png",
-    "website": "https://withplayvision.ai/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "PlayVision is the AI Moneyball for Sports: the future for scouting, recruiting, and playing the game.\r\n\r\nBasketball teams upload their practices or games, and PlayVision uses AI and computer vision to automatically tag and analyze the film, giving coaches and scouts 10 times the information on their players and their opponents. PlayVision also uses algorithms to rank every single college and professional basketball player in the country with over 40 different metrics from tracking and play-by-play data. \r\n\r\nCheck out our website at withplayvision.ai, and follow our instagram @playvisionai!",
-    "one_liner": "AI Moneyball for Sports",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Analytics",
-    "launched_at": 1761579619,
-    "tags": [
-      "Sports Tech",
-      "Computer Vision",
-      "Analytics",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Fall 2025",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Analytics"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": true,
-    "url": "https://www.ycombinator.com/companies/playvision",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/fall-2025/playvision.json"
-  },
-  {
     "id": 30875,
     "name": "Veria Labs",
     "slug": "veria-labs",
@@ -32361,50 +32272,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/pixley-ai",
     "api": "https://prajjwal2-3.github.io/yc-data/batches/fall-2025/pixley-ai.json"
-  },
-  {
-    "id": 30937,
-    "name": "Anto Biosciences",
-    "slug": "anto-biosciences",
-    "former_names": [
-      "Anto"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/83f56c369ac0fb5e70438516e774b8603717940a.png",
-    "website": "https://www.anto.bio/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Anto is building a foundation model for microbial communities, making the gut microbiome computable for the first time. We predict drug toxicity and efficacy across diverse populations and fix drugs so they work for everyone — solving the hidden root cause of most drug failures. \r\n\r\nFounded by Arvid (Broad Institute of MIT and Harvard; Nature-published researcher who pioneered quality-aware, goal-directed sparsification) and David (Harvard Medical School Gastroenterology, J&J), second-time founders who published the breakthrough at leading machine learning AI conferences and Nature. ",
-    "one_liner": "A Foundation Model for Microbial Communities.",
-    "team_size": 2,
-    "industry": "Healthcare",
-    "subindustry": "Healthcare",
-    "launched_at": 1761948352,
-    "tags": [
-      "Generative AI",
-      "Biotech",
-      "Genomics",
-      "Drug discovery",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Fall 2025",
-    "status": "Active",
-    "industries": [
-      "Healthcare"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/anto-biosciences",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/fall-2025/anto-biosciences.json"
   },
   {
     "id": 30938,
@@ -33185,33 +33052,35 @@
     "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/clara-2.json"
   },
   {
-    "id": 31076,
-    "name": "Imperfect",
-    "slug": "imperfect",
+    "id": 31080,
+    "name": "Didit",
+    "slug": "didit",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/002fb81dd9c99e80efddd89e683644b3b238f04e.png",
-    "website": "https://imperfect.co",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Imperfect connects your wearables, training platforms, and health apps into one AI coach focused on getting you race day ready. Where other tools give you a fixed plan like MapQuest, Imperfect is Waze, adapting your training, recovery, and nutrition to how your body is actually responding.",
-    "one_liner": "AI coach that connects your wearables to get you race day ready",
-    "team_size": 5,
-    "industry": "Consumer",
-    "subindustry": "Consumer",
-    "launched_at": 1776207717,
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/202e6cd94d0ec2c8de835c56ce6b880f99f033d5.png",
+    "website": "https://didit.me/",
+    "all_locations": "CA, USA",
+    "long_description": "One API for KYC, KYB, AML, biometrics, and fraud — powered by 1,000+ data sources, 200+ signals, and in-house AI models. Global coverage. Integrate in minutes, pay as you go, 500 free checks/month. Start free at business.didit.me.",
+    "one_liner": "Infrastructure for identity and fraud.",
+    "team_size": 12,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1764601102,
     "tags": [
-      "Fitness",
-      "Health & Wellness",
-      "AI",
-      "AI Assistant"
+      "Biometrics",
+      "Identity",
+      "Fraud Prevention",
+      "Fraud Detection",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": false,
     "nonprofit": false,
-    "batch": "Spring 2026",
+    "batch": "Winter 2026",
     "status": "Active",
     "industries": [
-      "Consumer"
+      "B2B",
+      "Infrastructure"
     ],
     "regions": [
       "United States of America",
@@ -33224,8 +33093,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/imperfect",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/imperfect.json"
+    "url": "https://www.ycombinator.com/companies/didit",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2026/didit.json"
   },
   {
     "id": 31098,
@@ -33527,45 +33396,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/inventoryquant",
     "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2026/inventoryquant.json"
-  },
-  {
-    "id": 31222,
-    "name": "Superset",
-    "slug": "superset",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9c4aa01fc589ba1d208558f7b720c6081f672b08.png",
-    "website": "https://www.superset.sh/",
-    "all_locations": "CA, USA",
-    "long_description": "Run an army of Claude Code, Codex, etc. on your machine",
-    "one_liner": "IDE for the AI Agents Era",
-    "team_size": 3,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1772696752,
-    "tags": [
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Spring 2026",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/superset",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/superset.json"
   },
   {
     "id": 31283,
@@ -34327,6 +34157,48 @@
     "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/mount.json"
   },
   {
+    "id": 31473,
+    "name": "Kuli",
+    "slug": "kuli",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d0faca2d7e56f4ac9ab8fe42a2e560d516e70bab.png",
+    "website": "https://kuli.one",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Kuli is an AI agent for social media and influencer marketing teams at the world's largest consumer brands. Our agent watches every video on socials in the brand's context and helps marketers get work done to launch their campaigns 4x faster.\r\n\r\nPrevious platforms gave marketers databases to search through and a CRM. Kuli actually watches the content. Marketers at team like Supercell, Disney and Havas use it to scout creators, run analysis on trends and competitor strategies, and analyse what makes their campaign perform better.\r\n\r\nFor 10 years, influencer marketing meant more tools, more tabs, more spreadsheets. Kuli replaces all of that with one single agent you orchestrate. One marketer with Kuli does what a $50K/month agency bills for manual tasks.",
+    "one_liner": "Claude Cowork for social media and creator marketers",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B -> Marketing",
+    "launched_at": 1775508388,
+    "tags": [
+      "SaaS",
+      "B2B",
+      "Social Media",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Marketing"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/kuli",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/kuli.json"
+  },
+  {
     "id": 31475,
     "name": "Ardent",
     "slug": "ardent",
@@ -34491,51 +34363,6 @@
     "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/asterlab.json"
   },
   {
-    "id": 31511,
-    "name": "Arzana",
-    "slug": "arzana",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4785fcf24308f1fcad59fe3eda9fea668524c25f.png",
-    "website": "https://arzana.ai",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Fortune 500 companies and the fastest-growing manufacturing firms use Arzana’s AI platform to automate order entry, quoting, and customer updates. So teams can scale faster, respond sooner, and grow without adding overhead.",
-    "one_liner": "AI automation for the manufacturing office",
-    "team_size": 5,
-    "industry": "B2B",
-    "subindustry": "B2B -> Operations",
-    "launched_at": 1773098013,
-    "tags": [
-      "Manufacturing",
-      "Automation",
-      "Operations",
-      "AI",
-      "Industrial"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Spring 2026",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Operations"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/arzana",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/arzana.json"
-  },
-  {
     "id": 31512,
     "name": "Pentagon",
     "slug": "pentagon",
@@ -34583,7 +34410,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0fb7d11f60217eaded2ae0e96dbee3bf9ebcd68c.png",
     "website": "https://www.runtm.com/",
-    "all_locations": "CA, USA",
+    "all_locations": "San Francisco, CA, USA",
     "long_description": "Runtime (runtm.com) gives engineering teams control and visibility to enable anyone in their org to use coding agents securely.\r\n\r\nEng leaders rolling out coding agents have no way to see what's happening, set boundaries, or safely let non-engineers use them. We provide sandboxed environments, session-level observability, and configurable guardrails so anyone on your team can ship with coding agents without breaking prod.\r\n\r\nWe're live with fast-growing YC scaleups empowering their Engineers, PMs, designers, marketers, and ops to contribute to their codebase or build prod-grade zero-to-one apps.",
     "one_liner": "Let all your team ship safely with coding agents",
     "team_size": 3,

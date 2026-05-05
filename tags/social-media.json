@@ -1373,13 +1373,13 @@
     "one_liner": "Claude Cowork for social media and creator marketers",
     "team_size": 3,
     "industry": "B2B",
-    "subindustry": "B2B -> Analytics",
+    "subindustry": "B2B -> Marketing",
     "launched_at": 1775508388,
     "tags": [
-      "Artificial Intelligence",
       "SaaS",
       "B2B",
-      "Social Media"
+      "Social Media",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -1389,7 +1389,7 @@
     "status": "Active",
     "industries": [
       "B2B",
-      "Analytics"
+      "Marketing"
     ],
     "regions": [
       "United States of America",

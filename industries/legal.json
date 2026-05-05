@@ -2190,18 +2190,19 @@
   },
   {
     "id": 31146,
-    "name": "Arcline",
-    "slug": "arcline",
+    "name": "Moritz",
+    "slug": "moritz",
     "former_names": [
       "https://www.arcline-ai.com/",
-      "Arcline AI"
+      "Arcline AI",
+      "Arcline"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f76442626bb5dc33b9b6ae6b9ea6033dff2869f6.png",
-    "website": "https://www.arcline-ai.com/",
-    "all_locations": "",
-    "long_description": "Arcline provides AI-native legal services for startups, with same-day turnaround & elite lawyers in the loop. Our AI does 80% of the work, so startups pay elite lawyers only for the final 20%.\r\n\r\nArcline’s founder Pamir, ex-outside counsel to OpenAI, saw the same issues on repeat when lawyers were serving startups: simple legal work took weeks, pricing was opaque, and lawyers kept starting from scratch instead of using AI.\r\n\r\nWe’ve built a bench of top-tier startup lawyers to change that - folks from top schools (Harvard, Stanford, Oxford) and leading firms (Cooley, Goodwin, Fenwick). \r\n\r\nArcline’s lawyers start with first drafts generated with AI, and then do final revisions. This ends up reducing the work by up to 80% - so startups pay elite lawyers only for the final 20%.\r\n\r\nMore importantly, your legal matters can often be handled same-day. No other law firm today offers this kind of speed.\r\n\r\nWe’ve scaled to helping several Y-companies and 50+ venture-backed startups across the US and Nordics. \r\n\r\nDiscover Arcline: arcline-ai.com",
-    "one_liner": "Startup legal work handled by elite lawyers & same-day turnaround",
-    "team_size": 5,
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1dbc7271a11bcc9b3306f93350899588a1a8e678.png",
+    "website": "http://moritzlegal.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Moritz is a global AI-native law firm that will handle your legal work the same day, at a fraction of the market price.\r\n\r\nOur AI does 80% of the work, so you pay our elite lawyers for the final 20%.\r\n\r\nOur lawyers have closed $2bn in deals with an average turnaround of 4-hours. No other law firm offers this kind of speed for complex deals.",
+    "one_liner": "Global AI-native law firm handling legal work with same-day turnaround",
+    "team_size": 10,
     "industry": "B2B",
     "subindustry": "B2B -> Legal",
     "launched_at": 1767976988,
@@ -2217,6 +2218,8 @@
       "Legal"
     ],
     "regions": [
+      "United States of America",
+      "America / Canada",
       "Remote",
       "Partly Remote"
     ],
@@ -2225,8 +2228,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/arcline",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2026/arcline.json"
+    "url": "https://www.ycombinator.com/companies/moritz",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2026/moritz.json"
   },
   {
     "id": 31240,
@@ -2238,7 +2241,7 @@
     "all_locations": "",
     "long_description": "We're the AI native law firm that solves commercial legal for founders. Our firm provides fast, high-quality contract drafting, review, and negotiation for a flat fee. We save founders $100s-$1000s per contract, turn contracts in hours instead of days, and our expert attorneys provide practical, real-time guidance to get deals closed safely.",
     "one_liner": "The AI native law firm for growth stage companies",
-    "team_size": 11,
+    "team_size": 15,
     "industry": "B2B",
     "subindustry": "B2B -> Legal",
     "launched_at": 1769746017,
@@ -2271,7 +2274,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ed78fd7caa59335d26e6924d7cd9e597c6f6f2a8.png",
     "website": "https://www.fed10.ai",
-    "all_locations": "CA, USA",
+    "all_locations": "San Francisco, CA, USA",
     "long_description": "Fed10 is a legislative consulting firm staffed by AI agents. \r\n\r\nWe monitor every bill across the U.S., flag threats to your business, and deliver actionable insights — the same work a $500/hr policy consultant does, but in seconds instead of days.\r\n\r\nBuilt by three ex-lobbyists who passed legislation together.",
     "one_liner": "AI agents that replace your policy consultants",
     "team_size": 3,

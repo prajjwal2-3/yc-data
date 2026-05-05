@@ -6973,12 +6973,12 @@
     "name": "Quindar",
     "slug": "quindar",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8b1c3c4a91e008bf2dae946586ed7d25fa59ec49.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/bab55689155fe5f27aa4e87f73ddcae81fde5f8b.png",
     "website": "https://www.quindar.space",
     "all_locations": "Denver, CO, USA",
     "long_description": "Quindar is a web app used by satellite owners to analyze, test and operate their constellation. For example, Airbus could use Quindar to operate their satellite fleet with minimal human intervention.\r\n  \r\nWe’re six former OneWeb engineers who helped build the software platform that currently operates the second largest satellite constellation in the world.\r\n \r\nThe space industry is shifting from companies launching a handful of satellites over a decade, to launching hundreds of satellites EACH in just a few years. Our SaaS platform automates mission management and for a single engineer to operate hundreds of satellites instead of the traditional model of many engineers operating a single satellite.",
-    "one_liner": "The platform to monitor and automate satellite operations",
-    "team_size": 41,
+    "one_liner": "Datadog for Space",
+    "team_size": 57,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1657040679,
@@ -7003,7 +7003,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -7554,24 +7554,27 @@
   },
   {
     "id": 27108,
-    "name": "Patika",
-    "slug": "patika",
+    "name": "Sanifu",
+    "slug": "sanifu",
     "former_names": [
-      "Patika Technology Limited"
+      "Patika Technology Limited",
+      "Patika"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0759b46550e74b852273c768ee9c77b38e9e95be.png",
-    "website": "https://www.sanifu.ai",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/dc10943e14517d77a119ecad164eb2d76d6db52b.png",
+    "website": "https://sanifu.ai",
     "all_locations": "Nairobi, Nairobi County, Kenya; Remote",
-    "long_description": "Our Product: Sanifu\r\n\r\nSanifu enables manufacturers and distributors to automate the entry of sales orders from emails and WhatsApp into their ERP systems. By extracting customer order details from various formats—including emails, PDFs, and handwritten notes—and accurately entering the data into ERP systems, Sanifu significantly reduces manual data entry time and errors. This automation enhances overall efficiency for businesses, allowing them to scale more effectively and focus on core operations. We are targeting a market of 180,000 manufacturers and distributors across Africa, representing a $2.5B+ opportunity.\r\n\r\nSidney and Phelix, who met 10 years ago at a leadership program by Mastercard and Equity Bank, are technical founders with 5+ years experience working together to build payments platforms that processed $10M monthly GTV across Kenya, Uganda & Nigeria.",
-    "one_liner": "Automating entry of sales orders from emails/Whatsapp into ERP…",
+    "long_description": "Sanifu helps finance, marketing, operations, and revenue teams to automate the manual data processes they currently do across spreadsheets, emails, PDFs, and disconnected systems. Instead of exporting data into Excel, cleaning files, running formulas, and stitching everything together manually everyday, teams can now describe their exact process, including the rules, checks, and exceptions behind workflows like data cleanup, bank reconciliations, report consolidation, payment allocations, channel attributions, and Sanifu turns it into a reliable data app that runs the same way every time.\r\n\r\nThis significantly reduces time spent on copy-paste work, spreadsheet cleanup, and manual entries and checking, while improving accuracy, consistency, and operational visibility. Sanifu helps teams scale critical back-office processes without relying on brittle spreadsheets, scripts, or general AI tools that reinvent the logic every run.\r\n\r\nSanifu is a full operational platform with 5k+ app integrations, 1k+ native components, forms, scheduler, data stores, dashboards, approvals, reviews, AI-powered entity matching among many other features that make it an end-to-end data app management platform.",
+    "one_liner": "Put your manual data processes on autopilot",
     "team_size": 5,
     "industry": "B2B",
-    "subindustry": "B2B",
+    "subindustry": "B2B -> Operations",
     "launched_at": 1655225496,
     "tags": [
+      "Artificial Intelligence",
       "SaaS",
       "B2B",
-      "AI"
+      "Analytics",
+      "Data Engineering"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -7580,7 +7583,8 @@
     "batch": "Summer 2022",
     "status": "Active",
     "industries": [
-      "B2B"
+      "B2B",
+      "Operations"
     ],
     "regions": [
       "Kenya",
@@ -7593,8 +7597,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/patika",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2022/patika.json"
+    "url": "https://www.ycombinator.com/companies/sanifu",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2022/sanifu.json"
   },
   {
     "id": 27109,
