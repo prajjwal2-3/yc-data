@@ -137,7 +137,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6e52603aa2143dd9017a5e541c9233008c5afe63.png",
     "website": "https://tryprism.com/",
-    "all_locations": "London",
+    "all_locations": "London, United Kingdom",
     "long_description": "Prism is an AI-native recruiting agency. We use software and agents to find companies better people faster.\r\n\r\n",
     "one_liner": "AI-native recruiting agency",
     "team_size": 4,
@@ -1312,8 +1312,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2189a7097412cbf54bc66b9495393ddfceb6282a.png",
     "website": "http://andustry.com/",
     "all_locations": "",
-    "long_description": "We build AI agents that automate discovery for industrials products, in particular mid-size machinery. Say goodbye to reaching out to 100s of suppliers, not hearing back from them and getting your first quote after several weeks. Suppliers also get to automate responding to customers, entering once what they offer and receiving ready-to-fulfill orders.",
-    "one_liner": "AI to source and sell industrial products",
+    "long_description": "We are an AI-native broker, solving sourcing of machines and intermediate goods. We take over finding suppliers and getting the best quotes for our customers (based on price, quality, lead time, etc.). Our customers have limited resources for procurement and we help them reduce purchase prices by 30% on average.",
+    "one_liner": "We help manufacturers find suppliers for industrial goods.",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Supply Chain and Logistics",
@@ -1603,7 +1603,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3e90f1f997478761cc013525bd81b5fc23984166.png",
     "website": "https://lightanchor.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Brands have always been bottlenecked by how fast people can operate them. With agents that automate processes end-to-end, that bottleneck disappears, and a different kind of consumer business becomes possible: one where the cost and speed of operating it aren't capped by humans.\r\n\r\nLight Anchor builds fully autonomous e-commerce. We own and operate our own brands today, each run by agents across marketing, sourcing, operations, and support.\r\n\r\nEach brand runs on its own stack of agents: a CEO agent that sets weekly priorities and manages the budget, a GM agent that owns the P&L, merchandising, sourcing, and support, and a Marketing agent that handles creative, acquisition, and the content calendar.\r\n\r\nEach operates with independent decision-making, memory, policies, and proposals specific to the brand. Every brand we run feeds the platform with new operating data, so the next brand we launch starts smarter than the last.",
+    "long_description": "Light Anchor (YC P26) builds fully autonomous e-commerce brands that run at the speed of compute. \r\n\r\nConsumer brands have always been limited by the speed of humans: hiring, coordinating, and sleeping. AI agents that now run operations end-to-end break all those constraints, making a new kind of consumer business possible: one capped by compute, not headcount.\r\n\r\nToday, Light Anchor operates one flagship brand and multiple experiment stores, all run by AI agents on a shared platform that compounds with every new brand launched. The vision is thousands of consumer businesses, operating with little to no human intervention.",
     "one_liner": "Autonomous e-commerce",
     "team_size": 2,
     "industry": "Consumer",
@@ -1636,8 +1636,8 @@
   },
   {
     "id": 31380,
-    "name": "Pulsent",
-    "slug": "pulsent",
+    "name": "Superlog",
+    "slug": "superlog",
     "former_names": [
       "Swish",
       "Pulsend",
@@ -1649,23 +1649,24 @@
       "Pulsending",
       "deep engage",
       "Singlevox",
-      "deep engage"
+      "deep engage",
+      "Pulsent"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/752bdfb2238c1fa320f09fc4cdb59b41472091d6.png",
-    "website": "https://pulsent.ai/",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/96347d910b359b8008029da5fa69b30000efd6d0.png",
+    "website": "https://superlog.sh/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Pulsent continuously watches how your users and interacts with your product and engages them at the right moment to convert, upsell, and retain. \r\n\r\nAs companies scale, founders, account managers and customer success teams can only take care of a small fraction of users. The rest receive generic, annoying and poorly timed communication. Opportunities are missed, customers churn, and revenue is lost.\r\n\r\nThe core problem is that user behavior is fragmented across tools like PostHog, Stripe, Salesforce, etc., making it impossible to understand users in real time. We unify all data into a single view and let AI agents act on top. This only recently became possible with advances in visual AI (dec ‘25), allowing agents to watch sessions and understand behavior at human or better level.\r\n\r\nPulsent detects expansion and churn signals, prioritizes high-value accounts, and executes through AI agents across channels like email, LinkedIn, and WhatsApp. It increases conversion and reduces churn without adding headcount.\r\n\r\nWe already have paying customers, process hundreds of millions of events daily, and are seeing strong demand from PLG B2B Clients. Nicolò is an ex-BCG who has scaled two startups to millions in ARR. Arseniy worked for several years at Datadog handling billions of datapoints. We’ve worked together for 3+ years and experienced this problem firsthand in our previous startup.",
-    "one_liner": "AI Agents that watch, engage and convert your users.",
+    "long_description": "Sentry and Datadog dump a stream of alerts. Most are duplicates, most lack context, and you still have to solve the issue yourself.\r\n\r\nSuperlog is AI-native observability that's meant not to be opened. A wizard scans your repo and installs proper OpenTelemetry instrumentation, then runs daily to keep up as you ship new code. When something breaks, Superlog groups the errors into a single incident, investigates with full context (logs, traces, recent deploys, past Slack threads), and posts one mergeable PR in Slack. You merge it, ignore it, or open it as a Claude Code session and modify it.\r\n\r\nTelemetry is vendor-neutral, so you keep every log, trace, and metric we install, even if you leave.",
+    "one_liner": "Observability that installs itself and fixes the bugs it finds.",
     "team_size": 2,
     "industry": "B2B",
-    "subindustry": "B2B -> Sales",
+    "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1775225049,
     "tags": [
       "Artificial Intelligence",
-      "SaaS",
-      "B2B",
-      "Sales Enablement",
-      "Monitoring"
+      "Developer Tools",
+      "Open Source",
+      "Monitoring",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -1675,7 +1676,7 @@
     "status": "Active",
     "industries": [
       "B2B",
-      "Sales"
+      "Engineering, Product and Design"
     ],
     "regions": [
       "United States of America",
@@ -1686,8 +1687,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/pulsent",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/pulsent.json"
+    "url": "https://www.ycombinator.com/companies/superlog",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/superlog.json"
   },
   {
     "id": 31381,
@@ -1733,7 +1734,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/76df6473c36e2adfda2b2ab7e987413907cd9c97.png",
     "website": "https://www.kinro.ai/",
-    "all_locations": "CA, USA",
+    "all_locations": "San Francisco, CA, USA",
     "long_description": "Kinro helps companies sell insurance through AI assistants such as ChatGPT. We build AI sales agents that manage the end-to-end insurance sales process, from answering questions, personalized coverage explanations and quoting. These agents are continuously evaluated and improved through our proprietary platform, optimizing sales performance while remaining 100% compliant.\r\n\r\nSelling insurance requires strict regulatory compliance, deep carrier integrations, and extremely reliable answers. Platforms like OpenAI and Google remain general-purpose and are less likely to build the vertical infrastructure required for regulated industries.\r\n\r\nToday, Kinro serves brokers and direct-to-consumer carriers across the US and Europe. Insurance distribution is huge: insurers pay roughly $100B+ in commissions annually, and distributors spend $10B+ every year on advertising to acquire customers.\r\n\r\nPierre-Alexandre led research improving Gemini for financial services at DeepMind. Parth led infrastructure for training and inference at Zoox. Corentin was the first employee in an insurance startup and worked closely with many insurance leaders.",
     "one_liner": "AI sales agents for insurance. Sell everywhere your buyers are.",
     "team_size": 3,
@@ -2008,6 +2009,49 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/qomplement",
     "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/qomplement.json"
+  },
+  {
+    "id": 31398,
+    "name": "Pavoot",
+    "slug": "pavoot",
+    "former_names": [
+      "Pavoot (formerly capturecore)"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/085aa6b975fc26df4bd975cbb1ee82cc22f514a2.png",
+    "website": "https://pavoot.com",
+    "all_locations": "",
+    "long_description": "Pavoot is an AI agent for events that helps marketing and sales teams source the right attendees, personalize each guest’s experience, and turn events into pipeline.\r\n\r\nCompanies spend millions on events because relationships drive revenue. Yet most interactions are never captured, event experiences remain generic, and standard follow-ups fail to convert high-potential attendees.\r\n\r\nBefore the event, Pavoot identifies the attendee profiles most likely to convert and sends personalized invitations. During the event, it helps create relevant introductions and capture important conversations. After the event, it identifies top leads, generates personalized follow-ups, and syncs engagement back into the CRM.\r\n\r\n===\r\n\r\nPavoot turns events into personalized customer journeys. Book a demo: pavoot.com",
+    "one_liner": "AI that turns events into pipeline",
+    "team_size": 0,
+    "industry": "B2B",
+    "subindustry": "B2B -> Marketing",
+    "launched_at": 1778084784,
+    "tags": [
+      "Artificial Intelligence",
+      "B2B",
+      "Sales",
+      "Marketing"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Marketing"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/pavoot",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/pavoot.json"
   },
   {
     "id": 31402,
@@ -4551,17 +4595,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/78e3ea34a9d85939aea1d2c30105838c61d54547.png",
     "website": "https://www.agentphone.to/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "",
+    "long_description": "Agents can't act in the real world today. They need carrier access, identity, and trust. AgentPhone gives every agent its own phone number to reach people through messages and calls.",
     "one_liner": "Phone Numbers for AI Agents",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1778010009,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "API",
-      "Telecommunications"
+      "Telecommunications",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -4584,6 +4628,49 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/agentphone",
     "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/agentphone.json"
+  },
+  {
+    "id": 31525,
+    "name": "Arden",
+    "slug": "arden",
+    "former_names": [
+      "Veris"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/66c948c30bb6ef7a235b3bf6ee7bcb0964990077.png",
+    "website": "https://ardentech.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Arden is the AI-native platform for internal audit and SOX teams.\r\n\r\nWe build AI agents that automatically pull evidence from your stack, test controls end-to-end, and produce audit-ready workpapers in minutes instead of weeks.\r\n\r\nInternal audit is a massive but underserved market. Every public company in the US is required to do SOX testing, yet teams still run it through spreadsheets and screenshots. Arden is the engine that does this work.",
+    "one_liner": "AI agents that automate SOX control testing.",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Finance and Accounting",
+    "launched_at": 1778059206,
+    "tags": [
+      "Finance",
+      "B2B",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Finance and Accounting"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/arden",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/arden.json"
   },
   {
     "id": 31527,
@@ -5091,6 +5178,47 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/framewise-health",
     "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/framewise-health.json"
+  },
+  {
+    "id": 31554,
+    "name": "Clawvisor",
+    "slug": "clawvisor",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7b7343f0662dc74045154f30ca2872d79b80c650.png",
+    "website": "https://clawvisor.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Clawvisor lets AI agents use apps like Gmail, Slack, and Google Drive without going rogue or ever seeing your credentials. You approve tasks once. Clawvisor enforces them on every request.",
+    "one_liner": "The Authorization Layer for AI Agents",
+    "team_size": 1,
+    "industry": "B2B",
+    "subindustry": "B2B -> Security",
+    "launched_at": 1773799723,
+    "tags": [
+      "Artificial Intelligence",
+      "Security",
+      "Open Source"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Security"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/clawvisor",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/clawvisor.json"
   },
   {
     "id": 31560,
