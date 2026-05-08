@@ -1861,7 +1861,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -2047,7 +2047,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ac85a0bca77fe890f3dc1aadd1f0f8a554481659.png",
     "website": "https://www.avallon.ai/",
-    "all_locations": "NY, USA",
+    "all_locations": "New York City, NY, USA",
     "long_description": "Avallon automates insurance claims operations with AI agents that handle routine calls and documents processing. ",
     "one_liner": "AI agents for insurance claims operations",
     "team_size": 7,
@@ -2392,7 +2392,7 @@
     "former_names": [
       "Taven"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3a2579aaa172cfb606855a9d93aaa1c946945357.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/be7a6c101c292b6662ffb48e1b9a900ec01c660b.png",
     "website": "https://www.hedgespecialty.com/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "",
@@ -2405,7 +2405,8 @@
       "Artificial Intelligence",
       "Fintech",
       "B2B",
-      "Insurance"
+      "Insurance",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,

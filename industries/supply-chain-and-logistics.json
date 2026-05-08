@@ -3817,7 +3817,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -4369,7 +4369,11 @@
     "industry": "B2B",
     "subindustry": "B2B -> Supply Chain and Logistics",
     "launched_at": 1706556384,
-    "tags": [],
+    "tags": [
+      "Artificial Intelligence",
+      "Workflow Automation",
+      "Logistics"
+    ],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": true,

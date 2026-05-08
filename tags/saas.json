@@ -15996,9 +15996,9 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/28e9d8c1afc2f855ecd63f4a8547074fb4563efd.png",
     "website": "https://www.mailwarm.com",
     "all_locations": "Paris, Île-de-France, France",
-    "long_description": "Mailwarm is an email warmup tool that improves your email deliverability and helps your emails land in the inbox, not the spam folder.\r\n\r\nMailwarm raises your sender reputation by automatically generating positive email interactions every day.\r\n\r\nMailwarm allows you to :\r\n- get a perfect email activity \r\n- raise your sender reputation\r\n- keep your email deliverability high",
-    "one_liner": "Prevents marketing emails from landing in spam.",
-    "team_size": 6,
+    "long_description": "Mailwarm is the email deliverability company. We help senders get into the inbox and stay there, through products, tools, and services built for both humans and AI agents.\r\n\r\n✦ Mailwarm.com: The original email warmup tool. Build sender reputation automatically through real, positive inbox interactions across a large network of mailboxes, with built-in monitoring and deliverability insights.\r\n\r\n✦ ThemailX.com: Instant deliverability diagnostics for AI agents and humans. Check all protocols SPF, DKIM, DMARC, Inbox placement and more via MCP, API, or web. Get specific fixes and actions, not just scores.\r\n\r\n✦ Mailadept.com: Email deliverability on autopilot. A subscription-based, AI-native service where agents and deliverability experts collaborate to audit your setup, fix issues, and monitor inbox placement continuously.\r\n\r\nBuild reputation with Mailwarm, diagnose problems with themailX, fix and maintain with mailadept.\r\nDoing email marketing or cold outreach? Book a call through mailadept.com, we'll show you which one fits.",
+    "one_liner": "Prevents your emails from landing in spam.",
+    "team_size": 10,
     "industry": "B2B",
     "subindustry": "B2B -> Sales",
     "launched_at": 1599762606,
@@ -18208,7 +18208,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3d799a3b8749ea35b175f67bd64402da202e8445.png",
     "website": "https://cashbook.in",
-    "all_locations": "Bengaluru",
+    "all_locations": "Bengaluru, India",
     "long_description": "Issue UPI wallets to employees, track and control the spend.",
     "one_liner": "Ramp for Indian Businesses - UPI Wallets for Employee Expenses",
     "team_size": 4,
@@ -19421,7 +19421,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2021",
     "status": "Active",
@@ -23200,7 +23200,7 @@
     "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2021",
-    "status": "Active",
+    "status": "Acquired",
     "industries": [
       "B2B",
       "Retail"
@@ -24114,7 +24114,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/da59c4349b82e705e29606d58cbb24dfe644ab79.png",
     "website": "https://www.inai.io",
-    "all_locations": "London; Delaware City, DE, USA; Remote",
+    "all_locations": "London, United Kingdom; Delaware City, DE, USA; Remote",
     "long_description": "inai provides a single integration for global payments to help companies take digital payments across the globe.  \r\n\r\nIts a single integration for a merchant that will provide connections to all payment gateways ( Stripe/ Adyen/ Braintree), wallets ( Paypal, Apple Pay, Google Pay) , BNPL providers ( Klarna / affirm / afterpay), fraud ( Sift , riskified etc). \r\n\r\nMerchants will have a no-code dashboard to customize the checkout by region ( Show Apple pay and stripe in US along with USD pricing but show Klarna, Google Pay and Sofort in Germany with pricing in Eur for e.g)\r\n\r\nMerchants can also easily switch between providers and your data stays with you on Inai rather than with PSP like stripe making switch to Adyen or Braintree easy.",
     "one_liner": "Segment for global payments",
     "team_size": 14,
@@ -37798,51 +37798,6 @@
     "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2023/conduit.json"
   },
   {
-    "id": 28115,
-    "name": "Vellum",
-    "slug": "vellum",
-    "former_names": [
-      "Vocify"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/211ce1fb908d8d56541fcc5ddfa4be47bd69dc5d.png",
-    "website": "https://www.vellum.ai/",
-    "all_locations": "New York, NY, USA",
-    "long_description": "Prompting: Systematically iterate on prompts\r\n- Unified prompt management dashboard\r\n- Side-by-side model comparisons\r\n- Native support for tools, structured outputs, OpenAPI specs\r\n\r\nWorkflows: The IDE for building steerable, agent-like systems.\r\n- Visual graph builder for orchestrating complex AI systems\r\n- Support for any model, custom code, and map/reduce functions\r\n- Built-in features like loops, parallelism, error handling\r\n\r\nWorkflows SDK: A full-stack SDK + GUI for building AI apps with precision and flexibility.\r\n- Bi-directional sync between code and UI\r\n- Fine-grained control flow and global state management\r\n- Customizable with Docker and streaming support\r\n\r\nEvaluations: Test-driven development for AI.\r\n- Build scalable test suites via UI/API/CSV\r\n- Use pre-built or custom metrics for evaluation\r\n- Track quality, cost, latency, and regressions over time\r\n\r\nRetrieval: Powerful RAG infrastructure without the complexity.\r\n- Simple APIs for uploading and querying unstructured data\r\n- Tweak chunking, embeddings, and search for advanced use-cases\r\n- Supports various file types including tables and images\r\n\r\nDeployments: Update AI systems without redeploying your app.\r\n- One-click deploy across any model or provider\r\n- Staging environments for safe iteration\r\n- Scalable inference endpoints for production use\r\n\r\nObservability: Full visibility into AI system performance.\r\n- Audit logs, debugging tools, and feedback capture\r\n- Evaluation loops on live traffic\r\n- Dashboards to track cost, latency, errors, and trends",
-    "one_liner": "The AI Product Development Platform",
-    "team_size": 23,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1673626837,
-    "tags": [
-      "Developer Tools",
-      "SaaS",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2023",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Growth",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": true,
-    "url": "https://www.ycombinator.com/companies/vellum",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2023/vellum.json"
-  },
-  {
     "id": 28119,
     "name": "Fabius",
     "slug": "fabius",
@@ -48233,18 +48188,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7dbcfda02066d2a118790619245d76bd15d26183.png",
     "website": "https://www.trychert.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Chert helps companies scale their outbound through iMessage. We integrate into existing GTM stacks, find iMessage-qualified leads, and help book 1-5 meetings per week. ",
-    "one_liner": "AI Agents for Automated iMessage Outbound",
+    "long_description": "Chert provides the infrastructure for businesses to automate conversations over iMessage. We’re already working with B2C startups, customer experience teams, and sales teams to reach end users through trusted and conversational messaging. ",
+    "one_liner": "iMessage infrastructure for trusted communication at scale",
     "team_size": 2,
     "industry": "B2B",
-    "subindustry": "B2B -> Sales",
+    "subindustry": "B2B",
     "launched_at": 1777155515,
     "tags": [
+      "Artificial Intelligence",
       "SaaS",
-      "B2B",
-      "Sales",
-      "AI",
-      "AI Assistant"
+      "API",
+      "Customer Support",
+      "Conversational AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -48253,8 +48208,7 @@
     "batch": "Spring 2026",
     "status": "Active",
     "industries": [
-      "B2B",
-      "Sales"
+      "B2B"
     ],
     "regions": [
       "United States of America",
@@ -48899,8 +48853,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e7c03ef5bb8c84872c4ee5809b9b3d8f19f80ae0.png",
     "website": "https://framewisehealth.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "We're building the world's first personalized AI-generated videos for patients, specific to their health history and preferred language.",
-    "one_liner": "AI-personalized patient recovery videos",
+    "long_description": "We turn medical records into personalized videos walking patients through onboarding, adherence, and recovery. The engagement data we collect builds our AI-native patient engagement platform for pharma, hospitals, medical devices, and private clinics, so they can stop chasing the patient and spend more time caring for them.",
+    "one_liner": "AI-native patient engagement",
     "team_size": 2,
     "industry": "Healthcare",
     "subindustry": "Healthcare",
