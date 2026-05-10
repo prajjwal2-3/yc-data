@@ -1,0 +1,43 @@
+{
+  "id": 31552,
+  "name": "Arctic Health",
+  "slug": "arctic-health",
+  "former_names": [
+    "NextGenMed LTD"
+  ],
+  "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/efe1f3eb6680314e6f5fa5d9fc1161df9fcbaa31.png",
+  "website": "https://arctic.health",
+  "all_locations": "New York, NY, USA",
+  "long_description": "Contracting and credentialing for medical clinics, hospitals, and tele-health groups.",
+  "one_liner": "We get doctors in-network",
+  "team_size": 4,
+  "industry": "Healthcare",
+  "subindustry": "Healthcare -> Healthcare Services",
+  "launched_at": 1773712134,
+  "tags": [
+    "Artificial Intelligence",
+    "Healthcare",
+    "Healthcare IT"
+  ],
+  "tags_highlighted": [],
+  "top_company": false,
+  "isHiring": false,
+  "nonprofit": false,
+  "batch": "Spring 2026",
+  "status": "Active",
+  "industries": [
+    "Healthcare",
+    "Healthcare Services"
+  ],
+  "regions": [
+    "United States of America",
+    "America / Canada"
+  ],
+  "stage": "Early",
+  "app_video_public": false,
+  "demo_day_video_public": false,
+  "app_answers": null,
+  "question_answers": false,
+  "url": "https://www.ycombinator.com/companies/arctic-health",
+  "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/arctic-health.json"
+}
