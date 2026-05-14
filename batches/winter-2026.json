@@ -327,7 +327,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/949208e95883f37f6c02c5daa9417bb2876ac66f.png",
     "website": "https://alt-x.co",
-    "all_locations": "",
+    "all_locations": "Los Angeles, CA, USA",
     "long_description": "Alt-X is building the Cursor for financial modeling in Excel, an Excel agent that you can actually trust.\r\n\r\nPrivate-market investing still runs on Excel. Every year, trillions of dollars in real estate and private-equity deals are underwritten through manual spreadsheet work — copying numbers from PDFs, CIMs, and data rooms into fragile models that analysts rebuild from scratch.\r\n\r\nAlt-X is the AI underwriting layer for Excel. It turns raw deal materials into clean, auditable financial models inside Excel, automatically extracting key metrics and generating institutional-grade underwriting models that analysts can immediately review and edit.\r\n\r\nBuilding reliable AI workflows for financial models is difficult. Underwriting models contain thousands of interdependent formulas across multiple sheets, and small errors can materially change investment decisions. Alt-X focuses on making model generation and data extraction reliable enough for real deal workflows, not just demos. We built our product to underwrite billions.\r\n\r\nRyan Samadi (Stanford CS/AI, former Citadel trader) and Michael Wachsmann (Cornell CS, infrastructure engineer) have spent years building systems around financial data and modeling workflows.\r\nWe have hundreds of millions in AUM using us already, and our users already prefer us to legacy cash flow modeling tools in the real estate space.\r\n\r\nPrivate markets remain one of the largest manual workflows in finance. Alt-X’s goal is to become the default infrastructure layer for underwriting private-market investments inside Excel.",
     "one_liner": "Automation for institutional-grade financial modeling in Excel",
     "team_size": 2,
@@ -345,7 +345,8 @@
       "Fintech"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -999,7 +1000,7 @@
     "tags": [],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2026",
     "status": "Active",
@@ -4176,8 +4177,8 @@
     "name": "Laurence",
     "slug": "laurence",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/eca6f9c65dd95b9514253d24a67c4a4593ea1f0d.png",
-    "website": "https://trylaurence.com",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b6ffba5a272d6b4a157e3dd6c236b929a04b2540.png",
+    "website": "https://laurence.com",
     "all_locations": "New York City, NY, USA",
     "long_description": "Advertising today is like trading in the 1980s pits: archaic, manual, and iterative guesswork. Humans update bids and keywords using noisy, delayed data with fixed rules that both break at scale and ignore stochasticity.\r\n\r\nWe've built quantitative systems that advertise the way modern hedge-funds trade markets: continuous decision-making under stochastic outcomes and explicit profit constraints.\r\n\r\nWe use customers' existing ad copy and use reinforcement learning and train our own LLMs to run ads on autopilot, harvesting profits when we’re confident and borrowing signals from similar keywords when data is sparse.\r\n\r\nStarting with brands on Amazon, we are automating tens of millions in live ad spend, increasing gross sales while decreasing advertising cost of sales by 40%.",
     "one_liner": "Autonomous performance marketing",
