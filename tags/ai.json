@@ -3414,10 +3414,10 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2020",
-    "status": "Active",
+    "status": "Acquired",
     "industries": [
       "B2B",
       "Engineering, Product and Design"
@@ -3428,7 +3428,7 @@
       "Remote",
       "Fully Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -10406,7 +10406,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -11367,6 +11367,51 @@
     "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2022/aurelian.json"
   },
   {
+    "id": 27037,
+    "name": "Metriport",
+    "slug": "metriport",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d4da680d3cdee4cc7ad6408d3177026092f04c75.png",
+    "website": "https://metriport.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Metriport provides real-time access to comprehensive medical data for 300M+ individuals across the US. Our open-source intelligence platform helps organizations access, analyze, and exchange patient data while integrating with all major healthcare IT systems.\r\n\r\nIf you’ve been to doctors in the US, you may have encountered the problem: how does a healthcare provider get access to your up-to-date medical history to treat you properly? Reliance on archaic methods is still the norm: typically, you or your provider need to call the facilities where you’ve previously received treatment (assuming you remember them all), just to have them send your records via fax (yep, fax). This can take weeks, only then to have a provider sift through hundreds of pages of unstructured docs, just to figure out basic things like your active medication list, what conditions you may have, latest lab results, etc. This not only delays care—it can cause improper treatment, since the medical history is critical for informing treatment decisions. \r\n\r\nMetriport integrates fragmented medical data from thousands of sources—including both national and state/regional Health Information Exchanges (HIEs), ADTs, EHRs, pharmacies, and labs—through a single API connector. The platform then standardizes, deduplicates, and enriches this data to create a comprehensive longitudinal patient record, with AI-powered clinical summaries. \r\n\r\nAlong with a rich understanding of patient health history, healthcare providers also get realtime updates about their patients' health through Metriport. This includes getting notified when a patient is discharged from the hospital, picks up their prescription from the pharmacy, or has a new lab result available. Through this data, care teams get insights across their patient population, helping with 30-day readmissions prediction, care gap closure, risk adjustment, and more.\r\n\r\nOn top of all of this, Metriport enables healthcare organizations to share net-new clinical information back to all major healthcare IT systems, and to become interoperable with popular EHR systems such as Epic, Cerner, athena, eClinicalWorks, and many more—forming an internet for healthcare data.\r\n\r\nMetriport improves both patient and provider lives at the point-of-care, supporting use cases such as medication adherence, transitions of care management, chart prep, and much more. If you want to do work that matters, get in touch with us today.",
+    "one_liner": "Open-Source Platform for Healthcare Data Intelligence",
+    "team_size": 26,
+    "industry": "Healthcare",
+    "subindustry": "Healthcare -> Healthcare IT",
+    "launched_at": 1654554081,
+    "tags": [
+      "B2B",
+      "Digital Health",
+      "Healthcare",
+      "API",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2022",
+    "status": "Active",
+    "industries": [
+      "Healthcare",
+      "Healthcare IT"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/metriport",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2022/metriport.json"
+  },
+  {
     "id": 27038,
     "name": "Fini",
     "slug": "fini",
@@ -11837,7 +11882,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2022",
     "status": "Active",
@@ -22645,52 +22690,6 @@
     "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2024/runlocal-ai.json"
   },
   {
-    "id": 29687,
-    "name": "MinusX",
-    "slug": "minusx",
-    "former_names": [
-      "minusone.ai",
-      "minusx.ai"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/92dbd9d186e22d922d985755f90407e21859378a.png",
-    "website": "https://minusx.ai",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "MinusX is a chrome extension that adds a side chat to your analytics apps (Jupyter, Metabase, Grafana, Tableau, etc). Given an instruction, our agent operates your apps - by clicking & typing, just like you do - to analyze data and answer queries. We believe an AI Data Scientist is a scientist, not yet-another-new-analytics-platform. MinusX interoperates with you in tools you already love and use, and as a matter of philosophy, gets out of the way.",
-    "one_liner": "AI Data Scientist for Jupyter and Metabase",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Analytics",
-    "launched_at": 1722024736,
-    "tags": [
-      "Machine Learning",
-      "Analytics",
-      "Data Science",
-      "AI",
-      "AI Assistant"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2024",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Analytics"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/minusx",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2024/minusx.json"
-  },
-  {
     "id": 29688,
     "name": "camfer",
     "slug": "camfer",
@@ -24381,50 +24380,6 @@
     "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2024/tradeflow.json"
   },
   {
-    "id": 29841,
-    "name": "Elayne",
-    "slug": "elayne",
-    "former_names": [
-      "Elayne AI"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5a39c5ab69e2cfbf8fdd2de5562516b23e3a5d91.png",
-    "website": "https://www.elayne.com/",
-    "all_locations": "New York, NY, USA",
-    "long_description": "Elayne is building the modern estate settlement platform. \r\n\r\nEstate settlement is a $250B+ annual market, with $80T+ in assets expected to transfer over the next 25 years. But after a death, families and executors have to spend 400+ hours manually identifying, organize, and distribute everything that was left behind like: financial accounts, debts, property, insurance, legal documents, incorporating juristidi ation requirements and family context. \r\n\r\nElayne is the first platform to surface verified assets and debts for presicesly this moment, then turing our discovery into a clear inheritance map. We work directly with families and executors, and with the partners who support them: funeral homes, hospice and aftercare providers, attorneys, and financial institutions.\r\n\r\nThe company was founded by Adria, a former large-cap investor who experienced the problem firsthand, and Rebecca, a repeat fintech and mental health founder who left her master’s program in psychology at Harvard to launch Elayne. Together, they bring financial rigor, technical execution, and lived empathy to a massive but deeply human category.\r\n\r\nBacked by Y Combinator and Accel, we are now an 8-person team based in NYC.",
-    "one_liner": "Estate settlement, from verified discovery to distribution",
-    "team_size": 8,
-    "industry": "Fintech",
-    "subindustry": "Fintech",
-    "launched_at": 1718839098,
-    "tags": [
-      "Fintech",
-      "B2B",
-      "Legal",
-      "Consumer Finance",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Summer 2024",
-    "status": "Active",
-    "industries": [
-      "Fintech"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/elayne",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2024/elayne.json"
-  },
-  {
     "id": 29852,
     "name": "Dayflow",
     "slug": "dayflow",
@@ -24884,7 +24839,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2024",
     "status": "Active",
@@ -25272,7 +25227,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Fall 2024",
     "status": "Active",
@@ -28059,6 +28014,50 @@
     "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2025/chestnut.json"
   },
   {
+    "id": 30399,
+    "name": "Frekil",
+    "slug": "frekil",
+    "former_names": [
+      "Notate"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1e885d9503dffbb01e24f5bd3a78965979764099.png",
+    "website": "https://www.frekil.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Today, it takes months to understand how drugs perform in the real world, delaying safety insights and leaving patients exposed to unknown risks and benefits for far too long. Frekil turns that months-long process into minutes, with full auditability and scientific rigor.\r\n\r\nFrekil accelerates real world evidence (RWE) generation for life sciences companies on their own clinical data from months to minutes. It connects to fragmented clinical data (EHR, Claims, etc.) and lets teams run end-to-end studies from study design, cohort extraction to SAP, statistical analysis, and final reports.",
+    "one_liner": "RWE Generation in minutes",
+    "team_size": 2,
+    "industry": "Healthcare",
+    "subindustry": "Healthcare",
+    "launched_at": 1744440110,
+    "tags": [
+      "Health Tech",
+      "B2B",
+      "Biotech",
+      "Healthcare",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2025",
+    "status": "Active",
+    "industries": [
+      "Healthcare"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/frekil",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2025/frekil.json"
+  },
+  {
     "id": 30400,
     "name": "Plexe",
     "slug": "plexe",
@@ -29654,7 +29653,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Pelica is the AI-native operating system for value-based care organizations. We unify claims, EHR, pharmacy, lab, and ADT data into one live record and put an AI copilot next to every team that depends on it: quality/Stars, pharmacy, care management, provider network, and risk adjustment. The copilots don't just surface insights. They do the work, from engaging members for preventative care using multi-channel communications to preparing provider field reps with everything they need before they walk in the door. So teams spend time on relationships, not admin.",
     "one_liner": "Transforming healthcare operations with AI agents",
-    "team_size": 2,
+    "team_size": 5,
     "industry": "Healthcare",
     "subindustry": "Healthcare -> Healthcare IT",
     "launched_at": 1746945144,
@@ -29667,7 +29666,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Spring 2025",
     "status": "Active",
@@ -30884,7 +30883,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2025",
     "status": "Active",
@@ -32824,6 +32823,46 @@
     "api": "https://prajjwal2-3.github.io/yc-data/batches/fall-2025/imagine-ai.json"
   },
   {
+    "id": 30943,
+    "name": "Aside",
+    "slug": "aside",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2e9196c93cd4fc802b51eabcb6432760d1efd3fb.png",
+    "website": "https://asidehq.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Aside is an AI browser that acts on your behalf. Give it your passwords, browsing history, and browser context. It gets real work done end to end in the apps you already use, with no integrations required.\r\n\r\n- 🌐 Browser-native automation: Works directly in Gmail, Notion, Slack, Figma, banking apps, and internal tools, without any integrations.\r\n- 🔑 Passwords into tools: Lets AI use logins, sessions, passkeys, and credentials to take action.\r\n- 📚 Browsing history into memory: Gives AI persistent context across sessions.\r\n- 🧡 Push notifications into a heartbeat: Lets agents react to events and resume work in real time.",
+    "one_liner": "Operating system for the AI era",
+    "team_size": 3,
+    "industry": "Consumer",
+    "subindustry": "Consumer",
+    "launched_at": 1760485553,
+    "tags": [
+      "SaaS",
+      "Automation",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2025",
+    "status": "Active",
+    "industries": [
+      "Consumer"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": true,
+    "url": "https://www.ycombinator.com/companies/aside",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/fall-2025/aside.json"
+  },
+  {
     "id": 30944,
     "name": "Prism",
     "slug": "tryprism",
@@ -33590,7 +33629,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Fall 2025",
     "status": "Active",
@@ -33897,7 +33936,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Spring 2026",
     "status": "Active",
@@ -34919,8 +34958,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/638b55f98e908e0ccf30170e7b53dff164439c5b.png",
     "website": "https://qomplement.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "qomplement is the agentic ERP built for retail and logistics companies. We give mid-market and enterprise procurement and operations teams superpowers by automating the work that nobody wants to do: purchase order intake, vendor onboarding, item master updates, freight order processing, carrier invoicing, and inventory reconciliation.\r\n\r\nThese industries move trillions of dollars in goods every year, yet most still run on emails, spreadsheets, and disconnected legacy systems. Legacy software has left them behind.\r\n\r\nAlready trusted by some of the largest grocery and trucking companies in the world, processing 10,000+ documents per day across 20+ companies. Headquartered in San Francisco.",
-    "one_liner": "The Agentic ERP for retail and logistics",
+    "long_description": "qomplement is the agentic ERP built for retail and logistics companies. We give mid-market and enterprise procurement and operations teams superpowers by automating the work that nobody wants to do: purchase order intake, vendor onboarding, item master updates, freight order processing, carrier invoicing, and inventory reconciliation.\r\n\r\nThese industries move trillions of dollars in goods every year, yet most still run on emails, spreadsheets, and disconnected legacy systems. Legacy software has left them behind.\r\n\r\nAlready trusted by some of the largest grocery chains and trucking companies in the world, processing 10,000+ documents per day across 20+ companies. Headquartered in San Francisco.",
+    "one_liner": "The Agentic ERP for supply chain operations",
     "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B",
@@ -35120,47 +35159,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/kimpton-ai",
     "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/kimpton-ai.json"
-  },
-  {
-    "id": 31423,
-    "name": "BentoLabs AI",
-    "slug": "bentolabs-ai",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7ff7747818f703617e1cd9444a5600eef3511337.png",
-    "website": "https://bentolabs.ai/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "BentoLabs is the monitoring and learning layer for long-running agents. We detect when agents silently fail or drift from the user's goal, system prompt, or tool contracts, show affected users and root cause, and suggest the prompt, skill, or harness fix.\r\n\r\nAs more teams deploy agents, keeping them reliable in production becomes mission-critical. Bento sits directly in the production loop and gives teams the operational leverage required to scale agent ecosystems without scaling human firefighting alongside them. The result is a system that turns opaque agents into agents that can be monitored, debugged, and improved continuously.\r\n\r\nThe founders learned this problem at Emergent (YC S24), where they built and operated production coding agents used by 5M+ users. Abhinav was hire #1 and helped Emergent hit SWE-Bench #1 and scale from $0 to $100M ARR in just 8 months. Kaushik was hire #2, led full-stack engineering at Emergent, and was key to building the infrastructure that made production agents reliable, observable, and debuggable. Bento's self-learning engine has also lifted ARC-AGI-3 (internal) by 2.6x and Terminal-Bench 2.0 (internal) from 42.2% to 52.4% pass@1 with the same model, tools, and budget.",
-    "one_liner": "BentoLabs is the monitoring and learning layer for long-running agents",
-    "team_size": 5,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1779852780,
-    "tags": [
-      "Developer Tools",
-      "B2B",
-      "Monitoring",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Spring 2026",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/bentolabs-ai",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/bentolabs-ai.json"
   },
   {
     "id": 31424,
@@ -35372,6 +35370,46 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/degla-inc",
     "api": "https://prajjwal2-3.github.io/yc-data/batches/fall-2026/degla-inc.json"
+  },
+  {
+    "id": 31458,
+    "name": "Ara",
+    "slug": "ara",
+    "former_names": [
+      "EasyClaw"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/43521ae4f2f9575593c80ebf4f8bf7ce020d70da.png",
+    "website": "https://ara.so",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Ara is a non-invasive AI cursor that executes tasks on your computer. With first-class computer use it clicks buttons and retrieves info from any app, fills out forms and can navigate your browser. It supports self-improving and reproducible workflows that can be scheduled at set times.",
+    "one_liner": "Ara is a non-invasive AI cursor that executes tasks on your computer.",
+    "team_size": 2,
+    "industry": "Consumer",
+    "subindustry": "Consumer",
+    "launched_at": 1775160352,
+    "tags": [
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "Consumer"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/ara",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/ara.json"
   },
   {
     "id": 31460,
@@ -35590,7 +35628,7 @@
     "website": "https://saudara.ai",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Saudara AI is an AI broker connecting American brands with vetted overseas factories.\r\n\r\nUS brands import $3T in goods a year and lose billions to ghost suppliers, hidden fees, and blown deadlines. The factories that actually deliver sit behind decades-old relationships outsiders can't break into. We were born into them.\r\n\r\nEvery deal runs through a real human broker, supercharged by AI that handles sourcing, quoting, QC, and logistics. 10x faster, at a fraction of the cost.\r\n\r\nSourcing is the largest broken market in global trade. We're the on-ramp.",
-    "one_liner": "AI sourcing broker linking brands to top global factories.",
+    "one_liner": "AI sourcing broker connecting brands with vetted overseas factories",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
@@ -35833,6 +35871,92 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/projectx",
     "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/projectx.json"
+  },
+  {
+    "id": 31510,
+    "name": "Auxos",
+    "slug": "auxos",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e35e07f61bc16ff060889081c97809a3aad66df5.png",
+    "website": "https://www.useauxos.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Auxos builds digital twins for marketing, product, and research teams to test their hypotheses at scale. We work with companies to create 1:1 replicas of their customers by sourcing and interviewing real people in their ICP, allowing us to accurately model how they behave and make decisions. \r\n\r\nCurrently, customer research is too slow and expensive to use on anything but the biggest decisions. Surveys and panels cost a fortune and it takes weeks to recruit, moderate, and gather insights.   \r\n\r\nAuxos provides a 24/7 available customer panel that can give population-scale insights in minutes. The day-to-day decisions surrounding product, pricing, and positioning can now be validated with the same rigor that used to be reserved for the big ones. \r\n",
+    "one_liner": "Digital twins for customer research",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1778707730,
+    "tags": [
+      "B2B",
+      "Marketing",
+      "Market Research",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/auxos",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/auxos.json"
+  },
+  {
+    "id": 31511,
+    "name": "Arzana",
+    "slug": "arzana",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4785fcf24308f1fcad59fe3eda9fea668524c25f.png",
+    "website": "https://www.arzana.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "The fastest-growing manufacturing firms use Arzana’s AI platform to automate order entry, quoting, and customer updates. So teams can scale faster, respond sooner, and grow without adding overhead. ",
+    "one_liner": "AI automation for the manufacturing office",
+    "team_size": 5,
+    "industry": "B2B",
+    "subindustry": "B2B -> Operations",
+    "launched_at": 1773098013,
+    "tags": [
+      "Manufacturing",
+      "Automation",
+      "Operations",
+      "AI",
+      "Industrial"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Operations"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/arzana",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/arzana.json"
   },
   {
     "id": 31512,
@@ -36140,6 +36264,90 @@
     "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/modern.json"
   },
   {
+    "id": 31546,
+    "name": "ReasonBlocks",
+    "slug": "reasonblocks",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d73e9cbe0885e3d783faf674783100f13336068b.png",
+    "website": "https://reasonblocks.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "ReasonBlocks is the runtime layer that makes AI agents cheaper and more reliable. We correct agent reasoning and compress tokens mid-run, with gains compounding across runs. On SWE-Bench pro we have seen a 52% token reduction and 42% accuracy lift.",
+    "one_liner": "The runtime layer that makes AI agents cheaper and more reliable",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1777282713,
+    "tags": [
+      "SaaS",
+      "B2B",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/reasonblocks",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/reasonblocks.json"
+  },
+  {
+    "id": 31549,
+    "name": "Enjamb Labs",
+    "slug": "enjamb-labs",
+    "former_names": [
+      "Enjamb Labs Inc",
+      "Enjamb"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/72c48d60b66c3872f55fda2ba7dbab9415312dd4.png",
+    "website": "https://www.enjamb.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Enjamb puts agents across the entire drug program, from preclinical research through clinical trials and approval. Our agents synthesize up-to-date clinical evidence from the literature and real-world data to pinpoint the right endpoints and patient populations; draft and audit regulatory documents like INDs, protocols, SAPs, and NDAs; and run the statistical programming behind them, including SDTM, ADaM, TFLs, and QC, all in one auditable workspace that cuts months off the path from preclinical to clinic and clinic to market.",
+    "one_liner": "Full stack AI Agents accelerating Biopharma R&D ",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1773449456,
+    "tags": [
+      "AI-powered Drug Discovery",
+      "B2B",
+      "Biotech",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/enjamb-labs",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/enjamb-labs.json"
+  },
+  {
     "id": 31550,
     "name": "Playabl.ai",
     "slug": "playablai",
@@ -36302,6 +36510,46 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/rightnow",
     "api": "https://prajjwal2-3.github.io/yc-data/batches/fall-2026/rightnow.json"
+  },
+  {
+    "id": 32155,
+    "name": "Rex",
+    "slug": "rex-inc",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b14c16514ac7654483b96e54e1bf49a45714e8f6.png",
+    "website": "https://www.rex.inc",
+    "all_locations": "",
+    "long_description": "Rex is an AI-native service for order to cash. We replace people-heavy operations with AI agents that continuously manage invoices, customers and exceptions.\r\n\r\nOrder to cash is a $60B outsourced function because the work is too messy for traditional automation. Every customer has different context, exceptions do not follow clean rules, and the next step is often buried in emails, portals, handoffs, or someone’s memory. Rex agents run continuously in the background and resolve work to SLA standards so cash keeps moving. We're live with pre-IPO tech companies, managing  >$500m in receivables from F100 companies, cutting manual follow-up cycles from weeks to hours.\r\n\r\nWe founded Rex after spending four years building Sequence, an a16z-backed finance ops platform, from zero to Series A — where we saw firsthand that at-scale, O2C still runs on manual labour.\r\n\r\nRex is the #1 winner of the Vercel AI Accelerator out of 2,500 teams, selected by Guillermo Rauch and leaders from OpenAI, Anthropic, Browserbase and more.",
+    "one_liner": "AI Operations Partner for Enterprise Order to Cash",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Finance and Accounting",
+    "launched_at": 1779903831,
+    "tags": [
+      "B2B",
+      "Enterprise Software",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Finance and Accounting"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/rex-inc",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2026/rex-inc.json"
   },
   {
     "id": 32194,
