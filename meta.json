@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-05-29T04:04:22.863Z",
+  "last_updated": "2026-05-30T03:51:19.616Z",
   "readme": "https://github.com/prajjwal2-3/yc-data",
   "companies": {
     "all": {
       "name": "All launched companies",
-      "count": 5945,
+      "count": 5946,
       "api": "https://prajjwal2-3.github.io/yc-data/companies/all.json"
     },
     "top": {
@@ -34,7 +34,7 @@
     },
     "hiring": {
       "name": "Companies currently hiring",
-      "count": 1472,
+      "count": 1473,
       "api": "https://prajjwal2-3.github.io/yc-data/companies/hiring.json"
     }
   },
@@ -71,7 +71,7 @@
     },
     "ai": {
       "name": "AI",
-      "count": 833,
+      "count": 830,
       "api": "https://prajjwal2-3.github.io/yc-data/tags/ai.json"
     },
     "ai-assistant": {
@@ -161,7 +161,7 @@
     },
     "artificial-intelligence": {
       "name": "Artificial Intelligence",
-      "count": 930,
+      "count": 932,
       "api": "https://prajjwal2-3.github.io/yc-data/tags/artificial-intelligence.json"
     },
     "assistive-tech": {
@@ -201,7 +201,7 @@
     },
     "b2b": {
       "name": "B2B",
-      "count": 1110,
+      "count": 1109,
       "api": "https://prajjwal2-3.github.io/yc-data/tags/b2b.json"
     },
     "banking-as-a-service": {
@@ -586,7 +586,7 @@
     },
     "developer-tools": {
       "name": "Developer Tools",
-      "count": 541,
+      "count": 542,
       "api": "https://prajjwal2-3.github.io/yc-data/tags/developer-tools.json"
     },
     "devops": {
@@ -706,7 +706,7 @@
     },
     "enterprise-software": {
       "name": "Enterprise Software",
-      "count": 119,
+      "count": 118,
       "api": "https://prajjwal2-3.github.io/yc-data/tags/enterprise-software.json"
     },
     "entertainment": {
@@ -886,12 +886,12 @@
     },
     "healthcare": {
       "name": "Healthcare",
-      "count": 204,
+      "count": 205,
       "api": "https://prajjwal2-3.github.io/yc-data/tags/healthcare.json"
     },
     "healthcare-it": {
       "name": "Healthcare IT",
-      "count": 39,
+      "count": 40,
       "api": "https://prajjwal2-3.github.io/yc-data/tags/healthcare-it.json"
     },
     "home-automation": {
@@ -1406,7 +1406,7 @@
     },
     "saas": {
       "name": "SaaS",
-      "count": 1107,
+      "count": 1106,
       "api": "https://prajjwal2-3.github.io/yc-data/tags/saas.json"
     },
     "sales": {
@@ -1728,7 +1728,7 @@
     },
     "b2b": {
       "name": "B2B",
-      "count": 3039,
+      "count": 3040,
       "api": "https://prajjwal2-3.github.io/yc-data/industries/b2b.json"
     },
     "banking-and-exchange": {
@@ -1748,7 +1748,7 @@
     },
     "consumer": {
       "name": "Consumer",
-      "count": 872,
+      "count": 871,
       "api": "https://prajjwal2-3.github.io/yc-data/industries/consumer.json"
     },
     "consumer-electronics": {
@@ -1838,7 +1838,7 @@
     },
     "healthcare": {
       "name": "Healthcare",
-      "count": 675,
+      "count": 676,
       "api": "https://prajjwal2-3.github.io/yc-data/industries/healthcare.json"
     },
     "healthcare-it": {
@@ -1848,7 +1848,7 @@
     },
     "healthcare-services": {
       "name": "Healthcare Services",
-      "count": 72,
+      "count": 73,
       "api": "https://prajjwal2-3.github.io/yc-data/industries/healthcare-services.json"
     },
     "home-and-personal": {
@@ -1928,7 +1928,7 @@
     },
     "productivity": {
       "name": "Productivity",
-      "count": 228,
+      "count": 229,
       "api": "https://prajjwal2-3.github.io/yc-data/industries/productivity.json"
     },
     "real-estate-and-construction": {
@@ -2200,7 +2200,7 @@
     },
     "spring-2026": {
       "name": "Spring 2026",
-      "count": 189,
+      "count": 190,
       "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026.json"
     },
     "summer-2024": {
