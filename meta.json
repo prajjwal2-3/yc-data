@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-31T04:16:08.792Z",
+  "last_updated": "2026-06-01T04:43:56.997Z",
   "readme": "https://github.com/prajjwal2-3/yc-data",
   "companies": {
     "all": {
@@ -34,7 +34,7 @@
     },
     "hiring": {
       "name": "Companies currently hiring",
-      "count": 1473,
+      "count": 1474,
       "api": "https://prajjwal2-3.github.io/yc-data/companies/hiring.json"
     }
   },
@@ -71,7 +71,7 @@
     },
     "ai": {
       "name": "AI",
-      "count": 833,
+      "count": 834,
       "api": "https://prajjwal2-3.github.io/yc-data/tags/ai.json"
     },
     "ai-assistant": {
@@ -201,7 +201,7 @@
     },
     "b2b": {
       "name": "B2B",
-      "count": 1110,
+      "count": 1111,
       "api": "https://prajjwal2-3.github.io/yc-data/tags/b2b.json"
     },
     "banking-as-a-service": {
@@ -586,7 +586,7 @@
     },
     "developer-tools": {
       "name": "Developer Tools",
-      "count": 541,
+      "count": 539,
       "api": "https://prajjwal2-3.github.io/yc-data/tags/developer-tools.json"
     },
     "devops": {
@@ -701,7 +701,7 @@
     },
     "enterprise": {
       "name": "Enterprise",
-      "count": 106,
+      "count": 107,
       "api": "https://prajjwal2-3.github.io/yc-data/tags/enterprise.json"
     },
     "enterprise-software": {
@@ -741,7 +741,7 @@
     },
     "finance": {
       "name": "Finance",
-      "count": 93,
+      "count": 94,
       "api": "https://prajjwal2-3.github.io/yc-data/tags/finance.json"
     },
     "finops": {
@@ -751,7 +751,7 @@
     },
     "fintech": {
       "name": "Fintech",
-      "count": 700,
+      "count": 701,
       "api": "https://prajjwal2-3.github.io/yc-data/tags/fintech.json"
     },
     "fitness": {
@@ -881,12 +881,12 @@
     },
     "health-tech": {
       "name": "Health Tech",
-      "count": 176,
+      "count": 175,
       "api": "https://prajjwal2-3.github.io/yc-data/tags/health-tech.json"
     },
     "healthcare": {
       "name": "Healthcare",
-      "count": 205,
+      "count": 204,
       "api": "https://prajjwal2-3.github.io/yc-data/tags/healthcare.json"
     },
     "healthcare-it": {
@@ -961,12 +961,12 @@
     },
     "infrastructure": {
       "name": "Infrastructure",
-      "count": 116,
+      "count": 114,
       "api": "https://prajjwal2-3.github.io/yc-data/tags/infrastructure.json"
     },
     "insurance": {
       "name": "Insurance",
-      "count": 72,
+      "count": 73,
       "api": "https://prajjwal2-3.github.io/yc-data/tags/insurance.json"
     },
     "international": {
@@ -1051,12 +1051,12 @@
     },
     "logistics": {
       "name": "Logistics",
-      "count": 132,
+      "count": 131,
       "api": "https://prajjwal2-3.github.io/yc-data/tags/logistics.json"
     },
     "machine-learning": {
       "name": "Machine Learning",
-      "count": 230,
+      "count": 231,
       "api": "https://prajjwal2-3.github.io/yc-data/tags/machine-learning.json"
     },
     "manufacturing": {
@@ -1206,7 +1206,7 @@
     },
     "no-code": {
       "name": "No-code",
-      "count": 38,
+      "count": 37,
       "api": "https://prajjwal2-3.github.io/yc-data/tags/no-code.json"
     },
     "nonprofit": {
@@ -1406,7 +1406,7 @@
     },
     "saas": {
       "name": "SaaS",
-      "count": 1107,
+      "count": 1106,
       "api": "https://prajjwal2-3.github.io/yc-data/tags/saas.json"
     },
     "sales": {
@@ -1546,7 +1546,7 @@
     },
     "supply-chain": {
       "name": "Supply Chain",
-      "count": 83,
+      "count": 84,
       "api": "https://prajjwal2-3.github.io/yc-data/tags/supply-chain.json"
     },
     "sustainability": {
@@ -1813,7 +1813,7 @@
     },
     "finance-and-accounting": {
       "name": "Finance and Accounting",
-      "count": 135,
+      "count": 136,
       "api": "https://prajjwal2-3.github.io/yc-data/industries/finance-and-accounting.json"
     },
     "fintech": {
@@ -1878,7 +1878,7 @@
     },
     "infrastructure": {
       "name": "Infrastructure",
-      "count": 297,
+      "count": 296,
       "api": "https://prajjwal2-3.github.io/yc-data/industries/infrastructure.json"
     },
     "insurance": {

@@ -815,7 +815,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d89913eef21655f3b6aca9e9962a1f6323dc2479.png",
     "website": "https://convictional.com",
     "all_locations": "Toronto, ON, Canada; Remote",
-    "long_description": "Convictional (convictional.com) is the company OS that replaces Slack, to keep teams mission aligned by design. Your goals, email, meetings, chat and knowledge search in one place, where your team's effectiveness compounds.",
+    "long_description": "Convictional (convictional.com) is the company brain that replaces Slack, to keep teams mission aligned by design. Your goals, email, meetings, chat and knowledge search in one place, where your team's effectiveness compounds.",
     "one_liner": "Convictional replaces Slack to keep teams mission aligned by design.",
     "team_size": 15,
     "industry": "B2B",
@@ -5382,7 +5382,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Autostep is a desktop app installed across your organization to surface repetitive, high-cost tasks that fly under the radar. We rank them by cost and impact so you know what's worth automating, then build or find the right fix - whether that's an AI agent, a process change, or an existing tool.",
     "one_liner": "Uncover repetitive tasks and automate them",
-    "team_size": 1,
+    "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Operations",
     "launched_at": 1772173697,
@@ -5667,7 +5667,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/29b0a2a5ad266c29913c6cd737b023935ee784ba.png",
     "website": "https://www.mantle.work",
-    "all_locations": "",
+    "all_locations": "San Francisco, CA, USA",
     "long_description": "Mantle connects to all your tools: your CRM, Mail, Calendar, Payments, Product Analytics, and more. With just one prompt, you can create agents that handle back office work for you.\r\n\r\nThese agents can automate reports  and email them to you, drafts emails right in your email client, generates pre-meeting research directly in your calendar event, and much more. They run quietly in the background, react to changes in real time, follow a schedule or work when you chat with them. \r\n\r\nYou didn’t start up to stay stuck in admin. Turn your company AI-native with Mantle.",
     "one_liner": "Build internal agents to automate back office work with one prompt",
     "team_size": 2,
@@ -5686,7 +5686,8 @@
       "Operations"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -6000,7 +6001,7 @@
     "website": "https://trellistech.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Trellis is building toward a new hospitality platform: one that does not just help guests find homes, but actually operates them with agents. \r\n\r\nOur first wedge is short-term rental property managers, replacing their fragmented stack across guest messages, tasks, cleaners, maintenance, vendors, and owner updates with agents that run operations end-to-end. \r\n\r\nIn two months, we’ve grown to $500k ARR across 35 customers and 3000 listings, growing around 15% week over week, with one customer already running day-to-day operations with no human involved.",
-    "one_liner": "The operating layer for the next hospitality platform",
+    "one_liner": "The platform where short-term rentals run themselves",
     "team_size": 6,
     "industry": "B2B",
     "subindustry": "B2B -> Operations",

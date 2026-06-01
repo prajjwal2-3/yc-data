@@ -2772,7 +2772,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/50e5a1022a2437ff5f516fa3afe9ed74fb7be3f4.png",
     "website": "https://double.bot",
-    "all_locations": "Redwood City, CA, USA",
+    "all_locations": "San Francisco, CA, USA",
     "long_description": "Do you run into these problems with Github Copilot?\r\n- Bad completions that break your train of thought when you’re writing comments?\r\n- Doesn’t close brackets, or adds too many closing brackets?\r\n- Functions, variables, and libraries not being auto-imported after accepting a suggestion?\r\n- Multi-cursor mode not working?\r\n- Wish copilot could name your variables?\r\n- Wish copilot could trigger in the middle of a line?\r\n- Want to stop wasting time with GPT3.5 chat and default to GPT4?\r\n\r\nDouble is an high quality alternative to Copilot inside VS Code, engineered for performance. It’s designed with great craftsmanship by people who care a lot about getting the small details right.",
     "one_liner": "AI coding copilot engineered for performance",
     "team_size": 2,
@@ -3301,7 +3301,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2e2a3ced5969028060bbaaf152193b5b6a2b3982.png",
     "website": "https://alguna.com",
-    "all_locations": "New York, NY, USA; Remote",
+    "all_locations": "London, United Kingdom; Remote",
     "long_description": "We are Alguna, building a modern platform that helps B2B companies price deals, send quotes, bill customers, and collect payments - all in one place.\r\n\r\nOur mission is to create the most efficient revenue engine for B2B SaaS.\r\n\r\nToday, many companies run these processes with spreadsheets and a patchwork of separate tools. That leads to slow approvals, manual work, mistakes, and missed revenue—especially as pricing gets more complex.\r\n\r\nAlguna replaces that mess by connecting the entire flow from **quote to cash**: what sales sells becomes what finance bills, automatically. We help teams automate invoicing, handle usage-based or custom pricing, and reduce back-and-forth between sales, finance, and engineering.\r\n\r\nThe result: growth-stage startups and enterprises can close deals faster, bill accurately, and scale revenue operations without adding headcount or building internal systems.\r\n",
     "one_liner": "AI-Native CPQ & Billing for Modern Pricing Models",
     "team_size": 10,
@@ -3326,8 +3326,8 @@
       "Finance and Accounting"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada",
+      "United Kingdom",
+      "Europe",
       "Remote",
       "Fully Remote"
     ],
@@ -4631,6 +4631,46 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/soren",
     "api": "https://prajjwal2-3.github.io/yc-data/batches/fall-2025/soren.json"
+  },
+  {
+    "id": 30972,
+    "name": "Jarmin",
+    "slug": "jarmin",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a48984c0a7bc281e9b076876c8d571aaf44c799e.png",
+    "website": "https://jarmin.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Jarmin.ai builds AI employees for human-level roles. It learns its responsibilities, understands your data, embeds into your systems, and becomes part of your team's day-to-day workflow. Completely hand over full initiatives or individual tasks.\r\n\r\nHire AI ML Engineers, Account Executives, Paralegals, Financial analysts, Compliance analysts, and more.\r\n\r\nJarmin’s founding team is from Meta SuperIntelligence Labs (Staff Engineers), Apple (Machine Learning Engineer), AWS (scaling infra), Lockheed-Martin (Research), and JPMorganChase (SWE) with experience building AI/ML and automating complex work of Researchers, Data Scientists, ML Engineers with AI.",
+    "one_liner": "AI Employees for Human-level roles",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1762304310,
+    "tags": [
+      "Machine Learning",
+      "B2B",
+      "Enterprise"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2025",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/jarmin",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/fall-2025/jarmin.json"
   },
   {
     "id": 31424,
