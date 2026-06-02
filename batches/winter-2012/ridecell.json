@@ -1,0 +1,48 @@
+{
+  "id": 1548,
+  "name": "Ridecell",
+  "slug": "ridecell",
+  "former_names": [
+    "Summon",
+    "InstantCab",
+    "Ridecell"
+  ],
+  "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/993ff6073116071031609f9e3bed69101446082b.png",
+  "website": "https://www.ridecell.com",
+  "all_locations": "San Francisco, CA, USA",
+  "long_description": "Ridecell is the world’s leading fleet intelligence platform. We bring AI to auto-leasing and finance companies - and to the fleets and consumers they serve - by turning 100+ fragmented systems (telematics, ERP, OEM portals, maintenance, invoicing, insurance) into a single intelligence layer that doesn’t just surface data, but drives decisions.\r\n\r\nOur Five Intelligence Modules - Operational, Asset, Supplier, Spend, and Client - are powered by specialized AI agents that process 12M+ events a day across 500K+ managed assets in 14+ countries. The platform ships in three deployment modes (managed SaaS, dedicated single-tenant, and fully sovereign inside the customer’s perimeter), so our teams get to work across the full spectrum of real-world enterprise AI deployment.\r\n\r\nOur customers include Arval BNP Paribas Group, Merchants Fleet, and KINTO by Toyota. Ridecell is headquartered in California, with offices in Paris, Bordeaux, Madrid, and Pune (India). For more information, visit www.ridecell.com.",
+  "one_liner": "World's Leading Fleet Intelligence Platform",
+  "team_size": 88,
+  "industry": "B2B",
+  "subindustry": "B2B",
+  "launched_at": 1481295031,
+  "tags": [
+    "SaaS",
+    "IoT",
+    "B2B",
+    "Enterprise",
+    "AI"
+  ],
+  "tags_highlighted": [],
+  "top_company": false,
+  "isHiring": true,
+  "nonprofit": false,
+  "batch": "Winter 2012",
+  "status": "Active",
+  "industries": [
+    "B2B"
+  ],
+  "regions": [
+    "United States of America",
+    "America / Canada",
+    "Remote",
+    "Partly Remote"
+  ],
+  "stage": "Growth",
+  "app_video_public": false,
+  "demo_day_video_public": false,
+  "app_answers": null,
+  "question_answers": false,
+  "url": "https://www.ycombinator.com/companies/ridecell",
+  "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2012/ridecell.json"
+}

@@ -1,0 +1,37 @@
+{
+  "id": 30241,
+  "name": "ZeroEntropy",
+  "slug": "zeroentropy",
+  "former_names": [],
+  "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6b2774c0442b4c923fff05f20dbced23d34ad02f.png",
+  "website": "https://www.zeroentropy.dev",
+  "all_locations": "San Francisco, CA, USA",
+  "long_description": "We are on a mission to build the world’s most accurate, fastest, and cheapest task-specific models for every production AI system.\r\n\r\nMost AI products, whether copilots, agents, or search systems, depend on frontier LLMs to handle every step of their pipeline. \r\n\r\nYet, the vast majority of these steps are narrow, repeatable workloads: reranking, embedding, classification, routing, query rewriting, context compression, where frontier intelligence is overkill. \r\n\r\nRunning them on general-purpose models is slow and expensive, capping what production AI can achieve. \r\n\r\nThat is why we're building ZeroEntropy: to train small, task-specific models that replace frontier LLMs on these workloads, and empower developers to ship AI products that are more accurate, faster, and cheaper.",
+  "one_liner": "Artificial Specialized Intelligence",
+  "team_size": 6,
+  "industry": "B2B",
+  "subindustry": "B2B -> Infrastructure",
+  "launched_at": 1734458813,
+  "tags": [],
+  "tags_highlighted": [],
+  "top_company": false,
+  "isHiring": true,
+  "nonprofit": false,
+  "batch": "Winter 2025",
+  "status": "Active",
+  "industries": [
+    "B2B",
+    "Infrastructure"
+  ],
+  "regions": [
+    "United States of America",
+    "America / Canada"
+  ],
+  "stage": "Early",
+  "app_video_public": false,
+  "demo_day_video_public": false,
+  "app_answers": null,
+  "question_answers": false,
+  "url": "https://www.ycombinator.com/companies/zeroentropy",
+  "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2025/zeroentropy.json"
+}

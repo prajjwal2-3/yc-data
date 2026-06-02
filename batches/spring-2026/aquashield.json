@@ -1,0 +1,39 @@
+{
+  "id": 31487,
+  "name": "AquaShield",
+  "slug": "aquashield",
+  "former_names": [],
+  "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/19c992291d0ad061bcca099c36e54cb83327fe66.png",
+  "website": "https://aquashieldai.com",
+  "all_locations": "San Francisco, CA, USA",
+  "long_description": "AquaShield protects large real estate portfolios against water damage (losses of up to hundreds of millions per year). ",
+  "one_liner": "AI water leak detection for buildings",
+  "team_size": 3,
+  "industry": "Real Estate and Construction",
+  "subindustry": "Real Estate and Construction",
+  "launched_at": 1778992825,
+  "tags": [
+    "Real Estate",
+    "B2B"
+  ],
+  "tags_highlighted": [],
+  "top_company": false,
+  "isHiring": false,
+  "nonprofit": false,
+  "batch": "Spring 2026",
+  "status": "Active",
+  "industries": [
+    "Real Estate and Construction"
+  ],
+  "regions": [
+    "United States of America",
+    "America / Canada"
+  ],
+  "stage": "Early",
+  "app_video_public": false,
+  "demo_day_video_public": false,
+  "app_answers": null,
+  "question_answers": false,
+  "url": "https://www.ycombinator.com/companies/aquashield",
+  "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/aquashield.json"
+}

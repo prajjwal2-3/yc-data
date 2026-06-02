@@ -1,0 +1,41 @@
+{
+  "id": 28115,
+  "name": "Vellum",
+  "slug": "vellum",
+  "former_names": [
+    "Vocify"
+  ],
+  "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/211ce1fb908d8d56541fcc5ddfa4be47bd69dc5d.png",
+  "website": "https://www.vellum.ai/",
+  "all_locations": "New York, NY, USA",
+  "long_description": "",
+  "one_liner": "",
+  "team_size": 23,
+  "industry": "B2B",
+  "subindustry": "B2B -> Engineering, Product and Design",
+  "launched_at": 1673626837,
+  "tags": [],
+  "tags_highlighted": [],
+  "top_company": false,
+  "isHiring": false,
+  "nonprofit": false,
+  "batch": "Winter 2023",
+  "status": "Active",
+  "industries": [
+    "B2B",
+    "Engineering, Product and Design"
+  ],
+  "regions": [
+    "United States of America",
+    "America / Canada",
+    "Remote",
+    "Partly Remote"
+  ],
+  "stage": "Growth",
+  "app_video_public": false,
+  "demo_day_video_public": false,
+  "app_answers": null,
+  "question_answers": true,
+  "url": "https://www.ycombinator.com/companies/vellum",
+  "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2023/vellum.json"
+}

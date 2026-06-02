@@ -1,0 +1,44 @@
+{
+  "id": 30427,
+  "name": "Acolite",
+  "slug": "acolite",
+  "former_names": [
+    "Blueplan",
+    "Anvil"
+  ],
+  "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/bee88ddf2837ce69f6bc53bc24d264569098af38.png",
+  "website": "https://acolite.ai",
+  "all_locations": "New York, NY, USA",
+  "long_description": "Acolite is an AI-powered insurance brokerage purpose-built for the construction industry. We combine modern technology with dedicated, licensed brokers to help contractors get the right coverage faster and at better rates than traditional brokerages can offer.",
+  "one_liner": "AI Native Commercial Insurance Broker",
+  "team_size": 3,
+  "industry": "Fintech",
+  "subindustry": "Fintech -> Insurance",
+  "launched_at": 1747166393,
+  "tags": [
+    "Artificial Intelligence",
+    "Insurance",
+    "Operations"
+  ],
+  "tags_highlighted": [],
+  "top_company": false,
+  "isHiring": false,
+  "nonprofit": false,
+  "batch": "Spring 2025",
+  "status": "Active",
+  "industries": [
+    "Fintech",
+    "Insurance"
+  ],
+  "regions": [
+    "United States of America",
+    "America / Canada"
+  ],
+  "stage": "Early",
+  "app_video_public": false,
+  "demo_day_video_public": false,
+  "app_answers": null,
+  "question_answers": false,
+  "url": "https://www.ycombinator.com/companies/acolite",
+  "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2025/acolite.json"
+}

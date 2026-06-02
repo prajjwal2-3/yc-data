@@ -1,0 +1,45 @@
+{
+  "id": 30981,
+  "name": "Freeport Markets",
+  "slug": "freeport-markets",
+  "former_names": [],
+  "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7785e7f2104cbe8c0fd7a9462d42a9b03d5aeb86.png",
+  "website": "https://www.freeportmarkets.com/",
+  "all_locations": "New York, NY, USA",
+  "long_description": "Freeport is a trading platform for pre-IPO shares, equities, crypto, and perpetual futures. Our AI analysts turn trusted social and financial media into a real-time feed of market-moving news and actionable trade ideas.",
+  "one_liner": "Trade like a hedge fund. ",
+  "team_size": 3,
+  "industry": "Fintech",
+  "subindustry": "Fintech -> Consumer Finance",
+  "launched_at": 1758671175,
+  "tags": [
+    "Fintech",
+    "Crypto / Web3",
+    "Investing",
+    "Consumer Finance",
+    "AI"
+  ],
+  "tags_highlighted": [
+    "Crypto / Web3"
+  ],
+  "top_company": false,
+  "isHiring": false,
+  "nonprofit": false,
+  "batch": "Fall 2025",
+  "status": "Active",
+  "industries": [
+    "Fintech",
+    "Consumer Finance"
+  ],
+  "regions": [
+    "United States of America",
+    "America / Canada"
+  ],
+  "stage": "Early",
+  "app_video_public": false,
+  "demo_day_video_public": false,
+  "app_answers": null,
+  "question_answers": true,
+  "url": "https://www.ycombinator.com/companies/freeport-markets",
+  "api": "https://prajjwal2-3.github.io/yc-data/batches/fall-2025/freeport-markets.json"
+}

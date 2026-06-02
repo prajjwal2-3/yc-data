@@ -1,0 +1,41 @@
+{
+  "id": 31203,
+  "name": "Sitefire",
+  "slug": "sitefire",
+  "former_names": [
+    "pulse",
+    "sitefire",
+    "itefire"
+  ],
+  "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ea31f29e253c2635c1eccbc268b7d4d685f8caf6.png",
+  "website": "https://sitefire.ai",
+  "all_locations": "San Francisco, CA, USA",
+  "long_description": "Sitefire (YC W26) helps brands market their products to agents. They create content and tools that get their products discovered and used by AI agents (ChatGPT, OpenClaw). Sitefire identifies which content drives AI visibility, and automatically creates it. The teams using Sitefire execute on-page and off-page actions to deliver measurable top-line growth.",
+  "one_liner": "Marketing suite for the agentic web",
+  "team_size": 2,
+  "industry": "B2B",
+  "subindustry": "B2B -> Marketing",
+  "launched_at": 1770178936,
+  "tags": [],
+  "tags_highlighted": [],
+  "top_company": false,
+  "isHiring": false,
+  "nonprofit": false,
+  "batch": "Winter 2026",
+  "status": "Active",
+  "industries": [
+    "B2B",
+    "Marketing"
+  ],
+  "regions": [
+    "United States of America",
+    "America / Canada"
+  ],
+  "stage": "Early",
+  "app_video_public": false,
+  "demo_day_video_public": false,
+  "app_answers": null,
+  "question_answers": false,
+  "url": "https://www.ycombinator.com/companies/sitefire",
+  "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2026/sitefire.json"
+}

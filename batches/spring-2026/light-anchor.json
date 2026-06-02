@@ -1,0 +1,39 @@
+{
+  "id": 31376,
+  "name": "Light Anchor",
+  "slug": "light-anchor",
+  "former_names": [],
+  "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3e90f1f997478761cc013525bd81b5fc23984166.png",
+  "website": "https://lightanchor.ai",
+  "all_locations": "San Francisco, CA, USA",
+  "long_description": "Light Anchor (YC P26) builds AI-run consumer brands that run at the speed of compute. \r\n\r\nConsumer brands have always been limited by the speed of humans: hiring, coordinating, and sleeping. AI agents that now run operations end-to-end break all those constraints, making a new kind of consumer business possible: one capped by compute, not headcount.\r\n\r\nToday, Light Anchor operates one flagship brand and multiple experiment stores, all run by AI agents on a shared platform that compounds with every new brand launched. The vision is thousands of consumer businesses, operating with little to no human intervention.",
+  "one_liner": "AI-run consumer brands",
+  "team_size": 2,
+  "industry": "Consumer",
+  "subindustry": "Consumer",
+  "launched_at": 1777575492,
+  "tags": [
+    "Artificial Intelligence",
+    "E-commerce"
+  ],
+  "tags_highlighted": [],
+  "top_company": false,
+  "isHiring": false,
+  "nonprofit": false,
+  "batch": "Spring 2026",
+  "status": "Active",
+  "industries": [
+    "Consumer"
+  ],
+  "regions": [
+    "United States of America",
+    "America / Canada"
+  ],
+  "stage": "Early",
+  "app_video_public": false,
+  "demo_day_video_public": false,
+  "app_answers": null,
+  "question_answers": false,
+  "url": "https://www.ycombinator.com/companies/light-anchor",
+  "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/light-anchor.json"
+}

@@ -1,0 +1,38 @@
+{
+  "id": 25913,
+  "name": "Trueplace",
+  "slug": "trueplace",
+  "former_names": [
+    "Trueplace",
+    "Argo"
+  ],
+  "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/090425d1ebc2eddd72adac73fbef7428d9357414.png",
+  "website": "https://www.trueplace.ca/",
+  "all_locations": "",
+  "long_description": "Trueplace's AI supercharges career preparation",
+  "one_liner": "AI to prepare you for the future",
+  "team_size": 4,
+  "industry": "B2B",
+  "subindustry": "B2B",
+  "launched_at": 1644373814,
+  "tags": [],
+  "tags_highlighted": [],
+  "top_company": false,
+  "isHiring": true,
+  "nonprofit": false,
+  "batch": "Winter 2022",
+  "status": "Active",
+  "industries": [
+    "B2B"
+  ],
+  "regions": [
+    "Unspecified"
+  ],
+  "stage": "Early",
+  "app_video_public": false,
+  "demo_day_video_public": false,
+  "app_answers": null,
+  "question_answers": false,
+  "url": "https://www.ycombinator.com/companies/trueplace",
+  "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2022/trueplace.json"
+}

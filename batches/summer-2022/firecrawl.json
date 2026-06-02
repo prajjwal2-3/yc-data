@@ -1,0 +1,47 @@
+{
+  "id": 27152,
+  "name": "Firecrawl",
+  "slug": "firecrawl",
+  "former_names": [
+    "SideGuide",
+    "Mendable",
+    "SideGuide",
+    "Mendable"
+  ],
+  "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fe35a47d1e4dd7a3c1a7dcbea86c08b5ef2d67e6.png",
+  "website": "https://www.firecrawl.dev",
+  "all_locations": "San Francisco, CA, USA",
+  "long_description": "Firecrawl is the web context API for AI agents. Search, scrape, parse, and interact with the live web to turn any source into clean Markdown or structured data your agents can ship with. Open source, ZDR-ready, and trusted by 80,000+ teams including Apple, Shopify, Canva, Zapier, and Lovable to power production AI.",
+  "one_liner": "The API to search, scrape, and interact with the web at scale. 🔥",
+  "team_size": 25,
+  "industry": "B2B",
+  "subindustry": "B2B",
+  "launched_at": 1661283698,
+  "tags": [
+    "Developer Tools",
+    "Open Source",
+    "AI"
+  ],
+  "tags_highlighted": [],
+  "top_company": false,
+  "isHiring": true,
+  "nonprofit": false,
+  "batch": "Summer 2022",
+  "status": "Active",
+  "industries": [
+    "B2B"
+  ],
+  "regions": [
+    "United States of America",
+    "America / Canada",
+    "Remote",
+    "Partly Remote"
+  ],
+  "stage": "Growth",
+  "app_video_public": false,
+  "demo_day_video_public": false,
+  "app_answers": null,
+  "question_answers": false,
+  "url": "https://www.ycombinator.com/companies/firecrawl",
+  "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2022/firecrawl.json"
+}

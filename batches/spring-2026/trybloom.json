@@ -1,0 +1,36 @@
+{
+  "id": 31293,
+  "name": "Bloom",
+  "slug": "trybloom",
+  "former_names": [],
+  "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/69e41f29f70735fdb2645501787e9a1ddf8d46dc.png",
+  "website": "https://trybloom.ai",
+  "all_locations": "San Francisco, CA, USA",
+  "long_description": "Bloom is the brand layer for agents - a system that holds your brand and makes it callable from any agent, app, or platform.\r\n\r\nIngest your brand from anywhere - decks, websites, social, Figma, and more.\r\nBloom systemises your brand, enabling the creation of on-brand outputs like images, video, video, copy, and more, through the web app, the API, or MCP.\r\n\r\nWe're building brand-as-infrastructure for the AI era.\r\n",
+  "one_liner": "The brand layer for agents",
+  "team_size": 3,
+  "industry": "B2B",
+  "subindustry": "B2B",
+  "launched_at": 1776275888,
+  "tags": [],
+  "tags_highlighted": [],
+  "top_company": false,
+  "isHiring": true,
+  "nonprofit": false,
+  "batch": "Spring 2026",
+  "status": "Active",
+  "industries": [
+    "B2B"
+  ],
+  "regions": [
+    "United States of America",
+    "America / Canada"
+  ],
+  "stage": "Early",
+  "app_video_public": false,
+  "demo_day_video_public": false,
+  "app_answers": null,
+  "question_answers": false,
+  "url": "https://www.ycombinator.com/companies/trybloom",
+  "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/trybloom.json"
+}

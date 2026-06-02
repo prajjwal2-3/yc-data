@@ -1,0 +1,44 @@
+{
+  "id": 29181,
+  "name": "Event Horizon Labs",
+  "slug": "event-horizon-labs",
+  "former_names": [
+    "EmergentAGI",
+    "SciPhi"
+  ],
+  "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/952b6381b227fe13913d082e7f9bdec4731e8adb.png",
+  "website": "https://www.ehl.markets/",
+  "all_locations": "San Francisco, CA, USA",
+  "long_description": "We are scaling autonomous research, Markets are our verification loop: agents turn hypotheses into strategies, test them, and compound what survives. \r\n",
+  "one_liner": "AI research lab automating all of investing",
+  "team_size": 4,
+  "industry": "Fintech",
+  "subindustry": "Fintech -> Asset Management",
+  "launched_at": 1710132587,
+  "tags": [
+    "Artificial Intelligence",
+    "Finance",
+    "Investing"
+  ],
+  "tags_highlighted": [],
+  "top_company": false,
+  "isHiring": true,
+  "nonprofit": false,
+  "batch": "Winter 2024",
+  "status": "Active",
+  "industries": [
+    "Fintech",
+    "Asset Management"
+  ],
+  "regions": [
+    "United States of America",
+    "America / Canada"
+  ],
+  "stage": "Early",
+  "app_video_public": false,
+  "demo_day_video_public": false,
+  "app_answers": null,
+  "question_answers": false,
+  "url": "https://www.ycombinator.com/companies/event-horizon-labs",
+  "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2024/event-horizon-labs.json"
+}

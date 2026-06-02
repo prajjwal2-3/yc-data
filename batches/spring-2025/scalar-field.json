@@ -1,0 +1,39 @@
+{
+  "id": 30514,
+  "name": "Scalar Field",
+  "slug": "scalar-field",
+  "former_names": [],
+  "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7b28fd1bee5f680014678e8985405788a687849f.png",
+  "website": "https://www.scalarfield.io/",
+  "all_locations": "",
+  "long_description": "We’re building the agentic trading desk for the new operating system of markets.\r\n\r\nI used to be a trader at Tower Research and Goldman Sachs, and I’m building Scalar Field with my co-founder Ramakant, who led engineering teams at Microsoft.\r\n\r\nWe’ve both spent our careers at the intersection of finance and technology, and we’re using that experience to rethink how markets are analyzed, tested, and traded in the age of agents.\r\n\r\nScalar Field is built around a simple belief: over the next few years, agents will not just help people research markets — they will actively participate in them.\r\n\r\nThey will monitor news, parse filings, track sentiment, test hypotheses, rebalance portfolios, and execute trades. They will turn ideas into strategies, and strategies into live portfolios.\r\n\r\nBut today’s financial infrastructure was not built for that world.\r\n\r\nTerminals are dashboards. Backtesting tools are fragmented. Execution systems are separate. Market data is hard to unify. And most platforms still assume the human is the only decision-maker.\r\n\r\nScalar Field changes that.\r\n\r\nWe’re building an agentic trading platform where users can create financial agents that research data, backtest strategies, monitor market events, and trigger trades when specific conditions are met.\r\n\r\nThe long-term vision is agentic ETFs: portfolios created, managed, and rebalanced by agents around any idea, narrative, event, or market signal.\r\n\r\nScalar Field lets users go from thesis to backtest to live portfolio in one place.\r\n\r\nIt is infrastructure for the agentic trading era.\r\n",
+  "one_liner": "Your Agentic Trading Desk — Building the next era of agentic…",
+  "team_size": 3,
+  "industry": "Fintech",
+  "subindustry": "Fintech",
+  "launched_at": 1746086893,
+  "tags": [
+    "Artificial Intelligence",
+    "Fintech",
+    "B2B"
+  ],
+  "tags_highlighted": [],
+  "top_company": false,
+  "isHiring": false,
+  "nonprofit": false,
+  "batch": "Spring 2025",
+  "status": "Active",
+  "industries": [
+    "Fintech"
+  ],
+  "regions": [
+    "Unspecified"
+  ],
+  "stage": "Early",
+  "app_video_public": false,
+  "demo_day_video_public": false,
+  "app_answers": null,
+  "question_answers": false,
+  "url": "https://www.ycombinator.com/companies/scalar-field",
+  "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2025/scalar-field.json"
+}

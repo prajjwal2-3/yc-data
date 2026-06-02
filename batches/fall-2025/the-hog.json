@@ -1,0 +1,38 @@
+{
+  "id": 30986,
+  "name": "The Hog",
+  "slug": "the-hog",
+  "former_names": [
+    "TheHog"
+  ],
+  "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6ba9edbf42a04ad97bf80ea5c1940458e14f3f70.png",
+  "website": "https://thehog.ai/",
+  "all_locations": "",
+  "long_description": "One API to search, enrich, and monitor the web.\r\n\r\nAn agent is only as good as the data it runs on. Most agents and GTM tools today are stuck pulling stale, fragmented data from a dozen different providers, which caps how good their output can ever be. We unify all of it behind one API.\r\n\r\nOne credit-based API covers people data, company data, web search, deep research, news, social signals, and web scraping. Multi-provider waterfall logic routes each call to the best source and falls back automatically, so you get one integration and one bill instead of stitching together Clay, Apollo, Exa, Tavily, and a handful of others.\r\n\r\nWe're building the data layer that agents and GTM teams plug into to find, understand, and reach their customers.",
+  "one_liner": "Real-time web intelligence API for AI agents and GTM teams",
+  "team_size": 2,
+  "industry": "B2B",
+  "subindustry": "B2B -> Marketing",
+  "launched_at": 1761945756,
+  "tags": [],
+  "tags_highlighted": [],
+  "top_company": false,
+  "isHiring": true,
+  "nonprofit": false,
+  "batch": "Fall 2025",
+  "status": "Active",
+  "industries": [
+    "B2B",
+    "Marketing"
+  ],
+  "regions": [
+    "Unspecified"
+  ],
+  "stage": "Early",
+  "app_video_public": false,
+  "demo_day_video_public": false,
+  "app_answers": null,
+  "question_answers": false,
+  "url": "https://www.ycombinator.com/companies/the-hog",
+  "api": "https://prajjwal2-3.github.io/yc-data/batches/fall-2025/the-hog.json"
+}

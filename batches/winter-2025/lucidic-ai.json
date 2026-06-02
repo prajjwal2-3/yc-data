@@ -1,0 +1,42 @@
+{
+  "id": 30272,
+  "name": "Lucidic AI",
+  "slug": "lucidic-ai",
+  "former_names": [],
+  "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/070d8df8755a600f5ecf800f273f60a2cfa54bb0.png",
+  "website": "https://lucidic.ai",
+  "all_locations": "San Francisco, CA, USA",
+  "long_description": "Lucidic AI helps enterprises train AI agents without changing model weights. Frontier models are powerful, but they are still general-purpose; they do not automatically understand how a specific company operates. Lucidic creates a training layer that adapts agents to a company’s real business environment through simulations.",
+  "one_liner": "AI Agent Training via Simulations",
+  "team_size": null,
+  "industry": "B2B",
+  "subindustry": "B2B",
+  "launched_at": 1736904770,
+  "tags": [
+    "AIOps",
+    "Artificial Intelligence",
+    "Developer Tools",
+    "SaaS",
+    "Automation"
+  ],
+  "tags_highlighted": [],
+  "top_company": false,
+  "isHiring": false,
+  "nonprofit": false,
+  "batch": "Winter 2025",
+  "status": "Active",
+  "industries": [
+    "B2B"
+  ],
+  "regions": [
+    "United States of America",
+    "America / Canada"
+  ],
+  "stage": "Early",
+  "app_video_public": false,
+  "demo_day_video_public": false,
+  "app_answers": null,
+  "question_answers": false,
+  "url": "https://www.ycombinator.com/companies/lucidic-ai",
+  "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2025/lucidic-ai.json"
+}

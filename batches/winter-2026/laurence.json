@@ -1,0 +1,37 @@
+{
+  "id": 31173,
+  "name": "Laurence",
+  "slug": "laurence",
+  "former_names": [],
+  "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/853a7c6c871be155796217e789ab83fe95978b02.png",
+  "website": "https://laurence.com",
+  "all_locations": "New York City, NY, USA",
+  "long_description": "Advertising today is like trading in the 1980s pits: archaic, manual, and iterative guesswork. Humans update bids and keywords with noisy, delayed data using simple if-else rules that both break at scale and ignore stochasticity.\r\n\r\nLaurence advertises like modern hedge funds trade markets, driving a 15-40% improvement in net profit for Amazon brands within a month of onboarding.",
+  "one_liner": "Hedge fund for ads",
+  "team_size": 2,
+  "industry": "B2B",
+  "subindustry": "B2B -> Analytics",
+  "launched_at": 1767919574,
+  "tags": [],
+  "tags_highlighted": [],
+  "top_company": false,
+  "isHiring": false,
+  "nonprofit": false,
+  "batch": "Winter 2026",
+  "status": "Active",
+  "industries": [
+    "B2B",
+    "Analytics"
+  ],
+  "regions": [
+    "United States of America",
+    "America / Canada"
+  ],
+  "stage": "Early",
+  "app_video_public": false,
+  "demo_day_video_public": false,
+  "app_answers": null,
+  "question_answers": false,
+  "url": "https://www.ycombinator.com/companies/laurence",
+  "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2026/laurence.json"
+}

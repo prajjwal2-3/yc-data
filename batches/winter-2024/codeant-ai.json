@@ -1,0 +1,41 @@
+{
+  "id": 29368,
+  "name": "CodeAnt AI",
+  "slug": "codeant-ai",
+  "former_names": [],
+  "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9efd3b7815df44b6aca06023be3c607e3a345ee5.png",
+  "website": "https://codeant.ai/",
+  "all_locations": "San Francisco, CA, USA",
+  "long_description": "CodeAnt AI attacks your systems the way a real adversary would, then it walks back into your code and helps you build the defenses exactly where the attack got through.\r\n\r\nContinuous attack. Continuous defense. One self-learning platform.\r\n\r\nTrigger a free pentest No engagement fee. Pay only if we find high or critical issues; low and medium issues are free.",
+  "one_liner": "Autonomous offensive and defensive security platform",
+  "team_size": 25,
+  "industry": "B2B",
+  "subindustry": "B2B -> Engineering, Product and Design",
+  "launched_at": 1700644508,
+  "tags": [
+    "Cybersecurity"
+  ],
+  "tags_highlighted": [],
+  "top_company": false,
+  "isHiring": true,
+  "nonprofit": false,
+  "batch": "Winter 2024",
+  "status": "Active",
+  "industries": [
+    "B2B",
+    "Engineering, Product and Design"
+  ],
+  "regions": [
+    "United States of America",
+    "America / Canada",
+    "Remote",
+    "Partly Remote"
+  ],
+  "stage": "Early",
+  "app_video_public": false,
+  "demo_day_video_public": false,
+  "app_answers": null,
+  "question_answers": false,
+  "url": "https://www.ycombinator.com/companies/codeant-ai",
+  "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2024/codeant-ai.json"
+}

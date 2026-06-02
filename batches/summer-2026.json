@@ -1,0 +1,292 @@
+[
+  {
+    "id": 31216,
+    "name": "Archal",
+    "slug": "archal",
+    "former_names": [
+      "Archal Labs"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d5457b412312bd26ecc72ccead99d16248cd087a.png",
+    "website": "https://www.archal.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Archal lets you test agents and code that touch third-party APIs without hitting the real services. We build working clones of popular SaaS platforms that hold state across requests and behave like the originals, so you catch bugs before your agent does something irreversible in production.",
+    "one_liner": "The eval platform for autonomous software",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1776709029,
+    "tags": [
+      "Developer Tools",
+      "API",
+      "Infrastructure",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/archal",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2026/archal.json"
+  },
+  {
+    "id": 31259,
+    "name": "Tsenta",
+    "slug": "tsenta",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5670afa2f39d71d15be15ed4c56ae5e0a65dbea4.png",
+    "website": "https://tsenta.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Tsenta matches you with jobs, optimizes your profile & applies on your behalf. We have:\r\n➙ a web app ➙ an imessage bot ➙ an MCP ➙ a chrome extension, giving you control over every application being submitted.\r\n\r\nWe built Tsenta after applying to over 3,000 jobs manually, so that nobody else would have to.\r\n\r\nCheck us out at https://tsenta.com :)",
+    "one_liner": "We match you with jobs and apply automatically",
+    "team_size": 2,
+    "industry": "Consumer",
+    "subindustry": "Consumer -> Job and Career Services",
+    "launched_at": 1769729252,
+    "tags": [
+      "Artificial Intelligence",
+      "Consumer",
+      "Recruiting",
+      "HR Tech"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "Consumer",
+      "Job and Career Services"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": true,
+    "url": "https://www.ycombinator.com/companies/tsenta",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2026/tsenta.json"
+  },
+  {
+    "id": 31261,
+    "name": "Control Seat",
+    "slug": "control-seat",
+    "former_names": [
+      "C42"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c9fbf6b23216653c383d7f0caea2def1b673a3a5.png",
+    "website": "https://www.controlseat.com",
+    "all_locations": "",
+    "long_description": "",
+    "one_liner": "Control and Monitoring of Industrial Operations",
+    "team_size": 2,
+    "industry": "Industrials",
+    "subindustry": "Industrials",
+    "launched_at": 1777448165,
+    "tags": [
+      "Workflow Automation",
+      "Monitoring",
+      "Industrial"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "Industrials"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/control-seat",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2026/control-seat.json"
+  },
+  {
+    "id": 32155,
+    "name": "Rex",
+    "slug": "rex-inc",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b14c16514ac7654483b96e54e1bf49a45714e8f6.png",
+    "website": "https://www.rex.inc",
+    "all_locations": "London, United Kingdom",
+    "long_description": "Rex is an AI-native service for order to cash. We replace people-heavy operations with AI agents that continuously manage invoices, customers and exceptions.\r\n\r\nOrder to cash is a $60B outsourced function because the work is too messy for traditional automation. Every customer has different context, exceptions do not follow clean rules, and the next step is often buried in emails, portals, handoffs, or someone’s memory. Rex agents run continuously in the background and resolve work to SLA standards so cash keeps moving. We're live with pre-IPO tech companies, managing  >$500m in receivables from F100 companies, cutting manual follow-up cycles from weeks to hours.\r\n\r\nWe founded Rex after spending four years building Sequence, an a16z-backed finance ops platform, from zero to Series A — where we saw firsthand that at-scale, O2C still runs on manual labour.\r\n\r\nRex is the #1 winner of the Vercel AI Accelerator out of 2,500 teams, selected by Guillermo Rauch and leaders from OpenAI, Anthropic, Browserbase and more.",
+    "one_liner": "AI Operations Partner for Enterprise Order to Cash",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Finance and Accounting",
+    "launched_at": 1779903831,
+    "tags": [
+      "B2B",
+      "Enterprise Software",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Finance and Accounting"
+    ],
+    "regions": [
+      "United Kingdom",
+      "Europe"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/rex-inc",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2026/rex-inc.json"
+  },
+  {
+    "id": 32194,
+    "name": "GUILD",
+    "slug": "guild",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/efd3ccc04f842f9a3a1235ba1ef66aa4447fc993.png",
+    "website": "https://www.guildai.co",
+    "all_locations": "New York, NY, USA",
+    "long_description": "GUILD is a Neoprime contractor automating defense supply chain end-to-end by vertically integrating with our supplier partners.\r\n\r\nWe integrate artificial intelligence, contracting operations, and capital to source, fund, produce, and deliver defense contracts end-to-end.\r\n\r\nOperating across the U.S. and NATO markets, we bridge global manufacturing capacity with defense demand and execute with the speed and precision of an AI-driven system.\r\n\r\nOur mission is to build a modern, new generation defense contracting institution where technology and production operate as one.",
+    "one_liner": "Neoprime Reshaping Defense Supply Chain",
+    "team_size": 2,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Defense",
+    "launched_at": 1778869862,
+    "tags": [
+      "Artificial Intelligence",
+      "GovTech",
+      "Compliance",
+      "Manufacturing",
+      "Supply Chain"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Defense"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/guild",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2026/guild.json"
+  },
+  {
+    "id": 32227,
+    "name": "Context.dev",
+    "slug": "contextdev",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fe20b06c889ed9f1a1b7d9b0ecf522c8e057d68b.png",
+    "website": "https://context.dev",
+    "all_locations": "New York City, NY, USA",
+    "long_description": "Context.dev provides AI agents and software products with realtime web context at scale through a single API layer. \r\n\r\nInstead of stitching together multiple providers for crawling, markdown extraction, brand data, images, sitemaps, style guides, enrichment, and other web data needs, teams can use Context.dev to turn websites, companies, brands, and people into clean, structured, token-optimized context. \r\n\r\nWe help developers build smarter agents, personalization workflows, sales and marketing tools, design automation, and B2B SaaS products that depend on accurate, fresh web data.",
+    "one_liner": "We give AI agents realtime web context.",
+    "team_size": 1,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1780323126,
+    "tags": [
+      "B2B",
+      "APIs"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/contextdev",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2026/contextdev.json"
+  },
+  {
+    "id": 32230,
+    "name": "Codag",
+    "slug": "codag",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0a9882f0ac224b2b32ff0636a2c28986acf45c0d.png",
+    "website": "https://codag.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "",
+    "one_liner": "Systems log compression for agents.",
+    "team_size": 1,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1779593681,
+    "tags": [
+      "Developer Tools"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/codag",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2026/codag.json"
+  }
+]
