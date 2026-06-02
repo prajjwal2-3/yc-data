@@ -3861,18 +3861,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b7203ae9cb780218b08e159ff4d1da47aae0c79a.png",
     "website": "https://conduit.ai/?utm_source=referral&utm_medium=organic&utm_campaign=ycombinator",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Conduit is the AI agent platform that drives conversational outcomes across support and sales.\r\n\r\nCustomer conversations are the backbone of every business. Consumer businesses spend nearly a third of their working hours calling and texting customers. Conduit turns those conversations into an engine for conversions, revenue, and cost savings. \r\n\r\nWe enable operators across real estate, financials, and service-based businesses, to build and deploy AI agents that perform better than your best employee. Our modular platform enables automation for the most complex, high-volume conversational workflows.",
-    "one_liner": "Conversational AI agents for Customer Service.",
-    "team_size": 18,
+    "long_description": "Conduit is the leading AI agent platform for hospitality built for operators.\r\n\r\nCustomer conversations are the backbone of every business. Consumer businesses spend nearly a third of their working hours calling and texting customers. Conduit turns those conversations into an engine for conversions, revenue, and cost savings. \r\n\r\nWe enable operators across real estate, financials, and service-based businesses, to build and deploy AI agents that perform better than your best employee. Our modular platform enables automation for the most complex, high-volume conversational workflows.",
+    "one_liner": "AI Agents for Hospitality",
+    "team_size": 15,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1707775068,
     "tags": [
-      "Artificial Intelligence",
-      "Messaging",
+      "Travel",
       "Sales",
       "Customer Service",
-      "Customer Support"
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -4615,7 +4614,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2025",
     "status": "Active",
@@ -5075,50 +5074,6 @@
     "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2025/geo-ai.json"
   },
   {
-    "id": 30807,
-    "name": "Paloma",
-    "slug": "paloma",
-    "former_names": [
-      "Salesmith"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/59cd4e66e87a2529fc200defa6e386523e11058a.png",
-    "website": "https://getpaloma.ai/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "We unify your contracts, service consumption, and customer relationship context so that your revenue, success and sales teams can operate from the same ground truth. With everything centralized, you can proactively react to customer signals for upsell and churn while billing is seamlessly handled in the background.",
-    "one_liner": "AI-native CRM for putting post-sales operations on autopilot",
-    "team_size": 3,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1754546482,
-    "tags": [
-      "Artificial Intelligence",
-      "SaaS",
-      "Customer Success",
-      "Sales",
-      "Billing"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2025",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/paloma",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2025/paloma.json"
-  },
-  {
     "id": 30932,
     "name": "Leadbay",
     "slug": "leadbay",
@@ -5379,7 +5334,8 @@
     "name": "Gojiberry AI",
     "slug": "gojiberry-ai",
     "former_names": [
-      "GojiberryAI"
+      "GojiberryAI",
+      "Superfruits Inc."
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4a81291bc11ae471a475ddf6ccf1d67360474a8c.png",
     "website": "https://www.gojiberry.ai",
@@ -5391,9 +5347,9 @@
     "subindustry": "B2B -> Sales",
     "launched_at": 1774430148,
     "tags": [
+      "Artificial Intelligence",
       "B2B",
-      "Sales",
-      "AI"
+      "Sales"
     ],
     "tags_highlighted": [],
     "top_company": false,

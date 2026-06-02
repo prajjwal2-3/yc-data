@@ -24570,7 +24570,7 @@
     "slug": "two-dots",
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/06c738449ceac7bc3068c3a0510a285b6078503d.png",
-    "website": "https://www.twodots.net/",
+    "website": "https://www.twodots.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "We're building an AI consumer underwriting automation agent. ",
     "one_liner": "AI fraud prevention and underwriting agent",
@@ -24579,10 +24579,10 @@
     "subindustry": "Fintech -> Consumer Finance",
     "launched_at": 1652906962,
     "tags": [
+      "Artificial Intelligence",
       "Fintech",
       "Real Estate",
       "B2B",
-      "AI",
       "ML"
     ],
     "tags_highlighted": [],
@@ -40858,18 +40858,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fb2a3cdbbb6f4b0b97cc737484c96197f2cb06a5.png",
     "website": "https://archilabs.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "ArchiLabs is building the AI CAD tool for architects and engineers, starting with data center design.",
-    "one_liner": "AI Copilot for Architects",
+    "long_description": "ArchiLabs is building the AI CAD tool for architects and engineers. We focus on use cases like: production homebuilding, modular housing, MEP, fire suppression systems, and more.",
+    "one_liner": "AI CAD for AEC",
     "team_size": 2,
     "industry": "Real Estate and Construction",
     "subindustry": "Real Estate and Construction -> Construction",
     "launched_at": 1732038457,
     "tags": [
-      "Artificial Intelligence",
       "SaaS",
       "Construction",
       "B2B",
-      "Proptech"
+      "Proptech",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -42567,7 +42567,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2025",
     "status": "Active",
@@ -46210,7 +46210,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Fall 2025",
     "status": "Active",
@@ -46708,7 +46708,7 @@
     "website": "https://jarmin.ai/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Jarmin.ai builds AI employees for human-level roles. It learns its responsibilities, understands your data, embeds into your systems, and becomes part of your team's day-to-day workflow. Completely hand over full initiatives or individual tasks.\r\n\r\nHire AI ML Engineers, Account Executives, Paralegals, Financial analysts, Compliance analysts, and more.\r\n\r\nJarmin’s founding team is from Meta SuperIntelligence Labs (Staff Engineers), Apple (Machine Learning Engineer), AWS (scaling infra), Lockheed-Martin (Research), and JPMorganChase (SWE) with experience building AI/ML and automating complex work of Researchers, Data Scientists, ML Engineers with AI.",
-    "one_liner": "AI Employees for Human-level roles",
+    "one_liner": "AI Employees for human-level roles",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B",
@@ -47154,7 +47154,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Winter 2026",
     "status": "Active",
@@ -47526,47 +47526,6 @@
     "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/rudus.json"
   },
   {
-    "id": 31350,
-    "name": "Hexa",
-    "slug": "hexa",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/18de5d109d1472eebb05fe3ee80832938d3c1cef.png",
-    "website": "https://www.hexaagents.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Hexa helps industrial distributors automate their sales and procurement workflows to quote faster and win more bids. ",
-    "one_liner": "The OS for Manufacturers and Distributors",
-    "team_size": 3,
-    "industry": "B2B",
-    "subindustry": "B2B -> Supply Chain and Logistics",
-    "launched_at": 1778807756,
-    "tags": [
-      "B2B",
-      "Workflow Automation",
-      "Supply Chain"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Spring 2026",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Supply Chain and Logistics"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/hexa",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/hexa.json"
-  },
-  {
     "id": 31351,
     "name": "Scope",
     "slug": "scope",
@@ -47574,16 +47533,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6d0e13bdfef2fd20cec6977b8134ca84d57ab225.png",
     "website": "https://tryscope.app",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Scope helps companies understand and improve how AI agents discover and use their product.\r\n\r\nAs more products gets used through AI agents like Claude Code, Codex, Cursor, and similar agents, agents are starting to influence which tools get chosen, how they get set up, and whether they keep getting used. Most companies still cannot see that process clearly.\r\n\r\nWe run real workflows across agents and show teams when the agent picks them versus a competitor, where it breaks, where docs or product surfaces confuse the agent, and what to change to get better results and a better agent experience.\r\n\r\nI started Scope after working on interpretability research for closed-source models at Princeton and later as an ML engineer in GEO/AEO. I kept seeing the same pattern: these systems were shaping real product discovery and usage, but companies had very little visibility into what the model was actually doing.\r\n\r\nWe are starting with products that agents can directly interact with, especially APIs, infra products, CLIs, and MCP servers.",
-    "one_liner": "We make your product discoverable and usable by any AI agent",
+    "long_description": "Scope is the system companies use to measure and improve how agents discover, interact and use their product.\r\n\r\nAs more products gets used through AI agents like Claude Code, Codex, Cursor, and similar agents, agents are starting to influence which tools get chosen, how they get set up, and whether they keep getting used. Most companies still cannot see that process clearly.\r\n\r\nWe run real workflows across agents and show teams when the agent picks them versus a competitor, where it breaks, where docs or product surfaces confuse the agent, and what to change to get better results and a better agent experience.\r\n\r\nI started Scope after working on interpretability research for closed-source models at Princeton and later as an ML engineer in GEO/AEO. I kept seeing the same pattern: these systems were shaping real product discovery and usage, but companies had very little visibility into what the model was actually doing.\r\n\r\nWe are starting with products that agents can directly interact with, especially APIs, infra products, CLIs, and MCP servers.",
+    "one_liner": "The infra layer for AI agent experience. ",
     "team_size": 1,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1778026418,
     "tags": [
+      "Artificial Intelligence",
       "Generative AI",
-      "B2B",
-      "AI"
+      "B2B"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -48165,7 +48124,8 @@
     "name": "Gojiberry AI",
     "slug": "gojiberry-ai",
     "former_names": [
-      "GojiberryAI"
+      "GojiberryAI",
+      "Superfruits Inc."
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4a81291bc11ae471a475ddf6ccf1d67360474a8c.png",
     "website": "https://www.gojiberry.ai",
@@ -48177,9 +48137,9 @@
     "subindustry": "B2B -> Sales",
     "launched_at": 1774430148,
     "tags": [
+      "Artificial Intelligence",
       "B2B",
-      "Sales",
-      "AI"
+      "Sales"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -48246,47 +48206,6 @@
     "question_answers": true,
     "url": "https://www.ycombinator.com/companies/ontora",
     "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/ontora.json"
-  },
-  {
-    "id": 31432,
-    "name": "Keyframe Labs",
-    "slug": "keyframe-labs",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ca6ef21e7c765ce2b9f612cc2ec833a2654c6bd4.png",
-    "website": "https://keyframelabs.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Our real-time, generative models turn AI into lifelike video calls. Deploy in minutes with a few lines of embed code. Photorealism, emotion, and scale for just $0.06 per minute.",
-    "one_liner": "Turn agents into lifelike video calls. $0.06 a minute.",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1774290085,
-    "tags": [
-      "B2B",
-      "Video",
-      "API",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Spring 2026",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/keyframe-labs",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/keyframe-labs.json"
   },
   {
     "id": 31437,
@@ -48379,7 +48298,7 @@
     "name": "Infera",
     "slug": "infera",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/be061afea8007a31da2afafddc3638b0f8cad08a.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e31e68f847b8067b4a5a541fed968e4b0739a6c4.png",
     "website": "https://www.infera.bio",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Describe an experiment in plain English, and Infera turns it into a validated, instrument-ready run across the equipment your lab already uses. Infera handles the protocol logic, vendor-specific scripts, data, inventory, and institutional knowledge in one system. An AI-native compiler for the lab: one system from intent to execution.",
@@ -48457,6 +48376,52 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/datost",
     "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/datost.json"
+  },
+  {
+    "id": 31455,
+    "name": "tday.com",
+    "slug": "tdaycom",
+    "former_names": [
+      "markup.one",
+      "tday"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f86a81778dc5e07789c11e5e11da26417af65703.png",
+    "website": "https://tday.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "tday automatically turns a software company's product into on-brand marketing creative. Connect your product and git repo, and tday generates polished launch videos, social graphics, and ads, the content a team would normally spend hours making in a design tool or pay a freelancer for. tday then publishes the creative and measures how it performs across your social and ad channels, closing the loop from what you ship to what you post.",
+    "one_liner": "AI that turns your product into on-brand marketing content",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B -> Marketing",
+    "launched_at": 1780302406,
+    "tags": [
+      "Generative AI",
+      "B2B",
+      "Design Tools",
+      "Marketing",
+      "Advertising"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Marketing"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/tdaycom",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/tdaycom.json"
   },
   {
     "id": 31481,
@@ -48713,50 +48678,6 @@
     "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/raspire.json"
   },
   {
-    "id": 31497,
-    "name": "Amboras",
-    "slug": "amboras",
-    "former_names": [
-      "Amboras Inc."
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f73132de2e37d734f38e992e57e4ea9a377f28c1.png",
-    "website": "https://amboras.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Amboras puts your entire e-commerce on autopilot. It builds your store, continuously optimizes it, reads your analytics, and learns what converts - all autonomously. No developers. No agencies. No guessing. Today it sells to humans. Tomorrow it sells to AI agents.\r\n",
-    "one_liner": "Let AI sell your stuff on autopilot",
-    "team_size": 3,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1774323217,
-    "tags": [
-      "Generative AI",
-      "B2B",
-      "E-commerce"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Spring 2026",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/amboras",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/amboras.json"
-  },
-  {
     "id": 31510,
     "name": "Auxos",
     "slug": "auxos",
@@ -48764,17 +48685,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e35e07f61bc16ff060889081c97809a3aad66df5.png",
     "website": "https://www.useauxos.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Auxos builds AI customer clones for marketing, product, and research teams to test their hypotheses at scale. We work with companies to create 1:1 replicas of their customers by sourcing and interviewing real people in their ICP, allowing us to accurately model how they behave and make decisions. \r\n\r\nCurrently, market research is too slow and expensive to use on anything but the biggest decisions. Surveys and panels cost a fortune and it takes weeks to recruit, moderate, and gather insights.   \r\n\r\nAuxos provides a 24/7 available customer panel that can give population-scale insights in minutes. The day-to-day decisions surrounding product, pricing, and positioning can now be validated with the same rigor that used to be reserved for the big ones. \r\n",
-    "one_liner": "AI customer clones for market research",
+    "long_description": "Auxos builds AI customer twins for marketing, product, and research teams to test their hypotheses at scale. We work with companies to create 1:1 replicas of their customers by sourcing and interviewing real people in their ICP, allowing us to accurately model how they behave and make decisions. \r\n\r\nCurrently, market research is too slow and expensive to use on anything but the biggest decisions. Surveys and panels cost a fortune and it takes weeks to recruit, moderate, and gather insights.   \r\n\r\nAuxos provides a 24/7 available customer panel that can give population-scale insights in minutes. The day-to-day decisions surrounding product, pricing, and positioning can now be validated with the same rigor that used to be reserved for the big ones. \r\n",
+    "one_liner": "Simulations of real people for market research ",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1778707730,
     "tags": [
+      "Artificial Intelligence",
       "B2B",
       "Marketing",
-      "Market Research",
-      "AI"
+      "Market Research"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -48930,49 +48851,6 @@
     "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/probe.json"
   },
   {
-    "id": 31525,
-    "name": "Arden",
-    "slug": "arden",
-    "former_names": [
-      "Veris"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/66c948c30bb6ef7a235b3bf6ee7bcb0964990077.png",
-    "website": "https://ardentech.ai/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Arden is the AI-native platform for internal audit and SOX teams.\r\n\r\nWe build AI agents that automatically pull evidence from your stack, test controls end-to-end, and produce audit-ready workpapers in minutes instead of weeks.\r\n\r\nInternal audit is a massive but underserved market. Every public company in the US is required to do SOX testing, yet teams still run it through spreadsheets and screenshots. Arden is the engine that does this work.",
-    "one_liner": "AI agents that automate SOX control testing.",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Finance and Accounting",
-    "launched_at": 1778059206,
-    "tags": [
-      "Finance",
-      "B2B",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Spring 2026",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Finance and Accounting"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/arden",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/arden.json"
-  },
-  {
     "id": 31531,
     "name": "Manicule",
     "slug": "manicule",
@@ -49027,16 +48905,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8294685f458783c2fab7247c8fd749f25be5691c.png",
     "website": "https://flowscope.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "flowscope is an AI-native consulting firm that uses agents to learn and document how businesses actually run: who touches what, where it stalls, what's pure repetition. Our agents redesign and automate those processes, shipping AI into production on the company's existing systems. In days, not months.",
+    "long_description": "flowscope is an AI-native consulting firm that uses agents to map companies’ business processes, identify inefficiencies, and deploy AI automations to fix them; doing what consulting firms charge millions for at a fraction of the cost and timeline.",
     "one_liner": "AI-native consulting to map and automate business processes",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1778457195,
     "tags": [
-      "Artificial Intelligence",
       "B2B",
-      "Enterprise Software"
+      "Enterprise Software",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -49058,47 +48936,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/flowscope",
     "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/flowscope.json"
-  },
-  {
-    "id": 31543,
-    "name": "CentralComs",
-    "slug": "centralcoms",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/54ba538a0dd95f0a3b77f6e1bf3245359e03da5f.png",
-    "website": "https://centralcoms.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "CentralComs is building AI Agents for property managers that tracks every maintenance call, chases every open ticket, and keep owners/tenants/vendors updated, so nothing falls through the cracks and operations never stall.\r\n\r\nThese agent work directly inside AppFolio, Buildium, Yardi and your existing stack, making real-time decisions and resolving multi-step workflows without handoffs.",
-    "one_liner": "Property Management AI Agents that automate leasing and maintenance.",
-    "team_size": 0,
-    "industry": "Real Estate and Construction",
-    "subindustry": "Real Estate and Construction -> Housing and Real Estate",
-    "launched_at": 1779989306,
-    "tags": [
-      "Real Estate",
-      "B2B",
-      "Proptech"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Spring 2026",
-    "status": "Active",
-    "industries": [
-      "Real Estate and Construction",
-      "Housing and Real Estate"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/centralcoms",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/centralcoms.json"
   },
   {
     "id": 31544,
@@ -49271,46 +49108,6 @@
     "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/enjamb-labs.json"
   },
   {
-    "id": 31553,
-    "name": "Framewise Health",
-    "slug": "framewise-health",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e7c03ef5bb8c84872c4ee5809b9b3d8f19f80ae0.png",
-    "website": "https://framewisehealth.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "We turn medical records into personalized videos walking patients through onboarding, adherence, and recovery. The engagement data we collect builds our AI-native patient engagement platform for pharma, hospitals, medical devices, and private clinics, so they can stop chasing the patient and spend more time caring for them.",
-    "one_liner": "AI-native patient engagement",
-    "team_size": 2,
-    "industry": "Healthcare",
-    "subindustry": "Healthcare",
-    "launched_at": 1775682737,
-    "tags": [
-      "SaaS",
-      "Health Tech",
-      "B2B"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Spring 2026",
-    "status": "Active",
-    "industries": [
-      "Healthcare"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/framewise-health",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/framewise-health.json"
-  },
-  {
     "id": 31563,
     "name": "Thomas",
     "slug": "thomas",
@@ -49436,5 +49233,45 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/rote",
     "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2027/rote.json"
+  },
+  {
+    "id": 32227,
+    "name": "Context.dev",
+    "slug": "contextdev",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fe20b06c889ed9f1a1b7d9b0ecf522c8e057d68b.png",
+    "website": "https://context.dev",
+    "all_locations": "New York City, NY, USA",
+    "long_description": "Context.dev provides AI agents and software products with realtime web context at scale through a single API layer. \r\n\r\nInstead of stitching together multiple providers for crawling, markdown extraction, brand data, images, sitemaps, style guides, enrichment, and other web data needs, teams can use Context.dev to turn websites, companies, brands, and people into clean, structured, token-optimized context. \r\n\r\nWe help developers build smarter agents, personalization workflows, sales and marketing tools, design automation, and B2B SaaS products that depend on accurate, fresh web data.",
+    "one_liner": "We give AI agents realtime web context.",
+    "team_size": 1,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1780323126,
+    "tags": [
+      "B2B",
+      "APIs"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/contextdev",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2026/contextdev.json"
   }
 ]

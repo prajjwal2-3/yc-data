@@ -3651,7 +3651,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Winter 2022",
     "status": "Active",
@@ -7540,47 +7540,6 @@
     "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/klarify.json"
   },
   {
-    "id": 31383,
-    "name": "Juno",
-    "slug": "juno-chat",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e0c6bb59547978fc3036953e8d43c990c8c000fc.png",
-    "website": "https://junocompanion.com/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Juno is an AI personal health assistant for the 1B+ people living with chronic illness.\r\n\r\nLaunched in October, Juno now supports 90,000+ patients globally and has grown to $70K MRR.",
-    "one_liner": "AI Health Assistant for Chronic Illness",
-    "team_size": 2,
-    "industry": "Healthcare",
-    "subindustry": "Healthcare -> Consumer Health and Wellness",
-    "launched_at": 1776751581,
-    "tags": [
-      "Health Tech",
-      "Health & Wellness",
-      "Consumer Products"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Spring 2026",
-    "status": "Active",
-    "industries": [
-      "Healthcare",
-      "Consumer Health and Wellness"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/juno-chat",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/juno-chat.json"
-  },
-  {
     "id": 31430,
     "name": "Voquill",
     "slug": "voquill",
@@ -7659,45 +7618,5 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/astraea",
     "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/astraea.json"
-  },
-  {
-    "id": 31553,
-    "name": "Framewise Health",
-    "slug": "framewise-health",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e7c03ef5bb8c84872c4ee5809b9b3d8f19f80ae0.png",
-    "website": "https://framewisehealth.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "We turn medical records into personalized videos walking patients through onboarding, adherence, and recovery. The engagement data we collect builds our AI-native patient engagement platform for pharma, hospitals, medical devices, and private clinics, so they can stop chasing the patient and spend more time caring for them.",
-    "one_liner": "AI-native patient engagement",
-    "team_size": 2,
-    "industry": "Healthcare",
-    "subindustry": "Healthcare",
-    "launched_at": 1775682737,
-    "tags": [
-      "SaaS",
-      "Health Tech",
-      "B2B"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Spring 2026",
-    "status": "Active",
-    "industries": [
-      "Healthcare"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/framewise-health",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/framewise-health.json"
   }
 ]

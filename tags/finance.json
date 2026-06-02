@@ -2409,16 +2409,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/952b6381b227fe13913d082e7f9bdec4731e8adb.png",
     "website": "https://www.ehl.markets/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "We operate a platform that automates quantitative research — generating hypotheses, backtesting strategies, and analyzing results. Hundreds of agents run in parallel and learn from what the others discovered. We are building a fund that scales on agents, not researchers.",
-    "one_liner": "AI-native hedge fund using agents to automate quant research—at scale",
+    "long_description": "We are scaling autonomous research, Markets are our verification loop: agents turn hypotheses into strategies, test them, and compound what survives. \r\n",
+    "one_liner": "AI research lab automating all of investing",
     "team_size": 4,
     "industry": "Fintech",
     "subindustry": "Fintech -> Asset Management",
     "launched_at": 1710132587,
     "tags": [
+      "Artificial Intelligence",
       "Finance",
-      "Investing",
-      "AI"
+      "Investing"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -4103,48 +4103,5 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/valctrl",
     "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/valctrl.json"
-  },
-  {
-    "id": 31525,
-    "name": "Arden",
-    "slug": "arden",
-    "former_names": [
-      "Veris"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/66c948c30bb6ef7a235b3bf6ee7bcb0964990077.png",
-    "website": "https://ardentech.ai/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Arden is the AI-native platform for internal audit and SOX teams.\r\n\r\nWe build AI agents that automatically pull evidence from your stack, test controls end-to-end, and produce audit-ready workpapers in minutes instead of weeks.\r\n\r\nInternal audit is a massive but underserved market. Every public company in the US is required to do SOX testing, yet teams still run it through spreadsheets and screenshots. Arden is the engine that does this work.",
-    "one_liner": "AI agents that automate SOX control testing.",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Finance and Accounting",
-    "launched_at": 1778059206,
-    "tags": [
-      "Finance",
-      "B2B",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Spring 2026",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Finance and Accounting"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/arden",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/arden.json"
   }
 ]

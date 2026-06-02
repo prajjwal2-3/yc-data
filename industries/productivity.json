@@ -6475,7 +6475,7 @@
     "website": "https://unify.ai",
     "all_locations": "London, England, United Kingdom; Remote",
     "long_description": "Start with one painful workflow. Give an AI teammate the context. The shared operating layer compounds from there.",
-    "one_liner": "AI teammates for real estate",
+    "one_liner": "Hire AI - Not APIs",
     "team_size": 6,
     "industry": "B2B",
     "subindustry": "B2B -> Productivity",
@@ -9392,7 +9392,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4d42a1203f89ac735d99407d8bc5984bd464fe7d.png",
     "website": "https://silahq.com",
     "all_locations": "New York City, NY, USA",
-    "long_description": "Every great company that has existed and will exist runs on communication. Sila is an agentic messaging & collaboration platform where teams and AI work as one. Where every conversation, every message, every decision makes your entire organization more powerful. We are building the operating system for companies defining the next decade, to make team-AI communication the standard for how the world works.",
+    "long_description": "Sila is an agentic work messaging & collaboration platform where teams and AI work as one. Our mission is to define the standard for how companies will work.",
     "one_liner": "AI Work Messaging & Collaboration Platform",
     "team_size": 2,
     "industry": "B2B",
@@ -9517,17 +9517,14 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/43521ae4f2f9575593c80ebf4f8bf7ce020d70da.png",
     "website": "https://ara.so",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "",
     "long_description": "Ara is the self-driving IDE for software teams. It watches work in progress, suggests the next step, and executes tasks through non-invasive computer use, background agents, memory, and reusable skills. Ara turns coding into a closed loop: suggest, act, learn, improve.",
     "one_liner": "Ara is the self-driving IDE for software teams.",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Productivity",
     "launched_at": 1775160352,
-    "tags": [
-      "Artificial Intelligence",
-      "Developer Tools"
-    ],
+    "tags": [],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": false,
@@ -9539,8 +9536,7 @@
       "Productivity"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "Unspecified"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -9757,18 +9753,14 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/edfe78075967b07a685fa0dfd4fdea085432c035.png",
     "website": "https://heyhyper.ai",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "",
     "long_description": "Hyper is the company brain that \"just works\" for AI-first teams. Hyper silently learns from every update in every tool your team uses -- Notion docs, Claude Code questions, emails, LinkedIn DMs, Cursor sessions, etc. Our agent-driven algorithms update and clean all that information into real-time knowledge that is shared across your entire team. That knowledge is quietly infused into all your existing AI tools on every chat turn, so your whole company gets smarter permanently.",
     "one_liner": "The Self-Driving Company Brain",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Productivity",
     "launched_at": 1778140423,
-    "tags": [
-      "Artificial Intelligence",
-      "Productivity",
-      "Team Collaboration"
-    ],
+    "tags": [],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": false,
@@ -9780,8 +9772,7 @@
       "Productivity"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "Unspecified"
     ],
     "stage": "Early",
     "app_video_public": false,

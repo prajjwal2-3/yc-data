@@ -4390,7 +4390,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Winter 2026",
     "status": "Active",
@@ -4556,9 +4556,9 @@
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1768432806,
     "tags": [
-      "Artificial Intelligence",
       "Data Labeling",
-      "Infrastructure"
+      "Infrastructure",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -4802,56 +4802,15 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/561de55fc1ba8b5c7254d0ad9eed2d656139b041.png",
     "website": "https://zibralabs.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "We build distributed compute clusters with the cheapest CPUs and GPUs across Hyperscalers and Neoclouds for AI. Our mission is to bring frontier-grade infrastructure to everyone.\r\n\r\nWe believe the bottleneck isn't just GPU availability, but effective utilization by the infrastructure software that runs on it.\r\n\r\nWe're starting by building large scale high performance computing (HPC) clusters for quantitative trading firms to run parallel simulation workloads such as backtesting. \r\n\r\nOur technology generalizes to critical AI workloads such as post-training with reinforcement learning, fine-tuning, long-horizon agents with high tool use, and batch inference.",
+    "long_description": "We build distributed compute clusters with the cheapest CPUs and GPUs across Hyperscalers and Neoclouds for AI. Our mission is to bring frontier-grade infrastructure to everyone.\r\n\r\nWe're starting by building large scale high performance computing (HPC) clusters for quantitative trading firms to run parallel simulation workloads such as backtesting. \r\n\r\nOur technology generalizes to critical AI workloads such as post-training with reinforcement learning, fine-tuning, long-horizon agents with high tool use, and batch inference.",
     "one_liner": "Distributed Compute for AI",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1777682633,
     "tags": [
-      "Artificial Intelligence",
       "Fintech",
       "Cloud Computing",
-      "Infrastructure"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Spring 2026",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Infrastructure"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/zibra-labs",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/zibra-labs.json"
-  },
-  {
-    "id": 31475,
-    "name": "Ardent",
-    "slug": "ardent",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f4ef54cc2ae204ad4ac662f9bfacf6a3fa6faf47.png",
-    "website": "https://tryardent.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Clone any postgres DB regardless of size in 6s so agents can test their work",
-    "one_liner": "Database sandboxes for Agents",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Infrastructure",
-    "launched_at": 1775685642,
-    "tags": [
-      "Data Engineering",
       "Infrastructure",
       "AI"
     ],
@@ -4874,8 +4833,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/ardent",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/ardent.json"
+    "url": "https://www.ycombinator.com/companies/zibra-labs",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/zibra-labs.json"
   },
   {
     "id": 31507,
