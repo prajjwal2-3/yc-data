@@ -2747,58 +2747,6 @@
     "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2023/linkgrep.json"
   },
   {
-    "id": 27843,
-    "name": "Gooseworks",
-    "slug": "gooseworks",
-    "former_names": [
-      "Magik Labs",
-      "Magik Labs - Fast Web3 Checkout",
-      "Magik Labs - Fast NFT Checkout",
-      "Magik Labs",
-      "Magik",
-      "Athina AI"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/be25b5e55711ba973cd7f6c514b56a10ab3da20e.png",
-    "website": "https://gooseworks.ai/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Goose is an AI coworker that can do real GTM work. Goose can find high-signal leads, run your SEO, run outbound campaigns, track competitors, pull marketing reports, manage your CRM and much more.\r\n\r\nGoose has its own filesystem, memories, mailbox and accounts. You can talk to Goose from Slack, Telegram, mail or anywhere just like any other coworker, and ask it to get work done.",
-    "one_liner": "OpenClaw-style AI coworkers for GTM teams",
-    "team_size": 5,
-    "industry": "B2B",
-    "subindustry": "B2B -> Marketing",
-    "launched_at": 1667592357,
-    "tags": [
-      "Artificial Intelligence",
-      "Sales",
-      "Marketing",
-      "AI",
-      "AI Assistant"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Winter 2023",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Marketing"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/gooseworks",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2023/gooseworks.json"
-  },
-  {
     "id": 27852,
     "name": "Frigade",
     "slug": "frigade",
@@ -5829,49 +5777,6 @@
     "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2025/rebolt.json"
   },
   {
-    "id": 30337,
-    "name": "Paratus Health",
-    "slug": "paratus-health",
-    "former_names": [
-      "Paratus"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fcaf4d4e89631a63bee94c1af531a630ac0f1858.png",
-    "website": "https://paratushealth.com/",
-    "all_locations": "Menlo Park, CA, USA",
-    "long_description": "Paratus Health is the AI operations layer for outpatient clinics. We build autonomous agents that don’t just assist staff - they replace them, fully handling front desk calls, patient intake, insurance verification, documentation, and billing prep. Everything is deeply integrated into EHRs like Epic and Athena, eliminating the need for fragmented tools and manual work.\r\nNo toggling between systems. No busywork. Just one intelligent system running your clinical operations - faster, smarter, and more profitably than ever before.",
-    "one_liner": "Medical Voice Agents for Patient Management",
-    "team_size": 6,
-    "industry": "Healthcare",
-    "subindustry": "Healthcare -> Healthcare IT",
-    "launched_at": 1739954707,
-    "tags": [
-      "Digital Health",
-      "Healthcare IT",
-      "AI Assistant"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Winter 2025",
-    "status": "Active",
-    "industries": [
-      "Healthcare",
-      "Healthcare IT"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": true,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/paratus-health",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2025/paratus-health.json"
-  },
-  {
     "id": 30355,
     "name": "assistant-ui",
     "slug": "assistant-ui",
@@ -6961,7 +6866,7 @@
     "website": "https://userlens.io",
     "all_locations": "Helsinki, Finland",
     "long_description": "Most B2B churn is preventable - most teams just see it too late. \r\n\r\nBy the time a CSM notices, the champion has already quietly disengaged, key features went unadopted, and the renewal conversation is damage control. The dangerous part? The customer might still be logging in, but they've stopped using what actually matters. \r\n\r\nUserlens catches all of that months earlier.\r\n\r\nOur AI agents monitor every user at every account the way your best CSM watches your top five strategic accounts:\r\n- feature adoption\r\n- usage trends\r\n- champion engagement\r\n- sentiment shifts in Slack and Intercom\r\n- open support issues. \r\n\r\nWhen a signal hits (churn risk, renewal, expansion opportunity), Userlens doesn't just alert you. It builds the talking points and deck on top of your team's approved templates and playbook. If you have CSMs, Userlens makes every one of them your best. If you don't have one yet, Userlens runs your book like the best CSM money could buy.",
-    "one_liner": "AI CSM that never misses churn and upsells. ",
+    "one_liner": "First ever Agentic CSMs to upsell & renew 6+ figure deals.",
     "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B -> Productivity",
@@ -7077,6 +6982,54 @@
     "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/datost.json"
   },
   {
+    "id": 31466,
+    "name": "Walter",
+    "slug": "walter",
+    "former_names": [
+      "Lobster AI",
+      "Vaulter",
+      "Vaulter Technologies",
+      "Vaulter"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/32ab6a53db384b8f8c669e8396a088094060b64a.png",
+    "website": "https://www.walter.one",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Walter is an AI employee for manufacturing operations.",
+    "one_liner": "AI Employee for Manufacturing Operations",
+    "team_size": 0,
+    "industry": "B2B",
+    "subindustry": "B2B -> Operations",
+    "launched_at": 1779919838,
+    "tags": [
+      "Artificial Intelligence",
+      "Manufacturing",
+      "Automation",
+      "AI Assistant",
+      "Industrial"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Operations"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/walter",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/walter.json"
+  },
+  {
     "id": 31500,
     "name": "OpenProse",
     "slug": "openprose",
@@ -7120,5 +7073,47 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/openprose",
     "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/openprose.json"
+  },
+  {
+    "id": 32195,
+    "name": "RealPact",
+    "slug": "realpact",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0066aaeaa91920faf3f4b4ee35ce9e7c2bc99740.png",
+    "website": "https://realpact.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "RealPact builds AI agents that handle the paperwork behind real estate transactions. They find property records like deeds, tax records, permits, parcel data, and MLS information, then use that data to fill out contracts, organize documents, track deadlines, and help brokerages close deals faster.\r\n\r\nWe currently sell to brokerages in New Hampshire and are expanding quickly.",
+    "one_liner": "AI-native OS for Real Estate Brokerages",
+    "team_size": 3,
+    "industry": "Real Estate and Construction",
+    "subindustry": "Real Estate and Construction -> Housing and Real Estate",
+    "launched_at": 1780455733,
+    "tags": [
+      "Real Estate",
+      "Enterprise Software",
+      "AI",
+      "AI Assistant"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "Real Estate and Construction",
+      "Housing and Real Estate"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/realpact",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2026/realpact.json"
   }
 ]

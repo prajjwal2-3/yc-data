@@ -2664,58 +2664,6 @@
     "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2023/bluebirds.json"
   },
   {
-    "id": 27843,
-    "name": "Gooseworks",
-    "slug": "gooseworks",
-    "former_names": [
-      "Magik Labs",
-      "Magik Labs - Fast Web3 Checkout",
-      "Magik Labs - Fast NFT Checkout",
-      "Magik Labs",
-      "Magik",
-      "Athina AI"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/be25b5e55711ba973cd7f6c514b56a10ab3da20e.png",
-    "website": "https://gooseworks.ai/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Goose is an AI coworker that can do real GTM work. Goose can find high-signal leads, run your SEO, run outbound campaigns, track competitors, pull marketing reports, manage your CRM and much more.\r\n\r\nGoose has its own filesystem, memories, mailbox and accounts. You can talk to Goose from Slack, Telegram, mail or anywhere just like any other coworker, and ask it to get work done.",
-    "one_liner": "OpenClaw-style AI coworkers for GTM teams",
-    "team_size": 5,
-    "industry": "B2B",
-    "subindustry": "B2B -> Marketing",
-    "launched_at": 1667592357,
-    "tags": [
-      "Artificial Intelligence",
-      "Sales",
-      "Marketing",
-      "AI",
-      "AI Assistant"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Winter 2023",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Marketing"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/gooseworks",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2023/gooseworks.json"
-  },
-  {
     "id": 27854,
     "name": "Suger",
     "slug": "suger",
@@ -3861,7 +3809,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b7203ae9cb780218b08e159ff4d1da47aae0c79a.png",
     "website": "https://conduit.ai/?utm_source=referral&utm_medium=organic&utm_campaign=ycombinator",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Conduit is the leading AI agent platform for hospitality built for operators.\r\n\r\nCustomer conversations are the backbone of every business. Consumer businesses spend nearly a third of their working hours calling and texting customers. Conduit turns those conversations into an engine for conversions, revenue, and cost savings. \r\n\r\nWe enable operators across real estate, financials, and service-based businesses, to build and deploy AI agents that perform better than your best employee. Our modular platform enables automation for the most complex, high-volume conversational workflows.",
+    "long_description": "Conduit is the leading AI agent platform for hospitality operations.\r\n\r\nOperators can create, test, and run AI agents on Conduit's harness purpose built for hospitality. On-brand agents handles the full guest journey, converting inquiries into bookings and driving upsell revenue, then runs internal operations and surfaces insights for leadership. All connected to the systems operators already use. \r\n\r\nTrusted by over 1000+ global hospitality brands across 120+ countries.",
     "one_liner": "AI Agents for Hospitality",
     "team_size": 15,
     "industry": "B2B",
@@ -4342,11 +4290,11 @@
     "name": "Verbiflow",
     "slug": "verbiflow",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1bd29bf3ae78d877579bc04ed995435a51eec466.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/61dac6c9c5fd565ee458bdaddc5acb67c824ccd3.png",
     "website": "https://verbiflow.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Research on autopilot. Discover, Qualify & Engage your market.",
-    "one_liner": "People search that works",
+    "long_description": "We help startups reach prospective customers through email, LinkedIn, and cold calls, while keeping your team aligned on every conversation and response.",
+    "one_liner": "Outbound Sequencing Infrastructure for Startups",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
@@ -4591,6 +4539,50 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/openintake",
     "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2025/openintake.json"
+  },
+  {
+    "id": 30337,
+    "name": "Paratus Health",
+    "slug": "paratus-health",
+    "former_names": [
+      "Paratus"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fcaf4d4e89631a63bee94c1af531a630ac0f1858.png",
+    "website": "https://paratushealth.com/",
+    "all_locations": "Menlo Park, CA, USA",
+    "long_description": "We're the first GTM data platform built for selling into healthcare. If you sell to clinics, hospitals, or providers, you know the problem: public healthcare data is messy, contacts go stale fast, and reps burn hours on lists that bounce. We clean it, enrich it with live web data, and layer on buying signals that surface which practices are actually in pain and ready to buy - so you get accurate, ready-to-call lists without building your own data team. And we're just getting started: more data sources, more signals, and deeper coverage are shipping fast. Want to see it on your ICP? Reach out and we'll pull you a sample list.\r\n",
+    "one_liner": "The first healthcare GTM data platform",
+    "team_size": 2,
+    "industry": "Healthcare",
+    "subindustry": "Healthcare -> Healthcare IT",
+    "launched_at": 1739954707,
+    "tags": [
+      "Sales",
+      "Sales Enablement",
+      "Digital Health",
+      "Healthcare IT"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2025",
+    "status": "Active",
+    "industries": [
+      "Healthcare",
+      "Healthcare IT"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": true,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/paratus-health",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2025/paratus-health.json"
   },
   {
     "id": 30339,

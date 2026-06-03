@@ -8710,7 +8710,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Pulse converts complex information into LLM-ready inputs. Our API supports all document formats, from PDFs to Word, Excel, etc. Pulse integrates seamlessly with any existing data pipeline in minutes without any training or complexity. ",
     "one_liner": "Production-grade unstructured document extraction",
-    "team_size": 20,
+    "team_size": 9,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1720821338,
@@ -11188,7 +11188,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Luel is a sourcing and licensing platform for rights-cleared multimodal training data at scale. We work with frontier AI teams to provide high-quality bespoke data collections and off-the-shelf datasets.",
     "one_liner": "Turning everyday words and actions into usable training data.",
-    "team_size": 2,
+    "team_size": 12,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1763965677,
@@ -11873,9 +11873,9 @@
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1768432806,
     "tags": [
+      "Artificial Intelligence",
       "Data Labeling",
-      "Infrastructure",
-      "AI"
+      "Infrastructure"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -11911,16 +11911,16 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Building the communication infrastructure needed for fully autonomous agents",
     "one_liner": "Communication for agents",
-    "team_size": 3,
+    "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1773121787,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "Automation",
       "Email",
-      "Infrastructure"
+      "Infrastructure",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,

@@ -5931,7 +5931,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Summer 2023",
     "status": "Active",
@@ -7062,7 +7062,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1e885d9503dffbb01e24f5bd3a78965979764099.png",
     "website": "https://www.frekil.com",
-    "all_locations": "Bengaluru, India",
+    "all_locations": "San Francisco, CA, USA",
     "long_description": "Today, it takes months to understand how drugs perform in the real world, delaying safety insights and leaving patients exposed to unknown risks and benefits for far too long. Frekil turns that months-long process into minutes, with full auditability and scientific rigor.\r\n\r\nFrekil accelerates real world evidence (RWE) generation for life sciences companies on their own clinical data from months to minutes. It connects to fragmented clinical data (EHR, Claims, etc.) and lets teams run end-to-end studies from study design, cohort extraction to SAP, statistical analysis, and final reports.",
     "one_liner": "RWE Generation in minutes",
     "team_size": 2,
@@ -7070,11 +7070,11 @@
     "subindustry": "Healthcare",
     "launched_at": 1744440110,
     "tags": [
+      "Artificial Intelligence",
       "Health Tech",
       "B2B",
       "Biotech",
-      "Healthcare",
-      "AI"
+      "Healthcare"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -7086,8 +7086,8 @@
       "Healthcare"
     ],
     "regions": [
-      "India",
-      "South Asia"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -7193,45 +7193,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/nori",
     "api": "https://prajjwal2-3.github.io/yc-data/batches/fall-2025/nori.json"
-  },
-  {
-    "id": 30666,
-    "name": "CareSwift",
-    "slug": "careswift",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f57117138aa46056d21a2d0bd92569a3da39e148.png",
-    "website": "https://www.careswift.com/",
-    "all_locations": "New York, NY, USA",
-    "long_description": "CareSwift is a real-time AI assistant built directly into ambulance reporting systems, guiding medics as they document care and instantly flagging errors. Crews complete accurate, compliant reports in under three minutes, cutting documentation time by 80 percent and helping agencies avoid insurance claim denials. Ambulance crews lose valuable time completing reports after each call. Even minor mistakes cause insurance claims to be rejected. ",
-    "one_liner": "AI scribe for Ambulance Reports",
-    "team_size": 2,
-    "industry": "Healthcare",
-    "subindustry": "Healthcare",
-    "launched_at": 1751153734,
-    "tags": [
-      "Artificial Intelligence",
-      "Health Tech"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Summer 2025",
-    "status": "Active",
-    "industries": [
-      "Healthcare"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/careswift",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2025/careswift.json"
   },
   {
     "id": 30681,

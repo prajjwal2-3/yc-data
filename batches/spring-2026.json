@@ -604,14 +604,19 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/84622897534f7613d85e63267d30b56cc2f7e6df.png",
     "website": "https://9mothers.com",
-    "all_locations": "",
-    "long_description": "We are making AI weapon systems for the modern battlefield.\r\n\r\nOur first product EDDA is a small, low power, low cost fully autonomous-capable counter drone system. It's designed to be used on vehicles, bases, or carried - to stop group 1 suicide drones.",
-    "one_liner": "AI weapon systems",
-    "team_size": null,
+    "all_locations": "Austin, TX, USA",
+    "long_description": "We are making AI mission systems for the modern battlefield.\r\n\r\nOur first product - EDDA - is a small, low power, low cost fully autonomous-capable counter drone system. It's designed to be used on vehicles, bases, or carried - to stop group 1 suicide drones. We have multiple contracts, sales, etc.\r\n\r\nWe have 3 more products with demand in various stages of development.\r\n\r\nMore details at https://9mothers.com",
+    "one_liner": "AI mission systems",
+    "team_size": 18,
     "industry": "Industrials",
     "subindustry": "Industrials -> Defense",
     "launched_at": 1772383071,
-    "tags": [],
+    "tags": [
+      "Hard Tech",
+      "Hardware",
+      "Aerospace",
+      "Industrial"
+    ],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": true,
@@ -623,7 +628,8 @@
       "Defense"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -1098,16 +1104,16 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Building the communication infrastructure needed for fully autonomous agents",
     "one_liner": "Communication for agents",
-    "team_size": 3,
+    "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1773121787,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "Automation",
       "Email",
-      "Infrastructure"
+      "Infrastructure",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -1516,7 +1522,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Scope is the system companies use to measure and improve how agents discover, interact and use their product.\r\n\r\nAs more products gets used through AI agents like Claude Code, Codex, Cursor, and similar agents, agents are starting to influence which tools get chosen, how they get set up, and whether they keep getting used. Most companies still cannot see that process clearly.\r\n\r\nWe run real workflows across agents and show teams when the agent picks them versus a competitor, where it breaks, where docs or product surfaces confuse the agent, and what to change to get better results and a better agent experience.\r\n\r\nI started Scope after working on interpretability research for closed-source models at Princeton and later as an ML engineer in GEO/AEO. I kept seeing the same pattern: these systems were shaping real product discovery and usage, but companies had very little visibility into what the model was actually doing.\r\n\r\nWe are starting with products that agents can directly interact with, especially APIs, infra products, CLIs, and MCP servers.",
     "one_liner": "The infra layer for AI agent experience. ",
-    "team_size": 1,
+    "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1778026418,
@@ -1883,6 +1889,49 @@
     "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/andustry.json"
   },
   {
+    "id": 31368,
+    "name": "Zenbu",
+    "slug": "zenbu-2",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/cac51a9c6d5e214ddcaeb4498d21b0b6a8e87e58.png",
+    "website": "https://www.zenbu.dev/",
+    "all_locations": "San Francisco, CA, USA; Remote",
+    "long_description": "Zenbu is an extensible IDE for orchestrating coding agents. Shape it around exactly how you and your team work.",
+    "one_liner": "The extensible IDE for coding agents",
+    "team_size": 1,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1780458165,
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "Open Source"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Fully Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/zenbu-2",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/zenbu-2.json"
+  },
+  {
     "id": 31369,
     "name": "InLoop Robotics",
     "slug": "inloop-robotics",
@@ -2011,7 +2060,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Trellis is building toward a new hospitality platform: one that does not just help guests find homes, but actually operates them with agents. \r\n\r\nOur first wedge is short-term rental property managers, replacing their fragmented stack across guest messages, tasks, cleaners, maintenance, vendors, and owner updates with agents that run operations end-to-end. \r\n\r\nIn two months, we’ve grown to $500k ARR across 35 customers and 3000 listings, growing around 15% week over week, with one customer already running day-to-day operations with no human involved.",
     "one_liner": "The platform where short-term rentals run themselves",
-    "team_size": 6,
+    "team_size": 5,
     "industry": "B2B",
     "subindustry": "B2B -> Operations",
     "launched_at": 1775519659,
@@ -2052,7 +2101,7 @@
     "one_liner": "AI Agents for Analog Circuit Design",
     "team_size": 3,
     "industry": "B2B",
-    "subindustry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1774743443,
     "tags": [
       "Artificial Intelligence",
@@ -2068,7 +2117,8 @@
     "batch": "Spring 2026",
     "status": "Active",
     "industries": [
-      "B2B"
+      "B2B",
+      "Engineering, Product and Design"
     ],
     "regions": [
       "United States of America",
@@ -2976,7 +3026,7 @@
     "website": "https://userlens.io",
     "all_locations": "Helsinki, Finland",
     "long_description": "Most B2B churn is preventable - most teams just see it too late. \r\n\r\nBy the time a CSM notices, the champion has already quietly disengaged, key features went unadopted, and the renewal conversation is damage control. The dangerous part? The customer might still be logging in, but they've stopped using what actually matters. \r\n\r\nUserlens catches all of that months earlier.\r\n\r\nOur AI agents monitor every user at every account the way your best CSM watches your top five strategic accounts:\r\n- feature adoption\r\n- usage trends\r\n- champion engagement\r\n- sentiment shifts in Slack and Intercom\r\n- open support issues. \r\n\r\nWhen a signal hits (churn risk, renewal, expansion opportunity), Userlens doesn't just alert you. It builds the talking points and deck on top of your team's approved templates and playbook. If you have CSMs, Userlens makes every one of them your best. If you don't have one yet, Userlens runs your book like the best CSM money could buy.",
-    "one_liner": "AI CSM that never misses churn and upsells. ",
+    "one_liner": "First ever Agentic CSMs to upsell & renew 6+ figure deals.",
     "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B -> Productivity",
@@ -3564,8 +3614,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0f3c20c1d636f955e4a6afb30207ec372d5f1a4f.png",
     "website": "https://laminalabs.ai",
     "all_locations": "",
-    "long_description": "We are building the fastest visual infrastructure for EdTech AI applications. With a simple text prompt, students get accurate visual explanations in seconds, making high-quality learning dramatically faster and cheaper. ",
-    "one_liner": "Visual infrastructure for EdTech AI applications",
+    "long_description": "Lamina Labs is building AI infrastructure for instant explainer videos. Simi turns a single prompt into a complete whiteboard video in seconds, helping teams explain ideas, products, workflows, and lessons faster than ever before.\r\n",
+    "one_liner": "AI infrastructure for instant explainer videos at scale",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -4690,7 +4740,7 @@
       "markup.one",
       "tday"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f86a81778dc5e07789c11e5e11da26417af65703.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d533dd89c2cc1fca55b3d629e6ce6e84d5215b81.png",
     "website": "https://tday.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "tday automatically turns a software company's product into on-brand marketing creative. Connect your product and git repo, and tday generates polished launch videos, social graphics, and ads, the content a team would normally spend hours making in a design tool or pay a freelancer for. tday then publishes the creative and measures how it performs across your social and ad channels, closing the loop from what you ship to what you post.",
@@ -4907,18 +4957,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/abb178493b637223c4623f43b2c209131939af8e.png",
     "website": "https://plan0.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "PLAN0 is building the Bloomberg of construction for real estate developers, investors, and general contractors — $20B of projects are already running through the platform.\r\n\r\nWe analyze architectural plans using computer vision AI models to generate detailed cost estimates and analytics in minutes. Through industry partnerships, the platform is also building a database of historical and real-time localized project cost data that power its analytics. Using quant finance inspired ML models, it can decompose construction costs in market observable factors to predict all local trade level costs up to 24 months out with high accuracy. ",
-    "one_liner": "AI powered construction cost estimation & analytics.",
-    "team_size": 5,
+    "long_description": "PLAN0 is building the Bloomberg of construction for real estate developers, investors, and general contractors — $20B of projects are already running through the platform.\r\n\r\nWe analyze architectural plans using computer vision AI models to generate detailed cost estimates and analytics in minutes. The platform also learns from historical localized project data aggregated through industry partnerships — capturing cost overruns, delays, and inefficiencies — to help stakeholders design and price new buildings more effectively from the start.",
+    "one_liner": "AI native construction cost estimation & analytics.",
+    "team_size": 4,
     "industry": "Real Estate and Construction",
     "subindustry": "Real Estate and Construction",
     "launched_at": 1777504379,
     "tags": [
+      "Artificial Intelligence",
       "Computer Vision",
       "Real Estate",
       "Construction",
-      "Proptech",
-      "AI"
+      "Proptech"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -5089,7 +5139,13 @@
     "industry": "B2B",
     "subindustry": "B2B -> Operations",
     "launched_at": 1779919838,
-    "tags": [],
+    "tags": [
+      "Artificial Intelligence",
+      "Manufacturing",
+      "Automation",
+      "AI Assistant",
+      "Industrial"
+    ],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": false,
@@ -5240,7 +5296,7 @@
     "website": "https://kuli.one",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Kuli is an AI coworker for marketing teams at the world's largest consumer brands. Our agent watches all videos across social media, learns the brand's context and helps them turn signals from billions of social videos into winning campaigns without increasing headcount.\r\n\r\nPrevious platforms gave marketers databases to search through and a CRM. Kuli actually watches the content. Marketers at team like Disney, Nivea and Havas use it to scout creators, run analysis on trends and competitor strategies, and analyse what makes their campaign perform better.\r\n\r\nFor 10 years, influencer marketing meant more tools, more tabs, more spreadsheets. Kuli replaces all of that with one single agent you orchestrate. One marketer with Kuli does what a $50K/month agency bills for manual tasks.",
-    "one_liner": "AI coworker for marketing teams",
+    "one_liner": "AI coworker for marketing teams at the largest consumer brands",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Marketing",
@@ -5425,7 +5481,9 @@
     "name": "Saudara AI",
     "slug": "saudara-ai",
     "former_names": [
-      "Saudara AI Inc."
+      "Saudara AI Inc.",
+      "Saudara AI",
+      "Saudara"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1c4216679eb008bbc4571315894d674d507a751f.png",
     "website": "https://saudara.ai",
@@ -5514,7 +5572,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a7b4f70c5d14e24fb5773ec42e56d354595bd134.png",
     "website": "https://www.abinitio-bio.com",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "",
     "long_description": "",
     "one_liner": "The Intelligence layer for Drug Manufacturing",
     "team_size": 1,
@@ -5537,8 +5595,7 @@
       "Drug Discovery and Delivery"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "Unspecified"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -5894,16 +5951,16 @@
     "website": "https://hessian.sh",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Hessian is the platform for automating business operations with AI agents. We forward deploy on-site to map the work, and build the agents on our platform to run it end-to-end. Unlike off-the-shelf tools that don't know your business, you get a partner that owns the software and operates it every day. Why now? Coding agents have matured to the point where, combined with our engineering judgment we've built across a decade of shipping production systems, we can scale forward-deployed engagements with minimal headcount. Furthermore, our FDE agents and tooling will accelerate how quickly we automate workflows on our platform. We're already saving our customers hundreds of hours a month. Trillions of dollars a year are spent on knowledge work, and we're building the standard for how every company deploys, operates, and governs the AI agents that do it.",
-    "one_liner": "We forward deploy with AI agents to automate business operations",
+    "one_liner": "Forward-deployed AI Agents",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1779173686,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "Machine Learning",
-      "Workflow Automation",
-      "AI"
+      "Workflow Automation"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -6769,6 +6826,8 @@
     "subindustry": "Consumer",
     "launched_at": 1779834493,
     "tags": [
+      "Fintech",
+      "Machine Learning",
       "Payments",
       "Consumer Finance",
       "AI"
@@ -7310,14 +7369,17 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/54ba538a0dd95f0a3b77f6e1bf3245359e03da5f.png",
     "website": "https://centralcoms.com",
-    "all_locations": "",
+    "all_locations": "San Francisco, CA, USA",
     "long_description": "CentralComs is building AI Agents for property managers that tracks every maintenance call, chases every open ticket, and keep owners/tenants/vendors updated, so nothing falls through the cracks and operations never stall.\r\n\r\nThese agent work directly inside AppFolio, Buildium, Yardi and your existing stack, making real-time decisions and resolving multi-step workflows without handoffs.",
-    "one_liner": "Property Management AI Agents that automate leasing and maintenance.",
-    "team_size": 0,
+    "one_liner": "AI Agents for Property Management",
+    "team_size": 2,
     "industry": "Real Estate and Construction",
     "subindustry": "Real Estate and Construction -> Housing and Real Estate",
     "launched_at": 1779989306,
-    "tags": [],
+    "tags": [
+      "Artificial Intelligence",
+      "Real Estate"
+    ],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": false,
@@ -7329,7 +7391,8 @@
       "Housing and Real Estate"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -7554,15 +7617,16 @@
     "website": "https://www.enjamb.ai",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Enjamb puts agents across the entire drug program, from preclinical research through clinical trials and approval. Our agents synthesize up-to-date clinical evidence from the literature and real-world data to pinpoint the right endpoints and patient populations; draft and audit regulatory documents like INDs, protocols, SAPs, and NDAs; and run the statistical programming behind them, including SDTM, ADaM, TFLs, and QC, all in one auditable workspace that cuts months off the path from preclinical to clinic and clinic to market.",
-    "one_liner": "Full stack AI Agents accelerating Biopharma R&D ",
+    "one_liner": "Claude Code for accelerating Biopharma R&D ",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1779929226,
     "tags": [
-      "AI-powered Drug Discovery",
+      "SaaS",
       "B2B",
       "Biotech",
+      "Healthcare",
       "AI"
     ],
     "tags_highlighted": [],
