@@ -18660,7 +18660,7 @@
     "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2022",
-    "status": "Active",
+    "status": "Acquired",
     "industries": [
       "Healthcare",
       "Therapeutics"
@@ -24929,17 +24929,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f7d5463656052d09bd1bc697531992af867d844c.png",
     "website": "https://www.aminoanalytica.com",
     "all_locations": "London, United Kingdom; Remote",
-    "long_description": "Design, simulate, and test your proteins 100x faster with the end-to-end no-code platform for protein engineering. Powered by Amina, our AI agent.\r\n\r\nWith Amina, one protein engineer can do the work of 10. Describe what you want to achieve and Amina will handle everything else – from research and design to simulation, folding, docking, and protein characterization. It asks clarifying questions if needed, intelligently understands and performs the task, and analyzes your results within the context of your project.",
-    "one_liner": "The AI-Native Operating System for Protein Engineering",
-    "team_size": 2,
+    "long_description": "We design point-of-care molecular diagnostics for emerging biological threats - in weeks, not 12+ months.",
+    "one_liner": "The AI scientist for always-on biosecurity",
+    "team_size": 3,
     "industry": "Healthcare",
-    "subindustry": "Healthcare -> Industrial Bio",
+    "subindustry": "Healthcare -> Diagnostics",
     "launched_at": 1715962434,
     "tags": [
       "AI-powered Drug Discovery",
-      "SaaS",
       "Synthetic Biology",
       "Biotech",
+      "Diagnostics",
       "Therapeutics"
     ],
     "tags_highlighted": [],
@@ -24950,7 +24950,7 @@
     "status": "Active",
     "industries": [
       "Healthcare",
-      "Industrial Bio"
+      "Diagnostics"
     ],
     "regions": [
       "United Kingdom",
@@ -24976,7 +24976,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Mito Health uses blood work and scans to tell our customers what to do to prevent disease and live longer. Customers love having a health expert in their pocket, who knows all about them, and can offer trusted advice. Our program has already helped customers detect cancer early and cut their risk of heart disease.",
     "one_liner": "Bloodwork and personalized insights to help you live longer",
-    "team_size": 8,
+    "team_size": 5,
     "industry": "Healthcare",
     "subindustry": "Healthcare -> Consumer Health and Wellness",
     "launched_at": 1721173093,
@@ -24993,9 +24993,7 @@
     ],
     "regions": [
       "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -28491,13 +28489,13 @@
     "website": "https://taigabilling.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Taiga automates medical billing for doctor's offices. A doctor uploads their visit data, our AI figures out the right billing codes, checks the claim for errors, and submits it to insurance, dealing with any denials. Faster billing, fewer rejected claims, less busywork.                                                       \r\n                                                                                                                        \r\nWe're Nanda and Adam, friends since 3rd grade. Both of our parents are doctors with their own practices, and billing was always a source of stress and lost revenue for them. We want providers to treat patients while we handle the rest.",
-    "one_liner": "Full-stack Medical Billing Services",
+    "one_liner": "Autonomous medical billing",
     "team_size": 2,
     "industry": "Healthcare",
     "subindustry": "Healthcare -> Healthcare Services",
     "launched_at": 1775511630,
     "tags": [
-      "Artificial Intelligence"
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -28961,5 +28959,45 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/framewise-health",
     "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/framewise-health.json"
+  },
+  {
+    "id": 33021,
+    "name": "Care GP",
+    "slug": "care-gp",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3f871fa8c32b501e71ef06d881893d564e003fbd.png",
+    "website": "https://caregp.com.au/",
+    "all_locations": "Sydney, NSW, Australia",
+    "long_description": "Care GP is building AI agents to run operations for primary healthcare clinics",
+    "one_liner": "AI agents to run healthcare operations",
+    "team_size": 10,
+    "industry": "Healthcare",
+    "subindustry": "Healthcare",
+    "launched_at": 1780569041,
+    "tags": [
+      "Artificial Intelligence",
+      "SaaS",
+      "Healthcare"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "Healthcare"
+    ],
+    "regions": [
+      "Australia",
+      "Oceania"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/care-gp",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2026/care-gp.json"
   }
 ]
