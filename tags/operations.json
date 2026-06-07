@@ -1207,20 +1207,20 @@
       "Rextly"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/12837739c0d64330042216a7aa87b32fd0deb815.png",
-    "website": "https://www.lumari.io/",
+    "website": "https://www.lumari.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Lumari is the world's first AI-powered procurement automation platform purpose-built for direct materials and supply chain execution. \r\n\r\nBacked by Y Combinator, Lumari is a well-funded startup that deploys 100s of always-on AI agents that run sourcing workflows, manage RFQs, expedite purchase orders, and coordinate supplier communication end-to-end -- compressing cycle times and giving teams full visibility into active orders, RFQs, and supplier performance.\r\n\r\nFounded by engineers from Google, Tesla, Amazon, and Stripe who have built and scaled supply chain systems serving millions of users. \r\n\r\nBuilt to operate directly on top of existing tools and ERP systems, Lumari helps procurement teams move faster, eliminate operational bottlenecks, and build more resilient supply chains. No rip-and-replace, no supplier onboarding. Lumari handles the manual chase: quote follow-ups, PO confirmations, delivery status updates, and risk escalation.\r\n\r\nLumari helps companies from Fortune 500s to fast-growing startups automate work from sourcing to delivery, streamline supplier communication and order management, and bring full visibility to their procurement operations.\r\n\r\nTo learn more check out https://lumari.io/",
+    "long_description": "Lumari is the world's first AI-powered procurement automation platform purpose-built for direct materials and supply chain execution. \r\n\r\nBacked by Y Combinator, Lumari is a well-funded startup that deploys 100s of always-on AI agents that run sourcing workflows, manage RFQs, expedite purchase orders, and coordinate supplier communication end-to-end -- compressing cycle times and giving teams full visibility into active orders, RFQs, and supplier performance.\r\n\r\nFounded by engineers from Google, Tesla, Amazon, and Stripe who have built and scaled supply chain systems serving millions of users. \r\n\r\nBuilt to operate directly on top of existing tools and ERP systems, Lumari helps procurement teams move faster, eliminate operational bottlenecks, and build more resilient supply chains. No rip-and-replace, no supplier onboarding. Lumari handles the manual chase: quote follow-ups, PO confirmations, delivery status updates, and risk escalation.\r\n\r\nLumari helps companies from Fortune 500s to fast-growing startups automate work from sourcing to delivery, streamline supplier communication and order management, and bring full visibility to their procurement operations.\r\n\r\nTo learn more check out https://lumari.ai/",
     "one_liner": "AI Digital Workers for Supply Chain ",
     "team_size": 5,
     "industry": "B2B",
     "subindustry": "B2B -> Supply Chain and Logistics",
     "launched_at": 1747084472,
     "tags": [
-      "Artificial Intelligence",
       "B2B",
       "Manufacturing",
       "Supply Chain",
-      "Operations"
+      "Operations",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -1457,48 +1457,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/bubble-lab",
     "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2026/bubble-lab.json"
-  },
-  {
-    "id": 31428,
-    "name": "Ontora",
-    "slug": "ontora",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/51ba58b94e0a45c3a3cc270067fe72dcf1f9027e.png",
-    "website": "https://ontora.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Ontora is an AI Agent that interviews every employee to map how work actually gets done and identify bottlenecks. Consultants spend months doing this manually; Ontora does it in hours.",
-    "one_liner": "AI agents that interview every employee to map how work gets done.",
-    "team_size": 3,
-    "industry": "B2B",
-    "subindustry": "B2B -> Operations",
-    "launched_at": 1773487694,
-    "tags": [
-      "B2B",
-      "Analytics",
-      "Operations",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Spring 2026",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Operations"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": true,
-    "url": "https://www.ycombinator.com/companies/ontora",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/ontora.json"
   },
   {
     "id": 31511,

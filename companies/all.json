@@ -85588,7 +85588,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": true,
     "app_answers": null,
@@ -85726,7 +85726,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -91284,7 +91284,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -165180,7 +165180,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -213685,13 +213685,13 @@
     "all_locations": "New York, NY, USA",
     "long_description": "Law enforcement is drowning in data. Closure helps search it to solve crime.\r\n\r\n- Hiring: UX, Engineering, AI, Ops,\r\n- Supporting: law enforcement throughout the country\r\n- Expanding: Local, state, and federal law enforcement.",
     "one_liner": "We help law enforcement solve crime",
-    "team_size": 4,
+    "team_size": 10,
     "industry": "Government",
     "subindustry": "Government",
     "launched_at": 1739862740,
     "tags": [
-      "Artificial Intelligence",
-      "GovTech"
+      "GovTech",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -214997,20 +214997,20 @@
     "name": "Oki",
     "slug": "oki",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1a80f26794f39a5699d91f7551f1b29f686e1b0b.png",
-    "website": "https://www.okiapplications.com/",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2739d81dbffcc2b373478801ae236fbf5c3b86d0.png",
+    "website": "https://okihome.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Oki AI tells you everything you need to know to run your company.\r\n\r\nBy reading your team’s code, tickets, messages, and more, Oki delivers personalized - and interactive - updates daily to you and other leaders.",
-    "one_liner": "Personalized Updates on Company Progress",
+    "long_description": "Oki Home is your digital home for all your personal memories and experiences. Using fully private local AI, it grows with you to understand and help you in your life.",
+    "one_liner": "The digital home for your personal memories that grows with you",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1739303977,
     "tags": [
+      "Artificial Intelligence",
       "SaaS",
       "B2B",
-      "Enterprise",
-      "AI"
+      "Enterprise"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -220563,8 +220563,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/37312e12dc6f12e2470a531052ec0e30ee697a75.png",
     "website": "https://almond.bot/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "We build Axol - a dual-arm robot for AI researchers and AI-first robotic companies.",
-    "one_liner": "The most capable dual-arm robot for physical AI",
+    "long_description": "We build robots for physical AI. Meet Axol - A dual-arm robot designed for real-world tasks using AI.",
+    "one_liner": "A dual-arm robot built for physical AI.",
     "team_size": 3,
     "industry": "Industrials",
     "subindustry": "Industrials -> Manufacturing and Robotics",
@@ -220578,7 +220578,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Spring 2025",
     "status": "Active",
@@ -221778,19 +221778,17 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1b1aed7099a4bf552ddb400d14fc642d3157809c.png",
     "website": "https://voiceos.com",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "",
     "long_description": "VoiceOS turns voice into a seamless, universal interface to 10x productivity — a true voice operating system for the next era of computing.\r\n\r\nIt works across any app, letting users speak naturally to dictate, edit, and write text instantly. Whether writing an email, revising a document, or grasping complex information, VoiceOS transforms voice into the most powerful productivity tool, bridging the gap between thought and expression.",
     "one_liner": "The Siri for Productivity",
     "team_size": 2,
     "industry": "Consumer",
     "subindustry": "Consumer",
     "launched_at": 1748319646,
-    "tags": [
-      "Productivity"
-    ],
+    "tags": [],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Spring 2025",
     "status": "Active",
@@ -221798,8 +221796,7 @@
       "Consumer"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "Unspecified"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -224432,20 +224429,20 @@
       "Rextly"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/12837739c0d64330042216a7aa87b32fd0deb815.png",
-    "website": "https://www.lumari.io/",
+    "website": "https://www.lumari.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Lumari is the world's first AI-powered procurement automation platform purpose-built for direct materials and supply chain execution. \r\n\r\nBacked by Y Combinator, Lumari is a well-funded startup that deploys 100s of always-on AI agents that run sourcing workflows, manage RFQs, expedite purchase orders, and coordinate supplier communication end-to-end -- compressing cycle times and giving teams full visibility into active orders, RFQs, and supplier performance.\r\n\r\nFounded by engineers from Google, Tesla, Amazon, and Stripe who have built and scaled supply chain systems serving millions of users. \r\n\r\nBuilt to operate directly on top of existing tools and ERP systems, Lumari helps procurement teams move faster, eliminate operational bottlenecks, and build more resilient supply chains. No rip-and-replace, no supplier onboarding. Lumari handles the manual chase: quote follow-ups, PO confirmations, delivery status updates, and risk escalation.\r\n\r\nLumari helps companies from Fortune 500s to fast-growing startups automate work from sourcing to delivery, streamline supplier communication and order management, and bring full visibility to their procurement operations.\r\n\r\nTo learn more check out https://lumari.io/",
+    "long_description": "Lumari is the world's first AI-powered procurement automation platform purpose-built for direct materials and supply chain execution. \r\n\r\nBacked by Y Combinator, Lumari is a well-funded startup that deploys 100s of always-on AI agents that run sourcing workflows, manage RFQs, expedite purchase orders, and coordinate supplier communication end-to-end -- compressing cycle times and giving teams full visibility into active orders, RFQs, and supplier performance.\r\n\r\nFounded by engineers from Google, Tesla, Amazon, and Stripe who have built and scaled supply chain systems serving millions of users. \r\n\r\nBuilt to operate directly on top of existing tools and ERP systems, Lumari helps procurement teams move faster, eliminate operational bottlenecks, and build more resilient supply chains. No rip-and-replace, no supplier onboarding. Lumari handles the manual chase: quote follow-ups, PO confirmations, delivery status updates, and risk escalation.\r\n\r\nLumari helps companies from Fortune 500s to fast-growing startups automate work from sourcing to delivery, streamline supplier communication and order management, and bring full visibility to their procurement operations.\r\n\r\nTo learn more check out https://lumari.ai/",
     "one_liner": "AI Digital Workers for Supply Chain ",
     "team_size": 5,
     "industry": "B2B",
     "subindustry": "B2B -> Supply Chain and Logistics",
     "launched_at": 1747084472,
     "tags": [
-      "Artificial Intelligence",
       "B2B",
       "Manufacturing",
       "Supply Chain",
-      "Operations"
+      "Operations",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -229390,16 +229387,16 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Manufact provides open-source dev tools and infrastructure for MCP to help dev teams quickly build and deploy MCP Servers for AI agents & MCP Apps for ChatGPT and Claude.\r\nWe developed the mcp-use SDK, which has over 7M downloads and 10,000 GitHub stars, and is used by 20% of the US 500.\r\nCreate MCP servers/apps in minutes, connect your GitHub repo, and make them immediately available to AI agents and ChatGPT.",
     "one_liner": "Open source SDK & cloud infrastructure for MCP Servers & ChatGPT Apps ",
-    "team_size": 4,
+    "team_size": 5,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1752861544,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "B2B",
       "Open Source",
-      "Infrastructure"
+      "Infrastructure",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -231588,18 +231585,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2468a3c8a7c5f1a0405c0920fd164d3512f5b6f7.png",
     "website": "https://www.smartbase.so/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Smartbase is an AI-native ERP for manufacturers. We have traditional ERP features like inventory management, and we use AI to automate office work like quoting and order entry.",
+    "long_description": "Smartbase is an AI-native ERP for manufacturers. We have traditional ERP features like inventory management, and we use AI to automate office work like quoting and order entry. In the past six weeks, we’ve grown from $0 to $171k in contracted ARR.",
     "one_liner": "AI-native ERP for manufacturers",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Operations",
     "launched_at": 1753758221,
     "tags": [
-      "Artificial Intelligence",
       "SaaS",
       "B2B",
       "Manufacturing",
-      "Automation"
+      "Automation",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -233758,12 +233755,12 @@
     "former_names": [
       "Remediate"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6d6915c313ba06f18c746ac65e502b29b9a5ab90.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a70034836fd6c1c36dc93a7c297ef0a862c5aff5.png",
     "website": "https://soren-ai.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Soren develops specialized AI solutions for modern teams. We help institutions identify, deploy, and operate AI safely across high-impact workflows.\r\n\r\nWe partner with organizations at every stage, from early exploration to full-scale AI transformations.\r\n\r\nAs an AI-native company, we're able to deliver these services at a fraction of the time and cost as legacy firms.",
     "one_liner": "Custom AI for Modern Businesses",
-    "team_size": 3,
+    "team_size": null,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1759390917,
@@ -234663,7 +234660,7 @@
     "all_locations": "",
     "long_description": "AI researchers should be pushing the boundaries of what's possible with new architectures and training methods. Instead, they waste weeks configuring cloud infrastructure, debugging distributed systems, and optimizing their GPU code. We know because we lived it: While training our own models across thousands of GPUs earlier this year, we spent more time fighting our infrastructure than doing actual research.\r\n\r\nThat's why we're building two things. First, Elastic Cloud: a managed platform that automatically finds the cheapest GPUs across all providers, handles spot instance preemption, and cuts compute costs by up to 80%. Second, automatic kernel optimization that makes training code run faster by modeling hardware topology, often beating hand-tuned implementations.\r\n\r\nThe problem is that getting high performance across different hardware is genuinely hard. NVIDIA's CUDA moat exists because writing fast kernels requires deep expertise. Most teams either accept vendor lock-in or hire expensive kernel engineers. Our goal is to break the CUDA moat.\r\n\r\nThe compute bottleneck is the biggest constraint on AI progress. NVIDIA can't manufacture enough GPUs, and their monopoly keeps prices astronomical. Meanwhile, AMD, Google, and Amazon are shipping capable alternative hardware that nobody uses because the software is too hard. We're breaking that moat. If we succeed, anyone will be able to train state-of-the-art models without thinking past their PyTorch code.",
     "one_liner": "Infrastructure for AI labs to focus on research.",
-    "team_size": 5,
+    "team_size": 6,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1759869599,
@@ -242598,7 +242595,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Hex Security builds AI agents that run continuous penetration tests against your apps and infrastructure. Instead of a once-a-year penetration test, Hex Security's agents works 24/7 to find and verify critical vulnerabilities so you can prevent them before attackers.",
     "one_liner": "Agentic Offensive Security at Scale",
-    "team_size": 3,
+    "team_size": 6,
     "industry": "B2B",
     "subindustry": "B2B -> Security",
     "launched_at": 1768943987,
@@ -244765,7 +244762,13 @@
     "industry": "Real Estate and Construction",
     "subindustry": "Real Estate and Construction",
     "launched_at": 1768343791,
-    "tags": [],
+    "tags": [
+      "Artificial Intelligence",
+      "Finance",
+      "Construction",
+      "Scheduling",
+      "Enterprise Software"
+    ],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": false,
@@ -245224,19 +245227,14 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5670afa2f39d71d15be15ed4c56ae5e0a65dbea4.png",
     "website": "https://tsenta.com",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "",
     "long_description": "Tsenta matches you with jobs, optimizes your profile & applies on your behalf. We have:\r\n➙ a web app ➙ an imessage bot ➙ an MCP ➙ a chrome extension, giving you control over every application being submitted.\r\n\r\nWe built Tsenta after applying to over 3,000 jobs manually, so that nobody else would have to.\r\n\r\nCheck us out at https://tsenta.com :)",
     "one_liner": "We match you with jobs and apply automatically",
     "team_size": 2,
     "industry": "Consumer",
     "subindustry": "Consumer -> Job and Career Services",
     "launched_at": 1769729252,
-    "tags": [
-      "Artificial Intelligence",
-      "Consumer",
-      "Recruiting",
-      "HR Tech"
-    ],
+    "tags": [],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": true,
@@ -245248,8 +245246,7 @@
       "Job and Career Services"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "Unspecified"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -245753,10 +245750,9 @@
     "launched_at": 1776112979,
     "tags": [
       "SaaS",
-      "B2B",
+      "Compliance",
       "Legal",
-      "LegalTech",
-      "Enterprise Software"
+      "LegalTech"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -246064,12 +246060,16 @@
     "website": "https://trybloom.ai",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Bloom is the brand layer for agents - it turns brand into infrastructure that any agent, app, or platform can call.\r\n\r\nIngest your brand from anywhere - decks, websites, social, Figma, and more.\r\nBloom systemises your brand, enabling the creation of on-brand outputs like images, video, video, copy, and more, through the web app, the API, or MCP.\r\n\r\nWe're building brand-as-infrastructure for the AI era.\r\n",
-    "one_liner": "The brand layer for agents",
+    "one_liner": "Brand infrastructure for AI",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1776275888,
-    "tags": [],
+    "tags": [
+      "Marketing",
+      "Infrastructure",
+      "AI"
+    ],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": true,
@@ -247155,11 +247155,11 @@
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1776537521,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "Generative AI",
       "B2B",
-      "Enterprise Software",
-      "AI"
+      "Collaboration"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -249388,19 +249388,14 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/51ba58b94e0a45c3a3cc270067fe72dcf1f9027e.png",
     "website": "https://ontora.com",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "",
     "long_description": "Ontora is an AI Agent that interviews every employee to map how work actually gets done and identify bottlenecks. Consultants spend months doing this manually; Ontora does it in hours.",
     "one_liner": "AI agents that interview every employee to map how work gets done.",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Operations",
     "launched_at": 1773487694,
-    "tags": [
-      "B2B",
-      "Analytics",
-      "Operations",
-      "AI"
-    ],
+    "tags": [],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": false,
@@ -249412,8 +249407,7 @@
       "Operations"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "Unspecified"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -249758,8 +249752,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2c249d05a58f649a682096055e9a55a3440fbafa.png",
     "website": "https://www.useparrot.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Our AI agents make and take every call - negotiating insurance supplements, sourcing parts, and coordinating customers and technicians - allowing for complete back-end automation.",
-    "one_liner": "AI-native operating system for auto shops",
+    "long_description": "Parrot is an agentic OS that understands your business so it can call, negotiate, and coordinate with real humans.",
+    "one_liner": "Agentic operating system for auto repair shops",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
@@ -250161,20 +250155,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8149769a0781242dca23d1bed75bdf39b4b9dba6.png",
     "website": "https://archermoney.com/",
     "all_locations": "New York, NY, USA",
-    "long_description": "Archer is the company money brain. We let agents move your money for you in your business.\r\n\r\nWe help companies deploy AI agents that can spend, purchase, reward, and move money on behalf of their business. Instead of relying on employees to manually execute every financial action, businesses can give agents budgets, permissions, and goals, allowing them to take action automatically when important events occur.\r\n\r\nOur flagship feature is agentic commerce. Businesses use Archer to deploy AI agents that can purchase goods and services in the real world on behalf of their company. Today, companies are using Archer to automatically send personalized physical rewards when important business events occur. A customer completes onboarding. A partner generates a referral. An employee hits a milestone. An agent understands the context, purchases the reward, and handles execution automatically.\r\n\r\nWe believe physical rewards are just the beginning. The same infrastructure that allows agents to purchase and send rewards today will allow them to route revenue, incentivize employees, run referral programs, and execute financial actions across every part of a business. As agents gain context from CRMs, product data, Slack, Linear, Notion, internal systems, and APIs, they become increasingly capable of understanding what is happening across a company and taking action automatically.\r\n\r\nFor hundreds of years, businesses have used software to manage information and store money. We believe the next generation of businesses will rely on AI agents to make decisions and take financial action on their behalf to materially benefit their business.",
-    "one_liner": "The company money brain. Let agents move your money.",
+    "long_description": "Archer is the agentic commerce platform for customer acquisition and retention.\r\n\r\nWe help companies deploy AI agents that can automatically purchase, personalize, and deliver physical gifts on behalf of their business. Instead of manually coordinating rewards, swag, meals, experiences, and gifts, companies can give agents budgets, goals, and instructions, allowing them to take action automatically when important business events occur.\r\n\r\nToday, businesses use Archer to automate corporate gifting across outbound sales, customer onboarding, referrals, partnerships, customer success, and employee milestones. A prospect books a meeting. A customer completes onboarding. A partner generates a referral. An agent understands the context, selects an appropriate gift, purchases it, and handles fulfillment automatically.\r\n\r\nWhat makes Archer different is that companies no longer need to manage gifting campaigns manually. Agents continuously monitor what is happening across a business and execute personalized physical experiences at the right moment for the right person.\r\n\r\nWe believe corporate gifting is just the beginning. As AI agents become increasingly capable of understanding business context through CRMs, product data, Slack, Linear, Notion, and other systems, they will become active participants in how companies build relationships, acquire customers, retain users, and grow revenue.\r\n\r\nFor decades, businesses have relied on software to track relationships. We believe the next generation of businesses will rely on AI agents to strengthen them.",
+    "one_liner": " AI-powered gifting for customer acquisition and retention",
     "team_size": 4,
     "industry": "B2B",
-    "subindustry": "B2B -> Finance and Accounting",
+    "subindustry": "B2B -> Marketing",
     "launched_at": 1776977656,
     "tags": [
-      "Crypto / Web3",
+      "Autonomous Delivery",
       "Finance",
       "AI"
     ],
-    "tags_highlighted": [
-      "Crypto / Web3"
-    ],
+    "tags_highlighted": [],
     "top_company": false,
     "isHiring": false,
     "nonprofit": false,
@@ -250182,7 +250174,7 @@
     "status": "Active",
     "industries": [
       "B2B",
-      "Finance and Accounting"
+      "Marketing"
     ],
     "regions": [
       "United States of America",
@@ -250331,7 +250323,7 @@
       "markup.one",
       "tday"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/33cc2363c4ec1859b3256fa83d3906a151f1e0ed.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d0e782b746f383157367c57ff6b2bc059c75a618.png",
     "website": "https://tday.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "tday automatically turns a software company's product into on-brand marketing creative. Connect your product and git repo, and tday generates polished launch videos, social graphics, and ads, the content a team would normally spend hours making in a design tool or pay a freelancer for. tday then publishes the creative and measures how it performs across your social and ad channels, closing the loop from what you ship to what you post.",
@@ -252570,7 +252562,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/cd583af5fd7e25beb6cf6bd63167daa1273db6c5.png",
     "website": "https://manicule.dev",
     "all_locations": "",
-    "long_description": "Manicule is an AI native devrel that owns developer documentation and technical content across social channels. We grew 100% MoM over the last three months to $58k in monthly revenue, and our customers include Supermemory, Greptile, Reducto, Mastra, Agentmail, and more.\r\n\r\nIt is insanely hard to hire for devrel. Our customers tell us they’ve had roles up for months, paying $300K+ and still can’t find good people. The industry is currently split between SEO/GEO SaaS and agencies that only do videos or in-person devrel. Developer-focused companies also love the velocity AI brings but hate giving their readers AI slop.\r\n\r\nNaman has been writing content since he was 13 having worked with companies like Promptlayer, Brightdata, Courier.com and others. Shreyans has been building since 14, built an AI app that got onto App Store Productivity Trending in a month and worked as founding engineer at Supermemory. We met in high school and have built multiple startups together since.",
+    "long_description": "Manicule is an AI native devrel that owns developer documentation and technical content across social channels. We grew 100% MoM over the last three months to $53k in monthly revenue, and our customers include Supermemory, Greptile, Reducto, Mastra, Agentmail, and more.\r\n\r\nIt is insanely hard to hire for devrel. Our customers tell us they’ve had roles up for months, paying $300K+ and still can’t find good people. The industry is currently split between SEO/GEO SaaS and agencies that only do videos or in-person devrel. Developer-focused companies also love the velocity AI brings but hate giving their readers AI slop.\r\n\r\nNaman has been writing content since he was 13 having worked with companies like Promptlayer, Brightdata, Courier.com and others. Shreyans has been building since 14, built an AI app that got onto App Store Productivity Trending in a month and worked as founding engineer at Supermemory. We met in high school and have built multiple startups together since.",
     "one_liner": "AI Native Developer Relations",
     "team_size": 5,
     "industry": "B2B",
@@ -252612,8 +252604,8 @@
     "long_description": "",
     "one_liner": "The operating system for clinical AI in imaging",
     "team_size": 1,
-    "industry": "B2B",
-    "subindustry": "B2B -> Infrastructure",
+    "industry": "Healthcare",
+    "subindustry": "Healthcare",
     "launched_at": 1779379270,
     "tags": [
       "Healthcare",
@@ -252626,8 +252618,7 @@
     "batch": "Spring 2026",
     "status": "Active",
     "industries": [
-      "B2B",
-      "Infrastructure"
+      "Healthcare"
     ],
     "regions": [
       "United States of America",
@@ -253805,10 +253796,9 @@
     "subindustry": "Real Estate and Construction -> Housing and Real Estate",
     "launched_at": 1780455733,
     "tags": [
+      "Artificial Intelligence",
       "Real Estate",
-      "Enterprise Software",
-      "AI",
-      "AI Assistant"
+      "Enterprise Software"
     ],
     "tags_highlighted": [],
     "top_company": false,
