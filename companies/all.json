@@ -61964,7 +61964,7 @@
       "India",
       "South Asia"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -110871,8 +110871,8 @@
   },
   {
     "id": 22880,
-    "name": "True3D Labs",
-    "slug": "true3d-labs",
+    "name": "Outpaint.com",
+    "slug": "outpaintcom",
     "former_names": [
       "True3D",
       "Hyperplane",
@@ -110882,10 +110882,11 @@
       "TutorAI.me",
       "QuickVid.ai",
       "QuickVid",
-      "True3D"
+      "True3D",
+      "True3D Labs"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7da2309b02d5990f41bbcc5b3695e3e028b38c7f.png",
-    "website": "https://true3d.com/",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/76c9f51f32ec78b0012799fa749d0661d0d18633.png",
+    "website": "https://outpaint.com/",
     "all_locations": "New York, NY, USA",
     "long_description": "We build AI models that convert any video to fit any screen without reshoots.",
     "one_liner": "AI that expands any video to fit any screen.",
@@ -110901,7 +110902,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2021",
     "status": "Active",
@@ -110918,8 +110919,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/true3d-labs",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2021/true3d-labs.json"
+    "url": "https://www.ycombinator.com/companies/outpaintcom",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2021/outpaintcom.json"
   },
   {
     "id": 22881,
@@ -113764,15 +113765,15 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/140b14ae167716f111115a81e06b1a7eb94e8ef3.png",
     "website": "https://reclaimprotocol.org",
     "all_locations": "Hyderabad, Telangana, India; Remote",
-    "long_description": "Reclaim Protocol is a verification company that leverages advances in AI and cryptography to bring you global, instantaneous and compliant verifications.\r\n\r\nUsing Reclaim Protocol, you can verify :\r\n- Education : Which university is this student enrolled in? 20k+ universities globally supported\r\n- Employment : Where is the user employed and what is their designation? Employers in all countries supported\r\n- Finances : What is the Credit Score and Accredited Investor status of the user? Again, all countries supported\r\n- Shopping : Where is the user spending, and what brands are they loyal to? Supporting all major ecommerce and travel services\r\n\r\nOnce you integrate Reclaim Protocol, your users will be presented with a button similar to \"Login with Google\", but for the website from where we need to verify information. e.g. their university portal, their tax portals and so on.\r\nAs soon as they login, Reclaim Protocol extracts the required information and verifies the integrity of it. Particularly, ensures that the user has not tampered with the data that was displayed by the website.\r\n\r\nThe verification is done using zero knowledge proofs using an open sourced library!",
-    "one_liner": "User data verification across Employment, Academic Creds, Retail…",
-    "team_size": 26,
+    "long_description": "Reclaim Protocol provides best in class conversion rates (45%+) on education, employment and retail loyalty verification. Global coverage and fully private.\r\n\r\n- **Global coverage.** Unlike most other vendors we are global by default. No matter where in the world the user is, we can verify.\r\n- **It is 100% private.** Neither you, nor us, see any private information about the user. So you carry no liabilities. No risk of your database getting hacked. \r\n- **Best in class conversion.** We have the highest conversion rates in the industry at 45%+ because users don't have to scramble for their documents to upload.\r\n- **AI fraud resistant.** All the verifications happen securely using cryptography that even the most advanced models cannot fake.",
+    "one_liner": "Education, Employment, Loyalty verification. Global & Compliant.",
+    "team_size": 17,
     "industry": "B2B",
-    "subindustry": "B2B -> Retail",
+    "subindustry": "B2B -> Recruiting and Talent",
     "launched_at": 1616635998,
     "tags": [
-      "Artificial Intelligence",
-      "Identity"
+      "Identity",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -113782,7 +113783,7 @@
     "status": "Active",
     "industries": [
       "B2B",
-      "Retail"
+      "Recruiting and Talent"
     ],
     "regions": [
       "India",
@@ -139190,7 +139191,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f1c674e348ff1024b2b7b6c8ad74dbad5b1fa520.png",
     "website": "https://craniometrix.com",
     "all_locations": "New York, NY, USA",
-    "long_description": "Craniometrix has raised over $21 million to help make dementia suck less.\r\n\r\nDementia is tough – but it can be easier. Turns out, if you give families the right non-clinical coaching and support, you can avoid 30% of hospitalizations for these patients. And Medicare has recently started paying for that coaching.\r\n\r\nWe launched our care navigation service for dementia patients in July of 2025, hit $4M of ARR, and just raised a $15M Series A. \r\n\r\nWe leverage AI to provide best-in-class care, alleviating the burden on providers. Come help us build!",
+    "long_description": "Craniometrix has raised over $21 million to help make dementia suck less.\r\n\r\nDementia is tough – but it can be easier. Turns out, if you give families the right non-clinical coaching and support, you can avoid 30% of hospitalizations for these patients. And Medicare has recently started paying for that coaching.\r\n\r\nWe launched our care navigation service for dementia patients in July of 2025, hit $8M of ARR, and just raised a $15M Series A. \r\n\r\nWe leverage AI to provide best-in-class care, alleviating the burden on providers. Come help us build!",
     "one_liner": "Using AI to help dementia patients age at home",
     "team_size": 64,
     "industry": "Healthcare",
@@ -167684,11 +167685,13 @@
     "all_locations": "New York, NY, USA",
     "long_description": "Tennr is solving the black hole problem in healthcare by leveraging models to digitize the flow of paperwork between healthcare providers.\r\n--\r\nToday, when you go to your doctor and need to be referred to a specialist (e.g., for sleep apnea), your doctor sends a fax (yes, in 2024, 90% of provider-provider communication is a 1980s fax). These are often converted into 20+ page PDFs, with handwritten (doctor’s handwriting!) notes, in thousands of different formats. The problem is so complex that a person has to read it, type it up, and manually enter your information. Tennr built RaeLM™ (7B—trained on 3M+ documents) to read these docs, talk to your doc to ensure nothing is missed, and text you to help schedule your appointment so you can get better, faster.\r\n",
     "one_liner": "Fast, Transparent Patient Experiences",
-    "team_size": 195,
+    "team_size": 205,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1676577561,
     "tags": [
+      "SaaS",
+      "Workflow Automation",
       "Healthcare"
     ],
     "tags_highlighted": [],
@@ -167704,7 +167707,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -171438,11 +171441,11 @@
     "subindustry": "Fintech -> Asset Management",
     "launched_at": 1668714980,
     "tags": [
+      "Artificial Intelligence",
       "SaaS",
       "B2B",
       "Compliance",
-      "Regtech",
-      "AI"
+      "Regtech"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -177484,18 +177487,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6d4c1cc0751098e00020fe57a63b4a98b4977331.png",
     "website": "https://clearesthealth.com/",
     "all_locations": "New York, NY, USA",
-    "long_description": "We are rebuilding the core infrastructure behind corporate health insurance, everything from care navigation, analytics, claims, and more. Fully cloud-native and AI-first. We are eager to directly impact the health and savings of 60% of the American population.",
-    "one_liner": "Rebuilding trust in American health insurance.",
+    "long_description": "Clearest Health is an AI-enabled revenue recovery platform for independent healthcare practices with underpaid out-of-network claims. Through verified IDR benchmarks, claim analysis, and audit-ready dispute support, Clearest helps providers strengthen No Surprises Act appeals and recover revenue that might otherwise be written off.",
+    "one_liner": "AI revenue recovery for underpaid healthcare claims.",
     "team_size": 3,
-    "industry": "Fintech",
-    "subindustry": "Fintech -> Insurance",
+    "industry": "Healthcare",
+    "subindustry": "Healthcare -> Healthcare IT",
     "launched_at": 1686714264,
     "tags": [
-      "Artificial Intelligence",
       "SaaS",
       "Health Tech",
       "B2B",
-      "Healthcare IT"
+      "Healthcare IT",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -177504,8 +177507,8 @@
     "batch": "Summer 2023",
     "status": "Active",
     "industries": [
-      "Fintech",
-      "Insurance"
+      "Healthcare",
+      "Healthcare IT"
     ],
     "regions": [
       "United States of America",
@@ -186683,7 +186686,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Gumloop is a platform for automating repetitive and complex workflows end-to-end with AI. \r\n\r\nBuilders drag, drop, and connect modular components onto a canvas to build powerful automations.\r\n\r\nWe provide the tools and the infrastructure to operate at 10x the speed of writing, testing, and productionizing code so you can focus on the problem at hand. ",
     "one_liner": "A no-code platform for creating agents and automating workflows with…",
-    "team_size": 25,
+    "team_size": 37,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1690004343,
@@ -186701,7 +186704,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -187501,7 +187504,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2024",
     "status": "Active",
@@ -189682,7 +189685,7 @@
     "tags": [],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2024",
     "status": "Active",
@@ -190983,7 +190986,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Tamarind Bio is a website and API which allows scientists to use computational biology tools at scale using a simple interface. On Tamarind, scientists can use ML models like AlphaFold to design and simulate molecules by simply selecting inputs instead of or setting up a high performance computing environment or dealing with DevOps.\r\n\r\n\r\nTamarind is used by tens of thousands researchers in large pharma companies, top biotechs, and academic institutions.",
     "one_liner": "AI Inference Platform for Drug Discovery",
-    "team_size": 15,
+    "team_size": 20,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1702859345,
@@ -191007,7 +191010,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -198819,10 +198822,10 @@
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1716219164,
     "tags": [
+      "Artificial Intelligence",
       "Aerospace",
       "Enterprise Software",
       "Automation",
-      "AI",
       "Automotive"
     ],
     "tags_highlighted": [],
@@ -201126,15 +201129,15 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f7d5463656052d09bd1bc697531992af867d844c.png",
     "website": "https://www.aminoanalytica.com",
-    "all_locations": "London, United Kingdom; Remote",
+    "all_locations": "London, United Kingdom",
     "long_description": "We design point-of-care molecular diagnostics for emerging biological threats - in weeks, not 12+ months.",
-    "one_liner": "The AI scientist for always-on biosecurity",
+    "one_liner": "The AI scientist for always-on biodefense",
     "team_size": 3,
     "industry": "Healthcare",
     "subindustry": "Healthcare -> Diagnostics",
     "launched_at": 1715962434,
     "tags": [
-      "AI-powered Drug Discovery",
+      "Nanosensors",
       "Synthetic Biology",
       "Biotech",
       "Diagnostics",
@@ -201154,7 +201157,7 @@
       "United Kingdom",
       "Europe",
       "Remote",
-      "Fully Remote"
+      "Partly Remote"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -208720,7 +208723,12 @@
     "industry": "Consumer",
     "subindustry": "Consumer",
     "launched_at": 1727484339,
-    "tags": [],
+    "tags": [
+      "Artificial Intelligence",
+      "Consumer",
+      "Social Media",
+      "Live"
+    ],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": true,
@@ -210220,7 +210228,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Fall 2024",
     "status": "Active",
@@ -215665,16 +215673,16 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Asteroid builds and hosts AI browser agents for back-office tasks. With guardrails, evaluations, and human oversight, we deliver enterprise-grade reliability across millions of operations, even in regulated industries. Companies can build agents themselves or rely on us to deliver and maintain them.",
     "one_liner": "AI Browser Workforce for Operations Teams",
-    "team_size": 5,
+    "team_size": 8,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1734639467,
     "tags": [
-      "Artificial Intelligence",
       "Robotic Process Automation",
       "Health Tech",
       "B2B",
-      "Automation"
+      "Automation",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -218759,24 +218767,25 @@
   },
   {
     "id": 30349,
-    "name": "Tally",
-    "slug": "tally-2",
+    "name": "Hudson",
+    "slug": "hudson",
     "former_names": [
       "Trestle",
       "Tally",
       "Merit",
       "Tally",
       "Candid",
-      "Argos"
+      "Argos",
+      "Tally"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fd9ad9571d7bd56180698651937c9860ffff38ec.png",
-    "website": "",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0d1c15f32931daef43769bb2a1b0bbd50edfca65.png",
+    "website": "https://www.meethudson.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "",
     "one_liner": "",
     "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B",
+    "industry": "Fintech",
+    "subindustry": "Fintech",
     "launched_at": 1739308183,
     "tags": [],
     "tags_highlighted": [],
@@ -218786,7 +218795,7 @@
     "batch": "Winter 2025",
     "status": "Active",
     "industries": [
-      "B2B"
+      "Fintech"
     ],
     "regions": [
       "United States of America",
@@ -218797,8 +218806,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/tally-2",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2025/tally-2.json"
+    "url": "https://www.ycombinator.com/companies/hudson",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2025/hudson.json"
   },
   {
     "id": 30350,
@@ -219995,11 +220004,11 @@
     "subindustry": "B2B",
     "launched_at": 1755276267,
     "tags": [
+      "Artificial Intelligence",
       "SaaS",
       "Finance",
       "Investing",
-      "Search",
-      "AI"
+      "Search"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -225632,7 +225641,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ff4023cc85097ec825f74cc6019f8b85ea20321a.png",
     "website": "https://closera.com",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "New York City, NY, USA",
     "long_description": "",
     "one_liner": "AI Shopping Agent for Your Ecommerce Store",
     "team_size": 2,
@@ -226109,9 +226118,9 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4d37647098f0e48b82775e4aeffec72627577735.png",
     "website": "https://www.lanesurf.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Lanesurf helps freight brokers book shipments with vetted carriers at the best prices by negotiating rates across multiple calls in parallel.\r\n\r\nOur self-improving voice AI stack is built for the messy reality of logistics - noisy calls, compliance checks, constant exceptions and turns them into faster bookings at better margins.\r\n\r\nWith each booking, the AI learns from aggregated, anonymized lane and pricing data. As more customers use Lanesurf, this learning compounds, driving faster bookings at the best prices and powering a voice-driven freight marketplace.",
-    "one_liner": "Voice AI for booking freight",
-    "team_size": 4,
+    "long_description": "Over a million loads move via trucks in the US every day and even in 2026 they are still booked through endless negotiations over calls and emails.\r\n\r\nLanesurf solves this with an army of AI agents that find nearby empty trucks, call/email them in parallel, negotiate rates, and book the best available truck.\r\n\r\nLive Demo: https://www.linkedin.com/feed/update/urn:li:activity:7394069447327555584/\r\n\r\nOur self-improving voice AI stack is built for the messy reality of logistics - noisy calls, compliance checks, constant exceptions and turns them into faster bookings at better margins.",
+    "one_liner": "Book any load in 10 minutes",
+    "team_size": 8,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1753218115,
@@ -227367,7 +227376,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "The first advertising infrastructure designed specifically for AI apps. Seamlessly integrate contextual brands & products that enhance user experience while generating revenue to pay the inference bills.",
     "one_liner": "The World's First AI Ad Network.",
-    "team_size": 3,
+    "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1753378295,
@@ -229115,15 +229124,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9f836a0c8c51e91ad3364666cbc06dd260a0a3c1.png",
     "website": "https://www.trymimos.com/",
     "all_locations": "New York City, NY, USA",
-    "long_description": "Mimos helps companies rank in AI search.\r\n\r\n800 million people use ChatGPT every week. Today, customers don’t see 10 blue links, they see an answer. And if your brand isn’t cited, you basically don’t exist. \r\n\r\nOur agents automate the playbook for becoming the answer:\r\n 1. Pinpoint Visibility Gaps: Analyzes your site, competitors, and customer data to find precise ranking opportunities.\r\n 2. Craft the Solution: Automatically stages technical fixes and generates policy-aligned content in your brand's voice. \r\n 3. Integrate with CMS: Instantly deploy fixes and content to your site, driving new leads in days, not months.\r\n\r\nLearn more at trymimos.com\r\n\r\n===\r\n\r\nRohit & Michael have been working together on various technical project since 6th grade (14 years!) - and Mimos came about as one of those projects.",
-    "one_liner": "Helping companies rank in AI search",
-    "team_size": 2,
+    "long_description": "Plaintiff-side law firms compete in some of the most expensive search ad markets to acquire high-intent leads, but the path from click, call, or form fill to signed retainer is still fragmented. Disconnected intake workflows, slow response times, and disconnected spend-to-case data makes it hard to know what is actually working.\r\n\r\nMimos automates their growth and intake playbook:\r\n1. Generate Qualified Leads: Our agents manage Google Ads, Local Services Ads, Google Business Profile, and other high-intent acquisition channels.\r\n2. Convert Faster: Every lead flows into a CRM built for intake, triage, follow-up, and handoff from inquiry to signed retainer.\r\n3. Close the Loop: We connect spend, lead source, intake actions, and signed-case outcomes so firms know what to scale, pause, or fix.\r\n\r\nThe result: more qualified leads, less wasted spend, and more signed cases.\r\n\r\nLearn more at https://www.trymimos.com/.",
+    "one_liner": "The growth OS for plaintiff-side law firms",
+    "team_size": 1,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1753307750,
     "tags": [
-      "Artificial Intelligence",
-      "SaaS"
+      "SaaS",
+      "LegalTech",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -231261,7 +231271,7 @@
     "website": "https://buttoncomputer.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "We’re launching a small hardware device: a button that you clip to your shirt. You press it to talk to AI, and it responds instantly.",
-    "one_liner": "Button is the wearable AI that can talk.",
+    "one_liner": "The tiny computer built for voice AI.",
     "team_size": 1,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -231432,7 +231442,7 @@
     "all_locations": "New York, NY, USA",
     "long_description": "Fleetline is building the first complete-context algorithmic load planner for mid to large-sized trucking fleets. Today’s dispatchers face an overwhelming task: balancing regulations, customer demands, live fleet data, and individual driver needs, all while coordinating across siloed tools and teams. Mistakes run rampant, and each mistake is thousands of dollars. Even the select fleets using algorithms that have fleet-wide context struggle: the outputs are rigid, hard to interpret, and are blind to real-world nuances like driver preferences and schedule exceptions. Fleetline solves this by combining advanced optimization with LLMs that can easily adapt algorithms to each fleet’s needs and capture driver-specific information. The result is smarter planning truly optimized for every fleet and its drivers.",
     "one_liner": "Optimizing fleet planning with data driven algorithms",
-    "team_size": 7,
+    "team_size": 11,
     "industry": "B2B",
     "subindustry": "B2B -> Supply Chain and Logistics",
     "launched_at": 1754335865,
@@ -231551,9 +231561,9 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d4d717434657a084785d53a7ab208f3a1b202dae.png",
     "website": "https://perspectiveshealth.ai/",
     "all_locations": "Chicago, IL, USA",
-    "long_description": "America is facing an addiction and mental health crisis. We're building a suite of AI agents to automate away the tasks that occupy half of the time and resources of behavioral health clinics—documentation, compliance, audits, and more.\r\n\r\nWe save time, money, and mental bandwidth so that clinicians can stop chasing insurance reimbursements and go back to saving lives. ",
+    "long_description": "America is facing an addiction and mental health crisis. We're building a suite of AI agents to automate away the tasks that occupy half of the time and resources of behavioral health clinics—documentation, compliance, audits, utilization review, and more.",
     "one_liner": "Automating away admin for behavioral health clinics",
-    "team_size": 4,
+    "team_size": 5,
     "industry": "Healthcare",
     "subindustry": "Healthcare -> Healthcare IT",
     "launched_at": 1751446455,
@@ -233777,9 +233787,10 @@
     "subindustry": "B2B",
     "launched_at": 1759390917,
     "tags": [
-      "Artificial Intelligence",
       "B2B",
-      "Enterprise Software"
+      "Enterprise",
+      "Enterprise Software",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -234875,18 +234886,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/028016b5518081901c8e2d5a5483ea0f04a88946.png",
     "website": "https://logosguard.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Enterprises are racing to adopt AI, but often don't have the right controls in place or know how to verify vendors are compliant. LogosGuard turns AI policies into executable controls, stress-tests your AI products, and continuously monitors changes, giving enterprises the confidence to scale AI responsibly.",
-    "one_liner": "The risk management software for enterprises adopting AI",
+    "long_description": "Use AI tools like ChatGPT, Claude, and Gemini safely without leaking sensitive data. LogosGuard redacts your private information before the prompt ever leaves your device.",
+    "one_liner": "The sensitive data redaction layer for AI",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1762810607,
     "tags": [
+      "Artificial Intelligence",
       "B2B",
       "Compliance",
       "Security",
-      "Cybersecurity",
-      "AI"
+      "Cybersecurity"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -235214,14 +235225,14 @@
     "website": "https://www.redapto.com/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "",
-    "one_liner": "",
+    "one_liner": "Enterprise AI Transformation Platform",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1759943597,
     "tags": [
-      "B2B",
-      "AI"
+      "Artificial Intelligence",
+      "B2B"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -236871,7 +236882,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2a8caed7d0a490086d7e541276710ed25029450f.png",
     "website": "https://absurd.com/",
-    "all_locations": "Los Angeles, CA, USA",
+    "all_locations": "",
     "long_description": "Absurd makes AI brand and performance ads at scale. Our last video for Kalshi (\"Election Day\") did 1M+ views, and our videos average 400K+ organic views.\r\n\r\nCompanies like Hims, Kalshi, Replit, and Brex use Absurd to create production-quality videos in 72 hours.\r\n\r\nTry it at absurd.com",
     "one_liner": "AI Videos",
     "team_size": 6,
@@ -236896,8 +236907,7 @@
       "Marketing"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "Unspecified"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -237239,7 +237249,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Mantle connects to all your tools: your CRM, Mail, Calendar, Payments, Product Analytics, and more. With just one prompt, you can create agents that handle back office work for you.\r\n\r\nThese agents can automate reports  and email them to you, drafts emails right in your email client, generates pre-meeting research directly in your calendar event, and much more. They run quietly in the background, react to changes in real time, follow a schedule or work when you chat with them. \r\n\r\nYou didn’t start up to stay stuck in admin. Turn your company AI-native with Mantle.",
     "one_liner": "Build internal agents to automate back office work with one prompt",
-    "team_size": 2,
+    "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B -> Operations",
     "launched_at": 1761343890,
@@ -238100,9 +238110,9 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/24fe2cfdacb0c9b085052b0bee9ce77035a7373e.png",
     "website": "https://vectorlegal.com",
-    "all_locations": "",
-    "long_description": "A modern solution for Startup legal.\r\n\r\nVector combines premier lawyers/paralegals (averaging 12 yrs of Big Law experience) + custom-built AI, so our clients get world class startup legal service at a fraction of Big Law rates. See our client testimonials - https://www.vectorlegal.com/testimonials.\r\n\r\nServices: fundraise & priced rounds | customer contracts | international flips | complex formations | grow your team | agentic data rooms | e-signatures | cap table management | legal health checks | mergers & acquisitions | co-founder separations | dissolutions.",
-    "one_liner": "The premier AI-native law firm & legal operating system for Startups.",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "A modern solution for Startup legal.\r\n\r\nVector combines premier lawyers/paralegals (averaging 10+ years of Big Law experience) + custom-built AI, so our clients get world class startup legal service at a fraction of Big Law rates. See our client testimonials - https://www.vectorlegal.com/testimonials.\r\n\r\nServices: fundraise & priced rounds | customer contracts | international flips | complex formations | grow your team | agentic data rooms | e-signatures | cap table management | legal health checks | mergers & acquisitions | co-founder separations | dissolutions.",
+    "one_liner": "A premier AI-native law firm & legal operating system for Startups.",
     "team_size": 5,
     "industry": "B2B",
     "subindustry": "B2B -> Legal",
@@ -238119,7 +238129,8 @@
       "Legal"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -239039,6 +239050,51 @@
     "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2026/catchback-cards.json"
   },
   {
+    "id": 31041,
+    "name": "Ploy",
+    "slug": "ploy",
+    "former_names": [
+      "[Placeholder] Bryant Chou NewCo"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ccc3c5e484f835514f0cfb2db7ddd1510a6b0be4.png",
+    "website": "https://ploy.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "",
+    "one_liner": "Ploy turns your website into your company's growth engine. ",
+    "team_size": 14,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1780958556,
+    "tags": [
+      "Artificial Intelligence",
+      "Marketing",
+      "Enterprise Software",
+      "Web Development"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/ploy",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/ploy.json"
+  },
+  {
     "id": 31043,
     "name": "Advanced Metal Research",
     "slug": "advanced-metal-research",
@@ -239736,6 +239792,47 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/ruma-care",
     "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2026/ruma-care.json"
+  },
+  {
+    "id": 31086,
+    "name": "Prescience",
+    "slug": "prescience",
+    "former_names": [
+      "HouseAI"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9318ef0555c0ad2e5ce6049908b655658d073f1f.png",
+    "website": "https://www.getprescience.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Prescience is the preeminent health benefits platform for the world's most ambitious companies. We save employers 20-50% on healthcare while offering best-in-industry health benefits: www.getprescience.com\r\n\r\nAbout us:\r\nPrescience is building a new healthcare system for America. We train AI systems to: operate, insure, and deliver healthcare for employer health plans, utilizing our own Prescience provider network. Our “Time Machine” – an AlphaGo-like system – steers patients towards “Move 37 health trajectories” that deliver dramatic cost savings for employers. Rishab Jain and Aditya Jain, M.D. are serial entrepreneurs and brothers from Harvard with backgrounds in machine learning and medicine. Prescience currently operates and is licensed as a TPA in California. We believe abundant intelligence will bring an opportunity to fundamentally rebuild the $4.5T healthcare industry around proactive health and wellness.",
+    "one_liner": "Healthcare for the age of abundant intelligence.",
+    "team_size": 2,
+    "industry": "Healthcare",
+    "subindustry": "Healthcare",
+    "launched_at": 1780947683,
+    "tags": [
+      "Health Insurance",
+      "Insurance"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "Healthcare"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/prescience",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2026/prescience.json"
   },
   {
     "id": 31087,
@@ -245590,8 +245687,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/af2182548989fa235c8008d9a0adbb85f447cb83.png",
     "website": "https://usepolymorph.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Polymorph is personalization infra that lets developers use AI to personalize their apps, improving conversion, LTV, and CAC for consumer and self-serve apps.\r\n\r\nThis infra is used to personalize user experiences and notifications, which takes whole orgs years to build at companies like Facebook, TikTok, and Google.\r\n\r\nThey already support over 3.5M users across our customers, with some seeing 3.6x increases in conversion rates after using Polymorph.\r\n\r\nUsers are unique and special, make them feel like it~\r\n\r\nThe team has extensive experience in the space, having been in senior engineering leadership at Meta Ads, building out large-scale ML infrastructure at Scale AI, and iterating quickly and securely at startups like Gusto, Opal, and Nira.",
-    "one_liner": "Personalization infra that improves retention, LTV, and CAC",
+    "long_description": "Polymorph turns product surfaces into continuously improving experiments. \r\n\r\nUser journeys branch into thousands of paths, we put an agent on each one.\r\n\r\nThey already support over 6M users across our customers, with some seeing 3.6x lift in conversion rates after using Polymorph.\r\n\r\nTeam has extensive startup, AI, and math backgrounds: \r\n- built out large-scale ML infrastructure at Scale AI, Meta ads\r\n- founding engineer at a unicorn\r\n- ex-AWS Bedrock / Twitch ads engineering\r\n- IMO & IOI medalists",
+    "one_liner": "Turn consumer products into continuously improving experiments",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B",
@@ -247088,8 +247185,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b53a9421cbabfd2beb79e95471ccb31ba8eb85e2.png",
     "website": "https://www.twolabs.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Building socially intelligent robots for caregiving, to assist the elderly.\r\n\r\nOur semi-humanoids go into nursing homes, senior living communities, and care facilities to support elderly residents, handling everyday tasks like feeding, dressing, medication, and object retrieval, while providing genuine social and emotional companionship. We build the full stack in-house: the robot hardware and all the AI that makes it socially capable, so one caregiver can do more for more residents in a field facing chronic staffing shortages.\r\n\r\nWhile the rest of robotics is working on object manipulation like moving boxes and folding laundry, we're focused on what we think is the most meaningful problem: how people and robots can work together.",
-    "one_liner": "Humanoid robots for caregiving.",
+    "long_description": "Building socially intelligent robots for elder care.\r\n\r\nOur semi-humanoids go into nursing homes, senior living communities, and care facilities to support elderly residents, handling everyday tasks like feeding, dressing, medication, and object retrieval, while providing genuine social and emotional companionship. We build the full stack in-house: the robot hardware and all the AI that makes it socially capable, so one caregiver can do more for more residents in a field facing chronic staffing shortages.\r\n\r\nWhile the rest of robotics is working on object manipulation like moving boxes and folding laundry, we're focused on what we think is the most meaningful problem: how people and robots can work together.",
+    "one_liner": "Humanoid robots for elder care.",
     "team_size": 2,
     "industry": "Industrials",
     "subindustry": "Industrials -> Manufacturing and Robotics",
@@ -247667,7 +247764,10 @@
     "industry": "Industrials",
     "subindustry": "Industrials -> Defense",
     "launched_at": 1775173231,
-    "tags": [],
+    "tags": [
+      "Hardware",
+      "Manufacturing"
+    ],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": false,
@@ -248327,7 +248427,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "qomplement is the agentic ERP for retail and logistics companies.\r\n\r\nRetail and logistics are the industries with the highest volume of transactions in the world. POs, freight invoices, inventory updates, and shipment confirmations. Every single one still requires a person to process it manually. Their only solution has been hiring more people.\r\n\r\nLegacy ERPs were built for humans. qomplement is the agentic ERP that cuts 95% of manual work and handles 100x more transactions with the same headcount. We give procurement and operations teams superpowers: automating purchase order intake, vendor onboarding, item master updates, freight order processing, carrier invoicing, three-way matching, and inventory reconciliation.\r\n\r\nAlready trusted by some of the largest grocery chains and trucking companies in the world. Headquartered in San Francisco.",
     "one_liner": "The Agentic ERP for supply chain operations",
-    "team_size": 4,
+    "team_size": 7,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1771907564,
@@ -250310,7 +250410,7 @@
       "markup.one",
       "tday"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d0e782b746f383157367c57ff6b2bc059c75a618.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/19cbb93986698ffc4e1bf6d993999748482d895a.png",
     "website": "https://tday.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "tday automatically turns a software company's product into on-brand marketing creative. Connect your product and git repo, and tday generates polished launch videos, social graphics, and ads, the content a team would normally spend hours making in a design tool or pay a freelancer for. tday then publishes the creative and measures how it performs across your social and ad channels, closing the loop from what you ship to what you post.",
@@ -250397,7 +250497,7 @@
     "name": "ValCtrl",
     "slug": "valctrl",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/62a4ea0ebf35b0c566bf502925d17cda1e04fa89.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/abce077ac6e4cee0ea5b6e5609382f69fc71ad26.png",
     "website": "https://valctrl.com",
     "all_locations": "New York, NY, USA",
     "long_description": "ValCtrl is building the world model for Prediction Finance. Prediction markets contain useful prices about the future, but today those prices are fragmented across venues, titles, rules, and proxy contracts. Users think in beliefs; markets are stored as scattered contracts.\r\n\r\nOur first product is Kassandre Search. Users type a natural-language belief, and Kassandre maps it to relevant prediction markets with backtrace and quality labels. Existing markets are the first scaffold. The long-term product path is search -> composed exposures -> native quotes -> gated bet/trade placement, with legal/compliance gates respected at each step.\r\n\r\nWe are looking for hard belief-to-market queries from forecasters, investors, operators, and YC founders.",
@@ -250407,11 +250507,11 @@
     "subindustry": "Fintech -> Banking and Exchange",
     "launched_at": 1779922059,
     "tags": [
-      "Artificial Intelligence",
       "Fintech",
       "Finance",
       "Analytics",
-      "Data Engineering"
+      "Data Engineering",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -250794,7 +250894,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/81b17e42b6c7c39c503ac476a049465e7d2e530d.png",
     "website": "https://tasklet.ai",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "",
     "long_description": "AI chatbots can answer questions, but they can't do your work — they aren't connected to your tools, can't take actions, and stop running when you close the tab. Meanwhile, knowledge workers are still spending most of their day switching between dozens of SaaS apps, manually stitching together workflows that should be automated.\r\n\r\nTasklet is the AI agent that actually does the work. It connects to every tool you use — via thousands of built-in integrations, any HTTP API, or MCP servers — and takes real actions on your behalf: pulling reports, updating CRMs, triaging emails, processing data, and more. When it needs a UI, it generates one on the fly. When it needs to crunch numbers or do bulk operations, it writes and runs code in a cloud sandbox. When it needs to interact with a website that doesn't have an API, it uses a real browser. And because it runs in the cloud 24/7, you can set up triggers to have it take ongoing responsibility for workflows — not just do something once, but handle it going forward.\r\n\r\nThe product is deliberately simple: a chat interface where you talk to an extremely capable agent. But underneath that simplicity is a cloud-native agent runtime, best-in-class context engineering, a universal connections layer, and multi-model support that keeps us on the frontier as AI improves. \r\n\r\nWe think legacy SaaS is being unbundled by agents, and Tasklet is the operating system that ties it all together.",
     "one_liner": "The cloud agent operating system for knowledge work",
     "team_size": 8,
@@ -250813,8 +250913,6 @@
       "Productivity"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada",
       "Remote",
       "Partly Remote"
     ],
@@ -252426,16 +252524,16 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b53aed7c2d61caf968cbcb61a42f6cd0f7f65ef9.png",
     "website": "https://www.mochatrade.com",
-    "all_locations": "New York, NY, USA",
+    "all_locations": "",
     "long_description": "Mochatrade lets global traders trade perpetual futures on US stocks with up to 20x leverage. Access 50+ US stocks including TSLA, NVDA, AAPL. Mocha is fully self-custodial and no US brokerage account is needed. Traders on-ramp in local currencies and get professional-grade execution on the world's most liquid equities. Starting with India (140M+ demat account holders), and expanding across other markets.",
-    "one_liner": "US stock perps for global traders",
+    "one_liner": "US stock perps for Indian traders",
     "team_size": 3,
     "industry": "Fintech",
     "subindustry": "Fintech -> Consumer Finance",
     "launched_at": 1775162589,
     "tags": [
-      "Fintech",
       "Crypto / Web3",
+      "India",
       "Consumer Finance"
     ],
     "tags_highlighted": [
@@ -252451,8 +252549,6 @@
       "Consumer Finance"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada",
       "Remote",
       "Partly Remote"
     ],
@@ -252471,18 +252567,14 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8bbc0f67672c28c5bc0d90aef4a3427383e238ac.png",
     "website": "https://www.avearobotics.com",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "",
     "long_description": "We built the fastest software to control robots from anywhere in the world. We make it possible for robotics companies to keep their robots at 100% uptime, and intervene instantly when a failure occurs. ",
     "one_liner": "Teleoperate your robots from anywhere in the world",
     "team_size": 2,
     "industry": "Industrials",
     "subindustry": "Industrials -> Manufacturing and Robotics",
     "launched_at": 1779165169,
-    "tags": [
-      "Hard Tech",
-      "Robotics",
-      "Infrastructure"
-    ],
+    "tags": [],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": false,
@@ -252494,8 +252586,7 @@
       "Manufacturing and Robotics"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "Unspecified"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -252594,21 +252685,17 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a54f06b55a2ed047cbb87b6611e0a25bcf346a72.png",
     "website": "https://tryastraea.com",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "",
     "long_description": "Astraea automates clinical trial biometrics from raw study inputs to FDA-ready outputs. The platform handles data normalization, CDISC mapping, SDTM, ADaM, TFLs, QC, and revision workflows in one auditable system, helping Phase II/III sponsors reduce months of manual programming and data management into automated, reviewable execution.",
     "one_liner": "Agents that accelerate clinical trials.",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1778617120,
-    "tags": [
-      "Artificial Intelligence",
-      "SaaS",
-      "Health Tech"
-    ],
+    "tags": [],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Spring 2026",
     "status": "Active",
@@ -252616,8 +252703,7 @@
       "B2B"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "Unspecified"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -252632,7 +252718,7 @@
     "name": "Arlo Industries",
     "slug": "arlo-industries",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/166eb653276ae01578265fba11a85425827f26aa.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9516f2cea09963c1b9ba307c35589a5d194c61c0.png",
     "website": "https://arlo1.com/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Arlo Industries is building a network of sensors that precisely tracks stealthy drones and aerial threats better than radars.\r\n\r\nThis capability does not exist yet because traditional radars are built on past war doctrines designed to protect single, centralised assets. Modern warfare, however, demands wide-area, persistent coverage that is both passive and economically scalable. By utilising a mesh architecture, Arlo Industries unlocks unprecedented asymmetric economics. The network is fundamentally built to scale: the cost of adding sensors grows linearly, but the tracking accuracy increases exponentially, delivering highly resilient, persistent coverage for a fraction of the cost of legacy systems.\r\n\r\nDeo founded Arlo Industries after spending over 6 years in the Israeli defence ecosystem, where he lived through multiple conflicts and experienced the Iron Dome and other systems in action against ICBMs and the infamous Shahed drones. Learning exactly how these defence systems could be improved after a Shahed exploded close to his apartment, he built Arlo Industries around the core philosophy that conflict should be concise & precise.\r\n\r\nThe people behind Arlo1 includes a PhD in drones and autonomy and military experts.\r\n\r\nArlo Industries has actively showcased this technology directly to Ukrainian militaries on the frontlines, as well as to operators across Europe and the USA.",
@@ -253862,6 +253948,44 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/codag",
     "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2026/codag.json"
+  },
+  {
+    "id": 32520,
+    "name": "Cerenovus",
+    "slug": "cerenovus",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c4165de8ba93afc0c1ee3db1680da0127cca7e08.png",
+    "website": "https://www.cerenovus.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Cerenovus is a company brain. We aggregate every kind of file a company produces — documents, PDFs, emails, Slack messages, spreadsheets, meeting notes — and convert them into a single markdown knowledge graph with native AI-agent integration. A company's information becomes uniformly readable both by humans and by the AI agents working inside the graph.\r\n\r\nOn top of that foundation, Cerenovus maps the company as a system, drawing connections between the people, processes, and tools that make up real workflows. From that systems map, it infers where operations are inefficient and how to improve them.\r\n\r\nIn practice, this tool will help executives make better decisions. Whenever a leader has to act on a question — how to restructure a team, whether to keep a vendor, or where handoffs between teams are breaking down — Cerenovus will give them an evidence-backed answer in minutes rather than weeks.\r\n\r\nToday, that work is done by consultants, by internal analysts, or by the executive asking around informally. Each of those approaches is slow, partial, and goes stale the moment it is delivered. Cerenovus produces the same answers faster, at a fraction of the cost, and keeps them live as the company evolves.",
+    "one_liner": "Aggregate company knowledge and make inferences",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1780900630,
+    "tags": [
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": true,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/cerenovus",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2026/cerenovus.json"
   },
   {
     "id": 33018,

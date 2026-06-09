@@ -292,7 +292,7 @@
     "website": "https://buttoncomputer.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "We’re launching a small hardware device: a button that you clip to your shirt. You press it to talk to AI, and it responds instantly.",
-    "one_liner": "Button is the wearable AI that can talk.",
+    "one_liner": "The tiny computer built for voice AI.",
     "team_size": 1,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -597,9 +597,9 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/24fe2cfdacb0c9b085052b0bee9ce77035a7373e.png",
     "website": "https://vectorlegal.com",
-    "all_locations": "",
-    "long_description": "A modern solution for Startup legal.\r\n\r\nVector combines premier lawyers/paralegals (averaging 12 yrs of Big Law experience) + custom-built AI, so our clients get world class startup legal service at a fraction of Big Law rates. See our client testimonials - https://www.vectorlegal.com/testimonials.\r\n\r\nServices: fundraise & priced rounds | customer contracts | international flips | complex formations | grow your team | agentic data rooms | e-signatures | cap table management | legal health checks | mergers & acquisitions | co-founder separations | dissolutions.",
-    "one_liner": "The premier AI-native law firm & legal operating system for Startups.",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "A modern solution for Startup legal.\r\n\r\nVector combines premier lawyers/paralegals (averaging 10+ years of Big Law experience) + custom-built AI, so our clients get world class startup legal service at a fraction of Big Law rates. See our client testimonials - https://www.vectorlegal.com/testimonials.\r\n\r\nServices: fundraise & priced rounds | customer contracts | international flips | complex formations | grow your team | agentic data rooms | e-signatures | cap table management | legal health checks | mergers & acquisitions | co-founder separations | dissolutions.",
+    "one_liner": "A premier AI-native law firm & legal operating system for Startups.",
     "team_size": 5,
     "industry": "B2B",
     "subindustry": "B2B -> Legal",
@@ -616,7 +616,8 @@
       "Legal"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -6920,8 +6921,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/af2182548989fa235c8008d9a0adbb85f447cb83.png",
     "website": "https://usepolymorph.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Polymorph is personalization infra that lets developers use AI to personalize their apps, improving conversion, LTV, and CAC for consumer and self-serve apps.\r\n\r\nThis infra is used to personalize user experiences and notifications, which takes whole orgs years to build at companies like Facebook, TikTok, and Google.\r\n\r\nThey already support over 3.5M users across our customers, with some seeing 3.6x increases in conversion rates after using Polymorph.\r\n\r\nUsers are unique and special, make them feel like it~\r\n\r\nThe team has extensive experience in the space, having been in senior engineering leadership at Meta Ads, building out large-scale ML infrastructure at Scale AI, and iterating quickly and securely at startups like Gusto, Opal, and Nira.",
-    "one_liner": "Personalization infra that improves retention, LTV, and CAC",
+    "long_description": "Polymorph turns product surfaces into continuously improving experiments. \r\n\r\nUser journeys branch into thousands of paths, we put an agent on each one.\r\n\r\nThey already support over 6M users across our customers, with some seeing 3.6x lift in conversion rates after using Polymorph.\r\n\r\nTeam has extensive startup, AI, and math backgrounds: \r\n- built out large-scale ML infrastructure at Scale AI, Meta ads\r\n- founding engineer at a unicorn\r\n- ex-AWS Bedrock / Twitch ads engineering\r\n- IMO & IOI medalists",
+    "one_liner": "Turn consumer products into continuously improving experiments",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B",

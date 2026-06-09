@@ -2038,6 +2038,46 @@
     "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2025/blueshoe.json"
   },
   {
+    "id": 30701,
+    "name": "Mimos",
+    "slug": "mimos",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9f836a0c8c51e91ad3364666cbc06dd260a0a3c1.png",
+    "website": "https://www.trymimos.com/",
+    "all_locations": "New York City, NY, USA",
+    "long_description": "Plaintiff-side law firms compete in some of the most expensive search ad markets to acquire high-intent leads, but the path from click, call, or form fill to signed retainer is still fragmented. Disconnected intake workflows, slow response times, and disconnected spend-to-case data makes it hard to know what is actually working.\r\n\r\nMimos automates their growth and intake playbook:\r\n1. Generate Qualified Leads: Our agents manage Google Ads, Local Services Ads, Google Business Profile, and other high-intent acquisition channels.\r\n2. Convert Faster: Every lead flows into a CRM built for intake, triage, follow-up, and handoff from inquiry to signed retainer.\r\n3. Close the Loop: We connect spend, lead source, intake actions, and signed-case outcomes so firms know what to scale, pause, or fix.\r\n\r\nThe result: more qualified leads, less wasted spend, and more signed cases.\r\n\r\nLearn more at https://www.trymimos.com/.",
+    "one_liner": "The growth OS for plaintiff-side law firms",
+    "team_size": 1,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1753307750,
+    "tags": [
+      "SaaS",
+      "LegalTech",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/mimos",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2025/mimos.json"
+  },
+  {
     "id": 30918,
     "name": "ComplyDo",
     "slug": "complydo",
