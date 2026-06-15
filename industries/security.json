@@ -2090,6 +2090,7 @@
     "tags": [
       "Privacy",
       "Cybersecurity",
+      "Defense",
       "AI"
     ],
     "tags_highlighted": [],
@@ -3844,7 +3845,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/475ae1459a273ef4827fe78aeed097961151b782.png",
     "website": "https://gecko.security",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "London, United Kingdom",
     "long_description": "We built Gecko for teams that want to build secure code quickly without wasting time on security tools that don’t deliver results, or relying on one-time human pentests that quickly become outdated. Gecko uses AI to understand how your application should work, simulates relevant attacks to find critical vulnerabilities, and then verifies these vulnerabilities by exploiting them. It also helps you understand the risk of these vulnerabilities and applies a working fix to keep your code secure.",
     "one_liner": "The AI Security Engineer to Find and Fix Vulnerabilities ",
     "team_size": 2,
@@ -3869,8 +3870,8 @@
       "Security"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada",
+      "United Kingdom",
+      "Europe",
       "Remote",
       "Partly Remote"
     ],
@@ -4788,13 +4789,7 @@
     "industry": "B2B",
     "subindustry": "B2B -> Security",
     "launched_at": 1780001140,
-    "tags": [
-      "Developer Tools",
-      "SaaS",
-      "B2B",
-      "Cybersecurity",
-      "AI"
-    ],
+    "tags": [],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": false,
@@ -4824,7 +4819,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7b7343f0662dc74045154f30ca2872d79b80c650.png",
     "website": "https://clawvisor.com",
-    "all_locations": "",
+    "all_locations": "San Francisco, CA, USA",
     "long_description": "Clawvisor lets AI agents use apps like Gmail, Slack, and Google Drive without going rogue or ever seeing your credentials. You approve tasks once. Clawvisor enforces them on every request.",
     "one_liner": "The Authorization Layer for AI Agents",
     "team_size": 1,
@@ -4843,7 +4838,8 @@
       "Security"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,

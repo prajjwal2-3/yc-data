@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-14T04:40:15.261Z",
+  "last_updated": "2026-06-15T04:53:35.705Z",
   "readme": "https://github.com/prajjwal2-3/yc-data",
   "companies": {
     "all": {
@@ -34,7 +34,7 @@
     },
     "hiring": {
       "name": "Companies currently hiring",
-      "count": 1482,
+      "count": 1483,
       "api": "https://prajjwal2-3.github.io/yc-data/companies/hiring.json"
     }
   },
@@ -71,7 +71,7 @@
     },
     "ai": {
       "name": "AI",
-      "count": 795,
+      "count": 794,
       "api": "https://prajjwal2-3.github.io/yc-data/tags/ai.json"
     },
     "ai-assistant": {
@@ -86,7 +86,7 @@
     },
     "ai-powered-drug-discovery": {
       "name": "AI-powered Drug Discovery",
-      "count": 35,
+      "count": 34,
       "api": "https://prajjwal2-3.github.io/yc-data/tags/ai-powered-drug-discovery.json"
     },
     "aiops": {
@@ -161,7 +161,7 @@
     },
     "artificial-intelligence": {
       "name": "Artificial Intelligence",
-      "count": 871,
+      "count": 868,
       "api": "https://prajjwal2-3.github.io/yc-data/tags/artificial-intelligence.json"
     },
     "assistive-tech": {
@@ -201,7 +201,7 @@
     },
     "b2b": {
       "name": "B2B",
-      "count": 1069,
+      "count": 1066,
       "api": "https://prajjwal2-3.github.io/yc-data/tags/b2b.json"
     },
     "banking-as-a-service": {
@@ -241,7 +241,7 @@
     },
     "biotech": {
       "name": "Biotech",
-      "count": 136,
+      "count": 135,
       "api": "https://prajjwal2-3.github.io/yc-data/tags/biotech.json"
     },
     "biotechnology": {
@@ -511,7 +511,7 @@
     },
     "cybersecurity": {
       "name": "Cybersecurity",
-      "count": 43,
+      "count": 41,
       "api": "https://prajjwal2-3.github.io/yc-data/tags/cybersecurity.json"
     },
     "dao": {
@@ -561,7 +561,7 @@
     },
     "defense": {
       "name": "Defense",
-      "count": 5,
+      "count": 12,
       "api": "https://prajjwal2-3.github.io/yc-data/tags/defense.json"
     },
     "defi": {
@@ -591,7 +591,7 @@
     },
     "developer-tools": {
       "name": "Developer Tools",
-      "count": 520,
+      "count": 518,
       "api": "https://prajjwal2-3.github.io/yc-data/tags/developer-tools.json"
     },
     "devops": {
@@ -711,7 +711,7 @@
     },
     "enterprise-software": {
       "name": "Enterprise Software",
-      "count": 112,
+      "count": 111,
       "api": "https://prajjwal2-3.github.io/yc-data/tags/enterprise-software.json"
     },
     "entertainment": {
@@ -756,7 +756,7 @@
     },
     "fintech": {
       "name": "Fintech",
-      "count": 689,
+      "count": 688,
       "api": "https://prajjwal2-3.github.io/yc-data/tags/fintech.json"
     },
     "fitness": {
@@ -886,12 +886,12 @@
     },
     "health-tech": {
       "name": "Health Tech",
-      "count": 169,
+      "count": 168,
       "api": "https://prajjwal2-3.github.io/yc-data/tags/health-tech.json"
     },
     "healthcare": {
       "name": "Healthcare",
-      "count": 202,
+      "count": 201,
       "api": "https://prajjwal2-3.github.io/yc-data/tags/healthcare.json"
     },
     "healthcare-it": {
@@ -971,7 +971,7 @@
     },
     "insurance": {
       "name": "Insurance",
-      "count": 72,
+      "count": 71,
       "api": "https://prajjwal2-3.github.io/yc-data/tags/insurance.json"
     },
     "international": {
@@ -1081,7 +1081,7 @@
     },
     "marketing": {
       "name": "Marketing",
-      "count": 101,
+      "count": 102,
       "api": "https://prajjwal2-3.github.io/yc-data/tags/marketing.json"
     },
     "marketplace": {
@@ -1391,7 +1391,7 @@
     },
     "robotic-process-automation": {
       "name": "Robotic Process Automation",
-      "count": 30,
+      "count": 31,
       "api": "https://prajjwal2-3.github.io/yc-data/tags/robotic-process-automation.json"
     },
     "robotic-surgery": {
@@ -1411,7 +1411,7 @@
     },
     "saas": {
       "name": "SaaS",
-      "count": 1078,
+      "count": 1076,
       "api": "https://prajjwal2-3.github.io/yc-data/tags/saas.json"
     },
     "sales": {
@@ -1441,7 +1441,7 @@
     },
     "security": {
       "name": "Security",
-      "count": 86,
+      "count": 85,
       "api": "https://prajjwal2-3.github.io/yc-data/tags/security.json"
     },
     "security-orchestration-automation-and-response-(soar)": {
