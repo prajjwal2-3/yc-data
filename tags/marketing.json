@@ -3212,9 +3212,9 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6a04edfc3d5a9b0bb3ae585010c50f7f39fdc2a1.png",
     "website": "http://nowadays.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Nowadays is an AI copilot that automates the boring parts of planning corporate events and retreats. For example, our AI can contact venues by email and phone to get availability, deal with back-and-forth negotiations, and present the best options. ",
-    "one_liner": "AI co-pilot for corporate retreat and event planning",
-    "team_size": 5,
+    "long_description": "Nowadays is the AI-native platform for corporate meetings and events. Our AI doesn't just assist planners – it does the work. It emails and calls venues, negotiates rates in 22 languages, parses 50-page hotel proposals into clean apples-to-apples comparisons, and surfaces unmanaged meeting spend across your entire org.\r\n\r\nWe work with companies ranging from ones planning one epic company kickoff a year to ones running thousands of meetings through the platform annually. Clients include Google, Airbnb, BlackRock, Anthropic, Pylon, and Mintlify.\r\n\r\nUnlike legacy platforms like Cvent that bolted AI onto decades-old infrastructure, Nowadays was built from the ground up for the AI era.",
+    "one_liner": "AI-native platform for corporate meetings and events",
+    "team_size": 9,
     "industry": "B2B",
     "subindustry": "B2B -> Operations",
     "launched_at": 1687830204,
@@ -3237,9 +3237,7 @@
     ],
     "regions": [
       "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -4239,14 +4237,14 @@
     "subindustry": "B2B -> Marketing",
     "launched_at": 1752263741,
     "tags": [
+      "Artificial Intelligence",
       "B2B",
       "Marketing",
-      "Market Research",
-      "AI"
+      "Market Research"
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Summer 2025",
     "status": "Active",
@@ -4483,49 +4481,5 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/bluma",
     "api": "https://prajjwal2-3.github.io/yc-data/batches/fall-2025/bluma.json"
-  },
-  {
-    "id": 31398,
-    "name": "Pavoot",
-    "slug": "pavoot",
-    "former_names": [
-      "Pavoot (formerly capturecore)"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/085aa6b975fc26df4bd975cbb1ee82cc22f514a2.png",
-    "website": "https://pavoot.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Pavoot is an AI event manager for companies that run in-person customer events.\r\n\r\nMore and more companies are investing in dinners, summits, and community events because relationships drive revenue. But today, running events means sourcing attendees, sending invitations, hosting the event, and then manually digging through notes, emails, and spreadsheets afterward to figure out who attended, what was discussed, who is a strong lead, and who should be followed up with. Most teams either send generic \"thanks for coming\" emails or never properly capture the value created during the event.\r\n\r\nPavoot replaces this fragmented workflow with a single AI system that keeps every attendee, interaction, conversation, and follow-up connected in one place, making relationship-driven growth scalable.\r\n\r\nGohar and Ana met while studying Computer Science at ETH Zurich. Gohar is a six-time Swiss chess champion and was the youngest member of Switzerland’s national chess team at age 13. Ana won more than 20 medals in scientific Olympiads, ranked 1st in CS at Latin America’s most competitive university, and built internal AI systems used by hundreds of data scientists at some of the largest banks in Latin America before moving to ETH Zurich for AI research.\r\n\r\n===\r\n\r\nBook a demo: pavoot.com",
-    "one_liner": "AI Event Manager for in-person events",
-    "team_size": 0,
-    "industry": "B2B",
-    "subindustry": "B2B -> Marketing",
-    "launched_at": 1778084784,
-    "tags": [
-      "SaaS",
-      "B2B",
-      "Marketing",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Spring 2026",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Marketing"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/pavoot",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/pavoot.json"
   }
 ]
