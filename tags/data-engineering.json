@@ -3596,9 +3596,9 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f9cc80521b4e48dc602aef29ce4fb7d4c0f5dda1.png",
     "website": "https://runtrellis.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Trellis helps healthcare providers treat more patients, faster—while eliminating pre-service paperwork. We automate document intake, prior authorizations, and appeals at scale to streamline operations and accelerate care.\r\n\r\nOur AI agent is trained on millions of clinical data points and converts messy, unstructured documents into clean, structured data directly in your EHR.\r\n\r\nWith Trellis, leading healthcare providers and pharmaceutical companies were able to:\r\n\r\n1. Reduce time to treatment by over 90%\r\n\r\n2. Improve prior authorization approval and reimbursement rates\r\n\r\n3. Leverage structured data to enhance drug program performance and clinical decision-making\r\n\r\nAdministrative costs account for over 20% of U.S. healthcare spending—delaying care, draining revenue, and driving staff burnout while having less visibility into patient care than ever before. We built Trellis to tackle this head on.",
-    "one_liner": "AI for streamlining healthcare paperwork",
-    "team_size": 25,
+    "long_description": "",
+    "one_liner": "Accelerate Medication Access with AI",
+    "team_size": 34,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1709255809,
@@ -4076,6 +4076,46 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/sherpa-labs",
     "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2025/sherpa-labs.json"
+  },
+  {
+    "id": 30506,
+    "name": "Klavis AI",
+    "slug": "klavis-ai",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/81ca0035244a123067c03e5df2d892bbd9cb7d00.png",
+    "website": "https://www.klavis.ai/",
+    "all_locations": "",
+    "long_description": "Powering frontier AI labs with real world environments and complex, long-horizon agentic data",
+    "one_liner": "High-Quality Coding & Agentic Data for Training AI Agents",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1744314522,
+    "tags": [
+      "Artificial Intelligence",
+      "Data Engineering",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2025",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/klavis-ai",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2025/klavis-ai.json"
   },
   {
     "id": 30542,

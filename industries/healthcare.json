@@ -26310,7 +26310,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fcaf4d4e89631a63bee94c1af531a630ac0f1858.png",
     "website": "https://paratushealth.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "We're the first GTM data platform built for selling into healthcare. If you sell to clinics, hospitals, or providers, you know the problem: public healthcare data is messy, contacts go stale fast, and reps burn hours on lists that bounce. We clean it, enrich it with live web data, and layer on buying signals that surface which practices are actually in pain and ready to buy - so you get accurate, ready-to-call lists without building your own data team. And we're just getting started: more data sources, more signals, and deeper coverage are shipping fast. Want to see it on your ICP? Reach out and we'll pull you a sample list.\r\n",
+    "long_description": "We’re building the first GTM data platform made for selling into healthcare.\r\n\r\nPreviously built voice agents for outpatient facilities and scaled to 35+ in under a year. Healthcare GTM data is broken - so we’re building what we wish we’d had.",
     "one_liner": "The first healthcare GTM data platform",
     "team_size": 2,
     "industry": "Healthcare",
@@ -28680,7 +28680,13 @@
     "industry": "Healthcare",
     "subindustry": "Healthcare -> Industrial Bio",
     "launched_at": 1779916747,
-    "tags": [],
+    "tags": [
+      "SaaS",
+      "B2B",
+      "Biotech",
+      "Automation",
+      "AI"
+    ],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": false,
@@ -28745,7 +28751,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a993952405cff56ad7f559e6e6fcf8b0c2191ed2.png",
     "website": "https://www.getbiostack.com/",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "",
     "long_description": "BioStack is building the data engine for healthcare and drug discovery AI. The bottleneck is not models. It is access to high-quality biological data. Clinical and experimental data is fragmented, unstructured, and locked inside hospitals, labs, and CROs, while generating new data is slow and expensive. BioStack fixes this with proprietary clinical and preclinical data pipelines that turn real biomedical workflows into ML-ready training environments.\r\n\r\nWe structure longitudinal multimodal data across imaging, EHR, and experimental assays, then package it for post-training and reinforcement learning so models can learn how research and care actually happen. Instead of static datasets, BioStack gives AI labs workflow-aligned data and environments that improve reasoning, decision-making, and real-world performance in biology and medicine.",
     "one_liner": "Real world training envs for healthcare AI models",
     "team_size": 0,
@@ -28763,8 +28769,7 @@
       "Healthcare"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "Unspecified"
     ],
     "stage": "Early",
     "app_video_public": false,
