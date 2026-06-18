@@ -1300,7 +1300,7 @@
     "all_locations": "New York, NY, USA",
     "long_description": "Dataland is the applied AI lab for complex operations and customer support. In 8 months, we've grown to multi-million dollar ARR as just two founders and are highly profitable. We’re partnering with some of the fastest growing startups and public companies in the world.",
     "one_liner": "AI agents for customer support.",
-    "team_size": 2,
+    "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B -> Operations",
     "launched_at": 1594828571,
@@ -4078,46 +4078,6 @@
     "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2025/sherpa-labs.json"
   },
   {
-    "id": 30506,
-    "name": "Klavis AI",
-    "slug": "klavis-ai",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/81ca0035244a123067c03e5df2d892bbd9cb7d00.png",
-    "website": "https://www.klavis.ai/",
-    "all_locations": "",
-    "long_description": "Powering frontier AI labs with real world environments and complex, long-horizon agentic data",
-    "one_liner": "High-Quality Coding & Agentic Data for Training AI Agents",
-    "team_size": 3,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1744314522,
-    "tags": [
-      "Artificial Intelligence",
-      "Data Engineering",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Spring 2025",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/klavis-ai",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2025/klavis-ai.json"
-  },
-  {
     "id": 30542,
     "name": "Vision Lab",
     "slug": "vision-lab",
@@ -4389,14 +4349,14 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Bringing data realism to frontier models.",
     "one_liner": "Bringing data realism to frontier models.",
-    "team_size": 3,
+    "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1761236237,
     "tags": [
-      "Artificial Intelligence",
       "Generative AI",
       "Data Engineering",
+      "AI",
       "Conversational AI"
     ],
     "tags_highlighted": [],
