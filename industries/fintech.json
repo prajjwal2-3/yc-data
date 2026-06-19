@@ -22925,19 +22925,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2adfd60610f060b139d1e1752fe74ca86d3be846.png",
     "website": "",
     "all_locations": "New York, NY, USA",
-    "long_description": "TokenOwl aggregates financial accounts in one place with trustless AI. It lets highly active traders calculate taxes with greater accuracy and generate AI powered insights about their portfolio.\r\n\r\nUsers can execute trades with prompts, build custom dashboards, and query their logs in natural language.\r\n",
-    "one_liner": "AI portfolio tools for the next generation of finance",
+    "long_description": "\r\n\r\n",
+    "one_liner": "Payment infrastructure for machines",
     "team_size": 2,
     "industry": "Fintech",
     "subindustry": "Fintech",
     "launched_at": 1711575762,
     "tags": [
-      "Crypto / Web3",
-      "AI"
+      "Artificial Intelligence"
     ],
-    "tags_highlighted": [
-      "Crypto / Web3"
-    ],
+    "tags_highlighted": [],
     "top_company": false,
     "isHiring": false,
     "nonprofit": false,
@@ -23647,14 +23644,14 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Corgi is a full-stack insurance carrier building better, faster insurance products for startups. We’re not a broker, so we underwrite and issue policies directly, with fewer handoffs and less friction. Cutting out intermediaries lets us tailor coverage to how your company actually operates and price risk more efficiently.\r\n\r\n",
     "one_liner": "Corgi is building an AI financial infrastructure company",
-    "team_size": 100,
+    "team_size": 150,
     "industry": "Fintech",
     "subindustry": "Fintech -> Insurance",
     "launched_at": 1720644316,
     "tags": [
+      "Artificial Intelligence",
       "Fintech",
-      "Insurance",
-      "AI"
+      "Insurance"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -23670,7 +23667,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,

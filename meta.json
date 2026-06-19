@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-06-18T04:23:40.558Z",
+  "last_updated": "2026-06-19T04:51:15.955Z",
   "readme": "https://github.com/prajjwal2-3/yc-data",
   "companies": {
     "all": {
       "name": "All launched companies",
-      "count": 5960,
+      "count": 5961,
       "api": "https://prajjwal2-3.github.io/yc-data/companies/all.json"
     },
     "top": {
@@ -34,7 +34,7 @@
     },
     "hiring": {
       "name": "Companies currently hiring",
-      "count": 1484,
+      "count": 1483,
       "api": "https://prajjwal2-3.github.io/yc-data/companies/hiring.json"
     }
   },
@@ -71,7 +71,7 @@
     },
     "ai": {
       "name": "AI",
-      "count": 781,
+      "count": 785,
       "api": "https://prajjwal2-3.github.io/yc-data/tags/ai.json"
     },
     "ai-assistant": {
@@ -161,7 +161,7 @@
     },
     "artificial-intelligence": {
       "name": "Artificial Intelligence",
-      "count": 881,
+      "count": 878,
       "api": "https://prajjwal2-3.github.io/yc-data/tags/artificial-intelligence.json"
     },
     "assistive-tech": {
@@ -456,7 +456,7 @@
     },
     "crypto-web3": {
       "name": "Crypto / Web3",
-      "count": 90,
+      "count": 89,
       "api": "https://prajjwal2-3.github.io/yc-data/tags/crypto-web3.json"
     },
     "cryptocurrency": {
@@ -1056,7 +1056,7 @@
     },
     "logistics": {
       "name": "Logistics",
-      "count": 127,
+      "count": 128,
       "api": "https://prajjwal2-3.github.io/yc-data/tags/logistics.json"
     },
     "machine-learning": {
@@ -1371,7 +1371,7 @@
     },
     "retail": {
       "name": "Retail",
-      "count": 48,
+      "count": 49,
       "api": "https://prajjwal2-3.github.io/yc-data/tags/retail.json"
     },
     "retail-tech": {
@@ -1728,7 +1728,7 @@
     },
     "b2b": {
       "name": "B2B",
-      "count": 3048,
+      "count": 3049,
       "api": "https://prajjwal2-3.github.io/yc-data/industries/b2b.json"
     },
     "banking-and-exchange": {
@@ -1943,7 +1943,7 @@
     },
     "retail": {
       "name": "Retail",
-      "count": 129,
+      "count": 130,
       "api": "https://prajjwal2-3.github.io/yc-data/industries/retail.json"
     },
     "sales": {
@@ -2225,7 +2225,7 @@
     },
     "summer-2026": {
       "name": "Summer 2026",
-      "count": 17,
+      "count": 18,
       "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2026.json"
     },
     "fall-2026": {
