@@ -9,8 +9,8 @@
 
 API endpoint: https://prajjwal2-3.github.io/yc-data/meta.json
 
-- Last updated: June 20, 2026 at 4:06 AM
-- Companies: 5961
+- Last updated: June 21, 2026 at 4:47 AM
+- Companies: 5962
 - Batches: 50
 - Industries: 59
 - Tags: 332
@@ -82,7 +82,7 @@ API endpoint: https://prajjwal2-3.github.io/yc-data/meta.json
 | Fall 2024   | 94    | https://prajjwal2-3.github.io/yc-data/batches/fall-2024.json   |
 | Spring 2025 | 143   | https://prajjwal2-3.github.io/yc-data/batches/spring-2025.json |
 | Summer 2025 | 166   | https://prajjwal2-3.github.io/yc-data/batches/summer-2025.json |
-| Summer 2026 | 18    | https://prajjwal2-3.github.io/yc-data/batches/summer-2026.json |
+| Summer 2026 | 19    | https://prajjwal2-3.github.io/yc-data/batches/summer-2026.json |
 | Fall 2026   | 3     | https://prajjwal2-3.github.io/yc-data/batches/fall-2026.json   |
 | Winter 2027 | 1     | https://prajjwal2-3.github.io/yc-data/batches/winter-2027.json |
 | Unspecified | 1     | https://prajjwal2-3.github.io/yc-data/batches/unspecified.json |
@@ -102,7 +102,7 @@ API endpoint: https://prajjwal2-3.github.io/yc-data/meta.json
 | Asset Management                | 54    | https://prajjwal2-3.github.io/yc-data/industries/asset-management.json               |
 | Automotive                      | 21    | https://prajjwal2-3.github.io/yc-data/industries/automotive.json                     |
 | Aviation and Space              | 60    | https://prajjwal2-3.github.io/yc-data/industries/aviation-and-space.json             |
-| B2B                             | 3049  | https://prajjwal2-3.github.io/yc-data/industries/b2b.json                            |
+| B2B                             | 3050  | https://prajjwal2-3.github.io/yc-data/industries/b2b.json                            |
 | Banking and Exchange            | 70    | https://prajjwal2-3.github.io/yc-data/industries/banking-and-exchange.json           |
 | Climate                         | 52    | https://prajjwal2-3.github.io/yc-data/industries/climate.json                        |
 | Construction                    | 48    | https://prajjwal2-3.github.io/yc-data/industries/construction.json                   |
@@ -189,7 +189,7 @@ API endpoint: https://prajjwal2-3.github.io/yc-data/meta.json
 | AR                                                     | 6     | https://prajjwal2-3.github.io/yc-data/tags/ar.json                                                    |
 | Architecture                                           | 4     | https://prajjwal2-3.github.io/yc-data/tags/architecture.json                                          |
 | Art Trading Platforms                                  | 1     | https://prajjwal2-3.github.io/yc-data/tags/art-trading-platforms.json                                 |
-| Artificial Intelligence                                | 878   | https://prajjwal2-3.github.io/yc-data/tags/artificial-intelligence.json                               |
+| Artificial Intelligence                                | 879   | https://prajjwal2-3.github.io/yc-data/tags/artificial-intelligence.json                               |
 | Assistive Tech                                         | 6     | https://prajjwal2-3.github.io/yc-data/tags/assistive-tech.json                                        |
 | Augmented Reality                                      | 23    | https://prajjwal2-3.github.io/yc-data/tags/augmented-reality.json                                     |
 | Auto Commerce                                          | 5     | https://prajjwal2-3.github.io/yc-data/tags/auto-commerce.json                                         |
@@ -362,7 +362,7 @@ API endpoint: https://prajjwal2-3.github.io/yc-data/meta.json
 | Lab-on-a-chip                                          | 1     | https://prajjwal2-3.github.io/yc-data/tags/lab-on-a-chip.json                                         |
 | Latin America                                          | 20    | https://prajjwal2-3.github.io/yc-data/tags/latin-america.json                                         |
 | Legal                                                  | 36    | https://prajjwal2-3.github.io/yc-data/tags/legal.json                                                 |
-| LegalTech                                              | 52    | https://prajjwal2-3.github.io/yc-data/tags/legaltech.json                                             |
+| LegalTech                                              | 53    | https://prajjwal2-3.github.io/yc-data/tags/legaltech.json                                             |
 | Lending                                                | 17    | https://prajjwal2-3.github.io/yc-data/tags/lending.json                                               |
 | Lidar                                                  | 1     | https://prajjwal2-3.github.io/yc-data/tags/lidar.json                                                 |
 | Live                                                   | 6     | https://prajjwal2-3.github.io/yc-data/tags/live.json                                                  |
@@ -440,8 +440,8 @@ API endpoint: https://prajjwal2-3.github.io/yc-data/meta.json
 | Robotics                                               | 103   | https://prajjwal2-3.github.io/yc-data/tags/robotics.json                                              |
 | Rocketry                                               | 3     | https://prajjwal2-3.github.io/yc-data/tags/rocketry.json                                              |
 | SaaS                                                   | 1075  | https://prajjwal2-3.github.io/yc-data/tags/saas.json                                                  |
-| Sales                                                  | 117   | https://prajjwal2-3.github.io/yc-data/tags/sales.json                                                 |
-| Sales Enablement                                       | 37    | https://prajjwal2-3.github.io/yc-data/tags/sales-enablement.json                                      |
+| Sales                                                  | 118   | https://prajjwal2-3.github.io/yc-data/tags/sales.json                                                 |
+| Sales Enablement                                       | 38    | https://prajjwal2-3.github.io/yc-data/tags/sales-enablement.json                                      |
 | Satellites                                             | 19    | https://prajjwal2-3.github.io/yc-data/tags/satellites.json                                            |
 | Scheduling                                             | 12    | https://prajjwal2-3.github.io/yc-data/tags/scheduling.json                                            |
 | Search                                                 | 18    | https://prajjwal2-3.github.io/yc-data/tags/search.json                                                |

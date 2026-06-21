@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-06-20T04:06:32.743Z",
+  "last_updated": "2026-06-21T04:47:37.369Z",
   "readme": "https://github.com/prajjwal2-3/yc-data",
   "companies": {
     "all": {
       "name": "All launched companies",
-      "count": 5961,
+      "count": 5962,
       "api": "https://prajjwal2-3.github.io/yc-data/companies/all.json"
     },
     "top": {
@@ -34,7 +34,7 @@
     },
     "hiring": {
       "name": "Companies currently hiring",
-      "count": 1484,
+      "count": 1483,
       "api": "https://prajjwal2-3.github.io/yc-data/companies/hiring.json"
     }
   },
@@ -161,7 +161,7 @@
     },
     "artificial-intelligence": {
       "name": "Artificial Intelligence",
-      "count": 878,
+      "count": 879,
       "api": "https://prajjwal2-3.github.io/yc-data/tags/artificial-intelligence.json"
     },
     "assistive-tech": {
@@ -1026,7 +1026,7 @@
     },
     "legaltech": {
       "name": "LegalTech",
-      "count": 52,
+      "count": 53,
       "api": "https://prajjwal2-3.github.io/yc-data/tags/legaltech.json"
     },
     "lending": {
@@ -1416,12 +1416,12 @@
     },
     "sales": {
       "name": "Sales",
-      "count": 117,
+      "count": 118,
       "api": "https://prajjwal2-3.github.io/yc-data/tags/sales.json"
     },
     "sales-enablement": {
       "name": "Sales Enablement",
-      "count": 37,
+      "count": 38,
       "api": "https://prajjwal2-3.github.io/yc-data/tags/sales-enablement.json"
     },
     "satellites": {
@@ -1728,7 +1728,7 @@
     },
     "b2b": {
       "name": "B2B",
-      "count": 3049,
+      "count": 3050,
       "api": "https://prajjwal2-3.github.io/yc-data/industries/b2b.json"
     },
     "banking-and-exchange": {
@@ -2225,7 +2225,7 @@
     },
     "summer-2026": {
       "name": "Summer 2026",
-      "count": 18,
+      "count": 19,
       "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2026.json"
     },
     "fall-2026": {
