@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-06-21T04:47:37.369Z",
+  "last_updated": "2026-06-22T04:54:46.680Z",
   "readme": "https://github.com/prajjwal2-3/yc-data",
   "companies": {
     "all": {
       "name": "All launched companies",
-      "count": 5962,
+      "count": 5963,
       "api": "https://prajjwal2-3.github.io/yc-data/companies/all.json"
     },
     "top": {
@@ -34,7 +34,7 @@
     },
     "hiring": {
       "name": "Companies currently hiring",
-      "count": 1483,
+      "count": 1486,
       "api": "https://prajjwal2-3.github.io/yc-data/companies/hiring.json"
     }
   },
@@ -71,7 +71,7 @@
     },
     "ai": {
       "name": "AI",
-      "count": 786,
+      "count": 784,
       "api": "https://prajjwal2-3.github.io/yc-data/tags/ai.json"
     },
     "ai-assistant": {
@@ -161,7 +161,7 @@
     },
     "artificial-intelligence": {
       "name": "Artificial Intelligence",
-      "count": 879,
+      "count": 880,
       "api": "https://prajjwal2-3.github.io/yc-data/tags/artificial-intelligence.json"
     },
     "assistive-tech": {
@@ -201,7 +201,7 @@
     },
     "b2b": {
       "name": "B2B",
-      "count": 1066,
+      "count": 1064,
       "api": "https://prajjwal2-3.github.io/yc-data/tags/b2b.json"
     },
     "banking-as-a-service": {
@@ -521,17 +521,17 @@
     },
     "data-engineering": {
       "name": "Data Engineering",
-      "count": 100,
+      "count": 99,
       "api": "https://prajjwal2-3.github.io/yc-data/tags/data-engineering.json"
     },
     "data-labeling": {
       "name": "Data Labeling",
-      "count": 16,
+      "count": 15,
       "api": "https://prajjwal2-3.github.io/yc-data/tags/data-labeling.json"
     },
     "data-science": {
       "name": "Data Science",
-      "count": 31,
+      "count": 30,
       "api": "https://prajjwal2-3.github.io/yc-data/tags/data-science.json"
     },
     "data-visualization": {
@@ -986,7 +986,7 @@
     },
     "investments": {
       "name": "Investments",
-      "count": 6,
+      "count": 7,
       "api": "https://prajjwal2-3.github.io/yc-data/tags/investments.json"
     },
     "iot": {
@@ -1031,7 +1031,7 @@
     },
     "lending": {
       "name": "Lending",
-      "count": 17,
+      "count": 18,
       "api": "https://prajjwal2-3.github.io/yc-data/tags/lending.json"
     },
     "lidar": {
@@ -1366,7 +1366,7 @@
     },
     "restaurant-tech": {
       "name": "Restaurant Tech",
-      "count": 13,
+      "count": 14,
       "api": "https://prajjwal2-3.github.io/yc-data/tags/restaurant-tech.json"
     },
     "retail": {
@@ -1818,7 +1818,7 @@
     },
     "fintech": {
       "name": "Fintech",
-      "count": 635,
+      "count": 636,
       "api": "https://prajjwal2-3.github.io/yc-data/industries/fintech.json"
     },
     "food-and-beverage": {
@@ -1918,7 +1918,7 @@
     },
     "operations": {
       "name": "Operations",
-      "count": 145,
+      "count": 146,
       "api": "https://prajjwal2-3.github.io/yc-data/industries/operations.json"
     },
     "payments": {
@@ -1928,7 +1928,7 @@
     },
     "productivity": {
       "name": "Productivity",
-      "count": 229,
+      "count": 228,
       "api": "https://prajjwal2-3.github.io/yc-data/industries/productivity.json"
     },
     "real-estate-and-construction": {
@@ -2195,7 +2195,7 @@
     },
     "winter-2025": {
       "name": "Winter 2025",
-      "count": 168,
+      "count": 167,
       "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2025.json"
     },
     "spring-2026": {
@@ -2225,7 +2225,7 @@
     },
     "summer-2026": {
       "name": "Summer 2026",
-      "count": 19,
+      "count": 21,
       "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2026.json"
     },
     "fall-2026": {
