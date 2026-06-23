@@ -3145,7 +3145,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2023",
     "status": "Active",
@@ -4600,8 +4600,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c4abd74b393a1e6689bfee5e6e18611677894c03.png",
     "website": "https://usesoren.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Soren develops specialized AI solutions for modern teams. We help institutions identify, deploy, and operate AI safely across high-impact workflows.\r\n\r\nWe partner with organizations at every stage, from early exploration to full-scale AI transformations.\r\n\r\nAs an AI-native company, we're able to deliver these services at a fraction of the time and cost as legacy firms.",
-    "one_liner": "Custom AI for Modern Businesses",
+    "long_description": "Soren is the AI transformation partner for legacy institutions. We help companies identify, deploy, and operate AI safely across high-impact workflows.\r\n\r\nAs an AI-native company, we deliver outcomes in a fraction of the time and cost of traditional consulting firms while providing a more efficient, streamlined client experience.\r\n\r\nWe partner with organizations at every stage, from early exploration to full-scale AI transformations.\r\n",
+    "one_liner": "AI Transformation for Legacy Institutions",
     "team_size": null,
     "industry": "B2B",
     "subindustry": "B2B",
@@ -4714,5 +4714,45 @@
     "question_answers": true,
     "url": "https://www.ycombinator.com/companies/ontora",
     "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/ontora.json"
+  },
+  {
+    "id": 31476,
+    "name": "Shepherd",
+    "slug": "shepherd-3",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/391f78e0202565767f4e07ba30c7abaf3cd19093.png",
+    "website": "https://askshepherd.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Shepherd automatically ingests every tool your team uses into one unified memory you can index, and your agents can act on.",
+    "one_liner": "Your company memory, one text away",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1782183998,
+    "tags": [
+      "Enterprise",
+      "Search",
+      "AI Assistant"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/shepherd-3",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2026/shepherd-3.json"
   }
 ]

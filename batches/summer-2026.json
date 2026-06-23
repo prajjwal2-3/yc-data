@@ -162,6 +162,48 @@
     "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2026/control-seat.json"
   },
   {
+    "id": 31268,
+    "name": "Cova",
+    "slug": "cova",
+    "former_names": [
+      "Omnition"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a88cf729487706988d23e57fa307a54ba446b835.png",
+    "website": "https://michiganhomehelp.com/",
+    "all_locations": "Detroit, MI, USA",
+    "long_description": "Cova is an AI-native home care agency, licensed and starting in Michigan. We serve Medicaid, LTCI, and private pay patients, and help unpaid family caregivers access coverage most of them did not know existed. Our entire operation runs on agents, which means less overhead, faster operations, and more value passed directly to the people who do the actual work.",
+    "one_liner": "AI-Native Home Care Agency",
+    "team_size": 2,
+    "industry": "Healthcare",
+    "subindustry": "Healthcare",
+    "launched_at": 1782162197,
+    "tags": [
+      "Consumer Health Services",
+      "Healthcare",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "Healthcare"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/cova",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2026/cova.json"
+  },
+  {
     "id": 31342,
     "name": "Osmaura",
     "slug": "osmaura",
@@ -209,6 +251,46 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/osmaura",
     "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2026/osmaura.json"
+  },
+  {
+    "id": 31476,
+    "name": "Shepherd",
+    "slug": "shepherd-3",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/391f78e0202565767f4e07ba30c7abaf3cd19093.png",
+    "website": "https://askshepherd.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Shepherd automatically ingests every tool your team uses into one unified memory you can index, and your agents can act on.",
+    "one_liner": "Your company memory, one text away",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1782183998,
+    "tags": [
+      "Enterprise",
+      "Search",
+      "AI Assistant"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/shepherd-3",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2026/shepherd-3.json"
   },
   {
     "id": 31989,
@@ -389,16 +471,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c2506c5899c2529c2d5cc182e3a242e11f99aa02.png",
     "website": "https://usetruffle.ai/",
     "all_locations": "New York City, NY, USA",
-    "long_description": "Truffle is the first AI-native operating system for the hospitality back-of-house. Restaurants, cafes and bars still run on a patchwork of disconnected point solutions, spreadsheets, clipboards and tribal knowledge, which costs the industry billions each year in stockouts, food waste, and lost profit. Truffle replaces that entire stack with one system. Computer vision and voice AI capture real-time inventory 90% faster than manual counts, ML models forecast item-level demand at 97% accuracy, and AI agents run dozens of end-to-end workflows autonomously, from procurement and invoice reconciliation to scheduling, food prep, menu engineering, and more.",
+    "long_description": "Truffle is the first AI-native operating system for the hospitality back-of-house. Restaurants, cafes and bars still run on a patchwork of disconnected point solutions, spreadsheets, clipboards and tribal knowledge, which costs the industry billions each year in stockouts, food waste, and lost profit. Truffle replaces that entire stack with one system. Computer vision and voice AI capture real-time inventory levels 90% faster than manual counts, ML models forecast item-level demand at 97% accuracy, and AI agents run dozens of end-to-end workflows autonomously, from procurement and invoice reconciliation to scheduling, food prep, menu engineering, and more.",
     "one_liner": "The autonomous back-of-house for restaurants.",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
-    "launched_at": 1778796626,
+    "launched_at": 1782079217,
     "tags": [
-      "Artificial Intelligence",
       "SaaS",
-      "Restaurant Tech"
+      "Restaurant Tech",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -658,6 +740,48 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/machine0",
     "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2026/machine0.json"
+  },
+  {
+    "id": 32551,
+    "name": "Bloomy",
+    "slug": "bloomy",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/209c1fdd9d657cb4fad05300bbb0faf304f4d29c.png",
+    "website": "https://bloomylearning.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Bloomy helps students learn more efficiently by using AI to identify exactly what a student should learn and when they should learn it. We provide adaptive and personalized curriculum to K-12, starting with English Language Arts and Math.",
+    "one_liner": "AI-powered mastery learning for K-12",
+    "team_size": 1,
+    "industry": "Education",
+    "subindustry": "Education",
+    "launched_at": 1779286377,
+    "tags": [
+      "AI-Enhanced Learning",
+      "Education",
+      "eLearning",
+      "Personalization",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "Education"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/bloomy",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2026/bloomy.json"
   },
   {
     "id": 33018,

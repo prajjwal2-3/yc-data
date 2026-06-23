@@ -5100,7 +5100,7 @@
     "slug": "filadd",
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0de09f1797d2255295571d9c8eaf0a9c8e1700d5.png",
-    "website": "https://courses.filadd.com/",
+    "website": "https://filadd.com/",
     "all_locations": "Córdoba, Cordoba, Argentina",
     "long_description": "We provide premium, personalized courses for college entrance exams (like Chile’s PAES and Brazil’s ENEM) combining engaging video lessons, live tutoring, AI-powered study plans, and downloadable resources.\r\nToday we serve over 25,000 students annually across Chile, Brazil, Argentina, and Colombia, with a 90% YoY growth and industry-leading margins.",
     "one_liner": "We help students in Latin America graduate from College.",
@@ -6297,7 +6297,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2024",
     "status": "Active",
@@ -6948,5 +6948,47 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/parrot",
     "api": "https://prajjwal2-3.github.io/yc-data/batches/fall-2025/parrot.json"
+  },
+  {
+    "id": 32551,
+    "name": "Bloomy",
+    "slug": "bloomy",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/209c1fdd9d657cb4fad05300bbb0faf304f4d29c.png",
+    "website": "https://bloomylearning.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Bloomy helps students learn more efficiently by using AI to identify exactly what a student should learn and when they should learn it. We provide adaptive and personalized curriculum to K-12, starting with English Language Arts and Math.",
+    "one_liner": "AI-powered mastery learning for K-12",
+    "team_size": 1,
+    "industry": "Education",
+    "subindustry": "Education",
+    "launched_at": 1779286377,
+    "tags": [
+      "AI-Enhanced Learning",
+      "Education",
+      "eLearning",
+      "Personalization",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "Education"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/bloomy",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2026/bloomy.json"
   }
 ]
