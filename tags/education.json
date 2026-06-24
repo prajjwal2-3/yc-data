@@ -1719,7 +1719,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2017",
     "status": "Active",
@@ -6962,7 +6962,7 @@
     "team_size": 1,
     "industry": "Education",
     "subindustry": "Education",
-    "launched_at": 1779286377,
+    "launched_at": 1782182610,
     "tags": [
       "AI-Enhanced Learning",
       "Education",
