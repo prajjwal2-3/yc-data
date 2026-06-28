@@ -8904,50 +8904,6 @@
     "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2018/oxygen.json"
   },
   {
-    "id": 2030,
-    "name": "Culdesac",
-    "slug": "culdesac",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/496d0ff1f20ae199837eebe1bfef35fa059329d0.png",
-    "website": "http://culdesac.com",
-    "all_locations": "San Francisco, CA, USA; Tempe, AZ, USA",
-    "long_description": "Culdesac designs, builds, and manages walkable communities. \r\n\r\nCuldesac is a real estate developer and property manager. We build neighborhoods that embrace community, open space, and mobility. We offer residential units at a variety of price points integrated with local retail, commercial uses, and open space for nature and public plazas.\r\n\r\nOur communities prioritize biking, walking, and transit over cars and parking. We partner with leading mobility companies to deliver convenient and affordable transportation services. This creates a vibrant urban lifestyle without the need for a private vehicle.\r\n\r\nRead more here > https://medium.com/culdesac/introducing-culdesac-3fbfe7c4219c",
-    "one_liner": "We build cities for people, not cars. ",
-    "team_size": 100,
-    "industry": "Real Estate and Construction",
-    "subindustry": "Real Estate and Construction -> Housing and Real Estate",
-    "launched_at": 1575871649,
-    "tags": [
-      "Real Estate",
-      "Housing",
-      "Proptech",
-      "ClimateTech"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Summer 2018",
-    "status": "Active",
-    "industries": [
-      "Real Estate and Construction",
-      "Housing and Real Estate"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Growth",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/culdesac",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2018/culdesac.json"
-  },
-  {
     "id": 11895,
     "name": "Overview",
     "slug": "overview",
@@ -35902,7 +35858,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -37020,18 +36976,19 @@
   },
   {
     "id": 28899,
-    "name": "maintouch",
+    "name": "Maintouch",
     "slug": "maintouch",
     "former_names": [
       "Hidden Hand",
-      "Camber"
+      "Camber",
+      "maintouch"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8503fa1fa8dc82e542107db7db1968d3e8c1d09b.png",
     "website": "https://maintouch.com/?utm_source=bookface&utm_medium=social&utm_campaign=profile",
     "all_locations": "New York, NY, USA",
-    "long_description": "We're the ONLY platform to help you rank on both SEO and AI Search. I grew up working at my family's 9 figure SEO agency and learned how to automate everything. That's what we do for people now.",
-    "one_liner": "Scale SEO and AI SEO from one platform.",
-    "team_size": 9,
+    "long_description": "We're the ONLY platform to help you rank on both SEO and AI Search (AEO/GEO). I grew up working at my family's 9-figure SEO agency and learned how to automate everything. That's what we do for people now.",
+    "one_liner": "Drive leads with SEO and AEO.",
+    "team_size": 15,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1690571664,
@@ -47748,10 +47705,10 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/637fd6f0b41173fce58a7cc13944c42be5d808ec.png",
     "website": "https://www.arva.ai",
-    "all_locations": "London, United Kingdom",
+    "all_locations": "New York, NY, USA",
     "long_description": "Banks and fintechs have large teams of human analysts who conduct manual checks and reviews. We replace those human compliance analysts with AI agents that automate 80% of the manual work for faster and more compliant financial crime (AML) reviews.\r\n\r\nOur first three products are: Screening AI (discount 91% of screening alerts), KYB/C AI (speed up onboarding), Transaction Monitoring AI (handle AML transaction monitoring alerts)\r\n\r\nOur end goal is to have a whole suite of AI workers that can handle manual compliance work for banks and fintechs. A $24B opportunity in the US alone.",
     "one_liner": "AI Agents to scale AML, KYB and KYC operations",
-    "team_size": 14,
+    "team_size": 20,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1721196993,
@@ -47772,8 +47729,8 @@
       "B2B"
     ],
     "regions": [
-      "United Kingdom",
-      "Europe"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -53658,7 +53615,7 @@
     "all_locations": "New York City, NY, USA",
     "long_description": "Photonium is building software to automate optical system design. We supercharge optics experts with intelligent tooling to reduce costs and deliver faster. We handle the full design stack — from optimization, verification, sourcing, to prototyping — for AR/VR, quantum, biotech, metrology/chip fab, LiDAR, and more. ",
     "one_liner": "AI-Powered Optical Consulting & Software",
-    "team_size": 3,
+    "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1748388578,
@@ -59726,16 +59683,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3c02ad81894db8e1b1d0e71c379c7cae04211613.png",
     "website": "https://velvetlab.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Bringing data realism to frontier models.",
-    "one_liner": "Bringing data realism to frontier models.",
+    "long_description": "The multimodal data lab.",
+    "one_liner": "The multimodal data lab.",
     "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1761236237,
     "tags": [
+      "Artificial Intelligence",
       "Generative AI",
       "Data Engineering",
-      "AI",
       "Conversational AI"
     ],
     "tags_highlighted": [],
@@ -61140,14 +61097,17 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/083700d7d477f8653353926e2c024cda96cf803d.png",
     "website": "https://revion.inc",
-    "all_locations": "",
+    "all_locations": "New York, NY, USA",
     "long_description": "Revion is building the operating system for Automotive Retail. Our first product helps Technicians automate administrative work, which drains 30-40% of their day. With Revion, Auto Retailers can service more vehicles and drive more high-margin Revenue. ",
     "one_liner": "Intelligence for Automotive Operations",
-    "team_size": 4,
+    "team_size": 10,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1771887263,
-    "tags": [],
+    "tags": [
+      "Artificial Intelligence",
+      "Automotive"
+    ],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": true,
@@ -61158,7 +61118,10 @@
       "B2B"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -63311,6 +63274,46 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/huscarl",
     "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/huscarl.json"
+  },
+  {
+    "id": 33013,
+    "name": "Operon",
+    "slug": "operon",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/aaeb7f2ff7aa5b0b7e64888230be2a7e46342f66.png",
+    "website": "https://operonsolutions.com/en",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Operon is the data intelligence layer for heavy industry. We ingest the messy documents a plant runs on (P&IDs, schematics, datasheets, scans) and turn them into one structured, queryable model of the facility.\r\n\r\nOn top of it, engineers query their plant in natural language and build agentic workflows for safety, compliance, and design. \r\n\r\n",
+    "one_liner": "Agentic data layer for manufacturing & process industries. ",
+    "team_size": 0,
+    "industry": "Industrials",
+    "subindustry": "Industrials",
+    "launched_at": 1782593141,
+    "tags": [
+      "Computer Vision",
+      "Manufacturing",
+      "Infrastructure"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "Industrials"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/operon",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2026/operon.json"
   },
   {
     "id": 33277,

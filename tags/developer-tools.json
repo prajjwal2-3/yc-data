@@ -14369,7 +14369,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -21144,13 +21144,14 @@
   },
   {
     "id": 30616,
-    "name": "gitdot",
-    "slug": "gitdot",
+    "name": "args",
+    "slug": "args",
     "former_names": [
-      "Async"
+      "Async",
+      "gitdot"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2d07ddb576ac56313f5c987b3bb7c2ff770b583a.png",
-    "website": "https://www.gitdot.io/",
+    "website": "https://args.io/",
     "all_locations": "New York City, NY, USA",
     "long_description": "",
     "one_liner": "A better GItHub",
@@ -21181,8 +21182,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/gitdot",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2025/gitdot.json"
+    "url": "https://www.ycombinator.com/companies/args",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2025/args.json"
   },
   {
     "id": 30630,
@@ -21413,8 +21414,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9292b62c58dc81055b437ce647dc7c3ea10ffc5c.png",
     "website": "https://magnitude.dev",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Magnitude is a coding agent and model provider in one, built to get maximum performance and efficiency from open models. It costs 60% less than Claude Code with no drop in performance.",
-    "one_liner": "The best way to code with open models",
+    "long_description": "The full Claude Code experience, except it runs anywhere. From our infra to fully air-gapped in your data center.",
+    "one_liner": "The best coding agent for open models",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",

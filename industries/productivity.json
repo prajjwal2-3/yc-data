@@ -8676,13 +8676,14 @@
   },
   {
     "id": 30616,
-    "name": "gitdot",
-    "slug": "gitdot",
+    "name": "args",
+    "slug": "args",
     "former_names": [
-      "Async"
+      "Async",
+      "gitdot"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2d07ddb576ac56313f5c987b3bb7c2ff770b583a.png",
-    "website": "https://www.gitdot.io/",
+    "website": "https://args.io/",
     "all_locations": "New York City, NY, USA",
     "long_description": "",
     "one_liner": "A better GItHub",
@@ -8713,8 +8714,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/gitdot",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2025/gitdot.json"
+    "url": "https://www.ycombinator.com/companies/args",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2025/args.json"
   },
   {
     "id": 30618,
