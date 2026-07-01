@@ -13678,6 +13678,51 @@
     "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2015/kickpay.json"
   },
   {
+    "id": 774,
+    "name": "Platzi",
+    "slug": "platzi",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e10b69888a43c949c6837cf87eb4b924e904ef8a.png",
+    "website": "https://platzi.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Platzi turns a company's scattered knowledge into training that automatically builds expert teams. It captures how an organization's top performers sell, build, and operate, then shapes that knowledge into structured training that brings the rest of the workforce to their level. The courses are created instantly from each company's own knowledge, self-updating as it changes. It's training that never goes stale, and no one has to maintain. And just as pilots learn to fly in a simulator, Platzi measures mastery in simulated work scenarios, like a sales rep handling a hard objection or a frontline worker holding the line on safety while a manager pushes to cut corners. The test is the work, not course completion.",
+    "one_liner": "Turning company knowledge into expert teams",
+    "team_size": 123,
+    "industry": "B2B",
+    "subindustry": "B2B -> Productivity",
+    "launched_at": 1416220798,
+    "tags": [
+      "AI-Enhanced Learning",
+      "Education",
+      "eLearning",
+      "Sales Enablement",
+      "HR Tech"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2015",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Productivity"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Growth",
+    "app_video_public": false,
+    "demo_day_video_public": true,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/platzi",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2015/platzi.json"
+  },
+  {
     "id": 775,
     "name": "Omniref",
     "slug": "omniref",
@@ -69316,7 +69361,7 @@
       "Unify",
       "Ivy"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/83b928b3a530ff16bbc6d564f577a92a4c895cc9.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fb15970521caafcd30f313c8eaa1359733d2d2dd.png",
     "website": "https://unify.ai",
     "all_locations": "London, England, United Kingdom; Remote",
     "long_description": "No prompting, no setup, no jargon. Just hop on a call, onboard like anyone else, and let them take the tedious tasks off your plate.",
@@ -79500,18 +79545,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0bdcc8475801e999a95ad750970c80614d23f5c4.png",
     "website": "https://metal.ai/",
     "all_locations": "New York, NY, USA",
-    "long_description": "Metal is building the world’s most powerful intelligence platform for private market investors. We support deal teams throughout the investment lifecycle - from market research and sourcing to diligence and post-close. Top-tier funds like Berkshire Partners and Clearlake Capital already rely on Metal to move faster and make smarter investment decisions - and we’re just getting started.\r\n\r\nIf you're excited to transform how private investors work, collaborate, and make decisions, we’d love to meet you.",
-    "one_liner": "Institutional Intelligence for Private Equity",
+    "long_description": "Firm proprietary data is only as sharp as the context around it. Metal is the context platform for private capital.\r\n\r\nIt structures everything a firm has touched, every deal, company, and figure, along with every decision the deal team has made, into one context graph. So the AI tools your deal teams already rely on, like Claude, ChatGPT, and Copilot, can reason with the firm's own knowledge. Every deal feeds back into the graph, so the firm's edge compounds: each decision sharpens the one that follows.\r\n\r\nMetal is purpose-built for private equity and private credit. We turn what a firm knows into how it wins.",
+    "one_liner": "The AI context platform for private capital. Everything your firm…",
     "team_size": 17,
     "industry": "B2B",
     "subindustry": "B2B -> Finance and Accounting",
     "launched_at": 1674209670,
     "tags": [
-      "Artificial Intelligence",
       "Fintech",
       "SaaS",
       "Finance",
-      "Investing"
+      "Investing",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -79953,18 +79998,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b9b1d03584239acca9b7673ae88585f25fe796b0.png",
     "website": "https://www.warp.co/",
     "all_locations": "New York, NY, USA",
-    "long_description": "Warp is a modern, AI-native employee management platform for high-growth companies.\r\n\r\nWe’ve raised $85M from Battery Ventures, Peak XV, Sapphire, Sound Ventures (Ashton Kutcher), A-Star, Abstract, SV Angel & Homebrew Capital. \r\n\r\nWe are humbled to have the backing from people who have built some of the most important companies of the last two decades: Shopify CEO Tobi Lütke, Stripe COO Claire Hughes Johnson, Dropbox co-founders Drew Houston and Arash Ferdowsi, Coinbase CTO Balaji Srinivasan, Eventbrite founder Kevin Hartz, Cruise founder Kyle Vogt, and Replit founder Amjad Masad.",
+    "long_description": "Warp is the AI-native employee management platform for high-growth companies. We run payroll, HR, compliance, benefits, and IT on a single platform for companies from 5 to 10,000 employees, using AI agents to complete the work that legacy systems leave to people.\r\n\r\nWe've raised $85M from Battery Ventures, Peak XV, Sound Ventures (Ashton Kutcher), Sapphire, A-Star, SV Angel, and Homebrew Capital.\r\n\r\nSome of the fastest growing companies of today trust Warp to reduce HR and admin overhead so they build faster. We're proud to serve top startups like Serval, Bland, Greptile, Reducto, Corgi, Campfire, alongside our mid-size and enterprise customers.\r\n\r\nWe're humbled to have the backing of people who have built some of the most important companies of the last two decades: Shopify CEO Tobi Lütke, former Stripe COO Claire Hughes Johnson, Dropbox co-founders Drew Houston and Arash Ferdowsi, former Coinbase CTO Balaji Srinivasan, Eventbrite founder Kevin Hartz, former Cruise founder Kyle Vogt, and Replit founder Amjad Masad.",
     "one_liner": "AI-native Employee Management Platform for High-Growth Companies",
-    "team_size": 50,
+    "team_size": 80,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1677261125,
     "tags": [
-      "Artificial Intelligence",
       "B2B",
       "HR Tech",
       "Payroll",
-      "Operations"
+      "Operations",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -79983,7 +80028,7 @@
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
-    "question_answers": true,
+    "question_answers": false,
     "url": "https://www.ycombinator.com/companies/warp",
     "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2023/warp.json"
   },
@@ -83267,7 +83312,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2023",
     "status": "Active",
@@ -84018,7 +84063,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -85681,14 +85726,14 @@
     "all_locations": "Berlin, Berlin, Germany",
     "long_description": "Tiptap is a suite of open source content editing and real-time collaboration tools for developers building apps like Notion or Google Docs. It’s used by thousands of businesses worldwide, including LinkedIn, GitLab, Axios, and Anthropic.",
     "one_liner": "The open-source document editor for humans and AI agents.",
-    "team_size": 18,
+    "team_size": 19,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1687103873,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
-      "Open Source",
-      "AI"
+      "Open Source"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -86943,7 +86988,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2023",
     "status": "Active",
@@ -87481,7 +87526,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Greptile reviews pull requests with full context of the codebase. \r\n\r\nTop YC companies like PostHog, Raycast, Vouch, Podium, and YC's own internal software team use Greptile to review millions of changes every week. \r\n\r\nWhen companies start using Greptile, they catch more bugs and merge PRs 4x faster, on average\r\n\r\nGreptile can be used via the cloud, or be hosted 100% on your cloud in an air-gapped VPC.",
     "one_liner": "AI code review agent with complete context of your codebase",
-    "team_size": 20,
+    "team_size": 35,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1695668492,
@@ -87504,7 +87549,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": true,
     "demo_day_video_public": true,
     "app_answers": null,
@@ -101318,7 +101363,7 @@
     "all_locations": "New York, NY, USA",
     "long_description": "Crouton is the living map of your organization.\r\n\r\nIt’s for founders and operators at growing companies who need to understand how people, teams, roles, and ownership actually fit together.\r\n\r\nToday they piece this together from org charts, Notion docs, spreadsheets, Slack, and memory and then redo it every time something changes.",
     "one_liner": "The living map of your organization",
-    "team_size": 1,
+    "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Operations",
     "launched_at": 1730739931,
@@ -101479,7 +101524,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/cdfc2cbde82e44ba7028fcc0e806374a31e74349.png",
     "website": "https://darkgrade.com",
-    "all_locations": "New York, NY, USA",
+    "all_locations": "Denver, CO, USA",
     "long_description": "We're building a protocol for large language models to directly interface with image sensors.",
     "one_liner": "Let your camera understand the world",
     "team_size": 1,
@@ -101487,11 +101532,11 @@
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1731328761,
     "tags": [
-      "Artificial Intelligence",
       "Consumer",
       "Social Media",
       "Video",
-      "Media"
+      "Media",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -102721,7 +102766,7 @@
     "all_locations": "London, United Kingdom",
     "long_description": "Autumn is open-source infrastructure over Stripe that allows AI startups to build their pricing plans quickly, and flexibly. We act as your app's DB and manage who's paying for what, track usage and manage customer feature access.\r\n\r\nYC companies use us because we make it easy to handle common pricing models like usage-based, credits, subscriptions, rollovers and more in 3 functions and no webhooks. \r\n\r\nAs you scale, you get reliable billing, that you can change however you want without wrangling code (we handle versioning, migrations etc), and manage custom pricing too. Everything you could down the line (credits, multiple subscription groups, rollovers, referral program, usage analytics, centralized team billing etc), you can drop in at any point. ",
     "one_liner": "Billing infrastructure for AI",
-    "team_size": 2,
+    "team_size": 5,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1730430835,
@@ -106855,9 +106900,9 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/669230895e9a350309e4b696d01d846593838da1.png",
     "website": "https://www.corsair.dev",
-    "all_locations": "New York, NY, USA",
-    "long_description": "What Corsair is:\r\nCorsair gives you (or your agent) safe access to hundreds of integrations. It natively handles all integration plumbing. The only code you write is the code that's specific to your use case. Your data stays yours.\r\n\r\nWhy we wrote it:\r\nIntegrations make products capable. Integrations are also frustrating to write. If you look at any codebase with integrations, 95% of the code is identical. It's all just basic plumbing. The part of the integration that is unique to a codebase and actually adds value is probably just a few lines. We shouldn't waste time writing and maintaining the 95% for a few lines. The developer community has just accepted that we do. Corsair handles the 95% so you don't have to. It's really hard to get wrong. ",
-    "one_liner": "Integration Layer for AI Agents",
+    "all_locations": "New York, NY, USA; Remote",
+    "long_description": "Corsair connects your app to any other API. Use Corsair to build custom agents, dashboards, and workflows with hundreds of different integrations. ",
+    "one_liner": "Connect your users to their apps",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -106881,7 +106926,9 @@
     ],
     "regions": [
       "United States of America",
-      "America / Canada"
+      "America / Canada",
+      "Remote",
+      "Fully Remote"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -108555,22 +108602,25 @@
   },
   {
     "id": 30431,
-    "name": "Chonkie",
-    "slug": "chonkie",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ec7731d8a7139472d0383a52014ff67683cdac5c.png",
-    "website": "https://www.chonkie.ai",
+    "name": "Feyn",
+    "slug": "feyn",
+    "former_names": [
+      "Chonkie"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7711f83eeb988737aadd19d8943c753d2e4085f4.png",
+    "website": "https://www.usefeyn.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Chonkie builds deep research agents that surface non-obvious signals from scattered data. Our agents combine public and private sources to deliver detailed, continuously updated research that stays current as underlying facts change.\r\n\r\nWe open source most of the libraries and infrastructure we build. Our most popular library, Chonkie, handles chunking and embedding for AI applications with 100K downloads/day and adoption by OpenAI, Microsoft, and LlamaIndex.",
-    "one_liner": "Deep research on autopilot",
-    "team_size": 2,
+    "long_description": "Feyn is an end-to-end service for building custom models from your data. Our models learn how your product actually works, handle the rare cases that are costly to get wrong, and grow sharper the longer they run.\r\n\r\nOur engineers start by reviewing your current setup and agreeing on what quality means for your workflow. Then we train a model on your data. Once it ships, new cases feed back into training so the model keeps improving. \r\n\r\nThe result is a model that runs faster, improves with use, and is yours to own.",
+    "one_liner": "Custom models trained on your data",
+    "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1741421145,
     "tags": [
       "Artificial Intelligence",
       "Developer Tools",
-      "AI"
+      "AI",
+      "ML"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -108591,8 +108641,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/chonkie",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2025/chonkie.json"
+    "url": "https://www.ycombinator.com/companies/feyn",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2025/feyn.json"
   },
   {
     "id": 30432,
@@ -112606,16 +112656,16 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Speech models trained on internet data still lack realistic results. We solve this by collecting targeted training data for model labs. We hope to create a world where AI feels more human.",
     "one_liner": "Audio & Video Data",
-    "team_size": 2,
+    "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1753401226,
     "tags": [
-      "Artificial Intelligence",
       "Marketplace",
       "B2B",
       "Data Labeling",
-      "Big Data"
+      "Big Data",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -116508,15 +116558,14 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/90fdf57ee767b5dd755c70594623163dda1cbae4.png",
     "website": "https://www.outrove.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Outrove is the world’s most realistic AI recruiter, with a human-appearing interview agent that has both video and audio and can join Google Meet calls.\r\n",
-    "one_liner": "Ultra-realistic AI Recruiter",
+    "long_description": "Surveys ask people what they think they’ll do. Focus groups ask a handful of people to explain behavior they often don’t understand themselves.\r\n\r\nOutrove simulates entire populations instead. We create AI agents that model how real audiences behave, letting companies, governments, and investors test decisions in minutes: what product to launch, what price to set, what campaign to run, what policy will work, or how a market will move.\r\n\r\nThe output is not another dashboard. It’s a prediction of what will happen, which segments will drive it, and what decision is most likely to win.",
+    "one_liner": "Synthetic populations for decisions",
     "team_size": 2,
     "industry": "B2B",
-    "subindustry": "B2B -> Recruiting and Talent",
+    "subindustry": "B2B",
     "launched_at": 1753159084,
     "tags": [
-      "Recruiting",
-      "AI"
+      "Artificial Intelligence"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -116525,8 +116574,7 @@
     "batch": "Summer 2025",
     "status": "Active",
     "industries": [
-      "B2B",
-      "Recruiting and Talent"
+      "B2B"
     ],
     "regions": [
       "United States of America",
@@ -123897,13 +123945,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/186bc6483be3828abcf998b9a4ffedbef27ecfed.png",
     "website": "https://ressl.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "We automate the back office so field crews can focus on the actual work.\r\n\r\nTrades businesses (HVAC, plumbing, electrical, collision repair, roofing) run on legacy software and \"glue\" employees: people whose entire job is clicking through systems, copy-pasting between tools, and managing inbound volume across channels. A collision shop has one person generating estimates in CCCOne, another chasing parts vendors, another answering calls and Yelp messages, another doing invoices in QuickBooks. None of that requires a human.\r\n\r\nWe build proactive background agents that run these operations autonomously -- quoting, estimating, procurement, insurance coordination, scheduling, follow-ups -- on top of the software these businesses already own. \r\n\r\nWe started as an AI consulting firm talking to businesses across every industry. After a month, the pattern was obvious - trades and field services had the most \"glue work\" and the least tech sophistication to solve it themselves. Every shop we walked into had 2–4 people doing work that software should be delivering as an outcome, not just enabling.\r\n\r\nOur GTM is direct to operators and through PE-backed roll-ups, who are actively looking for margin improvements across their portfolio companies. If this is of interest, please reach out arushi@ressl.ai",
-    "one_liner": "AI Workers for Field Services",
-    "team_size": 4,
+    "long_description": "Ressl AI helps teams bridge the gap from prototype to production by providing the platform needed to train, benchmark, and deploy autonomous agents that actually work in real-world business systems.",
+    "one_liner": "Train, eval and build autonomous agents",
+    "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1765975223,
-    "tags": [],
+    "tags": [
+      "Artificial Intelligence",
+      "B2B",
+      "Operations"
+    ],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": false,
@@ -124239,7 +124291,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Founded in 2025, Byteport is a technology company that builds mission-critical network infrastructure for robotics, satellite, AI, and enterprise applications all over the world. Businesses of every size—from new startups to public companies—use our software to accelerate file transfer online.",
     "one_liner": "Global upload acceleration for 1GB-100TB files.",
-    "team_size": 2,
+    "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1768498499,
@@ -124436,22 +124488,22 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9c4aa01fc589ba1d208558f7b720c6081f672b08.png",
     "website": "https://www.superset.sh/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Superset helps engineers run 100s of coding agents in parallel. ",
-    "one_liner": "The IDE for the AI Agents Era",
+    "long_description": "Superset is an open-source IDE that helps engineers run 100s of coding agents in parallel.\r\n\r\nOur desktop app is loved by tens of thousands of engineers, and we're scaling out our effort to build a collaborative, cross-platform tool to allow users to code anywhere.",
+    "one_liner": "Building the platform for software factories",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1772696752,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "Consumer",
       "B2B",
-      "Enterprise Software"
+      "Enterprise Software",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Spring 2026",
     "status": "Active",
@@ -126175,11 +126227,11 @@
       "vizlog",
       "Halcyon"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/63934d43dcd74318180ec3c1c312807e4665bef0.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f8f5bfc033ae31d6282044fe4ce792725cc090a1.png",
     "website": "https://osmaura.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Osmaura help partners find and win new matters by monitoring the web, news, socials, and internal firm CRM to surface highly targeted opportunities for each partner.\r\n\r\nAfter speaking with 100+ partners, we saw that every partner is under pressure to originate new work, but most do not get the level of dedicated support that \"rainmakers\" receive. That is because the work is still largely manual and expensive: tracking latent legal needs signals and figuring out how to engage the potential client.\r\n\r\nAI makes it possible to give every partner rainmaker-level support.",
-    "one_liner": "We find new matter opportunities for law firms.",
+    "long_description": "As soon as a lawyer is made partner, they’re expected to bring in new business.\r\n\r\nHowever, it’s often not clear when a company is going to need legal counsel. So partners are encouraged to do business development with every person in their network in hopes that at least one of them generates new work.\r\n\r\nOsmaura gives partners a deeper understanding of prospective clients and legal support they might need at the right time.\r\n\r\nOur agents do this by monitoring the web, news, socials, and internal firm context to surface targeted matter opportunities for each partner.",
+    "one_liner": "We find new matter opportunities for corporate law firms.",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
@@ -130267,6 +130319,47 @@
     "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2026/rex-inc.json"
   },
   {
+    "id": 32164,
+    "name": "Prized",
+    "slug": "prized",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7162dc10af43dc1c38075eec773f7958383384d2.png",
+    "website": "https://prized.dev",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Prized lets non-engineers build, deploy, and share secure internal tools with AI, no engineering required. You don't need to know where the data lives, what APIs to use, or which connectors you need. Just describe what you want (a customer lookup, a dashboard, an approval flow), and Prized builds the tool on top of the right company data inside a governed boundary.\r\n\r\nThe people who feel the pain of missing internal tools most are non-engineers. They understand the workflow best but are blocked by the software layer, so they wait on engineering, duct-tape spreadsheets together, or increasingly rip company data into Claude Code and Cursor with no thought to permissions, sharing, or governance.\r\n\r\nPrized makes security the default, enforced in the infrastructure rather than left to whoever built the tool. Each tool gets access only to the tables and integrations it was explicitly granted, credentials are workspace-scoped so tools can't cross org boundaries, and outbound calls go through a controlled layer. \r\n\r\nAs an employee builds and shares, a teammate forks it and re-points it at their own data, and over time the company builds up a library of governed tools it actually owns.\r\n\r\nHudson was founding engineer at Gander (F24, acquired by Archer), then full-stack at Suno. Marinos studied CS and ME at Stanford and was on the same Gander team.",
+    "one_liner": "Internal tools, built by the people who use them.",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1782800618,
+    "tags": [
+      "Developer Tools",
+      "SaaS",
+      "Productivity"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/prized",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2026/prized.json"
+  },
+  {
     "id": 32165,
     "name": "Rote",
     "slug": "rote",
@@ -130921,6 +131014,47 @@
     "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2026/coasty.json"
   },
   {
+    "id": 33805,
+    "name": "Edviro",
+    "slug": "edviro",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c179a28044a3d4a8c3ceaf2a5b8cecbf90f66aa7.png",
+    "website": "https://edviroenergy.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Edviro helps facilities managers at large buildings save on their energy bills. Facilities managers are overwhelmed with dashboards, alarms, and analytics for hundreds of boilers, HVAC units, and heat pumps across their buildings. Edviro continuously monitors and optimizes buildings using energy world models to detect anomalies, simulate interventions, and suggest the best options to the facilities manager.  Once the changes occur, we create a comprehensive M&V report to ensure savings show up on the bill. \r\n\r\nOur tools also allow institutions to maintain detailed service history & equipment logs, and perform maintenance with AR.  ",
+    "one_liner": "Energy world models that fix energy waste before it becomes expensive.",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1782807553,
+    "tags": [
+      "Deep Learning",
+      "B2B",
+      "Energy"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/edviro",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2026/edviro.json"
+  },
+  {
     "id": 33806,
     "name": "Experiential Labs",
     "slug": "experiential-labs",
@@ -130931,14 +131065,14 @@
     "website": "https://experientiallabs.ai",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "An applied AI research lab building world models for hypothesis testing. We simulate reality faster and more accurately based on the technology self-driving uses to get 99.7% reconstruction fidelity. Our first use-case is automating creation and execution of agent evals based on telemetry traces.",
-    "one_liner": "World models for AI agents",
+    "one_liner": "World models for hypothesis testing",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1782607347,
     "tags": [
-      "Infrastructure",
-      "AI"
+      "Artificial Intelligence",
+      "Infrastructure"
     ],
     "tags_highlighted": [],
     "top_company": false,

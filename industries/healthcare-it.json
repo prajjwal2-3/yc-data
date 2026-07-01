@@ -1419,7 +1419,7 @@
       "Remote",
       "Fully Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -3457,7 +3457,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Medplum makes it easy to build healthcare webapps that are compliant and interoperability ready.  Our open source toolkit allows healthcare providers write apps that are HIPAA compliant, SOC2 certified and FHIR native - streamlining payor connections, health system integrations and more. ",
     "one_liner": "API first electronic health record (EHR) that is open source",
-    "team_size": 12,
+    "team_size": 20,
     "industry": "Healthcare",
     "subindustry": "Healthcare -> Healthcare IT",
     "launched_at": 1659548315,
@@ -3478,7 +3478,9 @@
     ],
     "regions": [
       "United States of America",
-      "America / Canada"
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -4368,7 +4370,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2023",
     "status": "Active",
@@ -5141,16 +5143,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a6d299272e28e28fc0eef5034541be246b698d0b.png",
     "website": "https://www.syntra.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Syntra is a real-time AI audit platform for healthcare revenue, compliance, and care quality. Our customers start with Syntra’s chart and claim audit and build additional agents from there. Our agents learn each practice’s workflows, payer rules, and software stack on its own, enabling us to give every clinic in the country the operating efficiency they need to stay independent.\r\n\r\nSyntra has already processed over 1M patient encounters, supports hundreds of practice locations nationwide, and ensures $100Ms in medical claim collections annually.\r\n",
+    "long_description": "Syntra is a real-time medical AI audit platform for revenue, compliance, and care quality. \r\n\r\nIn our first year post launch, Syntra has already audited over 1M patient encounters and over $200M in insurance collections, supporting hundreds of practice locations nationwide.\r\n\r\nOur customers start with Syntra’s chart and claim audit and build additional agents from there. Our agents learn each practice’s workflows, payer rules, and software stack on its own, enabling us to give every clinic in the country the operating efficiency they need to stay independent.",
     "one_liner": "Medical chart intelligence",
     "team_size": 10,
     "industry": "Healthcare",
     "subindustry": "Healthcare -> Healthcare IT",
     "launched_at": 1723733582,
     "tags": [
+      "Artificial Intelligence",
       "Big Data",
-      "Healthcare IT",
-      "AI"
+      "Healthcare IT"
     ],
     "tags_highlighted": [],
     "top_company": false,

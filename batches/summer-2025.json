@@ -59,7 +59,7 @@
     "all_locations": "London, United Kingdom",
     "long_description": "Autumn is open-source infrastructure over Stripe that allows AI startups to build their pricing plans quickly, and flexibly. We act as your app's DB and manage who's paying for what, track usage and manage customer feature access.\r\n\r\nYC companies use us because we make it easy to handle common pricing models like usage-based, credits, subscriptions, rollovers and more in 3 functions and no webhooks. \r\n\r\nAs you scale, you get reliable billing, that you can change however you want without wrangling code (we handle versioning, migrations etc), and manage custom pricing too. Everything you could down the line (credits, multiple subscription groups, rollovers, referral program, usage analytics, centralized team billing etc), you can drop in at any point. ",
     "one_liner": "Billing infrastructure for AI",
-    "team_size": 2,
+    "team_size": 5,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1730430835,
@@ -1206,16 +1206,16 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Speech models trained on internet data still lack realistic results. We solve this by collecting targeted training data for model labs. We hope to create a world where AI feels more human.",
     "one_liner": "Audio & Video Data",
-    "team_size": 2,
+    "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1753401226,
     "tags": [
-      "Artificial Intelligence",
       "Marketplace",
       "B2B",
       "Data Labeling",
-      "Big Data"
+      "Big Data",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -6392,15 +6392,14 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/90fdf57ee767b5dd755c70594623163dda1cbae4.png",
     "website": "https://www.outrove.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Outrove is the world’s most realistic AI recruiter, with a human-appearing interview agent that has both video and audio and can join Google Meet calls.\r\n",
-    "one_liner": "Ultra-realistic AI Recruiter",
+    "long_description": "Surveys ask people what they think they’ll do. Focus groups ask a handful of people to explain behavior they often don’t understand themselves.\r\n\r\nOutrove simulates entire populations instead. We create AI agents that model how real audiences behave, letting companies, governments, and investors test decisions in minutes: what product to launch, what price to set, what campaign to run, what policy will work, or how a market will move.\r\n\r\nThe output is not another dashboard. It’s a prediction of what will happen, which segments will drive it, and what decision is most likely to win.",
+    "one_liner": "Synthetic populations for decisions",
     "team_size": 2,
     "industry": "B2B",
-    "subindustry": "B2B -> Recruiting and Talent",
+    "subindustry": "B2B",
     "launched_at": 1753159084,
     "tags": [
-      "Recruiting",
-      "AI"
+      "Artificial Intelligence"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -6409,8 +6408,7 @@
     "batch": "Summer 2025",
     "status": "Active",
     "industries": [
-      "B2B",
-      "Recruiting and Talent"
+      "B2B"
     ],
     "regions": [
       "United States of America",

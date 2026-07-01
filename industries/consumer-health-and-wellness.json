@@ -2993,10 +2993,11 @@
   },
   {
     "id": 23832,
-    "name": "Reframe (Glucobit)",
+    "name": "Reframe",
     "slug": "reframe",
     "former_names": [
-      "Reframe"
+      "Reframe",
+      "Reframe (Glucobit)"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1f29cfaa35ab3e5d69c3ad18e07fdadaf7461ea3.png",
     "website": "https://www.joinreframeapp.com/",
@@ -3028,7 +3029,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
