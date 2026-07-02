@@ -61729,7 +61729,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -81152,10 +81152,10 @@
     "tags": [],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2023",
-    "status": "Active",
+    "status": "Acquired",
     "industries": [
       "B2B",
       "Engineering, Product and Design"
@@ -84063,7 +84063,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -87549,7 +87549,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": true,
     "demo_day_video_public": true,
     "app_answers": null,
@@ -104258,25 +104258,24 @@
   },
   {
     "id": 30214,
-    "name": "Serno",
-    "slug": "serno",
+    "name": "Ovlo",
+    "slug": "ovlo",
     "former_names": [
       "Melly AI",
-      "Ovlo"
+      "Ovlo",
+      "Serno"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/05a07f591188d21700a21e8d03d6cd5989e0a1fe.png",
-    "website": "https://serno.ai",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/132baabab2c2dd101f928b6f61adc1d4173a6ca6.png",
+    "website": "https://ovlo.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Serno is the AI tool you reach for when one model isn't enough: pricing strategy, market entry, hiring trade-offs, anything you'd normally route to a team. Describe the question and Serno assembles 3–5 AI experts on Claude, GPT, and Gemini, each with a real role and research brief. \r\n\r\nThey debate contradictions and map the answer as a canvas you can navigate, share, or export.",
-    "one_liner": "Custom AI experts that map what one AI can't",
+    "long_description": "Founder led hiring for London startups\r\n",
+    "one_liner": "Founder led hiring for London startups",
     "team_size": 2,
     "industry": "B2B",
-    "subindustry": "B2B -> Supply Chain and Logistics",
+    "subindustry": "B2B -> Recruiting and Talent",
     "launched_at": 1740586280,
     "tags": [
       "SaaS",
-      "Consumer Products",
-      "Conversational AI",
       "AI Assistant"
     ],
     "tags_highlighted": [],
@@ -104287,7 +104286,7 @@
     "status": "Active",
     "industries": [
       "B2B",
-      "Supply Chain and Logistics"
+      "Recruiting and Talent"
     ],
     "regions": [
       "United States of America",
@@ -104298,8 +104297,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/serno",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2025/serno.json"
+    "url": "https://www.ycombinator.com/companies/ovlo",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2025/ovlo.json"
   },
   {
     "id": 30215,
@@ -105253,7 +105252,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Winter 2025",
     "status": "Active",
@@ -105877,15 +105876,15 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fb05bd36fb4b277d12ebca5a33307afd09834f65.png",
     "website": "https://candor.security/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Insider threats cost the average enterprise $17.4M per year and take up to 3 months to contain. Most of those threats (employees leaking IP, contractors staging data for exfil, accounts misusing AI tools like Copilot) get buried in thousands of noisy alerts from traditional security tools. Candor changes this by telling your security team exactly who to watch before they cause damage. Zero tuning, detection from day one, and it actually learns from analyst feedback.",
-    "one_liner": "Insider Threat for the Modern Enterprise",
+    "long_description": "Candor is agentic data loss prevention (DLP) and insider risk management. Employees share sensitive data with third parties and email source code to personal inboxes every day. For fast-moving companies, protecting these crown jewels and customer trust is core to closing deals. Legacy DLP tools can cross off compliance checkboxes but flood security teams with false positives. Candor's AI agents understand both the data movement and the person behind it, giving lean security teams broad coverage without the noise. ",
+    "one_liner": "Protect your data and stop insider risk",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Security",
     "launched_at": 1740017526,
     "tags": [
-      "Cybersecurity",
-      "AI"
+      "Artificial Intelligence",
+      "Cybersecurity"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -106902,7 +106901,7 @@
     "website": "https://www.corsair.dev",
     "all_locations": "New York, NY, USA; Remote",
     "long_description": "Corsair connects your app to any other API. Use Corsair to build custom agents, dashboards, and workflows with hundreds of different integrations. ",
-    "one_liner": "Connect your users to their apps",
+    "one_liner": "Integration infrastructure that connects your users to their apps",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -111522,11 +111521,11 @@
     "slug": "starsling",
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fae29a98d132c4b435b336dbb5d6cf4a1aaf5de7.png",
-    "website": "https://www.starsling.dev/",
+    "website": "https://starsling.dev/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "StarSling is building an AI-native DevOps platform for developers that ship, starting with CI. StarSling Runners are fast GitHub Actions runners with AI agents that continuously improve your build speeds by more than 80%.",
+    "long_description": "Fast GitHub Actions runners with AI agents that continuously improve your CI to make it up to 6x faster and 13x cheaper.",
     "one_liner": "Self-Driving CI",
-    "team_size": 2,
+    "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1747381971,
@@ -112125,8 +112124,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/642bff7a1b26de3309aed7fc5200498a8dca5180.png",
     "website": "https://www.getasap.us",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Fresh-produce supply chains are built around guesswork. Growers plant without clear demand signals, distributors overbuy to protect against shortages, and retailers end up eating the waste. GETASAP fixes this by rebuilding distribution around real demand and fast execution. We deliver wholesale fresh produce with 8-hour same-day delivery, using micro-fulfillment centers positioned close to demand so we can operate with far less safety stock.\r\n\r\nBehind the scenes, we look at live retail sales, purchasing, and waste patterns to decide what to source, where to place inventory, and when to replenish. That lets us buy closer to actual demand, turn inventory faster, and materially reduce spoilage. For retailers, GETASAP replaces procurement teams and fragmented supplier management—we handle sourcing, inventory decisions, and fulfillment end to end as a single, reliable partner. As more volume flows through the network, demand becomes clearer, sourcing gets smarter, and the operation becomes cheaper and more predictable over time.",
-    "one_liner": "Distribution at the Speed of Compute",
+    "long_description": "Founded in 2023, GETASAP is a San Francisco–based technology and supply chain infrastructure company transforming fresh produce distribution and freight.\r\n\r\nGETASAP provides same-day delivery to thousands of restaurants and retail locations across the USA, sourcing directly from farms internationally. It operates GETASAP Logistics, an AI-native freight carrier and brokerage, to deliver reliable reefer LTL and FTL services powered by VoiceAI dispatch, optimized scheduling, and real-time operational intelligence.\r\n\r\nMain Offices: \r\nCalifornia: San Francisco (HQ), Fresno\r\nGeorgia: Alpharetta",
+    "one_liner": "AI-Native Fresh Produce Logistics",
     "team_size": 30,
     "industry": "B2B",
     "subindustry": "B2B -> Supply Chain and Logistics",
@@ -112134,7 +112133,6 @@
     "tags": [
       "B2B",
       "Logistics",
-      "E-commerce",
       "Supply Chain"
     ],
     "tags_highlighted": [],
@@ -116311,7 +116309,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2468a3c8a7c5f1a0405c0920fd164d3512f5b6f7.png",
     "website": "https://www.smartbase.so/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Smartbase is an AI-native ERP for manufacturers.\r\n\r\nOver the past six weeks, we’ve grown from $0 to $171k in contracted ARR.\r\n\r\nThree months ago, we slept at a factory to learn what manufacturers want. First, we learned that they want to automate their office work, like quoting and order entry. Our first customer signed a nearly $100k annual contract, on top of a $150k implementation fee, just for an ERP that automates this office work. They're already asking us to tackle bigger problems, like improving their margins and the quality of their product.\r\n\r\nWe're in a $6B vertical where people want to adopt a new ERP. And since we’re the system of record, our product is incredibly sticky — much more sticky than AI point solutions on top.",
+    "long_description": "Smartbase is an AI-native ERP for manufacturers.",
     "one_liner": "AI-native ERP for manufacturers",
     "team_size": 2,
     "industry": "B2B",
@@ -117480,7 +117478,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Fall 2025",
     "status": "Active",
@@ -124503,7 +124501,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Spring 2026",
     "status": "Active",
@@ -125586,13 +125584,14 @@
   },
   {
     "id": 31283,
-    "name": "Librar Labs",
-    "slug": "librar-labs",
+    "name": "Ossus",
+    "slug": "ossus",
     "former_names": [
-      "Librar"
+      "Librar",
+      "Librar Labs"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/cc71fc515d431ac2186349ba194efc3183ef3d19.png",
-    "website": "https://www.librarlabs.com",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5d996045fb0f0538e45cf4f2a7445da3af339bb3.png",
+    "website": "https://www.ossus.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "We build intelligence for cultural institutions.\r\n\r\nOur first commercial product is for the literature industry with a focus on school and public libraries. It is a AI-native OS for libraries, that helps librarians save time on tedious tasks and lets them focus on their patrons.\r\n",
     "one_liner": "Intelligence for cultural institutions",
@@ -125623,8 +125622,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/librar-labs",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2026/librar-labs.json"
+    "url": "https://www.ycombinator.com/companies/ossus",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2026/ossus.json"
   },
   {
     "id": 31289,
@@ -127580,7 +127579,7 @@
     "slug": "stablebrowse",
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ed9bc479aa95e772450f53b3ce34a581c2a1e4b7.png",
-    "website": "https://stablebrowse.com/",
+    "website": "https://stablebrowse.ai/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "We are making the browser layer for your AI agents. Agents don’t need to see UIs like us humans do. We give agents a semantic understanding of the web instead of brittle visual interfaces. Your agents can perform deep research, large-scale scraping, and complex automation—more efficiently with our knowledge graphs that turns the web into a native protocol for LLMs.",
     "one_liner": "Browser Layer for AI agents",
@@ -127589,10 +127588,10 @@
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1774843315,
     "tags": [
+      "Artificial Intelligence",
       "API",
       "Automation",
-      "Web Development",
-      "AI"
+      "Web Development"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -130615,7 +130614,7 @@
     "website": "https://touchmark.ai",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "",
-    "one_liner": "Prices AI by the value it delivers",
+    "one_liner": "Solving AI pricing",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
@@ -130931,6 +130930,49 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/markov",
     "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2026/markov.json"
+  },
+  {
+    "id": 33014,
+    "name": "Inkbox",
+    "slug": "inkbox",
+    "former_names": [
+      "Inkbox (Vectorly Inc)"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f2e10120a7184c6f7b716b22ea7167e079fcbd86.png",
+    "website": "https://inkbox.ai",
+    "all_locations": "Boston, MA, USA",
+    "long_description": "We are building the communication layer for AI agents: giving agents their own email, phone, iMessage, and internet address. Every interaction flows through Inkbox, so agents are enhanced with multi-channel context.",
+    "one_liner": "Give your AI agents email, phone, iMessage and an internet address",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1782881612,
+    "tags": [
+      "Developer Tools",
+      "Infrastructure",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/inkbox",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2026/inkbox.json"
   },
   {
     "id": 33052,
