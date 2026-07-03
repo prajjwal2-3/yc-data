@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-07-02T03:57:13.606Z",
+  "last_updated": "2026-07-03T03:40:15.741Z",
   "readme": "https://github.com/prajjwal2-3/yc-data",
   "companies": {
     "all": {
       "name": "All launched companies",
-      "count": 5999,
+      "count": 6001,
       "api": "https://prajjwal2-3.github.io/yc-data/companies/all.json"
     },
     "top": {
@@ -71,12 +71,12 @@
     },
     "ai": {
       "name": "AI",
-      "count": 805,
+      "count": 806,
       "api": "https://prajjwal2-3.github.io/yc-data/tags/ai.json"
     },
     "ai-assistant": {
       "name": "AI Assistant",
-      "count": 155,
+      "count": 154,
       "api": "https://prajjwal2-3.github.io/yc-data/tags/ai-assistant.json"
     },
     "ai-enhanced-learning": {
@@ -161,7 +161,7 @@
     },
     "artificial-intelligence": {
       "name": "Artificial Intelligence",
-      "count": 894,
+      "count": 898,
       "api": "https://prajjwal2-3.github.io/yc-data/tags/artificial-intelligence.json"
     },
     "assistive-tech": {
@@ -201,12 +201,12 @@
     },
     "b2b": {
       "name": "B2B",
-      "count": 1074,
+      "count": 1075,
       "api": "https://prajjwal2-3.github.io/yc-data/tags/b2b.json"
     },
     "banking-as-a-service": {
       "name": "Banking as a Service",
-      "count": 27,
+      "count": 28,
       "api": "https://prajjwal2-3.github.io/yc-data/tags/banking-as-a-service.json"
     },
     "batteryless-iot-sensors": {
@@ -396,7 +396,7 @@
     },
     "consumer": {
       "name": "Consumer",
-      "count": 238,
+      "count": 239,
       "api": "https://prajjwal2-3.github.io/yc-data/tags/consumer.json"
     },
     "consumer-finance": {
@@ -511,7 +511,7 @@
     },
     "cybersecurity": {
       "name": "Cybersecurity",
-      "count": 42,
+      "count": 43,
       "api": "https://prajjwal2-3.github.io/yc-data/tags/cybersecurity.json"
     },
     "dao": {
@@ -521,7 +521,7 @@
     },
     "data-engineering": {
       "name": "Data Engineering",
-      "count": 99,
+      "count": 101,
       "api": "https://prajjwal2-3.github.io/yc-data/tags/data-engineering.json"
     },
     "data-labeling": {
@@ -1056,7 +1056,7 @@
     },
     "logistics": {
       "name": "Logistics",
-      "count": 129,
+      "count": 128,
       "api": "https://prajjwal2-3.github.io/yc-data/tags/logistics.json"
     },
     "machine-learning": {
@@ -1086,7 +1086,7 @@
     },
     "marketplace": {
       "name": "Marketplace",
-      "count": 301,
+      "count": 302,
       "api": "https://prajjwal2-3.github.io/yc-data/tags/marketplace.json"
     },
     "media": {
@@ -1181,7 +1181,7 @@
     },
     "neobank": {
       "name": "Neobank",
-      "count": 50,
+      "count": 51,
       "api": "https://prajjwal2-3.github.io/yc-data/tags/neobank.json"
     },
     "networks": {
@@ -1411,7 +1411,7 @@
     },
     "saas": {
       "name": "SaaS",
-      "count": 1078,
+      "count": 1077,
       "api": "https://prajjwal2-3.github.io/yc-data/tags/saas.json"
     },
     "sales": {
@@ -1456,7 +1456,7 @@
     },
     "semiconductors": {
       "name": "Semiconductors",
-      "count": 12,
+      "count": 13,
       "api": "https://prajjwal2-3.github.io/yc-data/tags/semiconductors.json"
     },
     "seo": {
@@ -1728,7 +1728,7 @@
     },
     "b2b": {
       "name": "B2B",
-      "count": 3068,
+      "count": 3070,
       "api": "https://prajjwal2-3.github.io/yc-data/industries/b2b.json"
     },
     "banking-and-exchange": {
@@ -1803,7 +1803,7 @@
     },
     "energy": {
       "name": "Energy",
-      "count": 48,
+      "count": 47,
       "api": "https://prajjwal2-3.github.io/yc-data/industries/energy.json"
     },
     "engineering-product-and-design": {
@@ -1953,7 +1953,7 @@
     },
     "security": {
       "name": "Security",
-      "count": 114,
+      "count": 115,
       "api": "https://prajjwal2-3.github.io/yc-data/industries/security.json"
     },
     "social": {
@@ -2185,7 +2185,7 @@
     },
     "summer-2026": {
       "name": "Summer 2026",
-      "count": 54,
+      "count": 56,
       "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2026.json"
     },
     "winter-2026": {
