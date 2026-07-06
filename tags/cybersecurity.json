@@ -1214,7 +1214,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/475ae1459a273ef4827fe78aeed097961151b782.png",
     "website": "https://gecko.security",
-    "all_locations": "London, United Kingdom",
+    "all_locations": "London, England, United Kingdom",
     "long_description": "We built Gecko for teams that want to build secure code quickly without wasting time on security tools that don’t deliver results, or relying on one-time human pentests that quickly become outdated. Gecko uses AI to understand how your application should work, simulates relevant attacks to find critical vulnerabilities, and then verifies these vulnerabilities by exploiting them. It also helps you understand the risk of these vulnerabilities and applies a working fix to keep your code secure.",
     "one_liner": "The AI Security Engineer to Find and Fix Vulnerabilities ",
     "team_size": 2,
@@ -1776,7 +1776,7 @@
       "zag.dev",
       "Zag"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8e0ea6449871f1f94eb669a7d9e2d8bee4d35474.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0b07aa9cb25d20cacdaa202c883fd119a25081bf.png",
     "website": "https://antigen.sh/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Antigen is an AI adversary for the enterprise. It maps, exploits, and secures your attack surface through nightly automated offensive testing and monthly human red team assessments. Every finding is delivered with traces, reproduction steps, and remediation directly in GitHub, Linear, or the Antigen Platform.\r\n\r\nWe work with companies in financial services, healthcare, retail, and government where security is trust.\r\n\r\nWe're backed by Lightspeed, DST Global, and Susa Ventures.",
@@ -1786,8 +1786,8 @@
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1759979466,
     "tags": [
-      "Cybersecurity",
-      "AI"
+      "Artificial Intelligence",
+      "Cybersecurity"
     ],
     "tags_highlighted": [],
     "top_company": false,
