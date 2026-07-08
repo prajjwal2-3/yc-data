@@ -1590,7 +1590,7 @@
     ],
     "small_logo_thumb_url": "/company/thumb/missing.png",
     "website": "https://www.gen1e.com",
-    "all_locations": "Palo Alto, CA, USA",
+    "all_locations": "San Francisco, CA, USA",
     "long_description": "GEn1E Lifesciences is a Clinical-stage, multi-target company with a unique AI platform. We develop novel, next-generation, immunomodulatory therapies for rare & inflammatory diseases with no effective treatments. Our team is supercharging the drug development cycle by applying AI to multiple-mechanism-of-action protein targets and their natural platform capabilities—creating novel therapeutics at an unprecedented pace. Our AI platform has enabled us to develop a purpose-built therapy for ARDS to reduce its $20 billion cost on society (just in the USA). \r\n \r\nGEn1E has built a rich pipeline of 21+ novel and selective immunomodulators and has plans to accelerate 2 additional devastating diseases (beyond their lead indication) to IND in the next 12 months. Our AI platform enables tremendous pace and capital efficiency as demonstrated by our progress in ~2 years with seed capital—a stark contrast to the typical spend of $100M+ and 7+ years exhibited in the pharmaceuticals / biotech industry.\r\n \r\nWith ~90% of rare diseases having no therapeutic treatment at all, GEn1E is taking a giant swing that will hopefully bring life-saving therapies to the lives of patients in need.\r\n \r\nThe team at GEn1E has decades of experience in drug development and machine learning. We graduated from YCombinator and Stanford-StartX in late 2019. We are based in Palo Alto, CA.",
     "one_liner": "AI platform accelerating therapies for rare & inflammatory diseases.",
     "team_size": null,
@@ -5205,7 +5205,7 @@
     "former_names": [
       "coordna bio"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/829faf276e5fc759cb0c8e72860cd6cdab552050.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/91093b7c8dbe1ed84a73aa4907b878fc5b0f52bf.png",
     "website": "https://www.biocartesian.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Finding new cures requires seeing what and where the abnormal molecules are in a diseased tissue, but current tools see less than 1% of those molecules. Biocartesian combines microscopy and new chemistries to see 50X more, offering unprecedented insights into disease biology and new therapies.",
@@ -5938,6 +5938,51 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/infera",
     "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/infera.json"
+  },
+  {
+    "id": 31549,
+    "name": "Enjamb Labs",
+    "slug": "enjamb-labs",
+    "former_names": [
+      "Enjamb Labs Inc",
+      "Enjamb"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/72c48d60b66c3872f55fda2ba7dbab9415312dd4.png",
+    "website": "https://www.enjamb.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Enjamb runs the entire drug program for biopharma teams, from discovery to FDA approval. Pharma runs on decades of closed legacy systems like Benchling, Veeva, Medidata, and SAS, with no AI layer and no MCP to connect agents to them. \r\n\r\nSo we built that connection layer in one platform. Our agents run on top of their existing systems and data, with no migration, and do the work across the whole program: clinical evidence, trial design, statistical programming, and regulatory submissions. \r\n\r\nIn just 3 weeks since launch, we're already being used by 500+ employees at top pharma companies, including Johnson & Johnson, AbbVie, Bristol Myers Squibb, Merck & Sanofi.",
+    "one_liner": "Where drug teams run their entire program, discovery to FDA approval",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1779929226,
+    "tags": [
+      "Artificial Intelligence",
+      "SaaS",
+      "B2B",
+      "Biotech",
+      "Automation"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/enjamb-labs",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/enjamb-labs.json"
   },
   {
     "id": 32521,
