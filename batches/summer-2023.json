@@ -1773,8 +1773,8 @@
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1688659817,
     "tags": [
-      "Artificial Intelligence",
-      "Marketplace"
+      "Marketplace",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -1788,7 +1788,9 @@
     ],
     "regions": [
       "United States of America",
-      "America / Canada"
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -3803,7 +3805,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/dd23108e8186366e29a1827c228ceddd75097d20.png",
     "website": "https://www.cardinalgray.com/",
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA",
     "long_description": "When a lender gives out a car loan, they need to file a lien with their borrower’s DMV. This is difficult because the process varies by state and county. We’ve leveraged LLMs to help lenders automate lien filings for over $1B of loans.",
     "one_liner": "Automating lenders' interactions with the DMV",
     "team_size": 6,
@@ -5523,16 +5525,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/bd164a122dacc9defa9cfe1e3478f126b401b963.png",
     "website": "https://www.bolto.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "AI-powered recruiting and HR platform. Find and hire the best pre-vetted global software talent and simplify onboarding, payroll, and compliance. ",
+    "long_description": "AI-powered payroll, hr, and recruiting platform. Hire and scale teams easily in the US and globally.",
     "one_liner": "AI Powered All-In-One Payroll, HR + Recruiting ",
-    "team_size": 14,
+    "team_size": 20,
     "industry": "B2B",
     "subindustry": "B2B -> Human Resources",
     "launched_at": 1691417670,
     "tags": [
-      "Artificial Intelligence",
       "Recruiting",
-      "HR Tech"
+      "HR Tech",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -7369,7 +7371,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d332393d7c5b5f27e1a2f82f8ec54fa8b38e21a1.png",
     "website": "https://smobi.com/",
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA",
     "long_description": "Smobi is the AI-powered platform for branded, interactive business messaging, starting with RCS. We help businesses send rich, personalized messages that drive engagement, build trust, and create real conversations.",
     "one_liner": "Send texts your customers actually want over RCS",
     "team_size": 4,

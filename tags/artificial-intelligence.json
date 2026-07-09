@@ -7902,7 +7902,7 @@
     "website": "https://popl.co/",
     "all_locations": "New York City, NY, USA; Remote",
     "long_description": "Capture leads, scan badges, enrich data, and sync it all to your CRM—at events, conferences, and beyond. Powered by AI and our proprietary data engine, Popl helps companies around the world turn in-person events into a measurable & scalable growth channel.",
-    "one_liner": "Your Complete In-Person GTM Platform",
+    "one_liner": "The AI GTM platform for in-person lead capture",
     "team_size": 60,
     "industry": "B2B",
     "subindustry": "B2B",
@@ -11133,6 +11133,53 @@
     "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2022/tigereye.json"
   },
   {
+    "id": 25279,
+    "name": "Moots",
+    "slug": "moots",
+    "former_names": [
+      "Take1 Financial",
+      "Muse Card",
+      "OnScale",
+      "Muse - OnScale",
+      "Moots AI"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fde6c91673da136f18472357605fb80d656f17b9.png",
+    "website": "https://www.moots.ai/",
+    "all_locations": "New York City, NY, USA",
+    "long_description": "Moots is the Guest Intelligence platform. We engineer the room so every guest walks away with the conversation they came for, and with a relationship that lasts beyond it. Built for the events where the room matters: brand activations, advisory retreats, investor gatherings, members clubs, donor cultivation, political fundraisers, and recurring tech communities on Luma.",
+    "one_liner": "The guest intelligence platform for high-value client events",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1644842544,
+    "tags": [
+      "Artificial Intelligence",
+      "Collaboration"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2022",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/moots",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2022/moots.json"
+  },
+  {
     "id": 25306,
     "name": "WorldQL",
     "slug": "worldql",
@@ -11220,6 +11267,62 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/trellus",
     "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2022/trellus.json"
+  },
+  {
+    "id": 25318,
+    "name": "BuiltOS",
+    "slug": "builtos",
+    "former_names": [
+      "WeReno",
+      "Inc.",
+      "VIDCALL",
+      "Inc",
+      "WeReno",
+      "WeReno (Vidcall",
+      "Inc.)",
+      "WeReno",
+      "Scope3D (fka WeReno)",
+      "Scope3D",
+      "Built OS"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fe0bd64bf7cd86e865747e4154303acd67143101.png",
+    "website": "https://BuiltOS.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Built OS, formerly WeReno, turns drawings, BIM, site data, and property workflows into intelligent systems that help teams understand, operate, and improve buildings. Our products support the full building lifecycle, from creating AI-powered 3D twins and managing maintenance and repairs to coordinating operations, planning renovations, bidding work, and forecasting CapEx. Today, buildings are still run through PDFs, spreadsheets, emails, site walks, and disconnected vendors; Built OS brings those workflows into one connected AI platform.",
+    "one_liner": "Built OS is the AI operating system for buildings.",
+    "team_size": 12,
+    "industry": "Real Estate and Construction",
+    "subindustry": "Real Estate and Construction -> Construction",
+    "launched_at": 1647622736,
+    "tags": [
+      "Artificial Intelligence",
+      "Real Estate",
+      "Construction",
+      "Proptech"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2022",
+    "status": "Active",
+    "industries": [
+      "Real Estate and Construction",
+      "Construction"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/builtos",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2022/builtos.json"
   },
   {
     "id": 25322,
@@ -11503,24 +11606,26 @@
   },
   {
     "id": 25394,
-    "name": "Harmoney",
-    "slug": "harmoney",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2ca23fbe179b9d869adbd001cf7a397b7153bf4d.png",
-    "website": "https://www.harmoney.in/",
+    "name": "InferEdge",
+    "slug": "inferedge",
+    "former_names": [
+      "Harmoney"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9ca294ba99345dad1e7a7357621f3373230c00cf.png",
+    "website": "https://www.inferedge.com",
     "all_locations": "MH, India",
-    "long_description": "Harmoney is an agentic AI solution for fixed income research, portfolio optimization, and credit analysis for buy-side and wealth managers. We not only make financial analysis faster and cost-effective but also unlock things that could not be done manually before.",
-    "one_liner": "Agentic AI solution for fixed income, credit and portfolio analysis",
-    "team_size": 30,
+    "long_description": "InferEdge builds agentic AI for the buy-side - systems that run autonomously across research, portfolio management, and risk, for equity and fixed income. The point isn't generating a generic note - anyone can do that now. For example, when earnings season hits, our agents produce the quarter's coverage in your analysts' own tone and format, matching how your desk already writes, so it doesn't need a rewrite before it's usable. We build on top of LLMs, turning raw model capability into consistent and auditable workflows, not another stalled prototype.",
+    "one_liner": "Agentic AI for buy-side firms",
+    "team_size": 20,
     "industry": "Fintech",
-    "subindustry": "Fintech -> Asset Management",
+    "subindustry": "Fintech",
     "launched_at": 1645537602,
     "tags": [
       "Artificial Intelligence",
       "Fintech",
       "B2B",
       "Enterprise Software",
-      "AI Assistant"
+      "Investments"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -11529,8 +11634,7 @@
     "batch": "Winter 2022",
     "status": "Active",
     "industries": [
-      "Fintech",
-      "Asset Management"
+      "Fintech"
     ],
     "regions": [
       "India",
@@ -11541,8 +11645,55 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/harmoney",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2022/harmoney.json"
+    "url": "https://www.ycombinator.com/companies/inferedge",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2022/inferedge.json"
+  },
+  {
+    "id": 25402,
+    "name": "Rownd",
+    "slug": "rownd",
+    "former_names": [
+      "Rownd",
+      "LlamaFarm"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8c9dcd6e10984a18f91f153e7efc538957c387fd.png",
+    "website": "https://rownd.ai",
+    "all_locations": "Raleigh, NC, USA",
+    "long_description": "Rownd AI builds fully autonomous drones that use local edge intelligence and global LTE/5G/SatCom failover to eliminate the 1:1 pilot bottleneck anywhere on earth or space. We are currently field-deployed with active customers across U.S. Special Operations Command (SOCOM) via our defense business line, ArcEdge AI. Operating out of Raleigh, NC and Wisconsin, we leveraged our team's background in mobile hardware optimization and zero-trust architectures to build true cognitive autonomy directly onto physical aircraft. While we are heavily focused on defense technology today, our ultimate mission is scaling this physical autonomous infrastructure across commercial enterprise edge applications.",
+    "one_liner": "Fully autonomous defense solutions for the global edge.",
+    "team_size": 7,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Drones",
+    "launched_at": 1643295526,
+    "tags": [
+      "Artificial Intelligence",
+      "Drones",
+      "Open Source",
+      "ML"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2022",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Drones"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/rownd",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2022/rownd.json"
   },
   {
     "id": 25419,
@@ -12885,7 +13036,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -14603,7 +14754,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Summer 2022",
     "status": "Active",
@@ -16049,17 +16200,18 @@
     "former_names": [
       "Byterat"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6b3e2558be3a398339579a5be68b4d4a636ca905.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/55b1c275e0ba176abf2805a822f08b78ecea7eba.png",
     "website": "https://www.ohm.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Ohm is transforming how physical products are developed, using AI. We support major tech enterprises across batteries, automotive and consumer electronics to reimagine how they develop, test and validate their products. Ohm is used by leading engineering teams to launch new hardware products faster, optimize engineer productivity and reduce the cost of engineering test programs.",
-    "one_liner": "Ohm helps engineering labs develop better products faster, with AI.",
+    "long_description": "Ohm’s AI platform helps Fortune 100 engineering teams accelerate the engineering and testing of complex hardware, including wearables, electric vehicles, and batteries. Launched in 2025, Ohm's platform is used by leading teams to compress development cycles, optimize test programs, and launch better products, faster.",
+    "one_liner": "Ohm helps engineering teams accelerate hardware development & testing.",
     "team_size": 6,
     "industry": "Industrials",
     "subindustry": "Industrials",
     "launched_at": 1676603508,
     "tags": [
       "Artificial Intelligence",
+      "Hardware",
       "Data Engineering",
       "AI"
     ],
@@ -18535,49 +18687,6 @@
     "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2023/casca.json"
   },
   {
-    "id": 28814,
-    "name": "OpenTools",
-    "slug": "opentools",
-    "former_names": [
-      "Odyssey AI",
-      "Humanlike"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3927ff309d52d222fc423bc00c5c7f463f090703.png",
-    "website": "https://opentools.com",
-    "all_locations": "New York City, NY, USA",
-    "long_description": "",
-    "one_liner": "The API for LLM tool use",
-    "team_size": 3,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1688659817,
-    "tags": [
-      "Artificial Intelligence",
-      "Marketplace"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2023",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/opentools",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2023/opentools.json"
-  },
-  {
     "id": 28815,
     "name": "Atla",
     "slug": "atla",
@@ -19590,57 +19699,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/gleam",
     "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2023/gleam.json"
-  },
-  {
-    "id": 28976,
-    "name": "Bolto",
-    "slug": "bolto",
-    "former_names": [
-      "Social Inc.",
-      "Pampas Inc.",
-      "Pampas",
-      "Onnix",
-      "Crew",
-      "Crew AI",
-      "Crew"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/bd164a122dacc9defa9cfe1e3478f126b401b963.png",
-    "website": "https://www.bolto.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "AI-powered recruiting and HR platform. Find and hire the best pre-vetted global software talent and simplify onboarding, payroll, and compliance. ",
-    "one_liner": "AI Powered All-In-One Payroll, HR + Recruiting ",
-    "team_size": 14,
-    "industry": "B2B",
-    "subindustry": "B2B -> Human Resources",
-    "launched_at": 1691417670,
-    "tags": [
-      "Artificial Intelligence",
-      "Recruiting",
-      "HR Tech"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Summer 2023",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Human Resources"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/bolto",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2023/bolto.json"
   },
   {
     "id": 28979,
@@ -22693,49 +22751,6 @@
     "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2024/respan.json"
   },
   {
-    "id": 29326,
-    "name": "Monumint",
-    "slug": "monumint",
-    "former_names": [
-      "OmniAI"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ae8558357197c8f14dfe7c4958b9a8c45929ed19.png",
-    "website": "https://monumint.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Monumint is conversational AI for financial services. We help banks, credit unions, and lenders build lasting customer relationships across the entire customer journey from account opening and loan origination to servicing and collections. Our AI agents are omni-channel, take action inside the systems financial institutions already use, and are built with compliance at their core.",
-    "one_liner": "Conversational AI purpose-built for financial services",
-    "team_size": 5,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1699651931,
-    "tags": [
-      "Artificial Intelligence",
-      "Fintech",
-      "Finance",
-      "B2B"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Winter 2024",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/monumint",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2024/monumint.json"
-  },
-  {
     "id": 29330,
     "name": "Speck",
     "slug": "speck",
@@ -25491,47 +25506,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/entangl",
     "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2024/entangl.json"
-  },
-  {
-    "id": 29627,
-    "name": "Codes Health",
-    "slug": "codes-health",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ae2e103cef868d10d11f8eda1c9371448e8a4640.png",
-    "website": "https://www.codeshealth.com/",
-    "all_locations": "New York, NY, USA",
-    "long_description": "Codes automates medical record retrieval. Today, documents are scattered across EHRs, providers, and faxes; we use AI to compile & analyze docs for law firms, providers, and more. ",
-    "one_liner": "Medical Record Retrieval with Zero Human Error",
-    "team_size": 12,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1721954121,
-    "tags": [
-      "Artificial Intelligence",
-      "Health Tech",
-      "B2B",
-      "LegalTech"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Summer 2024",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/codes-health",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2024/codes-health.json"
   },
   {
     "id": 29641,
@@ -29345,6 +29319,47 @@
     "api": "https://prajjwal2-3.github.io/yc-data/batches/fall-2024/attimet.json"
   },
   {
+    "id": 30055,
+    "name": "RiskCube",
+    "slug": "riskcube",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/93b1b4fbe4b8807a5770f0fad5c76f3b8685dee9.png",
+    "website": "https://riskcube.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "RiskCube is an independent commercial insurance brokerage for startups and high-growth companies (F24). When you're days from closing an enterprise customer and procurement asks for a Certificate of Insurance (COI), a traditional broker can take weeks — and the deal stalls. RiskCube fixes that: we compare 40+ AM Best-rated U.S. carriers, pair that with licensed human broker review, and bind the right coverage and issue your COI within a day, not weeks. Founders get D&O, Tech E&O, Cyber, General Liability, Product Liability, Key Person Life, and COIs — to pass procurement, satisfy investors, and close deals. RiskCube is an independent broker, not an insurance carrier, built for AI, SaaS, Fintech, GovTech, Web3, Space, Defense, and government-contractor startups. Licensed in CA, TX, and DE (expanding nationwide). ",
+    "one_liner": "Independent insurance brokerage for startups.",
+    "team_size": 3,
+    "industry": "Fintech",
+    "subindustry": "Fintech -> Insurance",
+    "launched_at": 1731782052,
+    "tags": [
+      "Artificial Intelligence",
+      "Fintech",
+      "Insurance"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2024",
+    "status": "Active",
+    "industries": [
+      "Fintech",
+      "Insurance"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/riskcube",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/fall-2024/riskcube.json"
+  },
+  {
     "id": 30056,
     "name": "Keye",
     "slug": "keye",
@@ -31612,7 +31627,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -33896,7 +33911,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1418e292df2ccff4d9598566261526adff42355d.png",
     "website": "https://becomeautonomous.com/",
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA",
     "long_description": "Autonomous is a superintelligent financial advisor at 0% advisory fees. \r\n\r\nToday, managing your money means one of two bad options:\r\n\r\nDIY your money: You end up with accounts everywhere (401k, IRAs, brokerage, crypto, savings, equity, secondaries). Your spreadsheet is always wrong. You make expensive mistakes because this isn't your full-time job.\r\n\r\nHire a financial advisor: They'll manage your money and charge 1-2% of assets annually. Run that math over multiple decades and you're handing over half your net worth to fees.\r\n\r\nNeither path can economically deliver the sophisticated, personalized strategies the ultra-wealthy use to compound wealth: strategic tax-loss harvesting across individual securities, systematic risk management, portfolio-backed borrowing to defer capital gains, access to alternatives, etc.\r\n\r\nThese aren't secret – they're just economically impossible to deliver at scale through traditional human advisors.\r\n\r\nRobos were supposed to fix this, but they were designed in a pre-AI world. In practice they just manage cookie-cutter portfolios. They don’t coordinate across your 401(k), taxable accounts, mortgage, equity, and cash flow, they don’t help with real decisions like job offers, windfalls, or concentrated stock, and they don’t deliver institutional strategies. That’s why, even after a decade plus, the biggest robos are still <$100B AUM while old-school advisors like Raymond James / Edward Jones sit on trillions.\r\n\r\nWe’re doing for financial advising what Robinhood did for brokerages. Think of it as a full-stack, AI-native wealth strategist that brings billionaire-style playbooks to ordinary investors.\r\n\r\nAutonomous is built around a frontier-scale reasoning engine—an AI that perceives global events as they unfold, understanding their deeper implications for markets and and most importantly, how these events will impact your investments. ",
     "one_liner": "Superintelligent financial advisor",
     "team_size": 8,
@@ -34914,48 +34929,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/doe",
     "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2025/doe.json"
-  },
-  {
-    "id": 30691,
-    "name": "Embedder",
-    "slug": "embedder",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/be01ab7ec03dfffcf2a6f87ab306a19bf22fe64b.png",
-    "website": "https://www.embedder.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Embedder is building an AI coding agent that can write, test, and debug firmware on real hardware.",
-    "one_liner": "AI Agents for Firmware",
-    "team_size": 6,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1752258104,
-    "tags": [
-      "Artificial Intelligence",
-      "Developer Tools",
-      "Hardware",
-      "B2B"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2025",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/embedder",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2025/embedder.json"
   },
   {
     "id": 30695,
@@ -35989,7 +35962,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4556b19fb6feb8d4b68cc26dd6a04f18622c3c33.png",
     "website": "https://rowflow.ai",
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA",
     "long_description": "RowFlow replaces clunky web forms with natural conversations that run over text, slack, or wherever your users are. Our platform increases your form’s response rates while cutting your internal overhead in half. \r\n\r\nWith RowFlow, you can take any existing form and instantly convert it into an AI-powered conversation. New flows launch in minutes and reach respondents over your preferred channel or embedded chat. We guide the exchange, follow up automatically, and return clean structured data without extra work from your team.\r\n\r\nForms power billions of business interactions yearly. Whether it’s forms for client intake, registrations, compliance, feedback, or surveys, they all follow the same painful pattern: low conversion, messy data, and frustrated users. Teams have long tolerated forms only because there's been no scalable alternative for collecting structured information from people - until now. Our goal is for RowFlow to become the new default way for how organizations collect user data in an AI-first world.",
     "one_liner": "Replacing forms with AI conversations",
     "team_size": 2,
@@ -36532,49 +36505,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/sorce",
     "api": "https://prajjwal2-3.github.io/yc-data/batches/fall-2025/sorce.json"
-  },
-  {
-    "id": 30867,
-    "name": "Soren",
-    "slug": "soren",
-    "former_names": [
-      "Remediate"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c4abd74b393a1e6689bfee5e6e18611677894c03.png",
-    "website": "https://usesoren.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Soren is the AI transformation partner for regulated institutions. We help companies identify, deploy, and operate AI safely across high-impact workflows.\r\n\r\nAs an AI-native company, we deliver outcomes in a fraction of the time and cost of traditional consulting firms while providing a more efficient, streamlined client experience.\r\n\r\nWe partner with organizations at every stage, from early exploration to full-scale AI transformations.",
-    "one_liner": "AI Transformation for Regulated Institutions",
-    "team_size": null,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1759390917,
-    "tags": [
-      "Artificial Intelligence",
-      "B2B",
-      "Enterprise",
-      "Enterprise Software"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Fall 2025",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/soren",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/fall-2025/soren.json"
   },
   {
     "id": 30868,
@@ -39518,6 +39448,48 @@
     "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/enjamb-labs.json"
   },
   {
+    "id": 31858,
+    "name": "Torus",
+    "slug": "torus",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/79a2f7b5a083998db3fcc9309c0435a2ccb05016.png",
+    "website": "https://www.usetorus.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Torus lets engineering firms and project owners build infrastructure 10x faster to reindustrialize America and the West. \r\n\r\nWe're working with multiple Fortune 500 companies to build critical infrastructure including data centers and critical energy installations. ",
+    "one_liner": "Legora for physical engineering firms",
+    "team_size": 5,
+    "industry": "Industrials",
+    "subindustry": "Industrials",
+    "launched_at": 1783552199,
+    "tags": [
+      "Artificial Intelligence",
+      "Construction",
+      "Energy",
+      "Enterprise Software",
+      "Industrial"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "Industrials"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/torus",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2026/torus.json"
+  },
+  {
     "id": 32127,
     "name": "Perceptron ML",
     "slug": "perceptron-ml",
@@ -39689,7 +39661,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/efd3ccc04f842f9a3a1235ba1ef66aa4447fc993.png",
     "website": "https://www.guildai.co",
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA",
     "long_description": "GUILD is an AI-native defense contractor that automates the Defense Supply chain for the DoW. We predict government demand, then manufacture in-house cheaper and faster than the incumbents.\r\n\r\nWe've created an AI-native business model for contracting operations, manufacturing, and finance to deliver on defense contracts end-to-end.",
     "one_liner": "AI-Native Defense Contractor Reshaping the Defense Supply Chain",
     "team_size": 2,
@@ -39887,6 +39859,51 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/touchmark",
     "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2026/touchmark.json"
+  },
+  {
+    "id": 32259,
+    "name": "screenpipe",
+    "slug": "screenpipe",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/144e7207ec725036f43cc9a6b577a8320151e103.png",
+    "website": "https://screenpipe.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "screenpipe record and learns how you work and turns it into a searchable memory, SOPs, and AI agents. Open source, local.",
+    "one_liner": "Capture how you work and turn that into agents",
+    "team_size": 6,
+    "industry": "B2B",
+    "subindustry": "B2B -> Productivity",
+    "launched_at": 1783386650,
+    "tags": [
+      "Artificial Intelligence",
+      "SaaS",
+      "B2B",
+      "Enterprise",
+      "Enterprise Software"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Productivity"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/screenpipe",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2026/screenpipe.json"
   },
   {
     "id": 32520,

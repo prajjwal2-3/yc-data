@@ -9631,7 +9631,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -13793,7 +13793,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4f48c426b67826bae7fd3fded6bfc3e891fd72d2.png",
     "website": "https://www.buildwithfern.com",
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA",
     "long_description": "APIs underpin the internet but are still painful to work with. They are often untyped, unstandardized, and out-of-sync across multiple sources of truth.\r\n\r\nFern helps companies deliver SDKs and API documentation that they’re are proud to share with their customers. Since launching in 2023, we’ve been trusted by over 200 customers, including industry leaders like Square, Webflow, ElevenLabs, Auth0, and Intercom, to power their developer and agent experiences.\r\n\r\nWe’re fewer than 40 people, based in Brooklyn, NY, and are building open source.",
     "one_liner": "Instantly offer SDKs and API Docs",
     "team_size": 30,
@@ -21463,17 +21463,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/be01ab7ec03dfffcf2a6f87ab306a19bf22fe64b.png",
     "website": "https://www.embedder.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Embedder is building an AI coding agent that can write, test, and debug firmware on real hardware.",
-    "one_liner": "AI Agents for Firmware",
+    "long_description": "Embedder is an AI agent for embedded software. It reads your datasheets and schematics, writes the code, flashes the board, runs the tests, and fixes its own mistakes. Testing is hardware-in-the-loop: Embedder drives the equipment your team already owns (debug probes, logic analyzers, power profilers, oscilloscopes) and validates firmware on real silicon, not just against a compiler. Embedder works with some of the top semiconductor ecosystems in the world, supporting 500+ MCUs and 3,000+ peripherals.",
+    "one_liner": "Hardware-Aware AI for Embedded Software Development",
     "team_size": 6,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1752258104,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "Hardware",
-      "B2B"
+      "B2B",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -23176,6 +23176,47 @@
     "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2026/inkbox.json"
   },
   {
+    "id": 33019,
+    "name": "Agnost AI",
+    "slug": "agnost-ai",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8bf16355f4f9b0a78a4a26f6f533377d295877d5.png",
+    "website": "https://agnost.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Agnost AI helps teams building chat and voice AI agents understand what users want, where they get stuck, and why they drop off.\r\n\r\nWe read production AI conversations, cluster recurring intents, feature requests, frustration, and failure patterns, then open PRs against prompts, tools, and harnesses to improve the agent.",
+    "one_liner": "Product analytics for teams building conversational agents",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Analytics",
+    "launched_at": 1780021672,
+    "tags": [
+      "Developer Tools",
+      "Analytics",
+      "Monitoring"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Analytics"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/agnost-ai",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2026/agnost-ai.json"
+  },
+  {
     "id": 33177,
     "name": "HyperProbe",
     "slug": "hyperprobe",
@@ -23190,7 +23231,7 @@
     "team_size": 8,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1780335624,
+    "launched_at": 1783455456,
     "tags": [
       "Developer Tools",
       "DevSecOps",
@@ -23229,7 +23270,7 @@
     "website": "http://coasty.ai/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Coasty is a computer use agent that does real work inside softwares, companies already run. New web apps, old desktop tools, the legacy systems nobody wants to touch. You hand it a workflow and it owns the outcome.\r\nMost agents demo well and break the moment they hit real software. They get 18 steps out of 20 right, misclick once, and everything after is garbage. Coasty catches when it goes off track and fixes itself mid-task instead of starting over. It handles the messy parts, benchmarks never show. Permission dialogs, surprise pop-ups, a modal that steals focus, a page that loads slow. When a vendor pushes an overnight update and moves half the menus, brittle scripts break by morning. Coasty reads the screen instead of recording clicks, so it adapts and keeps going.\r\nIt also checks its own output and leaves a time-stamped trail you can replay. We won't pretend it gets every task right. Nothing automating this work does. What matters is what happens when something breaks. It catches the mistake, fixes what it can, and flags what it can't so a person can step in. Nothing fails quietly. That's what lets a team trust it on the work where a silent error gets someone fired.\r\nWe scored 82% on OSWorld, which puts us among the most reliable agents out there. Reliability is the whole product, not a feature.",
-    "one_liner": "Building the future of knowledge work, RPA and SOPs using computer use",
+    "one_liner": "The best computer use. We will kill RPA.",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",

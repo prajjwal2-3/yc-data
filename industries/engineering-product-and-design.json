@@ -2422,7 +2422,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/71d8fe724bf62445db1e2f76ff63e411c7f74f2c.png",
     "website": "https://www.paperspace.com",
-    "all_locations": "Brooklyn, NY, USA",
+    "all_locations": "New York City, NY, USA",
     "long_description": "Paperspace is a cloud computing company creating simple and scalable accelerated computing applications. Our goal is to allow individuals and professional teams to seamlessly build and deploy computationally complex products and services.\r\n\r\nPaperspace is backed by leading investors including Y Combinator and Initialized Capital.\r\n\r\nMission:\r\nOur mission is to make cloud computing more accessible through radical simplicity, community-driven technical resources, and straightforward pricing.\r\n\r\n--\r\nTo learn more about Paperspace, please visit https://www.paperspace.com/ or follow us on Twitter at: @hellopaperspace.",
     "one_liner": "Paperspace is a cloud platform for building and scaling AI…",
     "team_size": 50,
@@ -14557,7 +14557,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4f48c426b67826bae7fd3fded6bfc3e891fd72d2.png",
     "website": "https://www.buildwithfern.com",
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA",
     "long_description": "APIs underpin the internet but are still painful to work with. They are often untyped, unstandardized, and out-of-sync across multiple sources of truth.\r\n\r\nFern helps companies deliver SDKs and API documentation that they’re are proud to share with their customers. Since launching in 2023, we’ve been trusted by over 200 customers, including industry leaders like Square, Webflow, ElevenLabs, Auth0, and Intercom, to power their developer and agent experiences.\r\n\r\nWe’re fewer than 40 people, based in Brooklyn, NY, and are building open source.",
     "one_liner": "Instantly offer SDKs and API Docs",
     "team_size": 30,
@@ -14650,7 +14650,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/211ce1fb908d8d56541fcc5ddfa4be47bd69dc5d.png",
     "website": "https://www.vellum.ai/",
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA",
     "long_description": "",
     "one_liner": "",
     "team_size": 23,
@@ -15131,8 +15131,8 @@
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1688659817,
     "tags": [
-      "Artificial Intelligence",
-      "Marketplace"
+      "Marketplace",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -15146,7 +15146,9 @@
     ],
     "regions": [
       "United States of America",
-      "America / Canada"
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -19872,7 +19874,12 @@
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1721673756,
-    "tags": [],
+    "tags": [
+      "Hardware",
+      "Manufacturing",
+      "Semiconductors",
+      "Industrial"
+    ],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": true,
@@ -23227,17 +23234,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/be01ab7ec03dfffcf2a6f87ab306a19bf22fe64b.png",
     "website": "https://www.embedder.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Embedder is building an AI coding agent that can write, test, and debug firmware on real hardware.",
-    "one_liner": "AI Agents for Firmware",
+    "long_description": "Embedder is an AI agent for embedded software. It reads your datasheets and schematics, writes the code, flashes the board, runs the tests, and fixes its own mistakes. Testing is hardware-in-the-loop: Embedder drives the equipment your team already owns (debug probes, logic analyzers, power profilers, oscilloscopes) and validates firmware on real silicon, not just against a compiler. Embedder works with some of the top semiconductor ecosystems in the world, supporting 500+ MCUs and 3,000+ peripherals.",
+    "one_liner": "Hardware-Aware AI for Embedded Software Development",
     "team_size": 6,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1752258104,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "Hardware",
-      "B2B"
+      "B2B",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -26077,7 +26084,7 @@
     "team_size": 8,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1780335624,
+    "launched_at": 1783455456,
     "tags": [
       "Developer Tools",
       "DevSecOps",
@@ -26106,6 +26113,47 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/hyperprobe",
     "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2026/hyperprobe.json"
+  },
+  {
+    "id": 33249,
+    "name": "OpenRelay",
+    "slug": "openrelay",
+    "former_names": [
+      "VectorLay"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/dfebad0e89c8e36ca28819a3b651bee8a4326b76.png",
+    "website": "https://www.openrelay.inc",
+    "all_locations": "Seattle, WA, USA",
+    "long_description": "",
+    "one_liner": "Distributed, hardware-agnostic AI inference",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1783565051,
+    "tags": [
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/openrelay",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2026/openrelay.json"
   },
   {
     "id": 33838,
