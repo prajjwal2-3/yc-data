@@ -2730,7 +2730,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e44c98a727dfb369d39fb2137b6d847e0f673396.png",
     "website": "https://www.camber.health/",
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA",
     "long_description": "We’re on a mission to make behavioral health more available and accessible. We're backed by a16z, YCombinator, Craft, and many others to make this dream a reality.\r\n\r\nAt Camber, we build software for clinicians to improve quality of care. We streamline and replace manual efforts so clinicians can focus on what they do best: providing high-quality care.\r\n\r\n—\r\n\r\nHealthcare is broken. We think this is a problem worth solving, and we think we know how to solve it. Interested? Check out https://jobs.ashbyhq.com/camber.\r\n",
     "one_liner": "Admin automation for healthcare",
     "team_size": 85,
@@ -6002,7 +6002,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a941d8028fafa95dd706134a19099c733b0726ff.png",
     "website": "https://www.schedulingwiz.com",
-    "all_locations": "",
+    "all_locations": "Washington, DC, USA",
     "long_description": "Scheduling Wizard is building the logistics infrastructure to modernize healthcare operations. Hospitals still rely on manual workflows to manage staffing, patient flow, and core operations, contributing to $760B in annual inefficiency.\r\n\r\n20 departments across 16 hospitals already outsource their physician scheduling to us, powered by our internal Scheduling Programming Language and AI-driven workflows. We work with Mass General, Johns Hopkins, UT Southwestern, UCSF, and many others.\r\n\r\nWe are actively onboarding new clients and expanding into patient triaging and provider management systems, working with partner departments at UCSF and other leading institutions. Scheduling Wizard aims to bring healthcare operations into the future by reducing administrative burden and improving clinical care coordination. Our goal is to create the AI-native administrative layer in healthcare operations.",
     "one_liner": "Logistics infrastructure to modernize healthcare operations",
     "team_size": 3,
@@ -6021,7 +6021,8 @@
       "Healthcare IT"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
