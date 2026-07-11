@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-07-10T03:43:19.403Z",
+  "last_updated": "2026-07-11T02:56:56.693Z",
   "readme": "https://github.com/prajjwal2-3/yc-data",
   "companies": {
     "all": {
       "name": "All launched companies",
-      "count": 6031,
+      "count": 6033,
       "api": "https://prajjwal2-3.github.io/yc-data/companies/all.json"
     },
     "top": {
@@ -34,7 +34,7 @@
     },
     "hiring": {
       "name": "Companies currently hiring",
-      "count": 1495,
+      "count": 1494,
       "api": "https://prajjwal2-3.github.io/yc-data/companies/hiring.json"
     }
   },
@@ -161,7 +161,7 @@
     },
     "artificial-intelligence": {
       "name": "Artificial Intelligence",
-      "count": 912,
+      "count": 913,
       "api": "https://prajjwal2-3.github.io/yc-data/tags/artificial-intelligence.json"
     },
     "assistive-tech": {
@@ -376,7 +376,7 @@
     },
     "compliance": {
       "name": "Compliance",
-      "count": 71,
+      "count": 70,
       "api": "https://prajjwal2-3.github.io/yc-data/tags/compliance.json"
     },
     "computational-storage": {
@@ -521,7 +521,7 @@
     },
     "data-engineering": {
       "name": "Data Engineering",
-      "count": 101,
+      "count": 102,
       "api": "https://prajjwal2-3.github.io/yc-data/tags/data-engineering.json"
     },
     "data-labeling": {
@@ -531,7 +531,7 @@
     },
     "data-science": {
       "name": "Data Science",
-      "count": 30,
+      "count": 31,
       "api": "https://prajjwal2-3.github.io/yc-data/tags/data-science.json"
     },
     "data-visualization": {
@@ -581,7 +581,7 @@
     },
     "design": {
       "name": "Design",
-      "count": 29,
+      "count": 28,
       "api": "https://prajjwal2-3.github.io/yc-data/tags/design.json"
     },
     "design-tools": {
@@ -591,7 +591,7 @@
     },
     "developer-tools": {
       "name": "Developer Tools",
-      "count": 526,
+      "count": 527,
       "api": "https://prajjwal2-3.github.io/yc-data/tags/developer-tools.json"
     },
     "devops": {
@@ -711,7 +711,7 @@
     },
     "enterprise-software": {
       "name": "Enterprise Software",
-      "count": 116,
+      "count": 117,
       "api": "https://prajjwal2-3.github.io/yc-data/tags/enterprise-software.json"
     },
     "entertainment": {
@@ -746,7 +746,7 @@
     },
     "finance": {
       "name": "Finance",
-      "count": 88,
+      "count": 89,
       "api": "https://prajjwal2-3.github.io/yc-data/tags/finance.json"
     },
     "finops": {
@@ -756,7 +756,7 @@
     },
     "fintech": {
       "name": "Fintech",
-      "count": 689,
+      "count": 690,
       "api": "https://prajjwal2-3.github.io/yc-data/tags/fintech.json"
     },
     "fitness": {
@@ -826,7 +826,7 @@
     },
     "generative-ai": {
       "name": "Generative AI",
-      "count": 246,
+      "count": 247,
       "api": "https://prajjwal2-3.github.io/yc-data/tags/generative-ai.json"
     },
     "genetic-engineering": {
@@ -1441,7 +1441,7 @@
     },
     "security": {
       "name": "Security",
-      "count": 89,
+      "count": 88,
       "api": "https://prajjwal2-3.github.io/yc-data/tags/security.json"
     },
     "security-orchestration-automation-and-response-(soar)": {
@@ -1661,7 +1661,7 @@
     },
     "video": {
       "name": "Video",
-      "count": 86,
+      "count": 87,
       "api": "https://prajjwal2-3.github.io/yc-data/tags/video.json"
     },
     "virtual-reality": {
@@ -1733,7 +1733,7 @@
     },
     "b2b": {
       "name": "B2B",
-      "count": 3084,
+      "count": 3086,
       "api": "https://prajjwal2-3.github.io/yc-data/industries/b2b.json"
     },
     "banking-and-exchange": {
@@ -1813,7 +1813,7 @@
     },
     "engineering-product-and-design": {
       "name": "Engineering, Product and Design",
-      "count": 609,
+      "count": 610,
       "api": "https://prajjwal2-3.github.io/yc-data/industries/engineering-product-and-design.json"
     },
     "finance-and-accounting": {
@@ -1908,7 +1908,7 @@
     },
     "marketing": {
       "name": "Marketing",
-      "count": 169,
+      "count": 170,
       "api": "https://prajjwal2-3.github.io/yc-data/industries/marketing.json"
     },
     "medical-devices": {
@@ -2190,7 +2190,7 @@
     },
     "summer-2026": {
       "name": "Summer 2026",
-      "count": 88,
+      "count": 90,
       "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2026.json"
     },
     "winter-2026": {

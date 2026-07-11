@@ -6,7 +6,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a0301ab22e915e9c1a21ace954bf9ffe1ca78ff4.png",
     "website": "http://pixelapse.com",
-    "all_locations": "Palo Alto, CA, USA",
+    "all_locations": "San Francisco, CA, USA; Palo Alto, CA, USA",
     "long_description": "Pixelapse is the best place to share designs and work together. We build tools to improve the design process and make collaboration easier. Pixelapse simplifies version control and makes it accessible for designers to share and discuss their work with their friends, colleagues and the world.",
     "one_liner": "Github for designers. We automatically keep track of revisions of…",
     "team_size": 0,
@@ -505,48 +505,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/avocademy",
     "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2022/avocademy.json"
-  },
-  {
-    "id": 27840,
-    "name": "Alloy",
-    "slug": "alloy",
-    "former_names": [
-      "Index"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2fb9e41133c27d93650c2a1a32a03cc25066b8dd.png",
-    "website": "https://alloy.app",
-    "all_locations": "",
-    "long_description": "Prototypes that look exactly like your product. Capture your product from the browser instantly and build lifelike, interactive AI prototypes. Perfect for Product Managers, Founders, and Designers.",
-    "one_liner": "AI Prototyping for Product Management",
-    "team_size": 5,
-    "industry": "B2B",
-    "subindustry": "B2B -> Productivity",
-    "launched_at": 1677116260,
-    "tags": [
-      "Design",
-      "Design Tools",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2023",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Productivity"
-    ],
-    "regions": [
-      "Unspecified"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": true,
-    "app_answers": null,
-    "question_answers": true,
-    "url": "https://www.ycombinator.com/companies/alloy",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2023/alloy.json"
   },
   {
     "id": 28882,
