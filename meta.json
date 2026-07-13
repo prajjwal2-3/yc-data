@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-07-12T03:22:35.755Z",
+  "last_updated": "2026-07-13T03:25:45.773Z",
   "readme": "https://github.com/prajjwal2-3/yc-data",
   "companies": {
     "all": {
       "name": "All launched companies",
-      "count": 6035,
+      "count": 6037,
       "api": "https://prajjwal2-3.github.io/yc-data/companies/all.json"
     },
     "top": {
@@ -34,7 +34,7 @@
     },
     "hiring": {
       "name": "Companies currently hiring",
-      "count": 1497,
+      "count": 1498,
       "api": "https://prajjwal2-3.github.io/yc-data/companies/hiring.json"
     }
   },
@@ -71,7 +71,7 @@
     },
     "ai": {
       "name": "AI",
-      "count": 820,
+      "count": 822,
       "api": "https://prajjwal2-3.github.io/yc-data/tags/ai.json"
     },
     "ai-assistant": {
@@ -161,7 +161,7 @@
     },
     "artificial-intelligence": {
       "name": "Artificial Intelligence",
-      "count": 913,
+      "count": 914,
       "api": "https://prajjwal2-3.github.io/yc-data/tags/artificial-intelligence.json"
     },
     "assistive-tech": {
@@ -206,7 +206,7 @@
     },
     "b2b": {
       "name": "B2B",
-      "count": 1090,
+      "count": 1091,
       "api": "https://prajjwal2-3.github.io/yc-data/tags/b2b.json"
     },
     "banking-as-a-service": {
@@ -346,7 +346,7 @@
     },
     "cloud-computing": {
       "name": "Cloud Computing",
-      "count": 45,
+      "count": 47,
       "api": "https://prajjwal2-3.github.io/yc-data/tags/cloud-computing.json"
     },
     "cloud-gaming": {
@@ -401,7 +401,7 @@
     },
     "consumer": {
       "name": "Consumer",
-      "count": 239,
+      "count": 238,
       "api": "https://prajjwal2-3.github.io/yc-data/tags/consumer.json"
     },
     "consumer-finance": {
@@ -421,7 +421,7 @@
     },
     "conversational-ai": {
       "name": "Conversational AI",
-      "count": 45,
+      "count": 46,
       "api": "https://prajjwal2-3.github.io/yc-data/tags/conversational-ai.json"
     },
     "conversational-banking": {
@@ -596,7 +596,7 @@
     },
     "developer-tools": {
       "name": "Developer Tools",
-      "count": 527,
+      "count": 529,
       "api": "https://prajjwal2-3.github.io/yc-data/tags/developer-tools.json"
     },
     "devops": {
@@ -716,7 +716,7 @@
     },
     "enterprise-software": {
       "name": "Enterprise Software",
-      "count": 118,
+      "count": 120,
       "api": "https://prajjwal2-3.github.io/yc-data/tags/enterprise-software.json"
     },
     "entertainment": {
@@ -751,7 +751,7 @@
     },
     "finance": {
       "name": "Finance",
-      "count": 89,
+      "count": 88,
       "api": "https://prajjwal2-3.github.io/yc-data/tags/finance.json"
     },
     "finops": {
@@ -761,7 +761,7 @@
     },
     "fintech": {
       "name": "Fintech",
-      "count": 690,
+      "count": 688,
       "api": "https://prajjwal2-3.github.io/yc-data/tags/fintech.json"
     },
     "fitness": {
@@ -831,7 +831,7 @@
     },
     "generative-ai": {
       "name": "Generative AI",
-      "count": 246,
+      "count": 245,
       "api": "https://prajjwal2-3.github.io/yc-data/tags/generative-ai.json"
     },
     "genetic-engineering": {
@@ -971,7 +971,7 @@
     },
     "infrastructure": {
       "name": "Infrastructure",
-      "count": 115,
+      "count": 116,
       "api": "https://prajjwal2-3.github.io/yc-data/tags/infrastructure.json"
     },
     "insurance": {
@@ -1091,7 +1091,7 @@
     },
     "marketplace": {
       "name": "Marketplace",
-      "count": 302,
+      "count": 301,
       "api": "https://prajjwal2-3.github.io/yc-data/tags/marketplace.json"
     },
     "media": {
@@ -1241,7 +1241,7 @@
     },
     "open-source": {
       "name": "Open Source",
-      "count": 162,
+      "count": 163,
       "api": "https://prajjwal2-3.github.io/yc-data/tags/open-source.json"
     },
     "operations": {
@@ -1331,7 +1331,7 @@
     },
     "recruiting": {
       "name": "Recruiting",
-      "count": 65,
+      "count": 66,
       "api": "https://prajjwal2-3.github.io/yc-data/tags/recruiting.json"
     },
     "referrals": {
@@ -1416,7 +1416,7 @@
     },
     "saas": {
       "name": "SaaS",
-      "count": 1084,
+      "count": 1085,
       "api": "https://prajjwal2-3.github.io/yc-data/tags/saas.json"
     },
     "sales": {
@@ -1446,7 +1446,7 @@
     },
     "security": {
       "name": "Security",
-      "count": 88,
+      "count": 89,
       "api": "https://prajjwal2-3.github.io/yc-data/tags/security.json"
     },
     "security-orchestration-automation-and-response-(soar)": {
@@ -1738,7 +1738,7 @@
     },
     "b2b": {
       "name": "B2B",
-      "count": 3088,
+      "count": 3090,
       "api": "https://prajjwal2-3.github.io/yc-data/industries/b2b.json"
     },
     "banking-and-exchange": {
@@ -1963,7 +1963,7 @@
     },
     "security": {
       "name": "Security",
-      "count": 115,
+      "count": 116,
       "api": "https://prajjwal2-3.github.io/yc-data/industries/security.json"
     },
     "social": {
@@ -2195,7 +2195,7 @@
     },
     "summer-2026": {
       "name": "Summer 2026",
-      "count": 92,
+      "count": 94,
       "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2026.json"
     },
     "winter-2026": {
