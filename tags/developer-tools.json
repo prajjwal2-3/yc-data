@@ -1772,7 +1772,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/38ccdaf09d5b01653f737bddb5a88d5ad6c56f98.png",
     "website": "https://luciq.ai",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "Cairo, Cairo Governorate, Egypt",
     "long_description": "Luciq is the Agentic Observability Platform for Mobile. Our intelligent AI agents detect, prioritize, and resolve issues across the app lifecycle, empowering teams to ship faster, deliver frustration-free sessions, and focus on building what matters.",
     "one_liner": "Agentic Observability Platform for Mobile",
     "team_size": 250,
@@ -1795,8 +1795,8 @@
       "Engineering, Product and Design"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "Egypt",
+      "Middle East and North Africa"
     ],
     "stage": "Growth",
     "app_video_public": false,
@@ -5651,7 +5651,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -12226,7 +12226,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -18937,16 +18937,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3b2d3d74e1b66a985b5ff4da594128358d243158.png",
     "website": "https://www.endstack.com",
     "all_locations": "Los Angeles, CA, USA",
-    "long_description": "Endstack is a desktop OS optimized for humans and agents running in the cloud.\r\n\r\nYour desktop is powered by endOS, giving you a real desktop workspace in the browser backed by Linux in the cloud. Files, notes, browser tabs, native apps, terminals, and all your agents in one beautiful, familiar, interface.\r\n\r\nYou get a powerful agent running 24/7, integrated at the system level into endOS that you can also reach via Slack, email, or SMS. \r\n\r\nEndstack desktops are also natively multiplayer, allowing for realtime collaboration with teammates.",
-    "one_liner": "Cloud desktop OS for humans and agents",
+    "long_description": "Endstack is a full desktop, collaborative workspace built for humans and agents running in the cloud available on web, desktop, and mobile.\r\n\r\nEach workspace powered by endOS, giving you a familiar channel-based experience augmented by a real desktop environment. The desktop is backed by Linux and ships with a built-in Chrome browser. Files, notes, browser tabs, native apps, terminal, and all your agents in a single beautiful, unified interface. \r\n\r\nAt the center of it all you get a powerful agent running 24/7 that you can also reach via Slack, email, or SMS. ",
+    "one_liner": "The complete, collaborative workspace for humans and agents",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1731874326,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "Generative AI",
+      "AI",
       "AI Assistant"
     ],
     "tags_highlighted": [],
@@ -19292,10 +19292,10 @@
       "Foundry"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c86ce92c78b4bd9698a823b31a8ee51eff7418e7.png",
-    "website": "https://www.x1.new",
+    "website": "https://x1.new/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "x1 is an AI app builder that helps anyone create real, App Store-ready iOS apps. Users start with a structured product plan, design polished iPhone screens in a visual canvas, build features step by step, and prepare launch assets like App Store listings, screenshots, monetization, and analytics. Instead of generating one-shot AI demos, x1 gives builders a guided system for turning an idea into a real app.",
-    "one_liner": "AI App Builder for iOS Apps",
+    "one_liner": "AI app builder for creating and launching iPhone apps",
     "team_size": 5,
     "industry": "Consumer",
     "subindustry": "Consumer",
@@ -23013,7 +23013,7 @@
     "former_names": [
       "EasyClaw"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/69f29402130f971bebc14fd5eb1718b6d60c375b.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b5ee0827d5ffecc1db23e6d64592d549b5e1e1ab.png",
     "website": "https://ara.so",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Ara is the cloud coding agent — an autonomous software engineer for software teams. It watches work in progress, plans the next step, and executes tasks with its own computer, background agents, persistent memory, and reusable skills. Unite your team that uses Claude and Codex and other  coding subscriptions to code together in the browser. Ara turns coding into a closed loop: suggest, act, learn, improve.\r\n\r\n",
@@ -23064,13 +23064,13 @@
     "long_description": "",
     "one_liner": "Effortlessly deploy cloud software factories.",
     "team_size": 2,
-    "industry": "Fintech",
-    "subindustry": "Fintech -> Consumer Finance",
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1782199103,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
-      "Cloud Computing"
+      "Cloud Computing",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -23079,8 +23079,8 @@
     "batch": "Summer 2026",
     "status": "Active",
     "industries": [
-      "Fintech",
-      "Consumer Finance"
+      "B2B",
+      "Engineering, Product and Design"
     ],
     "regions": [
       "United States of America",
