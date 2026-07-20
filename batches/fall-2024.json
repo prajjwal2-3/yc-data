@@ -1074,7 +1074,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8071a4dd821b17c48fe53b21be58c8dd37534c31.png",
     "website": "https://vespper.com/?utm_source=ycombinator.com",
-    "all_locations": "Remote",
+    "all_locations": "Tel Aviv-Yafo, Tel Aviv District, Israel; Remote",
     "long_description": "The best DOCX MCP for agents. \r\nread and edit docx without having you agents deal with XML. Save on cost, enjoy improved performance.\r\nPerfect for regulatory, compliance and legal agent builders dealing with documentation",
     "one_liner": "The best DOCX MCP for agents",
     "team_size": 2,
@@ -1099,6 +1099,8 @@
       "Productivity"
     ],
     "regions": [
+      "Israel",
+      "Middle East and North Africa",
       "Remote",
       "Fully Remote"
     ],
@@ -1520,7 +1522,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0c81f81e9e5f5c52a1f75270cb3b6af99f88496e.png",
     "website": "https://generallearning.com",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "Hong Kong, Hong Kong",
     "long_description": "General Learning builds AI-powered learning platforms for the world's major curricula.\r\n\r\nRevisionDojo, the AI study platform for the IB; OnePrep, the premier AI platform for SAT, ACT, and AP; and MathsGenie, the leading AI platform for GCSE and A-level.\r\n\r\nEach brand houses pre-loaded question sets, study notes, mini-lessons guided by an AI tutor that adapts to each student individually.",
     "one_liner": "AI tutors for students.",
     "team_size": 35,
@@ -1538,8 +1540,8 @@
       "Education"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "Hong Kong",
+      "East Asia"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -2024,7 +2026,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/701b2bc3a4abc9947cd6ce87bda2ed1d5e17653c.png",
     "website": "https://beglaubigt.de/en-us",
-    "all_locations": "",
+    "all_locations": "BY, Germany",
     "long_description": "Beglaubigt.de is building the digital back-office for European founders. Our German brand Beglaubigt.de is the market-leading platform for digital company formations and notarizations - reducing GmbH incorporations from 6–8 weeks to as little as 3 days. \r\n\r\nThrough Germany's first fully automated incorporation API, we power the formation flows of partners like Qonto, Holvi, and Sevdesk. We're now expanding the stack into ongoing business operations: registered addresses, trade registrations, bookkeeping, and the full legal back-office.",
     "one_liner": "The legal back-office for European founders - the incorporation API…",
     "team_size": 15,
@@ -2043,7 +2045,8 @@
       "Legal"
     ],
     "regions": [
-      "Unspecified"
+      "Germany",
+      "Europe"
     ],
     "stage": "Early",
     "app_video_public": true,
@@ -2988,7 +2991,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0896c8d6a3292048c3275f782ddd6f5a282d3e4a.png",
     "website": "https://www.metreecs.com",
-    "all_locations": "",
+    "all_locations": "Paris, Île-de-France, France",
     "long_description": "Metreecs helps retailers plan, buy, and allocate products using AI-demand forecasting. We prevent overstock and out-of-stock situations, allowing clients to eliminate waste, free up capital, and drive higher sales.",
     "one_liner": "AI-powered demand forecasting for retail",
     "team_size": 6,
@@ -3011,7 +3014,8 @@
       "Retail"
     ],
     "regions": [
-      "Unspecified"
+      "France",
+      "Europe"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -3112,7 +3116,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f12c028442a35e9f801fbe4707f0761febda2eb5.png",
     "website": "https://www.hellosunset.com/",
-    "all_locations": "",
+    "all_locations": "Salt Lake City, UT, USA",
     "long_description": "Sunset can track down bank accounts, retirement accounts, investment accounts, property and more for families after losing a loved one. Sunset will close those accounts and move the money into a Sunset estate account to manage.",
     "one_liner": "Find and move money after a death",
     "team_size": 5,
@@ -3134,7 +3138,8 @@
       "Consumer Finance"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -3840,7 +3845,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/03e05dcd715014e7e3ce539d4aef2abf9ef621e2.png",
     "website": "https://www.loombotic.com",
-    "all_locations": "",
+    "all_locations": "Toronto, ON, Canada",
     "long_description": "Loombotic is automating wire harness manufacturing.",
     "one_liner": "Wire Harnesses in as little as 7 days",
     "team_size": 11,
@@ -3861,7 +3866,8 @@
       "Manufacturing and Robotics"
     ],
     "regions": [
-      "Unspecified"
+      "Canada",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,

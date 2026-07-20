@@ -3495,7 +3495,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -8913,7 +8913,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0896c8d6a3292048c3275f782ddd6f5a282d3e4a.png",
     "website": "https://www.metreecs.com",
-    "all_locations": "",
+    "all_locations": "Paris, Île-de-France, France",
     "long_description": "Metreecs helps retailers plan, buy, and allocate products using AI-demand forecasting. We prevent overstock and out-of-stock situations, allowing clients to eliminate waste, free up capital, and drive higher sales.",
     "one_liner": "AI-powered demand forecasting for retail",
     "team_size": 6,
@@ -8936,7 +8936,8 @@
       "Retail"
     ],
     "regions": [
-      "Unspecified"
+      "France",
+      "Europe"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -9080,7 +9081,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/31474af1f951c6780af0608ab7ed6a5b739d95bf.png",
     "website": "https://mundoai.world",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "Vancouver, BC, Canada",
     "long_description": "AI models are terrible in non-English languages because it's nearly impossible to find training data in other languages. So, we're building the world's largest and highest-quality multilingual data library.",
     "one_liner": "High Quality Multilingual Training Data for AI Models",
     "team_size": 4,
@@ -9103,7 +9104,7 @@
       "Infrastructure"
     ],
     "regions": [
-      "United States of America",
+      "Canada",
       "America / Canada",
       "Remote",
       "Partly Remote"
@@ -10075,7 +10076,7 @@
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Productivity",
-    "launched_at": 1773800071,
+    "launched_at": 1784428991,
     "tags": [
       "Artificial Intelligence",
       "Deep Learning",
