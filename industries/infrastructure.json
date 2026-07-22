@@ -7894,7 +7894,7 @@
     "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2023",
-    "status": "Active",
+    "status": "Acquired",
     "industries": [
       "B2B",
       "Infrastructure"
@@ -11022,51 +11022,6 @@
     "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2026/mantis.json"
   },
   {
-    "id": 31074,
-    "name": "TrustAI",
-    "slug": "trustai",
-    "former_names": [
-      "EvalAI",
-      "TrustAI Labs"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/882660c8a18b052eaabe5a10460a291038b111a7.png",
-    "website": "https://auto.trytrust.ai/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "TrustAI understands your context across the browser (CRMs, internal tools, Slack, GitHub) and suggests personalized automations you can run in one click. Accept, tweak, or ignore, then keep working while we handle the busywork in the background. ",
-    "one_liner": "Suggested cross-tool automations that run in one-click in background",
-    "team_size": 3,
-    "industry": "B2B",
-    "subindustry": "B2B -> Infrastructure",
-    "launched_at": 1783378352,
-    "tags": [
-      "Artificial Intelligence",
-      "B2B",
-      "Workflow Automation",
-      "Productivity"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2026",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Infrastructure"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": true,
-    "url": "https://www.ycombinator.com/companies/trustai",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2026/trustai.json"
-  },
-  {
     "id": 31080,
     "name": "Didit",
     "slug": "didit",
@@ -11839,9 +11794,9 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c76a18751e4b95b7b3cf621f7752449405d71aa5.png",
     "website": "https://moda.dev",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Moda is the reliability & monitoring layer for agents. It surfaces patterns across agent hallucinations, laziness, forgetfulness, and tool call failures. While also providing analytics on user frustration, net promoter score, retention, and churn rates.\r\n\r\nIn the next 10 years, with more AI agents spawning and trying to get PMF, developing an agent that actually works for users is critical. Everyone has access to the same models, thus the ones that win on a product level will be the ones who learn fastest from real usage. Moda is that learning layer.",
-    "one_liner": "The monitoring layer your AI agents need.",
-    "team_size": 5,
+    "long_description": "Moda is the continual learning layer for agents. It surfaces patterns across agent hallucinations, laziness, context loss, and tool call failures, then attributes each issue to a specific layer of the agent harness: prompts, tools, workflows, retrieval, memory, and evals. It also discovers what users are actually trying to do and turns those findings into concrete counterfactuals the team can ship.\r\n\r\nIn the next 10 years, with more AI agents spawning and trying to get PMF, developing an agent that actually works for users is critical. Everyone has access to the same models, thus the ones that win on a product level will be the ones who learn fastest from real usage. Moda is that learning layer.",
+    "one_liner": "Continual learning for AI agents",
+    "team_size": 6,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1769121297,
