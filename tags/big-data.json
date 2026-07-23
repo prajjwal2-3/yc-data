@@ -1172,15 +1172,15 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Sciloop creates expert-level math and physics problems that frontier AI models can't solve, then sells the data to AI labs for training and evaluation. Our problems are created by IPhO and IMO medalists — the top 0.01% of STEM talent globally. On our benchmark, models like GPT 5.4 Pro and Gemini 3.1 Pro score 0-5% on our hardest problems. We work with AI labs to supply continuous, fresh training data that pushes the frontier of mathematical and scientific reasoning. Founded by Bilal and Osman, International Physics Olympiad medalists from MIT with hands-on ML research experience at MIT CSAIL.\r\n",
     "one_liner": "Expert STEM reasoning data for frontier AI labs.",
-    "team_size": 2,
+    "team_size": 6,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1761248663,
     "tags": [
-      "Artificial Intelligence",
       "Marketplace",
       "Data Labeling",
-      "Big Data"
+      "Big Data",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -1261,7 +1261,7 @@
       "Maingen",
       "Maingen AI"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c69b2b2a1a8a5858b6972fbb0e1afcf049636810.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2eb59fa1eb6f59fafb938607c641276931a20aef.png",
     "website": "https://www.maingen.ai/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Maingen builds RL environments for industrial operations ($5 trillion slice of the US economy) so frontier labs can train models that actually run factories.",

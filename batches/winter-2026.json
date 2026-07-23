@@ -847,12 +847,11 @@
     "one_liner": "Operational Superintelligence for Global Logistics",
     "team_size": 4,
     "industry": "B2B",
-    "subindustry": "B2B -> Operations",
+    "subindustry": "B2B -> Supply Chain and Logistics",
     "launched_at": 1766374394,
     "tags": [
       "Logistics",
       "Supply Chain",
-      "Data Engineering",
       "Operations",
       "AI"
     ],
@@ -864,7 +863,7 @@
     "status": "Active",
     "industries": [
       "B2B",
-      "Operations"
+      "Supply Chain and Logistics"
     ],
     "regions": [
       "United States of America",
@@ -1910,15 +1909,15 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "10x Science develops frontier AI models with deep memory to redefine how scientists understand and engineer biology across the life sciences, starting with drug development.\r\n\r\nAI-powered drug discovery is flooding the pipeline with new candidates faster than ever. But before any of them can advance to the clinic, scientists must deeply characterize the protein therapeutic to understand whether it will work. Today, that process takes months of manual, error-prone analysis that cannot keep pace with discovery. Our AI-native platform automates it, giving drug developers the confidence to advance the right candidates and stop the wrong ones early.\r\n\r\nWe have strong commercial traction with enterprise pharma customers. Our founding team built the field of next-generation protein characterization out of Carolyn Bertozzi's Nobel laureate lab at Stanford. Collectively, we have 18+ years of collective domain expertise, 47+ scientific publications, and a 2x YC Founder. We move at the highest velocity and are positioned to lead the next generation of modern AI development in the life sciences. ",
     "one_liner": "The AI-native platform for next-generation protein characterization.",
-    "team_size": 3,
+    "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1768312668,
     "tags": [
+      "Artificial Intelligence",
       "SaaS",
       "B2B",
-      "Biotech",
-      "AI"
+      "Biotech"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -2612,8 +2611,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/74c9b33dec39ae88db50c30496502959820c2018.png",
     "website": "https://21st.dev",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "21st.dev is the largest React component registry for AI applications, used by 2M developers (370K MAU).\r\nWe provide the building blocks to create AI agents and agent-powered apps: UI components, agent templates, and an SDK with built-in UI, tools, memory, observability, and managed infrastructure.",
-    "one_liner": "Infrastructure and UI building blocks for the agentic internet",
+    "long_description": "21st.dev is the largest React component registry for AI applications, used by 2M developers \r\nWe provide the building blocks to create agent-powered apps: UI components, agent templates.",
+    "one_liner": "UI building blocks for the agentic internet",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -5198,7 +5197,7 @@
     "tags": [],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2026",
     "status": "Active",
@@ -6275,7 +6274,7 @@
     "website": "https://www.usecrow.ai/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "",
-    "one_liner": "AI for Commercial Real Estate",
+    "one_liner": "",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
