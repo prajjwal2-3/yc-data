@@ -4020,8 +4020,8 @@
   },
   {
     "id": 13143,
-    "name": "Flik",
-    "slug": "flik",
+    "name": "Terrasoft",
+    "slug": "terrasoft",
     "former_names": [
       "Terrasoft",
       "Hyphy",
@@ -4033,19 +4033,20 @@
       "Terrasoft",
       "Stealth Startup",
       "Terra soft",
-      "Terrasoft"
+      "Terrasoft",
+      "Flik"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/23bf39084d9479ff4d9fe383ff71b24a248d406a.png",
-    "website": "https://flikai.com",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/28a15af1c90393cd88679418f95cf3982817e84d.png",
+    "website": "",
     "all_locations": "Los Angeles, CA, USA",
     "long_description": "",
     "one_liner": "",
-    "team_size": 15,
+    "team_size": null,
     "industry": "B2B",
     "subindustry": "B2B -> Productivity",
     "launched_at": 1584124715,
     "tags": [
-      "AI"
+      "Artificial Intelligence"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -4068,8 +4069,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/flik",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2020/flik.json"
+    "url": "https://www.ycombinator.com/companies/terrasoft",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2020/terrasoft.json"
   },
   {
     "id": 13145,
@@ -4638,7 +4639,7 @@
       "Remote",
       "Fully Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -9075,15 +9076,18 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9ba947944afd3b1dfe85a7f3891e69a0b39e5fe9.png",
     "website": "https://goclicks.ai/",
-    "all_locations": "ZH, Switzerland",
-    "long_description": "Clicks is the AI-native BPO backed by Y Combinator. We replace traditional BPOs and shared service centers by automating back-office work with AI agents that operate your existing tools and follow your existing processes. We achieve higher accuracy and faster turn-around times at a fraction of the cost, with SOC 2 Type 2 and HIPAA compliance built in.",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Clicks builds AI agents that automate back-office operations for RCM companies and healthcare providers. Our agents work across EHRs, payer portals, desktop applications, and legacy systems, following existing processes, handling exceptions, and escalating when human judgment is needed. Backed by Y Combinator, Clicks helps teams improve accuracy, shorten turnaround times, and reduce operating costs, with SOC 2 Type II and HIPAA compliance built in.",
     "one_liner": "AI agents for your back-office operations.",
     "team_size": 8,
     "industry": "B2B",
     "subindustry": "B2B -> Productivity",
     "launched_at": 1759173987,
     "tags": [
-      "AI"
+      "Artificial Intelligence",
+      "Health Tech",
+      "Healthcare",
+      "Health Insurance"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -9096,8 +9100,8 @@
       "Productivity"
     ],
     "regions": [
-      "Switzerland",
-      "Europe"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
