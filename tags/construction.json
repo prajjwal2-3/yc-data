@@ -2835,6 +2835,50 @@
     "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2026/foreman.json"
   },
   {
+    "id": 31298,
+    "name": "Applied Electrodynamics, Inc.",
+    "slug": "applied-electrodynamics-inc",
+    "former_names": [
+      "Applied Electrodynamics"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8739177832b17ba59368a218faa7fcbfcdcbc74b.png",
+    "website": "https://www.ae-dyn.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Applied Electrodynamics builds imaging systems that see through solid matter. Our team previously co-invented the iPhone touchscreen and Nest learning thermostat. We’re starting in construction, helping teams map structural elements and utilities inside walls and ceilings. The same platform extends to security screening and cargo inspection. Our mission: make the hidden physical world machine-readable across the entire electromagnetic spectrum.\r\n",
+    "one_liner": "A new kind of camera that can see through walls.",
+    "team_size": 5,
+    "industry": "Industrials",
+    "subindustry": "Industrials",
+    "launched_at": 1785202775,
+    "tags": [
+      "Hard Tech",
+      "Hardware",
+      "Construction",
+      "Manufacturing",
+      "Defense"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "Industrials"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/applied-electrodynamics-inc",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2026/applied-electrodynamics-inc.json"
+  },
+  {
     "id": 31858,
     "name": "Torus",
     "slug": "torus",
@@ -2926,7 +2970,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f7ea500c797163e99dad11a205953572d46a0034.png",
     "website": "https://flowmanual.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "FlowManual is the all-in-one AI bidding and purchasing platform for both general and specialty construction contractors.\r\n\r\nBuilt by two engineers and Harvard dropouts, FlowManual automates the buying process during pre-construction. With FlowManual, specialty contractors win more work while general contractors deliver at higher standards.",
+    "long_description": "FlowManual is the all-in-one AI bidding and purchasing platform for both general and MEP construction contractors.\r\n\r\nBuilt by two engineers and Harvard dropouts, FlowManual automates the buying process during pre-construction. With FlowManual, specialty contractors win more work while general contractors deliver at higher standards.",
     "one_liner": "AI for Construction's Back Office.",
     "team_size": 2,
     "industry": "Real Estate and Construction",
