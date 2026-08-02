@@ -6341,45 +6341,6 @@
     "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2022/dialect-2.json"
   },
   {
-    "id": 26739,
-    "name": "Craze",
-    "slug": "craze",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b5c0add505f7307410cfab6e36c9a7df97ce8d5d.png",
-    "website": "https://www.crazehq.com/?utm_source=yc",
-    "all_locations": "Mumbai, MH, India",
-    "long_description": "Don't just chat with AI. Actually do things.\r\n\r\nTell Craze to do anything: run marketing campaigns, hire employees, build AI coworkers, automate workflows, plan weddings, etc. Craze picks and brings together all the right AI models, apps and agents to actually get things done for you.",
-    "one_liner": "Actually do things with the right AI models, apps and agents for you",
-    "team_size": 10,
-    "industry": "B2B",
-    "subindustry": "B2B -> Productivity",
-    "launched_at": 1659184640,
-    "tags": [
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2022",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Productivity"
-    ],
-    "regions": [
-      "India",
-      "South Asia"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/craze",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2022/craze.json"
-  },
-  {
     "id": 26740,
     "name": "BlueHill Payments",
     "slug": "bluehill-payments",
@@ -7915,7 +7876,7 @@
     "former_names": [
       "Unriddle"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0b702e275c5d9f7a428a7fe250b337175e2b5e58.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c200677edb53d6070e302f09d7f34173e19a46f2.png",
     "website": "https://anara.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Anara is AI for scientific advancement. We help researchers find, understand and write scientific documents, together.\r\n\r\nWe started working on Anara two years ago. In that time:\r\n- we’ve grown to 3M users spanning hundreds of major colleges and research-led companies,\r\n- we are fast approaching $10M in yearly revenue,\r\n- 600M+ people have seen our content across Instagram, TikTok and YouTube,\r\n- and we raised $3M from YC and the founders of Github and Reddit.\r\n\r\nWe're a small, tight-knit team with huge ambitions. As a founding member, you'll be instrumental in helping us scale revenue from $10M to $100M and then $100M to $1B+.\r\n\r\nIf you’re excited by the idea of being a part of that, definitely reach out.",
@@ -7925,9 +7886,9 @@
     "subindustry": "B2B -> Productivity",
     "launched_at": 1715615655,
     "tags": [
+      "Artificial Intelligence",
       "Consumer",
-      "B2B",
-      "AI"
+      "B2B"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -8832,7 +8793,7 @@
     "tags": [],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2025",
     "status": "Active",
@@ -9487,7 +9448,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Spring 2026",
     "status": "Active",
