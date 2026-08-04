@@ -1,0 +1,55 @@
+{
+  "id": 29372,
+  "name": "Sagaland",
+  "slug": "sagaland",
+  "former_names": [
+    "Sevn.ai",
+    "SevnAI",
+    "Sevn",
+    "sevn",
+    "AdRizz.com",
+    "PySpur.com",
+    "PySpur",
+    "PySpur.dev",
+    "Rehearsal.so",
+    "Ramble.gg",
+    "Sagaland",
+    "SevnAI"
+  ],
+  "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7bcc2515e31439799c6c2e2a9ca3667ca7af9de8.png",
+  "website": "https://sagaland.ai/",
+  "all_locations": "New York City, NY, USA; Remote",
+  "long_description": "",
+  "one_liner": "AI entertainment platform",
+  "team_size": 2,
+  "industry": "Consumer",
+  "subindustry": "Consumer",
+  "launched_at": 1703955205,
+  "tags": [
+    "Consumer",
+    "Entertainment",
+    "AI"
+  ],
+  "tags_highlighted": [],
+  "top_company": false,
+  "isHiring": false,
+  "nonprofit": false,
+  "batch": "Winter 2024",
+  "status": "Active",
+  "industries": [
+    "Consumer"
+  ],
+  "regions": [
+    "United States of America",
+    "America / Canada",
+    "Remote",
+    "Fully Remote"
+  ],
+  "stage": "Early",
+  "app_video_public": false,
+  "demo_day_video_public": false,
+  "app_answers": null,
+  "question_answers": false,
+  "url": "https://www.ycombinator.com/companies/sagaland",
+  "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2024/sagaland.json"
+}
