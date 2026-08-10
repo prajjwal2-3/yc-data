@@ -2247,15 +2247,15 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "‍Fieldguide is a vertical AI platform for modern assurance and advisory firms that digitizes the end-to-end engagement workflow on a single platform. Built by former Big Four practitioners and experienced technology leaders, Fieldguide is trusted by top CPA firms to improve margins, win new business, and build stronger client relationships. We’re based in San Francisco, CA, but built as a remote-first company that enables you to do your best work from anywhere. We're backed by top investors including Goldman Sachs, Bessemer Venture Partners, 8VC, Y Combinator, Floodgate, Elad Gil, Justin Kan, Qasar Younis, Eric Ries, and more.",
     "one_liner": "Vertical AI for Audit & Advisory Firms",
-    "team_size": 180,
+    "team_size": 200,
     "industry": "B2B",
     "subindustry": "B2B -> Productivity",
     "launched_at": 1598200142,
     "tags": [
+      "Artificial Intelligence",
       "B2B",
       "Workflow Automation",
-      "Productivity",
-      "AI"
+      "Productivity"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -2273,7 +2273,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -4594,7 +4594,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b971472cf0d2638ad01eeaaf35f5a56a8abd2541.png",
     "website": "https://floworks.ai/",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "Bengaluru, KA, India",
     "long_description": "Floworks (https://floworks.ai) is building a suite of AI employees that helps business to run several business functions such as sales, on autopilot.\r\n\r\nOur flagship product, Alisha is an AI SDR that performs the full outbound SDR job- fully autonomously without any human involvement. \r\n\r\nOur AI SDR Alisha can perform ICP research, find out prospect lists, research about each prospect across 180 web sources, write highly personalized emails to each, follow and engage, and finally coordinate like a human to book sales calls.\r\n\r\nBusinesses using Alisha get 3 key benefits:\r\n1.⁠ ⁠They get 12x output from your existing sales team.\r\n2.⁠ ⁠⁠Are able to scale to 8 figure revenues with just a single AE.\r\n\r\nAlisha is built on our proprietary function calling model ThorV2 (https://floworks.ai/research) that outperforms both Claude 3 and GPT-4 function calling in accuracy by 13% and 43% respectively. At the same time, ThorV2 uses only a fraction of the cost (<40%) and time/latency (<78%) as the other models.\r\n\r\nOur second AI employee, Ashley, is an AI Executive Assistant that keeps you reminded and on top of your on your schedule. Works on your whim- just command Flowy to book a meeting, move a meeting or write a email, and it does without you having to navigate through every apps. You can teach Flowy specific workflows such as ‘inform me immediately if i receive a reply from xyz’, “show my unread emails from last day every morning 7am” and much more\r\n\r\nOur third AI employee, Romona is a helpful AI Revenue Operations Manager that keeps track of every CRM data updation on behalf of your team, works on your instruction to update notes, next steps, MEDDIC after every call, does periodic CRM reporting and much more.",
     "one_liner": "Hire the best AI Sales employees | AI SDR | AI RevOps | AI EA",
     "team_size": 20,
@@ -4619,8 +4619,8 @@
       "Sales"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada",
+      "India",
+      "South Asia",
       "Remote",
       "Partly Remote"
     ],
