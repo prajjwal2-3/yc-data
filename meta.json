@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-08-13T02:19:48.771Z",
+  "last_updated": "2026-08-14T02:15:59.402Z",
   "readme": "https://github.com/prajjwal2-3/yc-data",
   "companies": {
     "all": {
       "name": "All launched companies",
-      "count": 6157,
+      "count": 6168,
       "api": "https://prajjwal2-3.github.io/yc-data/companies/all.json"
     },
     "top": {
@@ -34,7 +34,7 @@
     },
     "hiring": {
       "name": "Companies currently hiring",
-      "count": 1484,
+      "count": 1487,
       "api": "https://prajjwal2-3.github.io/yc-data/companies/hiring.json"
     }
   },
@@ -71,7 +71,7 @@
     },
     "ai": {
       "name": "AI",
-      "count": 871,
+      "count": 875,
       "api": "https://prajjwal2-3.github.io/yc-data/tags/ai.json"
     },
     "ai-assistant": {
@@ -86,7 +86,7 @@
     },
     "ai-powered-drug-discovery": {
       "name": "AI-powered Drug Discovery",
-      "count": 36,
+      "count": 37,
       "api": "https://prajjwal2-3.github.io/yc-data/tags/ai-powered-drug-discovery.json"
     },
     "aiops": {
@@ -161,7 +161,7 @@
     },
     "artificial-intelligence": {
       "name": "Artificial Intelligence",
-      "count": 964,
+      "count": 967,
       "api": "https://prajjwal2-3.github.io/yc-data/tags/artificial-intelligence.json"
     },
     "assistive-tech": {
@@ -206,7 +206,7 @@
     },
     "b2b": {
       "name": "B2B",
-      "count": 1111,
+      "count": 1114,
       "api": "https://prajjwal2-3.github.io/yc-data/tags/b2b.json"
     },
     "banking-as-a-service": {
@@ -246,7 +246,7 @@
     },
     "biotech": {
       "name": "Biotech",
-      "count": 144,
+      "count": 145,
       "api": "https://prajjwal2-3.github.io/yc-data/tags/biotech.json"
     },
     "biotechnology": {
@@ -341,7 +341,7 @@
     },
     "climatetech": {
       "name": "ClimateTech",
-      "count": 31,
+      "count": 32,
       "api": "https://prajjwal2-3.github.io/yc-data/tags/climatetech.json"
     },
     "cloud-computing": {
@@ -391,7 +391,7 @@
     },
     "computer-vision": {
       "name": "Computer Vision",
-      "count": 77,
+      "count": 78,
       "api": "https://prajjwal2-3.github.io/yc-data/tags/computer-vision.json"
     },
     "construction": {
@@ -401,7 +401,7 @@
     },
     "consumer": {
       "name": "Consumer",
-      "count": 243,
+      "count": 244,
       "api": "https://prajjwal2-3.github.io/yc-data/tags/consumer.json"
     },
     "consumer-finance": {
@@ -491,7 +491,7 @@
     },
     "customer-service": {
       "name": "Customer Service",
-      "count": 22,
+      "count": 23,
       "api": "https://prajjwal2-3.github.io/yc-data/tags/customer-service.json"
     },
     "customer-success": {
@@ -516,7 +516,7 @@
     },
     "cybersecurity": {
       "name": "Cybersecurity",
-      "count": 49,
+      "count": 48,
       "api": "https://prajjwal2-3.github.io/yc-data/tags/cybersecurity.json"
     },
     "dao": {
@@ -526,7 +526,7 @@
     },
     "data-engineering": {
       "name": "Data Engineering",
-      "count": 103,
+      "count": 104,
       "api": "https://prajjwal2-3.github.io/yc-data/tags/data-engineering.json"
     },
     "data-labeling": {
@@ -556,7 +556,7 @@
     },
     "deep-learning": {
       "name": "Deep Learning",
-      "count": 42,
+      "count": 43,
       "api": "https://prajjwal2-3.github.io/yc-data/tags/deep-learning.json"
     },
     "deepfake-detection": {
@@ -596,7 +596,7 @@
     },
     "developer-tools": {
       "name": "Developer Tools",
-      "count": 544,
+      "count": 545,
       "api": "https://prajjwal2-3.github.io/yc-data/tags/developer-tools.json"
     },
     "devops": {
@@ -751,7 +751,7 @@
     },
     "finance": {
       "name": "Finance",
-      "count": 95,
+      "count": 96,
       "api": "https://prajjwal2-3.github.io/yc-data/tags/finance.json"
     },
     "finops": {
@@ -761,7 +761,7 @@
     },
     "fintech": {
       "name": "Fintech",
-      "count": 700,
+      "count": 701,
       "api": "https://prajjwal2-3.github.io/yc-data/tags/fintech.json"
     },
     "fitness": {
@@ -831,7 +831,7 @@
     },
     "generative-ai": {
       "name": "Generative AI",
-      "count": 251,
+      "count": 252,
       "api": "https://prajjwal2-3.github.io/yc-data/tags/generative-ai.json"
     },
     "genetic-engineering": {
@@ -871,12 +871,12 @@
     },
     "hard-tech": {
       "name": "Hard Tech",
-      "count": 120,
+      "count": 121,
       "api": "https://prajjwal2-3.github.io/yc-data/tags/hard-tech.json"
     },
     "hardware": {
       "name": "Hardware",
-      "count": 154,
+      "count": 155,
       "api": "https://prajjwal2-3.github.io/yc-data/tags/hardware.json"
     },
     "health-and-wellness": {
@@ -896,7 +896,7 @@
     },
     "healthcare": {
       "name": "Healthcare",
-      "count": 207,
+      "count": 208,
       "api": "https://prajjwal2-3.github.io/yc-data/tags/healthcare.json"
     },
     "healthcare-it": {
@@ -976,7 +976,7 @@
     },
     "insurance": {
       "name": "Insurance",
-      "count": 78,
+      "count": 79,
       "api": "https://prajjwal2-3.github.io/yc-data/tags/insurance.json"
     },
     "international": {
@@ -1066,7 +1066,7 @@
     },
     "machine-learning": {
       "name": "Machine Learning",
-      "count": 233,
+      "count": 236,
       "api": "https://prajjwal2-3.github.io/yc-data/tags/machine-learning.json"
     },
     "manufacturing": {
@@ -1086,12 +1086,12 @@
     },
     "marketing": {
       "name": "Marketing",
-      "count": 108,
+      "count": 107,
       "api": "https://prajjwal2-3.github.io/yc-data/tags/marketing.json"
     },
     "marketplace": {
       "name": "Marketplace",
-      "count": 304,
+      "count": 305,
       "api": "https://prajjwal2-3.github.io/yc-data/tags/marketplace.json"
     },
     "media": {
@@ -1296,7 +1296,7 @@
     },
     "productivity": {
       "name": "Productivity",
-      "count": 165,
+      "count": 166,
       "api": "https://prajjwal2-3.github.io/yc-data/tags/productivity.json"
     },
     "proptech": {
@@ -1346,7 +1346,7 @@
     },
     "reinforcement-learning": {
       "name": "Reinforcement Learning",
-      "count": 38,
+      "count": 39,
       "api": "https://prajjwal2-3.github.io/yc-data/tags/reinforcement-learning.json"
     },
     "remittances": {
@@ -1366,7 +1366,7 @@
     },
     "renewable-energy": {
       "name": "Renewable Energy",
-      "count": 18,
+      "count": 19,
       "api": "https://prajjwal2-3.github.io/yc-data/tags/renewable-energy.json"
     },
     "restaurant-tech": {
@@ -1416,12 +1416,12 @@
     },
     "saas": {
       "name": "SaaS",
-      "count": 1092,
+      "count": 1094,
       "api": "https://prajjwal2-3.github.io/yc-data/tags/saas.json"
     },
     "sales": {
       "name": "Sales",
-      "count": 117,
+      "count": 118,
       "api": "https://prajjwal2-3.github.io/yc-data/tags/sales.json"
     },
     "sales-enablement": {
@@ -1748,7 +1748,7 @@
     },
     "b2b": {
       "name": "B2B",
-      "count": 3141,
+      "count": 3146,
       "api": "https://prajjwal2-3.github.io/yc-data/industries/b2b.json"
     },
     "banking-and-exchange": {
@@ -1758,7 +1758,7 @@
     },
     "climate": {
       "name": "Climate",
-      "count": 52,
+      "count": 53,
       "api": "https://prajjwal2-3.github.io/yc-data/industries/climate.json"
     },
     "construction": {
@@ -1768,7 +1768,7 @@
     },
     "consumer": {
       "name": "Consumer",
-      "count": 878,
+      "count": 879,
       "api": "https://prajjwal2-3.github.io/yc-data/industries/consumer.json"
     },
     "consumer-electronics": {
@@ -1788,7 +1788,7 @@
     },
     "content": {
       "name": "Content",
-      "count": 112,
+      "count": 113,
       "api": "https://prajjwal2-3.github.io/yc-data/industries/content.json"
     },
     "credit-and-lending": {
@@ -1828,7 +1828,7 @@
     },
     "engineering-product-and-design": {
       "name": "Engineering, Product and Design",
-      "count": 615,
+      "count": 616,
       "api": "https://prajjwal2-3.github.io/yc-data/industries/engineering-product-and-design.json"
     },
     "finance-and-accounting": {
@@ -1838,7 +1838,7 @@
     },
     "fintech": {
       "name": "Fintech",
-      "count": 649,
+      "count": 651,
       "api": "https://prajjwal2-3.github.io/yc-data/industries/fintech.json"
     },
     "food-and-beverage": {
@@ -1858,7 +1858,7 @@
     },
     "healthcare": {
       "name": "Healthcare",
-      "count": 697,
+      "count": 699,
       "api": "https://prajjwal2-3.github.io/yc-data/industries/healthcare.json"
     },
     "healthcare-it": {
@@ -1893,17 +1893,17 @@
     },
     "industrials": {
       "name": "Industrials",
-      "count": 445,
+      "count": 446,
       "api": "https://prajjwal2-3.github.io/yc-data/industries/industrials.json"
     },
     "infrastructure": {
       "name": "Infrastructure",
-      "count": 316,
+      "count": 318,
       "api": "https://prajjwal2-3.github.io/yc-data/industries/infrastructure.json"
     },
     "insurance": {
       "name": "Insurance",
-      "count": 63,
+      "count": 65,
       "api": "https://prajjwal2-3.github.io/yc-data/industries/insurance.json"
     },
     "job-and-career-services": {
@@ -1923,7 +1923,7 @@
     },
     "marketing": {
       "name": "Marketing",
-      "count": 170,
+      "count": 169,
       "api": "https://prajjwal2-3.github.io/yc-data/industries/marketing.json"
     },
     "medical-devices": {
@@ -1938,7 +1938,7 @@
     },
     "operations": {
       "name": "Operations",
-      "count": 148,
+      "count": 149,
       "api": "https://prajjwal2-3.github.io/yc-data/industries/operations.json"
     },
     "payments": {
@@ -1988,7 +1988,7 @@
     },
     "therapeutics": {
       "name": "Therapeutics",
-      "count": 63,
+      "count": 64,
       "api": "https://prajjwal2-3.github.io/yc-data/industries/therapeutics.json"
     },
     "transportation-services": {
@@ -2205,7 +2205,7 @@
     },
     "summer-2026": {
       "name": "Summer 2026",
-      "count": 208,
+      "count": 219,
       "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2026.json"
     },
     "winter-2026": {
