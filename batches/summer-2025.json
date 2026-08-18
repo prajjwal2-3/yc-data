@@ -830,14 +830,14 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "TraceRoot is the open-source self-improving layer for AI agents — observability that detects failures in production, root-causes them against your source code and GitHub history, opens verified fix PRs, and evals every fix — so your agent gets better with every release.",
     "one_liner": "Open source self-improving layer for AI agents",
-    "team_size": 1,
+    "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1753318246,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
-      "Infrastructure",
-      "AI"
+      "Infrastructure"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -3665,15 +3665,15 @@
     "website": "https://www.nozomio.com/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "We are a product lab solving context in AI.",
-    "one_liner": "product lab solving context in ai",
-    "team_size": 5,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
+    "one_liner": "product lab. focused on personal ai and context.",
+    "team_size": 3,
+    "industry": "Consumer",
+    "subindustry": "Consumer",
     "launched_at": 1751302971,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
-      "Consumer",
-      "AI"
+      "Consumer"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -3682,8 +3682,7 @@
     "batch": "Summer 2025",
     "status": "Active",
     "industries": [
-      "B2B",
-      "Engineering, Product and Design"
+      "Consumer"
     ],
     "regions": [
       "United States of America",
@@ -5622,16 +5621,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2add42dcef83667e3ac21f0eabb0f202583f5d0c.png",
     "website": "https://okibi.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Okibi generates a CLI from any product's codebase, so AI agents can use it the way people do.\r\n\r\nAgents are becoming software's next customers. When one comes to a product to make a purchase and finds no doorway in, it buys from the competitor whose CLI lets it through. Okibi turns products into CLIs and agents into customers.\r\n\r\nDoorDash, Mercury, Gusto, Ramp, and 30+ other companies have already launched first-party agent CLIs. Okibi is how every product gets one.",
+    "long_description": "Okibi generates a CLI from any product's codebase, so AI agents can use it the way people do.\r\n\r\nAgents are becoming software's next customers. When one comes to a product to do a task or purchase and finds no doorway in, it moves on to the competitor whose CLI lets it through. Okibi turns products into CLIs and agents into customers.\r\n\r\nDoorDash, Mercury, Gusto, Ramp, and 30+ other companies have already launched first-party agent CLIs. Okibi is how every product gets one.",
     "one_liner": "Turns products into CLIs and agents into customers",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1752707566,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
-      "SaaS"
+      "SaaS",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -6619,15 +6618,15 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Luminal builds an ML framework and compiler that generates GPU code.\r\nOur stack 10x's model speed while simplifying deployment and cutting idle GPU costs\r\n\r\nGithub: https://github.com/luminal-ai/luminal\r\nDiscord: https://discord.gg/APjuwHAbGy",
     "one_liner": "Making AI run fast on any hardware.",
-    "team_size": 5,
+    "team_size": 7,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1752295982,
     "tags": [
       "AIOps",
+      "Artificial Intelligence",
       "Developer Tools",
-      "Cloud Computing",
-      "AI"
+      "Cloud Computing"
     ],
     "tags_highlighted": [],
     "top_company": false,
