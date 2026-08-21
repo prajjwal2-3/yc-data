@@ -3764,55 +3764,6 @@
     "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2022/instalab.json"
   },
   {
-    "id": 24130,
-    "name": "VitalStrata",
-    "slug": "vitalstrata",
-    "former_names": [
-      "Superpass",
-      "PlusIdentity",
-      "Vansec",
-      "Aldermate"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/dd0109481d906e6297d06b8dd77f7ea4ff307796.png",
-    "website": "https://www.vitalstrata.com",
-    "all_locations": "New York City, NY, USA; Remote",
-    "long_description": "Boost coding accuracy, uncover hidden prospective signals, and increase audit-defensibility of MAO risk adjustment operations with VitalStrata's RAF Precision AI.",
-    "one_liner": "AI for risk adjustment integrity ",
-    "team_size": 1,
-    "industry": "Healthcare",
-    "subindustry": "Healthcare -> Healthcare IT",
-    "launched_at": 1628792922,
-    "tags": [
-      "Health Tech",
-      "Healthcare",
-      "Health Insurance",
-      "Healthcare IT"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2021",
-    "status": "Active",
-    "industries": [
-      "Healthcare",
-      "Healthcare IT"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Fully Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/vitalstrata",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2021/vitalstrata.json"
-  },
-  {
     "id": 24188,
     "name": "Pirouette Pharma",
     "slug": "pirouette-pharma",
@@ -6503,7 +6454,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2025",
     "status": "Active",
@@ -7463,18 +7414,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/203aaca34875f8d2fd195e6c042414266aefc1ca.png",
     "website": "https://www.insurf.io",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Insurf is the AI-native data and decision layer for health insurance. Our first product, Inveto, automatically turns denied healthcare claims into source-cited, physician-attested appeals, recovering revenue practices lose today. Every claim it resolves builds the coverage-decision graph, the proprietary dataset of real payer behavior that powers our next product, Surely, which prices the true cost of a health plan for employers and brokers.",
+    "long_description": "Insurf is the AI-native data and decision layer for health insurance. Our first product, Inveto, automatically turns denied healthcare claims into source-cited, physician-attested appeals, recovering revenue practices lose today. Every claim it resolves builds the coverage-decision graph, the proprietary dataset of real payer behavior that powers our next product, Surely, that predicts what health plans actually cost, saving individuals, families, and companies thousands per employee.",
     "one_liner": "The AI-Native Decision Infrastructure for Health Insurance",
     "team_size": 2,
     "industry": "Healthcare",
     "subindustry": "Healthcare",
     "launched_at": 1782286226,
     "tags": [
-      "Artificial Intelligence",
       "Health Tech",
       "Healthcare",
       "Insurance",
-      "Automation"
+      "Automation",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
