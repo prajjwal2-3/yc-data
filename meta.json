@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-08-22T01:25:18.696Z",
+  "last_updated": "2026-08-23T01:38:58.635Z",
   "readme": "https://github.com/prajjwal2-3/yc-data",
   "companies": {
     "all": {
       "name": "All launched companies",
-      "count": 6189,
+      "count": 6190,
       "api": "https://prajjwal2-3.github.io/yc-data/companies/all.json"
     },
     "top": {
@@ -34,7 +34,7 @@
     },
     "hiring": {
       "name": "Companies currently hiring",
-      "count": 1486,
+      "count": 1488,
       "api": "https://prajjwal2-3.github.io/yc-data/companies/hiring.json"
     }
   },
@@ -91,7 +91,7 @@
     },
     "aiops": {
       "name": "AIOps",
-      "count": 60,
+      "count": 61,
       "api": "https://prajjwal2-3.github.io/yc-data/tags/aiops.json"
     },
     "air-taxis": {
@@ -161,7 +161,7 @@
     },
     "artificial-intelligence": {
       "name": "Artificial Intelligence",
-      "count": 979,
+      "count": 980,
       "api": "https://prajjwal2-3.github.io/yc-data/tags/artificial-intelligence.json"
     },
     "assistive-tech": {
@@ -246,7 +246,7 @@
     },
     "biotech": {
       "name": "Biotech",
-      "count": 146,
+      "count": 147,
       "api": "https://prajjwal2-3.github.io/yc-data/tags/biotech.json"
     },
     "biotechnology": {
@@ -596,17 +596,17 @@
     },
     "developer-tools": {
       "name": "Developer Tools",
-      "count": 545,
+      "count": 544,
       "api": "https://prajjwal2-3.github.io/yc-data/tags/developer-tools.json"
     },
     "devops": {
       "name": "DevOps",
-      "count": 49,
+      "count": 50,
       "api": "https://prajjwal2-3.github.io/yc-data/tags/devops.json"
     },
     "devsecops": {
       "name": "DevSecOps",
-      "count": 34,
+      "count": 33,
       "api": "https://prajjwal2-3.github.io/yc-data/tags/devsecops.json"
     },
     "diagnostics": {
@@ -986,7 +986,7 @@
     },
     "investing": {
       "name": "Investing",
-      "count": 62,
+      "count": 63,
       "api": "https://prajjwal2-3.github.io/yc-data/tags/investing.json"
     },
     "investments": {
@@ -1156,7 +1156,7 @@
     },
     "monitoring": {
       "name": "Monitoring",
-      "count": 15,
+      "count": 16,
       "api": "https://prajjwal2-3.github.io/yc-data/tags/monitoring.json"
     },
     "music": {
@@ -1346,7 +1346,7 @@
     },
     "reinforcement-learning": {
       "name": "Reinforcement Learning",
-      "count": 39,
+      "count": 40,
       "api": "https://prajjwal2-3.github.io/yc-data/tags/reinforcement-learning.json"
     },
     "remittances": {
@@ -1416,7 +1416,7 @@
     },
     "saas": {
       "name": "SaaS",
-      "count": 1095,
+      "count": 1094,
       "api": "https://prajjwal2-3.github.io/yc-data/tags/saas.json"
     },
     "sales": {
@@ -1461,7 +1461,7 @@
     },
     "semiconductors": {
       "name": "Semiconductors",
-      "count": 19,
+      "count": 20,
       "api": "https://prajjwal2-3.github.io/yc-data/tags/semiconductors.json"
     },
     "seo": {
@@ -1641,7 +1641,7 @@
     },
     "trading": {
       "name": "Trading",
-      "count": 15,
+      "count": 16,
       "api": "https://prajjwal2-3.github.io/yc-data/tags/trading.json"
     },
     "transportation": {
@@ -1733,7 +1733,7 @@
     },
     "asset-management": {
       "name": "Asset Management",
-      "count": 54,
+      "count": 55,
       "api": "https://prajjwal2-3.github.io/yc-data/industries/asset-management.json"
     },
     "automotive": {
@@ -1838,7 +1838,7 @@
     },
     "fintech": {
       "name": "Fintech",
-      "count": 653,
+      "count": 654,
       "api": "https://prajjwal2-3.github.io/yc-data/industries/fintech.json"
     },
     "food-and-beverage": {
@@ -2205,7 +2205,7 @@
     },
     "summer-2026": {
       "name": "Summer 2026",
-      "count": 235,
+      "count": 236,
       "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2026.json"
     },
     "winter-2026": {
