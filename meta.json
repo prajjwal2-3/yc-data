@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-08-23T01:38:58.635Z",
+  "last_updated": "2026-08-24T01:37:12.022Z",
   "readme": "https://github.com/prajjwal2-3/yc-data",
   "companies": {
     "all": {
       "name": "All launched companies",
-      "count": 6190,
+      "count": 6191,
       "api": "https://prajjwal2-3.github.io/yc-data/companies/all.json"
     },
     "top": {
@@ -34,7 +34,7 @@
     },
     "hiring": {
       "name": "Companies currently hiring",
-      "count": 1488,
+      "count": 1491,
       "api": "https://prajjwal2-3.github.io/yc-data/companies/hiring.json"
     }
   },
@@ -46,7 +46,7 @@
     },
     "3d-printing": {
       "name": "3D Printing",
-      "count": 11,
+      "count": 12,
       "api": "https://prajjwal2-3.github.io/yc-data/tags/3d-printing.json"
     },
     "advanced-materials": {
@@ -61,7 +61,7 @@
     },
     "aerospace": {
       "name": "Aerospace",
-      "count": 44,
+      "count": 45,
       "api": "https://prajjwal2-3.github.io/yc-data/tags/aerospace.json"
     },
     "agriculture": {
@@ -71,7 +71,7 @@
     },
     "ai": {
       "name": "AI",
-      "count": 881,
+      "count": 882,
       "api": "https://prajjwal2-3.github.io/yc-data/tags/ai.json"
     },
     "ai-assistant": {
@@ -161,7 +161,7 @@
     },
     "artificial-intelligence": {
       "name": "Artificial Intelligence",
-      "count": 980,
+      "count": 979,
       "api": "https://prajjwal2-3.github.io/yc-data/tags/artificial-intelligence.json"
     },
     "assistive-tech": {
@@ -396,7 +396,7 @@
     },
     "construction": {
       "name": "Construction",
-      "count": 72,
+      "count": 73,
       "api": "https://prajjwal2-3.github.io/yc-data/tags/construction.json"
     },
     "consumer": {
@@ -596,7 +596,7 @@
     },
     "developer-tools": {
       "name": "Developer Tools",
-      "count": 544,
+      "count": 545,
       "api": "https://prajjwal2-3.github.io/yc-data/tags/developer-tools.json"
     },
     "devops": {
@@ -701,7 +701,7 @@
     },
     "energy": {
       "name": "Energy",
-      "count": 51,
+      "count": 52,
       "api": "https://prajjwal2-3.github.io/yc-data/tags/energy.json"
     },
     "energy-storage": {
@@ -729,6 +729,11 @@
       "count": 3,
       "api": "https://prajjwal2-3.github.io/yc-data/tags/esports.json"
     },
+    "exascale-computing": {
+      "name": "Exascale Computing",
+      "count": 1,
+      "api": "https://prajjwal2-3.github.io/yc-data/tags/exascale-computing.json"
+    },
     "fashion": {
       "name": "Fashion",
       "count": 20,
@@ -751,7 +756,7 @@
     },
     "finance": {
       "name": "Finance",
-      "count": 96,
+      "count": 97,
       "api": "https://prajjwal2-3.github.io/yc-data/tags/finance.json"
     },
     "finops": {
@@ -871,7 +876,7 @@
     },
     "hard-tech": {
       "name": "Hard Tech",
-      "count": 129,
+      "count": 130,
       "api": "https://prajjwal2-3.github.io/yc-data/tags/hard-tech.json"
     },
     "hardware": {
@@ -1156,7 +1161,7 @@
     },
     "monitoring": {
       "name": "Monitoring",
-      "count": 16,
+      "count": 15,
       "api": "https://prajjwal2-3.github.io/yc-data/tags/monitoring.json"
     },
     "music": {
@@ -1416,7 +1421,7 @@
     },
     "saas": {
       "name": "SaaS",
-      "count": 1094,
+      "count": 1095,
       "api": "https://prajjwal2-3.github.io/yc-data/tags/saas.json"
     },
     "sales": {
@@ -1743,7 +1748,7 @@
     },
     "aviation-and-space": {
       "name": "Aviation and Space",
-      "count": 63,
+      "count": 64,
       "api": "https://prajjwal2-3.github.io/yc-data/industries/aviation-and-space.json"
     },
     "b2b": {
@@ -1893,7 +1898,7 @@
     },
     "industrials": {
       "name": "Industrials",
-      "count": 451,
+      "count": 452,
       "api": "https://prajjwal2-3.github.io/yc-data/industries/industrials.json"
     },
     "infrastructure": {
@@ -2205,7 +2210,7 @@
     },
     "summer-2026": {
       "name": "Summer 2026",
-      "count": 236,
+      "count": 237,
       "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2026.json"
     },
     "winter-2026": {
