@@ -6222,7 +6222,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/70f52c907fab24ab4f95aa200a11907c5bc3896f.png",
     "website": "https://textsidekick.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Sidekick is an AI assistant for frontline manufacturing workers. Sidekick lets workers text problems, photos, or voice memos in any language; it answers from the company's own documents, creates and routes the work order, and syncs with software the company already runs. Sidekick captures the tribal knowledge in veterans' heads - the know-how that usually walks out the door when they retire - into a searchable knowledge base the company owns. No app, no login, works on any phone.",
+    "long_description": "Sidekick is an AI agent that runs frontline operations over text. Workers text problems, photos, or voice memos in any language; it answers from the company's own documents, creates and routes the work order, and syncs with the software the company already runs. No app, no login, works on any phone.\r\n\r\nIt watches connected machine data and texts the right worker when something's drifting wrong, before it becomes downtime. And it compounds: every answer becomes a searchable knowledge base the company owns, so tribal knowledge stops walking out the door when veterans retire.",
     "one_liner": "AI agent that handles frontline operations over text",
     "team_size": 1,
     "industry": "B2B",
@@ -6585,15 +6585,15 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/88c9150f7633337a9e66431f2838539b473b583f.png",
     "website": "https://rational.to",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Rational builds AI coworkers for accounting firms. Our agents onboard themselves to the firm, build a company brain, and do the work, from month-end close to tax prep. In addition, they follow up with clients and communicate with the right members of your team.",
+    "long_description": "Rational builds AI coworkers for in-house accounting teams. Our agents onboard themselves to the firm, build a company brain, and do the work, from month-end close to tax prep. In addition, they follow up and communicate with the right members of your team.",
     "one_liner": "AI Employees for Accounting",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Operations",
     "launched_at": 1784172515,
     "tags": [
-      "Enterprise",
-      "AI"
+      "Artificial Intelligence",
+      "Enterprise"
     ],
     "tags_highlighted": [],
     "top_company": false,

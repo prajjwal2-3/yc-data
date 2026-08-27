@@ -2739,7 +2739,7 @@
     "website": "https://www.axal.ai/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "We help companies get custom PCBs built without having to manage multiple vendors themselves. We review or create PCB designs, find the right manufacturer, coordinate production, inspect and test every board, handle any manufacturing issues, and deliver the finished boards directly to your office.\r\n\r\nOur goal is to reduce manufacturing errors, shorten iteration cycles, and get your boards to you as quickly as possible without compromising on quality.",
-    "one_liner": "Service company that designs, sources, and quality-tests custom PCBs",
+    "one_liner": "We design, assemble, and test custom PCBs fast.",
     "team_size": 3,
     "industry": "Industrials",
     "subindustry": "Industrials -> Manufacturing and Robotics",
@@ -3611,7 +3611,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/70f52c907fab24ab4f95aa200a11907c5bc3896f.png",
     "website": "https://textsidekick.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Sidekick is an AI assistant for frontline manufacturing workers. Sidekick lets workers text problems, photos, or voice memos in any language; it answers from the company's own documents, creates and routes the work order, and syncs with software the company already runs. Sidekick captures the tribal knowledge in veterans' heads - the know-how that usually walks out the door when they retire - into a searchable knowledge base the company owns. No app, no login, works on any phone.",
+    "long_description": "Sidekick is an AI agent that runs frontline operations over text. Workers text problems, photos, or voice memos in any language; it answers from the company's own documents, creates and routes the work order, and syncs with the software the company already runs. No app, no login, works on any phone.\r\n\r\nIt watches connected machine data and texts the right worker when something's drifting wrong, before it becomes downtime. And it compounds: every answer becomes a searchable knowledge base the company owns, so tribal knowledge stops walking out the door when veterans retire.",
     "one_liner": "AI agent that handles frontline operations over text",
     "team_size": 1,
     "industry": "B2B",
@@ -3709,7 +3709,7 @@
     "tags": [
       "B2B",
       "Design",
-      "3D Printing",
+      "Design Tools",
       "Manufacturing",
       "Industrial"
     ],
