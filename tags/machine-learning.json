@@ -10076,7 +10076,7 @@
     "website": "https://belvedir.ai/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Private AI models are going to win. Belvedir is the infrastructure needed to make trillions of them.\r\n\r\nBelvedir makes it cheap and easy for anyone to make private AI. Connect us to your agent traces through our SDK and we autonomously train custom models + harnesses + routers, privately deploy them, and recursively improve them as they are used. Our customers have seen up to 10x reductions in inference costs and 2x increases on benchmark scores.",
-    "one_liner": "The easiest way to make private AI models.",
+    "one_liner": "The easiest way to make private AI models",
     "team_size": 1,
     "industry": "B2B",
     "subindustry": "B2B",
@@ -10319,51 +10319,6 @@
     "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2026/princeps.json"
   },
   {
-    "id": 33315,
-    "name": "Amulet",
-    "slug": "amulet",
-    "former_names": [
-      "Quokka"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a701d932d1defe46eb3a0feed27a1cd9efe8e13c.png",
-    "website": "https://amulet.so/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Amulet is a high-performance filesystem that gives agent workloads fast access to petabytes of data stored in the cloud. \r\n\r\nWe provide isolated, writable workspaces that mount in under 100 ms and fork without copying data. Work persists across disposable compute, and every workspace can be snapshotted, reproduced, merged, or rolled back. We’re working with agentic automated-research labs, cloud agent providers, and other to bring this infrastructure to data-intensive AI teams.",
-    "one_liner": "High performance file system for agents",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Infrastructure",
-    "launched_at": 1783403722,
-    "tags": [
-      "Developer Tools",
-      "Machine Learning",
-      "Big Data",
-      "Infrastructure",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2026",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Infrastructure"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/amulet",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2026/amulet.json"
-  },
-  {
     "id": 33316,
     "name": "Tracer",
     "slug": "tracer",
@@ -10412,7 +10367,7 @@
     "website": "https://hiloop.ai",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "hiloop helps teams train agents for tasks where general models are not good enough. Give us a task, your current agent or model, and an evaluation. hiloop runs an autoresearch campaign across data, SFT and other post-training methods, continual learning, prompts, tools, harnesses, and systems, then returns the best verified improvement. It runs hosted or in your cloud.\r\n\r\nWe provide the research system around models: persistent memory, full experiment lineage, compute orchestration, and statistical verification. We’re starting with agent and model training, continual learning, and optimization.\r\n\r\nReach out to us for early access at founders@hiloop.ai.",
-    "one_liner": "Infrastructure for recursive self-improvement",
+    "one_liner": "Autoresearch as a service: we solve your hardest measurable problems",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
