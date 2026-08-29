@@ -3519,7 +3519,7 @@
     "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2024",
-    "status": "Active",
+    "status": "Inactive",
     "industries": [
       "B2B",
       "Engineering, Product and Design"
@@ -6130,11 +6130,11 @@
     "subindustry": "B2B -> Analytics",
     "launched_at": 1722311835,
     "tags": [
+      "Artificial Intelligence",
       "SaaS",
       "B2B",
       "Analytics",
-      "Data Engineering",
-      "AI"
+      "Data Engineering"
     ],
     "tags_highlighted": [],
     "top_company": false,
