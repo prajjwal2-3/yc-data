@@ -12306,7 +12306,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/37e8e62d8a79db7c006e15d1cce3365c5fc7e469.png",
     "website": "https://letterdrop.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "We name the accounts, buyers, and competitors in a live sales cycle right now, so you get into deals that would otherwise go to a competitor by default.\r\n",
+    "long_description": "If you beat your competitors in head to head bakeoffs, you should want to get into every active evaluation of them possible. Letterdrop makes that possible so you can sell customers on your better solution.",
     "one_liner": "Get into the competitive deals you can't see",
     "team_size": 10,
     "industry": "B2B",
@@ -20391,7 +20391,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -21004,53 +21004,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/kodex",
     "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2021/kodex.json"
-  },
-  {
-    "id": 24188,
-    "name": "Pirouette Pharma",
-    "slug": "pirouette-pharma",
-    "former_names": [
-      "Pirouette Medical, LLC.",
-      "Pirouette Medical"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6d5c45afdf23c42aacf00d8b2a17adc32893a852.png",
-    "website": "https://www.pirouettepharma.com/",
-    "all_locations": "Boston, MA, USA",
-    "long_description": "At Pirouette, we have developed a low-profile, disk-shaped, rugged injection device with a patient-centric focus on affordability, portability, and usability. The patented device, based on extensive patient input, is designed to make administering an injection as easy as pushing a button. This allows individuals with limited or no training to easily and intuitively perform an injection on themselves or others.",
-    "one_liner": "We make injections as easy as pushing a button!",
-    "team_size": 9,
-    "industry": "Healthcare",
-    "subindustry": "Healthcare -> Drug Discovery and Delivery",
-    "launched_at": 1624370517,
-    "tags": [
-      "Health Tech",
-      "Medical Devices",
-      "Biotech",
-      "Healthcare"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Summer 2021",
-    "status": "Active",
-    "industries": [
-      "Healthcare",
-      "Drug Discovery and Delivery"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Growth",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/pirouette-pharma",
-    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2021/pirouette-pharma.json"
   },
   {
     "id": 24194,
@@ -38459,7 +38412,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -38672,7 +38625,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -40401,7 +40354,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -55895,7 +55848,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Avent helps manufacturers and industrial distributors run quoting and order entry on autopilot. \r\n\r\nOur AI agents manage sales inboxes, build quotes from past pricing and tribal knowledge, and keep records up to date in existing ERPs.",
     "one_liner": "AI agents for industrial commerce",
-    "team_size": 3,
+    "team_size": 5,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1755109512,
@@ -58465,8 +58418,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d20374e923bd141960c3c8fd2965f8288e95aa58.png",
     "website": "https://www.zarnaai.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Zarna is private equity’s first AI associate class.\r\n\r\nOur agents plug directly into your firm’s data and work like a deal team that never sleeps. Zarna’s agents analyze CIMs, build LBOs, update CRMs, draft IC memos, & act based on decades of proprietary firm knowledge. \r\n\r\nThe result: investors spend less time buried in decks and spreadsheets, and more time on judgment, relationships, and winning deals. \r\n",
-    "one_liner": "AI Associates for Private Capital ",
+    "long_description": "Zarna is private equity's first AI associate class. \r\n\r\nBuilt for BD teams at middle-market firms, our agents manage your CRM, source new opportunities, and prep you for every meeting. Runs natively in Outlook and Teams.",
+    "one_liner": "AI Associates for Middle-Market Private Equity ",
     "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B -> Finance and Accounting",
@@ -58890,6 +58843,49 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/ruma-care",
     "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2026/ruma-care.json"
+  },
+  {
+    "id": 31086,
+    "name": "Prescience, Inc.",
+    "slug": "prescience-inc",
+    "former_names": [
+      "HouseAI",
+      "Prescience"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9318ef0555c0ad2e5ce6049908b655658d073f1f.png",
+    "website": "https://www.getprescience.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Prescience is the preeminent health benefits platform for the world's most ambitious companies. We save employers 20-50% on health insurance while offering best-in-industry health benefits: www.getprescience.com\r\n\r\nAbout us:\r\nPrescience is building a new healthcare system for America. We train AI systems to: create, operate, insure, and deliver healthcare for employer health plans. Prescience Time Machine – an AlphaGo-like system – steers patients towards “Move 37 health trajectories” that deliver dramatic cost savings for employers. Rishab Jain and Aditya Jain, M.D. are serial entrepreneurs and brothers from Harvard & Harvard Medical School with backgrounds in machine learning and medicine. We believe abundant intelligence will bring an opportunity to fundamentally rebuild the $4.5T healthcare industry around proactive (prescient) health and wellness.",
+    "one_liner": "Healthcare for the age of abundant intelligence.",
+    "team_size": 2,
+    "industry": "Healthcare",
+    "subindustry": "Healthcare",
+    "launched_at": 1780947683,
+    "tags": [
+      "B2B",
+      "Health Insurance",
+      "Insurance"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "Healthcare"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/prescience-inc",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2026/prescience-inc.json"
   },
   {
     "id": 31088,
@@ -63034,18 +63030,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/209c1fdd9d657cb4fad05300bbb0faf304f4d29c.png",
     "website": "https://bloomylearning.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Bloomy helps students learn more efficiently by using AI to identify exactly what a student should learn and when they should learn it. We provide adaptive and personalized curriculum to K-12, starting with English Language Arts, Math, and Writing.",
-    "one_liner": "AI-powered mastery learning for K-12",
+    "long_description": "Bloomy is the fastest way to teach anything in school. We provide schools with an AI curriculum and teacher to help K-12 students learn faster. Backed by the founders of Clever. ",
+    "one_liner": "AI-driven 1-to-1 learning for every student",
     "team_size": 1,
     "industry": "Education",
     "subindustry": "Education",
     "launched_at": 1782182610,
     "tags": [
       "AI-Enhanced Learning",
-      "Artificial Intelligence",
       "Education",
       "eLearning",
-      "Personalization"
+      "Personalization",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -63159,8 +63155,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/88c9150f7633337a9e66431f2838539b473b583f.png",
     "website": "https://rational.to",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Rational builds AI coworkers for in-house accounting teams. Our agents onboard themselves to the firm, build a company brain, and do the work, from month-end close to tax prep. In addition, they follow up and communicate with the right members of your team.",
-    "one_liner": "AI Employees for Accounting",
+    "long_description": "Rational builds AI employees for in-house enterprise accounting teams. Enterprises process high volumes of complex, multinational transactions that require broad expertise in international tax and accounting. Powered by the most accurate tax model in the world, we save teams enormous time on tax and close work while also eliminating unnecessary audit costs. ",
+    "one_liner": "AI Employees for In-House Enterprise Accounting",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Operations",
