@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-30T04:38:08.798Z",
+  "last_updated": "2026-08-31T04:42:05.097Z",
   "readme": "https://github.com/prajjwal2-3/yc-data",
   "companies": {
     "all": {
@@ -34,7 +34,7 @@
     },
     "hiring": {
       "name": "Companies currently hiring",
-      "count": 1481,
+      "count": 1482,
       "api": "https://prajjwal2-3.github.io/yc-data/companies/hiring.json"
     }
   },
@@ -161,7 +161,7 @@
     },
     "artificial-intelligence": {
       "name": "Artificial Intelligence",
-      "count": 981,
+      "count": 982,
       "api": "https://prajjwal2-3.github.io/yc-data/tags/artificial-intelligence.json"
     },
     "assistive-tech": {
@@ -206,7 +206,7 @@
     },
     "b2b": {
       "name": "B2B",
-      "count": 1120,
+      "count": 1119,
       "api": "https://prajjwal2-3.github.io/yc-data/tags/b2b.json"
     },
     "banking-as-a-service": {
@@ -396,7 +396,7 @@
     },
     "construction": {
       "name": "Construction",
-      "count": 73,
+      "count": 74,
       "api": "https://prajjwal2-3.github.io/yc-data/tags/construction.json"
     },
     "consumer": {
@@ -461,7 +461,7 @@
     },
     "crypto-web3": {
       "name": "Crypto / Web3",
-      "count": 92,
+      "count": 93,
       "api": "https://prajjwal2-3.github.io/yc-data/tags/crypto-web3.json"
     },
     "cryptocurrency": {
@@ -1326,7 +1326,7 @@
     },
     "real-estate": {
       "name": "Real Estate",
-      "count": 82,
+      "count": 83,
       "api": "https://prajjwal2-3.github.io/yc-data/tags/real-estate.json"
     },
     "recommendation-system": {
