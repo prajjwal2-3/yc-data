@@ -780,7 +780,7 @@
     "name": "Uplane",
     "slug": "uplane",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f28d39fea2309ac2fc4d42b7be088ee964dccf6a.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6f996a4ae5a6f6c50880fc529dd16c13be2500bd.png",
     "website": "https://uplane.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Uplane replaces marketing agencies with AI. We generate hundreds of ads with matching landing pages and steer the ad spend across channels like Meta, Google, LinkedIn and others. By connecting to CRM and ERP data, Uplane learns what drives profits and continuously improves campaigns.\r\n\r\nCompanies waste billions on bad ads, mismatched landing pages, and poor budget allocation. Uplane fixes this by replacing a patchwork of agencies, spreadsheets, and siloed tools with one self-improving system. The result: Higher ROAS for enterprises and effortless, expert-level marketing for SMBs.",
@@ -790,11 +790,11 @@
     "subindustry": "B2B -> Marketing",
     "launched_at": 1759250646,
     "tags": [
-      "Artificial Intelligence",
       "SaaS",
       "B2B",
       "Analytics",
-      "Advertising"
+      "Advertising",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -4104,12 +4104,12 @@
     "long_description": "Building open-source general-purpose robots capable of performing unsafe, repetitive or boring tasks.",
     "one_liner": "General Purpose Robots",
     "team_size": null,
-    "industry": "B2B",
-    "subindustry": "B2B",
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Manufacturing and Robotics",
     "launched_at": 1761067885,
     "tags": [
-      "Robotics",
-      "AI"
+      "Artificial Intelligence",
+      "Robotics"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -4118,7 +4118,8 @@
     "batch": "Fall 2025",
     "status": "Active",
     "industries": [
-      "B2B"
+      "Industrials",
+      "Manufacturing and Robotics"
     ],
     "regions": [
       "United States of America",
