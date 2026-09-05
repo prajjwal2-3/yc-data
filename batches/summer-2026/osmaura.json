@@ -11,21 +11,21 @@
     "vizlog",
     "Halcyon"
   ],
-  "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f8f5bfc033ae31d6282044fe4ce792725cc090a1.png",
+  "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9ac7ce1b60bd6ac7d06599970f59c5e8bd6aa53a.png",
   "website": "https://osmaura.com",
   "all_locations": "San Francisco, CA, USA",
-  "long_description": "We are the front door to quality legal services for businesses. We identify when a company may need legal help, connect it with the right specialized firm, and manage the client experience from intake through future matters.\r\n\r\nWe grew 0 -> 17.5k MRR in 5 weeks after launching.\r\n\r\nLawyers are trained to practice law - not to prospect, sell, and manage pipelines. We're here to help them grow while they focus on what they do best.",
-  "one_liner": "AI-native managed legal services for businesses",
+  "long_description": "We connect to a firm's internal client and relationship data to surface client engagement, cross selling, upselling, and new client opportunities that a firm is well positioned to take advantage of. We manage the client experience from intake through future matters.\r\n\r\nWe grew 0 -> 17.5k MRR in less than 5 weeks.\r\n\r\nWe're here to help law firms grow and care for their clients while they focus on what they do best. Lawyers are trained to practice law - not to prospect, sell, and manage clients.",
+  "one_liner": "AI-native client care for corporate law firms",
   "team_size": 2,
   "industry": "B2B",
   "subindustry": "B2B",
   "launched_at": 1781994700,
   "tags": [
-    "Artificial Intelligence",
     "B2B",
     "Sales Enablement",
     "LegalTech",
-    "Customer Service"
+    "Customer Service",
+    "AI"
   ],
   "tags_highlighted": [],
   "top_company": false,

@@ -10419,9 +10419,9 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3838f80b214ed1fcda53a2778860e8be11cfdb0d.png",
     "website": "https://manufact.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Manufact is the MCP cloud platform to get your product ready for Claude Connectors marketplace, ChatGPT / Codex plugins store and any AI agent that supports MCP.\r\nWe're the team behind mcp-use SDK, the open-source framework for building MCP Apps with 10k github stars and 8M+ downloads across python and typescript.\r\n\r\nIt's the fastest and most complete solution for production-ready MCP servers.",
-    "one_liner": "Cloud infrastructure for MCP servers and Claude / ChatGPT apps.",
-    "team_size": 6,
+    "long_description": "Manufact is the MCP cloud platform to get your product ready for Claude Connectors marketplace, ChatGPT / Codex plugins store and any AI agent that supports MCP.\r\nWe're the team behind mcp-use SDK, the open-source framework for building MCP Apps with 10k github stars and 10M+ downloads across python and typescript.\r\n\r\nIt's the fastest and most complete solution for production-ready MCP servers.",
+    "one_liner": "Cloud infrastructure for MCP servers and Claude / ChatGPT plugins.",
+    "team_size": 5,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1752861544,
@@ -10624,15 +10624,15 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Kernel is crazy fast, open source infra for AI agents to access the internet 🧠🕸️\r\n- Built on unikernels for crazy fast cold starts and low resource usage\r\n- Sub-150ms cold starts on managed headful browsers\r\n- Built-in stealth mode with residential proxies and automatic CAPTCHA solving\r\n- Full observability: session recording, live view, and full logs\r\n- Persistent sessions that maintain cookies and auth across invocations\r\n- Native support for all browser and computer use frameworks\r\n- SOC 2 compliant and HIPAA-ready\r\n\r\nTrusted by Cash App, Rye, and 1000+ others. Backed by Accel & Y Combinator (S25).",
     "one_liner": "Crazy fast, open source infra for AI agents to use the Internet",
-    "team_size": 6,
+    "team_size": 22,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1753229701,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "Cloud Computing",
-      "Infrastructure",
-      "AI"
+      "Infrastructure"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -10650,7 +10650,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -11577,7 +11577,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Compresr provides an API that compresses LLM context without losing what matters. It’s a drop-in for agents and RAG that cuts token costs and improves accuracy.",
     "one_liner": "LLM context compression for better accuracy",
-    "team_size": 4,
+    "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1768812885,
@@ -13691,6 +13691,46 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/ascii",
     "api": "https://prajjwal2-3.github.io/yc-data/batches/fall-2026/ascii.json"
+  },
+  {
+    "id": 35265,
+    "name": "Hopper",
+    "slug": "hopper",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6640b732eb4efe17f2fb11ff75f6f6bc14184872.png",
+    "website": "https://withhopper.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "The best voice model is small, specialized, and yours. Hopper post-trains STT, TTS, and speech LLMs on your production calls, serves them at 100ms to first token (GPT-4.1 is ~700ms), and keeps improving them against your live traffic.",
+    "one_liner": "Fast inference for voice",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1788561875,
+    "tags": [
+      "Infrastructure",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/hopper",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/fall-2026/hopper.json"
   },
   {
     "id": 38061,
