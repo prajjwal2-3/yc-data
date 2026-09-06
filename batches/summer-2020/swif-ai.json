@@ -1,0 +1,52 @@
+{
+  "id": 21885,
+  "name": "Swif.ai",
+  "slug": "swif-ai",
+  "former_names": [
+    "BlaBla EdTech",
+    "BlaBla Live",
+    "Swifteam",
+    "Inc.",
+    "Swifteam",
+    "Swif"
+  ],
+  "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3f00f6931229f64701cd737b9839f92f72e20005.png",
+  "website": "https://www.swif.ai",
+  "all_locations": "San Francisco, CA, USA",
+  "long_description": "Swif.ai is the Unified Agent & Endpoint Management (UAEM)\r\n\r\nManage every device. Govern every AI agent.\r\n\r\nOne control plane for device management, AI-agent governance, continuous enforcement, and autonomous remediation.",
+  "one_liner": "Manage every device. Govern every AI agent.",
+  "team_size": 20,
+  "industry": "B2B",
+  "subindustry": "B2B -> Security",
+  "launched_at": 1597360094,
+  "tags": [
+    "SaaS",
+    "B2B",
+    "Compliance",
+    "Security",
+    "Enterprise"
+  ],
+  "tags_highlighted": [],
+  "top_company": false,
+  "isHiring": true,
+  "nonprofit": false,
+  "batch": "Summer 2020",
+  "status": "Active",
+  "industries": [
+    "B2B",
+    "Security"
+  ],
+  "regions": [
+    "United States of America",
+    "America / Canada",
+    "Remote",
+    "Partly Remote"
+  ],
+  "stage": "Early",
+  "app_video_public": false,
+  "demo_day_video_public": false,
+  "app_answers": null,
+  "question_answers": true,
+  "url": "https://www.ycombinator.com/companies/swif-ai",
+  "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2020/swif-ai.json"
+}

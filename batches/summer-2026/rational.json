@@ -1,0 +1,42 @@
+{
+  "id": 32622,
+  "name": "Rational",
+  "slug": "rational",
+  "former_names": [],
+  "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/88c9150f7633337a9e66431f2838539b473b583f.png",
+  "website": "https://rational.to",
+  "all_locations": "San Francisco, CA, USA",
+  "long_description": "Rational is building the first accounting firm with no humans. It's entirely run by our AI employees, who go from client intake to doing the books to filing with the IRS. We secure 90% cost reduction, 24/7 support, and an overall seamless experience for businesses.",
+  "one_liner": "First Zero-human Accounting Firm",
+  "team_size": 2,
+  "industry": "B2B",
+  "subindustry": "B2B -> Operations",
+  "launched_at": 1784172515,
+  "tags": [
+    "Artificial Intelligence",
+    "Finance",
+    "B2B",
+    "Enterprise"
+  ],
+  "tags_highlighted": [],
+  "top_company": false,
+  "isHiring": true,
+  "nonprofit": false,
+  "batch": "Summer 2026",
+  "status": "Active",
+  "industries": [
+    "B2B",
+    "Operations"
+  ],
+  "regions": [
+    "United States of America",
+    "America / Canada"
+  ],
+  "stage": "Early",
+  "app_video_public": false,
+  "demo_day_video_public": false,
+  "app_answers": null,
+  "question_answers": false,
+  "url": "https://www.ycombinator.com/companies/rational",
+  "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2026/rational.json"
+}

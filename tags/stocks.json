@@ -1,0 +1,306 @@
+[
+  {
+    "id": 334,
+    "name": "SocialPicks",
+    "slug": "socialpicks",
+    "former_names": [],
+    "small_logo_thumb_url": "/company/thumb/missing.png",
+    "website": "http://socialpicks.com",
+    "all_locations": "New York City, NY, USA; New York, NY, USA",
+    "long_description": "SocialPicks",
+    "one_liner": "SocialPicks was a platform where stock investors could exchange…",
+    "team_size": 2,
+    "industry": "Consumer",
+    "subindustry": "Consumer -> Social",
+    "launched_at": 1326791399,
+    "tags": [
+      "Investing",
+      "Stocks"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2007",
+    "status": "Inactive",
+    "industries": [
+      "Consumer",
+      "Social"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/socialpicks",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2007/socialpicks.json"
+  },
+  {
+    "id": 765,
+    "name": "SparkGift",
+    "slug": "sparkgift",
+    "former_names": [
+      "Spark Gift"
+    ],
+    "small_logo_thumb_url": "/company/thumb/missing.png",
+    "website": "http://sparkgift.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "SparkGift is a Y Combinator backed technology startup that makes it easy to give investments as gifts.  \r\n\r\nThe founders came together with a common vision that it should be as easy to give someone an investment in the future, as it is to give someone a retail gift card.  SparkGift supports small dollar gifts and fractional shares, so you can give someone a $20 investment in Apple or a Vanguard index fund.\r\n\r\nSparkGift is creating products that make investing simple, enjoyable and accessible to the masses.  Our mission is to use gifts to create new savers & investors at scale.",
+    "one_liner": "SparkGift makes it easy to send stocks and index funds as gifts to…",
+    "team_size": 2,
+    "industry": "Fintech",
+    "subindustry": "Fintech -> Consumer Finance",
+    "launched_at": 1416220097,
+    "tags": [
+      "Investing",
+      "Stocks"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2015",
+    "status": "Inactive",
+    "industries": [
+      "Fintech",
+      "Consumer Finance"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/sparkgift",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2015/sparkgift.json"
+  },
+  {
+    "id": 23885,
+    "name": "marketfeed",
+    "slug": "marketfeed",
+    "former_names": [
+      "fundfolio"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2d876ee89747c228cdd24b743705be33b8ec8364.png",
+    "website": "https://marketfeed.com",
+    "all_locations": "Bengaluru, KA, India",
+    "long_description": "At marketfeed, we're on a mission to help every Indian understand what's wrong with their money and fix it. We're building a new generation of products that turn financial confusion into clear, actionable solutions. Our goal is to empower you to take complete control of your financial future, one smart decision at a time.",
+    "one_liner": "Helping Indians make better financial decisions.",
+    "team_size": 18,
+    "industry": "Fintech",
+    "subindustry": "Fintech -> Consumer Finance",
+    "launched_at": 1627922443,
+    "tags": [
+      "Fintech",
+      "Trading",
+      "Stocks"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2021",
+    "status": "Active",
+    "industries": [
+      "Fintech",
+      "Consumer Finance"
+    ],
+    "regions": [
+      "India",
+      "South Asia",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/marketfeed",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2021/marketfeed.json"
+  },
+  {
+    "id": 24374,
+    "name": "Coinrule",
+    "slug": "coinrule",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/060a4532a28d07a4d01b23bad67a8ac803210fee.png",
+    "website": "https://coinrule.com/",
+    "all_locations": "London, England, United Kingdom",
+    "long_description": "Coinrule Catches the Next Market Opportunity on Your Behalf by Automating Your Investments: Crypto, Stocks, ETFs.\r\nDocufilm: https://youtu.be/YitEyKmx8fg\r\nPrevious Crowdfunding: https://youtu.be/nnYJ4PnSvnU?si",
+    "one_liner": "Coinrule Automates Your Crypto and Stock Investments",
+    "team_size": 7,
+    "industry": "Fintech",
+    "subindustry": "Fintech",
+    "launched_at": 1628767549,
+    "tags": [
+      "Fintech",
+      "Crypto / Web3",
+      "Trading",
+      "AI",
+      "Stocks"
+    ],
+    "tags_highlighted": [
+      "Crypto / Web3"
+    ],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2021",
+    "status": "Active",
+    "industries": [
+      "Fintech"
+    ],
+    "regions": [
+      "United Kingdom",
+      "Europe",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": true,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/coinrule",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2021/coinrule.json"
+  },
+  {
+    "id": 31343,
+    "name": "Multiplier",
+    "slug": "multiplier",
+    "former_names": [
+      "WithAI"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f7c1a5b7f1d0f6a85da016ccad1a5a0cec81c513.png",
+    "website": "https://multiplier.ai",
+    "all_locations": "New York City, NY, USA",
+    "long_description": "Multiplier helps institutional investors research stocks and manage their portfolios. We're live with six hedge funds, and our users spend 4+ hours a day in the platform.\r\n\r\nInvestors who try \"nearly every tool on the market,\" to quote a client of ours, \"wind up with an unwieldy collection of fragmented point solutions.\" Those who focus on building a great setup with general agents are instead \"signing up for a full-time job.\" So we deploy a platform called Multiplier that unifies structured data, unstructured data, AI work, human work, and tacit firm knowledge in one secure, governed, customized application.\r\n\r\nOur first vertical: independent equity funds with $250M-$5B of assets. They know AI is essential for staying relevant, but they don't have the time or talent to figure out what to do about it. But once we deploy Multiplier––\"We used to spend 80% of our time gathering information and 20% of our time acting on it,\" said one customer. \"Multiplier has flipped those percentages.\"",
+    "one_liner": "Agent harnesses for asset managers",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1778527074,
+    "tags": [
+      "Artificial Intelligence",
+      "Fintech",
+      "Productivity",
+      "Investing",
+      "Stocks"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/multiplier",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/multiplier.json"
+  },
+  {
+    "id": 32121,
+    "name": "OpenTrade",
+    "slug": "opentrade",
+    "former_names": [
+      "Moonshot"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2b3f64adc26505359934c58cacea3f1c48facac8.png",
+    "website": "https://opentrade.live/",
+    "all_locations": "Seattle, WA, USA",
+    "long_description": "OpenTrade is rebuilding the trading experience for a generation raised on games, social products, and AI.",
+    "one_liner": "The new interface for investing.",
+    "team_size": 3,
+    "industry": "Consumer",
+    "subindustry": "Consumer",
+    "launched_at": 1783572660,
+    "tags": [
+      "Finance",
+      "Gaming",
+      "Investing",
+      "Consumer Finance",
+      "Stocks"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "Consumer"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/opentrade",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2026/opentrade.json"
+  },
+  {
+    "id": 32816,
+    "name": "Financial Datasets",
+    "slug": "financial-datasets",
+    "former_names": [
+      "Financial Datasets, Inc."
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4b4bdae68fdd8f9d994fab11fca6b30709eb7e7c.png",
+    "website": "https://financialdatasets.ai/",
+    "all_locations": "New York City, NY, USA",
+    "long_description": "Financial Datasets is the largest search index for stock market data, built for AI agents.\r\n\r\nWe index the world's markets so agents can search every filing, answer any financial question, and monitor markets in real time.\r\n\r\nFor 40 years, market data was built for humans reading a screen. We are rebuilding it for agents that research every company, all day, across the world.",
+    "one_liner": "Connect your agent to the stock market ",
+    "team_size": 1,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1786382003,
+    "tags": [
+      "Artificial Intelligence",
+      "Fintech",
+      "Investing",
+      "Stocks"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/financial-datasets",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2026/financial-datasets.json"
+  }
+]

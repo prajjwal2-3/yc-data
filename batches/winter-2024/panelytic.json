@@ -1,0 +1,45 @@
+{
+  "id": 29303,
+  "name": "Panelytic",
+  "slug": "panelytic",
+  "former_names": [
+    "Panelytic",
+    "Nemea",
+    "Token Owl",
+    "TokenOwl"
+  ],
+  "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/411e3f1da139551735b5ab4a397f77750d3f469d.png",
+  "website": "https://panelytic.com/",
+  "all_locations": "New York City, NY, USA",
+  "long_description": "Payments, identity, and financial controls for autonomous machines.\r\n\r\n",
+  "one_liner": "Payment infrastructure for machines",
+  "team_size": 2,
+  "industry": "Fintech",
+  "subindustry": "Fintech",
+  "launched_at": 1711575762,
+  "tags": [
+    "Artificial Intelligence"
+  ],
+  "tags_highlighted": [],
+  "top_company": false,
+  "isHiring": false,
+  "nonprofit": false,
+  "batch": "Winter 2024",
+  "status": "Active",
+  "industries": [
+    "Fintech"
+  ],
+  "regions": [
+    "United States of America",
+    "America / Canada",
+    "Remote",
+    "Partly Remote"
+  ],
+  "stage": "Early",
+  "app_video_public": false,
+  "demo_day_video_public": false,
+  "app_answers": null,
+  "question_answers": false,
+  "url": "https://www.ycombinator.com/companies/panelytic",
+  "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2024/panelytic.json"
+}

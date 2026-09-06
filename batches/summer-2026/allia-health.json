@@ -1,0 +1,41 @@
+{
+  "id": 33441,
+  "name": "Allia Health",
+  "slug": "allia-health",
+  "former_names": [],
+  "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3d6f40f216c0da6b1f8b4caa594f59a5b194dd82.png",
+  "website": "https://allia.health/",
+  "all_locations": "New York City, NY, USA",
+  "long_description": "Allia is the first full-stack, AI-native clinical group for mental health. We bring independent practices into one national clinical group that can deliver, measure, and improve care at scale - 600+ providers (350+ therapists, 200+ nurses & doctors, 30+ psychologists) across 70 sites in 32 states, plus telehealth nationwide. Every clinician runs on a single intelligent system of record. And, that intelligence coupled with scale unlocks what no single practice could achieve alone. ",
+  "one_liner": "Clinically Integrated Group for Mental Health ",
+  "team_size": 3,
+  "industry": "Healthcare",
+  "subindustry": "Healthcare -> Healthcare Services",
+  "launched_at": 1787168275,
+  "tags": [
+    "Artificial Intelligence",
+    "Healthcare",
+    "Mental Health"
+  ],
+  "tags_highlighted": [],
+  "top_company": false,
+  "isHiring": false,
+  "nonprofit": false,
+  "batch": "Summer 2026",
+  "status": "Active",
+  "industries": [
+    "Healthcare",
+    "Healthcare Services"
+  ],
+  "regions": [
+    "United States of America",
+    "America / Canada"
+  ],
+  "stage": "Early",
+  "app_video_public": false,
+  "demo_day_video_public": false,
+  "app_answers": null,
+  "question_answers": false,
+  "url": "https://www.ycombinator.com/companies/allia-health",
+  "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2026/allia-health.json"
+}

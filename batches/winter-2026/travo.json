@@ -1,0 +1,38 @@
+{
+  "id": 30905,
+  "name": "Travo",
+  "slug": "travo",
+  "former_names": [
+    "TravoAI"
+  ],
+  "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/aecc588fa69715d41e766cd5d4ea9ad32f10adff.png",
+  "website": "https://www.travoai.com/",
+  "all_locations": "San Francisco, CA, USA",
+  "long_description": "Travo is an AI-native commercial real estate brokerage. Our AI constantly sources off-market deals that fit your exact buy box, and our brokers take them to close. Instead of the same on-market listings everyone sees, buyers get properties that never hit the market, with reconciled T-12s, rent rolls, and comps already cleaned up and ready to underwrite. We focus on multifamily, manufactured housing (MHP and MHC), and RV parks and resorts.",
+  "one_liner": "The brokerage that never sleeps",
+  "team_size": 4,
+  "industry": "Real Estate and Construction",
+  "subindustry": "Real Estate and Construction",
+  "launched_at": 1766027196,
+  "tags": [],
+  "tags_highlighted": [],
+  "top_company": false,
+  "isHiring": false,
+  "nonprofit": false,
+  "batch": "Winter 2026",
+  "status": "Active",
+  "industries": [
+    "Real Estate and Construction"
+  ],
+  "regions": [
+    "United States of America",
+    "America / Canada"
+  ],
+  "stage": "Early",
+  "app_video_public": false,
+  "demo_day_video_public": false,
+  "app_answers": null,
+  "question_answers": false,
+  "url": "https://www.ycombinator.com/companies/travo",
+  "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2026/travo.json"
+}

@@ -1,0 +1,40 @@
+{
+  "id": 28957,
+  "name": "Continue",
+  "slug": "continue",
+  "former_names": [],
+  "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6603bbbb05f3629720acc724a2c02719efad6f67.png",
+  "website": "https://continue.dev",
+  "all_locations": "San Francisco, CA, USA",
+  "long_description": "Acquired by Cursor",
+  "one_liner": "Pioneering open-source coding agent",
+  "team_size": 0,
+  "industry": "B2B",
+  "subindustry": "B2B -> Engineering, Product and Design",
+  "launched_at": 1688142176,
+  "tags": [
+    "Artificial Intelligence",
+    "Developer Tools"
+  ],
+  "tags_highlighted": [],
+  "top_company": false,
+  "isHiring": false,
+  "nonprofit": false,
+  "batch": "Summer 2023",
+  "status": "Acquired",
+  "industries": [
+    "B2B",
+    "Engineering, Product and Design"
+  ],
+  "regions": [
+    "United States of America",
+    "America / Canada"
+  ],
+  "stage": "Early",
+  "app_video_public": false,
+  "demo_day_video_public": false,
+  "app_answers": null,
+  "question_answers": false,
+  "url": "https://www.ycombinator.com/companies/continue",
+  "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2023/continue.json"
+}

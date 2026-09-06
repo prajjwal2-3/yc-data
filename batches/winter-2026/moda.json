@@ -1,0 +1,37 @@
+{
+  "id": 31252,
+  "name": "Moda",
+  "slug": "moda",
+  "former_names": [],
+  "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c76a18751e4b95b7b3cf621f7752449405d71aa5.png",
+  "website": "https://moda.dev",
+  "all_locations": "San Francisco, CA, USA",
+  "long_description": "Moda is a harness engineering platform. It turns production traces into verified improvements for your agent harness: prompts, tools, skills, evals, and memory.\r\n\r\nThe infra problems we actually take: transfer what a frontier model learned onto an open-source one without losing performance, and stand up a model router for your own system and task. Same loop both times. Name the layer that broke, ship the change, replay it on old traffic before it goes out. We've built the infrastructure to tackle these harness problems at scale.\r\n\r\nWe do not sell a platform that solves every harness problem. We sell those jobs, on an agent already in production.",
+  "one_liner": "Harness Engineering Infrastructure that developers love.",
+  "team_size": 6,
+  "industry": "B2B",
+  "subindustry": "B2B -> Infrastructure",
+  "launched_at": 1769121297,
+  "tags": [],
+  "tags_highlighted": [],
+  "top_company": false,
+  "isHiring": false,
+  "nonprofit": false,
+  "batch": "Winter 2026",
+  "status": "Active",
+  "industries": [
+    "B2B",
+    "Infrastructure"
+  ],
+  "regions": [
+    "United States of America",
+    "America / Canada"
+  ],
+  "stage": "Early",
+  "app_video_public": false,
+  "demo_day_video_public": false,
+  "app_answers": null,
+  "question_answers": false,
+  "url": "https://www.ycombinator.com/companies/moda",
+  "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2026/moda.json"
+}

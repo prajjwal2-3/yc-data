@@ -1,0 +1,41 @@
+{
+  "id": 32553,
+  "name": "Nori",
+  "slug": "noril1",
+  "former_names": [],
+  "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4b7cc06bfd9d08d6eae3bc20eca8c056f893bf8b.png",
+  "website": "http://norirobotics.com",
+  "all_locations": "San Francisco, CA, USA",
+  "long_description": "We manufacture Nori: A sub-$2000 bimanual mobile manipulator that can clean rooms, restock shelves, and fold clothes. Nori can handle basic tasks out of the box, and its software lets anyone teach Nori to automate work specific to their home or business. \r\n\r\nNori aims to solve the robotics data bottleneck. By deploying affordable robots to customers around the world, we can gather the diverse data required to train the next generation of generalist robotic policies. Every user of Nori makes Nori smarter.\r\n\r\nSince launching 6 weeks ago we have already deployed our first robot and have over $440k+ in sales.\r\n\r\nWe can bring general-purpose robotics to homes and businesses that could never afford it before. There are 132.7 million households and 8.4 million employer business locations in the U.S. At $1,688 per robot, selling just one Nori to 0.5% of them represents a $1.2B market opportunity in the U.S. alone. ",
+  "one_liner": "The most capable American-made humanoid robot for $1,688",
+  "team_size": 5,
+  "industry": "Industrials",
+  "subindustry": "Industrials -> Manufacturing and Robotics",
+  "launched_at": 1783099451,
+  "tags": [
+    "Hard Tech",
+    "Hardware",
+    "Robotics"
+  ],
+  "tags_highlighted": [],
+  "top_company": false,
+  "isHiring": false,
+  "nonprofit": false,
+  "batch": "Summer 2026",
+  "status": "Active",
+  "industries": [
+    "Industrials",
+    "Manufacturing and Robotics"
+  ],
+  "regions": [
+    "United States of America",
+    "America / Canada"
+  ],
+  "stage": "Early",
+  "app_video_public": false,
+  "demo_day_video_public": false,
+  "app_answers": null,
+  "question_answers": true,
+  "url": "https://www.ycombinator.com/companies/noril1",
+  "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2026/noril1.json"
+}

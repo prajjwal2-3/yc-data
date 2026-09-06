@@ -1,0 +1,42 @@
+{
+  "id": 31013,
+  "name": "Rivet",
+  "slug": "rivet-design",
+  "former_names": [],
+  "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/28bd19a3fc057798d00b7402f78d585553560d40.png",
+  "website": "https://rivet.design/",
+  "all_locations": "San Francisco, CA, USA",
+  "long_description": "Rivet helps designers explore dozens of directions from their agent.  \r\n\r\nLearn more at rivet.design",
+  "one_liner": "Explore dozens of design directions with your agent",
+  "team_size": null,
+  "industry": "B2B",
+  "subindustry": "B2B -> Engineering, Product and Design",
+  "launched_at": 1759433421,
+  "tags": [
+    "Artificial Intelligence",
+    "Design",
+    "Design Tools",
+    "AI"
+  ],
+  "tags_highlighted": [],
+  "top_company": false,
+  "isHiring": false,
+  "nonprofit": false,
+  "batch": "Fall 2025",
+  "status": "Active",
+  "industries": [
+    "B2B",
+    "Engineering, Product and Design"
+  ],
+  "regions": [
+    "United States of America",
+    "America / Canada"
+  ],
+  "stage": "Early",
+  "app_video_public": false,
+  "demo_day_video_public": false,
+  "app_answers": null,
+  "question_answers": false,
+  "url": "https://www.ycombinator.com/companies/rivet-design",
+  "api": "https://prajjwal2-3.github.io/yc-data/batches/fall-2025/rivet-design.json"
+}

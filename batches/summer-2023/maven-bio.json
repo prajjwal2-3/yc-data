@@ -1,0 +1,44 @@
+{
+  "id": 28923,
+  "name": "Maven Bio",
+  "slug": "maven-bio",
+  "former_names": [
+    "RightPage"
+  ],
+  "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4d8ec5197bc9e6a36464adaa019fa08dc09b5662.png",
+  "website": "https://mavenbio.com",
+  "all_locations": "Boston, MA, USA",
+  "long_description": "Maven Bio is a 10-person seed-stage team in Boston building the market intelligence layer for life sciences AI. Three of the top 10 pharma companies are onboarded, and we have 20+ enterprise accounts across pharma, consulting, and investing. Customers report a 40% reduction in low-level analytical work.\r\n\r\nWe are growing fast and heading for a Series A. Our buyers are senior BD, CI, Strategy, and Investing leaders.",
+  "one_liner": "The AI Platform for Life Sciences Intelligence",
+  "team_size": 10,
+  "industry": "B2B",
+  "subindustry": "B2B",
+  "launched_at": 1689099430,
+  "tags": [
+    "Generative AI",
+    "Biotech",
+    "Healthcare",
+    "Enterprise",
+    "Healthcare IT"
+  ],
+  "tags_highlighted": [],
+  "top_company": false,
+  "isHiring": true,
+  "nonprofit": false,
+  "batch": "Summer 2023",
+  "status": "Active",
+  "industries": [
+    "B2B"
+  ],
+  "regions": [
+    "United States of America",
+    "America / Canada"
+  ],
+  "stage": "Early",
+  "app_video_public": false,
+  "demo_day_video_public": false,
+  "app_answers": null,
+  "question_answers": false,
+  "url": "https://www.ycombinator.com/companies/maven-bio",
+  "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2023/maven-bio.json"
+}

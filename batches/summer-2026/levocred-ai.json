@@ -1,0 +1,40 @@
+{
+  "id": 33023,
+  "name": "Levocred AI",
+  "slug": "levocred-ai",
+  "former_names": [],
+  "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4211252c17df7b0a89dc9c36ce49996bef59474d.png",
+  "website": "https://levocred.com/",
+  "all_locations": "San Francisco, CA, USA",
+  "long_description": "Levocred puts AI agents inside lenders. They run the loan book and price new deals; one fund cut time to price from a week to two hours and replaced two analysts' work. \r\nEvery book we price trains a model for the $22T of US loans that never trade. That model becomes the exchange.",
+  "one_liner": "Foundation Model for Lenders",
+  "team_size": 2,
+  "industry": "Fintech",
+  "subindustry": "Fintech",
+  "launched_at": 1782022398,
+  "tags": [
+    "Finance",
+    "B2B",
+    "Enterprise Software"
+  ],
+  "tags_highlighted": [],
+  "top_company": false,
+  "isHiring": false,
+  "nonprofit": false,
+  "batch": "Summer 2026",
+  "status": "Active",
+  "industries": [
+    "Fintech"
+  ],
+  "regions": [
+    "United States of America",
+    "America / Canada"
+  ],
+  "stage": "Early",
+  "app_video_public": false,
+  "demo_day_video_public": false,
+  "app_answers": null,
+  "question_answers": false,
+  "url": "https://www.ycombinator.com/companies/levocred-ai",
+  "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2026/levocred-ai.json"
+}

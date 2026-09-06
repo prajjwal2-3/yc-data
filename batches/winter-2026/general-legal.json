@@ -1,0 +1,36 @@
+{
+  "id": 31240,
+  "name": "General Legal",
+  "slug": "general-legal",
+  "former_names": [],
+  "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/dbf548c3bb9f1d826b76f6c508355bcfc063f988.png",
+  "website": "https://general.legal",
+  "all_locations": "",
+  "long_description": "We're the elite AI law firm for high growth companies. Our firm provides exceptional, top-of-market legal work across commercial, corporate and employment law, at speeds and prices that put traditional law firms to shame.",
+  "one_liner": "Elite AI law firm for high growth companies",
+  "team_size": 25,
+  "industry": "B2B",
+  "subindustry": "B2B -> Legal",
+  "launched_at": 1769746017,
+  "tags": [],
+  "tags_highlighted": [],
+  "top_company": false,
+  "isHiring": false,
+  "nonprofit": false,
+  "batch": "Winter 2026",
+  "status": "Active",
+  "industries": [
+    "B2B",
+    "Legal"
+  ],
+  "regions": [
+    "Unspecified"
+  ],
+  "stage": "Early",
+  "app_video_public": false,
+  "demo_day_video_public": false,
+  "app_answers": null,
+  "question_answers": false,
+  "url": "https://www.ycombinator.com/companies/general-legal",
+  "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2026/general-legal.json"
+}

@@ -1,0 +1,45 @@
+{
+  "id": 32133,
+  "name": "Belvedir",
+  "slug": "belvedir",
+  "former_names": [
+    "Fractal",
+    "Fractal Research",
+    "Fractal Machine Research",
+    "Belvedir",
+    "Fractal Machine Research"
+  ],
+  "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c87fe6e15005349864c9553a731d786c39f38f18.png",
+  "website": "https://belvedir.ai/",
+  "all_locations": "San Francisco, CA, USA",
+  "long_description": "Private AI models are going to win. Belvedir is the infrastructure needed to make trillions of them.\r\n\r\nBelvedir makes it cheap and easy for anyone to make private AI. Connect us to your agent traces through our SDK and we autonomously train custom models + harnesses + routers, privately deploy them, and recursively improve them as they are used. Our customers have seen up to 10x reductions in inference costs and 2x increases on benchmark scores.",
+  "one_liner": "The easiest way to make private AI models",
+  "team_size": 1,
+  "industry": "B2B",
+  "subindustry": "B2B",
+  "launched_at": 1784319754,
+  "tags": [
+    "Machine Learning",
+    "Infrastructure"
+  ],
+  "tags_highlighted": [],
+  "top_company": false,
+  "isHiring": false,
+  "nonprofit": false,
+  "batch": "Summer 2026",
+  "status": "Active",
+  "industries": [
+    "B2B"
+  ],
+  "regions": [
+    "United States of America",
+    "America / Canada"
+  ],
+  "stage": "Early",
+  "app_video_public": false,
+  "demo_day_video_public": false,
+  "app_answers": null,
+  "question_answers": false,
+  "url": "https://www.ycombinator.com/companies/belvedir",
+  "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2026/belvedir.json"
+}

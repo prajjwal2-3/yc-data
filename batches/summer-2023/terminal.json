@@ -1,0 +1,43 @@
+{
+  "id": 28860,
+  "name": "Terminal",
+  "slug": "terminal",
+  "former_names": [],
+  "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/acdabd0c7f626bea58520be4df19e9d87e878e06.png",
+  "website": "https://www.withterminal.com/",
+  "all_locations": "Toronto, ON, Canada",
+  "long_description": "Terminal builds telematics data infrastructure for the commercial fleet industry. Commercial auto insurers and fleet software companies, including industry leaders like Intact Insurance, depend on our platform to access GPS, speeding, and vehicle data from 330+ telematics providers. We recently raised our Series A led by Battery Ventures and are backed by Y Combinator, Golden Ventures, Penske Transportation Solutions, and Intact Private Capital. Our team works together in person in Toronto, combining early-stage speed with late-stage maturity while processing many terabytes of vehicle data every day.",
+  "one_liner": "Plaid for Telematics Data in Commercial Trucking",
+  "team_size": 17,
+  "industry": "B2B",
+  "subindustry": "B2B -> Supply Chain and Logistics",
+  "launched_at": 1686875365,
+  "tags": [
+    "Developer Tools",
+    "Logistics",
+    "API",
+    "Supply Chain",
+    "Transportation"
+  ],
+  "tags_highlighted": [],
+  "top_company": false,
+  "isHiring": true,
+  "nonprofit": false,
+  "batch": "Summer 2023",
+  "status": "Active",
+  "industries": [
+    "B2B",
+    "Supply Chain and Logistics"
+  ],
+  "regions": [
+    "Canada",
+    "America / Canada"
+  ],
+  "stage": "Growth",
+  "app_video_public": false,
+  "demo_day_video_public": false,
+  "app_answers": null,
+  "question_answers": false,
+  "url": "https://www.ycombinator.com/companies/terminal",
+  "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2023/terminal.json"
+}

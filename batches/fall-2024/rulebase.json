@@ -1,0 +1,41 @@
+{
+  "id": 30036,
+  "name": "Rulebase",
+  "slug": "rulebase",
+  "former_names": [],
+  "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7bd0ab199d3e881821eeccd658d4f0847f9d9345.png",
+  "website": "https://rulebase.co",
+  "all_locations": "New York City, NY, USA",
+  "long_description": "We run customer operations for regulated industries with AI. Our QA layer reviews every interaction, human and AI, cutting manual QA by 99%. On top of it sit specialist agents for onboarding, remediation, reactivation, and retention that own accounts from approved to transacting, chasing customers over WhatsApp, email, and SMS",
+  "one_liner": "AI customer operations for regulated industries.",
+  "team_size": 4,
+  "industry": "B2B",
+  "subindustry": "B2B -> Operations",
+  "launched_at": 1728494886,
+  "tags": [
+    "Customer Success",
+    "Customer Service",
+    "Customer Support"
+  ],
+  "tags_highlighted": [],
+  "top_company": false,
+  "isHiring": true,
+  "nonprofit": false,
+  "batch": "Fall 2024",
+  "status": "Active",
+  "industries": [
+    "B2B",
+    "Operations"
+  ],
+  "regions": [
+    "United States of America",
+    "America / Canada"
+  ],
+  "stage": "Early",
+  "app_video_public": false,
+  "demo_day_video_public": false,
+  "app_answers": null,
+  "question_answers": false,
+  "url": "https://www.ycombinator.com/companies/rulebase",
+  "api": "https://prajjwal2-3.github.io/yc-data/batches/fall-2024/rulebase.json"
+}

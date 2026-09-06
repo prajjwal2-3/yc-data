@@ -1,0 +1,43 @@
+{
+  "id": 29071,
+  "name": "Cedalio",
+  "slug": "cedalio",
+  "former_names": [],
+  "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/253ca8c2833042159f28652e47d94970cc10b5cc.png",
+  "website": "https://cedalio.com/",
+  "all_locations": "San Francisco, CA, USA",
+  "long_description": "Cedalio is the AI agent platform for the Office of the CFO. We automate procurement, AP, and the data flows behind them — from invoice intake to 3-way match to payment — so finance teams stop doing the work and start governing it.",
+  "one_liner": "AI agents that automate AP, procurement, and finance",
+  "team_size": 6,
+  "industry": "B2B",
+  "subindustry": "B2B",
+  "launched_at": 1685752888,
+  "tags": [
+    "Fintech",
+    "Finance",
+    "Data Engineering",
+    "AI"
+  ],
+  "tags_highlighted": [],
+  "top_company": false,
+  "isHiring": false,
+  "nonprofit": false,
+  "batch": "Summer 2023",
+  "status": "Active",
+  "industries": [
+    "B2B"
+  ],
+  "regions": [
+    "United States of America",
+    "America / Canada",
+    "Remote",
+    "Partly Remote"
+  ],
+  "stage": "Early",
+  "app_video_public": false,
+  "demo_day_video_public": false,
+  "app_answers": null,
+  "question_answers": false,
+  "url": "https://www.ycombinator.com/companies/cedalio",
+  "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2023/cedalio.json"
+}

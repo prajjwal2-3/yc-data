@@ -1,0 +1,39 @@
+{
+  "id": 30914,
+  "name": "Sunflower",
+  "slug": "sunflower",
+  "former_names": [],
+  "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ae86a0721b6effe108baf0067f19c1305be5c48b.png",
+  "website": "https://sunflowerclinic.com/",
+  "all_locations": "San Francisco, CA, USA",
+  "long_description": "Sunflower is building an AI-native telemedicine clinic for addiction. There are over 18,750 patients on a waitlist for Therapy or Meds, representing $153M worth of TAM just waiting to be served. \r\n\r\nWe started by launching Sunflower Sober, the first AI Sponsor for addiction which grew to 100 MAU in less than 6 months and currently driving about $1.5M in run-rate worth of subscription app revenue.  \r\n\r\nSunflower Sober is currently pacing to add over 800,000 new users a year which means we are growing literally faster than Alcoholics Anonymous. \r\n\r\nWe have built one of the largest and most deeply loved brands within sobriety, and now we are building the clinical services underneath this brand to better fulfill on our mission & serve Medicaid who spends over $30B a year on SUD services. \r\n\r\nSunflower is founded by Koby who previously led Growth at Rupa from $5M to $75M/year. Our team includes clinical leaders (MDs / LPCs) from the Mayo Clinic, Choose Your Horizon, & Charlie Health. ",
+  "one_liner": "We are building an AI-native telemedicine clinic for addiction. 🌻",
+  "team_size": 15,
+  "industry": "Healthcare",
+  "subindustry": "Healthcare -> Healthcare Services",
+  "launched_at": 1757558729,
+  "tags": [],
+  "tags_highlighted": [],
+  "top_company": false,
+  "isHiring": true,
+  "nonprofit": false,
+  "batch": "Summer 2026",
+  "status": "Active",
+  "industries": [
+    "Healthcare",
+    "Healthcare Services"
+  ],
+  "regions": [
+    "United States of America",
+    "America / Canada",
+    "Remote",
+    "Partly Remote"
+  ],
+  "stage": "Early",
+  "app_video_public": false,
+  "demo_day_video_public": false,
+  "app_answers": null,
+  "question_answers": false,
+  "url": "https://www.ycombinator.com/companies/sunflower",
+  "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2026/sunflower.json"
+}

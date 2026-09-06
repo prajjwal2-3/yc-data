@@ -1,0 +1,39 @@
+{
+  "id": 29725,
+  "name": "Promi",
+  "slug": "promi",
+  "former_names": [],
+  "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/cd853bd5965534bc6ccb3bd2ebe20fdb00753e2c.png",
+  "website": "https://www.trypromi.com/",
+  "all_locations": "San Francisco, CA, USA",
+  "long_description": "Promi provides product feedback in the form of customer interviews, URL walkthroughs, heatmaps, and more by creating digital twins of your existing customers. We ingest data from Posthog, Intercom, Stripe, etc. to create your personas from real product usage data. By factoring in how your customers actually interact with product features, we provide much more relevant and insightful feedback on what you are building.\r\n\r\nWe aren't trying to replace user research, but in our experiences most products don't have the time or budget to talk to real users. Getting synthetic feedback is the next best thing, and can/should be a part of launching any products.",
+  "one_liner": "Providing quick product and design feedback via digital twins",
+  "team_size": 2,
+  "industry": "B2B",
+  "subindustry": "B2B -> Engineering, Product and Design",
+  "launched_at": 1722224133,
+  "tags": [],
+  "tags_highlighted": [],
+  "top_company": false,
+  "isHiring": false,
+  "nonprofit": false,
+  "batch": "Summer 2024",
+  "status": "Active",
+  "industries": [
+    "B2B",
+    "Engineering, Product and Design"
+  ],
+  "regions": [
+    "United States of America",
+    "America / Canada",
+    "Remote",
+    "Partly Remote"
+  ],
+  "stage": "Early",
+  "app_video_public": false,
+  "demo_day_video_public": false,
+  "app_answers": null,
+  "question_answers": true,
+  "url": "https://www.ycombinator.com/companies/promi",
+  "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2024/promi.json"
+}

@@ -1,0 +1,46 @@
+{
+  "id": 29670,
+  "name": "Zuni",
+  "slug": "zuni",
+  "former_names": [
+    "Letterhead",
+    "Solarflare"
+  ],
+  "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/54c16278e26e312781305ede7147b41779a30619.png",
+  "website": "https://zuni.app",
+  "all_locations": "London, England, United Kingdom; Remote",
+  "long_description": "Zuni builds AI agents that take on high-value professional work end-to-end - the email, admin, and internal tooling that eats a knowledge worker's week.",
+  "one_liner": "AI agents for high-value professional work",
+  "team_size": 1,
+  "industry": "B2B",
+  "subindustry": "B2B -> Productivity",
+  "launched_at": 1721689611,
+  "tags": [
+    "Generative AI",
+    "Productivity",
+    "AI Assistant"
+  ],
+  "tags_highlighted": [],
+  "top_company": false,
+  "isHiring": false,
+  "nonprofit": false,
+  "batch": "Summer 2024",
+  "status": "Active",
+  "industries": [
+    "B2B",
+    "Productivity"
+  ],
+  "regions": [
+    "United Kingdom",
+    "Europe",
+    "Remote",
+    "Fully Remote"
+  ],
+  "stage": "Early",
+  "app_video_public": false,
+  "demo_day_video_public": false,
+  "app_answers": null,
+  "question_answers": false,
+  "url": "https://www.ycombinator.com/companies/zuni",
+  "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2024/zuni.json"
+}

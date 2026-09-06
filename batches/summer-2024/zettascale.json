@@ -1,0 +1,44 @@
+{
+  "id": 29777,
+  "name": "Zettascale",
+  "slug": "zettascale",
+  "former_names": [
+    "Exa Labs",
+    "Exa Laboratories"
+  ],
+  "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/dc824cdcd1866f181c1cae19f0dfc1371a717e51.png",
+  "website": "https://zscc.ai",
+  "all_locations": "San Francisco, CA, USA",
+  "long_description": "Zetta builds energy-efficient chips (\"XPUs\") for AI to accelerate discovery. Our XPUs are highly programmable, letting them optimize the dataflow for each model and making them faster and far more efficient than anything on the market today, saving data centers billions in energy and cooling costs.",
+  "one_liner": "Energy efficient chips for AI",
+  "team_size": 2,
+  "industry": "Industrials",
+  "subindustry": "Industrials",
+  "launched_at": 1722631140,
+  "tags": [
+    "Hard Tech",
+    "Semiconductors",
+    "Infrastructure",
+    "AI"
+  ],
+  "tags_highlighted": [],
+  "top_company": false,
+  "isHiring": true,
+  "nonprofit": false,
+  "batch": "Summer 2024",
+  "status": "Active",
+  "industries": [
+    "Industrials"
+  ],
+  "regions": [
+    "United States of America",
+    "America / Canada"
+  ],
+  "stage": "Early",
+  "app_video_public": false,
+  "demo_day_video_public": false,
+  "app_answers": null,
+  "question_answers": false,
+  "url": "https://www.ycombinator.com/companies/zettascale",
+  "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2024/zettascale.json"
+}

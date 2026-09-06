@@ -1,0 +1,48 @@
+{
+  "id": 25737,
+  "name": "Arintra",
+  "slug": "arintra",
+  "former_names": [
+    "Arintra",
+    "Inc"
+  ],
+  "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d63e7c7dfa79e75106d18dc572d76823b8a5b6b6.png",
+  "website": "https://www.arintra.com/",
+  "all_locations": "San Francisco, CA, USA",
+  "long_description": "Arintra is an enterprise AI platform for revenue assurance in healthcare, empowering health systems to get paid accurately, promptly, and fairly. Combining agentic AI with deep clinical expertise, Arintra autonomously codes every chart, explainably, across 23+ specialties and every care setting a health system operates — then cascades that intelligence across the revenue cycle through documentation intelligence (CDI) and denial appeals. Leading enterprise health systems including UC Davis Health, Mercyhealth, Meritus Health, Rochester Regional Health, Reid Health, Mercy Medical Center, and more use Arintra as their centralized, audit-ready revenue cycle platform. Arintra is available in the Epic Toolbox and on the athenahealth Marketplace, is HITRUST e1 certified, and earned a 93/100 with A+ performance rating from KLAS Research.",
+  "one_liner": "Enterprise-grade AI for revenue assurance ",
+  "team_size": 50,
+  "industry": "Healthcare",
+  "subindustry": "Healthcare -> Healthcare IT",
+  "launched_at": 1642832442,
+  "tags": [
+    "SaaS",
+    "Health Tech",
+    "Digital Health",
+    "Healthcare",
+    "Enterprise Software"
+  ],
+  "tags_highlighted": [],
+  "top_company": false,
+  "isHiring": false,
+  "nonprofit": false,
+  "batch": "Winter 2022",
+  "status": "Active",
+  "industries": [
+    "Healthcare",
+    "Healthcare IT"
+  ],
+  "regions": [
+    "United States of America",
+    "America / Canada",
+    "Remote",
+    "Partly Remote"
+  ],
+  "stage": "Growth",
+  "app_video_public": false,
+  "demo_day_video_public": false,
+  "app_answers": null,
+  "question_answers": false,
+  "url": "https://www.ycombinator.com/companies/arintra",
+  "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2022/arintra.json"
+}

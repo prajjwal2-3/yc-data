@@ -1,0 +1,44 @@
+{
+  "id": 31592,
+  "name": "GitCafe",
+  "slug": "gitcafe",
+  "former_names": [],
+  "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7253a933be3a143635c29e5c657cccd546868c00.png",
+  "website": "https://git.cafe",
+  "all_locations": "San Francisco, CA, USA",
+  "long_description": "We build GitHub for agents. We're rebuilding the infrastructure for the next hundred billion commits and CI jobs with hundreds of engineers already making the move.",
+  "one_liner": "The Git forge for the next hundred billion commits",
+  "team_size": 2,
+  "industry": "B2B",
+  "subindustry": "B2B -> Infrastructure",
+  "launched_at": 1785301269,
+  "tags": [
+    "Developer Tools",
+    "B2B",
+    "DevOps",
+    "AI"
+  ],
+  "tags_highlighted": [],
+  "top_company": false,
+  "isHiring": false,
+  "nonprofit": false,
+  "batch": "Summer 2026",
+  "status": "Active",
+  "industries": [
+    "B2B",
+    "Infrastructure"
+  ],
+  "regions": [
+    "United States of America",
+    "America / Canada",
+    "Remote",
+    "Partly Remote"
+  ],
+  "stage": "Early",
+  "app_video_public": false,
+  "demo_day_video_public": false,
+  "app_answers": null,
+  "question_answers": false,
+  "url": "https://www.ycombinator.com/companies/gitcafe",
+  "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2026/gitcafe.json"
+}

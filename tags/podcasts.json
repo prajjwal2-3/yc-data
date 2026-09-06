@@ -1,0 +1,308 @@
+[
+  {
+    "id": 1525,
+    "name": "Breaker",
+    "slug": "breaker",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0de1ada3b980a4a08329c7a36f155e659b1b377c.png",
+    "website": "https://www.breaker.audio",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Breaker is a podcast listening and discovery application.\r\n\r\nMost podcasts are free, but serious publishers are spending big budgets to make high quality audio content like Serial, which hit 100 million downloads and made podcasts mainstream. 67 million Americans are already listening to podcasts a month. Breaker wants to sign exclusive deals to distribute the best premium podcasts and charge users $6 per month. First, its goal is to build a huge listener audience by making the best podcast consumption app. It launched today, and will offer podcasters ways to connect and get feedback from their community, and analytics about what content performs best. It has a stunning 67% retention rate after a month for beta users. If it can convince people to pay for what’s often free, it could become the preferred place for podcasters to talk.",
+    "one_liner": "A podcast company.",
+    "team_size": 1,
+    "industry": "Consumer",
+    "subindustry": "Consumer -> Content",
+    "launched_at": 1478665835,
+    "tags": [
+      "Social Media",
+      "Media",
+      "Podcasts"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2017",
+    "status": "Acquired",
+    "industries": [
+      "Consumer",
+      "Content"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/breaker",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2017/breaker.json"
+  },
+  {
+    "id": 1802,
+    "name": "Evolve (makers of Podcast App & Rest)",
+    "slug": "evolve-makers-of-podcast-app-and-rest",
+    "former_names": [
+      "Evolve",
+      "The Podcast App (formerly Evolve)",
+      "The Podcast App",
+      "Podcast App",
+      "Evolve (makers of Podcast App & Rest AI)"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7f40763c81d68b874181ebfd712ca663ff02c577.png",
+    "website": "https://getrest.app",
+    "all_locations": "San Francisco, CA, USA; Remote",
+    "long_description": "Evolve builds consumer apps used by millions. We're a YC W18 company with two products.\r\n\r\nRest (getrest.app) is an AI sleep coach for people tired of bad nights, whether that's lying awake for hours or waking up at 3am. It's built on the principles of CBT-I (cognitive behavioral therapy for insomnia), the method sleep clinicians recommend first, and turns them into a daily program with a coach you can talk to at any hour. No appointments, no waitlists. People use it to sleep well again without leaning on melatonin, sleep aids, or 2am doom-scrolling. Users often go from years of broken sleep to sleeping through the night in weeks. We build Rest with sleep scientists and behavior-design experts.\r\n\r\nPodcast App is one of the largest independent podcast players: a minimalist app with tens of millions of downloads that uses machine learning to build playlists around what you like.\r\n\r\nOur team has built consumer products with 100M+ installs, and our work has been featured by Apple, TechCrunch, Yahoo, Fast Company, and Fox. Get in touch: hello@getrest.app.",
+    "one_liner": "Rest is an AI sleep coach that helps you fix your sleep for good,…",
+    "team_size": 23,
+    "industry": "Consumer",
+    "subindustry": "Consumer -> Content",
+    "launched_at": 1510034570,
+    "tags": [
+      "Sleep Tech",
+      "Consumer",
+      "Digital Health",
+      "Podcasts"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2018",
+    "status": "Active",
+    "industries": [
+      "Consumer",
+      "Content"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Fully Remote"
+    ],
+    "stage": "Growth",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/evolve-makers-of-podcast-app-and-rest",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2018/evolve-makers-of-podcast-app-and-rest.json"
+  },
+  {
+    "id": 12740,
+    "name": "Khabri",
+    "slug": "khabri",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/875a6ba6eff51c44bcbca27b52567e2fe670a41c.png",
+    "website": "https://khabri.app/",
+    "all_locations": "New Delhi, DL, India",
+    "long_description": "",
+    "one_liner": "India's Largest Podcast Platform",
+    "team_size": 11,
+    "industry": "Consumer",
+    "subindustry": "Consumer -> Content",
+    "launched_at": 1557468864,
+    "tags": [
+      "India",
+      "Podcasts"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2019",
+    "status": "Inactive",
+    "industries": [
+      "Consumer",
+      "Content"
+    ],
+    "regions": [
+      "India",
+      "South Asia"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/khabri",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2019/khabri.json"
+  },
+  {
+    "id": 22249,
+    "name": "Artifact",
+    "slug": "artifact",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c28168cbafd73c1a4f239f305cae557907f08e43.png",
+    "website": "https://www.heyartifact.com/",
+    "all_locations": "San Francisco, CA, USA; Remote",
+    "long_description": "Artifact makes it easy to record stories with the most important people in your life. We set them up with a professional interviewer through our marketplace and we make it easy, from scheduling interviews to delivering a polished edit that wouldn’t sound out of place on NPR. We then host their stories in shareable, interactive listening experiences. ",
+    "one_liner": "Personal podcasts with the people in your life",
+    "team_size": 10,
+    "industry": "Consumer",
+    "subindustry": "Consumer -> Content",
+    "launched_at": 1599762607,
+    "tags": [
+      "Marketplace",
+      "Podcasts"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2020",
+    "status": "Inactive",
+    "industries": [
+      "Consumer",
+      "Content"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Fully Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/artifact",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2020/artifact.json"
+  },
+  {
+    "id": 24858,
+    "name": "Quest",
+    "slug": "quest",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/827232df906ec6a636d71bc1ef5836dd4518ae2b.png",
+    "website": "http://quest.app",
+    "all_locations": "Amsterdam, NH, Netherlands",
+    "long_description": "Quest is a Q&A app where experts answer questions in short audio clips. We’re starting with career advice, hosting founders and operators from YC and companies like Google, who share intimate and personal stories about work you've never heard before.",
+    "one_liner": "Audio career advice",
+    "team_size": 5,
+    "industry": "Consumer",
+    "subindustry": "Consumer -> Content",
+    "launched_at": 1627631451,
+    "tags": [
+      "Community",
+      "Podcasts"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2021",
+    "status": "Inactive",
+    "industries": [
+      "Consumer",
+      "Content"
+    ],
+    "regions": [
+      "Netherlands",
+      "Europe",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/quest",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2021/quest.json"
+  },
+  {
+    "id": 27166,
+    "name": "Wondercraft",
+    "slug": "wondercraft",
+    "former_names": [
+      "Moonshot"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/42f387b44ccbfe794a96fd7877c9a7818766a06d.png",
+    "website": "https://wondercraft.ai/",
+    "all_locations": "London, England, United Kingdom",
+    "long_description": "Wondercraft introduces vibe creation, creating video through natural conversation.",
+    "one_liner": "Create video by chatting to AI",
+    "team_size": 15,
+    "industry": "B2B",
+    "subindustry": "B2B -> Marketing",
+    "launched_at": 1659074281,
+    "tags": [
+      "Artificial Intelligence",
+      "SaaS",
+      "B2B",
+      "Podcasts",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2022",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Marketing"
+    ],
+    "regions": [
+      "United Kingdom",
+      "Europe"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/wondercraft",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2022/wondercraft.json"
+  },
+  {
+    "id": 29964,
+    "name": "Overlap",
+    "slug": "overlap",
+    "former_names": [
+      "Vastly"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4998b9bdb179ae20d8af8c2a3631f5ca038a41d2.png",
+    "website": "https://www.overlap.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Overlap builds multimodal AI agents that can do literally anything you want related to video, such as finding specific moments, generating clips, or analyzing your video library. \r\n\r\nWhat takes media companies thousands of hours, we do in seconds. ",
+    "one_liner": "Multimodal AI agents for video",
+    "team_size": 6,
+    "industry": "Consumer",
+    "subindustry": "Consumer -> Content",
+    "launched_at": 1721766905,
+    "tags": [
+      "Artificial Intelligence",
+      "Consumer",
+      "Media",
+      "Podcasts"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2024",
+    "status": "Active",
+    "industries": [
+      "Consumer",
+      "Content"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/overlap",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2024/overlap.json"
+  }
+]

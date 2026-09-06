@@ -1,0 +1,44 @@
+{
+  "id": 31825,
+  "name": "Kebra",
+  "slug": "kebra",
+  "former_names": [
+    "Third Eye"
+  ],
+  "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2e21f70e5b9032365254edae847e8dcbc9ffddb3.png",
+  "website": "https://kebra.com",
+  "all_locations": "San Francisco, CA, USA",
+  "long_description": "Kebra makes the field queryable.\n\nWe capture what happens across jobs, sites, and assets and turn it into a live operating memory that AI can query and act on. Our AI employees use that context to automate the work that follows across the systems companies already use.\n\nEvery job makes that memory richer, building the company specific context software agents use today and physical agents will need tomorrow.",
+  "one_liner": "Making the field queryable",
+  "team_size": 2,
+  "industry": "B2B",
+  "subindustry": "B2B -> Operations",
+  "launched_at": 1784399832,
+  "tags": [
+    "Artificial Intelligence",
+    "B2B",
+    "Home Services",
+    "Operations"
+  ],
+  "tags_highlighted": [],
+  "top_company": false,
+  "isHiring": false,
+  "nonprofit": false,
+  "batch": "Summer 2026",
+  "status": "Active",
+  "industries": [
+    "B2B",
+    "Operations"
+  ],
+  "regions": [
+    "United States of America",
+    "America / Canada"
+  ],
+  "stage": "Early",
+  "app_video_public": false,
+  "demo_day_video_public": false,
+  "app_answers": null,
+  "question_answers": false,
+  "url": "https://www.ycombinator.com/companies/kebra",
+  "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2026/kebra.json"
+}

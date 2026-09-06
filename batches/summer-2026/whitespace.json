@@ -1,0 +1,42 @@
+{
+  "id": 32617,
+  "name": "Whitespace",
+  "slug": "whitespace",
+  "former_names": [],
+  "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d7ab9b902afa3fe0a37b3622022557a9cd82d082.png",
+  "website": "https://whitespacehq.ai/",
+  "all_locations": "San Francisco, CA, USA",
+  "long_description": "Whitespace is the AI operating system for wholesale distribution. We give wholesale distributors self-improving AI agents that learn their business and do work like inventory planning, customer service, and order processing.",
+  "one_liner": "AI Operating System for Wholesale Distribution",
+  "team_size": 2,
+  "industry": "B2B",
+  "subindustry": "B2B -> Supply Chain and Logistics",
+  "launched_at": 1782389037,
+  "tags": [
+    "Artificial Intelligence",
+    "SaaS",
+    "B2B",
+    "Supply Chain"
+  ],
+  "tags_highlighted": [],
+  "top_company": false,
+  "isHiring": false,
+  "nonprofit": false,
+  "batch": "Summer 2026",
+  "status": "Active",
+  "industries": [
+    "B2B",
+    "Supply Chain and Logistics"
+  ],
+  "regions": [
+    "United States of America",
+    "America / Canada"
+  ],
+  "stage": "Early",
+  "app_video_public": false,
+  "demo_day_video_public": false,
+  "app_answers": null,
+  "question_answers": false,
+  "url": "https://www.ycombinator.com/companies/whitespace",
+  "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2026/whitespace.json"
+}

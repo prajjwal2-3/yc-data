@@ -1,0 +1,41 @@
+{
+  "id": 27840,
+  "name": "Alloy",
+  "slug": "alloy",
+  "former_names": [
+    "Index"
+  ],
+  "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2fb9e41133c27d93650c2a1a32a03cc25066b8dd.png",
+  "website": "https://alloy.app",
+  "all_locations": "Sydney, NSW, Australia",
+  "long_description": "Alloy is an AI prototyping tool for product managers. Clone any page of your live product with the Chrome extension to turn ideas, wireframes, and Figma designs into interactive, high-fidelity prototypes your team and customers understand. Alloy's Cloud Agent connects to your codebase and takes changes from prototype to production, and its AI chat can redesign any existing website. Design to code, no engineers required.",
+  "one_liner": "AI prototyping tool for product managers",
+  "team_size": 5,
+  "industry": "B2B",
+  "subindustry": "B2B -> Productivity",
+  "launched_at": 1677116260,
+  "tags": [
+    "Design Tools"
+  ],
+  "tags_highlighted": [],
+  "top_company": false,
+  "isHiring": false,
+  "nonprofit": false,
+  "batch": "Winter 2023",
+  "status": "Active",
+  "industries": [
+    "B2B",
+    "Productivity"
+  ],
+  "regions": [
+    "Australia",
+    "Oceania"
+  ],
+  "stage": "Early",
+  "app_video_public": false,
+  "demo_day_video_public": true,
+  "app_answers": null,
+  "question_answers": true,
+  "url": "https://www.ycombinator.com/companies/alloy",
+  "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2023/alloy.json"
+}

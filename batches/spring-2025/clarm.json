@@ -1,0 +1,48 @@
+{
+  "id": 30439,
+  "name": "Clarm",
+  "slug": "clarm",
+  "former_names": [
+    "Dialin - Dialogue Insights",
+    "dialin",
+    "dialin ai",
+    "Dialin AI"
+  ],
+  "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a20bfc6fd0067cd630d43fa83552c610e2a0c0d2.png",
+  "website": "https://www.clarm.com",
+  "all_locations": "ZH, Switzerland",
+  "long_description": "Clarm Atlas 10xes productivity for non-technical operators in high-trust, regulated teams - banks, healthcare, insurance, publicly listed companies - by letting them build their own, fully governed AI agents. Teams build agents on their own approved data: every answer cites its source, all primitives are deterministic and highly governable, every action is logged for audit, and you bring your own AI model.",
+  "one_liner": "Build governed AI agents on your own data, without code",
+  "team_size": 2,
+  "industry": "B2B",
+  "subindustry": "B2B -> Productivity",
+  "launched_at": 1747978633,
+  "tags": [
+    "Artificial Intelligence",
+    "Sales",
+    "Marketing",
+    "Customer Support",
+    "AI"
+  ],
+  "tags_highlighted": [],
+  "top_company": false,
+  "isHiring": false,
+  "nonprofit": false,
+  "batch": "Spring 2025",
+  "status": "Active",
+  "industries": [
+    "B2B",
+    "Productivity"
+  ],
+  "regions": [
+    "Switzerland",
+    "Europe"
+  ],
+  "stage": "Early",
+  "app_video_public": false,
+  "demo_day_video_public": false,
+  "app_answers": null,
+  "question_answers": false,
+  "url": "https://www.ycombinator.com/companies/clarm",
+  "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2025/clarm.json"
+}

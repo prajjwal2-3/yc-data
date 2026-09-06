@@ -1,0 +1,48 @@
+{
+  "id": 29439,
+  "name": "camelAI",
+  "slug": "camelai",
+  "former_names": [
+    "qaml (pronounced camel)",
+    "qaml",
+    "camelQA"
+  ],
+  "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/db5295154418cf383d1fd6006f379854b772ebda.png",
+  "website": "https://camelai.com/",
+  "all_locations": "San Francisco, CA, USA",
+  "long_description": "",
+  "one_liner": "Unlimited inference at $5 per stream",
+  "team_size": 3,
+  "industry": "B2B",
+  "subindustry": "B2B -> Engineering, Product and Design",
+  "launched_at": 1701468865,
+  "tags": [
+    "Artificial Intelligence",
+    "SaaS",
+    "Data Science",
+    "Data Visualization"
+  ],
+  "tags_highlighted": [],
+  "top_company": false,
+  "isHiring": false,
+  "nonprofit": false,
+  "batch": "Winter 2024",
+  "status": "Active",
+  "industries": [
+    "B2B",
+    "Engineering, Product and Design"
+  ],
+  "regions": [
+    "United States of America",
+    "America / Canada",
+    "Remote",
+    "Partly Remote"
+  ],
+  "stage": "Early",
+  "app_video_public": true,
+  "demo_day_video_public": false,
+  "app_answers": null,
+  "question_answers": false,
+  "url": "https://www.ycombinator.com/companies/camelai",
+  "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2024/camelai.json"
+}

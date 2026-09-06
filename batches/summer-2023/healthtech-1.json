@@ -1,0 +1,43 @@
+{
+  "id": 29159,
+  "name": "Healthtech 1",
+  "slug": "healthtech-1",
+  "former_names": [],
+  "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/15cc6519a2b0765f7891150168879dacd368471a.png",
+  "website": "https://www.healthtech1.uk/",
+  "all_locations": "London, England, United Kingdom",
+  "long_description": "Healthtech-1 builds clinical AI that navigates patients to the right place, first time. Today we automate eligibility checks, triage and appointment booking for 1,600+ NHS GP practices.\r\n\r\nTomorrow, every healthcare appointment - GP, pharmacy, dentist, physio - is instantly bookable on bookable.health.\r\n\r\nWhy now?\r\nThe NHS has come a long way, but access to it hasn't. Patient satisfaction is at a 25-year low. Automating access to care - eligibility, triage, booking - is how we reverse the trend.",
+  "one_liner": "Navigating patients to the right place, first time.",
+  "team_size": 40,
+  "industry": "Healthcare",
+  "subindustry": "Healthcare -> Healthcare IT",
+  "launched_at": 1688443537,
+  "tags": [
+    "Health Tech",
+    "Workflow Automation",
+    "Digital Health",
+    "Healthcare",
+    "Healthcare IT"
+  ],
+  "tags_highlighted": [],
+  "top_company": false,
+  "isHiring": true,
+  "nonprofit": false,
+  "batch": "Summer 2023",
+  "status": "Active",
+  "industries": [
+    "Healthcare",
+    "Healthcare IT"
+  ],
+  "regions": [
+    "United Kingdom",
+    "Europe"
+  ],
+  "stage": "Early",
+  "app_video_public": false,
+  "demo_day_video_public": false,
+  "app_answers": null,
+  "question_answers": true,
+  "url": "https://www.ycombinator.com/companies/healthtech-1",
+  "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2023/healthtech-1.json"
+}

@@ -1,0 +1,43 @@
+{
+  "id": 22806,
+  "name": "Per Diem",
+  "slug": "per-diem",
+  "former_names": [],
+  "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/598668f38816dc5cfd50d0d695fccc6371a93877.png",
+  "website": "https://tryperdiem.com",
+  "all_locations": "New York City, NY, USA; Remote",
+  "long_description": "Restaurants today rely on dozens of disconnected tools to manage ordering, loyalty, marketing, and operations. Per Diem replaces that fragmented software stack with AI agents that build and maintain branded apps, run marketing campaigns, manage loyalty, automate operations, and help restaurants grow first-party sales. Built natively on Square, 800+ brands use Per Diem to power more than 500,000 monthly orders as their operating system for commerce, customer retention, and growth.",
+  "one_liner": "The AI operating system for restaurants",
+  "team_size": 25,
+  "industry": "B2B",
+  "subindustry": "B2B -> Marketing",
+  "launched_at": 1614618932,
+  "tags": [
+    "Payments",
+    "Consumer",
+    "B2B"
+  ],
+  "tags_highlighted": [],
+  "top_company": false,
+  "isHiring": true,
+  "nonprofit": false,
+  "batch": "Winter 2021",
+  "status": "Active",
+  "industries": [
+    "B2B",
+    "Marketing"
+  ],
+  "regions": [
+    "United States of America",
+    "America / Canada",
+    "Remote",
+    "Fully Remote"
+  ],
+  "stage": "Early",
+  "app_video_public": false,
+  "demo_day_video_public": false,
+  "app_answers": null,
+  "question_answers": false,
+  "url": "https://www.ycombinator.com/companies/per-diem",
+  "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2021/per-diem.json"
+}

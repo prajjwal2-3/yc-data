@@ -1,0 +1,41 @@
+{
+  "id": 30965,
+  "name": "Icarus",
+  "slug": "icarus",
+  "former_names": [],
+  "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/641db1cdc907f274cb944fd6796edc486aa6d653.png",
+  "website": "https://www.icarus.one/",
+  "all_locations": "Los Angeles, CA, USA",
+  "long_description": "Icarus is building the modern-day U-2 spy plane. Our autonomous solar aircraft fly at 60,000 feet for weeks at a time, eventually months and years, above weather and below satellites. They deliver persistent intelligence and connectivity for the military at a fraction of the cost of existing systems. The stratosphere is the forgotten frontier.",
+  "one_liner": "Stratospheric birds for defense",
+  "team_size": 50,
+  "industry": "Industrials",
+  "subindustry": "Industrials -> Defense",
+  "launched_at": 1759599519,
+  "tags": [
+    "Hardware",
+    "Aerospace",
+    "Defense"
+  ],
+  "tags_highlighted": [],
+  "top_company": false,
+  "isHiring": true,
+  "nonprofit": false,
+  "batch": "Fall 2025",
+  "status": "Active",
+  "industries": [
+    "Industrials",
+    "Defense"
+  ],
+  "regions": [
+    "United States of America",
+    "America / Canada"
+  ],
+  "stage": "Early",
+  "app_video_public": false,
+  "demo_day_video_public": false,
+  "app_answers": null,
+  "question_answers": false,
+  "url": "https://www.ycombinator.com/companies/icarus",
+  "api": "https://prajjwal2-3.github.io/yc-data/batches/fall-2025/icarus.json"
+}

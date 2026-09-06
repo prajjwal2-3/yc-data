@@ -1,0 +1,42 @@
+{
+  "id": 33019,
+  "name": "Agnost AI",
+  "slug": "agnost-ai",
+  "former_names": [],
+  "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/dbe9d7776c9e4cb65614fb4e463059ba0e869b12.png",
+  "website": "https://agnost.ai",
+  "all_locations": "San Francisco, CA, USA",
+  "long_description": "Agnost AI reads every conversation a company's AI Agent has with its users to find where it's silently failing and then turns that same data into custom models that run the agent better and cheaper than frontier models.",
+  "one_liner": "Product Analytics for Conversational Agents",
+  "team_size": 2,
+  "industry": "B2B",
+  "subindustry": "B2B -> Analytics",
+  "launched_at": 1783481375,
+  "tags": [
+    "Artificial Intelligence",
+    "Developer Tools",
+    "Analytics",
+    "Monitoring"
+  ],
+  "tags_highlighted": [],
+  "top_company": false,
+  "isHiring": false,
+  "nonprofit": false,
+  "batch": "Summer 2026",
+  "status": "Active",
+  "industries": [
+    "B2B",
+    "Analytics"
+  ],
+  "regions": [
+    "United States of America",
+    "America / Canada"
+  ],
+  "stage": "Early",
+  "app_video_public": false,
+  "demo_day_video_public": false,
+  "app_answers": null,
+  "question_answers": false,
+  "url": "https://www.ycombinator.com/companies/agnost-ai",
+  "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2026/agnost-ai.json"
+}

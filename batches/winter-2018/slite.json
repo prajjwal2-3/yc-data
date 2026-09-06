@@ -1,0 +1,43 @@
+{
+  "id": 1748,
+  "name": "Slite",
+  "slug": "slite",
+  "former_names": [],
+  "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/db873106ddb92ab7ceb9101417308ccab78f6f3c.png",
+  "website": "https://slite.com/",
+  "all_locations": "Berlin, Berlin, Germany; Remote",
+  "long_description": "Slite pairs a verified knowledge base with an AI agent connected to all team's tools, detecting when docs gets outdated and keeping them in sync with reality.\r\n\r\nIt gives teams a company brain that stays in sync with reality, for humans to trust and AI agents to act on.",
+  "one_liner": "The self-maintaining knowledge base",
+  "team_size": 40,
+  "industry": "B2B",
+  "subindustry": "B2B -> Productivity",
+  "launched_at": 1509562905,
+  "tags": [
+    "Documents",
+    "SaaS",
+    "Collaboration"
+  ],
+  "tags_highlighted": [],
+  "top_company": false,
+  "isHiring": false,
+  "nonprofit": false,
+  "batch": "Winter 2018",
+  "status": "Active",
+  "industries": [
+    "B2B",
+    "Productivity"
+  ],
+  "regions": [
+    "Germany",
+    "Europe",
+    "Remote",
+    "Fully Remote"
+  ],
+  "stage": "Growth",
+  "app_video_public": false,
+  "demo_day_video_public": false,
+  "app_answers": null,
+  "question_answers": false,
+  "url": "https://www.ycombinator.com/companies/slite",
+  "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2018/slite.json"
+}

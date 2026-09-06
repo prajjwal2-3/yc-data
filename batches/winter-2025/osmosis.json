@@ -1,0 +1,43 @@
+{
+  "id": 30247,
+  "name": "Osmosis",
+  "slug": "osmosis",
+  "former_names": [
+    "Gulp"
+  ],
+  "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0e0e653e5da051b7c87a56070249ad76479b0594.png",
+  "website": "https://osmosis.ai/",
+  "all_locations": "San Francisco, CA, USA",
+  "long_description": "Osmosis is a post-training platform that helps companies fine-tune language models using reinforcement learning. We work with fast-growing AI companies to train task/domain-specific models that beat foundation models on performance, cost, and latency. Our platform handles compute orchestration, reward modeling, and training run observability as a CLI-based product usable by developers and agents. ",
+  "one_liner": "Reinforcement Learning (RL) for AI Agents",
+  "team_size": 6,
+  "industry": "B2B",
+  "subindustry": "B2B",
+  "launched_at": 1737656598,
+  "tags": [
+    "Artificial Intelligence",
+    "Machine Learning",
+    "Reinforcement Learning",
+    "Infrastructure"
+  ],
+  "tags_highlighted": [],
+  "top_company": false,
+  "isHiring": true,
+  "nonprofit": false,
+  "batch": "Winter 2025",
+  "status": "Active",
+  "industries": [
+    "B2B"
+  ],
+  "regions": [
+    "United States of America",
+    "America / Canada"
+  ],
+  "stage": "Early",
+  "app_video_public": false,
+  "demo_day_video_public": false,
+  "app_answers": null,
+  "question_answers": false,
+  "url": "https://www.ycombinator.com/companies/osmosis",
+  "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2025/osmosis.json"
+}

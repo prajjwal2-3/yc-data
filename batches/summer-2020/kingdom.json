@@ -1,0 +1,43 @@
+{
+  "id": 22043,
+  "name": "Kingdom",
+  "slug": "kingdom",
+  "former_names": [
+    "Imvela",
+    "Kingdom Supercultures"
+  ],
+  "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/912429b7bbe5e13329e823be58238cb49a0da00f.png",
+  "website": "https://kingdomsuperculture.com",
+  "all_locations": "New York City, NY, USA",
+  "long_description": "Kingdom creates clinically-validated Superculture® ingredients from natural microbes to improve the health of pets and people.  We’re the world’s first AI-native ingredients company, delivering industry-leading efficacy in a fraction of the traditional development time.",
+  "one_liner": "Clinically-validated ingredients from natural microbes",
+  "team_size": 21,
+  "industry": "Healthcare",
+  "subindustry": "Healthcare -> Industrial Bio",
+  "launched_at": 1596153559,
+  "tags": [
+    "Health & Wellness",
+    "Food Tech"
+  ],
+  "tags_highlighted": [],
+  "top_company": false,
+  "isHiring": true,
+  "nonprofit": false,
+  "batch": "Summer 2020",
+  "status": "Active",
+  "industries": [
+    "Healthcare",
+    "Industrial Bio"
+  ],
+  "regions": [
+    "United States of America",
+    "America / Canada"
+  ],
+  "stage": "Growth",
+  "app_video_public": false,
+  "demo_day_video_public": false,
+  "app_answers": null,
+  "question_answers": false,
+  "url": "https://www.ycombinator.com/companies/kingdom",
+  "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2020/kingdom.json"
+}

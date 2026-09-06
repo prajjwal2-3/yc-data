@@ -1,0 +1,46 @@
+{
+  "id": 29687,
+  "name": "MinusX",
+  "slug": "minusx",
+  "former_names": [
+    "minusone.ai",
+    "minusx.ai"
+  ],
+  "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/92dbd9d186e22d922d985755f90407e21859378a.png",
+  "website": "https://minusx.ai",
+  "all_locations": "San Francisco, CA, USA",
+  "long_description": "MinusX is a state-of-the-art data agent that can build the best dashboards for your data, and notify you when something's up. You can interrogate all your data on our open source BI platform via Slack or MCP. Connect your data, and put agents to work.",
+  "one_liner": "Open source agentic BI for founders",
+  "team_size": 2,
+  "industry": "B2B",
+  "subindustry": "B2B -> Analytics",
+  "launched_at": 1722024736,
+  "tags": [
+    "Artificial Intelligence",
+    "Machine Learning",
+    "Analytics",
+    "Data Science",
+    "AI Assistant"
+  ],
+  "tags_highlighted": [],
+  "top_company": false,
+  "isHiring": false,
+  "nonprofit": false,
+  "batch": "Summer 2024",
+  "status": "Active",
+  "industries": [
+    "B2B",
+    "Analytics"
+  ],
+  "regions": [
+    "United States of America",
+    "America / Canada"
+  ],
+  "stage": "Early",
+  "app_video_public": false,
+  "demo_day_video_public": false,
+  "app_answers": null,
+  "question_answers": false,
+  "url": "https://www.ycombinator.com/companies/minusx",
+  "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2024/minusx.json"
+}

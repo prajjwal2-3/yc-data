@@ -1,0 +1,43 @@
+{
+  "id": 32985,
+  "name": "Lumeria",
+  "slug": "lumeria",
+  "former_names": [],
+  "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5911b0640b4a7b63825ae466fa73c1fc1b24c0a3.png",
+  "website": "https://lumeria.skin",
+  "all_locations": "San Francisco, CA, USA",
+  "long_description": "The Lumoscope is a multispectral camera that clips onto your phone and scans your skin at home with the same light used in clinics. You see what a mirror can't: a breakout days before it surfaces, and wrinkles changing over time. Our software then reads that history, connects flare-ups to causes you'd never suspect, and matches products to what your own data shows works. \r\n",
+  "one_liner": "Oura Ring for Skin",
+  "team_size": 3,
+  "industry": "Healthcare",
+  "subindustry": "Healthcare -> Consumer Health and Wellness",
+  "launched_at": 1785008787,
+  "tags": [
+    "Artificial Intelligence",
+    "Consumer Health Services",
+    "Health Tech",
+    "Health & Wellness",
+    "Skincare"
+  ],
+  "tags_highlighted": [],
+  "top_company": false,
+  "isHiring": false,
+  "nonprofit": false,
+  "batch": "Summer 2026",
+  "status": "Active",
+  "industries": [
+    "Healthcare",
+    "Consumer Health and Wellness"
+  ],
+  "regions": [
+    "United States of America",
+    "America / Canada"
+  ],
+  "stage": "Early",
+  "app_video_public": true,
+  "demo_day_video_public": false,
+  "app_answers": null,
+  "question_answers": false,
+  "url": "https://www.ycombinator.com/companies/lumeria",
+  "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2026/lumeria.json"
+}

@@ -1,0 +1,41 @@
+{
+  "id": 32988,
+  "name": "Markov",
+  "slug": "markov",
+  "former_names": [],
+  "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/41a4a41e5482735389d2089a01ff2b862f56e307.png",
+  "website": "https://www.markovstudios.com/",
+  "all_locations": "San Francisco, CA, USA",
+  "long_description": "Markov sells expert computer-use data to frontier labs. We’ve sold more than 33k+ hours and our open-source datasets have got over 200k+ downloads on hugging face.",
+  "one_liner": "Expert computer-use data for frontier AI labs",
+  "team_size": 2,
+  "industry": "B2B",
+  "subindustry": "B2B -> Infrastructure",
+  "launched_at": 1782277833,
+  "tags": [
+    "Reinforcement Learning",
+    "Data Labeling",
+    "Data Engineering"
+  ],
+  "tags_highlighted": [],
+  "top_company": false,
+  "isHiring": false,
+  "nonprofit": false,
+  "batch": "Summer 2026",
+  "status": "Active",
+  "industries": [
+    "B2B",
+    "Infrastructure"
+  ],
+  "regions": [
+    "United States of America",
+    "America / Canada"
+  ],
+  "stage": "Early",
+  "app_video_public": false,
+  "demo_day_video_public": false,
+  "app_answers": null,
+  "question_answers": false,
+  "url": "https://www.ycombinator.com/companies/markov",
+  "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2026/markov.json"
+}

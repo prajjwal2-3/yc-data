@@ -1,0 +1,42 @@
+{
+  "id": 33311,
+  "name": "SpaceFlow Technologies, Inc.",
+  "slug": "spaceflow-technologies-inc",
+  "former_names": [],
+  "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/161339dc99cea591f4bd07fbb627aaa0b7771a88.png",
+  "website": "https://spaceflow.tech",
+  "all_locations": "San Francisco, CA, USA",
+  "long_description": "SpaceFlow is an AI-native procurement services company for businesses that make, move and serve physical goods. We help procurement teams bring more spend under management, execute source-to-contract work and turn identified savings into realized savings without adding headcount or replacing existing systems.",
+  "one_liner": "AI-native procurement services for the physical economy",
+  "team_size": 4,
+  "industry": "B2B",
+  "subindustry": "B2B -> Supply Chain and Logistics",
+  "launched_at": 1785644557,
+  "tags": [
+    "Workflow Automation",
+    "Logistics",
+    "Manufacturing",
+    "Supply Chain"
+  ],
+  "tags_highlighted": [],
+  "top_company": false,
+  "isHiring": false,
+  "nonprofit": false,
+  "batch": "Summer 2026",
+  "status": "Active",
+  "industries": [
+    "B2B",
+    "Supply Chain and Logistics"
+  ],
+  "regions": [
+    "United States of America",
+    "America / Canada"
+  ],
+  "stage": "Early",
+  "app_video_public": false,
+  "demo_day_video_public": false,
+  "app_answers": null,
+  "question_answers": false,
+  "url": "https://www.ycombinator.com/companies/spaceflow-technologies-inc",
+  "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2026/spaceflow-technologies-inc.json"
+}

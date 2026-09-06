@@ -1,0 +1,45 @@
+{
+  "id": 13549,
+  "name": "Airbyte",
+  "slug": "airbyte",
+  "former_names": [
+    "Daxtarity",
+    "Dataline"
+  ],
+  "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fc4c9a8bb7a853c14be4dac967fb9717f36fca1c.png",
+  "website": "https://airbyte.com/",
+  "all_locations": "San Francisco, CA, USA",
+  "long_description": "Airbyte Agents is the context layer your AI agents query before they act. Features the Context Store, which unifies entities across Salesforce, Stripe, Zendesk and more. Use it from the UI, your LLM via MCP, or our SDK. 40% fewer tool calls, up to 80% fewer tokens.\r\n\r\nAirbyte Data Replication is the leading open data movement platform that empowers data teams in the AI era by transforming raw data into actionable intelligence. \r\n\r\nhttps://github.com/airbytehq/",
+  "one_liner": "Context layer for production-grade AI agents",
+  "team_size": 90,
+  "industry": "B2B",
+  "subindustry": "B2B",
+  "launched_at": 1584288236,
+  "tags": [
+    "Artificial Intelligence",
+    "Developer Tools",
+    "Open Source",
+    "Data Engineering",
+    "AI"
+  ],
+  "tags_highlighted": [],
+  "top_company": false,
+  "isHiring": false,
+  "nonprofit": false,
+  "batch": "Winter 2020",
+  "status": "Active",
+  "industries": [
+    "B2B"
+  ],
+  "regions": [
+    "United States of America",
+    "America / Canada"
+  ],
+  "stage": "Early",
+  "app_video_public": false,
+  "demo_day_video_public": false,
+  "app_answers": null,
+  "question_answers": false,
+  "url": "https://www.ycombinator.com/companies/airbyte",
+  "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2020/airbyte.json"
+}

@@ -1,0 +1,40 @@
+{
+  "id": 30129,
+  "name": "HumanLayer",
+  "slug": "humanlayer",
+  "former_names": [],
+  "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c0e8c91e4e2daba204d6976544012b6209d006fa.png",
+  "website": "https://humanlayer.com",
+  "all_locations": "San Francisco, CA, USA",
+  "long_description": "HumanLayer is a multiplayer coding agent IDE+cloud that works seamlessly from your workstation to anywhere you want to run background agents. It brings agent sessions, plan artifacts, and code diffs together in one place for you team to collaborate and ship. It's built in composable pieces to meet software factory builders where they already are - you can BYO compute, dev environment setup, and harness, or use our full integrated stack.",
+  "one_liner": "The multiplayer control plane for your software factory",
+  "team_size": 2,
+  "industry": "B2B",
+  "subindustry": "B2B -> Engineering, Product and Design",
+  "launched_at": 1727921167,
+  "tags": [
+    "Artificial Intelligence",
+    "Developer Tools"
+  ],
+  "tags_highlighted": [],
+  "top_company": false,
+  "isHiring": true,
+  "nonprofit": false,
+  "batch": "Fall 2024",
+  "status": "Active",
+  "industries": [
+    "B2B",
+    "Engineering, Product and Design"
+  ],
+  "regions": [
+    "United States of America",
+    "America / Canada"
+  ],
+  "stage": "Early",
+  "app_video_public": false,
+  "demo_day_video_public": false,
+  "app_answers": null,
+  "question_answers": true,
+  "url": "https://www.ycombinator.com/companies/humanlayer",
+  "api": "https://prajjwal2-3.github.io/yc-data/batches/fall-2024/humanlayer.json"
+}

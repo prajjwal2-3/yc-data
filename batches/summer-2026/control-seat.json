@@ -1,0 +1,42 @@
+{
+  "id": 31261,
+  "name": "Control Seat",
+  "slug": "control-seat",
+  "former_names": [
+    "C42"
+  ],
+  "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c9fbf6b23216653c383d7f0caea2def1b673a3a5.png",
+  "website": "https://www.controlseat.com",
+  "all_locations": "San Francisco, CA, USA",
+  "long_description": "Control Seat builds the hardware and software that helps industrial teams see, understand, and run their operations.\r\n\r\nOur platform creates one clear source of truth across the plant. It connects the systems teams already use, brings control, monitoring, history, and machine health together, and adds an intelligence layer that continuously watches for meaningful changes. Teams can understand what happened, catch problems earlier, and act before they become downtime.\r\n\r\nThe result is fewer surprises, faster decisions, and less time spent piecing together information across disconnected tools.\r\n\r\nWe work with manufacturers, utilities, energy companies, and other industrial operators modernizing existing facilities or building new ones.",
+  "one_liner": "Predictive maintenance on your plant data and sensors.",
+  "team_size": 2,
+  "industry": "Industrials",
+  "subindustry": "Industrials",
+  "launched_at": 1777448165,
+  "tags": [
+    "Workflow Automation",
+    "Monitoring",
+    "Industrial"
+  ],
+  "tags_highlighted": [],
+  "top_company": false,
+  "isHiring": false,
+  "nonprofit": false,
+  "batch": "Summer 2026",
+  "status": "Active",
+  "industries": [
+    "Industrials"
+  ],
+  "regions": [
+    "United States of America",
+    "America / Canada"
+  ],
+  "stage": "Early",
+  "app_video_public": false,
+  "demo_day_video_public": false,
+  "app_answers": null,
+  "question_answers": false,
+  "url": "https://www.ycombinator.com/companies/control-seat",
+  "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2026/control-seat.json"
+}

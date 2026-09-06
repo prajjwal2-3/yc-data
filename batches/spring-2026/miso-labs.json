@@ -1,0 +1,40 @@
+{
+  "id": 30723,
+  "name": "Miso Labs",
+  "slug": "miso-labs",
+  "former_names": [
+    "Kamino Learning",
+    "Dalta Labs"
+  ],
+  "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8dd28df9a99151aedfe26a296d8e112af2bf4edb.png",
+  "website": "https://misolabs.ai",
+  "all_locations": "San Francisco, CA, USA",
+  "long_description": "Miso Labs is building the world’s most emotive foundation models for voice. Our goal is to pass the voice Turing test.",
+  "one_liner": "Emotive foundation voice models",
+  "team_size": 2,
+  "industry": "B2B",
+  "subindustry": "B2B -> Infrastructure",
+  "launched_at": 1780176393,
+  "tags": [],
+  "tags_highlighted": [],
+  "top_company": false,
+  "isHiring": true,
+  "nonprofit": false,
+  "batch": "Spring 2026",
+  "status": "Active",
+  "industries": [
+    "B2B",
+    "Infrastructure"
+  ],
+  "regions": [
+    "United States of America",
+    "America / Canada"
+  ],
+  "stage": "Early",
+  "app_video_public": false,
+  "demo_day_video_public": false,
+  "app_answers": null,
+  "question_answers": false,
+  "url": "https://www.ycombinator.com/companies/miso-labs",
+  "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/miso-labs.json"
+}

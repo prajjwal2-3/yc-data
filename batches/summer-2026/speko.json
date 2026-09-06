@@ -1,0 +1,45 @@
+{
+  "id": 32169,
+  "name": "Speko",
+  "slug": "speko",
+  "former_names": [
+    "Speko Group, Inc."
+  ],
+  "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a79212fefd832b4ac7d28da1ad3a7bc206dffaa1.png",
+  "website": "https://speko.ai/?utm_source=ycombinator&utm_medium=profile",
+  "all_locations": "San Francisco, CA, USA",
+  "long_description": "Speko is a router for voice models: one API key, and your voice agent runs on the speech-to-text, LLM, and text-to-speech models we measured as best for your language and use case. The measurements are public at benchmarks.speko.ai: we test new models the day they ship and re-route when the numbers change, so you rewrite nothing. We ran this bake-off by hand for four years at Hupo, shipping production voice for Morgan Stanley, Prudential, HSBC, and Grab.",
+  "one_liner": "OpenRouter for Voice AI: one API, every call on the best speech model",
+  "team_size": 4,
+  "industry": "B2B",
+  "subindustry": "B2B -> Infrastructure",
+  "launched_at": 1783393099,
+  "tags": [
+    "Developer Tools",
+    "AI",
+    "Conversational AI"
+  ],
+  "tags_highlighted": [],
+  "top_company": false,
+  "isHiring": false,
+  "nonprofit": false,
+  "batch": "Summer 2026",
+  "status": "Active",
+  "industries": [
+    "B2B",
+    "Infrastructure"
+  ],
+  "regions": [
+    "United States of America",
+    "America / Canada",
+    "Remote",
+    "Partly Remote"
+  ],
+  "stage": "Early",
+  "app_video_public": false,
+  "demo_day_video_public": false,
+  "app_answers": null,
+  "question_answers": false,
+  "url": "https://www.ycombinator.com/companies/speko",
+  "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2026/speko.json"
+}

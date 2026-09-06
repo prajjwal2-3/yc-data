@@ -1,0 +1,40 @@
+{
+  "id": 30177,
+  "name": "Bild AI",
+  "slug": "bild-ai",
+  "former_names": [
+    "Comply AI",
+    "Bilds AI"
+  ],
+  "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8e9f3a32db39a8212bb016c786d67f53ed0bf27c.png",
+  "website": "https://www.bild.ai",
+  "all_locations": "San Francisco, CA, USA",
+  "long_description": "Bild AI automates Division 8 estimating — doors, frames, and hardware — end to end. Bild AI reads blueprints and specs, generates opening (door) schedules automatically, prices the bid, and exports it directly into the ERPs Division 8 shops already run on, including Comsense, Avaware, and ProTech.\r\n\r\nDivision 8 estimating is the brutal trifecta of nitty-gritty details, where typos cost hundreds of thousands, and timelines are tight. Thousands of pages of specs, hardware sets cross-referenced by hand, and a single missed opening that can sink a bid's margin. Bild  AI collapses days of takeoff into hours, and clients have bid 50% more with smaller estimating teams.\r\n\r\nBacked by Khosla Ventures (YC W25).",
+  "one_liner": "AI estimating & detailing for Division 8 doors, frames & hardware",
+  "team_size": 9,
+  "industry": "Real Estate and Construction",
+  "subindustry": "Real Estate and Construction -> Construction",
+  "launched_at": 1738874630,
+  "tags": [],
+  "tags_highlighted": [],
+  "top_company": false,
+  "isHiring": true,
+  "nonprofit": false,
+  "batch": "Winter 2025",
+  "status": "Active",
+  "industries": [
+    "Real Estate and Construction",
+    "Construction"
+  ],
+  "regions": [
+    "United States of America",
+    "America / Canada"
+  ],
+  "stage": "Early",
+  "app_video_public": false,
+  "demo_day_video_public": false,
+  "app_answers": null,
+  "question_answers": false,
+  "url": "https://www.ycombinator.com/companies/bild-ai",
+  "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2025/bild-ai.json"
+}

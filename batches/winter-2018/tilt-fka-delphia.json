@@ -1,0 +1,47 @@
+{
+  "id": 1832,
+  "name": "Tilt (f.k.a. Delphia)",
+  "slug": "tilt-fka-delphia",
+  "former_names": [
+    "Vox Pop Labs",
+    "Delphia",
+    "Delphia (d.b.a. Tilt)"
+  ],
+  "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d97c7b6a062bbf024d979f3e67fe169d6f103b8b.png",
+  "website": "http://tilt.io",
+  "all_locations": "Toronto, ON, Canada; Remote",
+  "long_description": "Tilt is building the audited methodology layer agents call before touching portfolios. As agents begin managing real portfolios, they need a neutral trusted source of verified investment logic before they can act.\r\n\r\nWe operate across two connected surfaces: InvestOS, an open standard that lets any brokerage or platform plug verified methodology into its own AI experience; and Tilt, the reference implementation of InvestOS. Tilt is an agentic harness where investors, portfolio managers, and creators can author, remix, and publish strategies. \r\n\r\nIf you're thinking about working here, our mission is to price the world's information.",
+  "one_liner": "GitHub for Investment Methodology",
+  "team_size": 25,
+  "industry": "Fintech",
+  "subindustry": "Fintech -> Consumer Finance",
+  "launched_at": 1510196648,
+  "tags": [
+    "Fintech",
+    "Machine Learning",
+    "AI"
+  ],
+  "tags_highlighted": [],
+  "top_company": false,
+  "isHiring": true,
+  "nonprofit": false,
+  "batch": "Winter 2018",
+  "status": "Active",
+  "industries": [
+    "Fintech",
+    "Consumer Finance"
+  ],
+  "regions": [
+    "Canada",
+    "America / Canada",
+    "Remote",
+    "Fully Remote"
+  ],
+  "stage": "Growth",
+  "app_video_public": false,
+  "demo_day_video_public": false,
+  "app_answers": null,
+  "question_answers": false,
+  "url": "https://www.ycombinator.com/companies/tilt-fka-delphia",
+  "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2018/tilt-fka-delphia.json"
+}

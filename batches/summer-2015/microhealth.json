@@ -1,0 +1,45 @@
+{
+  "id": 923,
+  "name": "Microhealth",
+  "slug": "microhealth",
+  "former_names": [
+    "MicroHealth"
+  ],
+  "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b4dff38384073b0991b2872c72a4ab9ba8a34087.png",
+  "website": "http://microhealth.com",
+  "all_locations": "Claymont, DE, USA; Remote",
+  "long_description": "* Category leading RWE platform generating differentiated data through combination of a provider community and patient-reported outcomes; delivering personalized and comparative evidence at the point of care\r\n\r\n* Singular network architecture and data capturing capabilities help identify patients with unmet needs in real-time; unlocking opportunities to improve health outcomes and additional revenue for pharma\r\n\r\n* Microhealth has achieved product-market fit in the hemophilia and rare blood disorders space\r\n\r\nToday, we are the world's leader in digital hematology:\r\n\r\n- Our US hemophilia network covers 33%+ of patients on prophylaxis and 50%+ of hemophilia treatment centers\r\n \r\n- Average active-user retention is 52 months\r\n \r\n- Trusted by leading pharmaceutical sponsors: Novo Nordisk, Sanofi, Roche and Pfizer",
+  "one_liner": "Rare Disease-Focused Care Delivery and Evidence Generation Platform",
+  "team_size": 25,
+  "industry": "Healthcare",
+  "subindustry": "Healthcare -> Consumer Health and Wellness",
+  "launched_at": 1430156126,
+  "tags": [
+    "Digital Health",
+    "Healthcare",
+    "AI"
+  ],
+  "tags_highlighted": [],
+  "top_company": false,
+  "isHiring": false,
+  "nonprofit": false,
+  "batch": "Summer 2015",
+  "status": "Active",
+  "industries": [
+    "Healthcare",
+    "Consumer Health and Wellness"
+  ],
+  "regions": [
+    "United States of America",
+    "America / Canada",
+    "Remote",
+    "Fully Remote"
+  ],
+  "stage": "Early",
+  "app_video_public": false,
+  "demo_day_video_public": false,
+  "app_answers": null,
+  "question_answers": false,
+  "url": "https://www.ycombinator.com/companies/microhealth",
+  "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2015/microhealth.json"
+}

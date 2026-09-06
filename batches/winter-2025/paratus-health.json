@@ -1,0 +1,44 @@
+{
+  "id": 30337,
+  "name": "Paratus Health",
+  "slug": "paratus-health",
+  "former_names": [
+    "Paratus"
+  ],
+  "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fcaf4d4e89631a63bee94c1af531a630ac0f1858.png",
+  "website": "https://paratushealth.com/",
+  "all_locations": "San Francisco, CA, USA",
+  "long_description": "Voice agents for outpatient facilities. ",
+  "one_liner": "healthcare AI",
+  "team_size": 2,
+  "industry": "Healthcare",
+  "subindustry": "Healthcare -> Healthcare IT",
+  "launched_at": 1739954707,
+  "tags": [
+    "Sales",
+    "Sales Enablement",
+    "Digital Health",
+    "Healthcare IT"
+  ],
+  "tags_highlighted": [],
+  "top_company": false,
+  "isHiring": false,
+  "nonprofit": false,
+  "batch": "Winter 2025",
+  "status": "Active",
+  "industries": [
+    "Healthcare",
+    "Healthcare IT"
+  ],
+  "regions": [
+    "United States of America",
+    "America / Canada"
+  ],
+  "stage": "Early",
+  "app_video_public": false,
+  "demo_day_video_public": true,
+  "app_answers": null,
+  "question_answers": false,
+  "url": "https://www.ycombinator.com/companies/paratus-health",
+  "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2025/paratus-health.json"
+}

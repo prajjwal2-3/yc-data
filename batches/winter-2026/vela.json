@@ -1,0 +1,36 @@
+{
+  "id": 31264,
+  "name": "Vela",
+  "slug": "vela",
+  "former_names": [],
+  "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/06e0dd16c2af788adc332865c74ea59fa44d4b7d.png",
+  "website": "https://tryvela.ai",
+  "all_locations": "San Francisco, CA, USA",
+  "long_description": "Scheduling one interview panel takes a dozen emails. Then someone moves a call and you start over. \r\n\r\nVela is an AI Scheduling Coordinator that handles it end to end. Just CC Vela on the thread like you would a person. It reaches out, finds times that work for everyone, chases the people who don't reply, reschedules when things change, and confirms. Over email, SMS, and WhatsApp, at any hour your candidate happens to respond.\r\n\r\nNo dashboard. No new workflow. Your team works the way it already works, without the scheduling.",
+  "one_liner": "AI Recruiting Coordinator for Executive Search",
+  "team_size": 2,
+  "industry": "B2B",
+  "subindustry": "B2B",
+  "launched_at": 1770142827,
+  "tags": [],
+  "tags_highlighted": [],
+  "top_company": false,
+  "isHiring": true,
+  "nonprofit": false,
+  "batch": "Winter 2026",
+  "status": "Active",
+  "industries": [
+    "B2B"
+  ],
+  "regions": [
+    "United States of America",
+    "America / Canada"
+  ],
+  "stage": "Early",
+  "app_video_public": false,
+  "demo_day_video_public": false,
+  "app_answers": null,
+  "question_answers": false,
+  "url": "https://www.ycombinator.com/companies/vela",
+  "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2026/vela.json"
+}

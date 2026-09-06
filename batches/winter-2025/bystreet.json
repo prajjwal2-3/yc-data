@@ -1,0 +1,49 @@
+{
+  "id": 30279,
+  "name": "Bystreet",
+  "slug": "bystreet",
+  "former_names": [
+    "Doublecall",
+    "Vovana",
+    "Bystreet",
+    "Snowbase",
+    "Highintent",
+    "Gowatch"
+  ],
+  "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/17421a7106c2aa1e760abcb7892a8de8d04a9e7a.png",
+  "website": "http://www.bystreet.com",
+  "all_locations": "San Francisco, CA, USA",
+  "long_description": "Identify and connect with the owners and key decision-makers behind 300,000+ hotels globally. Our customers include the world's leading hospitality firms: Marriott International, Choice Hotels, Wyndham Hotels & Resorts, Hotel Equities, and more. ",
+  "one_liner": "Your partner for hotel ownership data. ",
+  "team_size": 4,
+  "industry": "B2B",
+  "subindustry": "B2B",
+  "launched_at": 1740115759,
+  "tags": [
+    "SaaS",
+    "B2B",
+    "Proptech"
+  ],
+  "tags_highlighted": [],
+  "top_company": false,
+  "isHiring": false,
+  "nonprofit": false,
+  "batch": "Winter 2025",
+  "status": "Active",
+  "industries": [
+    "B2B"
+  ],
+  "regions": [
+    "United States of America",
+    "America / Canada",
+    "Remote",
+    "Partly Remote"
+  ],
+  "stage": "Early",
+  "app_video_public": false,
+  "demo_day_video_public": false,
+  "app_answers": null,
+  "question_answers": false,
+  "url": "https://www.ycombinator.com/companies/bystreet",
+  "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2025/bystreet.json"
+}
