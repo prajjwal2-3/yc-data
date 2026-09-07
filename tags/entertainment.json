@@ -2225,16 +2225,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0fdeca47d8a703741544113635c43a9f56c783f7.png",
     "website": "https://grocalo.com/",
     "all_locations": "Los Angeles, CA, USA",
-    "long_description": "Grocalo (S26) is an AI brain that runs content for creators. We understand their audiences, using video understanding and deep platform analytics to bottle up the taste behind each creator and personalize and distribute content to creator specific audiences.\r\n\r\nGrocalo generated 2B views and gained 4M followers for our creators in the last 2 months. Our clients include Jimmy O. Yang (Comedian, 11M followers), King Bach (72M followers), Leenda Dong (28M followers), Steven He (30M followers), Sheena Melwani (18M followers), and Jeannie Mai (TV host, 6M followers).\r\n\r\nContent should be personalized and data-driven. We’re developing the most advanced AI brain capable of replicating virality for any given audience. \r\n",
-    "one_liner": "AI software for creators that runs social content",
+    "long_description": "Grocalo (S26) is an AI brain that runs content for creators. We understand their audiences, using video understanding and deep platform analytics to bottle up the taste behind each creator and personalize and distribute content to creator specific audiences.\r\n\r\nGrocalo generated 2B views and gained 4M followers for our creators in the last 2 months. Some of our clients include Jimmy O. Yang (Comedian, 11M followers), King Bach (72M followers), Leenda Dong (28M followers), Steven He (30M followers), Sheena Melwani (18M followers), and Jeannie Mai (TV host, 6M followers).\r\n\r\nContent should be personalized and data-driven. We’ve developed the most advanced AI brain replicating viral content for any given audience. \r\n",
+    "one_liner": "AI brain for creators that runs their social content",
     "team_size": 2,
     "industry": "Consumer",
     "subindustry": "Consumer -> Content",
     "launched_at": 1787022465,
     "tags": [
+      "Artificial Intelligence",
       "Entertainment",
-      "Creator Economy",
-      "AI"
+      "Creator Economy"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -2257,5 +2257,47 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/grocalo",
     "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2026/grocalo.json"
+  },
+  {
+    "id": 32987,
+    "name": "Familiar",
+    "slug": "familiar",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c65a4389d81076a7a08b8c3d3c22a2bf1c54e49b.png",
+    "website": "https://thefamiliarlab.com",
+    "all_locations": "Toronto, ON, Canada",
+    "long_description": "Familiar is the Neolab for world translation. Dubbing into 30 languages. Now with Familiar, the same actor's performance is preserved instead of a mismatched voice over a mismatched face. One model does the voice, the lips, and the scene together, with identity permanence and scene & world understanding. Built by the researchers who pioneered joint audio-visual human models. ",
+    "one_liner": "Movies in Every Language. Better than Humans.",
+    "team_size": 8,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1786578571,
+    "tags": [
+      "Generative AI",
+      "B2B",
+      "Entertainment",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "Canada",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/familiar",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2026/familiar.json"
   }
 ]
