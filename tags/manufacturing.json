@@ -341,6 +341,52 @@
     "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2016/synvivia.json"
   },
   {
+    "id": 1475,
+    "name": "The Essential",
+    "slug": "the-essential",
+    "former_names": [
+      "Movebutter",
+      "Move"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/45582b16a5d938bbad091f36c2df3206414b1b7e.png",
+    "website": "http://www.theessential.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "The Essential is a factory-direct ecommerce company. We allow customers to buy premium furniture and home goods directly from the factories that make them.",
+    "one_liner": "E-commerce 2.0",
+    "team_size": 11,
+    "industry": "Consumer",
+    "subindustry": "Consumer",
+    "launched_at": 1478194835,
+    "tags": [
+      "Consumer",
+      "Manufacturing",
+      "E-commerce",
+      "Supply Chain"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2017",
+    "status": "Active",
+    "industries": [
+      "Consumer"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/the-essential",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2017/the-essential.json"
+  },
+  {
     "id": 1513,
     "name": "Solugen",
     "slug": "solugen",
@@ -3788,7 +3834,7 @@
     "website": "https://karalabs.ai/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Kara is building diamond semiconductors. \r\n\r\nWe begin with growing ultra-high purity diamond wafers for advanced hardware. Used in data centers, spacecrafts, RF systems, and quantum hardware, our diamond moves heat up to 5× better than copper, helping critical systems run cooler, faster, and more reliably. \r\n\r\nDiamond has spent centuries as a symbol. We are turning it into infrastructure.",
-    "one_liner": "Making Diamond Engineerable",
+    "one_liner": "Making Diamond Semiconductors",
     "team_size": 3,
     "industry": "Industrials",
     "subindustry": "Industrials",

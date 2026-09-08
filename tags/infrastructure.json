@@ -4958,7 +4958,7 @@
     "website": "https://www.shieldedglobal.com/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Shielded connects companies’ internal and external data to map market shifts, tariffs, and disruptions directly to suppliers, products, and margins. We turn those impacts into real-time decisions that grow and protect the business. ",
-    "one_liner": "The agentic origination desk for supply chain risk.",
+    "one_liner": "We help Fortune 500 companies hedge their supply chain risk",
     "team_size": 0,
     "industry": "B2B",
     "subindustry": "B2B -> Finance and Accounting",
@@ -5296,8 +5296,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/44fee5cae005d704af84e7ed5ed7418d4ca0580c.png",
     "website": "https://decawork.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Decawork is building AI models that control what agents do inside companies.\r\n\r\nGiving an agent access to a system does not tell it when using that access is right for the business. The same action can be appropriate for one task and wrong for another. IT teams understand the business, but they can’t turn every judgment into a rule or manually approve every step.\r\n\r\nWe train individual models for companies that understand its business, critical systems, and priorities. It learns from the policies IT teams set and the decisions they make in practice. We’re training these models to combine that understanding with an agent’s task and past actions to decide what it should be allowed to do in real time.\r\n\r\nCompanies will rent intelligence from AI labs or run open-source models. They’ll own the models that keep their entire AI workforce acting in their interests. And Decawork is building those models.",
-    "one_liner": "AI models that control AI agents inside your company.",
+    "long_description": "An agent’s access should depend on the task it is doing. The same action can be appropriate for one task and wrong for another. Access decisions need to adapt in real time as the agent works, but companies can’t turn every business judgment into a fixed rules or have people manually approve every step.\r\n\r\nWe train small, company-specific models that approve AI actions in real time. They consider the company’s policies and interests, the agent’s current task, and its past actions to decide whether each proposed action should be allowed. Access is specific to the task at hand and reassessed as the agent works.\r\n\r\nCompanies will rent intelligence from AI labs or run open-source models to power their agents. They’ll own the models that keep their entire AI workforce acting in their interests. Decawork is building those models.",
+    "one_liner": "Training company-specific models that approve AI actions.",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
@@ -5599,7 +5599,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/cf5d37476e8f7b170957ddb85fd0254d52fa2634.png",
     "website": "https://www.nodus-compute.ai/",
-    "all_locations": "",
+    "all_locations": "San Francisco, CA, USA",
     "long_description": "Intelligent execution layer for AI workloads",
     "one_liner": "Intelligent execution layer for AI workloads",
     "team_size": 2,
@@ -5620,7 +5620,8 @@
       "B2B"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
