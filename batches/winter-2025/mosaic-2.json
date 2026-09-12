@@ -1,0 +1,40 @@
+{
+  "id": 30244,
+  "name": "Mosaic",
+  "slug": "mosaic-2",
+  "former_names": [
+    "Frame AI",
+    "FrameCut AI"
+  ],
+  "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3c8413f69be9e2f1c16114a6a958c34a98655042.png",
+  "website": "https://mosaic.so",
+  "all_locations": "San Francisco, CA, USA",
+  "long_description": "Mosaic builds frontier video agents. We work to codify the language of video and imbue that as taste into agents.\r\n",
+  "one_liner": "Frontier Video Agents",
+  "team_size": 5,
+  "industry": "Consumer",
+  "subindustry": "Consumer -> Content",
+  "launched_at": 1740665933,
+  "tags": [],
+  "tags_highlighted": [],
+  "top_company": false,
+  "isHiring": true,
+  "nonprofit": false,
+  "batch": "Winter 2025",
+  "status": "Active",
+  "industries": [
+    "Consumer",
+    "Content"
+  ],
+  "regions": [
+    "United States of America",
+    "America / Canada"
+  ],
+  "stage": "Early",
+  "app_video_public": true,
+  "demo_day_video_public": false,
+  "app_answers": null,
+  "question_answers": true,
+  "url": "https://www.ycombinator.com/companies/mosaic-2",
+  "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2025/mosaic-2.json"
+}

@@ -1,0 +1,44 @@
+{
+  "id": 30900,
+  "name": "LogosGuard",
+  "slug": "logosguard",
+  "former_names": [
+    "Logos AI"
+  ],
+  "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/028016b5518081901c8e2d5a5483ea0f04a88946.png",
+  "website": "https://logosguard.com/",
+  "all_locations": "San Francisco, CA, USA",
+  "long_description": "Use AI tools like ChatGPT, Claude, and Gemini safely without leaking sensitive data. LogosGuard redacts your private information before the prompt ever leaves your device.",
+  "one_liner": "The sensitive data redaction layer for AI",
+  "team_size": 2,
+  "industry": "B2B",
+  "subindustry": "B2B",
+  "launched_at": 1762810607,
+  "tags": [
+    "Artificial Intelligence",
+    "B2B",
+    "Compliance",
+    "Security",
+    "Cybersecurity"
+  ],
+  "tags_highlighted": [],
+  "top_company": false,
+  "isHiring": false,
+  "nonprofit": false,
+  "batch": "Fall 2025",
+  "status": "Active",
+  "industries": [
+    "B2B"
+  ],
+  "regions": [
+    "United States of America",
+    "America / Canada"
+  ],
+  "stage": "Early",
+  "app_video_public": false,
+  "demo_day_video_public": false,
+  "app_answers": null,
+  "question_answers": false,
+  "url": "https://www.ycombinator.com/companies/logosguard",
+  "api": "https://prajjwal2-3.github.io/yc-data/batches/fall-2025/logosguard.json"
+}

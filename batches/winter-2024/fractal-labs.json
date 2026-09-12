@@ -1,0 +1,39 @@
+{
+  "id": 29274,
+  "name": "Fractal Labs",
+  "slug": "fractal-labs",
+  "former_names": [
+    "DaLMatian.ai",
+    "DaLMatian"
+  ],
+  "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/62ed66cf02e4f3325860639cb82fd47ea3c68dc0.png",
+  "website": "https://fractal-labs.gg/",
+  "all_locations": "New York City, NY, USA",
+  "long_description": "",
+  "one_liner": "",
+  "team_size": 4,
+  "industry": "Consumer",
+  "subindustry": "Consumer",
+  "launched_at": 1705255239,
+  "tags": [],
+  "tags_highlighted": [],
+  "top_company": false,
+  "isHiring": false,
+  "nonprofit": false,
+  "batch": "Winter 2024",
+  "status": "Active",
+  "industries": [
+    "Consumer"
+  ],
+  "regions": [
+    "United States of America",
+    "America / Canada"
+  ],
+  "stage": "Early",
+  "app_video_public": false,
+  "demo_day_video_public": false,
+  "app_answers": null,
+  "question_answers": false,
+  "url": "https://www.ycombinator.com/companies/fractal-labs",
+  "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2024/fractal-labs.json"
+}

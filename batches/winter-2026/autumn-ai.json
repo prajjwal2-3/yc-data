@@ -1,0 +1,39 @@
+{
+  "id": 30715,
+  "name": "Autumn AI",
+  "slug": "autumn-ai",
+  "former_names": [
+    "Chiral Labs"
+  ],
+  "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c561ac3ff3132e3dda05b6de7836b2d1b55ed1aa.png",
+  "website": "https://autumn.ai",
+  "all_locations": "San Francisco, CA, USA",
+  "long_description": "Autumn is building the world’s most comprehensive index of people and companies.\r\n\r\nInformation about anyone is scattered across profiles, filings, event pages, code, posts, news, and the rest of the open web. Autumn reads across these sources, determines which records belong together, and creates a complete, source-backed profile of people and companies - including relationships, work history, contact information, and digital footprint.\r\n\r\nSearch for anyone, build a cohort, or research a company through our API.",
+  "one_liner": "Everything on anyone.",
+  "team_size": 2,
+  "industry": "B2B",
+  "subindustry": "B2B -> Infrastructure",
+  "launched_at": 1770313792,
+  "tags": [],
+  "tags_highlighted": [],
+  "top_company": false,
+  "isHiring": false,
+  "nonprofit": false,
+  "batch": "Winter 2026",
+  "status": "Active",
+  "industries": [
+    "B2B",
+    "Infrastructure"
+  ],
+  "regions": [
+    "United States of America",
+    "America / Canada"
+  ],
+  "stage": "Early",
+  "app_video_public": false,
+  "demo_day_video_public": false,
+  "app_answers": null,
+  "question_answers": false,
+  "url": "https://www.ycombinator.com/companies/autumn-ai",
+  "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2026/autumn-ai.json"
+}

@@ -1,0 +1,38 @@
+{
+  "id": 31391,
+  "name": "HEVN, inc",
+  "slug": "hevn-inc",
+  "former_names": [],
+  "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9670403b854641364928ce34e110c0d9752c9d8d.png",
+  "website": "https://gethevn.com",
+  "all_locations": "San Francisco, CA, USA",
+  "long_description": "HEVN is a B2B financial platform built for global commerce. We solve the last-mile problem in cross-border payments by working with licensed local payment service providers and settling transactions through domestic payment rails instead of relying on international bank transfers.\r\n\r\nHEVN helps importers and exporters move money between jurisdictions with fewer intermediaries and faster, more predictable settlement. ",
+  "one_liner": "Cross-border payments for exporters of physical goods.",
+  "team_size": 8,
+  "industry": "Fintech",
+  "subindustry": "Fintech",
+  "launched_at": 1777498705,
+  "tags": [],
+  "tags_highlighted": [],
+  "top_company": false,
+  "isHiring": false,
+  "nonprofit": false,
+  "batch": "Spring 2026",
+  "status": "Active",
+  "industries": [
+    "Fintech"
+  ],
+  "regions": [
+    "United States of America",
+    "America / Canada",
+    "Remote",
+    "Partly Remote"
+  ],
+  "stage": "Early",
+  "app_video_public": false,
+  "demo_day_video_public": false,
+  "app_answers": null,
+  "question_answers": false,
+  "url": "https://www.ycombinator.com/companies/hevn-inc",
+  "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/hevn-inc.json"
+}

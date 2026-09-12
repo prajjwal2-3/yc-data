@@ -1,0 +1,40 @@
+{
+  "id": 30284,
+  "name": "Exla",
+  "slug": "exla",
+  "former_names": [],
+  "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/94cd00784e37842fc455ee2fd7b22d487b0693cf.png",
+  "website": "https://exla.ai/",
+  "all_locations": "San Francisco, CA, USA",
+  "long_description": "Exla is your 24/7 AI SRE agent. It reads your production logs, traces, and deploys, and holds full context on your codebase. It establishes a live baseline of normal behavior, so when something silently regresses, it catches the deviation immediately, pins it to the exact commit that caused it, and opens a fix PR. No paging a human at 3am, no digging through dashboards to find what changed.\r\n\r\nhttps://cal.com/exla-ai/schedule",
+  "one_liner": "Building agents that reads logs and fixes issues on your behalf.",
+  "team_size": 2,
+  "industry": "B2B",
+  "subindustry": "B2B -> Infrastructure",
+  "launched_at": 1740012412,
+  "tags": [
+    "Artificial Intelligence",
+    "Infrastructure"
+  ],
+  "tags_highlighted": [],
+  "top_company": false,
+  "isHiring": false,
+  "nonprofit": false,
+  "batch": "Winter 2025",
+  "status": "Active",
+  "industries": [
+    "B2B",
+    "Infrastructure"
+  ],
+  "regions": [
+    "United States of America",
+    "America / Canada"
+  ],
+  "stage": "Early",
+  "app_video_public": false,
+  "demo_day_video_public": false,
+  "app_answers": null,
+  "question_answers": false,
+  "url": "https://www.ycombinator.com/companies/exla",
+  "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2025/exla.json"
+}

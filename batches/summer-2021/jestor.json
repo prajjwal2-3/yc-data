@@ -1,0 +1,46 @@
+{
+  "id": 23973,
+  "name": "Jestor",
+  "slug": "jestor",
+  "former_names": [
+    "jestor"
+  ],
+  "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ed71eb78590220cc6aa2f5441853b5ee33591ba5.png",
+  "website": "https://jestor.com",
+  "all_locations": "San Francisco, CA, USA",
+  "long_description": "Stop vibecoding internal tools nobody can maintain. Get apps, tables, forms, dashboards, and AI automations built for your process, on infrastructure that already handles permissions, data, and integrations. Your team just opens the app. Unlimited users, pause anytime.",
+  "one_liner": "Saving OPS from SLOPS. Jestor builds internal systems that last.",
+  "team_size": 12,
+  "industry": "B2B",
+  "subindustry": "B2B -> Productivity",
+  "launched_at": 1626482465,
+  "tags": [
+    "B2B",
+    "Productivity",
+    "Operations",
+    "AI"
+  ],
+  "tags_highlighted": [],
+  "top_company": false,
+  "isHiring": false,
+  "nonprofit": false,
+  "batch": "Summer 2021",
+  "status": "Active",
+  "industries": [
+    "B2B",
+    "Productivity"
+  ],
+  "regions": [
+    "United States of America",
+    "America / Canada",
+    "Remote",
+    "Partly Remote"
+  ],
+  "stage": "Early",
+  "app_video_public": false,
+  "demo_day_video_public": false,
+  "app_answers": null,
+  "question_answers": false,
+  "url": "https://www.ycombinator.com/companies/jestor",
+  "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2021/jestor.json"
+}

@@ -1,0 +1,42 @@
+{
+  "id": 27142,
+  "name": "Invofox",
+  "slug": "invofox",
+  "former_names": [],
+  "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1f26d831f2c3961adfb05a98f923a285cd1aa50e.png",
+  "website": "https://invofox.com?utm_source=yc",
+  "all_locations": "Madrid, Community of Madrid, Spain; Remote",
+  "long_description": "Software teams in 150+ companies solve their document processing needs using Invofox.\r\nWe are a good option for you if:\r\n- Great accuracy is a requirement in your business (we guarantee +99% as part of our SLAs, written in our contracts)\r\n- You want a simple and easy to understand pricing (we charge per page, and any documents were you report back an error are completely free)\r\n- You want a system that just works, and that gets better over time (Invofox learns automatically with feedback)\r\n\r\nYou can try it with this link and get an extra 250 pages for free: https://go.invofox.com/ooVVIw",
+  "one_liner": "Invofox is the document parsing and data extraction API for software…",
+  "team_size": 12,
+  "industry": "B2B",
+  "subindustry": "B2B -> Finance and Accounting",
+  "launched_at": 1660657383,
+  "tags": [
+    "Fintech",
+    "AI"
+  ],
+  "tags_highlighted": [],
+  "top_company": false,
+  "isHiring": false,
+  "nonprofit": false,
+  "batch": "Summer 2022",
+  "status": "Active",
+  "industries": [
+    "B2B",
+    "Finance and Accounting"
+  ],
+  "regions": [
+    "Spain",
+    "Europe",
+    "Remote",
+    "Fully Remote"
+  ],
+  "stage": "Early",
+  "app_video_public": false,
+  "demo_day_video_public": false,
+  "app_answers": null,
+  "question_answers": false,
+  "url": "https://www.ycombinator.com/companies/invofox",
+  "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2022/invofox.json"
+}

@@ -1,0 +1,46 @@
+{
+  "id": 30108,
+  "name": "Struct",
+  "slug": "struct-ai",
+  "former_names": [
+    "Bramble",
+    "Edgedive"
+  ],
+  "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f292fd64c9e2943d040e390cd2700e19b243bb8c.png",
+  "website": "https://struct.ai",
+  "all_locations": "San Francisco, CA, USA",
+  "long_description": "Struct autonomously investigates alerts and incidents using telemetry, code, and databases. It centralizes tribal knowledge for oncall teams by learning the system and generating oncall runbooks.\r\n\r\nOnboarding takes 5 minutes.\r\n",
+  "one_liner": "Agents that keep prod running",
+  "team_size": 3,
+  "industry": "B2B",
+  "subindustry": "B2B -> Engineering, Product and Design",
+  "launched_at": 1727386579,
+  "tags": [
+    "Artificial Intelligence",
+    "Developer Tools",
+    "B2B",
+    "DevOps",
+    "Enterprise Software"
+  ],
+  "tags_highlighted": [],
+  "top_company": false,
+  "isHiring": false,
+  "nonprofit": false,
+  "batch": "Fall 2024",
+  "status": "Active",
+  "industries": [
+    "B2B",
+    "Engineering, Product and Design"
+  ],
+  "regions": [
+    "United States of America",
+    "America / Canada"
+  ],
+  "stage": "Early",
+  "app_video_public": false,
+  "demo_day_video_public": false,
+  "app_answers": null,
+  "question_answers": false,
+  "url": "https://www.ycombinator.com/companies/struct-ai",
+  "api": "https://prajjwal2-3.github.io/yc-data/batches/fall-2024/struct-ai.json"
+}

@@ -1,0 +1,41 @@
+{
+  "id": 32124,
+  "name": "Erinys",
+  "slug": "erinys",
+  "former_names": [],
+  "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3ecec9425d412cfc7fa1460b155883f078a7f023.png",
+  "website": "https://erinys.ai",
+  "all_locations": "San Francisco, CA, USA",
+  "long_description": "Erinys provides the technology, intake, back office, and client acquisition needed to launch and scale an AI-native law firm. Lawyers own their firms and make every legal decision; Erinys handles everything around them.",
+  "one_liner": "We help lawyers start and scale AI-native law firms.",
+  "team_size": 3,
+  "industry": "B2B",
+  "subindustry": "B2B -> Legal",
+  "launched_at": 1786258271,
+  "tags": [
+    "Artificial Intelligence",
+    "Legal",
+    "LegalTech"
+  ],
+  "tags_highlighted": [],
+  "top_company": false,
+  "isHiring": false,
+  "nonprofit": false,
+  "batch": "Summer 2026",
+  "status": "Active",
+  "industries": [
+    "B2B",
+    "Legal"
+  ],
+  "regions": [
+    "United States of America",
+    "America / Canada"
+  ],
+  "stage": "Early",
+  "app_video_public": false,
+  "demo_day_video_public": false,
+  "app_answers": null,
+  "question_answers": false,
+  "url": "https://www.ycombinator.com/companies/erinys",
+  "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2026/erinys.json"
+}

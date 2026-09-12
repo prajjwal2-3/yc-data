@@ -1,0 +1,49 @@
+{
+  "id": 30042,
+  "name": "Vortexify",
+  "slug": "vortexify",
+  "former_names": [
+    "Praxis AI",
+    "Vortexify AI",
+    "VortexifyAI"
+  ],
+  "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/cb3be511411bbaed481f911d10c8dcbfcfbc8735.png",
+  "website": "https://www.vortexify.ai",
+  "all_locations": "New York City, NY, USA",
+  "long_description": "Vortexify is an AI app builder for full-stack, internal business apps. Businesses such as manufacturers, hospitals and logistics services use Vortexify to solve complex, operational problems such as scheduling, process optimization, forecasting, root cause analysis and scenario planning.\r\n\r\nOur agents encode business logic by mapping operational problems to the data in your systems and collaborating with domain experts. Operations teams can build apps without writing code. Engineering teams can edit and manage agent written code at any time.\r\n\r\nVortexify builds applications beyond simple dashboards with native support for databases, scheduled tasks, optimization solvers, machine learning models, data pipelines, API calls and more. Our secure, managed infrastructure enables our agents to build quickly and get it right the first time.\r\n\r\nSolve your hardest operations problems today! Create a free account to get started. For additional technical services or support, contact us or book a demo.",
+  "one_liner": "Build full-stack applications for business operations with AI",
+  "team_size": 2,
+  "industry": "B2B",
+  "subindustry": "B2B -> Operations",
+  "launched_at": 1732148257,
+  "tags": [
+    "Artificial Intelligence",
+    "Supply Chain",
+    "Big Data",
+    "Operations",
+    "AI Assistant"
+  ],
+  "tags_highlighted": [],
+  "top_company": false,
+  "isHiring": false,
+  "nonprofit": false,
+  "batch": "Fall 2024",
+  "status": "Active",
+  "industries": [
+    "B2B",
+    "Operations"
+  ],
+  "regions": [
+    "United States of America",
+    "America / Canada",
+    "Remote",
+    "Partly Remote"
+  ],
+  "stage": "Early",
+  "app_video_public": false,
+  "demo_day_video_public": false,
+  "app_answers": null,
+  "question_answers": false,
+  "url": "https://www.ycombinator.com/companies/vortexify",
+  "api": "https://prajjwal2-3.github.io/yc-data/batches/fall-2024/vortexify.json"
+}

@@ -1,0 +1,41 @@
+{
+  "id": 30861,
+  "name": "Caddy",
+  "slug": "caddy",
+  "former_names": [],
+  "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4a18ef62feeed4267cb16429f2de1d3e6abbb159.png",
+  "website": "https://caddy.app/",
+  "all_locations": "New York City, NY, USA",
+  "long_description": "If you’ve got a lot to do, we believe AI can make things feel doable. Caddy is our core product: a Personal AI that helps you stay on top of everything going on. All you have to do is text. \r\n\r\nOn overwhelming days, it’s super simple to just drop any task in a text thread, and Caddy will help you handle it. Caddy also keeps an eye on your calendars, chats and tasks to make sure you stay focused on what matters. If something needs you, Caddy will nudge you, or can just do it if you don’t have time. \r\n\r\nThe best part is, no two Caddys are alike. The more you use Caddy, the more it learns your vibe, how you work, and what you care about. ",
+  "one_liner": "Your Personal AI for everyday work. Lives in your texts.",
+  "team_size": 5,
+  "industry": "B2B",
+  "subindustry": "B2B -> Engineering, Product and Design",
+  "launched_at": 1761153567,
+  "tags": [
+    "Artificial Intelligence",
+    "Automation",
+    "AI Assistant"
+  ],
+  "tags_highlighted": [],
+  "top_company": false,
+  "isHiring": false,
+  "nonprofit": false,
+  "batch": "Fall 2025",
+  "status": "Active",
+  "industries": [
+    "B2B",
+    "Engineering, Product and Design"
+  ],
+  "regions": [
+    "United States of America",
+    "America / Canada"
+  ],
+  "stage": "Early",
+  "app_video_public": false,
+  "demo_day_video_public": false,
+  "app_answers": null,
+  "question_answers": false,
+  "url": "https://www.ycombinator.com/companies/caddy",
+  "api": "https://prajjwal2-3.github.io/yc-data/batches/fall-2025/caddy.json"
+}

@@ -1,0 +1,44 @@
+{
+  "id": 30259,
+  "name": "Asteroid",
+  "slug": "asteroid",
+  "former_names": [
+    "Entropy Labs"
+  ],
+  "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4598dd293d773fa0a9a1c72940f2f2e3153dda35.png",
+  "website": "https://asteroid.ai",
+  "all_locations": "San Francisco, CA, USA",
+  "long_description": "Asteroid is the AI-powered integration layer for healthcare. One connector for EHRs, payer portals, and legacy desktop systems, with 100+ pre-built integrations that go live in days, not months. Built for developers and operations teams, with integrations that maintain themselves.",
+  "one_liner": "The integration layer for healthcare: EHRs, payer portals & more ",
+  "team_size": 8,
+  "industry": "B2B",
+  "subindustry": "B2B",
+  "launched_at": 1734639467,
+  "tags": [
+    "Artificial Intelligence",
+    "Robotic Process Automation",
+    "Health Tech",
+    "B2B",
+    "Automation"
+  ],
+  "tags_highlighted": [],
+  "top_company": false,
+  "isHiring": false,
+  "nonprofit": false,
+  "batch": "Winter 2025",
+  "status": "Active",
+  "industries": [
+    "B2B"
+  ],
+  "regions": [
+    "United States of America",
+    "America / Canada"
+  ],
+  "stage": "Early",
+  "app_video_public": false,
+  "demo_day_video_public": false,
+  "app_answers": null,
+  "question_answers": false,
+  "url": "https://www.ycombinator.com/companies/asteroid",
+  "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2025/asteroid.json"
+}

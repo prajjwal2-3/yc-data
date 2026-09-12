@@ -1,0 +1,37 @@
+{
+  "id": 31172,
+  "name": "Terminal Use",
+  "slug": "terminal-use",
+  "former_names": [],
+  "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7c1f9c6555570a59695390a5a40a26ba79862a09.png",
+  "website": "https://www.terminaluse.com/",
+  "all_locations": "San Francisco, CA, USA",
+  "long_description": "AI pilots are everywhere. Few organizations can point to a department that actually runs AI-first. Terminal Use changes that.\r\n\r\nWe help operations teams rebuild how work gets done, end to end. We begin with one critical process, map how it runs today and where it breaks, then redesign the workflow around AI agents, existing systems, and people at the right control points.\r\nThe result is a working AI-first process, measurable operational change, and a blueprint for transforming the broader department.\r\n\r\nFounded by ex-Palantir FDEs and engineers working on transformation at scale, Terminal Use works across construction, logistics, manufacturing, retail, and other complex operating environments.",
+  "one_liner": "AI-native transformation for operations-heavy companies",
+  "team_size": 4,
+  "industry": "B2B",
+  "subindustry": "B2B -> Operations",
+  "launched_at": 1770866075,
+  "tags": [],
+  "tags_highlighted": [],
+  "top_company": false,
+  "isHiring": false,
+  "nonprofit": false,
+  "batch": "Winter 2026",
+  "status": "Active",
+  "industries": [
+    "B2B",
+    "Operations"
+  ],
+  "regions": [
+    "United States of America",
+    "America / Canada"
+  ],
+  "stage": "Early",
+  "app_video_public": false,
+  "demo_day_video_public": false,
+  "app_answers": null,
+  "question_answers": false,
+  "url": "https://www.ycombinator.com/companies/terminal-use",
+  "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2026/terminal-use.json"
+}

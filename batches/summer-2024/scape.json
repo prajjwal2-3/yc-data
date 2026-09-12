@@ -1,0 +1,46 @@
+{
+  "id": 29671,
+  "name": "Scape",
+  "slug": "scape",
+  "former_names": [
+    "Reworks",
+    "reworks"
+  ],
+  "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/da2a18f57eb383e7b549123ed7951b996d544ab5.png",
+  "website": "https://scape.app",
+  "all_locations": "Stockholm, Stockholm County, Sweden",
+  "long_description": "Scape is the intelligent email inbox, built for the one billion professionals who spend most of their workday in email. Designed to work proactively, Scape surfaces only the emails that need attention and prepares drafted responses, ready to review and send.",
+  "one_liner": "The intelligent inbox that works for you",
+  "team_size": 5,
+  "industry": "B2B",
+  "subindustry": "B2B -> Productivity",
+  "launched_at": 1724272483,
+  "tags": [
+    "Artificial Intelligence",
+    "Generative AI",
+    "SaaS",
+    "API",
+    "AI"
+  ],
+  "tags_highlighted": [],
+  "top_company": false,
+  "isHiring": false,
+  "nonprofit": false,
+  "batch": "Summer 2024",
+  "status": "Active",
+  "industries": [
+    "B2B",
+    "Productivity"
+  ],
+  "regions": [
+    "Sweden",
+    "Europe"
+  ],
+  "stage": "Early",
+  "app_video_public": false,
+  "demo_day_video_public": false,
+  "app_answers": null,
+  "question_answers": false,
+  "url": "https://www.ycombinator.com/companies/scape",
+  "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2024/scape.json"
+}

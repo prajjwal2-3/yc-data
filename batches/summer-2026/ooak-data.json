@@ -1,0 +1,41 @@
+{
+  "id": 32554,
+  "name": "Ooak Data",
+  "slug": "ooak-data",
+  "former_names": [],
+  "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ad1b7cce12014a7746a7f8b912560717f6e2f037.png",
+  "website": "https://ooakdata.com/",
+  "all_locations": "San Francisco, CA, USA",
+  "long_description": "Ooak Data turns internal company data into a training ground where AI agents can be tested on real work.\r\n",
+  "one_liner": "We turn company data into training data",
+  "team_size": 5,
+  "industry": "B2B",
+  "subindustry": "B2B",
+  "launched_at": 1783922301,
+  "tags": [
+    "Artificial Intelligence",
+    "Reinforcement Learning"
+  ],
+  "tags_highlighted": [],
+  "top_company": false,
+  "isHiring": true,
+  "nonprofit": false,
+  "batch": "Summer 2026",
+  "status": "Active",
+  "industries": [
+    "B2B"
+  ],
+  "regions": [
+    "United States of America",
+    "America / Canada",
+    "Remote",
+    "Partly Remote"
+  ],
+  "stage": "Early",
+  "app_video_public": false,
+  "demo_day_video_public": false,
+  "app_answers": null,
+  "question_answers": false,
+  "url": "https://www.ycombinator.com/companies/ooak-data",
+  "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2026/ooak-data.json"
+}

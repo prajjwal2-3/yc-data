@@ -1,0 +1,44 @@
+{
+  "id": 25338,
+  "name": "Cozmo AI",
+  "slug": "cozmo-ai",
+  "former_names": [
+    "Zywa",
+    "CozmoX AI"
+  ],
+  "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9b22096b578ff14b789d9b1882b55f7dc73e26f3.png",
+  "website": "https://www.hellocozmo.ai/",
+  "all_locations": "San Francisco, CA, USA",
+  "long_description": "Cozmo AI helps restoration franchisors, TPAs and adjusters put agents to work on US property insurance claims. Agents are autonomous AI workers that answer intake across all channels, coordinate crews and write up losses. Putting them to work means deploying across the full claim, from first notice of loss to crew dispatch and damage estimate to supplement approval. Work that took human teams days to weeks closes in minutes.\r\n\r\nCozmo is an operating system for the whole claim, end to end, and it runs on top of the estimating software, CRM and phone system already in place. Nothing gets ripped out and nothing gets migrated.\r\n\r\nThis allows operators to run more jobs per adjuster and send estimates that clear review the first time. On the carrier side, the same work cuts cycle time to hours and leaves a line-item record of every loss, so risk can be priced by property instead of by ZIP code.\r\n\r\nCozmo's platform captures context from every claim it touches and gets sharper with each one.\r\n\r\nGo to hellocozmo.ai and book a demo to see the Cozmo AI agents in action.",
+  "one_liner": "End-to-end AI agents for property claims, from loss report to estimate",
+  "team_size": 5,
+  "industry": "B2B",
+  "subindustry": "B2B",
+  "launched_at": 1644299294,
+  "tags": [
+    "Artificial Intelligence",
+    "Insurance",
+    "Enterprise",
+    "Conversational AI"
+  ],
+  "tags_highlighted": [],
+  "top_company": false,
+  "isHiring": true,
+  "nonprofit": false,
+  "batch": "Winter 2022",
+  "status": "Active",
+  "industries": [
+    "B2B"
+  ],
+  "regions": [
+    "United States of America",
+    "America / Canada"
+  ],
+  "stage": "Early",
+  "app_video_public": false,
+  "demo_day_video_public": false,
+  "app_answers": null,
+  "question_answers": false,
+  "url": "https://www.ycombinator.com/companies/cozmo-ai",
+  "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2022/cozmo-ai.json"
+}

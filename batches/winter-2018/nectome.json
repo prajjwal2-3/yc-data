@@ -1,0 +1,41 @@
+{
+  "id": 1767,
+  "name": "Nectome",
+  "slug": "nectome",
+  "former_names": [],
+  "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/11927d4ef4719b09f11846ce29e426087c662622.png",
+  "website": "https://nectome.com/",
+  "all_locations": "Portland, OR, USA",
+  "long_description": "Nectome has created a new method for whole-body, whole-brain, human end-of-life preservation for the purpose of future revival. Our protocol is capable of preserving every synapse and every cell in the body with enough detail that current neuroscience says long-term memories are preserved. It's compatible with traditional funerals at room temperature and stable for hundreds of years at cold temperatures.",
+  "one_liner": "Human whole body end-of-life preservation for later revival.",
+  "team_size": 9,
+  "industry": "Healthcare",
+  "subindustry": "Healthcare -> Therapeutics",
+  "launched_at": 1509602625,
+  "tags": [
+    "Neurotechnology",
+    "Biotech",
+    "Healthcare"
+  ],
+  "tags_highlighted": [],
+  "top_company": false,
+  "isHiring": false,
+  "nonprofit": false,
+  "batch": "Winter 2018",
+  "status": "Active",
+  "industries": [
+    "Healthcare",
+    "Therapeutics"
+  ],
+  "regions": [
+    "United States of America",
+    "America / Canada"
+  ],
+  "stage": "Early",
+  "app_video_public": false,
+  "demo_day_video_public": false,
+  "app_answers": null,
+  "question_answers": false,
+  "url": "https://www.ycombinator.com/companies/nectome",
+  "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2018/nectome.json"
+}

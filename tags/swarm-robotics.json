@@ -1,0 +1,177 @@
+[
+  {
+    "id": 29698,
+    "name": "AutoPallet Robotics",
+    "slug": "autopallet-robotics",
+    "former_names": [
+      "Anteatr Robotics"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d2f0c4ca0e1ee62abec263fe32fc601c69e08139.png",
+    "website": "https://autopallet.bot",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "We’re building the next generation of warehouse robotics.\r\n\r\nIn the US today, retailers spend approximately $10B per year paying human laborers to pick up and move cardboard boxes in warehouses. Existing solutions for automating this are expensive and difficult to install, which is why manual operation is still so prevalent.\r\n\r\nOur solution is different. We make swarms of small mobile robots that install into existing warehouses to provide a low-cost and robust automation solution for case picking and mixed-SKU palletization. Our novel technology allows these robots to be installed and operate at significantly lower cost than existing solutions while being both flexible and robust.",
+    "one_liner": "We make robots that move boxes in warehouses",
+    "team_size": 6,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Manufacturing and Robotics",
+    "launched_at": 1723496700,
+    "tags": [
+      "Hard Tech",
+      "Machine Learning",
+      "Warehouse Management Tech",
+      "Swarm Robotics",
+      "Automation"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2024",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Manufacturing and Robotics"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": true,
+    "url": "https://www.ycombinator.com/companies/autopallet-robotics",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2024/autopallet-robotics.json"
+  },
+  {
+    "id": 32188,
+    "name": "IMPACT Drones",
+    "slug": "impact-drones",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c7df3a5c9dfd6e7d9865e24f95f172c997a7183b.png",
+    "website": "https://www.impact-drones.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "IMPACT builds autonomous interceptor drones that ship in sealed containers. The box sits at the site it protects, data centers, power grids, airports, bases, with no crew on the pad. When sensors cue a hostile drone, an interceptor pierces its own frangible lid, launches, and rams the target, guided by onboard vision that keeps working when GPS is jammed. Legacy effectors cost $1M+ per shot against $30k threats; ours cost less than the threat and scale with the swarm, the same class of interceptor already downing Shahed drones over Ukraine. Sites subscribe to protection instead of buying missiles, hardware, reloads and monitoring included: Air Defense as a Service. 180M+ USD in signed letters of intent.",
+    "one_liner": "Air Defense as a Service for Civilian Infrastructure.",
+    "team_size": 2,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Defense",
+    "launched_at": 1785702345,
+    "tags": [
+      "Artificial Intelligence",
+      "Hardware",
+      "Drones",
+      "Swarm Robotics"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Defense"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/impact-drones",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2026/impact-drones.json"
+  },
+  {
+    "id": 32781,
+    "name": "Isengard Industries Inc",
+    "slug": "isengard-industries-inc",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/17f019cfd01fa25a85e88f6a43f39d133e5ecaff.png",
+    "website": "http://isengardindustries.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Isengard Industries is not another drone company.\r\n\r\nWe build sovereign production: the means for allied nations to make precision-strike and counter-drone systems by the thousand, on their own soil, at a fraction of what the primes charge.\r\n\r\nWe call it Weapons of Mass Production. The Arsenal of Democracy, rebuilt for the drone age.\r\n\r\nMore to come, and only where it helps. You know how to reach us.",
+    "one_liner": "Mass-produced AI strike systems and Counter-UAS",
+    "team_size": 30,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Defense",
+    "launched_at": 1782404945,
+    "tags": [
+      "Artificial Intelligence",
+      "Swarm Robotics",
+      "Unmanned Vehicle"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Defense"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/isengard-industries-inc",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2026/isengard-industries-inc.json"
+  },
+  {
+    "id": 33281,
+    "name": "Earendil Robotics",
+    "slug": "earendil-robotics",
+    "former_names": [
+      "Earendil Robotics Ltd"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/39ec6212427cdf833238bd48eca01f40904ba49f.png",
+    "website": "https://earendil.io",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Earendil Robotics builds cUAS solutions for the modern warfighter, enabling effective air defence at the small-unit level. We deliver spotting, engaging, and destroying capabilities through advanced sensors, autonomous interceptors, and integrated systems.\r\n\r\nOur product lineup covers every stage of the kill chain, complemented by the Drone Warfare Academy that trains soldiers to eliminate enemy drone threats in contested environments.\r\n\r\nBacked by worldwide frontline combat experience, we equip units with combat-proven tools to counter evolving aerial threats.",
+    "one_liner": "Drone swarm defence at a small-unit level",
+    "team_size": 7,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Defense",
+    "launched_at": 1783628748,
+    "tags": [
+      "Drones",
+      "Swarm Robotics",
+      "AR"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Defense"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/earendil-robotics",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2026/earendil-robotics.json"
+  }
+]

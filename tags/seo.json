@@ -1,0 +1,226 @@
+[
+  {
+    "id": 187,
+    "name": "DemandSphere",
+    "slug": "demandsphere",
+    "former_names": [
+      "Ginza"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0a6238d6a169f2a7cfa9e5f25562e94956a1e0f5.png",
+    "website": "https://www.demandsphere.com/",
+    "all_locations": "Columbus, OH, USA",
+    "long_description": "DemandSphere enables ecommerce and programmatic SEO teams, both in-house and agency, to drive more traffic from organic search. Our DemandMetrics platform is our core monitoring platform that turns massive amounts of SERP and market data into prioritized insights for growth. Our SERP Intelligence data warehouse accelerates our customer's ability to detect and respond to changes in the search landscape. ",
+    "one_liner": "SEO & Content Marketing Intelligence",
+    "team_size": 40,
+    "industry": "B2B",
+    "subindustry": "B2B -> Marketing",
+    "launched_at": 1326790135,
+    "tags": [
+      "Marketing",
+      "SEO"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2010",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Marketing"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/demandsphere",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2010/demandsphere.json"
+  },
+  {
+    "id": 23860,
+    "name": "Positional",
+    "slug": "positional",
+    "former_names": [
+      "ContainIQ"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/75fcad3beb96d8a2706d8564e5d492e75be91b66.png",
+    "website": "https://www.positional.com",
+    "all_locations": "Charleston, SC, USA; Hoboken, NJ, USA",
+    "long_description": "Start, grow, and scale your inbound marketing and SEO strategy with a toolset optimized for results — not vanity metrics. Our goal is to connect the workflow from end to end, from keyword research to analytics, and the actions that users take that ultimately drive revenue for a business.",
+    "one_liner": "A modern platform for content marketing & SEO.",
+    "team_size": 5,
+    "industry": "B2B",
+    "subindustry": "B2B -> Marketing",
+    "launched_at": 1625660571,
+    "tags": [
+      "SaaS",
+      "Marketing",
+      "SEO"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2021",
+    "status": "Acquired",
+    "industries": [
+      "B2B",
+      "Marketing"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/positional",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2021/positional.json"
+  },
+  {
+    "id": 25656,
+    "name": "Siftly",
+    "slug": "siftly",
+    "former_names": [
+      "Tingo",
+      "Airdot"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/63e375b78f3b00638a6032725c25f63fb3f3cc2a.png",
+    "website": "https://siftly.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Siftly helps brands measure, improve, and scale their visibility inside AI assistants like ChatGPT, Gemini, and Perplexity.\r\nWe track how your brand is surfaced, compared, and recommended and give you actionable insights to win AI-driven discovery.\r\nThink of it as SEO for the AI era, built for B2B, B2C, D2C, and e-commerce growth teams.",
+    "one_liner": "Get your brand discovered and recommended by ChatGPT",
+    "team_size": 4,
+    "industry": "B2B",
+    "subindustry": "B2B -> Analytics",
+    "launched_at": 1647245407,
+    "tags": [
+      "Artificial Intelligence",
+      "SEO",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2022",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Analytics"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/siftly",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2022/siftly.json"
+  },
+  {
+    "id": 30033,
+    "name": "Openbenchmarks",
+    "slug": "openbenchmarks",
+    "former_names": [
+      "OpenFunnel"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fba2fe192898aad8d25d7bcb8cef6e121485b633.png",
+    "website": "https://openbenchmarks.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Openbenchmarks runs open, independent benchmarks across APIs, vendors and tools. \r\nHelping teams fairly evaluate vendors.\r\n\r\nWe offer private benchmarking & analytics tools to help you measure your product against competitors, see exactly where you fall short, and fix it.",
+    "one_liner": "We help humans & agents pick tools via Independent Benchmarks",
+    "team_size": 4,
+    "industry": "B2B",
+    "subindustry": "B2B -> Marketing",
+    "launched_at": 1728361776,
+    "tags": [
+      "Artificial Intelligence",
+      "SaaS",
+      "B2B",
+      "SEO"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Fall 2024",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Marketing"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/openbenchmarks",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/fall-2024/openbenchmarks.json"
+  },
+  {
+    "id": 31463,
+    "name": "Armature",
+    "slug": "armature",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/cafd940f7349e6c612893fad752013b10458ce39.png",
+    "website": "https://armature.tech",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Coding agents like Claude Code, Codex and Cursor now decide which tools get installed in a codebase. Armature runs the real agents inside a panel of realistic repositories, measures whether they pick you, and works with your team on the docs, SDK and content changes that make them choose you. Every change is tested on real agent runs before it ships.\r\n\r\nOnce agents use your product, Armature shows you what users do with it through AI, with self-serve MCP analytics and evals that catch regressions before your users see them.",
+    "one_liner": "We get your product picked by coding agents.",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1778126369,
+    "tags": [
+      "Artificial Intelligence",
+      "Marketing",
+      "SEO",
+      "AI",
+      "APIs"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/armature",
+    "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/armature.json"
+  }
+]

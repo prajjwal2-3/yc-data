@@ -1,0 +1,40 @@
+{
+  "id": 33062,
+  "name": "Hubble",
+  "slug": "hubble-ai",
+  "former_names": [],
+  "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8d58ef930283a4163ee9544b3936abd1327a463a.png",
+  "website": "https://hubble.ai/",
+  "all_locations": "Seattle, WA, USA",
+  "long_description": "Hubble is the AI-native retrieval engine for medical records, delivered in one API. I scaled Grow Therapy to a $3B valuation; my cofounder built One Medical's first AI agents, now used by millions of patients. Four weeks in, we already have ten signed customers and 7-figure year-one revenue across platform and usage fees. Every new agentic use case across industries like legal, clinical trials, consumer health, insurance, needs a complete medical record, and today that still means faxes and phone calls. Hubble fixes that with voice and browser agents that reach the providers APIs can't, in a market worth $45B just in the verticals we've mapped so far.",
+  "one_liner": "AI-native retrieval engine for medical records",
+  "team_size": 2,
+  "industry": "Healthcare",
+  "subindustry": "Healthcare -> Healthcare IT",
+  "launched_at": 1784648214,
+  "tags": [
+    "B2B",
+    "Healthcare"
+  ],
+  "tags_highlighted": [],
+  "top_company": false,
+  "isHiring": false,
+  "nonprofit": false,
+  "batch": "Summer 2026",
+  "status": "Active",
+  "industries": [
+    "Healthcare",
+    "Healthcare IT"
+  ],
+  "regions": [
+    "United States of America",
+    "America / Canada"
+  ],
+  "stage": "Early",
+  "app_video_public": false,
+  "demo_day_video_public": false,
+  "app_answers": null,
+  "question_answers": false,
+  "url": "https://www.ycombinator.com/companies/hubble-ai",
+  "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2026/hubble-ai.json"
+}

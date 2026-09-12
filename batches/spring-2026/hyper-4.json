@@ -1,0 +1,37 @@
+{
+  "id": 31548,
+  "name": "Hyper",
+  "slug": "hyper-4",
+  "former_names": [],
+  "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/abd9dfc78c0e009619b79ba5da0e6cea61e1f72a.png",
+  "website": "https://heyhyper.ai",
+  "all_locations": "San Francisco, CA, USA",
+  "long_description": "Hyper is a shared brain that plugs into all information flowing inside a company, creates a self-maintaining knowledge graph, and makes your AI employees better and ultimately saves people time. Our in-house memory system scores at or above SOTA on most public benchmarks, and we've built a custom eval suite to measure our precision/recall metrics. In the last 12 days since launch, we've gotten top 5 / top 12 on hacker news & product hunt, onboarded 50+ teams, grown 0 to 1k MRR, and are scoping paid design pilots with co's like Razorpay and Snorkel AI. Our whole lives we've packaged hardcore engineering into beautifully simple products, and that's how we’ll win this platform shift.",
+  "one_liner": "Company brain that powers your AI employees",
+  "team_size": 2,
+  "industry": "B2B",
+  "subindustry": "B2B -> Productivity",
+  "launched_at": 1778140423,
+  "tags": [],
+  "tags_highlighted": [],
+  "top_company": false,
+  "isHiring": false,
+  "nonprofit": false,
+  "batch": "Spring 2026",
+  "status": "Active",
+  "industries": [
+    "B2B",
+    "Productivity"
+  ],
+  "regions": [
+    "United States of America",
+    "America / Canada"
+  ],
+  "stage": "Early",
+  "app_video_public": false,
+  "demo_day_video_public": false,
+  "app_answers": null,
+  "question_answers": false,
+  "url": "https://www.ycombinator.com/companies/hyper-4",
+  "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/hyper-4.json"
+}

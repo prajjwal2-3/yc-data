@@ -1,0 +1,48 @@
+{
+  "id": 29837,
+  "name": "RentFlow",
+  "slug": "rentflow",
+  "former_names": [
+    "Pastelle.",
+    "Mindley",
+    "Mindely"
+  ],
+  "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/83db64301a123c8f20195581b448254e59c1a24f.png",
+  "website": "https://www.therentflow.com",
+  "all_locations": "New York City, NY, USA",
+  "long_description": "RentFlow is tackling a hair-on-fire problem for small and medium businesses across the U.S.: the way their rent is paid each month is fundamentally misaligned with how cash actually comes in.\r\n\r\nWe’re building the infrastructure layer to fix that.\r\n\r\nToday, ~50% of U.S. businesses are late on rent in any given month. The rest face invisible struggles to pay on time, undermining their stability month after month.\r\n\r\nRentFlow is the first platform to turn fixed business rent into an AI-driven, cash-flow-synced product, underwritten in real time from transaction-level data to prevent financial issues before they even surface.",
+  "one_liner": "The AI infrastructure for cash-flow-aligned business rent",
+  "team_size": 3,
+  "industry": "B2B",
+  "subindustry": "B2B",
+  "launched_at": 1722719636,
+  "tags": [
+    "Fintech",
+    "Generative AI",
+    "SaaS",
+    "Payments",
+    "Proptech"
+  ],
+  "tags_highlighted": [],
+  "top_company": false,
+  "isHiring": true,
+  "nonprofit": false,
+  "batch": "Summer 2024",
+  "status": "Active",
+  "industries": [
+    "B2B"
+  ],
+  "regions": [
+    "United States of America",
+    "America / Canada",
+    "Remote",
+    "Partly Remote"
+  ],
+  "stage": "Early",
+  "app_video_public": false,
+  "demo_day_video_public": false,
+  "app_answers": null,
+  "question_answers": false,
+  "url": "https://www.ycombinator.com/companies/rentflow",
+  "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2024/rentflow.json"
+}

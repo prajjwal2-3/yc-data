@@ -1,0 +1,43 @@
+{
+  "id": 25307,
+  "name": "Sieve",
+  "slug": "sieve",
+  "former_names": [],
+  "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b247c36fd7cd016d5bb505d32429cd07b9acfcbb.png",
+  "website": "https://sievedata.com/",
+  "all_locations": "San Francisco, CA, USA",
+  "long_description": "Sieve builds the data and environments frontier AI labs use to train the next generation of multimodal systems.\r\n\r\nAI is moving beyond chatbots into video, audio, images, software, robotics, and interactive worlds. The next generation of models will need to understand how the world looks, sounds, moves, responds, and changes over time. Progress is bottlenecked by one thing: high-quality data.\r\n\r\nSieve brings together exabyte-scale infrastructure, novel multimodal understanding techniques, large-scale sourcing, and deep research partnerships to create datasets and environments with unmatched precision, quality, and speed. This has earned the trust of frontier AI labs, Fortune 100 companies, and fast-growing AI startups working on generative media, robotics, computer use, world models, and agentic systems.",
+  "one_liner": "The multimodal data lab",
+  "team_size": 34,
+  "industry": "B2B",
+  "subindustry": "B2B -> Infrastructure",
+  "launched_at": 1643510053,
+  "tags": [
+    "Developer Tools",
+    "Video",
+    "Data Labeling",
+    "Data Engineering",
+    "AI"
+  ],
+  "tags_highlighted": [],
+  "top_company": false,
+  "isHiring": true,
+  "nonprofit": false,
+  "batch": "Winter 2022",
+  "status": "Active",
+  "industries": [
+    "B2B",
+    "Infrastructure"
+  ],
+  "regions": [
+    "United States of America",
+    "America / Canada"
+  ],
+  "stage": "Growth",
+  "app_video_public": false,
+  "demo_day_video_public": false,
+  "app_answers": null,
+  "question_answers": false,
+  "url": "https://www.ycombinator.com/companies/sieve",
+  "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2022/sieve.json"
+}

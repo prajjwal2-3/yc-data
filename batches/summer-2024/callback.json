@@ -1,0 +1,42 @@
+{
+  "id": 29639,
+  "name": "Callback",
+  "slug": "callback",
+  "former_names": [],
+  "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/95750da7b7330678c36367adeb82ef6c7a2f5049.png",
+  "website": "https://getcallback.ai",
+  "all_locations": "San Francisco, CA, USA",
+  "long_description": "Leading enterprises use Callback to manage complicated, real-world workflows. We integrate with your systems, not the other way around. Our platform serves as an auditable and permissioned system of record for your operations.",
+  "one_liner": "Effortless AI automation for business operations",
+  "team_size": 2,
+  "industry": "B2B",
+  "subindustry": "B2B -> Operations",
+  "launched_at": 1723590693,
+  "tags": [
+    "AIOps",
+    "B2B",
+    "Automation",
+    "Operations"
+  ],
+  "tags_highlighted": [],
+  "top_company": false,
+  "isHiring": false,
+  "nonprofit": false,
+  "batch": "Summer 2024",
+  "status": "Active",
+  "industries": [
+    "B2B",
+    "Operations"
+  ],
+  "regions": [
+    "United States of America",
+    "America / Canada"
+  ],
+  "stage": "Early",
+  "app_video_public": false,
+  "demo_day_video_public": false,
+  "app_answers": null,
+  "question_answers": false,
+  "url": "https://www.ycombinator.com/companies/callback",
+  "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2024/callback.json"
+}

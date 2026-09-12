@@ -1,0 +1,45 @@
+{
+  "id": 29263,
+  "name": "Alex",
+  "slug": "alex-com",
+  "former_names": [
+    "Apriora"
+  ],
+  "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/98b76c25c75fac04ce234cc570b0dd988698507a.png",
+  "website": "https://alex.com",
+  "all_locations": "San Francisco, CA, USA",
+  "long_description": "Alex interviews, screens, and schedules every candidate – over voice, video, and text – so talent teams hire more great people, faster, without adding TA headcount. The recruiter stays in control: every shortlist is approved by a human, and every relationship and offer is owned by the customer's team.\r\n\r\nWe're past 1M+ interviews, integrate with 33+ ATS platforms, and 96% of candidates prefer interviewing with Alex. We're revenue-generating, well-funded, backed by premier investors, and are focused on enterprise customers: selling to VPs of Talent Acquisition, CHROs, and CFOs at large employers who are rethinking how hiring gets done at scale.",
+  "one_liner": "Alex is the AI recruiter for hiring great people.",
+  "team_size": 30,
+  "industry": "B2B",
+  "subindustry": "B2B -> Recruiting and Talent",
+  "launched_at": 1703103445,
+  "tags": [
+    "SaaS",
+    "B2B",
+    "Recruiting",
+    "HR Tech",
+    "AI"
+  ],
+  "tags_highlighted": [],
+  "top_company": false,
+  "isHiring": true,
+  "nonprofit": false,
+  "batch": "Winter 2024",
+  "status": "Active",
+  "industries": [
+    "B2B",
+    "Recruiting and Talent"
+  ],
+  "regions": [
+    "United States of America",
+    "America / Canada"
+  ],
+  "stage": "Early",
+  "app_video_public": false,
+  "demo_day_video_public": false,
+  "app_answers": null,
+  "question_answers": false,
+  "url": "https://www.ycombinator.com/companies/alex-com",
+  "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2024/alex-com.json"
+}

@@ -1,0 +1,42 @@
+{
+  "id": 1907,
+  "name": "RevenueCat",
+  "slug": "revenuecat",
+  "former_names": [],
+  "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f8dc20fcc951e007754d6896f9f4c42ee9502a51.png",
+  "website": "https://www.revenuecat.com/",
+  "all_locations": "San Francisco, CA, USA; Remote",
+  "long_description": "RevenueCat removes the headaches of building and scaling in‑app subscriptions. Since graduating from YC’s S18 batch we’ve grown into the default monetization platform for mobile: we’re in >40% of newly shipped subscription apps, we process $12B+ in annual purchase volume, and we help everyone from a solo dev in Brazil to the OpenAI mobile team understand and grow their revenue.",
+  "one_liner": "Build and grow your app business",
+  "team_size": 160,
+  "industry": "B2B",
+  "subindustry": "B2B -> Engineering, Product and Design",
+  "launched_at": 1524629145,
+  "tags": [
+    "Developer Tools",
+    "Subscriptions"
+  ],
+  "tags_highlighted": [],
+  "top_company": false,
+  "isHiring": true,
+  "nonprofit": false,
+  "batch": "Summer 2018",
+  "status": "Active",
+  "industries": [
+    "B2B",
+    "Engineering, Product and Design"
+  ],
+  "regions": [
+    "United States of America",
+    "America / Canada",
+    "Remote",
+    "Fully Remote"
+  ],
+  "stage": "Growth",
+  "app_video_public": false,
+  "demo_day_video_public": true,
+  "app_answers": null,
+  "question_answers": true,
+  "url": "https://www.ycombinator.com/companies/revenuecat",
+  "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2018/revenuecat.json"
+}

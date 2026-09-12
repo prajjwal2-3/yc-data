@@ -1,0 +1,46 @@
+{
+  "id": 29815,
+  "name": "Propaya",
+  "slug": "propaya",
+  "former_names": [
+    "Zzyzzx",
+    "Zzyzzx Inc."
+  ],
+  "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/25c55eb31d984b6e1d9f11620ead41083180bcf4.png",
+  "website": "https://www.propaya.com",
+  "all_locations": "San Francisco, CA, USA",
+  "long_description": "Propaya is an AI-powered commercial real estate intelligence platform that transforms leases and property documents into structured, actionable data. It extracts key terms, obligations, costs, and critical dates with source citations, while identifying legal, operational, environmental, and biological property-risk signals. Teams can customize risk taxonomies, track portfolio-level issues, export structured data, and route flagged findings to property managers, legal teams, or domain specialists for review.",
+  "one_liner": "",
+  "team_size": 2,
+  "industry": "Real Estate and Construction",
+  "subindustry": "Real Estate and Construction -> Housing and Real Estate",
+  "launched_at": 1722479842,
+  "tags": [
+    "Artificial Intelligence",
+    "Real Estate",
+    "Proptech"
+  ],
+  "tags_highlighted": [],
+  "top_company": false,
+  "isHiring": false,
+  "nonprofit": false,
+  "batch": "Summer 2024",
+  "status": "Active",
+  "industries": [
+    "Real Estate and Construction",
+    "Housing and Real Estate"
+  ],
+  "regions": [
+    "United States of America",
+    "America / Canada",
+    "Remote",
+    "Partly Remote"
+  ],
+  "stage": "Early",
+  "app_video_public": false,
+  "demo_day_video_public": false,
+  "app_answers": null,
+  "question_answers": false,
+  "url": "https://www.ycombinator.com/companies/propaya",
+  "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2024/propaya.json"
+}

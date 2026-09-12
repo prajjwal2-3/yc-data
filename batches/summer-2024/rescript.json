@@ -1,0 +1,43 @@
+{
+  "id": 29801,
+  "name": "Rescript",
+  "slug": "rescript",
+  "former_names": [],
+  "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0aaaece51f8461a1fcd555d3c78601c9adf54414.png",
+  "website": "https://rescript.ai/",
+  "all_locations": "Washington, DC, USA",
+  "long_description": "Rescript is using AI to make the law transparent, accessible, and easy to act on. Laws and regulations differ across jurisdictions and are constantly changing, making them too complex for organizations to review and track manually at scale. We're building an agentic AI platform capable of aggregating and interpreting global regulations, tracking how they change, and identifying how organizations should respond. \r\n\r\nOur customers span AmLaw100 law firms, Fortune 100 corporations, and top trade associations across healthcare, retail, fintech and more. They depend on Rescript to help them comply with and act on an ever-changing regulatory landscape from the federal level down to individual cities.  \r\n\r\nWe're backed by YC, General Catalyst, and Floodgate. ",
+  "one_liner": "AI for Legal & Public Policy Teams",
+  "team_size": 2,
+  "industry": "B2B",
+  "subindustry": "B2B -> Legal",
+  "launched_at": 1725406800,
+  "tags": [
+    "SaaS",
+    "Civic Tech",
+    "B2B",
+    "LegalTech",
+    "AI"
+  ],
+  "tags_highlighted": [],
+  "top_company": false,
+  "isHiring": true,
+  "nonprofit": false,
+  "batch": "Summer 2024",
+  "status": "Active",
+  "industries": [
+    "B2B",
+    "Legal"
+  ],
+  "regions": [
+    "United States of America",
+    "America / Canada"
+  ],
+  "stage": "Early",
+  "app_video_public": false,
+  "demo_day_video_public": false,
+  "app_answers": null,
+  "question_answers": false,
+  "url": "https://www.ycombinator.com/companies/rescript",
+  "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2024/rescript.json"
+}

@@ -1,0 +1,42 @@
+{
+  "id": 32551,
+  "name": "Bloomy",
+  "slug": "bloomy",
+  "former_names": [],
+  "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/209c1fdd9d657cb4fad05300bbb0faf304f4d29c.png",
+  "website": "https://bloomylearning.com/",
+  "all_locations": "San Francisco, CA, USA",
+  "long_description": "Bloomy is the best way to teach anything in school. We provide schools with an AI-native academic system comprising core and supplemental curriculum, AI teaching, and assessment to help K-12 students learn faster. Backed by the founders of Clever.",
+  "one_liner": "AI-native learning for every school",
+  "team_size": 1,
+  "industry": "Education",
+  "subindustry": "Education",
+  "launched_at": 1782182610,
+  "tags": [
+    "AI-Enhanced Learning",
+    "Artificial Intelligence",
+    "Education",
+    "eLearning",
+    "Personalization"
+  ],
+  "tags_highlighted": [],
+  "top_company": false,
+  "isHiring": true,
+  "nonprofit": false,
+  "batch": "Summer 2026",
+  "status": "Active",
+  "industries": [
+    "Education"
+  ],
+  "regions": [
+    "United States of America",
+    "America / Canada"
+  ],
+  "stage": "Early",
+  "app_video_public": false,
+  "demo_day_video_public": false,
+  "app_answers": null,
+  "question_answers": false,
+  "url": "https://www.ycombinator.com/companies/bloomy",
+  "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2026/bloomy.json"
+}

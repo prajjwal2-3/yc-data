@@ -1,0 +1,42 @@
+{
+  "id": 30778,
+  "name": "Perspectives Health",
+  "slug": "perspectives-health",
+  "former_names": [],
+  "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d4d717434657a084785d53a7ab208f3a1b202dae.png",
+  "website": "https://perspectiveshealth.ai/",
+  "all_locations": "Chicago, IL, USA",
+  "long_description": "America is facing an addiction and mental health crisis, but the treatment programs trying to solve the problem are faced with administrative burden, staff shortages, and pressure from payers. \r\n\r\nWe work with treatment programs to incorporate AI that reduces administrative burden, prevents insurance denials, and helps directors run their program better.\r\n\r\nOur agents analyze charts to prevent insurance denials, complete documentation and insurance paperwork to save staff time, and sift through historical data to find opportunities for improvement.",
+  "one_liner": "AI to run behavioral health programs better",
+  "team_size": 5,
+  "industry": "Healthcare",
+  "subindustry": "Healthcare -> Healthcare IT",
+  "launched_at": 1751446455,
+  "tags": [
+    "Workflow Automation",
+    "Healthcare",
+    "Mental Health",
+    "Healthcare IT"
+  ],
+  "tags_highlighted": [],
+  "top_company": false,
+  "isHiring": true,
+  "nonprofit": false,
+  "batch": "Summer 2025",
+  "status": "Active",
+  "industries": [
+    "Healthcare",
+    "Healthcare IT"
+  ],
+  "regions": [
+    "United States of America",
+    "America / Canada"
+  ],
+  "stage": "Early",
+  "app_video_public": false,
+  "demo_day_video_public": true,
+  "app_answers": null,
+  "question_answers": false,
+  "url": "https://www.ycombinator.com/companies/perspectives-health",
+  "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2025/perspectives-health.json"
+}

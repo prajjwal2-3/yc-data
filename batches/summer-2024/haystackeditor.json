@@ -1,0 +1,44 @@
+{
+  "id": 29797,
+  "name": "Haystack",
+  "slug": "haystackeditor",
+  "former_names": [
+    "Haystack Software"
+  ],
+  "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/988853e97230d398301aa8250ff990964f2f4620.png",
+  "website": "https://haystack.sh/",
+  "all_locations": "New York City, NY, USA",
+  "long_description": "Haystack automatically learns real customer journeys from production traffic, figures out which ones a code change could affect, and replays them in isolated copies of production to catch regressions before they ship.\r\n\r\nWhen something breaks, Haystack shows exactly what changed across the UI, network calls, and events, then gives the failure back to your coding agent to fix and rerun. Teams get high-fidelity QA without having to write or maintain test cases.",
+  "one_liner": "Replay real customer journeys against every change before you ship",
+  "team_size": 2,
+  "industry": "B2B",
+  "subindustry": "B2B -> Engineering, Product and Design",
+  "launched_at": 1722315932,
+  "tags": [
+    "Artificial Intelligence",
+    "Developer Tools",
+    "B2B",
+    "Productivity"
+  ],
+  "tags_highlighted": [],
+  "top_company": false,
+  "isHiring": false,
+  "nonprofit": false,
+  "batch": "Summer 2024",
+  "status": "Active",
+  "industries": [
+    "B2B",
+    "Engineering, Product and Design"
+  ],
+  "regions": [
+    "United States of America",
+    "America / Canada"
+  ],
+  "stage": "Early",
+  "app_video_public": false,
+  "demo_day_video_public": false,
+  "app_answers": null,
+  "question_answers": false,
+  "url": "https://www.ycombinator.com/companies/haystackeditor",
+  "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2024/haystackeditor.json"
+}

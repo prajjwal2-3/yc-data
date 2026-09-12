@@ -1,0 +1,55 @@
+{
+  "id": 23629,
+  "name": "AXAR AI",
+  "slug": "axar-ai",
+  "former_names": [
+    "TimeTackle",
+    "Tackle",
+    "Hightime",
+    "Hightime AI",
+    "Tackle",
+    "Hightime AI",
+    "Tackle",
+    "AXAR AI",
+    "Tackle",
+    "AXAR AI",
+    "Tackle",
+    "AXAR AI"
+  ],
+  "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0c6547ecb9fa107a828426f050dc9ff06b380355.png",
+  "website": "https://www.axar.ai/",
+  "all_locations": "San Francisco, CA, USA",
+  "long_description": "",
+  "one_liner": "Multi-agent orchestration platform",
+  "team_size": 40,
+  "industry": "B2B",
+  "subindustry": "B2B",
+  "launched_at": 1616475313,
+  "tags": [
+    "Developer Tools",
+    "B2B",
+    "AI"
+  ],
+  "tags_highlighted": [],
+  "top_company": false,
+  "isHiring": false,
+  "nonprofit": false,
+  "batch": "Winter 2021",
+  "status": "Inactive",
+  "industries": [
+    "B2B"
+  ],
+  "regions": [
+    "United States of America",
+    "America / Canada",
+    "Remote",
+    "Partly Remote"
+  ],
+  "stage": "Early",
+  "app_video_public": false,
+  "demo_day_video_public": false,
+  "app_answers": null,
+  "question_answers": false,
+  "url": "https://www.ycombinator.com/companies/axar-ai",
+  "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2021/axar-ai.json"
+}

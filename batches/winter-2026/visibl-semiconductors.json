@@ -1,0 +1,43 @@
+{
+  "id": 31182,
+  "name": "Visibl Semiconductors",
+  "slug": "visibl-semiconductors",
+  "former_names": [],
+  "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c9acdb09765b62086883672feeb576e191249bff.png",
+  "website": "https://visiblsemi.com",
+  "all_locations": "San Francisco, CA, USA",
+  "long_description": "Visibl Semiconductors makes custom silicon accessible to hardware companies, starting with power electronics. We are an AI-native custom-silicon design partner that cuts ASIC development cost and timeline on mature nodes, helping teams deliver better performance and lower BOM cost.\r\n\r\nWe work with data-center and AI-infrastructure power, motor drives, industrial automation and robotics, industrial power supplies and conversion, battery systems and e-mobility powertrains, EV charging, solar, energy storage, grid power, HVAC, heat pumps, and appliances.\r\n\r\nV1 boards built from off-the-shelf parts are great for getting to market quickly, but scaling to v2+ volume requires optimizing cost, size, and manufacturability. Visibl folds those parts into custom silicon built around the product: a simpler BOM, reclaimed board space, fewer supply constraints, and automation-ready assembly.\r\n\r\nWe manage the full path from architecture and design through verification, fabrication, packaging, and production-ready silicon, working alongside hardware teams so they do not need an in-house chip team.",
+  "one_liner": "Custom silicon for power electronics",
+  "team_size": 3,
+  "industry": "B2B",
+  "subindustry": "B2B -> Engineering, Product and Design",
+  "launched_at": 1767637338,
+  "tags": [
+    "Artificial Intelligence",
+    "Hard Tech",
+    "Enterprise",
+    "Enterprise Software",
+    "Semiconductors"
+  ],
+  "tags_highlighted": [],
+  "top_company": false,
+  "isHiring": false,
+  "nonprofit": false,
+  "batch": "Winter 2026",
+  "status": "Active",
+  "industries": [
+    "B2B",
+    "Engineering, Product and Design"
+  ],
+  "regions": [
+    "United States of America",
+    "America / Canada"
+  ],
+  "stage": "Early",
+  "app_video_public": false,
+  "demo_day_video_public": false,
+  "app_answers": null,
+  "question_answers": false,
+  "url": "https://www.ycombinator.com/companies/visibl-semiconductors",
+  "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2026/visibl-semiconductors.json"
+}

@@ -1,0 +1,47 @@
+{
+  "id": 30349,
+  "name": "Tally",
+  "slug": "tallyhq",
+  "former_names": [
+    "Trestle",
+    "Tally",
+    "Merit",
+    "Tally",
+    "Candid",
+    "Argos",
+    "Tally",
+    "Hudson",
+    "Tally",
+    "Hudson"
+  ],
+  "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/95f191208289dd979eacb9e65505248ad70ba4f8.png",
+  "website": "https://www.tallyhq.com",
+  "all_locations": "San Francisco, CA, USA",
+  "long_description": "",
+  "one_liner": "",
+  "team_size": 1,
+  "industry": "Fintech",
+  "subindustry": "Fintech",
+  "launched_at": 1739308183,
+  "tags": [],
+  "tags_highlighted": [],
+  "top_company": false,
+  "isHiring": false,
+  "nonprofit": false,
+  "batch": "Winter 2025",
+  "status": "Active",
+  "industries": [
+    "Fintech"
+  ],
+  "regions": [
+    "United States of America",
+    "America / Canada"
+  ],
+  "stage": "Early",
+  "app_video_public": false,
+  "demo_day_video_public": false,
+  "app_answers": null,
+  "question_answers": false,
+  "url": "https://www.ycombinator.com/companies/tallyhq",
+  "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2025/tallyhq.json"
+}

@@ -1,0 +1,50 @@
+{
+  "id": 30351,
+  "name": "Thirdlayer",
+  "slug": "thirdlayer",
+  "former_names": [
+    "Dexterity",
+    "Dex",
+    "Dexterity AI",
+    "Dexterity",
+    "Dex",
+    "ThirdLayer",
+    "Dex"
+  ],
+  "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e0d87f32109c76adfd7d671c77380aed15d429e2.png",
+  "website": "https://thirdlayer.inc",
+  "all_locations": "San Francisco, CA, USA",
+  "long_description": "ThirdLayer is the learning and alignment layer for enterprise AI. We continuously ingest and structure messy organizational context, complex operational processes, and siloed, permission-sensitive data, then grade agents against the outcomes each company cares about. Every interaction becomes feedback that helps agents improve over time.\r\n\r\nCompanies use ThirdLayer to power their internal agents or embed it into the AI products they’re building. We give agents the context, evaluations, and learning loops they need to stay aligned with each organization and deliver better outcomes with every run.",
+  "one_liner": "Continual learning for enterprise AI",
+  "team_size": 2,
+  "industry": "B2B",
+  "subindustry": "B2B -> Productivity",
+  "launched_at": 1737217789,
+  "tags": [
+    "Artificial Intelligence",
+    "Productivity",
+    "Consumer Products",
+    "AI"
+  ],
+  "tags_highlighted": [],
+  "top_company": false,
+  "isHiring": true,
+  "nonprofit": false,
+  "batch": "Winter 2025",
+  "status": "Active",
+  "industries": [
+    "B2B",
+    "Productivity"
+  ],
+  "regions": [
+    "United States of America",
+    "America / Canada"
+  ],
+  "stage": "Early",
+  "app_video_public": false,
+  "demo_day_video_public": false,
+  "app_answers": null,
+  "question_answers": false,
+  "url": "https://www.ycombinator.com/companies/thirdlayer",
+  "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2025/thirdlayer.json"
+}

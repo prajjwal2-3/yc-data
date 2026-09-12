@@ -1,0 +1,44 @@
+{
+  "id": 25948,
+  "name": "Spade",
+  "slug": "spade",
+  "former_names": [],
+  "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/dc25342edef4b9f6942587780f3a5d96fae04f9c.png",
+  "website": "https://www.spade.com",
+  "all_locations": "New York City, NY, USA",
+  "long_description": "We take messy transaction data and turn it into structured, verified records — with a platform, models, and tooling that help our customers use it everywhere it matters.",
+  "one_liner": "Spade is the data and AI platform for modern finance.",
+  "team_size": 30,
+  "industry": "Fintech",
+  "subindustry": "Fintech",
+  "launched_at": 1641512856,
+  "tags": [
+    "Artificial Intelligence",
+    "Fintech",
+    "Machine Learning",
+    "Payments",
+    "Data Labeling"
+  ],
+  "tags_highlighted": [],
+  "top_company": false,
+  "isHiring": true,
+  "nonprofit": false,
+  "batch": "Winter 2022",
+  "status": "Active",
+  "industries": [
+    "Fintech"
+  ],
+  "regions": [
+    "United States of America",
+    "America / Canada",
+    "Remote",
+    "Partly Remote"
+  ],
+  "stage": "Growth",
+  "app_video_public": false,
+  "demo_day_video_public": false,
+  "app_answers": null,
+  "question_answers": false,
+  "url": "https://www.ycombinator.com/companies/spade",
+  "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2022/spade.json"
+}

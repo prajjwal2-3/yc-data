@@ -1,0 +1,40 @@
+{
+  "id": 33144,
+  "name": "Grip",
+  "slug": "grip",
+  "former_names": [],
+  "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a6be2671c5d4e3adfe916a4a59aad4680c7cc9d3.png",
+  "website": "https://www.griprobotics.ai",
+  "all_locations": "Zürich, ZH, Switzerland",
+  "long_description": "Grip is a robotics company building intelligent robotic systems for waste and recycling. We are starting with organic waste, where removing contaminants from messy, constantly changing streams remains difficult and highly manual. Our technology combines learning-based manipulation and custom hardware to identify and pick objects, learning from real-world operating data, including every successful and failed grasp, to become more reliable and adaptable over time. This helps waste operators reduce manual sorting, recover more valuable material, lower contamination, and deploy automation flexibly across facilities. Over time, Grip aims to expand beyond organics and build the intelligent manipulation layer for trash in general, making waste processing and the circular economy more efficient and scalable.",
+  "one_liner": "Robots for waste manipulation",
+  "team_size": 4,
+  "industry": "Industrials",
+  "subindustry": "Industrials -> Manufacturing and Robotics",
+  "launched_at": 1785254669,
+  "tags": [
+    "Robotic Process Automation",
+    "Sustainability"
+  ],
+  "tags_highlighted": [],
+  "top_company": false,
+  "isHiring": false,
+  "nonprofit": false,
+  "batch": "Summer 2026",
+  "status": "Active",
+  "industries": [
+    "Industrials",
+    "Manufacturing and Robotics"
+  ],
+  "regions": [
+    "Switzerland",
+    "Europe"
+  ],
+  "stage": "Early",
+  "app_video_public": false,
+  "demo_day_video_public": false,
+  "app_answers": null,
+  "question_answers": false,
+  "url": "https://www.ycombinator.com/companies/grip",
+  "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2026/grip.json"
+}

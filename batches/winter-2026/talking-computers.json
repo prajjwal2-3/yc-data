@@ -1,0 +1,43 @@
+{
+  "id": 31262,
+  "name": "Talking Computers",
+  "slug": "talking-computers",
+  "former_names": [
+    "Standard Agent Labs",
+    "Analytical Engine",
+    "Speedtrain",
+    "Also"
+  ],
+  "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2e45d3a6fae510b1b44b5ae6e844844cbfd29960.png",
+  "website": "https://talkingcomputers.ai",
+  "all_locations": "Toronto, ON, Canada",
+  "long_description": "AI lab building interaction models to make AI symbiotic with humans.\r\n\r\nOur early models sit at the Pareto frontier of intelligence and interactivity, measured by time to first audio token, and enable voice agents that are both highly capable and genuinely human-like",
+  "one_liner": "Real-time interaction models for voice agents",
+  "team_size": 2,
+  "industry": "B2B",
+  "subindustry": "B2B",
+  "launched_at": 1772563423,
+  "tags": [
+    "Artificial Intelligence"
+  ],
+  "tags_highlighted": [],
+  "top_company": false,
+  "isHiring": false,
+  "nonprofit": false,
+  "batch": "Winter 2026",
+  "status": "Active",
+  "industries": [
+    "B2B"
+  ],
+  "regions": [
+    "Canada",
+    "America / Canada"
+  ],
+  "stage": "Early",
+  "app_video_public": false,
+  "demo_day_video_public": false,
+  "app_answers": null,
+  "question_answers": false,
+  "url": "https://www.ycombinator.com/companies/talking-computers",
+  "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2026/talking-computers.json"
+}

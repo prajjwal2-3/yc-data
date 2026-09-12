@@ -1,0 +1,37 @@
+{
+  "id": 30607,
+  "name": "The Prompting Company",
+  "slug": "the-prompting-company",
+  "former_names": [],
+  "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/465a7528e2de2669ab4bb994eb9cb8630eff6db1.png",
+  "website": "https://www.promptingcompany.com",
+  "all_locations": "San Francisco, CA, USA",
+  "long_description": "The Prompting Company helps companies get discovered and used by AI agents.\r\n\r\nWe help companies with two things:\r\n- Discovery: We find the exact questions your customers ask AI, analyze whether your product shows up, and improve how AI systems describe and recommend you.\r\n- Usability: We test whether AI agents can actually use your product, including finding the right docs, performing the right workflows, and completing tasks on behalf of users.",
+  "one_liner": "We help products get discovered & used by AI agents.",
+  "team_size": 7,
+  "industry": "B2B",
+  "subindustry": "B2B -> Marketing",
+  "launched_at": 1755802702,
+  "tags": [],
+  "tags_highlighted": [],
+  "top_company": false,
+  "isHiring": true,
+  "nonprofit": false,
+  "batch": "Summer 2025",
+  "status": "Active",
+  "industries": [
+    "B2B",
+    "Marketing"
+  ],
+  "regions": [
+    "United States of America",
+    "America / Canada"
+  ],
+  "stage": "Early",
+  "app_video_public": false,
+  "demo_day_video_public": false,
+  "app_answers": null,
+  "question_answers": false,
+  "url": "https://www.ycombinator.com/companies/the-prompting-company",
+  "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2025/the-prompting-company.json"
+}

@@ -1,0 +1,44 @@
+{
+  "id": 28923,
+  "name": "Maven Bio",
+  "slug": "maven-bio",
+  "former_names": [
+    "RightPage"
+  ],
+  "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4d8ec5197bc9e6a36464adaa019fa08dc09b5662.png",
+  "website": "https://mavenbio.com",
+  "all_locations": "Boston, MA, USA",
+  "long_description": "Maven Bio is a live intelligence platform for biopharma teams. It continuously monitors clinical, regulatory, company, and deal developments, identifies what matters to each team's priorities, and delivers signals and updates to keep key documents current. Its monitoring agent can apply edits automatically, with sources attached and the option to roll back changes.\r\n\r\nMaven runs thousands of monitors across company and individual product websites, trade press, health technology assessment bodies, and patient advocacy groups worldwide. Teams use that intelligence to maintain competitive views, asset screens, and recurring briefs, in Maven or through connected AI assistants and custom workflows.",
+  "one_liner": "Live intelligence for biopharma teams.",
+  "team_size": 10,
+  "industry": "B2B",
+  "subindustry": "B2B",
+  "launched_at": 1689099430,
+  "tags": [
+    "Generative AI",
+    "Biotech",
+    "Healthcare",
+    "Enterprise",
+    "Healthcare IT"
+  ],
+  "tags_highlighted": [],
+  "top_company": false,
+  "isHiring": true,
+  "nonprofit": false,
+  "batch": "Summer 2023",
+  "status": "Active",
+  "industries": [
+    "B2B"
+  ],
+  "regions": [
+    "United States of America",
+    "America / Canada"
+  ],
+  "stage": "Early",
+  "app_video_public": false,
+  "demo_day_video_public": false,
+  "app_answers": null,
+  "question_answers": false,
+  "url": "https://www.ycombinator.com/companies/maven-bio",
+  "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2023/maven-bio.json"
+}

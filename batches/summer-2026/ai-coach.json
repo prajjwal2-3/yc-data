@@ -1,0 +1,45 @@
+{
+  "id": 32220,
+  "name": "COACH",
+  "slug": "ai-coach",
+  "former_names": [
+    "COΛCH"
+  ],
+  "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/78b58d361b887533d84ef36e56f833ff7fd87c5c.png",
+  "website": "https://www.getcoach.com/",
+  "all_locations": "San Francisco, CA, USA",
+  "long_description": "85% of all sales still happen face-to-face. Coach is how those get closed.\r\nOur AI turns in-depth sales conversation analysis into company knowledge and personalized coaching to help reps close more deals.",
+  "one_liner": "The AI Coach for in person sales reps.",
+  "team_size": 4,
+  "industry": "B2B",
+  "subindustry": "B2B -> Sales",
+  "launched_at": 1785353697,
+  "tags": [
+    "SaaS",
+    "B2B",
+    "Sales",
+    "Sales Enablement",
+    "AI"
+  ],
+  "tags_highlighted": [],
+  "top_company": false,
+  "isHiring": false,
+  "nonprofit": false,
+  "batch": "Summer 2026",
+  "status": "Active",
+  "industries": [
+    "B2B",
+    "Sales"
+  ],
+  "regions": [
+    "United States of America",
+    "America / Canada"
+  ],
+  "stage": "Early",
+  "app_video_public": false,
+  "demo_day_video_public": false,
+  "app_answers": null,
+  "question_answers": false,
+  "url": "https://www.ycombinator.com/companies/ai-coach",
+  "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2026/ai-coach.json"
+}

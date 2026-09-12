@@ -1,0 +1,43 @@
+{
+  "id": 27583,
+  "name": "Rubbrband",
+  "slug": "rubbrband",
+  "former_names": [],
+  "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5720d48d89fcdf16b2887231b42541c2a4f1da5b.png",
+  "website": "https://rubbrband.com",
+  "all_locations": "San Francisco, CA, USA",
+  "long_description": "Rubbrband is a creative company making commercials for some of the world's top brands.",
+  "one_liner": "A new kind of creative company.",
+  "team_size": 10,
+  "industry": "Consumer",
+  "subindustry": "Consumer -> Content",
+  "launched_at": 1666397912,
+  "tags": [
+    "Artificial Intelligence",
+    "Video",
+    "Advertising"
+  ],
+  "tags_highlighted": [],
+  "top_company": false,
+  "isHiring": true,
+  "nonprofit": false,
+  "batch": "Winter 2023",
+  "status": "Active",
+  "industries": [
+    "Consumer",
+    "Content"
+  ],
+  "regions": [
+    "United States of America",
+    "America / Canada",
+    "Remote",
+    "Partly Remote"
+  ],
+  "stage": "Early",
+  "app_video_public": false,
+  "demo_day_video_public": false,
+  "app_answers": null,
+  "question_answers": false,
+  "url": "https://www.ycombinator.com/companies/rubbrband",
+  "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2023/rubbrband.json"
+}

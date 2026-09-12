@@ -1,0 +1,43 @@
+{
+  "id": 33014,
+  "name": "Inkbox",
+  "slug": "inkbox",
+  "former_names": [
+    "Inkbox (Vectorly Inc)"
+  ],
+  "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/59d6214df81a05c739db52287017ae33c8c45f0d.png",
+  "website": "https://inkbox.ai",
+  "all_locations": "San Francisco, CA, USA",
+  "long_description": "For your AI agents to behave like teammates, we give them persistent identities with their own email, phone, and iMessage. We also provide them an agent-to-agent channel, so they can communicate for task delegation.",
+  "one_liner": "The identity and communication layer for AI agents",
+  "team_size": 3,
+  "industry": "B2B",
+  "subindustry": "B2B -> Infrastructure",
+  "launched_at": 1782881612,
+  "tags": [
+    "Developer Tools",
+    "Infrastructure",
+    "AI"
+  ],
+  "tags_highlighted": [],
+  "top_company": false,
+  "isHiring": false,
+  "nonprofit": false,
+  "batch": "Summer 2026",
+  "status": "Active",
+  "industries": [
+    "B2B",
+    "Infrastructure"
+  ],
+  "regions": [
+    "United States of America",
+    "America / Canada"
+  ],
+  "stage": "Early",
+  "app_video_public": false,
+  "demo_day_video_public": false,
+  "app_answers": null,
+  "question_answers": false,
+  "url": "https://www.ycombinator.com/companies/inkbox",
+  "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2026/inkbox.json"
+}

@@ -1,0 +1,47 @@
+{
+  "id": 27699,
+  "name": "Concourse",
+  "slug": "concourse",
+  "former_names": [
+    "Factr"
+  ],
+  "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a23ab54dfc7d4f1d332c905fd3e054c452007712.png",
+  "website": "https://concourse.ai/",
+  "all_locations": "New York City, NY, USA",
+  "long_description": "Concourse is the vertical AI platform for enterprise finance teams. \r\n\r\nFinance teams accelerate their AI transformation by building production-ready agents that own end-to-end workflows across departments. Concourse agents deliver higher accuracy, lower cost, and stronger governance than AI assistants and base LLMs: they connect to your core data sources, encode your business logic, compute math in code instead of generating it, and trace every output back to source. Concourse is already in production at Fortune 500 companies, and has raised $20M from Andreessen Horowitz, CRV, and Y Combinator.",
+  "one_liner": "The AI Agent platform for finance",
+  "team_size": 15,
+  "industry": "B2B",
+  "subindustry": "B2B -> Finance and Accounting",
+  "launched_at": 1680338396,
+  "tags": [
+    "Artificial Intelligence",
+    "Fintech",
+    "SaaS",
+    "B2B",
+    "AI"
+  ],
+  "tags_highlighted": [],
+  "top_company": false,
+  "isHiring": true,
+  "nonprofit": false,
+  "batch": "Winter 2023",
+  "status": "Active",
+  "industries": [
+    "B2B",
+    "Finance and Accounting"
+  ],
+  "regions": [
+    "United States of America",
+    "America / Canada",
+    "Remote",
+    "Partly Remote"
+  ],
+  "stage": "Early",
+  "app_video_public": false,
+  "demo_day_video_public": false,
+  "app_answers": null,
+  "question_answers": false,
+  "url": "https://www.ycombinator.com/companies/concourse",
+  "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2023/concourse.json"
+}

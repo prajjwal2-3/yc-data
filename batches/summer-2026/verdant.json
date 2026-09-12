@@ -1,0 +1,39 @@
+{
+  "id": 32189,
+  "name": "Verdant",
+  "slug": "verdant",
+  "former_names": [],
+  "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4de79d62c0767417bcc285f4339875d51c92131b.png",
+  "website": "https://www.verdantapp.com/",
+  "all_locations": "San Francisco, CA, USA",
+  "long_description": "Verdant sells AI agents to local government to make them more efficient. We're starting with permitting, the highest-volume workflow in local government that requires judgment. \r\n\r\nMany startups fail to sell to government, but not us - we've processed 200+ applications and gone from 0 to 4 paid deployments across 4 states with an average close time of 4 weeks.",
+  "one_liner": "AI Agents to Make Local Gov Efficient",
+  "team_size": 2,
+  "industry": "Government",
+  "subindustry": "Government",
+  "launched_at": 1782774541,
+  "tags": [
+    "Artificial Intelligence",
+    "GovTech"
+  ],
+  "tags_highlighted": [],
+  "top_company": false,
+  "isHiring": false,
+  "nonprofit": false,
+  "batch": "Summer 2026",
+  "status": "Active",
+  "industries": [
+    "Government"
+  ],
+  "regions": [
+    "United States of America",
+    "America / Canada"
+  ],
+  "stage": "Early",
+  "app_video_public": false,
+  "demo_day_video_public": false,
+  "app_answers": null,
+  "question_answers": false,
+  "url": "https://www.ycombinator.com/companies/verdant",
+  "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2026/verdant.json"
+}

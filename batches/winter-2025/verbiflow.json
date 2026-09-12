@@ -1,0 +1,42 @@
+{
+  "id": 30220,
+  "name": "Verbiflow",
+  "slug": "verbiflow",
+  "former_names": [],
+  "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/61dac6c9c5fd565ee458bdaddc5acb67c824ccd3.png",
+  "website": "https://verbiflow.com",
+  "all_locations": "San Francisco, CA, USA",
+  "long_description": "We help startups reach prospective customers through email, LinkedIn, and cold calls, while keeping your team aligned on every conversation and response.",
+  "one_liner": "Outbound Sequencing Infrastructure for Startups",
+  "team_size": 2,
+  "industry": "B2B",
+  "subindustry": "B2B",
+  "launched_at": 1740147387,
+  "tags": [
+    "SaaS",
+    "Analytics",
+    "Sales",
+    "Sales Enablement",
+    "AI"
+  ],
+  "tags_highlighted": [],
+  "top_company": false,
+  "isHiring": false,
+  "nonprofit": false,
+  "batch": "Winter 2025",
+  "status": "Active",
+  "industries": [
+    "B2B"
+  ],
+  "regions": [
+    "United States of America",
+    "America / Canada"
+  ],
+  "stage": "Early",
+  "app_video_public": false,
+  "demo_day_video_public": false,
+  "app_answers": null,
+  "question_answers": false,
+  "url": "https://www.ycombinator.com/companies/verbiflow",
+  "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2025/verbiflow.json"
+}

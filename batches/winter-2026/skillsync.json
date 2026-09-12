@@ -1,0 +1,39 @@
+{
+  "id": 31133,
+  "name": "Skillsync",
+  "slug": "skillsync",
+  "former_names": [],
+  "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9cbaacf18216a2c670dfe6e49d4332b592214780.png",
+  "website": "https://skillsync.com",
+  "all_locations": "San Francisco, CA, USA",
+  "long_description": "Skillsync gives you one place for everything your agents have ever done, and makes all of it portable. Move a full session between Claude Code, Cursor, Codex, and any other agent with nothing lost, including the entire conversation, the model's reasoning, and every tool call, not just a summary, so the next agent picks up like it was there the whole time. Because your sessions are portable, they stack up instead of disappearing. Every past session stays searchable and feeds your next agent automatically, so you never re-explain yourself or redo work you have already done. Everything stays on your machine and nothing leaves unless you choose to send it. Skillsync is local-first and yours, and its core engine, txcript, is open source, a portable session format that no single provider owns.",
+  "one_liner": "Notion for AI chats",
+  "team_size": 2,
+  "industry": "B2B",
+  "subindustry": "B2B -> Engineering, Product and Design",
+  "launched_at": 1765356952,
+  "tags": [
+    "Developer Tools"
+  ],
+  "tags_highlighted": [],
+  "top_company": false,
+  "isHiring": false,
+  "nonprofit": false,
+  "batch": "Winter 2026",
+  "status": "Active",
+  "industries": [
+    "B2B",
+    "Engineering, Product and Design"
+  ],
+  "regions": [
+    "United States of America",
+    "America / Canada"
+  ],
+  "stage": "Early",
+  "app_video_public": false,
+  "demo_day_video_public": false,
+  "app_answers": null,
+  "question_answers": false,
+  "url": "https://www.ycombinator.com/companies/skillsync",
+  "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2026/skillsync.json"
+}

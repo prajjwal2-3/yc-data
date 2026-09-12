@@ -1,0 +1,44 @@
+{
+  "id": 26712,
+  "name": "CodeCanary",
+  "slug": "codecanary",
+  "former_names": [
+    "Bunting Labs",
+    "Atonomo"
+  ],
+  "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/936fc756bb90a52a74ebf1328770458b263316df.png",
+  "website": "https://www.codecanary.ai",
+  "all_locations": "San Francisco, CA, USA",
+  "long_description": "CodeCanary explores your product like a user, looking for bugs, mistakes, and UX issues. When it finds something, it creates a PR with a fix.",
+  "one_liner": "Find and fix bugs with AI",
+  "team_size": 2,
+  "industry": "B2B",
+  "subindustry": "B2B",
+  "launched_at": 1659469853,
+  "tags": [
+    "SaaS",
+    "B2B",
+    "Web Development",
+    "AI"
+  ],
+  "tags_highlighted": [],
+  "top_company": false,
+  "isHiring": true,
+  "nonprofit": false,
+  "batch": "Summer 2022",
+  "status": "Active",
+  "industries": [
+    "B2B"
+  ],
+  "regions": [
+    "United States of America",
+    "America / Canada"
+  ],
+  "stage": "Early",
+  "app_video_public": false,
+  "demo_day_video_public": false,
+  "app_answers": null,
+  "question_answers": false,
+  "url": "https://www.ycombinator.com/companies/codecanary",
+  "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2022/codecanary.json"
+}

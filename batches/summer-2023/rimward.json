@@ -1,0 +1,48 @@
+{
+  "id": 28958,
+  "name": "Rimward",
+  "slug": "rimward",
+  "former_names": [
+    "Quack AI",
+    "Sourcepulse"
+  ],
+  "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/bd215af97ab581709a04ff6284c6091f29c2058e.png",
+  "website": "https://rimward.ai/",
+  "all_locations": "Paris, Île-de-France, France",
+  "long_description": "Rimward helps solar asset managers detect intrusions using the cameras already installed across their sites. It flags camera failures and coverage gaps, and gathers video evidence from multiple cameras to help their team or monitoring provider filter out false alarms and decide when to act.",
+  "one_liner": "Solar farm security software for existing cameras",
+  "team_size": 1,
+  "industry": "B2B",
+  "subindustry": "B2B -> Security",
+  "launched_at": 1691807496,
+  "tags": [
+    "Machine Learning",
+    "Computer Vision",
+    "B2B",
+    "Security",
+    "Enterprise"
+  ],
+  "tags_highlighted": [],
+  "top_company": false,
+  "isHiring": true,
+  "nonprofit": false,
+  "batch": "Summer 2023",
+  "status": "Active",
+  "industries": [
+    "B2B",
+    "Security"
+  ],
+  "regions": [
+    "France",
+    "Europe",
+    "Remote",
+    "Partly Remote"
+  ],
+  "stage": "Early",
+  "app_video_public": false,
+  "demo_day_video_public": false,
+  "app_answers": null,
+  "question_answers": false,
+  "url": "https://www.ycombinator.com/companies/rimward",
+  "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2023/rimward.json"
+}

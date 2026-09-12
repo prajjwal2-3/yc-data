@@ -1,0 +1,41 @@
+{
+  "id": 28329,
+  "name": "Type",
+  "slug": "type",
+  "former_names": [],
+  "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7055cc5668e741c817315243c78d24ed1bcdd9fd.png",
+  "website": "https://type.ai",
+  "all_locations": "New York City, NY, USA",
+  "long_description": "Type.ai is the AI-native storytelling studio for independent authors and creators. We help people craft books, novels, screenplays, and other types of long-form, creative fiction.",
+  "one_liner": "AI-native storytelling studio.",
+  "team_size": 5,
+  "industry": "Consumer",
+  "subindustry": "Consumer",
+  "launched_at": 1675912711,
+  "tags": [
+    "Artificial Intelligence",
+    "SaaS",
+    "Consumer",
+    "Productivity"
+  ],
+  "tags_highlighted": [],
+  "top_company": false,
+  "isHiring": true,
+  "nonprofit": false,
+  "batch": "Winter 2023",
+  "status": "Active",
+  "industries": [
+    "Consumer"
+  ],
+  "regions": [
+    "United States of America",
+    "America / Canada"
+  ],
+  "stage": "Early",
+  "app_video_public": false,
+  "demo_day_video_public": false,
+  "app_answers": null,
+  "question_answers": false,
+  "url": "https://www.ycombinator.com/companies/type",
+  "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2023/type.json"
+}

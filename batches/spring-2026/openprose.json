@@ -1,0 +1,39 @@
+{
+  "id": 31500,
+  "name": "OpenProse",
+  "slug": "openprose",
+  "former_names": [],
+  "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/64b6d546d22917532ccb4e5251eb0d9aa20d25d4.png",
+  "website": "https://prose.md",
+  "all_locations": "San Francisco, CA, USA; Remote",
+  "long_description": "OpenProse is building open-source infrastructure for long-running AI work: a declarative language plus a reactive harness/runtime for reliable agent workflows.",
+  "one_liner": "An open-source operating system for reliable long-running agents",
+  "team_size": 3,
+  "industry": "B2B",
+  "subindustry": "B2B -> Engineering, Product and Design",
+  "launched_at": 1779199533,
+  "tags": [],
+  "tags_highlighted": [],
+  "top_company": false,
+  "isHiring": false,
+  "nonprofit": false,
+  "batch": "Spring 2026",
+  "status": "Active",
+  "industries": [
+    "B2B",
+    "Engineering, Product and Design"
+  ],
+  "regions": [
+    "United States of America",
+    "America / Canada",
+    "Remote",
+    "Fully Remote"
+  ],
+  "stage": "Early",
+  "app_video_public": false,
+  "demo_day_video_public": false,
+  "app_answers": null,
+  "question_answers": false,
+  "url": "https://www.ycombinator.com/companies/openprose",
+  "api": "https://prajjwal2-3.github.io/yc-data/batches/spring-2026/openprose.json"
+}

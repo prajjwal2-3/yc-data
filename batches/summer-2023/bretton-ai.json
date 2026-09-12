@@ -1,0 +1,44 @@
+{
+  "id": 28929,
+  "name": "Bretton AI",
+  "slug": "bretton-ai",
+  "former_names": [
+    "Greenlite AI"
+  ],
+  "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1a2e212679d6416b22e5a93c56292d0faf00edc5.png",
+  "website": "https://www.bretton.com/",
+  "all_locations": "San Francisco, CA, USA",
+  "long_description": "Bretton runs AI-native operations for the financial back office. OCC, Fed and FDIC regulated banks use Bretton to run compliance, risk, fraud operations on one platform, on their own data and policies, with every output traced, cited, and audit-ready.\r\n\r\nBretton has pioneered AI use in financial services with its proprietary Trust Infrastructure — a system of model validation, governance and auditability guardrails that enables AI use in key regulated workflows.\r\n",
+  "one_liner": "AI-native operations for the banks",
+  "team_size": 34,
+  "industry": "Fintech",
+  "subindustry": "Fintech",
+  "launched_at": 1687929703,
+  "tags": [
+    "Artificial Intelligence",
+    "Fintech",
+    "Payments",
+    "B2B",
+    "Compliance"
+  ],
+  "tags_highlighted": [],
+  "top_company": false,
+  "isHiring": true,
+  "nonprofit": false,
+  "batch": "Summer 2023",
+  "status": "Active",
+  "industries": [
+    "Fintech"
+  ],
+  "regions": [
+    "United States of America",
+    "America / Canada"
+  ],
+  "stage": "Growth",
+  "app_video_public": false,
+  "demo_day_video_public": false,
+  "app_answers": null,
+  "question_answers": false,
+  "url": "https://www.ycombinator.com/companies/bretton-ai",
+  "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2023/bretton-ai.json"
+}

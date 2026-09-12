@@ -1,0 +1,42 @@
+{
+  "id": 2018,
+  "name": "AnnieCannons",
+  "slug": "anniecannons",
+  "former_names": [],
+  "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/324bfa1e5d16ce99b583a7336b9027c846e41503.png",
+  "website": "https://www.anniecannons.com",
+  "all_locations": "New York City, NY, USA; Remote",
+  "long_description": "AnnieCannons' mission is to train, prepare, and connect human trafficking survivors of sustainable careers in tech. Through a trauma-informed coding and workforce development program, AnnieCannons trains survivors to become professional software developers and AI engineers and places them in paid apprenticeships with partner companies through a model that converts at over 80%, with median starting salaries of $75,000 or more. The program is tailored for people who have faced compounded barriers including poverty, housing insecurity, interrupted education, and trauma across multiple systems. ",
+  "one_liner": "Connecting Survivors to Careers in Tech",
+  "team_size": 14,
+  "industry": "Education",
+  "subindustry": "Education",
+  "launched_at": 1527048482,
+  "tags": [
+    "Assistive Tech",
+    "SaaS",
+    "Civic Tech"
+  ],
+  "tags_highlighted": [],
+  "top_company": false,
+  "isHiring": false,
+  "nonprofit": true,
+  "batch": "Summer 2018",
+  "status": "Active",
+  "industries": [
+    "Education"
+  ],
+  "regions": [
+    "United States of America",
+    "America / Canada",
+    "Remote",
+    "Fully Remote"
+  ],
+  "stage": "Early",
+  "app_video_public": false,
+  "demo_day_video_public": true,
+  "app_answers": null,
+  "question_answers": false,
+  "url": "https://www.ycombinator.com/companies/anniecannons",
+  "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2018/anniecannons.json"
+}

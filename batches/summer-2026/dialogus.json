@@ -1,0 +1,44 @@
+{
+  "id": 32202,
+  "name": "Dialogus",
+  "slug": "dialogus",
+  "former_names": [
+    "Zyra",
+    "Dialogus",
+    "Dialogus Labs"
+  ],
+  "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c7df204d91879e8e730b8993b754b3d35b87106e.png",
+  "website": "https://www.dialoguslabs.com/",
+  "all_locations": "San Francisco, CA, USA",
+  "long_description": "Dialogus builds self-improving AI voice agents for enterprise operations.\r\n\r\nOur agents handle high-volume workflows across customer support, sales, collections, and other operational functions, integrating directly with the systems enterprises already use.\r\n\r\nOur agents continuously learn from real conversations and business outcomes: identifying where interactions fail, proposing improvements, testing those changes across thousands of simulated conversations, and deploying better versions with human oversight.\r\n\r\nThe result is AI that doesn’t just automate calls, it gets better at doing the job over time.",
+  "one_liner": "The AI-native contact center",
+  "team_size": 3,
+  "industry": "B2B",
+  "subindustry": "B2B -> Infrastructure",
+  "launched_at": 1782528923,
+  "tags": [
+    "B2B",
+    "Customer Support"
+  ],
+  "tags_highlighted": [],
+  "top_company": false,
+  "isHiring": false,
+  "nonprofit": false,
+  "batch": "Summer 2026",
+  "status": "Active",
+  "industries": [
+    "B2B",
+    "Infrastructure"
+  ],
+  "regions": [
+    "United States of America",
+    "America / Canada"
+  ],
+  "stage": "Early",
+  "app_video_public": false,
+  "demo_day_video_public": false,
+  "app_answers": null,
+  "question_answers": false,
+  "url": "https://www.ycombinator.com/companies/dialogus",
+  "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2026/dialogus.json"
+}

@@ -1,0 +1,42 @@
+{
+  "id": 35395,
+  "name": "Workers IO",
+  "slug": "workers-io",
+  "former_names": [],
+  "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/12ec3720a247bad2e5a39d162b68e217ed6b74bd.png",
+  "website": "https://workers.io",
+  "all_locations": "San Francisco, CA, USA",
+  "long_description": "Workers IO verifies your entire system across millions of interleaving, faults, and timings to find the exact conditions that break the software properties you care about.\r\n\r\nBuilt for teams where 99.99% uptime is table-stakes. ",
+  "one_liner": "Simulation Environments for Verifying Mission Critical Software",
+  "team_size": 2,
+  "industry": "B2B",
+  "subindustry": "B2B -> Engineering, Product and Design",
+  "launched_at": 1787942068,
+  "tags": [
+    "Artificial Intelligence",
+    "Developer Tools",
+    "B2B",
+    "Infrastructure"
+  ],
+  "tags_highlighted": [],
+  "top_company": false,
+  "isHiring": true,
+  "nonprofit": false,
+  "batch": "Fall 2026",
+  "status": "Active",
+  "industries": [
+    "B2B",
+    "Engineering, Product and Design"
+  ],
+  "regions": [
+    "United States of America",
+    "America / Canada"
+  ],
+  "stage": "Early",
+  "app_video_public": false,
+  "demo_day_video_public": false,
+  "app_answers": null,
+  "question_answers": false,
+  "url": "https://www.ycombinator.com/companies/workers-io",
+  "api": "https://prajjwal2-3.github.io/yc-data/batches/fall-2026/workers-io.json"
+}

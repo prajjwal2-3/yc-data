@@ -1,0 +1,41 @@
+{
+  "id": 29328,
+  "name": "Guide Labs",
+  "slug": "guide-labs",
+  "former_names": [
+    "Guide Labs Inc"
+  ],
+  "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0fe96eb46b8e36c878f7362b2ef9b57395fe8a11.png",
+  "website": "https://www.guidelabs.ai/",
+  "all_locations": "San Francisco, CA, USA",
+  "long_description": "Guide Labs builds frontier AI models and agents that you can learn from, audit, and steer. \r\nOur first model, Steerling-8B, is the first and largest inherently interpretable model: it can trace any output to training data, concepts inside the model, and the input, all without sacrificing performance.",
+  "one_liner": "Frontier models and agents you can learn from, audit, and steer.",
+  "team_size": 6,
+  "industry": "B2B",
+  "subindustry": "B2B -> Infrastructure",
+  "launched_at": 1709806941,
+  "tags": [
+    "Artificial Intelligence"
+  ],
+  "tags_highlighted": [],
+  "top_company": false,
+  "isHiring": false,
+  "nonprofit": false,
+  "batch": "Winter 2024",
+  "status": "Active",
+  "industries": [
+    "B2B",
+    "Infrastructure"
+  ],
+  "regions": [
+    "United States of America",
+    "America / Canada"
+  ],
+  "stage": "Early",
+  "app_video_public": false,
+  "demo_day_video_public": false,
+  "app_answers": null,
+  "question_answers": false,
+  "url": "https://www.ycombinator.com/companies/guide-labs",
+  "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2024/guide-labs.json"
+}

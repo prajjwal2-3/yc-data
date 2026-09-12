@@ -1,0 +1,43 @@
+{
+  "id": 23226,
+  "name": "Soraban",
+  "slug": "soraban",
+  "former_names": [],
+  "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/125412ffd8bc4ba73f837a877437db742e0a6d80.png",
+  "website": "https://www.soraban.com",
+  "all_locations": "Tempe, AZ, USA",
+  "long_description": "AI-native Tax workflow Platform for accounting firms from client request to delivery. We raised $18m from patient investors who are onboard to help us grow and serve tens of thousands of accounting firms. We're not in this market to grow fast and fail fast. We're in this to build something that'll last decades. ",
+  "one_liner": "AI tax workflow platform for accounting firms ",
+  "team_size": 50,
+  "industry": "B2B",
+  "subindustry": "B2B -> Finance and Accounting",
+  "launched_at": 1627685643,
+  "tags": [
+    "AI-Enhanced Learning",
+    "Robotic Process Automation",
+    "SaaS"
+  ],
+  "tags_highlighted": [],
+  "top_company": false,
+  "isHiring": true,
+  "nonprofit": false,
+  "batch": "Winter 2021",
+  "status": "Active",
+  "industries": [
+    "B2B",
+    "Finance and Accounting"
+  ],
+  "regions": [
+    "United States of America",
+    "America / Canada",
+    "Remote",
+    "Partly Remote"
+  ],
+  "stage": "Early",
+  "app_video_public": false,
+  "demo_day_video_public": false,
+  "app_answers": null,
+  "question_answers": false,
+  "url": "https://www.ycombinator.com/companies/soraban",
+  "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2021/soraban.json"
+}

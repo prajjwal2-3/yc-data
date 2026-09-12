@@ -1,0 +1,45 @@
+{
+  "id": 30958,
+  "name": "Absurd",
+  "slug": "absurd",
+  "former_names": [
+    "Dune"
+  ],
+  "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2a8caed7d0a490086d7e541276710ed25029450f.png",
+  "website": "https://absurd.com/",
+  "all_locations": "Los Angeles, CA, USA",
+  "long_description": "Absurd is an online whiteboard for filmmakers working with AI.\r\n\r\nWe use it for our own work: our Kalshi spot \"Election Day\" did 1M+ views, and our videos average 400K+ organic views.\r\n\r\nTry it at absurd.com",
+  "one_liner": "The Creative OS for AI video",
+  "team_size": 6,
+  "industry": "B2B",
+  "subindustry": "B2B -> Marketing",
+  "launched_at": 1760446134,
+  "tags": [
+    "Generative AI",
+    "Video",
+    "Media",
+    "Marketing",
+    "Advertising"
+  ],
+  "tags_highlighted": [],
+  "top_company": false,
+  "isHiring": false,
+  "nonprofit": false,
+  "batch": "Fall 2025",
+  "status": "Active",
+  "industries": [
+    "B2B",
+    "Marketing"
+  ],
+  "regions": [
+    "United States of America",
+    "America / Canada"
+  ],
+  "stage": "Early",
+  "app_video_public": false,
+  "demo_day_video_public": false,
+  "app_answers": null,
+  "question_answers": false,
+  "url": "https://www.ycombinator.com/companies/absurd",
+  "api": "https://prajjwal2-3.github.io/yc-data/batches/fall-2025/absurd.json"
+}

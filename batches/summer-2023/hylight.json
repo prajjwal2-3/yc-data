@@ -1,0 +1,43 @@
+{
+  "id": 28593,
+  "name": "HyLight",
+  "slug": "hylight",
+  "former_names": [],
+  "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5bcbb9e93eb3ebbc3a622b3826ec8c2df9b276d7.png",
+  "website": "https://www.hylight.aero/",
+  "all_locations": "Paris, Île-de-France, France",
+  "long_description": "HyLight builds and operates the HyLighters. Our autonomous airships for long range monitoring. We focus on critical infrastructure inspections:\r\n- detecting methane leaks on pipelines.\r\n- defects & vegetation risks on power lines.\r\n- defects & vegetation risks on railways.\r\n\r\nOur innovation, the HyLighter, is a crossover between drone and airship technology. Like a drone, it is easily controllable and transportable. And, like an airship, it is extremely energy-efficient, enabling it to fly for up to 10 hours at slow speed (22mph) for optimal data collection which represents a range of 220miles. \r\n\r\nToday, energy infrastructure operators struggle with conducting inspections that are simultaneously: massive and precise. HyLight offers a solution to precisely detect issues on the infrastructure at an industrial scale, and all of this without emitting GHGs.\r\n\r\nWe are 3 co-founders experienced in hardware and energy companies with Masters in Mechanical Engineering, Computer Science and Business from the best Engineering and Business School in France.\r\n\r\nWe have manufactured 20 HyLighter and are deploying across Europe.",
+  "one_liner": "Unmanned airships for inspecting our critical assets",
+  "team_size": 37,
+  "industry": "Industrials",
+  "subindustry": "Industrials -> Climate",
+  "launched_at": 1687803555,
+  "tags": [
+    "Hydrogen Energy",
+    "B2B",
+    "Climate",
+    "Energy",
+    "Aerospace"
+  ],
+  "tags_highlighted": [],
+  "top_company": false,
+  "isHiring": true,
+  "nonprofit": false,
+  "batch": "Summer 2023",
+  "status": "Active",
+  "industries": [
+    "Industrials",
+    "Climate"
+  ],
+  "regions": [
+    "France",
+    "Europe"
+  ],
+  "stage": "Early",
+  "app_video_public": false,
+  "demo_day_video_public": true,
+  "app_answers": null,
+  "question_answers": false,
+  "url": "https://www.ycombinator.com/companies/hylight",
+  "api": "https://prajjwal2-3.github.io/yc-data/batches/summer-2023/hylight.json"
+}

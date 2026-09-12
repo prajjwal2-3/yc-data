@@ -1,0 +1,43 @@
+{
+  "id": 30230,
+  "name": "SalesPatriot",
+  "slug": "salespatriot",
+  "former_names": [],
+  "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c55eb595eb8712daeb02c69afcc09007bcb63c4f.png",
+  "website": "https://www.salespatriot.com/",
+  "all_locations": "San Francisco, CA, USA",
+  "long_description": "SalesPatriot is a back-office operating system for distributors and OEMS. We build custom AI workflows for sales and supply chain teams to manage procurement, requests for quote and purchase orders.\r\n\r\nIn large orgs that operate as key nodes of the supply chain data is scattered across twelve systems. Quotes get lost and Executives lack visibility. Supply chain workflows are time consuming because data isn't where it needs to be in the format it needs to be.\r\n\r\nEmployees are stuck between their email, ERP, CRM, marketplaces, and spreadsheets instead of winning business and protecting margin.",
+  "one_liner": "AI powered operating system for distributors and OEMs",
+  "team_size": 15,
+  "industry": "B2B",
+  "subindustry": "B2B -> Operations",
+  "launched_at": 1741557589,
+  "tags": [
+    "SaaS",
+    "B2B",
+    "Sales",
+    "AI",
+    "Industrial"
+  ],
+  "tags_highlighted": [],
+  "top_company": false,
+  "isHiring": true,
+  "nonprofit": false,
+  "batch": "Winter 2025",
+  "status": "Active",
+  "industries": [
+    "B2B",
+    "Operations"
+  ],
+  "regions": [
+    "United States of America",
+    "America / Canada"
+  ],
+  "stage": "Early",
+  "app_video_public": false,
+  "demo_day_video_public": false,
+  "app_answers": null,
+  "question_answers": false,
+  "url": "https://www.ycombinator.com/companies/salespatriot",
+  "api": "https://prajjwal2-3.github.io/yc-data/batches/winter-2025/salespatriot.json"
+}
