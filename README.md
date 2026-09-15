@@ -1,7 +1,7 @@
 # YC OSS API
 
 > Forked from [yc-oss/api](https://github.com/yc-oss/api) — all credit to the
-> original authors.
+> original authors. Thanks
 
 <!--start generated readme-->
 
